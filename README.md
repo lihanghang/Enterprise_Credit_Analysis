@@ -7,10 +7,10 @@
     
 ***
 
-# 日常问题记录
+## 问题记录
 
 #### 
-1. 远程代码至temp:git fetch origin master:temp
+1. 远程代码至temp：git fetch origin master:temp
 2. 地代码进行比较： git diff temp
 3. 地代码合并：git merge temp
 4. 本地 temp分支（可选）：git branch -d temp
