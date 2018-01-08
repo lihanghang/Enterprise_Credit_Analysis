@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://localhost/data?useUnicode=true&characterEncoding=UTF-8
+user = root
+password = pass
+devMode = true
