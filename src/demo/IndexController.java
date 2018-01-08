@@ -14,6 +14,9 @@ public class IndexController extends Controller {
 			int page_size = 10;
 			int start_row = 1;
 			String current_page = getPara("current_page");
+			if(current_page==null){
+				current_page = "0"; //如果当前页无法获取则默认为首页
+			}
 			start_row = Integer.parseInt(current_page)*page_size;
 			String sql = "select distinct company_name from  company_news_data limit "+ start_row+","+page_size;
 			
