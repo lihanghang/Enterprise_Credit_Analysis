@@ -1,0 +1,192 @@
+#define company_layout()
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	
+	<!-- start: Meta -->
+	<title>企业信用数据分析平台</title>
+	<meta name="description" content="company_credit">
+	<!-- end: Meta -->
+	<!-- start: CSS -->
+	 <link rel="shortcut icon" href="../resource/own/images/icon.png" />
+	<link rel="stylesheet" href="../resource/assets/css/core.css" />
+	<link rel="stylesheet" href="../resource/assets/css/menu.css" />
+	<link rel="stylesheet" href="../resource/own/css/jquery.dataTables.css" />
+    <link rel="stylesheet" href="../resource/own/css/dataTables.jqueryui.css" />
+	<link rel="stylesheet" href="../resource/assets/css/index.css" />		
+	<link href="../resource/new/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../resource/new/css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link id="base-style" href="../resource/new/css/style.css" rel="stylesheet">
+	<link id="base-style-responsive" href="../resource/new/css/style-responsive.css" rel="stylesheet">	
+
+	<!-- end: CSS -->		
+
+	
+<style type="text/css">
+	.demo{padding: 1em 1px;}
+	a:hover,a:focus{
+		outline: none;
+		text-decoration: none;
+	}
+	.tab .nav-tabs{
+		border: 0px solid #1fc1dd;
+		width:738px;
+		margin-left:200px;
+		overflow-y:auto
+	}
+	.tab .nav-tabs li{
+		margin: 0;
+	}
+	.tab .nav-tabs li a{
+		font-size: 15px;
+		/* color: #999898; */
+		background: #fff;
+		margin: 0;
+		padding: 20px 25px;
+		border-radius: 0;
+		border: none;
+		border-right: 1px solid #ddd;
+ 		text-transform: uppercase;
+		position: relative;
+	}
+	.tab .nav-tabs li a:hover{
+		border-top: none;
+		border-bottom: none;
+		/* border-right-color: #ddd; */
+	}
+	.tab .nav-tabs li.active a,
+	.tab .nav-tabs li.active a:hover{
+		color: black;
+		border: none;
+		background: #fff;
+		border-right: 0px solid #ddd;
+	}
+	.tab .nav-tabs li.active a:before{
+		content: "";
+		width: 58%;
+		height: 1px;
+		background: #fff;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+	.tab .nav-tabs li.active a:after{
+		content: "";
+		border-top: 10px ;
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		position: absolute;
+		bottom: 10px;
+		left: 20%;
+		color:black;
+	}
+	.tab .tab-content{
+		font-size: 14px;
+		
+		line-height: 20px;
+		background: #fff;
+		padding: 10px;
+		/* border: 1px solid; */
+		border-top: none;
+		width:720px;
+		margin-left:200px;
+		font-wight:800px;
+		
+	
+	}
+	.tab .tab-content h3{
+		font-size: 24px;
+		color: #999898;
+		margin-top: 1;
+	}
+	@media only screen and (max-width: 500px){
+		.tab .nav-tabs li{
+			width: 1000px;
+			text-align: center;
+		}
+		.tab .nav-tabs li.active a,
+		.tab .nav-tabs li.active a:after,
+		.tab .nav-tabs li.active a:hover{
+			border: none;
+		}
+	}
+</style>		
+		
+		
+</head>
+<body>
+		<!-- start: Header -->
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="container-fluid">
+			<div class="logo">分析平台LOGO</div>
+				<a class="btn btn-navbar"></a>
+				<span class="brand">企业信用数据分析平台</span>
+				<span class="foreign">Qi&nbsp&nbsp&nbspYe&nbspXin&nbspYong&nbsp&nbspShu&nbspJu&nbspFen&nbspXi&nbspPing&nbspTai</span>												
+				 <div class="nav-no-collapse header-nav">
+					<ul class="nav pull-right">
+					</ul>
+				</div>					
+			</div>
+		</div>
+	</div>
+	<!-- end: Header -->
+<!-- start: Main Menu -->
+			<div id="sidebar-left" class="span2">
+				<div class="nav-collapse sidebar-nav">
+					<ul class="nav nav-tabs nav-stacked main-menu">
+						<li>
+							<a class="dropmenu" ><i class="icon-align-justify"></i><span class="hidden-tablet">企业概况</span><span class="label label-important"></span></a>
+							<ul>
+								<li><a class="submenu" href="./?name=${name}"><i class=""></i><span class="children"><span  class="hidden-tablet"> 基本信息</span></span></a></li>
+								<li><a class="submenu" href="./relate?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet">公司关系</span></span></a></li>
+								<!-- <li><a class="submenu" href="submenu3.html"><i class=""></i><span class="hidden-tablet"> Sub Menu 3</span></a></li> -->
+							</ul>	
+						</li>
+						<li>
+							<a class="dropmenu" ><i class="icon-star"></i><span class="hidden-tablet">企业信用分析</span><span class="label label-important"></span></a>
+							<ul>
+								<li><a class="submenu" href="./credit?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet"> 税务、负债、资信</span></span></a></li>
+							</ul>	
+						</li>
+						<li>
+							<a class="dropmenu" ><i class="icon-calendar"></i><span class="hidden-tablet">企业发展分析</span><span class="label label-important"></span></a>
+							<ul>
+								<li><a class="submenu" href="./status?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet"> 所处行业发展分析</span></span></a></li>
+								<li><a class="submenu" href="./develop?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet"> 业务经营发展分析</span></span></a></li>
+								<!-- <li><a class="submenu" href="submenu3.html"><i class=""></i><span class="hidden-tablet"> Sub Menu 3</span></a></li> -->
+							</ul>	
+						</li>
+						<li>
+							<a class="dropmenu" ><i class="icon-picture"></i><span class="hidden-tablet">财务分析</span><span class="label label-important"></span></a>
+							<ul>
+								<li><a class="submenu" href="./basic_financial?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet">财务指标分析</span></span></a></li>
+								<li><a class="submenu" href="./financial_report?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet"> 财务报表分析</span></span></a></li>
+							</ul>	
+						</li>
+						<li>
+							<a class="dropmenu" ><i class="icon-book"></i><span class="hidden-tablet">企业新闻</span></a>
+							<ul>
+								<li><a class="submenu" href="./news?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet">公司新闻</span></span></a></li>
+<%-- 								<li><a class="submenu" href="./company/financial_report?name=${name}"><i class=""></i><span class="children"><span class="hidden-tablet"> 财务报表分析</span></span></a></li>
+ --%>							</ul>	
+						</li>
+
+					</ul>
+				</div>
+			</div>
+	
+	#@main()
+		<footer>
+
+		<p style = "text-align:center; padding:1px">
+			<span >版权所有2017-2018&copy;  <a href="http://ccip.ucas.ac.cn/" alt="Bootstrap_Metro_Dashboard">UCAS_CCIP实验室</a></span>
+			
+		</p>
+
+	</footer>
+</body>
+</html>
+#end

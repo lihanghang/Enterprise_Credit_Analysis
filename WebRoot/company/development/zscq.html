@@ -1,0 +1,346 @@
+#@company_info()
+#define main_content()
+
+      <div class="content qqq">
+  
+<div class="sy_info">
+
+<div class="sy_info_right">
+
+ <div class="sy_gsxx" >
+ 
+
+</div>
+<p id="lable"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>商标信息</p>
+<table id ="data" class="table table-bordered" style="margin:5px auto;width:80%">
+                    <thead>
+                        <tr>
+                            <th width="10%">申请日期</th>
+       						<th><span>商标名称</span></th>
+       						<th width="15%">注册号</th>
+       						<th>类别</th>
+       						<th>流程状态</th>     
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable"></tbody>   
+ </table>
+<div class="clear">
+<p id="lable1"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>专利信息</p>
+<table id ="data1" class="table table-bordered" style="margin:5px auto;width:80%">
+                    <thead>
+                        <tr>
+                            <th width="10%">申请公布日</th>
+       						<th><span>专利名称</span></th>
+       						<th width="15%">申请号</th>
+       						<th>申请公布号</th>
+       						 
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable1"></tbody>   
+ </table>
+</div>
+<div class="clear">
+<p id="lable2"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>软件著作权信息</p>
+<table id ="data2" class="table table-bordered" style="margin:5px auto;width:80%">
+                    <thead>
+                        <tr>
+                            <th width="10%">批准日期</th>
+       						<th><span>软件全程</span></th>
+       						<th width="15%">软件简称</th>
+       						<th>登记号</th>
+       						<th>分类号</th>     
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable2"></tbody>   
+ </table>
+</div>
+<div class="clear">
+<p id="lable3"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>作品著作权信息</p>
+<table id ="data3" class="table table-bordered" style="margin:5px auto;width:80%">
+                    <thead>
+                        <tr>
+                            <th width="10%">作品名称</th>
+       						<th><span>登记号</span></th>
+       						<th width="15%">类别</th>
+       						<th>创作完成日期</th>
+       						<th>登记日期</th>    
+       						<th>首次发布日期</th>     
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable3"></tbody>   
+ </table>
+</div>
+<div class="clear">
+<p id="lable4"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>网站备案信息</p>
+<table id ="data4" class="table table-bordered" style="margin:5px auto;width:80%">
+                    <thead>
+                        <tr>
+                            <th width="10%">审核时间</th>
+       						<th><span>网站名称</span></th>
+       						<th width="15%">网站首页</th>
+       						<th>域名</th>
+       						<th>备案号</th>  
+       						<th>状态</th>  
+       						<th>单位性质</th>     
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable4"></tbody>   
+ </table>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div></div>
+
+
+<script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
+ <script type='text/javascript' src='../resource/tab/js/bootstrap.min.js'></script>
+
+<script src="../resource/own/vince/js/getParam.js"></script>
+ <script type="text/javascript">
+
+ $.ajax({
+        "url": "./Iproperty?name="+getParam('name'),      //路径
+        "type": "GET",              //POST方式提交
+        "dataType": "json",          //json格式，重要
+        "contentType": "application/json",      //json格式                            
+        success: function (data) {
+            //成功处理
+            var len = -1;
+        for(var key in data){
+            len++
+        }
+        if(len == -1){
+            
+            lable.style.display = "none";
+            document.getElementById('data').style.display='none';
+
+        }
+        else
+            createShowingTable(data)  //调用动态创建表格函数
+        },
+        error: function (x, e) {  //异常处理
+        }
+    });
+ //动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+ function createShowingTable(data) {  
+     //获取后台传过来的jsonData,并进行解析                
+     //此处需要让其动态的生成一个table并填充数据  
+     var tableStr = "";
+     var len = 0;//信用评级个数
+     //var len = data.length;  //获取列表长度（公司数量）
+    
+     for (var key in data) {
+         
+         console.log(data[key][1])   
+        tableStr = tableStr + "<tr><td>"+data[key][0]
+                 + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
+                 + "<td>" + data[key][2] + "</td>"  
+                 + "<td>" + data[key][3] + "</td>"  
+                 + "<td>" +data[key][4] + "</td></tr>"; 
+     
+     }
+    
+     //将动态生成的table添加的事先隐藏的div中.  
+     $("#dataTable").html(tableStr);  
+ }  
+ 
+//专利信息异步请求
+ $.ajax({
+     "url": "./zhuanli?name="+getParam('name'),      //路径
+ 
+     "type": "GET",              //POST方式提交
+     "dataType": "json",          //json格式，重要
+     "contentType": "application/json",      //json格式                            
+     success: function (data) {
+         //成功处理
+         var len = -1;
+     for(var key in data){
+         len++
+     }
+     if(len == -1){
+         
+         lable.style.display = "none";
+         document.getElementById('data').style.display='none';
+
+     }
+     else
+         createShowingTable1(data)  //调用动态创建表格函数
+     },
+     error: function (x, e) {  //异常处理
+     }
+ });
+//动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+function createShowingTable1(data) {  
+  //获取后台传过来的jsonData,并进行解析                
+  //此处需要让其动态的生成一个table并填充数据  
+  var tableStr = "";
+  var len = 0;//信用评级个数
+  //var len = data.length;  //获取列表长度（公司数量）
+ 
+  for (var key in data) {
+      
+      console.log(data[key][1])   
+     tableStr = tableStr + "<tr><td>"+data[key][0]
+              + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
+              + "<td>" + data[key][2] + "</td>"  
+              + "<td>" +data[key][3] + "</td></tr>"; 
+  
+  }
+ 
+  //将动态生成的table添加的事先隐藏的div中.  
+  $("#dataTable1").html(tableStr);  
+}  
+
+//软件著作权数据
+
+$.ajax({
+    "url": "./softWare?name="+getParam('name'),      //路径
+ 
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) {
+        //成功处理
+        var len = -1;
+    for(var key in data){
+        len++
+    }
+    if(len == -1){
+        
+        lable.style.display = "none";
+        document.getElementById('data').style.display='none';
+
+    }
+    else
+        createShowingTable2(data)  //调用动态创建表格函数
+    },
+    error: function (x, e) {  //异常处理
+    }
+});
+//动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+function createShowingTable2(data) {  
+ //获取后台传过来的jsonData,并进行解析                
+ //此处需要让其动态的生成一个table并填充数据  
+ var tableStr = "";
+ var len = 0;//信用评级个数
+ //var len = data.length;  //获取列表长度（公司数量）
+
+ for (var key in data) {
+     
+     console.log(data[key][1])   
+    tableStr = tableStr + "<tr><td>"+data[key][0]
+             + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
+             + "<td>" + data[key][2] + "</td>"  
+             + "<td>" + data[key][3] + "</td>"  
+             + "<td>" +data[key][4] + "</td></tr>"; 
+ 
+ }
+
+ //将动态生成的table添加的事先隐藏的div中.  
+ $("#dataTable2").html(tableStr);  
+}  
+
+//作品著作权
+
+$.ajax({
+    "url": "./book?name="+getParam('name'),      //路径
+ 
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) {
+        //成功处理
+        var len = -1;
+    for(var key in data){
+        len++
+    }
+    if(len == -1){
+        
+        lable.style.display = "none";
+        document.getElementById('data').style.display='none';
+
+    }
+    else
+        createShowingTable3(data)  //调用动态创建表格函数
+    },
+    error: function (x, e) {  //异常处理
+    }
+});
+//动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+function createShowingTable3(data) {  
+ //获取后台传过来的jsonData,并进行解析                
+ //此处需要让其动态的生成一个table并填充数据  
+ var tableStr = "";
+ var len = 0;//信用评级个数
+ //var len = data.length;  //获取列表长度（公司数量）
+
+ for (var key in data) {
+     
+     console.log(data[key][1])   
+    tableStr = tableStr + "<tr><td>"+data[key][0]
+             + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
+             + "<td>" + data[key][2] + "</td>"  
+             + "<td>" + data[key][3] + "</td>" 
+             + "<td>" + data[key][4] + "</td>"  
+             + "<td>" +data[key][5] + "</td></tr>"; 
+ 
+ }
+
+ //将动态生成的table添加的事先隐藏的div中.  
+ $("#dataTable3").html(tableStr);  
+}  
+
+
+//网站备案
+$.ajax({
+    "url": "./web?name="+getParam('name'),      //路径
+ 
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) {
+        //成功处理
+        var len = -1;
+    for(var key in data){
+        len++
+    }
+    if(len == -1){
+        
+        lable.style.display = "none";
+        document.getElementById('data').style.display='none';
+
+    }
+    else
+        createShowingTable4(data)  //调用动态创建表格函数
+    },
+    error: function (x, e) {  //异常处理
+    }
+});
+//动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+function createShowingTable4(data) {  
+ //获取后台传过来的jsonData,并进行解析                
+ //此处需要让其动态的生成一个table并填充数据  
+ var tableStr = "";
+ var len = 0;//信用评级个数
+ //var len = data.length;  //获取列表长度（公司数量）
+
+ for (var key in data) {
+     
+     console.log(data[key][1])   
+     tableStr = tableStr + "<tr><td>"+data[key][0]
+             + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
+             + "<td>" + data[key][2] + "</td>"  
+             + "<td>" + data[key][3] + "</td>"  
+             + "<td>" + data[key][4] + "</td>"  
+             + "<td>" + data[key][5] + "</td>"  
+             + "<td>" +data[key][6] + "</td></tr>"; 
+ 
+ }
+
+ //将动态生成的table添加的事先隐藏的div中.  
+ $("#dataTable4").html(tableStr);  
+}  
+</script>
+ #end

@@ -1,0 +1,258 @@
+#define company_info()
+<!DOCTYPE html>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=10">
+  <title>企业信用分析查询</title>
+   <link rel="shortcut icon" href="../resource/own/images/icon.png" />
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <link rel="stylesheet" href="../resource/own/bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="../resource/own/dist/css/ionicons.min.css">
+  <link rel="stylesheet" href="../resource/own/css/jquery.dataTables.css" />
+   <link rel="stylesheet" href="../resource/own/css/dataTables.jqueryui.css" />
+  <link rel="stylesheet" href="../resource/own/dist/css/AdminLTE.css">
+  <link rel="stylesheet" href="../resource/own/dist/css/skins/_all-skins.css">
+  <link rel="stylesheet" href="../resource/own/vince/css/vince.css">
+  <link rel="stylesheet" href="../resource/own/vince/biao/css/font-awesome.min.css">
+</head>
+
+<!-- add select color @Mason -->
+ <style type="text/css">
+  .content-wrapper option { 	
+  	background-color:#ddd; 
+  }
+  
+   #year option { 	
+  	background-color:#ddd;
+  }
+  
+  
+  </style>
+
+
+<body class="hold-transition skin-blue sidebar-mini">
+
+
+
+<div class="wrapper">
+  <header class="main-header">
+   <!--  <a href="#" class="logo">
+      <span class="logo-mini">
+	  <img src="../resource/own/vince/images/v01.png">
+	  </span>
+      <span class="logo-lg"><img src="../resource/own/vince/images/v01.png">金融</span>
+    </a> -->
+
+      <!-- <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button"></a> -->
+     <a href="../"> <span class="all_title">企业信用分析查询系统</span></a>
+<!--     <div class="navbar-custom-menu">
+          <ul class="nav navbar-nav">
+      <li class="dropdown user user-menu">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <img src="../resource/own/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+              <span style="top:-9px;">姓名:张小五 ||<small>部门：信息部</small></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li class="user-header">
+                <img src="../resource/own/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                <p>
+                  
+                  
+                </p>
+              </li>
+              <li class="user-footer">
+                <div class="pull-right">
+                  <a href="login.html" class="btn btn-default btn-flat">退出系统</a>
+                </div>
+              </li>
+            </ul>
+          </li>
+        
+        </ul>
+        
+      </div>  -->
+    
+  </header>
+  <aside class="main-sidebar">
+    <section class="sidebar">
+      <!-- <div class="user-panel">
+        <div class="pull-left image">
+          <img src="../resource/own/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+        </div>
+        <div class="pull-left info">
+          <p>#(company_name)</p>
+		  <p class="menu_time">
+          时间：<span id="nowTime"></span></p>
+        </div>
+      </div> -->
+
+      <ul class="sidebar-menu">
+      <!--   <li class="header">菜单 MENU</li>
+ -->        
+         <li class="treeview" " >
+          <a href="#">
+            <i class="fa fa-home"></i>
+            <span>公司基本信息</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu" id="menu_1"  style="display:none;" >
+            <li><a href="" id="gsxx"><i class="fa fa-bookmark"></i>工商信息</a></li>
+            <li><a href="" id="swxx"><i class="fa fa-bookmark"></i>税务信息</a></li>
+            <li><a href="" id="gdxx"><i class="fa fa-bookmark"></i> 股东</a></li>
+            <li><a href="" id="qygx"><i class="fa fa-bookmark"></i> 企业关系</a></li>
+            <li><a href="" id="dwtz"><i class="fa fa-bookmark"></i> 对外投资</a></li>
+            <li><a href="" id="sjfx"><i class="fa fa-bookmark"></i> 司法-经营风险</a></li>
+          </ul>
+        </li>
+        
+         <li class="treeview" >
+          <a href="#">
+            <i class="fa fa-line-chart"></i>
+            <span>公司经营发展</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu" id="menu_2"  style="display:none;">
+            <li><a href="" id="business"><i class="fa fa-bookmark"></i>公司业务</a></li>
+            <li><a href="" id  ="product"><i class="fa fa-bookmark"></i>主要产品</a></li>
+            <li><a href="" id="finance"><i class="fa fa-bookmark"></i>融资历史</a></li>
+            <li><a href="" id="zscq"><i class="fa fa-bookmark"></i>知识产权</a></li>
+          </ul>
+        </li>
+        
+        <li>
+          <a href="" id="cwbb">
+            <i class="fa fa-file-text" ></i> <span>企业财务报表</span>
+          </a>
+        </li>        
+        
+        <li>
+          <a href="" id="credit">
+            <i class="fa fa-magnet"></i> <span>信用等级评估</span>
+          </a>
+        </li> 
+               
+        <li>
+          <a href="" id="warning">
+            <i class="fa fa-bell"></i> <span>贷后管理预警</span>
+          </a>
+        </li> 
+        
+           
+        <li>
+          <a href="" id="industry">
+            <i class="fa fa-eye"></i> <span>行业动态分布预测</span>
+          </a>
+        </li>
+        <li>
+          <a href="" id ="R&D">
+            <i class="fa fa-pie-chart" ></i> <span>科研投入推荐</span>
+          </a>
+        </li>
+        <li>
+          <a href="" id="financeRiskPredict">
+            <i class="fa fa-warning"></i> <span>金融风险预测</span>
+          </a>
+        </li>
+      </ul>
+    </section
+    >
+  </aside>
+  <div class="content-wrapper">
+  
+    <section class="content-header">    
+     
+        <i class="fa fa-tachometer" aria-hidden="true"><a href="../"><span  style="margin-top:-10px;font-family:楷体;font-weight:900;font-size:15px"  id="nav_text">返回系统首页</span></a><a href="./companyList">》公司列表</a> </i>  
+        <p  id="time1" style="color: #2b2b2b;float:right;margin-right:20px;font-family:楷体;font-weight:900;font-size:14px"></p>
+     
+      <!-- <span style="float:right;margin-top:10px;margin-right:20px;">时间:#(currentDate)</span>     -->
+    </section>
+#@main_content()
+ <footer class="main-footer">
+    <div class="pull-right hidden-xs"><b></b></div>
+    <strong>Copyright&copy;2017-2018 <a href="http://ccip.ucas.ac.cn/">CCIP实验室</a></strong>
+  </footer>
+  <div class="control-sidebar-bg"></div>
+</div>
+<script src="../resource/own/plugins/jQuery/jquery-2.2.3.min.js"></script>
+<script src="../resource/own/bootstrap/js/bootstrap.min.js"></script>
+<script src="../resource/own/dist/js/app.min.js"></script>
+
+<script src="../resource/own/vince/js/nicescroll.js"></script>
+<script src="../resource/own/vince/drag/zxx.drag.1.0.js"></script>
+<script src="../resource/own/dist/js/demo.js"></script>
+<script src="../resource/own/vince/js/demo.js"></script>
+<script src="../resource/own/js/jquery.cookie.js"></script>
+<div id="sss" style="display:none;height:200px;width:200px;"></div>
+<script src="../resource/own/vince/js/getParam.js"></script>
+<script type="text/javascript">
+	
+		var name = getParam('name');
+		document.getElementById("swxx").href="taxInfo?name="+name+"&index=0";
+		document.getElementById("gsxx").href="index?name="+name+"&index=0";
+		document.getElementById("gdxx").href="shareHold?name="+name+"&index=0";
+		document.getElementById("qygx").href="Ehtml?name="+name+"&index=0";
+		document.getElementById("dwtz").href="invest?name="+name+"&index=0";
+		document.getElementById("sjfx").href="riskHtml?name="+name+"&index=0";
+		
+		
+		document.getElementById("cwbb").href="financial?name="+name;
+		document.getElementById("zscq").href="knowRight?name="+name+"&index=1";
+		document.getElementById("product").href="product?name="+name+"&index=1";
+		document.getElementById("business").href="business?name="+name+"&index=1";
+		document.getElementById("finance").href="finance?name="+name+"&index=1";
+		
+		document.getElementById("credit").href="creditPredict?name="+name;
+		document.getElementById("warning").href="warning?name="+name;
+		document.getElementById("industry").href="industry?name="+name;
+		document.getElementById("R&D").href="RD?name="+name;
+		document.getElementById("financeRiskPredict").href="financeRiskPredict?name="+name;
+		/* var CURRENT_URL = window.location.href.split('?')[0];		
+		CURRENT_URL_ARR=CURRENT_URL.split("/",6);
+		console.log(CURRENT_URL_ARR);
+		for (i=0;i<CURRENT_URL_ARR.length ;i++ ){
+			TEM_URL = CURRENT_URL_ARR.join(",");
+			TEM_URL = TEM_URL.replace(/,/g,"/");
+			$('.sidebar-menu').find('a').filter(function () {
+			 return this.href ==TEM_URL+"/";
+			}).parent('li').addClass('active').parent('ul').css("display","block").parent('li').addClass('active');
+			CURRENT_URL_ARR.pop();
+		} */
+		
+		
+        
+	       //获取系统时间
+	       function mytime(){
+		        var a = new Date();
+		        var b = a.toLocaleTimeString();
+		        var c = a.toLocaleDateString();
+		        document.getElementById("time1").innerHTML = c+"&nbsp&nbsp"+b;
+		        
+		        }
+			
+		    setInterval(function() {mytime()},1000);
+		
+		/*
+		二级菜单不收缩0123
+		*/ 
+		var searchURL = window.location.search;
+		console.log(searchURL);
+		if(searchURL.indexOf("index") > 0){
+			var status = searchURL.split("&")[1].split("=")[1];
+            var sub_menu1 = document.getElementById("menu_1");  
+            var sub_menu2 = document.getElementById("menu_2");  
+            console.log(status);
+            if(status == "0")  
+                sub_menu1.style.display = "block";
+            if(status == "1")
+            	sub_menu2.style.display = "block";
+            	}
+
+</script>
+</body>
+</html>
+#end

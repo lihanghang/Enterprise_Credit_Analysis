@@ -1,0 +1,144 @@
+#@layout()
+#define main()
+
+                <!-- Start of Header -->
+         <div class="header-wrapper">
+               <header>
+                   <div class="container">                                      
+                       <span class="tag-line"><a  style="color:black;"href="../">企业信用分析查询系统</a></span>
+                   </div>
+                </header>
+   <div class="select">
+	 <ul class="select">
+		<li class="select-list">
+			<dl id="select1">
+				<dt>上装：</dt>
+				<dd class="select-all selected"><a href="#">全部</a></dd>
+				<dd><a href="#">针织衫</a></dd>
+				<dd><a href="#">毛呢外套</a></dd>
+				<dd><a href="#">T恤</a></dd>
+				<dd><a href="#">羽绒服</a></dd>
+				<dd><a href="#">棉衣</a></dd>
+				<dd><a href="#">卫衣</a></dd>
+				<dd><a href="#">风衣</a></dd>
+			</dl>
+		</li>
+		<li class="select-list">
+			<dl id="select2">
+				<dt>裤装：</dt>
+				<dd class="select-all selected"><a href="#">全部</a></dd>
+				<dd><a href="#">牛仔裤</a></dd>
+				<dd><a href="#">小脚/铅笔裤</a></dd>
+				<dd><a href="#">休闲裤</a></dd>
+				<dd><a href="#">打底裤</a></dd>
+				<dd><a href="#">哈伦裤</a></dd>
+			</dl>
+		</li>
+		<li class="select-list">
+			<dl id="select3">
+				<dt>裙装：</dt>
+				<dd class="select-all selected"><a href="#">全部</a></dd>
+				<dd><a href="#">连衣裙</a></dd>
+				<dd><a href="#">半身裙</a></dd>
+				<dd><a href="#">长袖连衣裙</a></dd>
+				<dd><a href="#">中长款连衣裙</a></dd>
+			</dl>
+		</li>
+		<li class="select-result">
+			<dl>
+				<dt>已选条件：</dt>
+				<dd class="select-no">暂时没有选择过滤条件</dd>
+			</dl>
+		</li>
+	</ul>
+
+
+
+
+
+				</div>
+             </div>
+                <div class="page-container">
+                       <div class="container">
+                                
+
+                                     
+                                       
+<table id="example" class="display" cellspacing="0" width="100%" style="">
+                    <thead>
+                        <tr>
+                            <th>公司</th>                          
+                            <th>地区</th>
+                            <th>企业状态</th>
+                            <th>注册时间</th>
+                            <th>注册资本</th>
+                       </tr>
+                    </thead>
+ 
+ 				 <tbody id="dataTable"></tbody>  
+		 
+      </table>
+                     </div>                        
+                </div>
+
+                <a href="#top" id="scroll-top"></a>
+           <!-- script -->
+           <script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
+           <script type='text/javascript' src='../resource/index/js/jquery-1.8.3.min.js'></script>
+           <script type='text/javascript' src='../resource/own/js/jquery.dataTables.js'></script>
+           <script type="text/javascript" src="../resource/own/js/script.js"></script>
+           <script type="text/javascript">
+                 $(document).ready(function() {
+                     $('#example').dataTable( {
+                    	 "pagingType":   "full_numbers",
+                    	 "autoWidth": true,
+                         "jQueryUI": true,
+                         
+                         language: {
+                        	 "sProcessing": "处理中...",
+                         "oPaginate": {                       	 
+                             "sFirst": "首页",
+                             "sPrevious": "上页",
+                             "sNext": "下页",
+                             "sLast": "末页"
+                         	}
+                         },
+                         "oAria": {
+                             "sSortAscending": ": 以升序排列此列",
+                             "sSortDescending": ": 以降序排列此列"
+                         }
+                     } );
+                 } );
+                 var companyInfo = []; 
+                 $.ajax({
+                	    "url": "../dataJson",      //路径
+                	    "cache": false,              //不缓存
+                	    "async": false,               //异步
+                	    "type": "GET",              //POST方式提交
+                	    "dataType": "json",          //json格式，重要
+                	    "contentType": "application/json",      //json格式               	            
+                	    success: function (data) { //成功处理
+                	    	createShowingTable(data)  //调用动态创建表格函数
+                	    },
+                	    error: function (x, e) {  //异常处理
+                	    }
+                	});
+                 //动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+                 function createShowingTable(data) {  
+                     //获取后台传过来的jsonData,并进行解析                
+                     //此处需要让其动态的生成一个table并填充数据  
+                     var tableStr = "";  
+                     var len = data.company_name.length;  //获取列表长度（公司数量）
+                     console.log(len)
+                     for (var i = 0; i < len; i++) {  
+                         tableStr = tableStr + "<tr><td><a href=\".?name="+data.company_name[i]+"\">"+ data.company_name[i]
+                                 + "</a> </td>" + "<td text-align='center'>" + data.zone[i].toString().substring(2,0)+ "</td>"  
+                                 + "<td>" + data.status[i].toString().substring(2,0) + "</td>"  
+                                 + "<td>" + data.data[i] + "</td>"  
+                                 + "<td>" + data.capital[i] + "</td></tr>";  
+                     }  
+                     //将动态生成的table添加的事先隐藏的div中.  
+                     $("#dataTable").html(tableStr);  
+                 }  
+                 </script>
+#end

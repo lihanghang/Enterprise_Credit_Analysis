@@ -1,14 +1,17 @@
 /* General ------------------------------------------------------------------------------------------------------------*/
 body {
   background-color: #fff;
+  font-family:kaiti;
+  font-weight:700;
 }
 
 a:hover {
   text-decoration: none;
+  color:#808080;
 }
 
 blockquote {
-  background: whitesmoke url("../images/quote.png") no-repeat 20px 25px;
+  background: whitesmoke url("") no-repeat 20px 25px;
   border: 1px solid #e8e8e8;
   padding: 20px 20px 20px 60px;
   color: #6f7579;
@@ -33,17 +36,26 @@ blockquote p {
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 /* Header - Logo and Nav ---------------------------------------------------------------------------------------------*/
 .header-wrapper {
-  background-color: #3b4348;
+  background-color: #ffffff;
   width: 100%;
   height: auto;
+  color:black;
+
 }
 .header-wrapper .container {
   position: relative;
   min-height: 60px;
+  width: 100%;   
   height: auto !important;
-  height: 60px;
+   border:1px solid;
 }
-
+.header-wrapper .select {
+  position: relative;
+  margin:0px auto;
+  height:200px;
+  border:1px solid #ffff00;
+  width:59%;
+}
 .logo-container {
   padding: 19px 0;
 }
@@ -56,15 +68,15 @@ blockquote p {
 }
 
 span.tag-line {
-  color: #ffffff;
-  font-size: 40px;
-  margin-left:340px;
-  /* position: relative; */
-  top: 2px;
+  color: #000000;
+  font-size: 50px;
+  position: relative; 
+  padding-left:700px;
+  top: 10px;
 }
 
 .logo-heading {
-  color: #fff;
+  color: #000000;
   font-weight: 600;
   display: inline;
   margin-right: 15px;
@@ -341,57 +353,7 @@ a img.aligncenter {
   visibility: visible;
 }
 
-/* Comments ----------------------------------------------------------------------------------------------------------*/
-.commentlist {
-  list-style: none;
-  margin: 0;
-  border-bottom: 1px solid #F2F2F2;
-}
-.commentlist > li.comment:first-child {
-  border-top: none;
-}
-.commentlist li.comment {
-  border: none;
-  border-top: 1px solid #F2F2F2;
-  list-style: none;
-  margin: 10px 0 0;
-  padding: 20px 0 0;
-}
-.commentlist li.comment article {
-  *zoom: 1;
-  padding-bottom: 20px;
-}
-.commentlist li.comment article:before, .commentlist li.comment article:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.commentlist li.comment article:after {
-  clear: both;
-}
-.commentlist li.comment .children {
-  margin-left: 70px;
-}
 
-li.comment > article .avatar {
-  background: #fff;
-  float: left;
-  margin: 0px 10px 10px 0;
-  position: relative;
-  z-index: 1;
-  -webkit-border-radius: 60px;
-  -moz-border-radius: 60px;
-  border-radius: 60px;
-}
-
-#respond .allowed-tags code {
-  background-color: transparent;
-  border: none;
-  white-space: pre-wrap;
-}
-#respond form label {
-  font-weight: bold;
-}
 
 /* Page - Sidebar ----------------------------------------------------------------------------------------------------*/
 .page-content {
@@ -1274,6 +1236,7 @@ a#scroll-top:hover {
   .logo-container {
     text-align: center;
     padding: 10px 0;
+
   }
   .logo-container img {
     display: block;
@@ -1281,7 +1244,7 @@ a#scroll-top:hover {
   }
 
   span.tag-line {
-    color: #818a90;
+    color: #ffffff;
     font-size: 12px;
     display: block;
     text-align: center;

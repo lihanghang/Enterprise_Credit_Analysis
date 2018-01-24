@@ -13,8 +13,9 @@ public class Company extends Model<Company>{
 	//private static final long serialVersionUID = 1L;
     // 声明一个全局操作的变量
     public final static Company dao = new Company();
-    public Page<Company> paginate(int pageNumber, int pageSize, String company) {
-		return paginate(pageNumber, pageSize,"SELECT * ","FROM company_news_data WHERE company_name = ?",company);
+    public Page<Company> paginate(int pageNumber, int pageSize) {
+    	//index 分页
+    	return dao.paginate(pageNumber, pageSize, "select company_name", "from company_news_data group by company_name");
 	}
     public List<Company> news(String a,String b,int news_id) {
 		return news("SELECT news_title,content,news_type,publish_data,source ","FROM company_news_data WHERE id = ?",news_id);

@@ -1,0 +1,91 @@
+#@company_info()
+#define main_content()
+      <div class="content qqq">
+  
+<div class="sy_info">
+
+<div class="sy_info_right">
+
+ <div class="sy_gsxx" >
+ 
+
+</div>
+
+<div class="clear">
+<p id="info" style="text-align:center; font-weight:900;font-size:25px"></p>
+<p id="lable"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>融资信息</p>
+<table id ="data" class="table table-bordered" style="margin:5px auto;width:70%">
+                    <thead >
+                        <tr>
+                            <th>时间</th>
+       						<th>轮次</th>
+       						<th>估值</th>
+       						<th>金额</th>    
+       						<th>比例</th>    
+       						<th>投资方</th>    
+       						<th>新闻来源</th>          					
+                       </tr>
+                    </thead>
+ 				 <tbody id="dataTable"></tbody>   
+ </table>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div></div>
+<script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
+<script src="../resource/own/vince/js/getParam.js"></script>
+ <script type="text/javascript">
+
+ $.ajax({
+        "url": "./financeData?name="+getParam('name'),      //路径
+        "cache": false,              //不缓存
+        "async": true ,               //异步
+        "type": "GET",              //POST方式提交
+        "dataType": "json",          //json格式，重要
+        "contentType": "application/json",      //json格式                            
+        success: function (data) {
+            //成功处理
+            var len = -1;
+        for(var key in data){
+            len++
+        }
+        if(len == -1){
+            
+            lable.style.display = "none";
+            document.getElementById('data').style.display='none';
+            document.getElementById("info").innerText=getParam('name')+"||暂未收录融资历史！";
+        }
+        else
+            createShowingTable(data)  //调用动态创建表格函数
+        },
+        error: function (x, e) {  //异常处理
+        }
+    });
+ //动态的创建一个table，同时将后台获取的数据动态的填充到相应的单元格  
+ function createShowingTable(data) {  
+     //获取后台传过来的jsonData,并进行解析                
+     //此处需要让其动态的生成一个table并填充数据  
+     var tableStr = "";
+     var len = 0;//信用评级个数
+     //var len = data.length;  //获取列表长度（公司数量）
+    
+     for (var key in data) {
+         
+         console.log(data[key][1])   
+        tableStr = tableStr + "<tr><td>"+data[key][0]
+                 + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>" 
+                 + "<td>" + data[key][2] + "</td>"  
+                 + "<td>" + data[key][3] + "</td>"  
+                 + "<td>" + data[key][4] + "</td>"
+                 + "<td>" + data[key][5] + "</td>"  
+                 + "<td>" +data[key][6] + "</td></tr>"; 
+     
+     }
+    
+     //将动态生成的table添加的事先隐藏的div中.  
+     $("#dataTable").html(tableStr);  
+ }  
+</script>
+ #end
