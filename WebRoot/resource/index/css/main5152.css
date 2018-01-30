@@ -52,9 +52,10 @@ blockquote p {
 .header-wrapper .select {
   position: relative;
   margin:0px auto;
-  height:200px;
-  border:1px solid #ffff00;
-  width:59%;
+  height:300px;
+  border:0px solid #c0c0c0;
+  width:77%;
+  font-size:15px;
 }
 .logo-container {
   padding: 19px 0;
@@ -72,7 +73,7 @@ span.tag-line {
   font-size: 50px;
   position: relative; 
   padding-left:700px;
-  top: 10px;
+  top: 20px;
 }
 
 .logo-heading {
@@ -234,6 +235,7 @@ form.search-form input.search-btn:hover {
 /* Page - Container --------------------------------------------------------------------------------------------------*/
 .page-container {
   width: 100%;
+  font-size:17px;
 }
 .page-container > .container {
   padding: 40px 35px;

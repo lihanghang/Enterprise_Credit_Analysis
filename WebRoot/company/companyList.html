@@ -5,43 +5,49 @@
          <div class="header-wrapper">
                <header>
                    <div class="container">                                      
-                       <span class="tag-line"><a  style="color:black;"href="../">企业信用分析查询系统</a></span>
+                       <span class="tag-line"><a  style="color:black;margin-top:10px;"href="../">企业信用分析查询系统</a></span>
                    </div>
                 </header>
    <div class="select">
 	 <ul class="select">
 		<li class="select-list">
 			<dl id="select1">
-				<dt>上装：</dt>
+				<dt>查找范围  |  </dt>
 				<dd class="select-all selected"><a href="#">全部</a></dd>
-				<dd><a href="#">针织衫</a></dd>
-				<dd><a href="#">毛呢外套</a></dd>
-				<dd><a href="#">T恤</a></dd>
-				<dd><a href="#">羽绒服</a></dd>
-				<dd><a href="#">棉衣</a></dd>
-				<dd><a href="#">卫衣</a></dd>
-				<dd><a href="#">风衣</a></dd>
+				<dd><a href="#">企业名称</a></dd>
+				<dd><a href="#">法人/股东/高管</a></dd>
+				<dd><a href="#">联系地址</a></dd>
 			</dl>
 		</li>
 		<li class="select-list">
 			<dl id="select2">
-				<dt>裤装：</dt>
+				<dt>注册资本  |  </dt>
 				<dd class="select-all selected"><a href="#">全部</a></dd>
-				<dd><a href="#">牛仔裤</a></dd>
-				<dd><a href="#">小脚/铅笔裤</a></dd>
-				<dd><a href="#">休闲裤</a></dd>
-				<dd><a href="#">打底裤</a></dd>
-				<dd><a href="#">哈伦裤</a></dd>
+				<dd><a href="#">50万以下</a></dd>
+				<dd><a href="#">50-100万以下</a></dd>
+				<dd><a href="#">100万-500万</a></dd>
+				<dd><a href="#">500万-1000万</a></dd>
+				<dd><a href="#">1000万以上</a></dd>
+				<dd><a href="#">1亿以上</a></dd>
 			</dl>
 		</li>
 		<li class="select-list">
 			<dl id="select3">
-				<dt>裙装：</dt>
+				<dt>成立年限   | </dt>
 				<dd class="select-all selected"><a href="#">全部</a></dd>
-				<dd><a href="#">连衣裙</a></dd>
-				<dd><a href="#">半身裙</a></dd>
-				<dd><a href="#">长袖连衣裙</a></dd>
-				<dd><a href="#">中长款连衣裙</a></dd>
+				<dd><a href="#">1年以下</a></dd>
+				<dd><a href="#">1-3年</a></dd>
+				<dd><a href="#">3-5年</a></dd>
+				<dd><a href="#">5-10年</a></dd>
+				<dd><a href="#">10年以上</a></dd>
+			</dl>
+		</li>
+		<li class="select-list">
+			<dl id="select4">
+				<dt>区域行业   |  </dt>
+				<dd class="select-all selected"><a href="#">全部</a></dd>
+				<dd><a href="#">区域</a></dd>
+				<dd><a href="#">行业</a></dd>
 			</dl>
 		</li>
 		<li class="select-result">
@@ -68,10 +74,10 @@
                     <thead>
                         <tr>
                             <th>公司</th>                          
-                            <th>地区</th>
+                            <th>按地区排序</th>
                             <th>企业状态</th>
-                            <th>注册时间</th>
-                            <th>注册资本</th>
+                            <th>按注册时间排序</th>
+                            <th>按注册资本排序</th>
                        </tr>
                     </thead>
  
@@ -109,8 +115,7 @@
                          }
                      } );
                  } );
-                 var companyInfo = []; 
-                 $.ajax({
+                $.ajax({
                 	    "url": "../dataJson",      //路径
                 	    "cache": false,              //不缓存
                 	    "async": false,               //异步

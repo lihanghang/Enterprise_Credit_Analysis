@@ -40,14 +40,14 @@ public class CompanyController extends Controller {
 		     "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>"+ 
 		     "PREFIX base:<http://ccip.ucas.ac.cn/resource#>"+ 
 		     "PREFIX enterprise:<http://ccip.ucas.ac.cn/ontology/company#>";
-	    String filePath = "D://work/project_finance/basic_data/rdf_data/100/test20/";	    
+	    String filePath = "A://work/project_finance/basic_data/rdf_data/100/test20/";	    
 		OntModel ontModel = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
 		
 		public void index() throws BiffException, IOException{
 			String company = getPara("name","UTF-8");
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			String time = sdf.format(new Date());
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -100,12 +100,14 @@ public class CompanyController extends Controller {
 		}
 		
 		public void companyList(){
+			String company = getPara("keyword");
 			render("companyList.html");
+			System.out.print(company);
 		}
 		public void taxInfo() throws BiffException, IOException{
 			
 			String company = getPara("name");		
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/公司信息税务负债偿还借款人资信1.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/公司信息税务负债偿还借款人资信1.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -139,7 +141,7 @@ public class CompanyController extends Controller {
 		
 		public void taxGrade() throws BiffException, IOException{
 			String company = getPara("name");		
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/公司信息税务负债偿还借款人资信1.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/公司信息税务负债偿还借款人资信1.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -208,7 +210,7 @@ public class CompanyController extends Controller {
 		//股东数据0117
 		public void shareHoldData() throws BiffException, IOException{
 			String company = getPara("name");		
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -271,7 +273,7 @@ public class CompanyController extends Controller {
 //				catch (Exception e){
 //					
 //				}
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -309,7 +311,7 @@ public class CompanyController extends Controller {
 		public void investData() throws IOException, BiffException{
 			
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -359,7 +361,7 @@ public class CompanyController extends Controller {
 		public void riskData() throws IOException, BiffException
 		{
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/展示数据/经营-司法风险/司法风险.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/展示数据/经营-司法风险/司法风险.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -397,7 +399,7 @@ public class CompanyController extends Controller {
 		public void admniData() throws IOException, BiffException
 		{
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/展示数据/经营-司法风险/经营风险.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/展示数据/经营-司法风险/经营风险.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -657,7 +659,7 @@ public class CompanyController extends Controller {
 		public void financialData() throws BiffException, IOException{
 			
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/financial.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/financial.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -721,7 +723,7 @@ public class CompanyController extends Controller {
 			
 			
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -760,7 +762,7 @@ public void zhuanli() throws BiffException, IOException{
 			
 			
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -799,7 +801,7 @@ public void softWare() throws BiffException, IOException{
 	
 	
 	String company = getPara("name");
-	String filePath = "D://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
+	String filePath = "A://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
 	Workbook rwb = null;        
     FileInputStream stream = new FileInputStream(filePath);
 	rwb = Workbook.getWorkbook(stream);
@@ -838,7 +840,7 @@ public void book() throws BiffException, IOException{
 	
 	
 	String company = getPara("name");
-	String filePath = "D://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
+	String filePath = "A://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
 	Workbook rwb = null;        
     FileInputStream stream = new FileInputStream(filePath);
 	rwb = Workbook.getWorkbook(stream);
@@ -877,7 +879,7 @@ public void  web() throws BiffException, IOException{
 	
 	
 	String company = getPara("name");
-	String filePath = "D://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
+	String filePath = "A://work/project_finance/basic_data/excel_data_finance/知识产权.xls";
 	Workbook rwb = null;        
     FileInputStream stream = new FileInputStream(filePath);
 	rwb = Workbook.getWorkbook(stream);
@@ -921,7 +923,7 @@ public void  web() throws BiffException, IOException{
 			
 			
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/所有爬取数据/经营状况/经营状况-产品信息.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/所有爬取数据/经营状况/经营状况-产品信息.xls";
 			Workbook rwb = null;        
 		    FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -961,7 +963,7 @@ public void  web() throws BiffException, IOException{
 		}
 		public void businessData() throws BiffException, IOException{
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/所有爬取数据/企业发展/企业发展-企业业务.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/所有爬取数据/企业发展/企业发展-企业业务.xls";
 			Workbook rwb = null;        
 		    FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -999,7 +1001,7 @@ public void  web() throws BiffException, IOException{
 		}
 		public void financeData() throws BiffException, IOException{
 			String company = getPara("name");
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/所有爬取数据/企业发展/企业发展-融资历史.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/所有爬取数据/企业发展/企业发展-融资历史.xls";
 			Workbook rwb = null;        
 		    FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -1032,7 +1034,6 @@ public void  web() throws BiffException, IOException{
 		}
 	
 		public void creditPredict(){
-			
 			
 			String company = getPara("name");
 			setAttr("company_name", company);

@@ -42,6 +42,20 @@ $(document).ready(function(){
 		}
 	});
 	
+	$("#select4 dd").click(function () {
+		$(this).addClass("selected").siblings().removeClass("selected");
+		if ($(this).hasClass("select-all")) {
+			$("#selectD").remove();
+		} else {
+			var copyThisD = $(this).clone();
+			if ($("#selectD").length > 0) {
+				$("#selectD a").html($(this).text());
+			} else {
+				$(".select-result dl").append(copyThisD.attr("id", "selectD"));
+			}
+		}
+	});
+	
 	
 	$("#selectA").live("click", function () {
 		$(this).remove();
@@ -56,6 +70,11 @@ $(document).ready(function(){
 	$("#selectC").live("click", function () {
 		$(this).remove();
 		$("#select3 .select-all").addClass("selected").siblings().removeClass("selected");
+	});
+	
+	$("#selectD").live("click", function () {
+		$(this).remove();
+		$("#select4 .select-all").addClass("selected").siblings().removeClass("selected");
 	});
 	
 	

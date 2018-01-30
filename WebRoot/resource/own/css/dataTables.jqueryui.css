@@ -252,11 +252,16 @@ table.dataTable td {
   float: left;
 }
 .dataTables_wrapper .dataTables_filter {
-  float: right;
+  float: left;
   text-align: right;
+  
 }
 .dataTables_wrapper .dataTables_filter input {
   margin-left: 0.5em;
+  width:700px;
+  margin-top:10px;
+  height:35px;
+  border:2px solid  #c0c0c0;
 }
 .dataTables_wrapper .dataTables_info {
   clear: both;

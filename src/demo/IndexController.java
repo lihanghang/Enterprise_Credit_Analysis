@@ -16,6 +16,8 @@ import java.util.List;
 
 import java.util.Map;
 
+import javax.servlet.http.HttpServletRequest;
+
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.read.biff.BiffException;
@@ -33,6 +35,8 @@ public class IndexController extends Controller {
 			/*
 			 * 数据库调用
 			 */
+			
+			
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			String time = sdf.format(new Date());
 //			String sql = "select distinct company_name from  company_news_data";			
@@ -43,7 +47,7 @@ public class IndexController extends Controller {
 		
 		//封装数据
 		public void  dataJson() throws BiffException, IOException{
-			String filePath = "D://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);

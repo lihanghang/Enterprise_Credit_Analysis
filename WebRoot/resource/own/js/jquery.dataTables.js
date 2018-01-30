@@ -4201,14 +4201,14 @@
 				'class': classes.sFilter
 			} )
 			.append( $('<label/>' ).append( str ) );
-	
-		var searchFn = function() {
+		//搜索框
+		var searchFn = function(e) {
 			/* Update all other filter input elements for the new display */
 			var n = features.f;
 			var val = !this.value ? "" : this.value; // mental IE8 fix :-(
 	
 			/* Now do the filter */
-			if ( val != previousSearch.sSearch ) {
+			if ( val != previousSearch.sSearch && e.keyCode == 13) {
 				_fnFilterComplete( settings, {
 					"sSearch": val,
 					"bRegex": previousSearch.bRegex,
@@ -10161,7 +10161,7 @@
 		 *      } );
 		 *    } );
 		 */
-		"aLengthMenu": [ 20, 30, 40, 50],
+		"aLengthMenu": [ 10, 20, 30, 40],
 	
 	
 		/**
@@ -11185,7 +11185,7 @@
 		 *      } );
 		 *    } )
 		 */
-		"iDisplayLength": 20,
+		"iDisplayLength": 10,
 	
 	
 		/**
@@ -11455,9 +11455,9 @@
 			 *          "info": "Showing page _PAGE_ of _PAGES_"
 			 *        }
 			 *      } );
-			 *    } );
+			 *    } );85，
 			 */
-			"sInfo": "显示 _START_ 至 _END_ ，共 _TOTAL_ 家收录企业",
+			"sInfo": "已为您找到 _TOTAL_ 条符合条件的企业.",
 	
 	
 			/**
@@ -11478,7 +11478,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sInfoEmpty": "暂时未收录改公司……",
+			"sInfoEmpty": "无法为您搜索到这家公司……",
 	
 	
 			/**
@@ -11500,7 +11500,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sInfoFiltered": "(从_MAX_家企业检索)",
+			"sInfoFiltered": "(从_MAX_家企业为您搜索)",
 	
 	
 			/**
@@ -11618,7 +11618,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sLengthMenu": "每页显示 _MENU_ 家企业",
+			"sLengthMenu": "",
 	
 	
 			/**
@@ -11698,7 +11698,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sSearch": "公司检索：",
+			"sSearch": "搜索",
 	
 	
 			/**
@@ -11709,7 +11709,7 @@
 			 *  @dtopt Language
 			 *  @name DataTable.defaults.language.searchPlaceholder
 			 */
-			"sSearchPlaceholder": "",
+			"sSearchPlaceholder": "输入企业成立时间、资本、地区等关键字……。按回车键显示结果！",
 	
 	
 			/**

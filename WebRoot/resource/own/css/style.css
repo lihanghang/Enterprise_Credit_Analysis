@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-*{margin:0;padding:0;list-style-type:none;}
+*{margin:0;padding:0;list-style-type:none;font-family:kaiti;font-weight:700；color:black;}
 
 a,img{border:0;}
 body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
@@ -12,10 +12,10 @@ body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
 .select dl:after{content:" ";display:block;clear:both;height:0;overflow:hidden}
 .select dt{width:100px;margin-bottom:5px;position:absolute;top:0;left:-100px;text-align:right;color:#666;height:24px;line-height:24px}
 .select dd{float:left;display:inline;margin:0 0 5px 5px;}
-.select a{display:inline-block;white-space:nowrap;height:24px;padding:0 10px;text-decoration:none;color:#039;border-radius:2px;}
-.select a:hover{color:#f60;background-color:#f3edc2}
-.select .selected a{color:#fff;background-color:#f60}
+.select a{display:inline-block;white-space:nowrap;height:24px;padding:0 10px;text-decoration:none;color:#000000;border-radius:2px;}
+.select a:hover{color:#808080;background-color:#f3edc2}
+.select .selected a{color:#000000;background-color:#c0c0c0}
 .select-result dt{font-weight:bold}
 .select-no{color:#999}
-.select .select-result a{padding-right:20px;background:#f60 url("close.gif") right 9px no-repeat}
+.select .select-result a{padding-right:20px;background:#f2f2f2 url("close.gif") right 9px no-repeat}
 .select .select-result a:hover{background-position:right -15px}
