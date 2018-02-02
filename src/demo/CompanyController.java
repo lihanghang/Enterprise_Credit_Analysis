@@ -829,7 +829,7 @@ public void softWare() throws BiffException, IOException{
 		row++;				
 	} 		  
 		String SFjson = JsonKit.toJson(hm); //封装为JSON数据格式，提供至前台使用	
-		System.out.print(SFjson);
+		System.out.print("数量"+hm.size());
 		renderJson(SFjson);
 	
 	

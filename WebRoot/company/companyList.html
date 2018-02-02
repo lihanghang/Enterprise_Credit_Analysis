@@ -74,10 +74,11 @@
                     <thead>
                         <tr>
                             <th>公司</th>                          
-                            <th>按地区排序</th>
+                            <th>地区排序</th>
                             <th>企业状态</th>
-                            <th>按注册时间排序</th>
-                            <th>按注册资本排序</th>
+                            <th>注册时间排序</th>
+                            <th>注册资本排序</th>
+                            <th>信用评级排序</th>
                        </tr>
                     </thead>
  
@@ -140,7 +141,9 @@
                                  + "</a> </td>" + "<td text-align='center'>" + data.zone[i].toString().substring(2,0)+ "</td>"  
                                  + "<td>" + data.status[i].toString().substring(2,0) + "</td>"  
                                  + "<td>" + data.data[i] + "</td>"  
-                                 + "<td>" + data.capital[i] + "</td></tr>";  
+                                 + "<td>" + data.capital[i] +"</td>"
+                                 + "<td>" + "60"+"</td></tr>";  	
+                                 
                      }  
                      //将动态生成的table添加的事先隐藏的div中.  
                      $("#dataTable").html(tableStr);  

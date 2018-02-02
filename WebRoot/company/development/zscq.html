@@ -40,7 +40,7 @@
  </table>
 </div>
 <div class="clear">
-<p id="lable2"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>软件著作权信息</p>
+<p id="lable2"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>软件著作权信息<span id="SW" style="color:blue"></span></p>
 <table id ="data2" class="table table-bordered" style="margin:5px auto;width:80%">
                     <thead>
                         <tr>
@@ -89,9 +89,9 @@
 </div>
 </div>
 <div class="clear"></div>
-</div>
-
 </div></div>
+
+</div>
 
 
 <script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
@@ -230,13 +230,16 @@ function createShowingTable2(data) {
  for (var key in data) {
      
      console.log(data[key][1])   
-    tableStr = tableStr + "<tr><td>"+data[key][0]
+     tableStr = tableStr + "<tr><td>"+data[key][0]
              + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
              + "<td>" + data[key][2] + "</td>"  
              + "<td>" + data[key][3] + "</td>"  
              + "<td>" +data[key][4] + "</td></tr>"; 
+             len++;
  
  }
+ document.getElementById("SW").innerText="("+len+")";
+ //console.log("*******************"+len);
 
  //将动态生成的table添加的事先隐藏的div中.  
  $("#dataTable2").html(tableStr);  
@@ -331,7 +334,7 @@ function createShowingTable4(data) {
      console.log(data[key][1])   
      tableStr = tableStr + "<tr><td>"+data[key][0]
              + "</td>" + "<td text-align='center'>" + data[key][1]+ "</td>"  
-             + "<td>" + data[key][2] + "</td>"  
+             + "<td> <a href='http://"  + data[key][2]+ "'>" +  data[key][2] +"</a></td>"  
              + "<td>" + data[key][3] + "</td>"  
              + "<td>" + data[key][4] + "</td>"  
              + "<td>" + data[key][5] + "</td>"  

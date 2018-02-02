@@ -17,7 +17,7 @@
  
 
 <p id="lable"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>财务报表<span id='typeInfo'></span></p>
-	<table  onload="years()" class="table table-bordered" style="width:80%;margin:5px auto; border: 1px solid black; ">
+	<table   class="table table-bordered" style="width:60%;margin:5px auto; border: 1px solid black; ">
   
     <tr>
       <td>
@@ -31,13 +31,9 @@
 <!-- <select style="color:000" id="hourEnd"   onchange="getDate()">  
     	<option value="unselected">财务报表类型选择</option>        
  </select>   --></td>
-      <td>
-      <select id="year"  onchange="change()"  class="selectpicker" >  
-        <option value="0">2015</option>  
-        <option value="1">2014</option>  
-        <option value="2">2013</option>  
- 	 </select>
- 	 </td>
+      <td>2013年</td>
+      <td>2014年</td>
+      <td>2015年</td>
     </tr>
   <tbody id="item"></tbody>
 </table>
@@ -60,8 +56,8 @@ $(function(){
 	
  function change(){
 	  var Index = 0;
-	  Index = document.getElementById("year").selectedIndex;
-	  var type = document.getElementById("year").options[Index].text;
+	
+	
 	  var  typeIndex = document.getElementById("type").selectedIndex;//财报报表类型索引
 	  var tableType = document.getElementById("type").options[typeIndex].text  
 	  console.log("current:"+Index);
@@ -130,7 +126,9 @@ $.ajax({
     	 //console.log("^^^^^^^^^"+index);
      while(i<len && i>=end) { 	
         tableStr = tableStr + "<tr><td>"+data["key"][i] 
-                 + "<td>" + data[year][i]+ "</td></tr>"; 
+                 + "<td>" + data[2013][i]+ "</td>"
+                 + "<td>" + data[2014][i]+ "</td>"
+                 + "<td>" + data[2015][i]+ "</td></tr>"; 
         i++;
       }
      //将动态生成的table添加的事先隐藏的div中.  

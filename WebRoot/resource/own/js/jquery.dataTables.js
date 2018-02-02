@@ -4202,13 +4202,13 @@
 			} )
 			.append( $('<label/>' ).append( str ) );
 		//搜索框
-		var searchFn = function(e) {
+		var searchFn = function() {
 			/* Update all other filter input elements for the new display */
 			var n = features.f;
 			var val = !this.value ? "" : this.value; // mental IE8 fix :-(
 	
 			/* Now do the filter */
-			if ( val != previousSearch.sSearch && e.keyCode == 13) {
+			if ( val != previousSearch.sSearch) {
 				_fnFilterComplete( settings, {
 					"sSearch": val,
 					"bRegex": previousSearch.bRegex,
