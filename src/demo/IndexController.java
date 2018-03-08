@@ -33,7 +33,7 @@ public class IndexController extends Controller {
 	
 		public void index() throws BiffException, IOException{
 			/*
-			 * Êı¾İ¿âµ÷ÓÃ
+			 * ï¿½ï¿½ï¿½İ¿ï¿½ï¿½ï¿½ï¿½
 			 */
 			
 			
@@ -45,9 +45,9 @@ public class IndexController extends Controller {
 			render("index.html");
 		}	
 		
-		//·â×°Êı¾İ
+		//ï¿½ï¿½×°ï¿½ï¿½ï¿½ï¿½
 		public void  dataJson() throws BiffException, IOException{
-			String filePath = "A://work/project_finance/basic_data/excel_data_finance/±ê×¼Êı¾İ/2018-1-4ĞĞÒµ·ÖÀà/123.xls";
+			String filePath = "A://work/project_finance/basic_data/excel_data_finance/æ ‡å‡†æ•°æ®/2018-1-4è¡Œä¸šåˆ†ç±»/123.xls";
 			Workbook rwb = null;        
 	        FileInputStream stream = new FileInputStream(filePath);
 			rwb = Workbook.getWorkbook(stream);
@@ -73,7 +73,7 @@ public class IndexController extends Controller {
 			map.put("status", status);
 			map.put("data", data);
 			map.put("capital", capital);	
-			String json = JsonKit.toJson(map); //·â×°ÎªJSONÊı¾İ¸ñÊ½£¬Ìá¹©ÖÁÇ°Ì¨Ê¹ÓÃ	
+			String json = JsonKit.toJson(map); //ï¿½ï¿½×°ÎªJSONï¿½ï¿½ï¿½İ¸ï¿½Ê½ï¿½ï¿½ï¿½á¹©ï¿½ï¿½Ç°Ì¨Ê¹ï¿½ï¿½	
 			renderJson(json);
 			//System.out.print(map);
 		}

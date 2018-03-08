@@ -11,20 +11,140 @@
 </div>
 
 <div class="clear">
-<p id="lable"  style="text-align: center;padding: 0 20px;font-size:20px;"><strong>#(company_name)</strong>科研投入推荐模型</p>
-<table  id ="grade" border="1" style="margin:5px auto;text-align:center;line-height:40px;width:80%">
- 
-     <thead>
-     <tr>
-      <td width="10%">年份</td>
-       <td><span>纳税评级</span></td>
-       <td width="15%">类型</td>
-       <td>纳税人识别号</td>
-       <td>评级单位</td>     
-     </tr>
-     </thead>
-     <tbody id="item"></tbody>
-   </table>
+<p id="lable"  style="text-align: center;padding: 0 20px;font-size:30px;"><strong>#(company_name)</strong>科研投入信息及智能推荐</p>
+<!-- <div style="padding: 50px 30px 10px;">
+	<form class="bs-example bs-example-form" role="form">
+		<div class="input-group">
+			<span class="input-group-addon">科研投入和</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">科研收入占营业收入比例</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">本科及以上学历人数</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">员工人数</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">软著总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">专利总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">商标总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">作品总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">网站总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<div class="input-group">
+			<span class="input-group-addon">利润总计</span>
+			<input type="text" class="form-control">
+					
+		</div>
+		<br>
+	</form>
+</div> -->
+<form class="form-horizontal" role="form">
+	<div class="form-group">
+		<label for="firstname" class="col-sm-2 control-label">科 研 投 入 和( 金额  )</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="firstname" 
+				   placeholder="请输入科研投入和">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">科研收入占营业收入比例</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入科研收入占营业收入比例">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">本科及以上学历人数</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入本科及以上学历人数">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">员工人数</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入员工人数">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">软著总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入软著总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">专利总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入专利总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">商标总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入商标总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">作品总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入作品总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">网站总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入网站总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="lastname" class="col-sm-2 control-label">利润总计</label>
+		<div class="col-sm-10">
+			<input type="text" class="form-control" id="lastname" 
+				   placeholder="请输入利润总计">
+		</div>
+	</div>
+	<div class="form-group">
+		<div class="col-sm-offset-2 col-sm-10">
+			<button type="button" id = "btn" class="btn btn-default" style="margin-left:500px;font-size:20px;font-weight:700">开始智能分析</button>
+			
+		</div>
+	</div>
+</form>
 </div>
 </div>
 <div class="clear"></div>
@@ -33,6 +153,7 @@
 </div></div>
 <script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
 <script src="../resource/own/vince/js/getParam.js"></script>
+
  <script type="text/javascript">
  /* $.ajax({
 	    "url": "./taxGrade?name="+getParam('name'),      //路径
