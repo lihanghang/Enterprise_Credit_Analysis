@@ -84,7 +84,7 @@
                         <li><a href="#price">关于系统</a></li>
                         <!-- <li><a href="#business">Business</a></li>
                         <li><a href="#contact">Contact</a></li> -->
-                        <li id="login"><a href="#">登录</a></li>
+                        <li><a href="./company/login.html">登录</a></li>
                     </ul>
 
                 </div><!-- /.navbar-collapse -->
@@ -109,16 +109,14 @@
                                              
 				
 								<div class="input-group">
-								<!-- <form name="loginform" method="POST" id="loginform" action=""> -->
+								<form name="loginform" method="POST" id="loginform" action="startUse">
                                    <!--  <input type="text" name="keyWord" class="form-control" placeholder="公司名称、法人、其他关键字"> -->
-                                <a href="./company/companyList">   <input type="submit" class="form-control" value="开始使用" "></a> 
-                                   <!--  <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部"> -->
-                                
-                                  
-                                  <!-- </form> -->
+                               	 	<input type="submit" class="form-control" value="开始使用"> 
+                                   <!--  <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部"> -->                                  
+                                </form> 
                                 </div>
                               
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
  <div class="modal-dialog" role="document">
  <div class="modal-content">
  <div class="modal-header">
@@ -138,13 +136,13 @@
 
  </div>
  <div class="modal-footer">
-  <!-- <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>关闭</button> -->
+  <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>关闭</button>
   <span>未注册？<a href="#" id="reg">前往注册！</a></span>
   <button type="button" id="btn_submit" class="btn btn-primary" data-dismiss="modal"><span class="glyphicon glyphicon-floppy-disk" aria-hidden="true"></span></button>
  </div>
  </div>
  </div>
- </div>
+ </div> -->
 
 				<ul id="oul"></ul>
 			</div>
@@ -707,7 +705,7 @@
         <script src="./resource/isearch/js/modernizr.js"></script>
         <script src="./resource/isearch/js/main.js"></script>
        <script type="text/javascript">
-       function login(loginform){//传入表单参数
+/*        function login(loginform){//传入表单参数
     	    if(loginform.keyWord.value==""){       //验证用户名是否为空
     	        alert("请搜索关键字！");loginform.keyWord.focus();return false;
     	    }
@@ -736,7 +734,7 @@
     	   $("#myModalLabel").text("注册");
     	   $("#btn_submit").text("注册");
     	   $('#myModal').modal();
-    	   });
+    	   }); */
        
    /*     $("#login").click(function () {
     	    $(".modal fade").fadeIn("slow");

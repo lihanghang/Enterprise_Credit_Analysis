@@ -2,6 +2,8 @@ package demo;
 
 
 
+import Interceptor.MyInterceptor;
+
 import com.jfinal.config.Constants;
 import com.jfinal.config.Handlers;
 import com.jfinal.config.Interceptors;
@@ -27,7 +29,7 @@ public class DemoConfig extends JFinalConfig {
   
     public void configRoute(Routes me) { 
     	
-    	me.add("/",IndexController.class);
+    	me.add("/",IndexController.class, "/");
     	me.add("/company", CompanyController.class,"/company"); 
     	
     }  
@@ -38,13 +40,15 @@ public class DemoConfig extends JFinalConfig {
     	
     		DruidPlugin druidPlugin = createDruidPlugin();
 			me.add(druidPlugin);
-			// ÅäÖÃActiveRecord²å¼þ
+			// ï¿½ï¿½ï¿½ï¿½ActiveRecordï¿½ï¿½ï¿½
 			ActiveRecordPlugin arp = new ActiveRecordPlugin(druidPlugin);
-    		arp.addMapping("company_news_data","id", Company.class);	// Ó³Éäcompany_news_data ±íµ½ CompanyÄ£ÐÍ
+    		arp.addMapping("en_user","id", Company.class);	// æ˜ å°„åˆ°ç”¨æˆ·è¡¨
     		me.add(arp);
     }  
   
     public void configInterceptor(Interceptors me) {  
+    	
+    	//me.add(new MyInterceptor());
     }  
     public void configHandler(Handlers me) {  
     }

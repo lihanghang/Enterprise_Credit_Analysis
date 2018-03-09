@@ -93,10 +93,8 @@ public class CompanyController extends Controller {
 	        setAttr("currentDate",time);
 			setAttr("company_name",company);
 			//System.out.print(data);
-			setAttr("data",data);
-//			setAttr("data", params);			
-			render("./basicInfo/index.html");				
-//			qe.close();		
+			setAttr("data",data);		
+			render("./basicInfo/index.html");					
 		}
 		
 		public void companyList(){
@@ -1068,6 +1066,13 @@ public void  web() throws BiffException, IOException{
 			String company = getPara("name");
 			setAttr("company_name", company);
 			render("jrfx.html");
+	
+		}
+		public void userManager(){
+			
+			String company = getPara("name");
+			setAttr("company_name", company);
+			render("userManager.html");
 	
 		}
 		

@@ -209,6 +209,11 @@
             <i class="fa fa-warning"></i> <span>金融风险预测</span>
           </a>
         </li>
+         <li>
+          <a href="" id="userManager">
+            <i class="fa fa-users"></i> <span>用户管理</span>
+          </a>
+        </li>
       </ul>
     </section
     >
@@ -217,7 +222,7 @@
   
     <section class="content-header">    
      
-        <i class="fa fa-tachometer" aria-hidden="true"><a href="../"><span  style="margin-top:-10px;font-family:楷体;font-weight:900;font-size:15px"  id="nav_text">返回系统首页</span></a><a href="./companyList">》公司列表</a> </i>  
+        <i class="fa fa-tachometer" aria-hidden="true"><a href="../"><span  style="margin-top:-10px;font-family:楷体;font-weight:900;font-size:15px"  id="nav_text">返回系统首页</span></a><a href="../startUse">》公司列表</a> </i>  
         <p  id="time1" style="color: #2b2b2b;float:right;margin-right:20px;font-family:楷体;font-weight:900;font-size:14px"></p>
      
       <!-- <span style="float:right;margin-top:10px;margin-right:20px;">时间:#(currentDate)</span>     -->
@@ -262,6 +267,7 @@
 		document.getElementById("industry").href="industry?name="+name;
 		document.getElementById("R&D").href="RD?name="+name;
 		document.getElementById("financeRiskPredict").href="financeRiskPredict?name="+name;
+		document.getElementById("userManager").href="userManager?name="+name;
 		/* var CURRENT_URL = window.location.href.split('?')[0];		
 		CURRENT_URL_ARR=CURRENT_URL.split("/",6);
 		console.log(CURRENT_URL_ARR);

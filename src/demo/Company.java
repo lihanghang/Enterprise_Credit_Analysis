@@ -11,10 +11,10 @@ public class Company extends Model<Company>{
 	 */
 	private static final long serialVersionUID = 1L;
 	//private static final long serialVersionUID = 1L;
-    // ÉùÃ÷Ò»¸öÈ«¾Ö²Ù×÷µÄ±äÁ¿
+    // ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½È«ï¿½Ö²ï¿½ï¿½ï¿½ï¿½Ä±ï¿½ï¿½ï¿½
     public final static Company dao = new Company();
-    public Page<Company> paginate(int pageNumber, int pageSize) {
-    	//index ·ÖÒ³
+/*    public Page<Company> paginate(int pageNumber, int pageSize) {
+    	//index ï¿½ï¿½Ò³
     	return dao.paginate(pageNumber, pageSize, "select company_name", "from company_news_data group by company_name");
 	}
     public List<Company> news(String a,String b,int news_id) {
@@ -22,5 +22,5 @@ public class Company extends Model<Company>{
 	}
     public List<Company> total(String c, String d) {
 		return total ("SELECT count(distinct(company_name)) as total","FROM company_news_data ");
-	}
+	}*/
 }

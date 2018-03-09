@@ -5,7 +5,7 @@
          <div class="header-wrapper">
                <header>
                    <div class="container">                                      
-                       <span class="tag-line"><a  style="color:black;margin-top:10px;"href="../">企业信用分析查询系统</a></span>
+                       <span class="tag-line"><a  style="color:black;margin-top:10px;"href="./">企业信用分析查询系统</a></span>
                    </div>
                 </header>
    <div class="select">
@@ -90,10 +90,10 @@
 
                 <a href="#top" id="scroll-top"></a>
            <!-- script -->
-           <script type='text/javascript' src='../resource/own/js/jquery-2.1.0.js'></script>
-           <script type='text/javascript' src='../resource/index/js/jquery-1.8.3.min.js'></script>
-           <script type='text/javascript' src='../resource/own/js/jquery.dataTables.js'></script>
-           <script type="text/javascript" src="../resource/own/js/script.js"></script>
+           <script type='text/javascript' src='./resource/own/js/jquery-2.1.0.js'></script>
+           <script type='text/javascript' src='./resource/index/js/jquery-1.8.3.min.js'></script>
+           <script type='text/javascript' src='./resource/own/js/jquery.dataTables.js'></script>
+           <script type="text/javascript" src="./resource/own/js/script.js"></script>
            <script type="text/javascript">
                  $(document).ready(function() {
                      $('#example').dataTable( {
@@ -117,7 +117,7 @@
                      } );
                  } );
                 $.ajax({
-                	    "url": "../dataJson",      //路径
+                	    "url": "./dataJson",      //路径
                 	    "cache": false,              //不缓存
                 	    "async": false,               //异步
                 	    "type": "GET",              //POST方式提交
@@ -137,7 +137,7 @@
                      var len = data.company_name.length;  //获取列表长度（公司数量）
                      console.log(len)
                      for (var i = 0; i < len; i++) {  
-                         tableStr = tableStr + "<tr><td><a href=\".?name="+data.company_name[i]+"\">"+ data.company_name[i]
+                         tableStr = tableStr + "<tr><td><a href=\"company/?name="+data.company_name[i]+"\">"+ data.company_name[i]
                                  + "</a> </td>" + "<td text-align='center'>" + data.zone[i].toString().substring(2,0)+ "</td>"  
                                  + "<td>" + data.status[i].toString().substring(2,0) + "</td>"  
                                  + "<td>" + data.data[i] + "</td>"  
