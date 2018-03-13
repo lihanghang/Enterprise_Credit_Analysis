@@ -210,6 +210,11 @@
           </a>
         </li>
          <li>
+          <a href="" id="invest">
+            <i class="fa fa-star"></i> <span>房地产投资潜力指数</span>
+          </a>
+        </li>
+         <li>
           <a href="" id="userManager">
             <i class="fa fa-users"></i> <span>用户管理</span>
           </a>
@@ -228,11 +233,12 @@
       <!-- <span style="float:right;margin-top:10px;margin-right:20px;">时间:#(currentDate)</span>     -->
     </section>
 #@main_content()
+<div>
  <footer class="main-footer">
     <div class="pull-right hidden-xs"><b></b></div>
     <strong>Copyright&copy;2017-2018 <a href="http://ccip.ucas.ac.cn/">CCIP实验室</a></strong>
   </footer>
-  <div class="control-sidebar-bg"></div>
+</div>
 </div>
 <script src="../resource/own/plugins/jQuery/jquery-2.2.3.min.js"></script>
 <script src="../resource/own/bootstrap/js/bootstrap.min.js"></script>
@@ -248,26 +254,28 @@
 <script type="text/javascript">
 	
 		var name = getParam('name');
-		document.getElementById("swxx").href="taxInfo?name="+name+"&index=0";
-		document.getElementById("gsxx").href="index?name="+name+"&index=0";
-		document.getElementById("gdxx").href="shareHold?name="+name+"&index=0";
-		document.getElementById("qygx").href="Ehtml?name="+name+"&index=0";
-		document.getElementById("dwtz").href="invest?name="+name+"&index=0";
-		document.getElementById("sjfx").href="riskHtml?name="+name+"&index=0";
+		document.getElementById("swxx").href="../company/taxInfo?name="+name+"&index=0";
+		document.getElementById("gsxx").href="../company/index?name="+name+"&index=0";
+		document.getElementById("gdxx").href="../company/shareHold?name="+name+"&index=0";
+		document.getElementById("qygx").href="../company/Ehtml?name="+name+"&index=0";
+		document.getElementById("dwtz").href="../company/invest?name="+name+"&index=0";
+		document.getElementById("sjfx").href="../company/riskHtml?name="+name+"&index=0";
 		
 		
-		document.getElementById("cwbb").href="financial?name="+name;
-		document.getElementById("zscq").href="knowRight?name="+name+"&index=1";
-		document.getElementById("product").href="product?name="+name+"&index=1";
-		document.getElementById("business").href="business?name="+name+"&index=1";
-		document.getElementById("finance").href="finance?name="+name+"&index=1";
+		document.getElementById("cwbb").href="../company/financial?name="+name;
+		document.getElementById("zscq").href="../company/knowRight?name="+name+"&index=1";
+		document.getElementById("product").href="../company/product?name="+name+"&index=1";
+		document.getElementById("business").href="../company/business?name="+name+"&index=1";
+		document.getElementById("finance").href="../company/finance?name="+name+"&index=1";
 		
-		document.getElementById("credit").href="creditPredict?name="+name;
-		document.getElementById("warning").href="warning?name="+name;
-		document.getElementById("industry").href="industry?name="+name;
-		document.getElementById("R&D").href="RD?name="+name;
-		document.getElementById("financeRiskPredict").href="financeRiskPredict?name="+name;
-		document.getElementById("userManager").href="userManager?name="+name;
+		document.getElementById("credit").href="../company/creditPredict?name="+name;
+		document.getElementById("warning").href="../company/warning?name="+name;
+		document.getElementById("industry").href="../company/industry?name="+name;
+		document.getElementById("R&D").href="../company/RD?name="+name;
+		document.getElementById("financeRiskPredict").href="../company/financeRiskPredict?name="+name;
+		document.getElementById("userManager").href="../user/index?name="+name;
+		//房地产投资潜力指数页面
+		document.getElementById("invest").href="../industry/index?name="+name;
 		/* var CURRENT_URL = window.location.href.split('?')[0];		
 		CURRENT_URL_ARR=CURRENT_URL.split("/",6);
 		console.log(CURRENT_URL_ARR);
@@ -278,10 +286,7 @@
 			 return this.href ==TEM_URL+"/";
 			}).parent('li').addClass('active').parent('ul').css("display","block").parent('li').addClass('active');
 			CURRENT_URL_ARR.pop();
-		} */
-		
-		
-        
+		} */      
 	       //获取系统时间
 	       function mytime(){
 		        var a = new Date();
@@ -289,10 +294,8 @@
 		        var c = a.toLocaleDateString();
 		        document.getElementById("time1").innerHTML = c+"&nbsp&nbsp"+b;
 		        
-		        }
-			
-		    setInterval(function() {mytime()},1000);
-		
+		        }			
+		    setInterval(function() {mytime()},1000);		
 		/*
 		二级菜单不收缩0123
 		*/ 
@@ -308,7 +311,6 @@
             if(status == "1")
             	sub_menu2.style.display = "block";
             	}
-
 </script>
 </body>
 </html>

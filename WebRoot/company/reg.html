@@ -61,7 +61,7 @@
                         		</div>
                             </div>
                             <div class="form-bottom">
-			                    <form role="form" action="../reg" method="post" class="login-form">
+			                    <form role="form" action="../reg" method="post" class="login-form" name="reguser">
 			                    	<div class="form-group">
 			                    		<label class="sr-only" for="form-username">Username</label>
 			                        	<input type="text" name="username" placeholder="请输入用户名……" class="form-username form-control" id="form-username">
@@ -69,12 +69,34 @@
 			                        <div class="form-group">
 			                        	<label class="sr-only" for="form-password">Password</label>
 			                        	<input type="password" name="password" placeholder="请输入密码……" class="form-password form-control" id="form-password">
-			                        </div>
+			                        </div>			                        
 			                        <div class="form-group">
 			                        	<label class="sr-only" for="form-password">rePassword</label>
 			                        	<input type="password" name="repassword" placeholder="请再次输入密码……" class="form-password form-control" id="form-password">
 			                        </div>
-			                        <button type="submit" class="btn">注册</button>
+			                        <div class="form-group">
+			                        	<label class="sr-only" for="form-password">Password</label>
+			                        	<input type="text" name="email" placeholder="请输入邮箱……" class="form-password form-control" id="form-password">
+			                        </div>
+									<div class="form-group">
+		<label for="name">用户角色选择</label>
+		<select class="form-control" name="type">
+			<option>--请选择角色--</option>
+			<option value="0">管理员</option>
+			<option value="1">普通用户</option>			
+		</select>	
+		<label for="name">用户部门选择</label>
+		<select class="form-control" name="depart">
+			<option>--请选择部门--</option>
+			<option value="0">信贷部</option>
+			<option value="1">风控部</option>
+			<option value="2">服务部</option>
+		</select>		
+	</div>      
+		<div class="form-group">
+			
+	</div>                
+			                        <button type="submit" class="btn" >注册</button>
 			                    </form>
 			                    	<a href="..">>返回首页</a>
 		                    </div>
@@ -109,9 +131,26 @@
         <script src="../resource/login/js/jquery.backstretch.min.js"></script>
         <script src="../resource/login/js/scripts.js"></script>
         
-        <!--[if lt IE 10]>
-            <script src="assets/js/placeholder.js"></script>
-        <![endif]-->
+     
+<script type="text/javascript">
+
+function check(){
+
+	   var username = document.getElementsByName("username");
+	   var passwd = document.getElementsByName("password");
+	   var email = document.getElementByName("email");
+	   var type = document.getElementByName("type");
+	   var depart = document.getElementByName("depart");			 	   
+	   //提交form表单
+	   console.log(depart);
+	   document.reguser.submit();
+
+	   
+	  }
+
+
+</script>
+  
 
     </body>
 

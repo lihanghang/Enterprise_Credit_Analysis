@@ -8,6 +8,8 @@ import java.util.IdentityHashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.catalina.connector.Request;
+
 import sun.security.provider.MD5;
 import jxl.Sheet;
 import jxl.Workbook;
@@ -23,11 +25,11 @@ import com.jfinal.plugin.ehcache.CacheKit;
 
 public class IndexController extends Controller {
 
-	
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		String time = sdf.format(new Date());
 		public void index() throws BiffException, IOException{
 						
-			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-			String time = sdf.format(new Date());
+			
 	        setAttr("currentDate",time);
 			render("index.html");
 		}
@@ -67,9 +69,11 @@ public class IndexController extends Controller {
 		public void reg(){
 			
 			String username = getPara("username");
-	        String pwd = getPara("password"); 
-	        long reg_time = new Date().getTime();
-	        Record user = new Record().set("username", username).set("passwd", pwd).set("reg_time", reg_time); 
+	        String pwd = getPara("password");
+	        String email = getPara("email");
+	        int type = getParaToInt("type"); 
+	        int depart = getParaToInt("depart");	        
+	        Record user = new Record().set("username", username).set("passwd", pwd).set("department", depart).set("email", email).set("type", type).set("reg_time", time); 
 	        Db.save("en_user", user);
 	        redirect("/company/login.html");
 	     

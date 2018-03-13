@@ -13,18 +13,38 @@
 </div>
 
 <div class="clear">
-<p id="info" style="text-align:center; font-weight:900;font-size:25px"></p>
-<p id="lable"  style="text-align: center;padding: 0 20px;font-size:30px;"><strong>用户管理</strong></p>
-<table id ="data" class="table table-bordered" style="margin:5px auto;width:70%">
-                    <thead >
-                        <tr>
-                            <th>名称</th>
-       						<th>行业</th>
-       						<th width="40%">业务</th>      					
-                       </tr>
-                    </thead>
- 				 <tbody id="dataTable"></tbody>   
- </table>
+<table class="table table-bordered">
+	<caption>用户管理</caption>
+	<thead>
+		<tr>
+			<th>编号</th>
+			<th>用户名</th>
+			<th>邮箱</th>
+			<th>部门</th>
+			<th>角色</th>
+			<th>注册时间</th>
+			<th>操作</th>
+		</tr>
+	</thead>
+	<tbody>
+		#for(x : userlst)
+		<tr>
+			<td>#(for.index+1)</td>
+			<td>#(x.username)</td>
+			<td>#(x.email)</td>
+			<td>#(x.department==0?"信贷部":x.department==1?"风控部":"服务部")</td>
+			<td>
+			#(x.type==0?"管理员"
+			:"普通用户")
+			</td>
+			<td>#(x.reg_time)</td>
+			<td><a href="userUpdate/#(x.id)" >修改</a>||<a href="userDel/#(x.id)">删除</a></td>
+		</tr>
+		#end
+	</tbody>
+</table>
+
+</div>
 </div>
 </div>
 <div class="clear"></div>
@@ -35,7 +55,7 @@
 <script src="../resource/own/vince/js/getParam.js"></script>
  <script type="text/javascript">
 
- $.ajax({
+/*  $.ajax({
         "url": "./businessData?name="+getParam('name'),      //路径
         "cache": false,              //不缓存
         "async": true ,               //异步
@@ -79,6 +99,6 @@
     
      //将动态生成的table添加的事先隐藏的div中.  
      $("#dataTable").html(tableStr);  
- }  
+ }   */
 </script>
  #end

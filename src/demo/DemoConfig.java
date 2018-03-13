@@ -28,9 +28,23 @@ public class DemoConfig extends JFinalConfig {
     }  
   
     public void configRoute(Routes me) { 
-    	
+    	/**
+    	 * 首页路由
+    	 */
     	me.add("/",IndexController.class, "/");
-    	me.add("/company", CompanyController.class,"/company"); 
+    	/**
+    	 * 用户管理数据处理路由
+    	 */
+    	me.add("/user", UserController.class);
+    	/**
+    	 * 企业数据信息分析处理路由
+    	 */
+    	me.add("/company", CompanyController.class);
+    	/**
+    	 * 行业数据处理路由地址
+    	 */
+    	me.add("/industry", IndustryController.class);
+
     	
     }  
     public static DruidPlugin createDruidPlugin() {
@@ -40,9 +54,8 @@ public class DemoConfig extends JFinalConfig {
     	
     		DruidPlugin druidPlugin = createDruidPlugin();
 			me.add(druidPlugin);
-			// ����ActiveRecord���
 			ActiveRecordPlugin arp = new ActiveRecordPlugin(druidPlugin);
-    		arp.addMapping("en_user","id", Company.class);	// 映射到用户表
+    		arp.addMapping("en_user","id", User.class);	// 映射到用户表
     		me.add(arp);
     }  
   

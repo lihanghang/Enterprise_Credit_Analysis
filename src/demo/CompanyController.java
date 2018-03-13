@@ -1,7 +1,6 @@
 package demo;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -10,11 +9,9 @@ import java.util.HashMap;
 import java.util.IdentityHashMap;
 import java.util.List;
 import java.util.Map;
-
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.read.biff.BiffException;
-
 import org.apache.jena.ontology.OntModel;
 import org.apache.jena.ontology.OntModelSpec;
 import org.apache.jena.query.Query;
@@ -25,7 +22,6 @@ import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.RDFNode;
-
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
 import com.jfinal.plugin.activerecord.Db;
@@ -1066,13 +1062,6 @@ public void  web() throws BiffException, IOException{
 			String company = getPara("name");
 			setAttr("company_name", company);
 			render("jrfx.html");
-	
-		}
-		public void userManager(){
-			
-			String company = getPara("name");
-			setAttr("company_name", company);
-			render("userManager.html");
 	
 		}
 		
