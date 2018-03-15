@@ -78,13 +78,11 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#home">系统首页</a></li>
-                        <li><a href="#features">VIP会员</a></li>
-                        <li><a href="#service">合作渠道</a></li>
-                        <li><a href="#price">关于系统</a></li>
-                        <!-- <li><a href="#business">Business</a></li>
-                        <li><a href="#contact">Contact</a></li> -->
-                        <li><a href="./company/login.html">登录</a></li>
+                        <li class="active"><a href="#home"></a></li>
+                        <li><a href="#">企业信息查询</a></li>
+                        <li><a href="#">智能化分析</a></li>
+                        <li><a href="./user/login.html">用户登录</a></li>
+                        <li><a href="admin/">系统后台入口</a></li>
                     </ul>
 
                 </div><!-- /.navbar-collapse -->
@@ -101,7 +99,7 @@
                                 <div class="home-content">
 
                                     <h1>企业信用分析</h1>
-                                    <p><!-- 企业基本信用查询、智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
+                                    <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
 
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
@@ -110,40 +108,11 @@
 				
 								<div class="input-group">
 								<form name="loginform" method="POST" id="loginform" action="startUse">
-                                   <!--  <input type="text" name="keyWord" class="form-control" placeholder="公司名称、法人、其他关键字"> -->
-                               	 	<input type="submit" class="form-control" value="开始使用"> 
-                                   <!--  <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部"> -->                                  
+                                   <input type="text" name="keyWord" class="form-control" placeholder="公司名称、法人、其他关键字"> -->
+                               	 	<input type="submit" class="form-control" value="查询"> 
+                                  <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
                                 </form> 
                                 </div>
-                              
-<!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
- <div class="modal-dialog" role="document">
- <div class="modal-content">
- <div class="modal-header">
-  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-  <h4 class="modal-title" id="myModalLabel">用户登录</h4>
- </div>
- <div class="modal-body">
- 
-  <div class="form-group">
-  <label for="txt_departmentname">用户名</label>
-  <input type="text" name="txt_departmentname" class="form-control" id="txt_departmentname" placeholder="输入用户名">
-  </div>
-  <div class="form-group">
-  <label for="txt_parentdepartment">密码</label>
-  <input type="text" name="txt_parentdepartment" class="form-control" id="txt_parentdepartment" placeholder="输入密码">
-  </div>
-
- </div>
- <div class="modal-footer">
-  <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span>关闭</button>
-  <span>未注册？<a href="#" id="reg">前往注册！</a></span>
-  <button type="button" id="btn_submit" class="btn btn-primary" data-dismiss="modal"><span class="glyphicon glyphicon-floppy-disk" aria-hidden="true"></span></button>
- </div>
- </div>
- </div>
- </div> -->
-
 				<ul id="oul"></ul>
 			</div>
 
@@ -163,133 +132,7 @@
             </div>
         </header>
 
-        <!-- Sections -->
- <!--        <section id="features" class="features sections">
-            <div class="container">
-                <div class="row">
-                    <div class="main_features_content2">
-
-                        <div class="col-sm-6">
-                            <div class="single_features_left text-center">
-                                <img src="isearch/images/feature-2.jpg" alt="" />
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 margin-top-60">
-                            <div class="single_features_right ">
-                                <h2>OUR PRODUCT</h2>
-                                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
-                                <ul>
-                                    <li>Quisque volutpat mattis eros.</li>
-                                    <li>Nullam malesuada erat ut turpis.</li>
-                                    <li>Suspendisse urna nibh.</li>
-                                </ul>
-                                <div class="features_buttom">
-                                    <a href="" class="btn btn-default">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section> --><!--End of Features 2 Section -->
-      <!--   <section id="features" class="features sections">
-            <div class="container">
-                <div class="row">
-                    <div class="main_features_content2">
-
-
-
-                        <div class="col-sm-6 margin-top-60">
-                            <div class="single_features_right ">
-                                <h2>PRODUCT DESCRIPTIONS</h2>
-                                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
-                                <ul>
-                                    <li>Quisque volutpat mattis eros.</li>
-                                    <li>Nullam malesuada erat ut turpis.</li>
-                                    <li>Suspendisse urna nibh.</li>
-                                </ul>
-                                <div class="features_buttom">
-                                    <a href="" class="btn btn-default">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="single_features_left text-center">
-                                <img src="isearch/images/feature-1.jpg" alt="" />
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section> --><!--End of Features 2 Section -->
-
-
-       <!--  <section id="service" class="service2 sections lightbg">
-            <div class="container">
-                <div class="row">
-                    <div class="main_service2">
-                        <div class="head_title text-center">
-                            <h2>SERVICES WE PROVIDE</h2>
-                            <p>condimentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
-                        </div>
-
-                        <div class="service_content">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="single_service2">
-                                    <div class="single_service_left">
-                                        <img src="isearch/images/flaticon1.png" alt="" />
-                                    </div>
-                                    <div class="single_service_right">
-                                        <h2>Branding</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="single_service2">
-                                    <div class="single_service_left">
-                                        <img src="isearch/images/flaticon2.png" alt="" />
-                                    </div>
-                                    <div class="single_service_right">
-                                        <h2>Branding</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="single_service2">
-                                    <div class="single_service_left">
-                                        <img src="isearch/images/flaticon3.png" alt="" />
-                                    </div>
-                                    <div class="single_service_right">
-                                        <h2>Branding</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="single_service2">
-                                    <div class="single_service_left">
-                                        <img src="isearch/images/flaticon4.png" alt="" />
-                                    </div>
-                                    <div class="single_service_right">
-                                        <h2>Branding</h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --><!-- End of Service2 Section -->		
-
-
-
-        <!-- Sections -->
+       <!-- Sections -->
         <section id="price" class="price sections">
 
 
@@ -623,6 +466,9 @@
                                     <h5>快速链接</h5>
                                     <ul>
                                         <li><a href="http://ccip.ucas.ac.cn/"><!-- <i class="fa fa-facebook"></i> -->系统维护</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="admin/"><!-- <i class="fa fa-facebook"></i> -->管理员控制入口</a></li>
                                     </ul>
                                 </div>
                             </div>

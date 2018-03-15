@@ -13,27 +13,31 @@ import com.jfinal.plugin.activerecord.Record;
 public class UserController extends Controller{
 	
 	static UserService service = new UserService();
+	
     public void index(){
 			
-		String company = getPara("name");
+    	String company = getPara("name");
 		setAttr("company_name", company);
-		List<Record> users = Db.find("select * from en_user");
+		List<User> users = User.dao.find("select * from en_user");
 		//setAttr("userPage", service.paginate(getParaToInt(1, 10), 10));
 		setAttr("userlst", users);
-		render("userManager.html");				
+		render("./userManager.html");				
 	}		
 	
 	public void userUpdate(){
 		
 	
-		renderText("更新用户");
+		index();
 		
 	}
 	
 	public void userDel(){
 		
-		service.deleteById(getParaToInt());
-		redirect("");				
+		 String companys = getPara("name");
+		 System.out.print(companys);
+		//service.deleteById(getParaToInt());
+		//redirect("/user/index?name="+companys);			
+		
 	}
 
 }

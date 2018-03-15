@@ -2,8 +2,10 @@ package demo;
 
 
 
+
 import Interceptor.MyInterceptor;
 
+import com.ccip.bank.admin.AdminController;
 import com.jfinal.config.Constants;
 import com.jfinal.config.Handlers;
 import com.jfinal.config.Interceptors;
@@ -33,17 +35,22 @@ public class DemoConfig extends JFinalConfig {
     	 */
     	me.add("/",IndexController.class, "/");
     	/**
-    	 * 用户管理数据处理路由
-    	 */
-    	me.add("/user", UserController.class);
-    	/**
     	 * 企业数据信息分析处理路由
     	 */
     	me.add("/company", CompanyController.class);
     	/**
+    	 * 用户管理数据处理路由
+    	 */
+    	me.add("/company/user", UserController.class);
+    	
+    	/**
     	 * 行业数据处理路由地址
     	 */
     	me.add("/industry", IndustryController.class);
+    	/**
+    	 * Admin 
+    	 */
+    	me.add("/admin", AdminController.class);
 
     	
     }  

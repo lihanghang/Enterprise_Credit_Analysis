@@ -39,6 +39,10 @@ public class IndexController extends Controller {
 			
 			render("./company/companyList.html");
 		}
+		public void  loginView(){
+			
+			
+		}
 		/*
 		 * login 0309 
 		 * Author:Mason
