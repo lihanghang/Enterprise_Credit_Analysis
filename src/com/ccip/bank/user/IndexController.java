@@ -59,29 +59,17 @@ public class IndexController extends Controller {
 		public void login(){
 			
 			String uname = getPara("username");
-			String sql = "select * from en_user where username = ? limit 1";
-			User user = User.dao.findFirst(sql, uname);
+			String passwd = getPara("password");
+			String sql = "select * from en_user where username = ?  AND passwd = ? limit 1";
+			User user = User.dao.findFirst(sql, uname, passwd);
 			if(user != null)
-			{
-				 System.out.println(user.getPwd());
-				  String passwd = getPara("password");
-				  if(user.getPwd().equals(passwd)){
-					  	
-					  	String sessionId = SessionIdKit.me().generate(getRequest());
-					// 设置服务器端session
-						setSessionAttr(sessionId, user);
-						// 设置用户端cookie
-						setCookie("cuser", sessionId, 60000);
-						redirect("/");
-						
-				  }
-			
-//	      
-//	        String sql = "SELECT * FROM en_user WHERE username = ? AND passwd = ?";
-//			List<Record> data = Db.find(sql,  username, passwd);
-//			if(data.size()>0){
-//				getSession().setAttribute("username", username); //验证成功，保存session信息,提供给拦截器使用
-				
+			{			 					  	
+					String sessionId = SessionIdKit.me().generate(getRequest());
+					 // 设置服务器端session
+					setSessionAttr(sessionId, user);
+					// 设置用户端cookie
+					setCookie("cuser", sessionId, 60000);
+					redirect("/");										
 			}
 			else{
 

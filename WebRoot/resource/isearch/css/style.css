@@ -607,12 +607,12 @@ textarea::-ms-input-placeholder
 }
 .home-content .home-contact input[type="submit"]{
     display:inline-block;
-    width:35%;
+    width:13%;
     background:#82ca9c;
     color:#fff;
     font-weight:900;
     border: 1px;
-    font-size:25px;
+    font-size:20px;
     
 }
 .home-content .home-contact input[type="submit"]:hover{
@@ -636,7 +636,7 @@ textarea::-ms-input-placeholder
     border: 1px solid #DEDEDE;
     height:45px;
     border-radius: 0px;
-    margin-right: -3px;
+    margin-right: -10px;
 }
 .head_title {
     margin-bottom: 40px;
