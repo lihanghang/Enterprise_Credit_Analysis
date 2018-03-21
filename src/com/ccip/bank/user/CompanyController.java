@@ -50,9 +50,29 @@ public class CompanyController extends Controller {
 	        setAttr("currentDate",time);
 			setAttr("company_name",company);
 			setAttr("data",data);		
-			render("./basicInfo/index.html");					
+			render("company.html");					
 		}
+		//企业背景页面
+		public void basicInfo()
+		{
+			render("companyInfo.html");
+		}
+		//经营状况页面
+		public void operation()
+		{
+			render("operatingstatus.html");
+		}
+		//风险状况页面
+		public void lawsuit()
+		{
+			render("lawsuit.html");
+			}		
 		
+		//知识产权页面
+		public void intellectProperty()
+		{
+			render("intellectualproperty.html");
+		}
 		public void companyList(){
 			String company = getPara("keyword");
 			render("companyList.html");
