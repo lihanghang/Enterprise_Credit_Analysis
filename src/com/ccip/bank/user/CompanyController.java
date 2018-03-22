@@ -8,9 +8,12 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.IdentityHashMap;
 import java.util.Map;
+
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.read.biff.BiffException;
+
+import com.ccip.bank.model.User;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
 
@@ -47,6 +50,8 @@ public class CompanyController extends Controller {
 				}
 				num++;
 			} 	
+		    User name = getSessionAttr(getCookie("cuser"));
+		    setAttr("name",name);
 	        setAttr("currentDate",time);
 			setAttr("company_name",company);
 			setAttr("data",data);		

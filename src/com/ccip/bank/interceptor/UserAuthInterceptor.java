@@ -21,8 +21,9 @@ public class UserAuthInterceptor implements Interceptor  {
 		String cuser = controller.getCookie("cuser");
 		//在服务器端session中查找是否存在当前用户
 		User user = controller.getSessionAttr(cuser);
-		if(user == null || inv.getMethodName().equals("login")){
-			controller.redirect("index");
+		System.out.println("data"+user);
+		if(user == null){
+			controller.redirect("/login");
 		}else{
 			inv.invoke();
 		}

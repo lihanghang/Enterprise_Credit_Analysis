@@ -46,17 +46,17 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#home"></a></li>
+                      <!--   <li class="active"><a href="#home"></a></li> -->
                         <li><a href="#">企业信息查询</a></li>
-                        <li><a href="./predict/predict.html">智能化分析</a></li>
-                        <li><a href="./user/login.html">登录</a></li>
+                        <li><a href="./predict/">智能化分析</a></li>
+                        <li id="login"><a href="./login">登录</a></li>
+                        <li class = "active"  id = "userName" value="#(session.user)"  style="display:none;"><a href="#"><span style="color:red">#(session.user)</span> </a> </li>
+                        <li  class = "active" id = "loginOut" style="display:none;"><a href="./logout">退出登录</a></li>
                         <!-- <li><a href="admin/">系统后台入口</a></li> -->
                     </ul>
-
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-
         <!--Home page style-->
         <header id="home" class="home">
             <div class="overlay-fluid-block">
@@ -68,12 +68,9 @@
 
                                     <h1>企业信用分析</h1>
                                     <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
-
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-                                            <div class="home-contact">
-                                             
-				
+           <div class="home-contact">                                             				
 								<div class="input-group">
 								<form name="loginform" method="POST" id="loginform" action="search">
                                    <input type="text" name="keyWord" class="form-control" placeholder="公司名称、法人、其他关键字">
@@ -124,15 +121,11 @@
                     <li>
                         <ul class="cd-pricing-wrapper">
                             <li data-type="monthly" class="is-visible">
-                                <header class="cd-pricing-header">
-                                   
-
+                                <header class="cd-pricing-header">                                  
                                     <div class="cd-price">
-                                        <span class="cd-currency">基本信息</span>
-                                      <!--   <span class="cd-value">30</span>
-                                        <span class="cd-duration">mo</span> -->
+                                        <span class="cd-currency">基本信息</span>                               
                                     </div>
-                                </header> <!-- .cd-pricing-header -->
+                                </header>
 
                                 <div class="cd-pricing-body">
                                     <ul class="cd-pricing-features">
@@ -142,23 +135,15 @@
                                         <li>对外投资</li>
 
                                     </ul>
-                                </div> <!-- .cd-pricing-body -->
-
-                               <!--  <footer class="cd-pricing-footer">
-                                    <a class="cd-select" href="#">Purchase</a>
-                                </footer>  .cd-pricing-footer -->
+                                </div> 
                             </li>
 
                             <li data-type="yearly" class="is-hidden">
-                                <header class="cd-pricing-header">
-                                   
-
+                                <header class="cd-pricing-header">                               
                                     <div class="cd-price">
-                                        <span class="cd-currency">企业信用评分</span>
-                                       <!--  <span class="cd-value">320</span>
-                                        <span class="cd-duration">yr</span> -->
+                                        <span class="cd-currency">企业信用评分</span>                                      
                                     </div>
-                                </header> <!-- .cd-pricing-header -->
+                                </header>
 
                                 <div class="cd-pricing-body">
                                 	<p>通过对企业的市场交易信息、银行信息进行分析和推理，对企业信用等级进行评估。辅助投资公司和银行建立维度高、分析全面的企业信用评估策略。</p>
@@ -439,7 +424,7 @@
 
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
-                                <p>Copyright&copy;2017-2018<a href="http://ccip.ucas.ac.cn/" target="_blank" title="实验室">CCIP实验室</a> </p>
+                                <p>Copyright&copy;2017-2018 <a href="http://ccip.ucas.ac.cn/" target="_blank" title="实验室">CCIP实验室课题组</a> </p>
 
                             </div>
                         </div>
@@ -458,46 +443,15 @@
         <script src="./resource/isearch/js/plugins.js"></script>
         <script src="./resource/isearch/js/modernizr.js"></script>
         <script src="./resource/isearch/js/main.js"></script>
-       <script type="text/javascript">
-/*        function login(loginform){//传入表单参数
-    	    if(loginform.keyWord.value==""){       //验证用户名是否为空
-    	        alert("请搜索关键字！");loginform.keyWord.focus();return false;
-    	    }
-    	     var param="./company/companyList";  //将搜索信息连接成字符串，作为发送请求的参数
-    	    $.ajax({
-    	        url:param,
-    	        type:"POST",
-    	        dataType:"json",
-    	        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',//防止乱码
-    	        success:function(data){
-    	        
-    	             window.location.href = "http://g197101y83.51mypc.cn/enterpriseInfo/company/companyList";//跳转到主页
-    	            }
-    	     
-    	    });
-    	}
-       
-       
-       $("#login").click(function () {
-    	   $("#myModalLabel").text("用户登录");
-    	   $("#btn_submit").text("登录");
-    	   
-    	   $('#myModal').modal();
-    	   });
-       $("#reg").click(function () {
-    	   $("#myModalLabel").text("注册");
-    	   $("#btn_submit").text("注册");
-    	   $('#myModal').modal();
-    	   }); */
-       
-   /*     $("#login").click(function () {
-    	    $(".modal fade").fadeIn("slow");
-    	    $(".modal-dialog").fadeIn("slow");
-    	})
-    	$("#close").click(function () {
-    	    $(".modal fade").fadeOut("slow")
-    	    $(".modal-dialog").fadeOut("slow")
-    	}) */
+       <script type="text/javascript" >
+       			var name = $('#userName').attr("value"); 
+       			console.log(name);
+       			if(name) {
+       				document.getElementById("userName").style.display="block";
+       				document.getElementById("loginOut").style.display="block";
+       				document.getElementById("login").style.display="none";
+       				
+       			}
     	</script>
      
     </body>

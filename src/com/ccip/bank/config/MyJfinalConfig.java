@@ -9,6 +9,7 @@ import com.jfinal.config.Interceptors;
 import com.jfinal.config.JFinalConfig;
 import com.jfinal.config.Plugins;
 import com.jfinal.config.Routes;
+import com.jfinal.ext.interceptor.SessionInViewInterceptor;
 import com.jfinal.kit.PropKit;
 import com.jfinal.plugin.activerecord.ActiveRecordPlugin;
 import com.jfinal.plugin.druid.DruidPlugin;
@@ -43,6 +44,7 @@ public class MyJfinalConfig extends JFinalConfig {
   
     public void configInterceptor(Interceptors me) {  
     	
+    	me.add(new SessionInViewInterceptor(true));
     	//me.add(new MyInterceptor());
     }  
     public void configHandler(Handlers me) {  

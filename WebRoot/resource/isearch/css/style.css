@@ -530,9 +530,10 @@ textarea::-ms-input-placeholder
 }
 .navbar-default .navbar-nav>li>a {
     color: #000;
-    font-size:15px;
+    font-size:17px;
     font-weight:600;
     text-transform:uppercase;
+    font-family: serif;
    
 }
 .navbar-default .navbar-nav li a :hover{
@@ -1122,6 +1123,7 @@ textarea::-ms-input-placeholder
 
 .cd-pricing-features {
     width: 600px;
+    height:200px;
 }
 .cd-pricing-features:after {
     content: "";
@@ -1150,7 +1152,7 @@ textarea::-ms-input-placeholder
     .cd-pricing-features li {
         float: none;
         width: auto;
-        padding: 1em;
+        padding: 0.5em;
     }
     .cd-popular .cd-pricing-features li {
         margin: 0 3px;

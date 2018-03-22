@@ -1,10 +1,10 @@
 package com.ccip.bank.model;
 
-import com.jfinal.plugin.activerecord.Model;
+import com.ccip.bank.model.base.BaseUser;
 import com.jfinal.plugin.activerecord.Page;
 
 
-public class User extends Model<User>{
+public class User extends BaseUser<User>{
     
 	/**
 	 * 用户管理数据库操作
@@ -18,7 +18,5 @@ public class User extends Model<User>{
         
         return paginate(pageNumber, pageSize, "select *", "from en_user order by id asc");
     }
-    public java.lang.String getPwd() {
-		return get("pwd");
-	}
+
 }
