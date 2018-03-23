@@ -32,29 +32,35 @@ public class PredictController extends Controller{
 				
 	}
 	//行业动态页面
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void hydt(){
 
 		render("hydt.html");
 	}
+	
 	//信用评级页面
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void xypj(){
 
 		render("xypj.html");
 	}
 
 	//风险评估页面
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void fxpg(){
 
 		render("fxpg.html");
 	}
 
 	//科研投入页面
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr(){
 
 		render("kytr.html");
 	}
 	
 	//贷后预警页面
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyj(){
 
 		render("dhyj.html");

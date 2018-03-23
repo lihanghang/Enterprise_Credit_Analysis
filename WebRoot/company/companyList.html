@@ -37,34 +37,34 @@
                 </ul>
             </div>
         </div>
-                    <div class="search top_search ">
+                   <!--  <div class="search top_search ">
             <form id="topSearchForm">
-<!--                信用圈搜索框-->
-                                        <!--                通用搜索框-->
+               信用圈搜索框
+                                                       通用搜索框
                         <input class="search-key ui-autocomplete-input" type="text" placeholder="请输入企业名、产品名、注册号、法人、高管等查询" autocomplete="off">
                         <i class="search-btn"></i>
 
                         
             </form>
-        <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display:block"></ul></div>
-           <div class="userinfo hide">
+        <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display:none"></ul></div> -->
+         <!--   <div class="userinfo-nologin">
             <div class="user-name">您好,#(session.user)</div>
             <i class="icon-turn"></i>
             <i class="icon-msg"></i>
             <i class="icon-tip"></i>
             <ul class="btns hide">
                 <li><a href="#">我的信息</a></li>
-               <!--  <li><a href="#">我的关注</a></li>
+                <li><a href="#">我的关注</a></li>
                 <li><a href="#">我的通知<i class="icon-tip icon-tip-pos"></i></a></li>
-                <li><a href="#">账户余额</a></li> -->
-               <!--  <li><a href="#">账户设置</a></li> -->
+                <li><a href="#">账户余额</a></li>
+              
                 <li class="logout"><a href="./logout">退出登录</a></li>
             </ul>
-        </div>
-		<!--  <div class="userinfo-nologin">
-            <a class="login-btn" href="javascript:;">登录</a>
-            <a class="regist-btn" href="#">注册</a>
-        </div> -->    
+        </div> -->
+		 <div class="userinfo-nologin">
+            <a class="user-name" href="javascript:;">您好,#(session.user)</a>
+            <a class="regist-btn" href="./logout">退出登录</a>        
+        </div>  
     </div>
 </div>
 
@@ -74,7 +74,7 @@
         <div class="sd_form_search">
             <div class="sd_form_search_input">
                 <form action="search" method="get" id="searchForm">
-                    <input id="searchkey" type="text" value="baidu " autocomplete="off" name="key" placeholder="可以按企业名称、注册号、法人、股东、高管、品牌查询" class="ui-autocomplete-input">
+                    <input id="searchkey" type="text" value=" " autocomplete="off" name="key" placeholder="可以按企业名称、注册号、法人、股东、高管、品牌查询" class="ui-autocomplete-input">
                    <span class="input-group-btn01">
                    <button class="btn btn-primary" type="submit" id="searchBtn"></button>
                    </span>

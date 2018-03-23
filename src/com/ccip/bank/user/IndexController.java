@@ -57,7 +57,13 @@ public class IndexController extends Controller {
 		//验证器
 		//@Before(com.ccip.bank.validator.LoginValidator.class) 
 		public void doLogin(){
-			
+			// 验证码校验
+						boolean result = validateCaptcha("verifycode");
+						if (!result) {
+							setAttr("vcMsg", "验证码错误！");
+							render("/user/login.html");
+							return;
+						}
 			String uname = getPara("username");
 			String passwd = getPara("password");
 			String sql = "select * from en_user where username = ? limit 1";
