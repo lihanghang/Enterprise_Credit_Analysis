@@ -1,5 +1,6 @@
 package com.ccip.bank.config;
 
+import com.ccip.bank.model.Market;
 import com.ccip.bank.model.User;
 import com.ccip.bank.routes.AdminRoutes;
 import com.ccip.bank.routes.FrontRoutes;
@@ -39,6 +40,7 @@ public class MyJfinalConfig extends JFinalConfig {
 			me.add(druidPlugin);
 			ActiveRecordPlugin arp = new ActiveRecordPlugin(druidPlugin);
     		arp.addMapping("en_user","id", User.class);	// 映射到用户表
+    		arp.addMapping("en_market","id", Market.class);	// 映射行业动态分布核心数据表
     		me.add(arp);
     }  
   
@@ -57,6 +59,7 @@ public class MyJfinalConfig extends JFinalConfig {
 		me.addSharedFunction("/company/common/_layout.html");
 		me.addSharedFunction("/company/common/_menu.html");
 		me.addSharedFunction("/company/common/company_info.html");
+        me.addSharedFunction("/company/common/predict_menu.html");
 		
 	}  
 }  
