@@ -31,6 +31,23 @@ public class PredictController extends Controller{
 		renderJson(json);
 				
 	}
+	
+	//房地产合成指数数据0326
+	public void getCI(){
+		
+		List<Market> cIdata = Market.ci.getCi();
+		String cJson = JsonKit.toJson(cIdata);
+		renderJson(cJson);
+	}
+
+	//房地产扩散指数数据0326
+	public void getDiffIndex(){
+		
+		List<Market> diffIdata = Market.diffusion.getDiffusionIndex();
+		String diffJson = JsonKit.toJson(diffIdata);
+		renderJson(diffJson);
+	}
+	
 	//行业动态页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void hydt(){

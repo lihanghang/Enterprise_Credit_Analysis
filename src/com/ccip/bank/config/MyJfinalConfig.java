@@ -41,6 +41,8 @@ public class MyJfinalConfig extends JFinalConfig {
 			ActiveRecordPlugin arp = new ActiveRecordPlugin(druidPlugin);
     		arp.addMapping("en_user","id", User.class);	// 映射到用户表
     		arp.addMapping("en_market","id", Market.class);	// 映射行业动态分布核心数据表
+    		arp.addMapping("en_ci","id", Market.class);	// 映射合成指数分布核心数据表
+            arp.addMapping("en_diffusion_index","id", Market.class); //映射分散指数核心数据表
     		me.add(arp);
     }  
   

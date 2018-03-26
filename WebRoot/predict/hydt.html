@@ -45,10 +45,10 @@
                     </div> 
                 </div>
                 <div class="tab-pane fade" id="hecheng">
-                    <p>合成指数</p>
+                    <div id="pie4" style="width: 1100px;height: 400px;"></div>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
-                    <p>扩散指数</p>
+                     <div id="pie5" style="width: 1100px;height: 400px;"></div>
                 </div>
             </div>
         </div>
@@ -481,15 +481,485 @@ pie3.setOption(option);
             ]
         }
     ]
-};
-                                
-                   
-                                
-    myChart.setOption(option, true);
-    })();
+};                                
+ myChart.setOption(option, true);
+})();
                
 
 
+//合成指数异步加载
+(function(){
+    var pie4 = echarts.init(document.getElementById("pie4"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '市场景气-合成指数',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },
+                backgroundColor: 'rgba(255,255,255,1)',
+                padding: [5, 10],
+                textStyle: {
+                    color: '#7588E4',
+                },
+                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','同步指数','滞后指数','HPY']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    rotate: 90,
+                    interval:0,
+                    textStyle: {
+                        fontSize: 18
+                    }
+                }
+            },
+            yAxis: [{
+                type: 'value',
+                name:'合成指数',
+                max: '104',
+                min:'95',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    
+                    textStyle: {
+                        fontSize: 14
+                    }
+                }
+            },{
+                type: 'value',
+                name:'房价指数',
+                max: '125',
+                min:'95',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    
+                    textStyle: {
+                        fontSize: 14
+                    }
+                }
+            }],
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                show:true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }, {
+                name: '同步指数',
+                type: 'line',
+                smooth: true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }
+            , {
+                name: '滞后指数',
+                type: 'line',
+                smooth:false, 
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }
+            , {
+                name: 'HPY',
+                type: 'line',
+                smooth: false, //实现变虚线设置为false，默认为true
+               // showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                yAxisIndex: 1, //指代第二条y轴
+                data: [],
+                markLine: {
+                    data: [{
+                        type: 'average',
+                        name: '平均值'
+                    }]
+                },
+                itemStyle: {
+                    normal: {
+                        color: '#5793f3',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+               
+            }
+
+            ]
+        };
+
+pie4.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index       = [];   //领先指数
+var coincident_index = [];   //同步指数
+var lag_index        = [];  //滞后指数
+var hpy              = []; //HPY
+var years            = []; //横坐标：年份
+$.ajax({
+    "url": "./getCI",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            coincident_index.push(item['同步指数']);
+            lag_index.push(item['滞后指数']);
+            hpy.push(item['HPY']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+        
+        pie4.hideLoading();    //隐藏加载动画
+        pie4.setOption({        //加载数据图表                
+            dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }],
+            xAxis: {
+                data: years
+            },
+            series: [{
+                name: "领先指数",  data: lead_index
+            }, {
+                name: "同步指数",  data: coincident_index
+            }, {
+                name: "滞后指数",  data: lag_index
+            }, {
+                name: "HPY",  data: hpy
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie4.hideLoading();
+    }
+}); 
+
+pie4.setOption(option);
+})();
+
+
+//扩散指数
+(function(){
+    var pie5 = echarts.init(document.getElementById("pie5"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '市场景气-扩散指数',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },
+                backgroundColor: 'rgba(255,255,255,1)',
+                padding: [5, 10],
+                textStyle: {
+                    color: '#7588E4',
+                },
+                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','同步指数','滞后指数']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    rotate: 90,
+                    interval:0,
+                    textStyle: {
+                        fontSize: 18
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'扩散指数',
+                max: '100',
+                min:'-10',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    
+                    textStyle: {
+                        fontSize: 14
+                    }
+                }
+            },
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                show:true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }, {
+                name: '同步指数',
+                type: 'line',
+                smooth: true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }
+            , {
+                name: '滞后指数',
+                type: 'line',
+                smooth:false, 
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }]
+        };
+
+pie5.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index       = [];   //领先指数
+var coincident_index = [];   //同步指数
+var lag_index        = [];  //滞后指数
+var years            = []; //横坐标：年份
+$.ajax({
+    "url": "./getDiffIndex",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            coincident_index.push(item['同步指数']);
+            lag_index.push(item['滞后指数']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+        
+        pie5.hideLoading();    //隐藏加载动画
+        pie5.setOption({        //加载数据图表                
+            dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }],
+            xAxis: {
+                data: years
+            },
+            series: [{
+                name: "领先指数",  data: lead_index
+            }, {
+                name: "同步指数",  data: coincident_index
+            }, {
+                name: "滞后指数",  data: lag_index
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie5.hideLoading();
+    }
+}); 
+
+pie5.setOption(option);
+})();
 </script>
 
 
