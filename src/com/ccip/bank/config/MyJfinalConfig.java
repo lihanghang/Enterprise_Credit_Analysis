@@ -1,5 +1,6 @@
 package com.ccip.bank.config;
 
+import com.ccip.bank.model.Company;
 import com.ccip.bank.model.Market;
 import com.ccip.bank.model.User;
 import com.ccip.bank.routes.AdminRoutes;
@@ -42,7 +43,8 @@ public class MyJfinalConfig extends JFinalConfig {
     		arp.addMapping("en_user","id", User.class);	// 映射到用户表
     		arp.addMapping("en_market","id", Market.class);	// 映射行业动态分布核心数据表
     		arp.addMapping("en_ci","id", Market.class);	// 映射合成指数分布核心数据表
-            arp.addMapping("en_diffusion_index","id", Market.class); //映射分散指数核心数据表
+            arp.addMapping("en_diffusion_index","id", Market.class); //映射分散指数核心数据表            
+            arp.addMapping("en_companyInfo","id", Company.class); //映射公司信息数据表
     		me.add(arp);
     }  
   
@@ -62,6 +64,7 @@ public class MyJfinalConfig extends JFinalConfig {
 		me.addSharedFunction("/company/common/_menu.html");
 		me.addSharedFunction("/company/common/company_info.html");
         me.addSharedFunction("/company/common/predict_menu.html");
+        me.addSharedFunction("/company/common/_paginate.html");
 		
 	}  
 }  

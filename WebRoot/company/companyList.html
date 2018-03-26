@@ -9,31 +9,31 @@
     <title>企业信息查询与智能分析系统</title>
     <meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
 	<meta name="Keywords" content="企业信用与智能分析">
-    <link rel="stylesheet"  href="./static/home/list/Shuidi_PCSearch.css" type="text/css">
-    <link rel="shortcut icon" href="./resource/own/images/icon.png" />
-	<script src="./static/home/list/hm.js"></script>
+    <link rel="stylesheet"  href="../static/home/list/Shuidi_PCSearch.css" type="text/css">
+    <link rel="shortcut icon" href="../resource/own/images/icon.png" />
+	<script src="../static/home/list/hm.js"></script>
 </head>
 
 <body>
 
 <div class="nav">
     <div class="container">
-        <a href="./"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
+        <a href="../"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
         <div class="link-box">
-            <a href="./" class="home-page-link" style="padding-left:60px;">首页</a>
-<!--             <div class="triangle-box">查询服务
+            <a href="../" class="home-page-link" style="padding-left:60px;">首页</a>
+             
+      <!--   <div class="triangle-box"><a href="../search/">查询服务</a>
                 <i class="triangle"></i>
-                <ul class="pull-down-one" style="bottom: -112px;">
-                </ul>
-            </div> -->
+                
+            </div>  -->
             <div class="triangle-box" >智能分析服务
                 <i class="triangle"></i>
                 <ul class="pull-down-two" style="bottom: -68px;">
-                    <li class="first"><a href="./predict/xypj" >企业信用评级</a></li>
+                    <li class="first"><a href="../predict/xypj" >企业信用评级</a></li>
                     <li><a href="./predict/hydt">行业动态预测</a></li>
-                    <li class="last"><a href="./predict/kytr">企业科研投入推荐</a></li>
-                    <li class="last"><a href="./predict/dhyj">企业贷后预警</a></li>
-                    <li class="last"><a href="./predict/fxpg">企业风险评估</a></li>
+                    <li class="last"><a href="../predict/kytr">企业科研投入推荐</a></li>
+                    <li class="last"><a href="../predict/dhyj">企业贷后预警</a></li>
+                    <li class="last"><a href="../predict/fxpg">企业风险评估</a></li>
                 </ul>
             </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="sd_form_search">
             <div class="sd_form_search_input">
                 <form action="search" method="get" id="searchForm">
-                    <input id="searchkey" type="text" value=" " autocomplete="off" name="key" placeholder="可以按企业名称、注册号、法人、股东、高管、品牌查询" class="ui-autocomplete-input">
+                    <input id="searchkey" type="text"  autocomplete="off" name="key" placeholder="可以按企业名称、注册号、法人、股东、高管、品牌查询" class="ui-autocomplete-input">
                    <span class="input-group-btn01">
                    <button class="btn btn-primary" type="submit" id="searchBtn"></button>
                    </span>
@@ -185,92 +185,14 @@
                                     10-15年
                                 </a>
 
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="5">
-                                    15年以上
-                                </a>
-
-
-                            </div>
-                        </div>
-                        <div class="or_category">
-                            <div class="or_sl_key">更多筛选</div>
-                            <div class="or_sl_value">
-                                <div class="more_sl_cont">
-                                <span class="sd_left_tit hover-hide" id="areaBtn" tar="area">
-                                    区域                                    <i class="tit_up"></i>
-                                </span>
-                                    <div class="more_sl_list hover-cont" style="display:none;z-index:100;" id="areaDiv">
-                                        <div class="more_sl_all" id="no_area"><span class="on">不限区域</span></div>
-                                        <div class="more_sl_main">
-                                            <ul>
-                                                                                                    <li class="" seed="HB"><span>河北</span></li>
-                                                                                                    <li class="" seed="GD"><span>广东</span></li>
-                                                                                                    <li class="" seed="LN"><span>辽宁</span></li>
-                                                                                                    <li class="" seed="ZJ"><span>浙江</span></li>
-                                                                                                    <li class="" seed="HLJ"><span>黑龙江</span></li>
-                                                                                                    <li class="" seed="JS"><span>江苏</span></li>
-                                                                                                    <li class="" seed="SC"><span>四川</span></li>
-                                                                                                    <li class="" seed="NX"><span>宁夏</span></li>
-                                                                                                    <li class="" seed="FJ"><span>福建</span></li>
-                                                                                                    <li class="" seed="SAX"><span>陕西</span></li>
-                                                                                                    <li class="" seed="JL"><span>吉林</span></li>
-                                                                                                    <li class="" seed="BJ"><span>北京</span></li>
-                                                                                                    <li class="" seed="HUB"><span>湖北</span></li>
-                                                                                                    <li class="" seed="SH"><span>上海</span></li>
-                                                                                                    <li class="" seed="SD"><span>山东</span></li>
-                                                                                                    <li class="" seed="GS"><span>甘肃</span></li>
-                                                                                                    <li class="" seed="SX"><span>山西</span></li>
-                                                                                                    <li class="" seed="AH"><span>安徽</span></li>
-                                                                                                    <li class="" seed="TJ"><span>天津</span></li>
-                                                                                                    <li class="" seed="HEN"><span>河南</span></li>
-                                                                                                    <li class="" seed="YN"><span>云南</span></li>
-                                                                                                    <li class="" seed="CQ"><span>重庆</span></li>
-                                                                                                    <li class="" seed="HUN"><span>湖南</span></li>
-                                                                                                    <li class="" seed="HAIN"><span>海南</span></li>
-                                                                                                    <li class="" seed="GZ"><span>贵州</span></li>
-                                                                                                    <li class="" seed="XZ"><span>西藏</span></li>
-                                                                                                    <li class="" seed="QH"><span>青海</span></li>
-                                                                                                    <li class="" seed="JX"><span>江西</span></li>
-                                                                                                    <li class="" seed="GX"><span>广西</span></li>
-                                                                                                    <li class="" seed="XJ"><span>新疆</span></li>
-                                                                                                    <li class="" seed="NMG"><span>内蒙古</span></li>
-                                                                                            </ul>
-                                        </div>
-                                     </div>
-                                </div>
-                                <div class="more_sl_cont">
-                                <span class="sd_left_tit hover-hide" id="typeBtn" tar="type">
-                                    行业                                    <i class="tit_up"></i>
-                                </span>
-                                    <div class="more_sl_list hover-cont" style="display: none;z-index: 100;" id="typeDiv">
-                                        <div class="more_sl_all" id="no_type"><span class="on">不限行业</span></div>
-                                        <div class="more_sl_main"><div class="typeMain" style="position: relative"><div id="typeList1" style="position: absolute; z-index: 111; background: white; width: 282px; left: 0px;"><ul style="border:1px solid #dcdcdc;"><li><span seed="1">农、林、牧、渔业</span><i></i></li><li><span seed="90">采矿业</span><i></i></li><li><span seed="154">制造业</span><i></i></li><li><span seed="893">电力、热力、燃气及水生产和供应业</span><i></i></li><li><span seed="916">建筑业</span><i></i></li><li><span seed="956">批发和零售业</span><i></i></li><li><span seed="1090">交通运输、仓储和邮政业</span><i></i></li><li><span seed="1159">住宿和餐饮业</span><i></i></li><li><span seed="1181">信息传输、软件和信息技术服务业</span><i></i></li><li><span seed="1214">金融业</span><i></i></li><li><span seed="1269">房地产业</span><i></i></li><li><span seed="1281">租赁和商务服务业</span><i></i></li><li><span seed="1334">科学研究和技术服务业</span><i></i></li><li><span seed="1386">水利、环境和公共设施管理业</span><i></i></li><li><span seed="1423">居民服务、修理和其他服务业</span><i></i></li><li><span seed="1465">教育</span><i></i></li><li><span seed="1490">卫生和社会工作</span><i></i></li><li><span seed="1526">文化、体育和娱乐业</span><i></i></li><li><span seed="1593">公共管理、社会保障和社会组织</span><i></i></li><li><span seed="1639">国际组织</span><i></i></li></ul></div></div></div>
-                                    </div>
-                                </div>
-                                <div class="more_sl_cont">
-                                <span class="sd_left_tit hover-hide" id="contactBtn" tar="contact">
-                                    联系电话                                    <i class="tit_up"></i>
-                                </span>
-                                    <div class="more_sl_list hover-cont" style="z-index:100;display:none;" id="contactDiv">
-                                        <div class="more_sl_all searchSl" id="no_contact" inputid="contact" seed="0"><span class="on">全部</span>
-                                        </div>
-                                        <div class="more_sl_main">
-                                            <ul>
-                                                <li inputid="contact" seed="1" class=" ">
-                                                    <span>有联系电话</span></li>
-                                                <li inputid="contact" seed="2" class=" ">
-                                                    <span>无联系电话</span></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="5"> 15年以上</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="sd_left_block">
                     <div class="sd_left_ss">
-                        搜索<span class="sd_left_ss_name">baidu </span>为你找到<span class="sd_left_ss_number">7</span>家符合条件的企业
+                        搜索<span class="sd_left_ss_name">XX </span>为你找到<span class="sd_left_ss_number">XX</span>家符合条件的企业
                     </div>
                     <div class="sd_left_hide">
                         <div class="sd_left_deep">
@@ -286,222 +208,53 @@
                             <a href="javascript:void(0);" inputid="sort" seed="4">成立年限降序</a>
                         </div>
                         </span>
-                        <span class="sd_left_deep_name">公司</span>
-                        <span class="sd_left_deep_state">状态</span>
-                        <span class="sd_left_deep_score">评分</span> 
+                        <!-- <span class="sd_left_deep_name">公司</span> -->
+                       <!--  <span class="" >状态</span>
+                        <span class="sd_left_deep_score">评分</span>  -->
                     </div>
                           <div class="or_search_list">
+                            #for(x : clst.getList())
                                 <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                            <img src="" alt="">
-                                        </div>
-                                    </div>
+                                   <div class="or_search_row_img">
+                                       
+                                        
+                                        
+                                    </div> 
                                     <div class="or_search_row_content">
-                                        <a href="./company/index" target="_blank" companyname="北百度网讯科技有限公司">
-                                            	北京百度网讯科技有限公司 
-                                            <span class="icon-style icon-s5">高风险</span></a>
+                                        <a href="../company/index" target="_blank" companyname="">
+                                            	#(x.cname)
+                                            <span class="icon-style icon-s4">较好</span></a>
                                         <div class="or_search_row_company">
-                                            <span>法定代表人：梁志祥</span>
-                                            <span>成立时间：2001-06-05</span>
-                                            <span>注册资本：217128.000000万人民币</span>
+                                            <span>所在行业：#(x.industry)</span>
+                                            <span>成立时间：#(x.start_time)</span>
+                                            <span>注册资本：#(x.capital)</span>
                                         </div>
-                                        <div class="or_search_row_history">
+                                        <!-- <div class="or_search_row_history">
 											 <span>品牌：WWW.<em>BAIDU</em>.COM</span>
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="or_search_row_type">
                                          <p style="cursor:text;">
-                                           <small class="searchbadge"><small class="searchbadge">开业</small></small>
+                                           <small class="searchbadge"><small class="searchbadge">#(x.status)</small></small>
                                          </p>
                                     </div>
                                     <div class="or_search_row_type">
-                                         <p style="cursor:text;">
-                                           <small class="searchbadge"><small class="searchbadge">98</small></small>
+                                         <p style="cursor:text;>
+                                           <small class="searchbadge"><small class="searchbadge">90</small></small>
                                          </p>
                                     </div>
                                 </div>
+                               #end
                             </div>
-<!--                                                     <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-036e42e65765779e13d9fa94e4023582.html" target="_blank" companyname="佛山市南海区联港皮革有限公司">
-                                            佛山市南海区联港皮革有限公司                                                                                                                                                                                                                            </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：邓佑财</span>
-                                            <span>成立时间：1996-03-21</span>
-                                            <span>注册资本：6180万元人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：<em>BAIDU</em></span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text;">
-                                                <small class="searchbadge"><small class="searchbadge">存续</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div>
-                                                    <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-cae0bc74e9ebe39c91199074af289922.html" target="_blank" companyname="山东中鼎置业有限公司">
-                                            山东中鼎置业有限公司                                                                                                                                                                                                                                    <span class="icon-style icon-s5">风险事件</span>
-                                                                                    </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：刘云江</span>
-                                            <span>成立时间：2005-07-22</span>
-                                            <span>注册资本：5000万人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：百度空间;<em>BAIDU</em> SPACE</span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text;">
-                                                <small class="searchbadge"><small class="searchbadge">在营</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div>
-                                                    <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-f1967868707513931dcb18d2944d7584.html" target="_blank" companyname="上海华域百度广告有限公司">
-                                            上海华域百度广告有限公司                                                                                                                                                                                                                            </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：张丽娜</span>
-                                            <span>成立时间：2004-05-09</span>
-                                            <span>注册资本：300万人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：HUAYU <em>BAIDU</em></span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text;">
-                                                <small class="searchbadge"><small class="searchbadge">存续</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div>
-                                                    <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-b5c28e39f6ed71ad97702e6768a1a1a2.html" target="_blank" companyname="福建音乐百度文化发展有限公司">
-                                            福建音乐百度文化发展有限公司                                                                                                                                                                                                                            </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：刘景海</span>
-                                            <span>成立时间：2010-10-27</span>
-                                            <span>注册资本：500.000000万人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：MUSIC <em>BAIDU</em></span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text;">
-                                                <small class="searchbadge"><small class="searchbadge">存续</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div>
-                                                    <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-80ee59078770d0fd461e03ab042af60b.html" target="_blank" companyname="上海乐缘农业科技推广有限公司">
-                                            上海乐缘农业科技推广有限公司                                                                                                                                                                                                                            </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：徐君标</span>
-                                            <span>成立时间：2002-05-22</span>
-                                            <span>注册资本：100万人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：GREEN <em>BAIDU</em></span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text;">
-                                                <small class="searchbadge"><small class="searchbadge">存续</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div>
-                                                    <div class="or_search_list">
-                                <div class="or_search_row or_row_w">
-                                    <div class="or_search_row_img">
-                                        <div class="or_search_row_logo">
-                                                                                            <img src="./baidu 企业名录_baidu 企业黄页_baidu 企业名单查询_baidu 中小企业名录信息-水滴信用_files/shuidi_company_head.jpg" alt="">
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_content">
-                                        <a href="http://shuidi.cn/company-19105992dc4ebefb42be6a507207d95d.html" target="_blank" companyname="广州欧仕曼生物科技有限公司">
-                                            广州欧仕曼生物科技有限公司                                                                                                                                                                                                                            </a>
-                                        <div class="or_search_row_company">
-                                            <span>法定代表人：余善斌</span>
-                                            <span>成立时间：2008-10-08</span>
-                                            <span>注册资本：10万人民币</span>
-
-                                        </div>
-                                        <div class="or_search_row_history">
-
-                                                                                            <span>品牌                                                    ：BDA <em>BAIDU</em> AROMA</span>
-                                                                                    </div>
-                                    </div>
-                                    <div class="or_search_row_type">
-                                                                                    <p style="cursor:text; color: #fe3c3c; border-color: #fe3c3c">
-                                                <small class="searchbadge"><small class="searchbadge">吊销</small></small>
-                                            </p>
-                                                                            </div>
-                                </div>
-                            </div> -->
              </div>
             </div>
             <!-- 分页插件 -->
             <div class="pagination">
                 <div class="page">
-        			<p>
-            			<i>（共7条记录）</i>
-            			<a class="current">1</a>                
-                     </p>
+        	    #@paginate(clst.pageNumber, clst.totalPage, "./")
     			</div>
             </div>
+           
         </div>
     </div>
 </div>
@@ -541,7 +294,7 @@
     </div>
 </div>
 
-<script type="text/javascript" src="./static/home/list/pa.1.0.js"></script>
+<script type="text/javascript" src="../static/home/list/pa.1.0.js"></script>
 <!-- <script>
     var _hmt = _hmt || [];
     (function() {
@@ -557,12 +310,12 @@
 <div id="free-pay-background"></div>
 
 
-    <script type="text/javascript" src="./static/home/list/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="./static/home/list/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="./static/home/list/jrender.min.js"></script>
-    <script type="text/javascript" src="./static/home/list/promise-7.0.4.min.js"></script>
-	<script type="text/javascript" src="./static/home/list/Shuidi_PCSearch.js">
-	</script><script type="text/javascript" src="./static/home/list/Pa_Pa.js"></script>
+    <script type="text/javascript" src="../static/home/list/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="../static/home/list/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../static/home/list/jrender.min.js"></script>
+    <script type="text/javascript" src="../static/home/list/promise-7.0.4.min.js"></script>
+	<script type="text/javascript" src="../static/home/list/Shuidi_PCSearch.js">
+	</script><script type="text/javascript" src="../static/home/list/Pa_Pa.js"></script>
 <div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
 <script>
     var detailFrame = new DetailFrame();

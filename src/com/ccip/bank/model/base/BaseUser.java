@@ -13,6 +13,7 @@ import com.jfinal.plugin.activerecord.Model;
  * @author Mason
  *
  */
+@SuppressWarnings("serial")
 public abstract class BaseUser<M extends BaseUser<M>> extends Model<M> implements IBean {
 
 	public void setId(java.lang.Integer id) {

@@ -3,7 +3,6 @@ package com.ccip.bank.model;
 import java.util.List;
 
 import com.jfinal.plugin.activerecord.Model;
-import com.jfinal.plugin.activerecord.Page;
 
 /**
  * 

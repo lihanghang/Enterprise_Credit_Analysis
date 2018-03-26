@@ -1,9 +1,7 @@
 package com.ccip.bank.user;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.IdentityHashMap;
 import java.util.Map;
 
@@ -12,6 +10,7 @@ import jxl.Workbook;
 import jxl.read.biff.BiffException;
 
 import com.ccip.bank.model.User;
+import com.ccip.bank.service.CompanyService;
 import com.ccip.bank.utils.DateUtils;
 import com.ccip.bank.utils.MD5;
 import com.jfinal.aop.Before;
@@ -27,7 +26,8 @@ import com.jfinal.kit.JsonKit;
  */
 
 public class IndexController extends Controller {
-
+	
+	static CompanyService service = new CompanyService();
 		//进入首页
 		@ActionKey("/")
 		public void index() {
@@ -41,6 +41,7 @@ public class IndexController extends Controller {
 		@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 		public void search(){
 			
+			setAttr("clst", service.paginate(getParaToInt(0, 1), 10));			
 			render("./company/companyList.html");
 		}
 		

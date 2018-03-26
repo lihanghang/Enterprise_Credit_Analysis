@@ -22,41 +22,13 @@ public class CompanyController extends Controller {
 			//定义前缀常量
 	    String filePath = "A://work/project_finance/basic_data/rdf_data/100/test20/";	    
 		
-		public void index() throws BiffException, IOException {
-			String company = getPara("name","UTF-8");
-			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-			String time = sdf.format(new Date());
-			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
-			Workbook rwb = null;        
-	        FileInputStream stream = new FileInputStream(filePath);
-			rwb = Workbook.getWorkbook(stream);
-		    Sheet sheet = rwb.getSheet(2);
-		    int num = 1;
-		    int col = 4;
+		public void index() {
 		    //封装前台展示的数据
-		    ArrayList<String> data = new ArrayList<String> ();
-		    while(num<=766)
-			{	String info = "";
-				if(sheet.getCell(0, num).getContents().equals(company)){
-					while(col<=15){
-						//System.out.print(sheet.getCell(col, num).getContents());
-						info = sheet.getCell(col, num).getContents();
-						if(info.length()==0 || info == null)
-							info = "暂未统计";
-						data.add(info);
-						col++;
-					}
-					
-				}
-				num++;
-			} 	
 		    User name = getSessionAttr(getCookie("cuser"));
-		    setAttr("name",name);
-	        setAttr("currentDate",time);
-			setAttr("company_name",company);
-			setAttr("data",data);		
+		    setAttr("name",name);	
 			render("company.html");					
 		}
+		
 		//企业背景页面
 		public void basicInfo()
 		{
