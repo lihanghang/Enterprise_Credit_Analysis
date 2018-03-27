@@ -63,7 +63,7 @@
         </div> -->
 		 <div class="userinfo-nologin">
             <a class="user-name" href="javascript:;">您好,#(session.user)</a>
-            <a class="regist-btn" href="./logout">退出登录</a>        
+            <a class="regist-btn" href="../logout">退出登录</a>        
         </div>  
     </div>
 </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="sd_left_block">
                     <div class="sd_left_ss">
-                        搜索<span class="sd_left_ss_name">XX </span>为你找到<span class="sd_left_ss_number">XX</span>家符合条件的企业
+                        搜索<span class="sd_left_ss_name">694</span>家企业，为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
                     </div>
                     <div class="sd_left_hide">
                         <div class="sd_left_deep">
@@ -215,13 +215,10 @@
                           <div class="or_search_list">
                             #for(x : clst.getList())
                                 <div class="or_search_row or_row_w">
-                                   <div class="or_search_row_img">
-                                       
-                                        
-                                        
+                                   <div class="or_search_row_img">                                                                                                             
                                     </div> 
                                     <div class="or_search_row_content">
-                                        <a href="../company/index" target="_blank" companyname="">
+                                        <a href="../company/#(x.organizateNum)" companyname="#(x.cname)">
                                             	#(x.cname)
                                             <span class="icon-style icon-s4">较好</span></a>
                                         <div class="or_search_row_company">
@@ -235,12 +232,12 @@
                                     </div>
                                     <div class="or_search_row_type">
                                          <p style="cursor:text;">
-                                           <small class="searchbadge"><small class="searchbadge">#(x.status)</small></small>
+                                           <small class="searchbadge"><small class="searchbadge">状态：#(x.status)</small></small>
                                          </p>
                                     </div>
                                     <div class="or_search_row_type">
-                                         <p style="cursor:text;>
-                                           <small class="searchbadge"><small class="searchbadge">90</small></small>
+                                         <p style="cursor:text;">
+                                           <small class="searchbadge"><small class="searchbadge">评分：90</small></small>
                                          </p>
                                     </div>
                                 </div>
@@ -269,7 +266,7 @@
                <div>
                    <a href="http://ccip.ucas.ac.cn/">关于我们</a>
                    <a href="#">隐私协议</a>
-                   <a href="#">帮助中心</a>
+                   <a href="../admin/"><span style="color:#00ae64">管理员入口</span></a>
                </div>
             </div>
             <div class="sd_index_foot_s2">

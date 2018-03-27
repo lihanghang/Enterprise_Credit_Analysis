@@ -3,7 +3,6 @@ package com.ccip.bank.routes;
 import com.ccip.bank.user.CompanyController;
 import com.ccip.bank.user.IndexController;
 import com.ccip.bank.user.PredictController;
-import com.ccip.bank.user.UserController;
 import com.jfinal.config.Routes;
 
 /**
@@ -18,7 +17,6 @@ public class FrontRoutes extends Routes{
 	@Override
 	public void config() {
 		add("/",IndexController.class);
-	    add("/user",UserController.class);
 		add("/company",CompanyController.class);
 		add("/predict",PredictController.class);
 	}

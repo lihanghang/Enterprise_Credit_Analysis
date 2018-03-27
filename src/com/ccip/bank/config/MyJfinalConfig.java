@@ -60,9 +60,7 @@ public class MyJfinalConfig extends JFinalConfig {
 	public void configEngine(Engine me) {
 		// TODO Auto-generated method stub
 		me.setDevMode(true);
-		me.addSharedFunction("/company/common/_layout.html");
 		me.addSharedFunction("/company/common/_menu.html");
-		me.addSharedFunction("/company/common/company_info.html");
         me.addSharedFunction("/company/common/predict_menu.html");
         me.addSharedFunction("/company/common/_paginate.html");
 		

@@ -28,17 +28,28 @@
         <script type="text/javascript" src="./resource/own/js/my.js"></script>
      	
     </head>
+ <style>
+    
+
+  input::-webkit-input-placeholder {
+  
+  		font-size: 18px;
+  		text-align:left;
+  }
+    
+    
+</style>
     <body>
         <nav class="navbar navbar-default">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                    </button>
+                    </button> -->
                     <a class="navbar-brand" href="" ><img src="./resource/isearch/images/logo.jpg" alt="img" /></a>
                 </div>
 
@@ -52,7 +63,7 @@
                         <li id="login"><a href="./login">登录</a></li>
                         <li class = "active"  id = "userName" value="#(session.user)"  style="display:none;"><a href="#"><span style="color:red">#(session.user)</span> </a> </li>
                         <li  class = "active" id = "loginOut" style="display:none;"><a href="./logout">退出登录</a></li>
-                        <!-- <li><a href="admin/">系统后台入口</a></li> -->
+              
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -73,7 +84,7 @@
            <div class="home-contact">                                             				
 								<div class="input-group">
 								<form name="loginform" method="POST" id="loginform" action="search/">
-                                   <input type="text" name="keyWord" class="form-control" placeholder="公司名称、法人、其他关键字">
+                                   <input type="text" name="keyWord" class="form-control" placeholder="输入公司名称、行业、成立时间等关键字">
                                	 	<input type="submit" class="form-control" value="查询"> 
                                   <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
                                 </form> 

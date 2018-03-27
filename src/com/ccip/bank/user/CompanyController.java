@@ -2,9 +2,7 @@ package com.ccip.bank.user;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.IdentityHashMap;
 import java.util.Map;
@@ -14,17 +12,22 @@ import jxl.Workbook;
 import jxl.read.biff.BiffException;
 
 import com.ccip.bank.model.User;
+import com.ccip.bank.service.CompanyService;
+import com.jfinal.aop.Before;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
 
 public class CompanyController extends Controller {	
 	
+		static CompanyService service = new CompanyService();	
 			//定义前缀常量
-	    String filePath = "A://work/project_finance/basic_data/rdf_data/100/test20/";	    
-		
+	    String filePath = "A://work/project_finance/basic_data/rdf_data/100/test20/";
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void index() {
 		    //封装前台展示的数据
-		    User name = getSessionAttr(getCookie("cuser"));
+		    User name = getSessionAttr(getCookie("cuser"));		    
+		    setAttr("companyData",service.getByOrgNum(getPara()));
 		    setAttr("name",name);	
 			render("company.html");					
 		}

@@ -41,9 +41,12 @@ public class IndexController extends Controller {
 		@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 		public void search(){
 			
-			setAttr("clst", service.paginate(getParaToInt(0, 1), 10));			
+			//得到搜索参数
+			String searchParam = getPara("keyWord");
+			setAttr("clst", service.paginate(getParaToInt(0, 1), 10, searchParam));			
 			render("./company/companyList.html");
 		}
+		
 		
 		/*
 		 * login 0309 
@@ -55,6 +58,7 @@ public class IndexController extends Controller {
 		{
 			render("/user/login.html");
 		}
+		
 		//验证器
 		//@Before(com.ccip.bank.validator.LoginValidator.class) 
 		public void doLogin(){
@@ -98,7 +102,7 @@ public class IndexController extends Controller {
 				render("/user/login.html");
 				return;
 			}
-}
+		}
 	
 		// 已经登录用户的退出操作
 		public void logout() {
@@ -106,6 +110,7 @@ public class IndexController extends Controller {
 			removeCookie("cuser");
 			redirect("/");
 		}
+		
 		/**
 		 * register 0309
 		 * Author：Mason
@@ -122,17 +127,13 @@ public class IndexController extends Controller {
 		//@Before(RegistValidator.class)
 		public void register(){
 			
-
 			// 验证码校验
 			boolean result = validateCaptcha("verifycode");
 			if (!result) {
 				setAttr("vcMsg", "验证码错误！");
 				render("/user/reg.html");
 				return;
-			}
-			
-			
-			
+			}			
 			User user = this.getModel(User.class);
 			String uname = getPara("username");
 	        String pwd = getPara("passwd");
@@ -183,51 +184,11 @@ public class IndexController extends Controller {
 			}
 	     
 		}
-		
-		
-		
+				
 		//Jfinal 公共库使用  验证码生成
 		@ActionKey("/verifycode")
 		public void verifycode(){
 			render(new CaptchaRender());
 		}
-		
-		
-		public void  dataJson() throws BiffException, IOException{
-			
-			
-			String filePath = "A://work/project_finance/basic_data/excel_data_finance/标准数据/2018-1-4行业分类/123.xls";
-			Workbook rwb = null;        
-	        FileInputStream stream = new FileInputStream(filePath);
-			rwb = Workbook.getWorkbook(stream);
-		    Sheet sheet = rwb.getSheet(2);
-		    int num = 1;
-		    ArrayList<String>  name = new ArrayList<String> ();
-			ArrayList<String>  zone = new ArrayList<String> ();
-			ArrayList<String>  data = new ArrayList<String> ();
-			ArrayList<String> status = new ArrayList<String> ();
-			ArrayList<String>  capital = new ArrayList<String> ();						
-			Map<String,ArrayList<String>> map = new IdentityHashMap<String, ArrayList<String>>();
-			
-			while(num<=766)
-			{
-				name.add(sheet.getCell(0,num).getContents());
-				capital.add(sheet.getCell(1,num).getContents());
-				data.add(sheet.getCell(2,num).getContents());
-				status.add(sheet.getCell(3,num).getContents());
-				zone.add( sheet.getCell(12,num).getContents());				
-				num++;
-			} 	
-			
-			map.put("company_name", name);
-			map.put("zone", zone);
-			map.put("status", status);
-			map.put("data", data);
-			map.put("capital", capital);	
-			String json = JsonKit.toJson(map); 
-			renderJson(json);
-
-		}
-
 }
 
