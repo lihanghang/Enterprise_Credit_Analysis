@@ -1,4 +1,5 @@
-#define paginate(currentPage, totalPage, link)
+#define paginate(currentPage, totalPage, link, params)
+    #set(append = "?keyWord=" + params)
     #if(totalPage <= 0 || currentPage > totalPage) #return #end
     #setLocal(startPage = currentPage - 4)
     #if (startPage < 1) #setLocal(startPage = 1) #end

@@ -3,8 +3,6 @@
  */
 package com.ccip.bank.service;
 
-import java.util.List;
-
 import com.ccip.bank.model.Company;
 import com.jfinal.plugin.activerecord.Page;
 
@@ -20,8 +18,9 @@ public class CompanyService {
 	
 	private static final Company dao = new Company().dao();
 	
-	public Page<Company> paginate(int pageNumber, int pageSize, String key) {
-		return dao.paginate(pageNumber, pageSize, "select *", "from en_companyinfo where concat(IFNULL(cname,''),IFNULL(industry,''),IFNULL(start_time,'')) like ?","%"+key+"%");
+	public Page<Company> paginate(int pageNumber, int pageSize, String key, int sort) {
+		return dao.paginate(pageNumber, pageSize, "select *", 
+				"from en_companyinfo where concat(IFNULL(cname,''),IFNULL(industry,''),IFNULL(start_time,''),IFNULL(registerAuth,'')) like ?","%"+key+"%");
 	}
 	
 	public Company findById(int id) {

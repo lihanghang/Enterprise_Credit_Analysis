@@ -77,4 +77,14 @@ public abstract class BaseCompany<M extends BaseCompany<M>> extends Model<M> imp
 		return getStr("organizateNum");
 	}
 	
+	//企业地址
+	public M setRegAddress(java.lang.String regAddress) {
+		set("regAddress", regAddress);
+		return (M)this;
+	}
+	
+	public java.lang.String getRegAddress() {
+		return getStr("regAddress");
+	}
+	
 }

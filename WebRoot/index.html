@@ -7,25 +7,25 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link rel="shortcut icon" href="./resource/own/images/icon.png" />
+		<link rel="shortcut icon" href="./static/home/index/images/icon.png" />
         <!--Google fonts links-->
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 
-        <link rel="stylesheet" href="./resource/isearch/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./static/home/index/css/bootstrap.min.css">
 
 
         <!--For Plugins external css-->
-        <link rel="stylesheet" href="./resource/isearch/css/plugins.css" />
-        <link rel="stylesheet" href="./resource/isearch/css/roboto-webfont.css" />
+        <link rel="stylesheet" href="./static/home/index/css/plugins.css" />
+        <link rel="stylesheet" href="./static/home/index/css/roboto-webfont.css" />
 
         <!--Theme custom css -->
-        <link rel="stylesheet" href="./resource/isearch/css/style.css">
+        <link rel="stylesheet" href="./static/home/index/css/style.css">
 		<link rel="stylesheet" type="text/css" href="./resource/own/css/my.css" />
         <!--Theme Responsive css-->
-        <link rel="stylesheet" href="./resource/isearch/css/responsive.css" />
+        <link rel="stylesheet" href="./static/home/index/css/responsive.css" />
 
-        <script src="./resource/isearch/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-        <script type="text/javascript" src="./resource/own/js/my.js"></script>
+        <script src="./static/home/index/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script type="text/javascript" src="./static/home/index/js/my.js"></script>
      	
     </head>
  <style>
@@ -35,6 +35,7 @@
   
   		font-size: 18px;
   		text-align:left;
+  		font-weight:bold;
   }
     
     
@@ -50,7 +51,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button> -->
-                    <a class="navbar-brand" href="" ><img src="./resource/isearch/images/logo.jpg" alt="img" /></a>
+                    <a class="navbar-brand" href="" ><img src="./static/home/index/images/logo.jpg" alt="img" /></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -58,10 +59,10 @@
 
                     <ul class="nav navbar-nav navbar-right">
                       <!--   <li class="active"><a href="#home"></a></li> -->
-                        <li><a href="./search/">企业信息查询</a></li>
+                      <!--   <li><a href="./search/">企业信息查询</a></li> -->
                         <li><a href="./predict/xypj">智能化分析</a></li>
                         <li id="login"><a href="./login">登录</a></li>
-                        <li class = "active"  id = "userName" value="#(session.user)"  style="display:none;"><a href="#"><span style="color:red">#(session.user)</span> </a> </li>
+                        <li class = "active"  id = "userName" value="#(session.user)"  style="display:none;"><a href="#"><span style="color:red">欢迎您：#(session.user)</span> </a> </li>
                         <li  class = "active" id = "loginOut" style="display:none;"><a href="./logout">退出登录</a></li>
               
                     </ul>
@@ -77,15 +78,15 @@
                             <div class="col-md-10 col-md-offset-1">
                                 <div class="home-content">
 
-                                    <h1>企业信用分析</h1>
+                                    <h1>企业信息查询与智能分析</h1>
                                     <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
            <div class="home-contact">                                             				
 								<div class="input-group">
 								<form name="loginform" method="POST" id="loginform" action="search/">
-                                   <input type="text" name="keyWord" class="form-control" placeholder="输入公司名称、行业、成立时间等关键字">
-                               	 	<input type="submit" class="form-control" value="查询"> 
+                                   	<input type="text" name="keyWord" autoComplete='off' id="search" class="form-control" placeholder="输入公司名称、行业、成立时间、注册地址等关键字">
+                               	 	<input type="submit" id='btn' class="form-control" value="查询"> 
                                   <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
                                 </form> 
                                 </div>
@@ -449,20 +450,32 @@
         <div class="scrollup">
             <a href="#"><i class="fa fa-chevron-up"></i></a>
         </div>
-        <script src="./resource/isearch/js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="./resource/isearch/js/vendor/bootstrap.min.js"></script>
-        <script src="./resource/isearch/js/plugins.js"></script>
-        <script src="./resource/isearch/js/modernizr.js"></script>
-        <script src="./resource/isearch/js/main.js"></script>
+        <script src="./static/home/index/js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="./static/home/index/js/vendor/bootstrap.min.js"></script>
+        <script src="./static/home/index/js/plugins.js"></script>
+        <script src="./static/home/index/js/modernizr.js"></script>
+        <script src="./static/home/index/js/main.js"></script>
        <script type="text/javascript" >
        			var name = $('#userName').attr("value"); 
-       			console.log(name);
+       			//console.log(name);
        			if(name) {
        				document.getElementById("userName").style.display="block";
        				document.getElementById("loginOut").style.display="block";
        				document.getElementById("login").style.display="none";
        				
        			}
+       		
+                //实时监听是否键入搜索条件，默认不可点击 0327 by Mason
+                document.getElementById("btn").disabled=true;
+                $(function(){  
+                    $('#search').bind('input propertychange', function() {                     	
+                        var info = $(this).val();
+                        if(info.length != 0)
+                        {
+                        	document.getElementById("btn").disabled=false;
+                        }
+                })
+            })  
     	</script>
      
     </body>

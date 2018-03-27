@@ -10,8 +10,7 @@
     <meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
 	<meta name="Keywords" content="企业信用与智能分析">
     <link rel="stylesheet"  href="../static/home/list/Shuidi_PCSearch.css" type="text/css">
-    <link rel="shortcut icon" href="../resource/own/images/icon.png" />
-	<script src="../static/home/list/hm.js"></script>
+    <link rel="shortcut icon" href="../static/home/index/images/icon.png" />
 </head>
 
 <body>
@@ -30,7 +29,7 @@
                 <i class="triangle"></i>
                 <ul class="pull-down-two" style="bottom: -68px;">
                     <li class="first"><a href="../predict/xypj" >企业信用评级</a></li>
-                    <li><a href="./predict/hydt">行业动态预测</a></li>
+                    <li><a href="../predict/hydt">行业动态预测</a></li>
                     <li class="last"><a href="../predict/kytr">企业科研投入推荐</a></li>
                     <li class="last"><a href="../predict/dhyj">企业贷后预警</a></li>
                     <li class="last"><a href="../predict/fxpg">企业风险评估</a></li>
@@ -73,17 +72,17 @@
     <div class="sd_company_container">
         <div class="sd_form_search">
             <div class="sd_form_search_input">
-                <form action="search" method="get" id="searchForm">
-                    <input id="searchkey" type="text"  autocomplete="off" name="key" placeholder="可以按企业名称、注册号、法人、股东、高管、品牌查询" class="ui-autocomplete-input">
+                <form action="" method="post" id="searchForm">
+                    <input id="searchkey" type="text"  autocomplete="off" name="keyWord" placeholder="可按企业名称、注册号、所属行业、地区等关键字搜索" class="ui-autocomplete-input">
                    <span class="input-group-btn01">
                    <button class="btn btn-primary" type="submit" id="searchBtn"></button>
                    </span>
                 </form>
             <ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div>
             <!-- 热搜词 -->
-            <!-- <p class="sd_form_search_p" id="hotKeyWordsDiv">
-                热搜词：
-            </p> -->
+            <p class="sd_form_search_p" id="hotKeyWordsDiv">
+                【热门搜词：待实现】
+            </p> 
         </div>
     </div>
 
@@ -99,11 +98,7 @@
                         <div class="or_category">
                             <div class="or_sl_key">搜索范围</div>
                             <div class="or_sl_value searchSlEvent">
-
-                                <a href="javascript:void(0);" class="  current" inputid="search_type" seed="all">
-                                    全部
-                                </a>
-
+                                <a href="javascript:void(0);" class="  current" inputid="search_type" seed="all"> 全部</a>
                                 <a href="javascript:void(0);" class=" " inputid="search_type" seed="companyContent">
                                     企业
                                 </a>
@@ -124,10 +119,10 @@
                                     经营范围
                                 </a>
 
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
+                                <!-- <a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
                                     品牌/产品
                                 </a>
-
+ -->
                             </div>
                         </div>
                         <div class="or_category">
@@ -192,7 +187,7 @@
                 </div>
                 <div class="sd_left_block">
                     <div class="sd_left_ss">
-                        搜索<span class="sd_left_ss_name">694</span>家企业，为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
+                        搜索<span class="sd_left_ss_name">#if(key!=Null) #(key) #else #("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
                     </div>
                     <div class="sd_left_hide">
                         <div class="sd_left_deep">
@@ -201,11 +196,11 @@
                         <div class="sd_left_types searchSlEvent hover-cont" style="display:none;z-index:100;" id="sortDiv">
                             <a href="javascript:void(0);" inputid="sort" seed="0">默认排序</a>
                             <a href="javascript:void(0);" inputid="sort" seed="1">企业评分升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="1">企业评分降序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="1">注册资本升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="2">注册资本降序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="3">成立年限升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="4">成立年限降序</a>
+                            <a href="javascript:void(0);" inputid="sort" seed="2">企业评分降序</a>
+                            <a href="./?sort=3&keyWord=#(key)">注册资本升序</a>
+                            <a href="javascript:void(0);" inputid="sort" seed="4">注册资本降序</a>
+                            <a href="javascript:void(0);" inputid="sort" seed="5">成立年限升序</a>
+                            <a href="javascript:void(0);" inputid="sort" seed="6">成立年限降序</a>
                         </div>
                         </span>
                         <!-- <span class="sd_left_deep_name">公司</span> -->
@@ -247,8 +242,8 @@
             </div>
             <!-- 分页插件 -->
             <div class="pagination">
-                <div class="page">
-        	    #@paginate(clst.pageNumber, clst.totalPage, "./")
+                <div class="page">                
+        	    #@paginate(clst.pageNumber, clst.totalPage, "./", key)
     			</div>
             </div>
            
