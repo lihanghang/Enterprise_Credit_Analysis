@@ -4,8 +4,8 @@
 <div class="container-content">
     <!-- common search -->
     <div class="sd_company_container">
-        <div class="sd_form_search">
-           <p style="text-align:center; font-size:30px">企业信用评级</p>
+        <div class="sd_form_search" style="height: 10px;">
+           <p style="text-align:center; font-size:30px">企业综合信用评级</p>
         </div>
     </div>
 
@@ -13,18 +13,72 @@
         <div class="sd_cent">
             <div class="sd_cent">
                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>企业信用评级</b>
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>评级企业相关指标输入</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
+                    <div class="or_left_silde" id="searchCondition" style="height: 420px">
                         <div class="or_category">
-                         <!-- <div id="pie3" style="width: 90%;height: 400px;"></div> -->
-                         信用评级
+							<form class="form-horizontal" role="form">
+	                               <div class="form-group">
+		                                  <label for="firstname" class="col-sm-2 control-label">资产负债率（%）</label>
+		                              <div class="col-sm-10">
+                                         <input type="text" name="debt_rate" class="form-control" id="firstname" 
+                                            placeholder="请输入资产负债率（%）">
+                                        </div>
+	                               </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">EBITDA利息数（倍）</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="interest" class="form-control" id="lastname" 
+                                            placeholder="请输入EBITDA利息数（倍）">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">存货周转次数（次）</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="inventoryTurn" class="form-control" id="lastname" 
+                                            placeholder="请输入存货周转次数（次）">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">现金流动负债比率或EBITDA（%）</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="flowDebt" class="form-control" id="lastname" 
+                                            placeholder="请输入现金流动负债比率或EBITDA（%）">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">成本费用利润率（%）</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="cost" class="form-control" id="lastname" 
+                                            placeholder="请输入成本费用利润率（%）">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">所有者权益合计（万元）</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="ownerEquity" class="form-control" id="lastname" 
+                                            placeholder="请输入所有者权益合计（万元））">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">公司信用量化等级</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="creditNum" class="form-control" id="lastname" 
+                                            placeholder="请输入公司信用量化等级">
+                                        </div>
+                                   </div>
+	                               <div class="form-group">
+                                        <div class="col-sm-offset-2 col-sm-10">
+                                            <button type="submit" id="btn" class="btn btn-default">生成结果</button>
+                                        </div>
+                                    </div>
+                            </form>	
                         </div>
                    </div>
                 </div>                               
                  <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
+                    <div class="sd_left_block_tit" style="color:green">
                         <b>结果及分析</b>
                        
                     </div>

@@ -1,21 +1,9 @@
 package com.ccip.bank.user;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.IdentityHashMap;
-import java.util.Map;
-
-import jxl.Sheet;
-import jxl.Workbook;
-import jxl.read.biff.BiffException;
-
 import com.ccip.bank.model.User;
 import com.ccip.bank.service.CompanyService;
 import com.jfinal.aop.Before;
 import com.jfinal.core.Controller;
-import com.jfinal.kit.JsonKit;
 
 public class CompanyController extends Controller {	
 	
@@ -27,30 +15,34 @@ public class CompanyController extends Controller {
 		public void index() {
 		    //封装前台展示的数据
 		    User name = getSessionAttr(getCookie("cuser"));		    
-		    setAttr("companyData",service.getByOrgNum(getPara()));
+		    setAttr("companyData",service.getByOrgNum(getPara("num")));
 		    setAttr("name",name);	
 			render("company.html");					
 		}
 		
 		//企业背景页面
 		public void basicInfo()
-		{
+		{	
+			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("companyInfo.html");
 		}
 		//经营状况页面
 		public void operation()
 		{
+			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("operatingstatus.html");
 		}
 		//风险状况页面
 		public void lawsuit()
 		{
+			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("lawsuit.html");
 			}		
 		
 		//知识产权页面
 		public void intellectProperty()
 		{
+			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("intellectualproperty.html");
 		}
 		public void companyList(){

@@ -44,10 +44,6 @@ public class IndexController extends Controller {
 			//得到搜索参数
 			int sort = 0;
 			String searchParam = getPara("keyWord");			
-			if(getParaToInt("sort") != null)
-			{
-				sort = getParaToInt("sort");
-			}
 			setAttr("key", searchParam);
 			setAttr("clst", service.paginate(getParaToInt(0, 1), 10, searchParam, sort));			
 			render("./company/companyList.html");

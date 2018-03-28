@@ -4,7 +4,7 @@
 <div class="container-content">
     <!-- common search -->
     <div class="sd_company_container">
-        <div class="sd_form_search">
+        <div class="sd_form_search" style="height:50px">
            <p style="text-align:center; font-size:30px">企业科研投入推荐分析 </p>
         </div>
     </div>
@@ -13,19 +13,100 @@
         <div class="sd_cent">
             <div class="sd_cent">
                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
+                    <div class="sd_left_block_tit" style="color:green">
                         <b>企业科研投入推荐分析</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
+                    <div class="or_left_silde" id="searchCondition" style="height: 730px">
                         <div class="or_category">
-                        <!--  <div id="pie3" style="width: 90%;height: 400px;"></div> -->
-                        	企业科研投入
+                        <div class="page-header" style="height:20px">  
+        					<small>投入指标</small>  
+						</div>
+                             <form class="form-horizontal" role="form">
+                                   <div class="form-group">
+                                          <label for="firstname" class="col-sm-2 control-label">科研投入</label>
+                                      <div class="col-sm-10">
+                                         <input type="text" name="debt_rate" style="width:25%" class="form-control" id="firstname" 
+                                            placeholder="请输入科研投入">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">本科及以上学历人数</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="inventoryTurn"  style="width:25%"  class="form-control" id="lastname" 
+                                            placeholder="请输入本科及以上学历人数">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">员工人数</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="flowDebt"  style="width:25%"  class="form-control" id="lastname" 
+                                            placeholder="请输入员工人数">
+                                        </div>
+                                   </div>
+                                   <div class="page-header">  
+        								<small>产出指标</small>  
+									</div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">软著总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="cost" style="width:25%" class="form-control" id="lastname" 
+                                            placeholder="请输入软著总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group" >
+                                           <label for="lastname" class="col-sm-2 control-label">专利总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="ownerEquity" style="width:25%" class="form-control" id="lastname" 
+                                            placeholder="请输入专利总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">商标总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="creditNum" style="width:25%" class="form-control" id="lastname" 
+                                            placeholder="请输入商标总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">作品总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="creditNum" style="width:25%" class="form-control" id="lastname" 
+                                            placeholder="请输入作品总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">网站总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="creditNum" style="width:25%"  class="form-control" id="lastname" 
+                                            placeholder="请输入网站总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">利润总计</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="creditNum" style="width:25%"  class="form-control" id="lastname" 
+                                            placeholder="请输入公司利润总计">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                           <label for="lastname" class="col-sm-2 control-label">营业收入</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" name="interest" style="width:25%"  class="form-control" id="lastname" 
+                                            placeholder="请输入营业收入">
+                                        </div>
+                                   </div>
+                                   <div class="form-group">
+                                        <div class="col-sm-offset-2 col-sm-10">
+                                            <button type="submit" id="btn" class="btn btn-default">生成结果</button>
+                                        </div>
+                                    </div>
+                            </form> 
                         </div>
                    </div>
                 </div>                               
                  <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>结果及分析</b>                       
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>结果分析及可视化</b>                       
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 300px">                   
                     <div class="or_category">

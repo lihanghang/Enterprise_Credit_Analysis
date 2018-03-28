@@ -187,7 +187,7 @@
                 </div>
                 <div class="sd_left_block">
                     <div class="sd_left_ss">
-                        搜索<span class="sd_left_ss_name">#if(key!=Null) #(key) #else #("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
+                        搜索<span class="sd_left_ss_name">#if(key!="") #(key) #else #("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
                     </div>
                     <div class="sd_left_hide">
                         <div class="sd_left_deep">
@@ -213,7 +213,7 @@
                                    <div class="or_search_row_img">                                                                                                             
                                     </div> 
                                     <div class="or_search_row_content">
-                                        <a href="../company/#(x.organizateNum)" companyname="#(x.cname)">
+                                        <a href="../company/?num=#(x.organizateNum)" companyname="#(x.cname)">
                                             	#(x.cname)
                                             <span class="icon-style icon-s4">较好</span></a>
                                         <div class="or_search_row_company">

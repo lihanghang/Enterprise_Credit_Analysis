@@ -37,7 +37,7 @@
                     </div> 
                 </div>
                 <div class="tab-pane fade" id="market">
-                    <p>市场预警</p>
+                    <div id="Risk" style="width: 1100px;height: 400px;"></div>
                 </div>
                 <div class="tab-pane fade" id="invest">
                    <div class="or_category">
@@ -918,14 +918,15 @@ $.ajax({
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
+        console.log("test"+data);
         $.each(data, function(index,item) {
             lead_index.push(item['领先指数']);
             coincident_index.push(item['同步指数']);
             lag_index.push(item['滞后指数']);
             years.push(item['id']);
-            //console.log(item['id']);
+           
         });     
-        
+        console.log(lead_index);
         pie5.hideLoading();    //隐藏加载动画
         pie5.setOption({        //加载数据图表                
             dataZoom: [{
@@ -960,6 +961,255 @@ $.ajax({
 
 pie5.setOption(option);
 })();
+
+//房地产风险预警
+(function(){
+    var Risk = echarts.init(document.getElementById("Risk"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '房地产市场风险预警',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },
+                backgroundColor: 'rgba(255,255,255,1)',
+                padding: [5, 10],
+                textStyle: {
+                    color: '#7588E4',
+                },
+                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','偏热线','偏冷线','适度上限','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    rotate: 90,
+                    interval:0,
+                    textStyle: {
+                        fontSize: 18
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                max: '103',
+                min:'97',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    
+                    textStyle: {
+                        fontSize: 14
+                    }
+                }
+            },
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                show:true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 2
+                    }
+                }
+            }, {
+                name: '偏热线',
+                type: 'line',
+                smooth: true,
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '偏冷线',
+                type: 'line',
+                smooth:false, 
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#000093',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '适度上限',
+                type: 'line',
+                smooth:false, 
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '适度下限',
+                type: 'line',
+                smooth:false, 
+                showSymbol: false,
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                     normal: {
+                        color: '#5793f3',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }]
+        };
+
+ Risk.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index = [];   //领先指数
+var hot_line   = [];   //偏热线
+var cold_line  = [];  //偏冷线
+var upper      = [];   //适度上限
+var limit      = [];  //适度下限
+var years      = []; //横坐标：年份
+$.ajax({
+    "url": "./getRiskPreAlarming",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            hot_line.push(item['偏热线']);
+            cold_line.push(item['偏冷线']);
+            upper.push(item['适度上限']);
+            limit.push(item['适度下限']);
+            years.push(item['id']);
+        });           
+        Risk.hideLoading();    //隐藏加载动画
+        Risk.setOption({        //加载数据图表                
+             dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], 
+            xAxis: {
+                data: years
+            },
+            series: [{
+                name: "领先指数", data: lead_index
+            }, {
+                name: "偏热线",  data: hot_line
+            }, {
+                name: "偏冷线",  data: cold_line
+            }, {
+                name: "适度上限",  data: upper
+            }, {
+                name: "适度下限",  data: limit
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        Risk.hideLoading();
+    }
+}); 
+
+Risk.setOption(option);
+})();
+
+
 </script>
 
 

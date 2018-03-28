@@ -44,10 +44,21 @@ public class PredictController extends Controller{
 	public void getDiffIndex(){
 		
 		List<Market> diffIdata = Market.diffusion.getDiffusionIndex();
+		
 		String diffJson = JsonKit.toJson(diffIdata);
+		System.out.println(diffJson);
 		renderJson(diffJson);
 	}
 	
+	//房地产风险预警数据0328
+		public void getRiskPreAlarming(){
+			
+			List<Market> Riskdata = Market.ci.getRiskPreAlarming();			
+			String RiskJson = JsonKit.toJson(Riskdata);			
+			//System.out.println(RiskJson);
+			renderJson(RiskJson);
+		}
+		
 	//行业动态页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void hydt(){

@@ -10,7 +10,6 @@ import com.jfinal.plugin.activerecord.Model;
  * 管理员数据模型操作
  */
 
-
 public class Market extends Model<Market>{
     		
 	
@@ -29,5 +28,10 @@ public class Market extends Model<Market>{
 	//获取扩散指数数据
 	public List<Market> getDiffusionIndex(){
 		return diffusion.find("select * from en_diffusion_index order by id asc");
+	}
+	
+	//获取风险预警数据0328
+	public List<Market> getRiskPreAlarming(){
+		return ci.find("select id,领先指数,偏冷线,偏热线,适度上限,适度下限  from en_ci order by id asc");
 	}
 }

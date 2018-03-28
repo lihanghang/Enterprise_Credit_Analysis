@@ -14,8 +14,8 @@
     <link rel="stylesheet"  href="../static/home/detail/Shuidi_Detail_DocMore.css" type="text/css"> 
     <link rel="stylesheet"  href="../static/home/basicinfo/Shuidi_Detail_BaseInfo.css" type="text/css"> 
     <link rel="stylesheet"  href="../static/home/operatingstatus/Shuidi_Detail_OperatingStatus.css" type="text/css"> 
-    <link rel="shortcut icon" href="../resource/own/images/icon.png" />  
-    <script src="../static/home/list/hm.js"></script>
+    <link rel="shortcut icon" href="../static/home/index/images/icon.png" />  
+   <!--  <script src="../static/home/list/hm.js"></script> -->
 </head>
 <body>
 
@@ -29,7 +29,7 @@
                 <ul class="pull-down-one" style="bottom: -112px;">
                 </ul>
             </div> -->
-            <div class="triangle-box"><a href="../search/">企业信息查询</a></div> 
+            <div class="triangle-box"><a href="../search/?keyWord="">企业信息查询</a></div> 
             <div class="triangle-box" >智能分析服务
                 <i class="triangle"></i>
 
@@ -147,7 +147,7 @@
             企业主设置不对外展示
             <span class="vi"><label></label></span>
         </div>
-        <div class="neck-item" data-href="./basicInfo">
+        <div class="neck-item" data-href="./basicInfo?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">企业背景</div></a>
             <ul>
                 <li><a href="#">工商信息<span class="text-silver">10</span></a></li>
@@ -159,7 +159,7 @@
                 <li style="display: none;"><a href="#">企业信用等级报告<span class="text-silver" id="reportCount">4</span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./operation">
+        <div class="neck-item" data-href="./operation?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">经营状况</div></a>
             <ul>
                 <li style="display: none;"><a href="#">融资情况<span class="text-silver"></span></a></li>
@@ -172,7 +172,7 @@
                 <li><a href="#">对外投资<span class="text-silver" id="outinvestCount">1</span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./lawsuit">
+        <div class="neck-item" data-href="./lawsuit?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">风险状况</div></a>
             <ul>
                 <li><a href="#"> 司法风险 <span class="text-silver"></span></a></li>
@@ -182,7 +182,7 @@
                 <li><a href="#"> 行政处罚 <span class="text-silver"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item noborder" data-href="./intellectProperty">
+        <div class="neck-item noborder" data-href="./intellectProperty?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">知识产权</div></a>
             <ul>
                 <li><a href="#">商标信息<span class="text-silver"></span></a></li>
@@ -219,7 +219,7 @@
                <div>
                    <a href="http://ccip.ucas.ac.cn/">关于我们</a>
                    <a href="#">隐私协议</a>
-                   <a href="#">帮助中心</a>
+                   <a href="../admin/"><span style="color:#00ae64">管理员入口</span></a>
                </div>
             </div>
             <div class="sd_index_foot_s2">
