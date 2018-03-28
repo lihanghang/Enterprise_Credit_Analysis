@@ -124,11 +124,11 @@
     <div class="panel list-horizontal">
         <div class="neck-top-left item">
             <input type="hidden" value="" id="company_name_container_tmp">
-            <div class="title-lg">你可能感兴趣的相关公司
+            <div class="title-lg">你可能感兴趣的相关公司【待实现】
             </div>
             <ul>
-                <li><a href="http://shuidi.cn/company-21b41e72ed75afb7553cc71f80d48054.html" target="_blank"><i class="icon bg-success"></i>中建三局集团有限公司</a></li>
-                <li><a href="http://shuidi.cn/company-eafa41df007f6febfc4203a459012ac9.html" target="_blank"><i class="icon bg-success"></i>中国建筑第三工程局有限公司</a></li>
+               <!--  <li><a href="#" target="_blank"><i class="icon bg-success"></i>中建三局集团有限公司</a></li>
+                <li><a href="#" target="_blank"><i class="icon bg-success"></i>中国建筑第三工程局有限公司</a></li> -->
             </ul>
             <div class="page" id="relationCompanyPage" data-config="{npage:1, spage:1, total:6, ajax: &#39;/?action=relation_company&amp;company_name_digest=cabe75387416bdce9fc2af48000527b1&#39;}"></div>
         </div>
@@ -150,9 +150,9 @@
         <div class="neck-item" data-href="./basicInfo?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">企业背景</div></a>
             <ul>
-                <li><a href="#">工商信息<span class="text-silver">10</span></a></li>
-                <li><a href="#">主要成员<span class="text-silver">10</span></a></li>
-                <li style="display: none;"><a href="#">股东信息<span class="text-silver">2</span></a></li>
+                <li><a href="#managerInfo">工商信息<span class="text-silver">10</span></a></li>
+                <li><a href="#personInfo">主要成员<span class="text-silver">10</span></a></li>
+                <li style="display: none;"><a href="#partnerInfo">股东信息<span class="text-silver">2</span></a></li>
             </ul>
             <ul>
                 <li><a href="#">分支机构<span class="text-silver"></span></a></li>
@@ -185,13 +185,13 @@
         <div class="neck-item noborder" data-href="./intellectProperty?num=#(companyData.organizateNum)">
             <a href="javascript:void(0)"><div class="title-lg">知识产权</div></a>
             <ul>
-                <li><a href="#">商标信息<span class="text-silver"></span></a></li>
-                <li style="display: none;"><a href="#">专利信息<span class="text-silver"></span></a></li>
-                <li style="display: none;"><a href="#">软件著作信息<span class="text-silver"></span></a></li>
+                <li><a href="#shangbiaoInfo">商标信息<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#zhuanliInfo">专利信息<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#softInfo">软件著作信息<span class="text-silver"></span></a></li>
             </ul>
             <ul>
-                <li><a href="#">作品著作信息<span class="text-silver"></span></a></li>
-                <li><a href="#">网站信息<span class="text-silver"></span></a></li>
+                <li><a href="#zuopinInfo">作品著作信息<span class="text-silver"></span></a></li>
+                <li><a href="#webInfo">网站信息<span class="text-silver"></span></a></li>
             </ul>
         </div>
     </div>
