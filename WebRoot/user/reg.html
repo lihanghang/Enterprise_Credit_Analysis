@@ -2,18 +2,17 @@
 <html lang="en">
 
     <head>
-
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>企业信息查询与智能分析系统</title>
-
-        <!-- CSS -->
+        <!-- CSS -->      
+		<link rel="shortcut icon" href="./static/home/index/images/icon.png" />
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
-        <link rel="stylesheet" href="./resource/login/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="./resource/login/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="./resource/login/css/form-elements.css">
-        <link rel="stylesheet" href="./resource/login/css/style.css">
+        <link rel="stylesheet" href="./static/home/login/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./static/home/login/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="./static/home/login/css/form-elements.css">
+        <link rel="stylesheet" href="./static/home/login/css/style.css">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -21,13 +20,6 @@
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
-
-        <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="./resource/own/images/icon.png" />
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./resource/login/ico/apple-touch-icon-144-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./resource/login/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./resource/login/ico/apple-touch-icon-72-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" href="./resource/login/ico/apple-touch-icon-57-precomposed.png">
 
     </head>
 
@@ -73,13 +65,13 @@
 			                        </div>
 			                        <span style="color: red">#(pwdMsg)</span>	                        
 			                        <div class="form-group">
-			                        	<label class="sr-only" for="form-password">rePassword</label>
-			                        	<input type="password" name="repasswd" placeholder="请再次输入密码" class="form-password form-control" id="form-password">
+			                        	<label class="sr-only" for="form-repassword">rePassword</label>
+			                        	<input type="password" name="repasswd" placeholder="请再次输入密码" class="form-password form-control" id="form-repassword">
 			                        </div>
 			                        <span style="color: red">#(confirmMsg)</span>
 			                        <div class="form-group">
-			                        	<label class="sr-only" for="form-password">email</label>
-			                        	<input type="text" name="email" placeholder="请输入邮箱" class="form-password form-control" id="form-password">
+			                        	<label class="sr-only" for="form-email">email</label>
+			                        	<input type="text" name="email" placeholder="请输入邮箱" class="form-password form-control" id="form-email">
 			                        </div>
 			                        <span style="color: red"></span>
 			                        <div class="form-group">
@@ -87,11 +79,7 @@
 			                        		<input type="text" name="verifycode" placeholder="验证码">
             								<img class="ui medium right floated image" src="verifycode">
             								<span style="color: red">#(vcMsg)</span>
-			                        </div>
-									
-		<div class="form-group">
-			
-	</div>                
+			                        </div>             
 			                        <button type="submit" class="btn" >注册</button>
 			                    </form>
 			                    	<a href="./">>返回首页</a>
@@ -115,39 +103,13 @@
                         </div>
                     </div> -->
                 </div>
-            </div>
-            
+            </div>            
         </div>
-       <div class="copyrights">2017-2018版权所有<a href="http://ccip.ucas.ac.cn/"  title="CCIP实验室">ccip实验室</a></div>
-
-
+       <div class="copyrights">2017-2018版权所有<a href="http://ccip.ucas.ac.cn/"  title="CCIP实验室">CCIP实验室课题组</a></div>
         <!-- Javascript -->
-        <script src="./resource/login/js/jquery-1.11.1.min.js"></script>
-        <script src="./resource/login/bootstrap/js/bootstrap.min.js"></script>
-        <script src="./resource/login/js/jquery.backstretch.min.js"></script>
-        <script src="./resource/login/js/scripts.js"></script>
-        
-     
-<script type="text/javascript">
-
-/* function check(){
-
-	   var username = document.getElementsByName("username");
-	   var passwd = document.getElementsByName("password");
-	   var email = document.getElementByName("email");
-	   var type = document.getElementByName("type");
-	   var depart = document.getElementByName("depart");			 	   
-	   //提交form表单
-	   console.log(depart);
-	   document.reguser.submit();
-
-	   
-	  }
- */
-
-</script>
-  
-
-    </body>
-
+        <script src="./static/home/login/js/jquery-1.11.1.min.js"></script>
+        <script src="./static/home/login/bootstrap/js/bootstrap.min.js"></script>
+        <script src="./static/home/login/js/jquery.backstretch.min.js"></script>
+        <script src="./static/home/login/js/scripts.js"></script>        
+  </body>
 </html>

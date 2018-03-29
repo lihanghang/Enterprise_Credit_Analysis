@@ -6,12 +6,13 @@ public class AdminController extends Controller {
 
 	 public void index(){
 			
-		render("login/login.html");				
+		 redirect("/admin/index/index.html");
 		
 	 }
 	 public void  login(){
 		 
-		 render("index/index.html");
+		 render("login/login.html");				
+		
 		 
 	 }
 }

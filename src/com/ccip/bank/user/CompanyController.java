@@ -21,18 +21,24 @@ public class CompanyController extends Controller {
 		}
 		
 		//企业背景页面
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void basicInfo()
 		{	
 			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("companyInfo.html");
 		}
 		//经营状况页面
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void operation()
 		{
 			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("operatingstatus.html");
 		}
 		//风险状况页面
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void lawsuit()
 		{
 			setAttr("companyData",service.getByOrgNum(getPara("num")));
@@ -40,11 +46,15 @@ public class CompanyController extends Controller {
 			}		
 		
 		//知识产权页面
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void intellectProperty()
 		{
 			setAttr("companyData",service.getByOrgNum(getPara("num")));
 			render("intellectualproperty.html");
 		}
+	    //拦截器，防止未登录用户进入
+	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void companyList(){
 			String company = getPara("keyword");
 			render("companyList.html");

@@ -1,14 +1,4 @@
 package com.ccip.bank.user;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.IdentityHashMap;
-import java.util.Map;
-
-import jxl.Sheet;
-import jxl.Workbook;
-import jxl.read.biff.BiffException;
-
 import com.ccip.bank.model.User;
 import com.ccip.bank.service.CompanyService;
 import com.ccip.bank.utils.DateUtils;
@@ -18,7 +8,6 @@ import com.jfinal.captcha.CaptchaRender;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.ext.kit.SessionIdKit;
-import com.jfinal.kit.JsonKit;
 
 
 /**
