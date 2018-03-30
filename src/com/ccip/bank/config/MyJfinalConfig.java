@@ -63,6 +63,5 @@ public class MyJfinalConfig extends JFinalConfig {
 		me.addSharedFunction("/company/common/_menu.html");
         me.addSharedFunction("/company/common/predict_menu.html");
         me.addSharedFunction("/company/common/_paginate.html");
-		
 	}  
 }  

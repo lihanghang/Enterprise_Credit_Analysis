@@ -16,12 +16,15 @@ import com.jfinal.ext.kit.SessionIdKit;
 
 public class IndexController extends Controller {
 	
+	
+	//private final Logger logger = Logger.getLogger("");
 	static CompanyService service = new CompanyService();
 		//进入首页
 		@ActionKey("/")
 		public void index() {
+			//long l = System.currentTimeMillis();
 			String serverIp = getRequest().getRemoteAddr();
-			System.out.println(serverIp);
+			System.out.println("访问 ip地址 ："+serverIp);
 			render("index.html");
 		}
 		
