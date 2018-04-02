@@ -1,6 +1,8 @@
 package com.ccip.bank.config;
 
 import com.ccip.bank.model.Company;
+import com.ccip.bank.model.InvestFactor;
+import com.ccip.bank.model.InvestPotential;
 import com.ccip.bank.model.Market;
 import com.ccip.bank.model.User;
 import com.ccip.bank.routes.AdminRoutes;
@@ -45,6 +47,8 @@ public class MyJfinalConfig extends JFinalConfig {
     		arp.addMapping("en_ci","id", Market.class);	// 映射合成指数分布核心数据表
             arp.addMapping("en_diffusion_index","id", Market.class); //映射分散指数核心数据表            
             arp.addMapping("en_companyInfo","id", Company.class); //映射公司信息数据表
+            arp.addMapping("en_market_city",InvestPotential.class); //映射投资潜力城市表
+            arp.addMapping("en_market_city_factor",InvestFactor.class); //映射各城市投资潜力因子
     		me.add(arp);
     }  
   

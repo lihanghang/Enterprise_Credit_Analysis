@@ -1,6 +1,7 @@
 package com.ccip.bank.user;
 
 import java.util.Map;
+
 import com.ccip.bank.model.EnterpriseInfoRdf;
 import com.ccip.bank.model.User;
 import com.ccip.bank.service.CompanyService;

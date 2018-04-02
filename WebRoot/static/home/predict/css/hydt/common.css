@@ -1,0 +1,12 @@
+* {
+font-family:'微软雅黑',Arial, Helvetica, sans-serif;
+font-size:14px;
+padding:0px;
+margin:0px;
+}
+.main {
+margin:20px;
+}
+
+.main{width: 500px; margin: 200px auto}
+.main select{margin-left: 50px;width: 130px; }
