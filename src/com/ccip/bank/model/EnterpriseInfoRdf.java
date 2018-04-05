@@ -31,7 +31,7 @@ public class EnterpriseInfoRdf extends Controller{
 		     "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>"+ 
 		     "PREFIX base:<http://ccip.ucas.ac.cn/resource#>"+ 
 		     "PREFIX enterprise:<http://ccip.ucas.ac.cn/ontology/company#>";
-	static String filePath = "A://EnterpriseInfoSearchSysDataStore/basicInfoRdf/"; //data resource
+	static String filePath = "A://SysRdfDataSources/"; //data resource
 	static OntModel ontModel = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
 	
 	//basicInfo dataInterface

@@ -251,7 +251,7 @@ return info;
 		            }
 		        }
 		    },
-		    yAxis: {
+		    yAxis: [{
 		        type: 'value',
 		        name:'指数',
 		        splitLine: {
@@ -274,7 +274,32 @@ return info;
 		                fontSize: 14
 		            }
 		        }
-		    },
+		    },{
+                type: 'value',
+                name:'潜力指数',
+                /* max: '125',
+                min:'95', */
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                axisTick: {
+                    show: false
+                },
+                axisLine: {
+                    lineStyle: {
+                        color: '#609ee9'
+                    }
+                },
+                axisLabel: {
+                    margin: 10,
+                    
+                    textStyle: {
+                        fontSize: 14
+                    }
+                }
+            }],
 		    series: [
             {
 		        name: '盈利能力',
@@ -343,6 +368,7 @@ return info;
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
+                yAxisIndex:1,
                 data: [],
                 
                 itemStyle: {
@@ -388,7 +414,7 @@ $.ajax({
         
         pie3.hideLoading();    //隐藏加载动画
         pie3.setOption({        //加载数据图表                
-            dataZoom: [{
+         /*    dataZoom: [{
             type: 'inside',
             start: 0,
             end: 60
@@ -398,7 +424,7 @@ $.ajax({
             y: '90%',
             start: 0,
             end: 50
-        }],
+        }], */
             xAxis: {
                 data: years
             },
@@ -757,7 +783,7 @@ pie6.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
+                showSymbol: true, 
                 symbol: 'circle',
                 symbolSize: 2,
                 data: [],
@@ -921,7 +947,7 @@ pie7.setOption(option);
 		        type: 'line',
 		        smooth: true,
 		        show:true,
-		        showSymbol: false,
+		        showSymbol: true, 
 		        symbol: 'circle',
 		        symbolSize: 2,
 		        data: [],
@@ -940,7 +966,7 @@ pie7.setOption(option);
 		        name: '偏冷',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: false,
+		        showSymbol: true, 
 		        symbol: 'circle',
 		        symbolSize: 2,
 		        data: [],
@@ -959,7 +985,7 @@ pie7.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
+                showSymbol: true, 
                 symbol: 'circle',
                 symbolSize: 2,
                 data: [],
@@ -1142,7 +1168,7 @@ pie8.setOption(option);
 		        name: '偏冷',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: false,
+		        showSymbol: true, 
 		        symbol: 'circle',
 		        symbolSize: 2,
 		        data: [],
@@ -2104,7 +2130,7 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
             , {
                 name: '滞后指数',
                 type: 'line',
-                smooth:false, 
+                smooth:true, 
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
@@ -2124,7 +2150,7 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
             , {
                 name: 'HPY',
                 type: 'line',
-                smooth: false, //实现变虚线设置为false，默认为true
+                smooth: true, 
                // showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
@@ -2345,7 +2371,7 @@ pie4.setOption(option);
             , {
                 name: '滞后指数',
                 type: 'line',
-                smooth:false, 
+                smooth:true, 
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
@@ -2552,7 +2578,7 @@ pie5.setOption(option);
             }, {
                 name: '偏冷线',
                 type: 'line',
-                smooth:false, 
+                smooth:true,  
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
@@ -2570,7 +2596,7 @@ pie5.setOption(option);
             }, {
                 name: '适度上限',
                 type: 'line',
-                smooth:false, 
+                smooth:true, 
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
@@ -2588,7 +2614,7 @@ pie5.setOption(option);
             }, {
                 name: '适度下限',
                 type: 'line',
-                smooth:false, 
+                smooth:true, 
                 showSymbol: false,
                 symbol: 'circle',
                 symbolSize: 2,
