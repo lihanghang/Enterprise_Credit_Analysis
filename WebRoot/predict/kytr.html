@@ -21,25 +21,25 @@
                         <div class="page-header" style="height:20px">  
         					<small>投入指标</small>  
 						</div>
-                             <form class="form-horizontal" role="form">
+                             <form class="form-horizontal" id="test" action="./kytr_model" role="form" method="POST" onsubmit="return saveReport();">
                                    <div class="form-group">
                                           <label for="firstname" class="col-sm-2 control-label">科研投入</label>
                                       <div class="col-sm-10">
-                                         <input type="text" name="debt_rate" style="width:25%" class="form-control" id="firstname" 
+                                         <input type="text" name="scienceInvest.sci_invest" style="width:25%" class="form-control" id="firstname" 
                                             placeholder="请输入科研投入">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">本科及以上学历人数</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="inventoryTurn"  style="width:25%"  class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.edu_num"  style="width:25%"  class="form-control" id="lastname" 
                                             placeholder="请输入本科及以上学历人数">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">员工人数</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="flowDebt"  style="width:25%"  class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.work_num"  style="width:25%"  class="form-control" id="lastname" 
                                             placeholder="请输入员工人数">
                                         </div>
                                    </div>
@@ -49,49 +49,49 @@
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">软著总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="cost" style="width:25%" class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.soft_num" style="width:25%" class="form-control" id="lastname" 
                                             placeholder="请输入软著总计">
                                         </div>
                                    </div>
                                    <div class="form-group" >
                                            <label for="lastname" class="col-sm-2 control-label">专利总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="ownerEquity" style="width:25%" class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.patent_num" style="width:25%" class="form-control" id="lastname" 
                                             placeholder="请输入专利总计">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">商标总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="creditNum" style="width:25%" class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.brand_num" style="width:25%" class="form-control" id="lastname" 
                                             placeholder="请输入商标总计">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">作品总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="creditNum" style="width:25%" class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.works_num" style="width:25%" class="form-control" id="lastname" 
                                             placeholder="请输入作品总计">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">网站总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="creditNum" style="width:25%"  class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.web_num" style="width:25%"  class="form-control" id="lastname" 
                                             placeholder="请输入网站总计">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">利润总计</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="creditNum" style="width:25%"  class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.profit_num" style="width:25%"  class="form-control" id="lastname" 
                                             placeholder="请输入公司利润总计">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">营业收入</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="interest" style="width:25%"  class="form-control" id="lastname" 
+                                            <input type="text" name="scienceInvest.receipt_num" style="width:25%"  class="form-control" id="lastname" 
                                             placeholder="请输入营业收入">
                                         </div>
                                    </div>
@@ -110,7 +110,6 @@
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 300px">                   
                     <div class="or_category">
-                          <p>输出结果及结果说明</p>                          
                      </div>
                      </div>
                 </div>
@@ -122,243 +121,14 @@
 #end
 
 <script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-    var search = new Shuidi.PCSearch();
-    search.init();
-</script>
-<!-- 行业动态数据异步加载请求 -->
-<script>
-
-//Echarts接口调用及数据处理
-(function(){
-	var pie3 = echarts.init(document.getElementById("pie3"));
-	/* pie3.showLoading({
-     text: "图表数据正在努力加载..."
- }); */
- option = {
-		    title: {
-		        text: '房地产行业财务分析',
-		        left: '50%',
-		        textAlign: 'center'
-		    },
-		    tooltip: {
-		        trigger: 'axis',
-		        axisPointer: {
-		            lineStyle: {
-		                color: '#000'
-		            }
-		        },
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
-		    },
-		    legend: {
-		        left:"20",
-		        //orient: 'ver',
-		        data: ['盈利能力','偿债能力','经营效率','增长潜力']
-		    },
-		    xAxis: {
-		        type: 'category',
-		        name:'年份',
-		        data: [],
-		        boundaryGap: false,
-		        splitLine: {
-		            show: true,
-		            interval: 'auto',
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
-		        }
-		    },
-		    yAxis: {
-		        type: 'value',
-		        name:'指数',
-		        splitLine: {
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
-		    },
-		    series: [
-            {
-		        name: '盈利能力',
-		        type: 'line',
-		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }, {
-		        name: '偿债能力',
-		        type: 'line',
-		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }
-            , {
-                name: '经营效率',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-            , {
-                name: '增长潜力',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#5793f3'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-
-            ]
-		};
-
-pie3.showLoading();    //数据加载完之前先显示一段简单的loading动画
-
-//ajax异步请求数据
-var profit   = [];   //盈利能力
-var debt     = [];     //偿债能力
-var manager  = [];  //经营效率
-var increase = []; //增长潜力
-var years    = []; //横坐标：年份
-$.ajax({
-    "url": "./marketData",      //路径
-    "cache": false,              //不缓存
-    "async": true ,               //默认true即异步（优先选择）
-    "type": "GET",              //POST方式提交
-    "dataType": "json",          //json格式，重要
-    "contentType": "application/json",      //json格式                            
-    success: function (data) { //成功同步请求数据      	
-        //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
-        
-        pie3.hideLoading();    //隐藏加载动画
-        pie3.setOption({        //加载数据图表                
-            dataZoom: [{
-            type: 'inside',
-            start: 0,
-            end: 50
-        }, {
-            show: true,
-            type: 'slider',
-            y: '90%',
-            start: 0,
-            end: 50
-        }],
-            xAxis: {
-                data: years
-            },
-            series: [{
-                name: "盈利能力",  data: profit
-            }, {
-                name: "偿债能力",  data: debt
-            }, {
-                name: "经营效率",  data: manager
-            }, {
-                name: "增长潜力",  data: increase
-            }]
-        });
-    },
-    error: function (errorMsg) {
-        //请求失败时执行该函数
-        alert("图表请求数据失败!");
-        pie3.hideLoading();
-    }
-}); 
-
-pie3.setOption(option);
-})();
+function saveReport() {  
+    // jquery 表单提交  
+    $("#test").ajaxSubmit(function(message) {  
+          // 对于表单提交成功后处理，message为提交页面saveReport.htm的返回内容  
+       });  
+      
+    return false; // 必须返回false，否则表单会自己再做一次提交操作，并且页面跳转  
+}  
 
 </script>
 
