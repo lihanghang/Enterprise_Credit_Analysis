@@ -1,5 +1,6 @@
 package com.ccip.bank.user;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import DEA.research;
@@ -12,10 +13,13 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
+import com.jfinal.kit.Ret;
+import com.mathworks.toolbox.javabuilder.MWArray;
 import com.mathworks.toolbox.javabuilder.MWClassID;
 import com.mathworks.toolbox.javabuilder.MWComplexity;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
+import com.mathworks.toolbox.javabuilder.external.org.json.JSONArray;
 /**
  * 
  * @author Mason
@@ -140,8 +144,7 @@ public class PredictController extends Controller{
 		//接受测试参数
 		ScienceInvest paraBean = getBean(ScienceInvest.class);
 		System.out.println(paraBean);
-		research test = new research();
-		//System.out.println(sci_invest);				
+		research test = new research();			
 		//new int[]{11,2}代表矩阵为11行2列的矩阵
 				//MWClassID.DOUBLE代表矩阵中数为double类型，MWComplexity.REAL代表矩阵中是实数
 				//in 投入矩阵  out 产出矩阵
@@ -167,17 +170,15 @@ public class PredictController extends Controller{
 				String  f_in  = "D://java-project/enterpriseInfo/datasets/zhibiao-input.xlsx";
 				String  f_out = "D://java-project/enterpriseInfo/datasets/zhibiao-output.xlsx";				
 				result = test.importFile(3,f_in,f_out,in,out);
-				double scale = (double) result[2];
-				setAttr("msg", result);
-				setAttr("scale", scale);
-				render("kytr.html");
-		
+				MWNumericArray ccr   = (MWNumericArray)result[0];
+				MWNumericArray bcc   = (MWNumericArray)result[1];
+				MWNumericArray scale = (MWNumericArray)result[2];
+				List lst = new ArrayList();
+				lst.add(ccr.getFloat());
+				lst.add(bcc.getFloat());
+				lst.add(scale.getFloat());				
+				renderJson("ret",lst);
 	}
-	
-	
-	
-	
-	
 	
 	//贷后预警页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
@@ -185,6 +186,5 @@ public class PredictController extends Controller{
 
 		render("dhyj.html");
 	}
-
 	
 }

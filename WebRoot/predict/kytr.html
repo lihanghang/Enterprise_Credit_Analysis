@@ -16,16 +16,16 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>企业科研投入推荐分析</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 730px">
+                    <div class="or_left_silde" id="searchCondition" style="height:720px;">
                         <div class="or_category">
                         <div class="page-header" style="height:20px">  
-        					<small>投入指标</small>  
+        					<small>输入投入指标数据</small>  
 						</div>
-                             <form class="form-horizontal" id="test" action="./kytr_model" role="form" method="POST" onsubmit="return saveReport();">
+                             <form   class="form-horizontal" name="form1" id="kytr_data"  onsubmit="return false" action="##" method="post"">
                                    <div class="form-group">
                                           <label for="firstname" class="col-sm-2 control-label">科研投入</label>
                                       <div class="col-sm-10">
-                                         <input type="text" name="scienceInvest.sci_invest" style="width:25%" class="form-control" id="firstname" 
+                                         <input type="text" name="scienceInvest.sci_invest" style="width:25%"  class="form-control" id="firstname" 
                                             placeholder="请输入科研投入">
                                         </div>
                                    </div>
@@ -44,7 +44,7 @@
                                         </div>
                                    </div>
                                    <div class="page-header">  
-        								<small>产出指标</small>  
+        								<small>输入产出指标数据</small>  
 									</div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">软著总计</label>
@@ -97,7 +97,7 @@
                                    </div>
                                    <div class="form-group">
                                         <div class="col-sm-offset-2 col-sm-10">
-                                            <button type="submit" id="btn" class="btn btn-default">生成结果</button>
+                                            <button type="submit" id="btn" class="btn btn-default">开始分析</button>
                                         </div>
                                     </div>
                             </form> 
@@ -108,9 +108,11 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>结果分析及可视化</b>                       
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">                   
-                    <div class="or_category">
-                     </div>
+                    <div class="or_left_silde" id="searchCondition" style="height: 300px">  
+                    <p id="msg"></p>                 
+                    <div class="or_category" style="text-align:center" id="loading"></div>
+                     <div id="radar" style="width: 50%;height: 200px;"></div>
+                     
                      </div>
                 </div>
             </div>
@@ -121,15 +123,102 @@
 #end
 
 <script>
-function saveReport() {  
-    // jquery 表单提交  
-    $("#test").ajaxSubmit(function(message) {  
-          // 对于表单提交成功后处理，message为提交页面saveReport.htm的返回内容  
-       });  
-      
-    return false; // 必须返回false，否则表单会自己再做一次提交操作，并且页面跳转  
-}  
+$('#btn').click(function(){
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.form1.elements.length-1;i++)
+    {
+     if(document.form1.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.form1.elements[i].focus();
+       return false;
+     }
+    }
+var kytr_data =  $('#kytr_data').serialize();
+ $.ajax({
+        cache:true,//保留缓存数据
+        type:"POST",//为post请求
+        url:"./kytr_model",//请求后台方法并接受模型返回数据
+        data:kytr_data,//将该表单序列化
+        //async: false,
+        error:function(request){//请求失败之后的操作
+            return;
+        }, 
+        beforeSend:function(XMLHttpRequest){
+        	$("#msg").empty(); //加载前先清空结果信息
+            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+          },  
+        success:function(data){//请求成功之后的操作
+            //console.log(data);
+            $("#loading").empty(); //ajax返回成功，清除loading图标  
+       	 	var html = ''; 
+            var guidInfo = "";
+            var subInfo = "";
+       	if(data.ret[0] == 1)
+       	   guidInfo = "投入产出整体去上处于最佳状况，资源配置达到最优状态.\n";
+       	else{
+       	 	guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
+       	    if(data.ret[1] == 1){
+       	         subInfo = "目前投入资源的使用时最有效的,但产出不能与投入成同比例增加.\n【建议】：提高管理效率.\n";
+       	    }
+       	    else if(data.ret[2]  > 0.9){
+       	        subInfo = "目前产出与投入基本能成同比例增加.但投入资源没有充分利用.\n【建议】：提高企业资源利用率，提高自主创新能力.\n";
+       	    }
+       	    else {
+       	        subInfo = "目前产出与投入不能成同比例增加.投入资源没有充分利用,制约了企业创新技术能力的提高.\n【建议】：提高企业资源利用率，提高自主创新能力并且提高管理效率.\n";
+       	    }
 
+       	}            
+            html = '公司纯技术效率为：' + data.ret[0] + '\n公司综合效率为：' + data.ret[1]+ '\n公司规模效率为：'+ data.ret[2]+"<br>"+guidInfo+"<br>"+subInfo;
+         	$("#msg").html(html);
+         	
+         	
+         	
+         var radar = echarts.init(document.getElementById("radar"));	
+         //雷达图展示
+         	option = {
+         		    tooltip: {},
+         		    legend: {
+         		        data: ['指标分布情况']
+         		    },
+         		    radar: {
+         		        // shape: 'circle',
+         		        name: {
+         		            textStyle: {
+         		                color: '#fff',
+         		                backgroundColor: '#999',
+         		                borderRadius: 3,
+         		                padding: [3, 5]
+         		           }
+         		        },
+         		        indicator: [
+         		           { name: '纯技术效率（bcc）', max: 1},
+         		           { name: '综合技术效率（ccr）', max: 1},
+         		           { name: '规模效率（scale）', max: 1},
+         		        ]
+         		    },
+         		    series: [{
+         		        name: '投入产出效率',
+         		        type: 'radar',
+         		        // areaStyle: {normal: {}},
+         		        data : [
+         		            {
+         		                value : [data.ret[0], data.ret[1],data.ret[2]],
+         		                name : '企业投入出效率'
+         		            }
+         		        ]
+         		    }]
+         		};
+         	
+         radar.setOption(option);
+         	
+         	
+         	
+         	
+         	
+        }
+    }) ;
+})
 </script>
 
 
