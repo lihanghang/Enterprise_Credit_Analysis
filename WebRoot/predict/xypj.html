@@ -18,59 +18,59 @@
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 420px">
                         <div class="or_category">
-							<form class="form-horizontal" role="form">
+							<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
 	                               <div class="form-group">
 		                                  <label for="firstname" class="col-sm-2 control-label">资产负债率（%）</label>
 		                              <div class="col-sm-10">
-                                         <input type="text" name="debt_rate" class="form-control" id="firstname" 
+                                         <input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" 
                                             placeholder="请输入资产负债率（%）">
                                         </div>
 	                               </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">EBITDA利息数（倍）</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="interest" class="form-control" id="lastname" 
+                                            <input type="text" name="creditQualityBean.interest" class="form-control" id="lastname" 
                                             placeholder="请输入EBITDA利息数（倍）">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">存货周转次数（次）</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="inventoryTurn" class="form-control" id="lastname" 
+                                            <input type="text" name="creditQualityBean.inventoryTurn" class="form-control" id="lastname" 
                                             placeholder="请输入存货周转次数（次）">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">现金流动负债比率或EBITDA（%）</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="flowDebt" class="form-control" id="lastname" 
+                                            <input type="text" name="creditQualityBean.flowDebt" class="form-control" id="lastname" 
                                             placeholder="请输入现金流动负债比率或EBITDA（%）">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">成本费用利润率（%）</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="cost" class="form-control" id="lastname" 
+                                            <input type="text" name="creditQualityBean.cost" class="form-control" id="lastname" 
                                             placeholder="请输入成本费用利润率（%）">
                                         </div>
                                    </div>
                                    <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">所有者权益合计（万元）</label>
                                         <div class="col-sm-10">
-                                            <input type="text" name="ownerEquity" class="form-control" id="lastname" 
-                                            placeholder="请输入所有者权益合计（万元））">
+                                            <input type="text" name="creditQualityBean.ownerEquity" class="form-control" id="lastname" 
+                                            placeholder="请输入所有者权益合计（万元）">
                                         </div>
                                    </div>
-                                   <div class="form-group">
+                        <!--            <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">公司信用量化等级</label>
                                         <div class="col-sm-10">
                                             <input type="text" name="creditNum" class="form-control" id="lastname" 
                                             placeholder="请输入公司信用量化等级">
                                         </div>
-                                   </div>
+                                   </div> -->
 	                               <div class="form-group">
                                         <div class="col-sm-offset-2 col-sm-10">
-                                            <button type="submit" id="btn" class="btn btn-default">生成结果</button>
+                                            <button type="submit" id="btn"  class="btn btn-default">开始分析</button>
                                         </div>
                                     </div>
                             </form>	
@@ -82,15 +82,9 @@
                         <b>结果及分析</b>
                        
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">
-                    
-                    <div class="or_category">
-                          <p>输出结果及结果说明</p>
-                          
-                          
-                          
-                    </div>
-                     
+                    <div class="or_left_silde" id="searchCondition" style="height: 300px">                   
+                     <div class="or_category" style="text-align:center" id="loading"></div>
+                     <p id="msg"></p> 
                          
                      </div>
                 </div>
@@ -101,244 +95,57 @@
 </div>
 #end
 
+<!-- 信用评级算法Ajax处理0410 -->
 <script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-    var search = new Shuidi.PCSearch();
-    search.init();
-</script>
-<!-- 行业动态数据异步加载请求 -->
-<script>
+$('#btn').click(function(){
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.form1.elements.length-1;i++)
+    {
+     if(document.form1.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.form1.elements[i].focus();
+       return false;
+     }
+ }
+	//表单提交数据序列化
+	var credit_data =  $('#credit').serialize();	
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./creditQuality",//请求后台方法并接受模型返回数据
+	        data:credit_data,//将该表单序列化
+	        //async: false,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	$("#msg").empty(); //加载前先清空结果信息
+	            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	          },  
+	        success:function(data){
+	        	//成功接收后台返回数据进行其他处理操作
+	        	$("#loading").empty(); //清除加载数据
+	        	var data = data.lst[0];
+	        	console.log(data);
+	        	var guidInfo = "";
+	        	if(data==1){
+	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。";
+	        	}else if(data==2){
+	        		
+	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。";
+	        	}else if(data==3){
+	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。";
+	        	}else{
+	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。";
+	        	}
+	        	$("#msg").html("您查询企业的综合信用等级为：【"+data+"】级.<br>"+guidInfo);
+	        }
+	        
+	 
+	 });
+});
 
-//Echarts接口调用及数据处理
-(function(){
-	var pie3 = echarts.init(document.getElementById("pie3"));
-	/* pie3.showLoading({
-     text: "图表数据正在努力加载..."
- }); */
- option = {
-		    title: {
-		        text: '房地产行业财务分析',
-		        left: '50%',
-		        textAlign: 'center'
-		    },
-		    tooltip: {
-		        trigger: 'axis',
-		        axisPointer: {
-		            lineStyle: {
-		                color: '#000'
-		            }
-		        },
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
-		    },
-		    legend: {
-		        left:"20",
-		        //orient: 'ver',
-		        data: ['盈利能力','偿债能力','经营效率','增长潜力']
-		    },
-		    xAxis: {
-		        type: 'category',
-		        name:'年份',
-		        data: [],
-		        boundaryGap: false,
-		        splitLine: {
-		            show: true,
-		            interval: 'auto',
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
-		        }
-		    },
-		    yAxis: {
-		        type: 'value',
-		        name:'指数',
-		        splitLine: {
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
-		    },
-		    series: [
-            {
-		        name: '盈利能力',
-		        type: 'line',
-		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }, {
-		        name: '偿债能力',
-		        type: 'line',
-		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }
-            , {
-                name: '经营效率',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-            , {
-                name: '增长潜力',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#5793f3'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-
-            ]
-		};
-
-pie3.showLoading();    //数据加载完之前先显示一段简单的loading动画
-
-//ajax异步请求数据
-var profit   = [];   //盈利能力
-var debt     = [];     //偿债能力
-var manager  = [];  //经营效率
-var increase = []; //增长潜力
-var years    = []; //横坐标：年份
-$.ajax({
-    "url": "./marketData",      //路径
-    "cache": false,              //不缓存
-    "async": true ,               //默认true即异步（优先选择）
-    "type": "GET",              //POST方式提交
-    "dataType": "json",          //json格式，重要
-    "contentType": "application/json",      //json格式                            
-    success: function (data) { //成功同步请求数据      	
-        //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
-        
-        pie3.hideLoading();    //隐藏加载动画
-        pie3.setOption({        //加载数据图表                
-            dataZoom: [{
-            type: 'inside',
-            start: 0,
-            end: 50
-        }, {
-            show: true,
-            type: 'slider',
-            y: '90%',
-            start: 0,
-            end: 50
-        }],
-            xAxis: {
-                data: years
-            },
-            series: [{
-                name: "盈利能力",  data: profit
-            }, {
-                name: "偿债能力",  data: debt
-            }, {
-                name: "经营效率",  data: manager
-            }, {
-                name: "增长潜力",  data: increase
-            }]
-        });
-    },
-    error: function (errorMsg) {
-        //请求失败时执行该函数
-        alert("图表请求数据失败!");
-        pie3.hideLoading();
-    }
-}); 
-
-pie3.setOption(option);
-})();
 
 </script>
 

@@ -3,9 +3,11 @@ package com.ccip.bank.user;
 import java.util.ArrayList;
 import java.util.List;
 
+import trainClassifier_Tree.creditQuality;
 import DEA.research;
 
 import com.ccip.bank.bean.ScienceInvest;
+import com.ccip.bank.bean.creditQualityBean;
 import com.ccip.bank.model.InvestFactor;
 import com.ccip.bank.model.InvestPotential;
 import com.ccip.bank.model.Market;
@@ -13,13 +15,10 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
-import com.jfinal.kit.Ret;
-import com.mathworks.toolbox.javabuilder.MWArray;
 import com.mathworks.toolbox.javabuilder.MWClassID;
 import com.mathworks.toolbox.javabuilder.MWComplexity;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
-import com.mathworks.toolbox.javabuilder.external.org.json.JSONArray;
 /**
  * 
  * @author Mason
@@ -124,6 +123,34 @@ public class PredictController extends Controller{
 		render("xypj.html");
 	}
 
+	
+	//update 0410
+	public void creditQuality() throws MWException{
+		
+		//接受测试参数.【caution！！】需要在form表单中将字段name改为Bean名首字母小写.字段名，如本表单：creditQuality.Cost
+		creditQualityBean paraBean = getBean(creditQualityBean.class);
+		//实例化信用评级模型对象
+		creditQuality CQ = new creditQuality();
+		String input = "D://java-project/enterpriseInfo/datasets/Data554.mat";
+		//初始化1*6矩阵
+		MWNumericArray test_data = MWNumericArray.newInstance
+				(new int[]{1,6}, MWClassID.DOUBLE, MWComplexity.REAL);
+		Object [] result = null;
+		//组装投入数据为矩阵
+		test_data.set(new int[]{1,1}, paraBean.getDebt_rate());
+		test_data.set(new int[]{1,2}, paraBean.getInterest());
+		test_data.set(new int[]{1,3}, paraBean.getInventoryTurn());
+		test_data.set(new int[]{1,4}, paraBean.getFlowDebt());
+		test_data.set(new int[]{1,5}, paraBean.getCost());
+		test_data.set(new int[]{1,6}, paraBean.getOwnerEquity());						
+		result = CQ.trainClassifier_Tree(3,input,test_data);
+		//得到公司信用评级
+		MWNumericArray Accuracy   = (MWNumericArray)result[2];
+		List lst = new ArrayList();
+		lst.add(Accuracy.getInt());
+		renderJson("lst", lst);
+	}
+	
 	//风险评估页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void fxpg(){
