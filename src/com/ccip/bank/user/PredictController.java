@@ -1,6 +1,8 @@
 package com.ccip.bank.user;
 
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import trainClassifier_Tree.creditQuality;
@@ -15,6 +17,9 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
+import com.jmatio.io.MatFileReader;
+import com.jmatio.types.MLArray;
+import com.jmatio.types.MLDouble;
 import com.mathworks.toolbox.javabuilder.MWClassID;
 import com.mathworks.toolbox.javabuilder.MWComplexity;
 import com.mathworks.toolbox.javabuilder.MWException;
@@ -125,10 +130,11 @@ public class PredictController extends Controller{
 
 	
 	//update 0410
-	public void creditQuality() throws MWException{
+	public void creditQuality() throws MWException, IOException{
 		
 		//接受测试参数.【caution！！】需要在form表单中将字段name改为Bean名首字母小写.字段名，如本表单：creditQuality.Cost
 		creditQualityBean paraBean = getBean(creditQualityBean.class);
+		System.out.println(paraBean);
 		//实例化信用评级模型对象
 		creditQuality CQ = new creditQuality();
 		String input = "D://java-project/enterpriseInfo/datasets/Data554.mat";
@@ -145,10 +151,41 @@ public class PredictController extends Controller{
 		test_data.set(new int[]{1,6}, paraBean.getOwnerEquity());						
 		result = CQ.trainClassifier_Tree(3,input,test_data);
 		//得到公司信用评级
-		MWNumericArray Accuracy   = (MWNumericArray)result[2];
+		MWNumericArray cqNum   = (MWNumericArray)result[2];
 		List lst = new ArrayList();
-		lst.add(Accuracy.getInt());
-		renderJson("lst", lst);
+		lst.add(cqNum.getInt());				
+		//读取mat文件
+		MatFileReader read = new MatFileReader(input);
+		MLArray mlArray=read.getMLArray("Data");//获取mat中Data矩阵变量的内容
+		MLDouble d=(MLDouble)mlArray;
+		HashMap<String,double[]> map1 = new HashMap<String,double[]>();
+		double[][] matrix=(d.getArray());
+		int len = matrix.length;
+		double[] debt = new double[len];
+		double[] interst = new double[len];
+		double[] turn = new double[len];
+		double[] rate = new double[len];
+		double[] profit = new double[len];
+		double[] owner = new double[len];	
+		for(int i=0;i< len;i++){
+			debt   [i] = matrix[i][0];	
+			interst[i] = matrix[i][1];
+			turn   [i] = matrix[i][2];	
+			rate   [i] = matrix[i][3];
+			profit [i] = matrix[i][4];	
+			owner  [i] = matrix[i][5];
+		}	
+		map1.put("debt", debt);
+		map1.put("interest", interst);
+		map1.put("turn", turn);
+		map1.put("rate", rate);
+		map1.put("profit", profit);
+		map1.put("owner", owner);
+		setAttr("map",map1);
+		setAttr("lst",lst);
+		setAttr("para",paraBean);
+		String matrixData = JsonKit.toJson(map1);
+		renderJson(new String[]{"map","lst","para"});
 	}
 	
 	//风险评估页面

@@ -82,10 +82,30 @@
                         <b>结果及分析</b>
                        
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">                   
+                    <div class="or_left_silde" id="searchCondition" style="">                   
                      <div class="or_category" style="text-align:center" id="loading"></div>
                      <p id="msg"></p> 
-                         
+                 <div class="row"><!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
+                      <div class="col-md-4">
+         					<div id="interest" style="height:300px;"></div>  
+       				 </div>
+        			<div class="col-md-4"> 
+        					<div id="debt" style="height:300px;"></div>
+        			</div>
+       			  <div class="col-md-4">
+         					<div id="rate" style="height:300px;"></div>  
+       				 </div>
+        			<div class="col-md-4"> 
+        					<div id="turn" style="height:300px;"></div>  
+        			</div>
+       			  <div class="col-md-4">
+         					<div id="cost" style="height:300px;"></div>  
+       				 </div>
+        			<div class="col-md-4"> 
+        					<div id="owner" style="height:300px;"></div>  
+        			</div>     			 
+       			 </div>
+                      <!-- 为ECharts准备一个具备大小（宽高）的Dom -->					
                      </div>
                 </div>
             </div>
@@ -110,6 +130,7 @@ $('#btn').click(function(){
  }
 	//表单提交数据序列化
 	var credit_data =  $('#credit').serialize();	
+	//console.log(credit_data);
 	 $.ajax({
 	        cache:true,//保留缓存数据
 	        type:"POST",//为post请求
@@ -124,24 +145,459 @@ $('#btn').click(function(){
 	            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
+	        	//console.log(data.map['debt']);
 	        	//成功接收后台返回数据进行其他处理操作
 	        	$("#loading").empty(); //清除加载数据
-	        	var data = data.lst[0];
-	        	console.log(data);
+	        	var CQ = data.lst[0];
+	        	//console.log(data);
 	        	var guidInfo = "";
-	        	if(data==1){
+	        	if(CQ==1){
 	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。";
-	        	}else if(data==2){
+	        	}else if(CQ==2){
 	        		
 	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。";
-	        	}else if(data==3){
+	        	}else if(CQ==3){
 	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。";
 	        	}else{
 	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。";
 	        	}
-	        	$("#msg").html("您查询企业的综合信用等级为：【"+data+"】级.<br>"+guidInfo);
-	        }
+	        	$("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo);
 	        
+	        
+	          
+	          
+	          
+	         //四分位图展示评级企业的数据情况0411
+	          // 基于准备好的dom，初始化echarts实例
+	         var myChart = echarts.init(document.getElementById('debt'));
+	         var interest = echarts.init(document.getElementById('interest'));
+	         var turn = echarts.init(document.getElementById('turn'));
+	         var rate = echarts.init(document.getElementById('rate'));
+	         var cost = echarts.init(document.getElementById('cost'));
+	         var owner = echarts.init(document.getElementById('owner'));
+	         //accept parameters
+	         
+	          // Generate data.
+	         var debt = data.map['debt'];
+	         var interest_data = data.map['interest'];	
+	         var turn_data = data.map['turn'];	
+	         var rate_data = data.map['rate'];	
+	         var cost_data = data.map['profit'];	
+	         var owner_data = data.map['owner'];	
+	         var datas = echarts.dataTool.prepareBoxplotData([debt]);
+	         var datas1 = echarts.dataTool.prepareBoxplotData([interest_data]);
+	         var datas2 = echarts.dataTool.prepareBoxplotData([turn_data]);
+	         var datas3 = echarts.dataTool.prepareBoxplotData([rate_data]);
+	         var datas4 = echarts.dataTool.prepareBoxplotData([cost_data]);
+	         var datas5 = echarts.dataTool.prepareBoxplotData([owner_data]);
+	         //清空异常值
+	         
+	         datas.outliers.splice(0,datas.outliers.length);
+	         datas1.outliers.splice(0,datas1.outliers.length);
+	         datas2.outliers.splice(0,datas2.outliers.length);
+	         datas3.outliers.splice(0,datas3.outliers.length);
+	         datas4.outliers.splice(0,datas4.outliers.length);
+	         datas5.outliers.splice(0,datas5.outliers.length);
+	         //添加当前指标位置,算是走捷径的方法hh
+	         datas.outliers.push(data.para['debt_rate'])
+	         datas1.outliers.push(data.para['interest'])
+	         datas2.outliers.push(data.para['inventoryTurn'])
+	         datas3.outliers.push(data.para['flowDebt'])
+	         datas4.outliers.push(data.para['cost'])
+	         datas5.outliers.push(data.para['ownerEquity'])
+	        /*  for ( var i = 0; i <datas.outliers.length; i++){
+	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
+	        		 delete datas[i];
+	        	} */
+	         	
+
+option = {
+    tooltip: {
+        trigger: 'item',
+        axisPointer: {
+            type: 'shadow'
+        }
+    },
+    grid: {
+        left: '10%',
+        right: '10%',
+        bottom: '15%'
+    },
+    xAxis: {
+        type: 'category',
+        data: datas.axisData,
+        boundaryGap: true,
+        nameGap: 30,
+        splitArea: {
+            show: false
+        },
+        axisLabel: {
+            formatter: '资产负债率'
+        },
+        splitLine: {
+            show: false
+        }
+    },
+    yAxis: {
+        type: 'value',
+        name: '%',
+        splitArea: {
+            show: true
+        }
+    },
+    series: [
+        {
+            name: 'boxplot',
+            type: 'boxplot',
+            data: datas.boxData,
+            tooltip: {
+                formatter: function (param) {
+                    return [
+                       /*  'Experiment ' + param.name + ': ', */
+                        'upper: ' + param.data[5],
+                        'Q3: ' + param.data[4],
+                        'median: ' + param.data[3],
+                        'Q1: ' + param.data[2],
+                        'lower: ' + param.data[1]
+                    ].join('<br/>')
+                }
+            }/* ,
+            markPoint:{name: "current", value: 560,symbol:'star'} */
+        },
+        
+        {
+            name: '企业指标所处位置',
+            type: 'effectScatter',
+            symbolSize:15, 
+            color:"#7CCD7C",
+            data: datas.outliers
+        }
+    ]
+};
+	        	option1 = {
+	        		    tooltip: {
+	        		        trigger: 'item',
+	        		        axisPointer: {
+	        		            type: 'shadow'
+	        		        }
+	        		    },
+	        		    grid: {
+	        		        left: '10%',
+	        		        right: '10%',
+	        		        bottom: '15%'
+	        		    },
+	        		    xAxis: {
+	        		        type: 'category',
+	        		        data: datas1.axisData,
+	        		        boundaryGap: true,
+	        		        nameGap: 30,
+	        		        splitArea: {
+	        		            show: false
+	        		        },
+	        		        axisLabel: {
+	        		            formatter: 'EBITDA利息数'
+	        		        },
+	        		        splitLine: {
+	        		            show: false
+	        		        }
+	        		    },
+	        		    yAxis: {
+	        		        type: 'value',
+	        		        name: '倍',
+	        		        splitArea: {
+	        		            show: true
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: 'boxplot',
+	        		            type: 'boxplot',
+	        		            data: datas1.boxData,
+	        		            tooltip: {
+	        		                formatter: function (param) {
+	        		                    return [
+	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                        'upper: ' + param.data[5],
+	        		                        'Q3: ' + param.data[4],
+	        		                        'median: ' + param.data[3],
+	        		                        'Q1: ' + param.data[2],
+	        		                        'lower: ' + param.data[1]
+	        		                    ].join('<br/>')
+	        		                }
+	        		            }/* ,
+	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
+	        		        },
+	        		        
+	        		        //描述当前预测指标
+	        		        {
+	        		            name: '企业指标所处位置',
+	        		            type: 'effectScatter',
+	        		            symbolSize:15, 
+	        		            color:"#7CCD7C",
+	        		            data: datas1.outliers
+	        		        }
+	        		    ]
+	        		};
+	        	option2 = {
+	        		    tooltip: {
+	        		        trigger: 'item',
+	        		        axisPointer: {
+	        		            type: 'shadow'
+	        		        }
+	        		    },
+	        		    grid: {
+	        		        left: '10%',
+	        		        right: '10%',
+	        		        bottom: '15%'
+	        		    },
+	        		    xAxis: {
+	        		        type: 'category',
+	        		        data: datas2.axisData,
+	        		        boundaryGap: true,
+	        		        nameGap: 30,
+	        		        splitArea: {
+	        		            show: false
+	        		        },
+	        		        axisLabel: {
+	        		            formatter: '存货周转次数'
+	        		        },
+	        		        splitLine: {
+	        		            show: false
+	        		        }
+	        		    },
+	        		    yAxis: {
+	        		        type: 'value',
+	        		        name: '次',
+	        		        splitArea: {
+	        		            show: true
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: 'boxplot',
+	        		            type: 'boxplot',
+	        		            data: datas2.boxData,
+	        		            tooltip: {
+	        		                formatter: function (param) {
+	        		                    return [
+	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                        'upper: ' + param.data[5],
+	        		                        'Q3: ' + param.data[4],
+	        		                        'median: ' + param.data[3],
+	        		                        'Q1: ' + param.data[2],
+	        		                        'lower: ' + param.data[1]
+	        		                    ].join('<br/>')
+	        		                }
+	        		            }/* ,
+	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
+	        		        },
+	        		        
+	        		        {
+	        		            name: '企业指标所处位置',
+	        		            type: 'effectScatter',
+	        		            symbolSize:15, 
+	        		            color:"#7CCD7C",
+	        		            data: datas2.outliers
+	        		        }
+	        		    ]
+	        		};
+	        	option3 = {
+	        		    tooltip: {
+	        		        trigger: 'item',
+	        		        axisPointer: {
+	        		            type: 'shadow'
+	        		        }
+	        		    },
+	        		    grid: {
+	        		        left: '10%',
+	        		        right: '10%',
+	        		        bottom: '15%'
+	        		    },
+	        		    xAxis: {
+	        		        type: 'category',
+	        		        data: datas3.axisData,
+	        		        boundaryGap: true,
+	        		        nameGap: 30,
+	        		        splitArea: {
+	        		            show: false
+	        		        },
+	        		        axisLabel: {
+	        		            formatter: '现金流动负债比率'
+	        		        },
+	        		        splitLine: {
+	        		            show: false
+	        		        }
+	        		    },
+	        		    yAxis: {
+	        		        type: 'value',
+	        		        name: '%',
+	        		        splitArea: {
+	        		            show: true
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: 'boxplot',
+	        		            type: 'boxplot',
+	        		            data: datas3.boxData,
+	        		            tooltip: {
+	        		                formatter: function (param) {
+	        		                    return [
+	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                        'upper: ' + param.data[5],
+	        		                        'Q3: ' + param.data[4],
+	        		                        'median: ' + param.data[3],
+	        		                        'Q1: ' + param.data[2],
+	        		                        'lower: ' + param.data[1]
+	        		                    ].join('<br/>')
+	        		                }
+	        		            }/* ,
+	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
+	        		        },
+	        		        
+	        		        {
+	        		            name: '企业指标所处位置',
+	        		            type: 'effectScatter',
+	        		            symbolSize:15, 
+	        		            color:"#7CCD7C",
+	        		            data: datas3.outliers
+	        		        }
+	        		    ]
+	        		};
+	        	option4 = {
+	        		    tooltip: {
+	        		        trigger: 'item',
+	        		        axisPointer: {
+	        		            type: 'shadow'
+	        		        }
+	        		    },
+	        		    grid: {
+	        		        left: '10%',
+	        		        right: '10%',
+	        		        bottom: '15%'
+	        		    },
+	        		    xAxis: {
+	        		        type: 'category',
+	        		        data: datas4.axisData,
+	        		        boundaryGap: true,
+	        		        nameGap: 30,
+	        		        splitArea: {
+	        		            show: false
+	        		        },
+	        		        axisLabel: {
+	        		            formatter: '成本费用利润率'
+	        		        },
+	        		        splitLine: {
+	        		            show: false
+	        		        }
+	        		    },
+	        		    yAxis: {
+	        		        type: 'value',
+	        		        name: '%',
+	        		        splitArea: {
+	        		            show: true
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: 'boxplot',
+	        		            type: 'boxplot',
+	        		            data: datas4.boxData,
+	        		            tooltip: {
+	        		                formatter: function (param) {
+	        		                    return [
+	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                        'upper: ' + param.data[5],
+	        		                        'Q3: ' + param.data[4],
+	        		                        'median: ' + param.data[3],
+	        		                        'Q1: ' + param.data[2],
+	        		                        'lower: ' + param.data[1]
+	        		                    ].join('<br/>')
+	        		                }
+	        		            }/* ,
+	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
+	        		        },
+	        		        
+	        		        {
+	        		            name: '企业指标所处位置',
+	        		            type: 'effectScatter',
+	        		            symbolSize:15, 
+	        		            color:"#7CCD7C",
+	        		            data: datas4.outliers
+	        		        }
+	        		    ]
+	        		};
+	        	option5 = {
+	        		    tooltip: {
+	        		        trigger: 'item',
+	        		        axisPointer: {
+	        		            type: 'shadow'
+	        		        }
+	        		    },
+	        		    grid: {
+	        		        left: '14%',
+	        		        right: '10%',
+	        		        bottom: '15%'
+	        		    },
+	        		    xAxis: {
+	        		        type: 'category',
+	        		        data: datas5.axisData,
+	        		        boundaryGap: true,
+	        		        nameGap: 30,
+	        		        splitArea: {
+	        		            show: false
+	        		        },
+	        		        axisLabel: {
+	        		            formatter: '所有者权益合计'
+	        		        },
+	        		        splitLine: {
+	        		            show: false
+	        		        }
+	        		    },
+	        		    yAxis: {
+	        		        type: 'value',
+	        		        name: '万元',
+	        		        splitArea: {
+	        		            show: true
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: 'boxplot',
+	        		            type: 'boxplot',
+	        		            data: datas5.boxData,
+	        		            tooltip: {
+	        		                formatter: function (param) {
+	        		                    return [
+	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                        'upper: ' + param.data[5],
+	        		                        'Q3: ' + param.data[4],
+	        		                        'median: ' + param.data[3],
+	        		                        'Q1: ' + param.data[2],
+	        		                        'lower: ' + param.data[1]
+	        		                    ].join('<br/>')
+	        		                }
+	        		            }/* ,
+	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
+	        		        },
+	        		        
+	        		        {
+	        		            name: '企业指标所处位置',
+	        		            type: 'effectScatter',
+	        		            symbolSize:15, 
+	        		            color:"#7CCD7C",
+	        		            data: datas5.outliers
+	        		        }
+	        		    ]
+	        		};
+	        	// 使用刚指定的配置项和数据显示图表。
+	        		myChart.setOption(option);
+	                interest.setOption(option1);
+	                turn.setOption(option2);
+	                rate.setOption(option3);
+	                cost.setOption(option4);
+	                owner.setOption(option5);  	                          
+	        }    
 	 
 	 });
 });
