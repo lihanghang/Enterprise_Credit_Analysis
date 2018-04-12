@@ -4,8 +4,8 @@
 <div class="container-content">
     <!-- common search -->
     <div class="sd_company_container">
-        <div class="sd_form_search">
-           <p style="text-align:center; font-size:30px">企业风险评估</p>
+        <div class="sd_form_search" style="height:50px">
+           <p style="text-align:center; font-size:30px">企业风险等级评估</p>
         </div>
     </div>
 
@@ -13,28 +13,98 @@
         <div class="sd_cent">
             <div class="sd_cent">
                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>企业风险评估</b>
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
-                        <div class="or_category">
-                        <!--  <div id="pie3" style="width: 90%;height: 400px;"></div> -->
-                        风险评估
+                    <!-- <div class="sd_left_block_tit"  style="color:green">
+                        <b>企业风险等级评估</b>
+                    </div> -->
+                    <ul id="myTab" class="nav nav-tabs">    
+    						<li><a href="#financial" data-toggle="tab">财务风险评估</a></li>
+    						<li><a href="#business" data-toggle="tab">经营风险评估</a></li>
+    						<li><a href="#tec" data-toggle="tab">技术风险评估</a></li>
+    						<li><a href="#strategy" data-toggle="tab">战略风险评估</a></li>  
+    						<li><a href="#all" data-toggle="tab">综合风险评估</a></li>  
+				    </ul>
+                    <div class="or_left_silde" id="searchCondition" style="height: 500px">                       
+                         <div id="myTabContent" class="tab-content"  style="height: 500px">
+                        	<div class="tab-pane fade in active" id="financial">
+                    			<div class="row">
+  									<div class="col-xs-6">表单输入</div>
+  									<div class="col-xs-6">结果可视化</div>
+								</div>
+               			    </div>                        
+                        	<div class="tab-pane fade" id="business">
+                    			<div class="row">
+  									<div class="col-xs-6">表单输入</div>
+  									<div class="col-xs-6">结果可视化</div>
+								</div>
+               			    </div>                       
+                        	<div class="tab-pane fade" id="tec">
+                    			<div class="row">
+  									<div class="col-xs-6">表单输入</div>
+  									<div class="col-xs-6">结果可视化</div>
+								</div>
+               			    </div>                    
+                        	<div class="tab-pane fade" id="strategy">
+                    			<div class="row">                    			
+  									<div class="col-xs-6"  style="border-right:2px">
+  									<div class="page-header">
+  										 <small style="font-size:15px">战略风险指标输入</small> 										 
+									</div>
+									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-3 control-label">竞品信息数量(个)</label>
+		                              		<div class="col-sm-9">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入竞品数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-3 control-label">公众号数量 (个)</label>
+		                              		<div class="col-sm-9">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入公众号数">
+                                        	</div>
+	                               		</div>
+	                               	<div class="form-group">
+                                        <div class="col-sm-offset-5 col-sm-10">
+                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                        </div>
+                                    </div>
+	                               	</form> 							  									 									 									
+  									</div>
+  									<div class="col-xs-6">
+  									<div class="page-header">
+  										 <small style="font-size:15px">战略风险分析可视化</small> 										 
+									</div>
+  									
+  									
+  									
+  									
+  									</div>
+								</div>
+               			      </div>
+               			      <div class="tab-pane fade" id="all">
+                    			<div class="row">
+  									
+  									<div class="col-xs-1">结果可视化</div>
+								</div>
+               			    </div>  
                         </div>
                    </div>
+                   
+                   
+                   
+                   
                 </div>                               
-                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
+                 <!-- <div class="sd_left_block">
+                    <div class="sd_left_block_tit" style="color:green">
                         <b>结果及分析</b>
                        
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 300px">
                     
-                    <div class="or_category">
+                    <div class="or_category" >
                           <p>输出结果及结果说明</p>
                      </div>
                    </div>
-                </div>
+                </div> -->
             </div>
         
         </div>

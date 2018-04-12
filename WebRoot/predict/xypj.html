@@ -16,49 +16,49 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>评级企业相关指标输入</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 420px">
+                    <div class="or_left_silde" id="searchCondition" style="height: 360px">
                         <div class="or_category">
 							<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
 	                               <div class="form-group">
-		                                  <label for="firstname" class="col-sm-2 control-label">资产负债率（%）</label>
-		                              <div class="col-sm-10">
+		                                  <label for="firstname" class="col-sm-5 control-label">资产负债率（%）</label>
+		                              <div class="col-sm-3">
                                          <input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" 
-                                            placeholder="请输入资产负债率（%）">
+                                            placeholder="请输入资产负债率">
                                         </div>
 	                               </div>
                                    <div class="form-group">
-                                           <label for="lastname" class="col-sm-2 control-label">EBITDA利息数（倍）</label>
-                                        <div class="col-sm-10">
+                                           <label for="lastname" class="col-sm-5 control-label">EBITDA利息数（倍）</label>
+                                        <div class="col-sm-3">
                                             <input type="text" name="creditQualityBean.interest" class="form-control" id="lastname" 
-                                            placeholder="请输入EBITDA利息数（倍）">
+                                            placeholder="请输入EBITDA利息数">
                                         </div>
                                    </div>
                                    <div class="form-group">
-                                           <label for="lastname" class="col-sm-2 control-label">存货周转次数（次）</label>
-                                        <div class="col-sm-10">
+                                           <label for="lastname" class="col-sm-5 control-label">存货周转次数（次）</label>
+                                        <div class="col-sm-3">
                                             <input type="text" name="creditQualityBean.inventoryTurn" class="form-control" id="lastname" 
-                                            placeholder="请输入存货周转次数（次）">
+                                            placeholder="请输入存货周转次数">
                                         </div>
                                    </div>
                                    <div class="form-group">
-                                           <label for="lastname" class="col-sm-2 control-label">现金流动负债比率或EBITDA（%）</label>
-                                        <div class="col-sm-10">
+                                           <label for="lastname" class="col-sm-5 control-label">现金流动负债比率或EBITDA（%）</label>
+                                        <div class="col-sm-3">
                                             <input type="text" name="creditQualityBean.flowDebt" class="form-control" id="lastname" 
-                                            placeholder="请输入现金流动负债比率或EBITDA（%）">
+                                            placeholder="请输入现金流动负债比率或EBITDA">
                                         </div>
                                    </div>
                                    <div class="form-group">
-                                           <label for="lastname" class="col-sm-2 control-label">成本费用利润率（%）</label>
-                                        <div class="col-sm-10">
+                                           <label for="lastname" class="col-sm-5 control-label">成本费用利润率（%）</label>
+                                        <div class="col-sm-3">
                                             <input type="text" name="creditQualityBean.cost" class="form-control" id="lastname" 
-                                            placeholder="请输入成本费用利润率（%）">
+                                            placeholder="请输入成本费用利润率">
                                         </div>
                                    </div>
                                    <div class="form-group">
-                                           <label for="lastname" class="col-sm-2 control-label">所有者权益合计（万元）</label>
-                                        <div class="col-sm-10">
+                                           <label for="lastname" class="col-sm-5 control-label">所有者权益合计（万元）</label>
+                                        <div class="col-sm-3">
                                             <input type="text" name="creditQualityBean.ownerEquity" class="form-control" id="lastname" 
-                                            placeholder="请输入所有者权益合计（万元）">
+                                            placeholder="请输入所有者权益合计">
                                         </div>
                                    </div>
                         <!--            <div class="form-group">
@@ -69,7 +69,7 @@
                                         </div>
                                    </div> -->
 	                               <div class="form-group">
-                                        <div class="col-sm-offset-2 col-sm-10">
+                                        <div class="col-sm-offset-5 col-sm-3">
                                             <button type="submit" id="btn"  class="btn btn-default">开始分析</button>
                                         </div>
                                     </div>
@@ -150,18 +150,8 @@ $('#btn').click(function(){
 	        	$("#loading").empty(); //清除加载数据
 	        	var CQ = data.lst[0];
 	        	//console.log(data);
-	        	var guidInfo = "";
-	        	if(CQ==1){
-	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。";
-	        	}else if(CQ==2){
-	        		
-	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。";
-	        	}else if(CQ==3){
-	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。";
-	        	}else{
-	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。";
-	        	}
-	        	$("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo);
+	        	
+	        	
 	        
 	        
 	          
@@ -198,13 +188,30 @@ $('#btn').click(function(){
 	         datas3.outliers.splice(0,datas3.outliers.length);
 	         datas4.outliers.splice(0,datas4.outliers.length);
 	         datas5.outliers.splice(0,datas5.outliers.length);
-	         //添加当前指标位置,算是走捷径的方法hh
+	         //添加当前指标位置,走捷径的方法hh	     
 	         datas.outliers.push(data.para['debt_rate'])
 	         datas1.outliers.push(data.para['interest'])
 	         datas2.outliers.push(data.para['inventoryTurn'])
 	         datas3.outliers.push(data.para['flowDebt'])
 	         datas4.outliers.push(data.para['cost'])
 	         datas5.outliers.push(data.para['ownerEquity'])
+	        
+	         var IndexInfo = "";
+	         
+	         
+	         
+	         var guidInfo = "";
+	        	if(CQ==1){
+	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。";
+	        	}else if(CQ==2){
+	        		
+	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。";
+	        	}else if(CQ==3){
+	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。";
+	        	}else{
+	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。";
+	        	}
+	         $("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo);
 	        /*  for ( var i = 0; i <datas.outliers.length; i++){
 	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
 	        		 delete datas[i];
@@ -225,14 +232,14 @@ option = {
     },
     xAxis: {
         type: 'category',
-        data: datas.axisData,
+        data: ['资产负债率'],
         boundaryGap: true,
         nameGap: 30,
         splitArea: {
             show: false
         },
         axisLabel: {
-            formatter: '资产负债率'
+            //formatter: '资产负债率'
         },
         splitLine: {
             show: false
@@ -253,7 +260,7 @@ option = {
             tooltip: {
                 formatter: function (param) {
                     return [
-                       /*  'Experiment ' + param.name + ': ', */
+                       	 param.name + ': ',
                         'upper: ' + param.data[5],
                         'Q3: ' + param.data[4],
                         'median: ' + param.data[3],
@@ -288,14 +295,14 @@ option = {
 	        		    },
 	        		    xAxis: {
 	        		        type: 'category',
-	        		        data: datas1.axisData,
+	        		        data: ['EBITDA利息数'],
 	        		        boundaryGap: true,
 	        		        nameGap: 30,
 	        		        splitArea: {
 	        		            show: false
 	        		        },
 	        		        axisLabel: {
-	        		            formatter: 'EBITDA利息数'
+	        		            //formatter: 'EBITDA利息数'
 	        		        },
 	        		        splitLine: {
 	        		            show: false
@@ -316,7 +323,7 @@ option = {
 	        		            tooltip: {
 	        		                formatter: function (param) {
 	        		                    return [
-	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                       	param.name + ': ',
 	        		                        'upper: ' + param.data[5],
 	        		                        'Q3: ' + param.data[4],
 	        		                        'median: ' + param.data[3],
@@ -352,14 +359,14 @@ option = {
 	        		    },
 	        		    xAxis: {
 	        		        type: 'category',
-	        		        data: datas2.axisData,
-	        		        boundaryGap: true,
+	        		        data: ['存货周转次数'],
+	        		        boundaryGap: false,
 	        		        nameGap: 30,
 	        		        splitArea: {
 	        		            show: false
 	        		        },
 	        		        axisLabel: {
-	        		            formatter: '存货周转次数'
+	        		            //formatter: '存货周转次数'
 	        		        },
 	        		        splitLine: {
 	        		            show: false
@@ -380,7 +387,7 @@ option = {
 	        		            tooltip: {
 	        		                formatter: function (param) {
 	        		                    return [
-	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                       	param.name + ': ',
 	        		                        'upper: ' + param.data[5],
 	        		                        'Q3: ' + param.data[4],
 	        		                        'median: ' + param.data[3],
@@ -393,7 +400,16 @@ option = {
 	        		        },
 	        		        
 	        		        {
-	        		            name: '企业指标所处位置',
+	        		        	function (name){
+	        		        	
+	        		        	
+	        		        	if(datas2.outliers>Datas2.boxData[3])
+	        		        		name: '企业指标高于行业平均水平';
+	        		        		else
+	        		        			name:'低于行业平均水平';
+	        		        		
+	        		        	},
+	        		        	
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
 	        		            color:"#7CCD7C",
@@ -415,14 +431,14 @@ option = {
 	        		    },
 	        		    xAxis: {
 	        		        type: 'category',
-	        		        data: datas3.axisData,
+	        		        data: ['现金流动负债比率'],
 	        		        boundaryGap: true,
 	        		        nameGap: 30,
 	        		        splitArea: {
 	        		            show: false
 	        		        },
 	        		        axisLabel: {
-	        		            formatter: '现金流动负债比率'
+	        		            //formatter: '现金流动负债比率'
 	        		        },
 	        		        splitLine: {
 	        		            show: false
@@ -443,7 +459,7 @@ option = {
 	        		            tooltip: {
 	        		                formatter: function (param) {
 	        		                    return [
-	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                       	param.name + ': ',
 	        		                        'upper: ' + param.data[5],
 	        		                        'Q3: ' + param.data[4],
 	        		                        'median: ' + param.data[3],
@@ -478,14 +494,14 @@ option = {
 	        		    },
 	        		    xAxis: {
 	        		        type: 'category',
-	        		        data: datas4.axisData,
+	        		        data: ['成本费用利润率'],
 	        		        boundaryGap: true,
 	        		        nameGap: 30,
 	        		        splitArea: {
 	        		            show: false
 	        		        },
 	        		        axisLabel: {
-	        		            formatter: '成本费用利润率'
+	        		            //formatter: '{value}%'
 	        		        },
 	        		        splitLine: {
 	        		            show: false
@@ -506,7 +522,7 @@ option = {
 	        		            tooltip: {
 	        		                formatter: function (param) {
 	        		                    return [
-	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                       	 param.name + ': ',
 	        		                        'upper: ' + param.data[5],
 	        		                        'Q3: ' + param.data[4],
 	        		                        'median: ' + param.data[3],
@@ -523,7 +539,12 @@ option = {
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
 	        		            color:"#7CCD7C",
-	        		            data: datas4.outliers
+	        		            data: datas4.outliers,
+	        		            label: {
+	        		                show: true,
+	        		                formatter: "",
+	        		                position: 'right',
+	        		            },
 	        		        }
 	        		    ]
 	        		};
@@ -541,14 +562,14 @@ option = {
 	        		    },
 	        		    xAxis: {
 	        		        type: 'category',
-	        		        data: datas5.axisData,
+	        		        data: ['所有者权益合计'],
 	        		        boundaryGap: true,
 	        		        nameGap: 30,
 	        		        splitArea: {
 	        		            show: false
 	        		        },
 	        		        axisLabel: {
-	        		            formatter: '所有者权益合计'
+	        		            //formatter: '所有者权益合计'
 	        		        },
 	        		        splitLine: {
 	        		            show: false
@@ -569,7 +590,7 @@ option = {
 	        		            tooltip: {
 	        		                formatter: function (param) {
 	        		                    return [
-	        		                       /*  'Experiment ' + param.name + ': ', */
+	        		                         param.name + ': ',
 	        		                        'upper: ' + param.data[5],
 	        		                        'Q3: ' + param.data[4],
 	        		                        'median: ' + param.data[3],
@@ -582,11 +603,23 @@ option = {
 	        		        },
 	        		        
 	        		        {
-	        		            name: '企业指标所处位置',
+								
+	        		        	name:
+								 (function (){
+		        		        	
+		        		        	var names="";
+		        		        	if(datas5.outliers>datas5.boxData[3])
+		        		        		  //names= '企业指标高于行业平均水平';
+		        		        		names = "企业指标高于行业平均水平";
+		        		        	else
+		        		        	    names = '企业指标低于行业平均水平';
+		   							return names;
+		        		        	})(),
+		        		        data:datas5.outliers,
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
 	        		            color:"#7CCD7C",
-	        		            data: datas5.outliers
+	        		            //data: datas5.outliers,
 	        		        }
 	        		    ]
 	        		};
