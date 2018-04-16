@@ -196,22 +196,37 @@ $('#btn').click(function(){
 	         datas4.outliers.push(data.para['cost'])
 	         datas5.outliers.push(data.para['ownerEquity'])
 	        
-	         var IndexInfo = "";
-	         
+	         var debtInfo = "";
+	    
+	         if(datas.outliers[0]>=datas.boxData[0][4]){
+	        	 console.log(datas.boxData[0][4]);
+	        	 debtInfo ="本企业资产负债率远高于行业标准，资产负债率异常！";
+	         }else if(datas.outliers[0]<datas.boxData[0][4] && datas.outliers[0]>=datas.boxData[0][3]){
+	        	 	        	 
+	        	 debtInfo ="本企业资产负债率较高于行业标准，资产负债率较高！";	        	 
+	         }else if(datas.outliers[0]<datas.boxData[0][3] && datas.outliers[0]>=datas.boxData[0][1]){
+	        	 
+	        	 debtInfo ="本企业资产负债率较处于行业平均水平左右，资产负债率属于正常范围！";
+	         }else if (datas.outliers[0]<datas.boxData[0][1] && datas.outliers[0]>=datas.boxData[0][0]){
+	        	 debtInfo ="本企业资产负债率较低于行业平均水平标准，资产负债率较低！";
+	        	 
+	         }else{
+	        	 debtInfo ="本企业资产负债率远低于行业水平，指标表现异常！";
+	         }
 	         
 	         
 	         var guidInfo = "";
 	        	if(CQ==1){
-	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。";
+	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。\n";
 	        	}else if(CQ==2){
 	        		
-	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。";
+	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。\n";
 	        	}else if(CQ==3){
-	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。";
+	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。\n";
 	        	}else{
-	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。";
+	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。\n";
 	        	}
-	         $("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo);
+	         $("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo+debtInfo);
 	        /*  for ( var i = 0; i <datas.outliers.length; i++){
 	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
 	        		 delete datas[i];
@@ -273,7 +288,7 @@ option = {
         },
         
         {
-            name: '企业指标所处位置',
+            name: debtInfo,
             type: 'effectScatter',
             symbolSize:15, 
             color:"#7CCD7C",

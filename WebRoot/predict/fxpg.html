@@ -23,7 +23,7 @@
     						<li><a href="#strategy" data-toggle="tab">战略风险评估</a></li>  
     						<li><a href="#all" data-toggle="tab">综合风险评估</a></li>  
 				    </ul>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">                       
+                    <div class="or_left_silde" id="searchCondition" style="height: 550px">                       
                          <div id="myTabContent" class="tab-content"  style="height: 500px">
                         	<div class="tab-pane fade in active" id="financial">
                     			<div class="row">
@@ -32,15 +32,119 @@
 								</div>
                			    </div>                        
                         	<div class="tab-pane fade" id="business">
-                    			<div class="row">
-  									<div class="col-xs-6">表单输入</div>
-  									<div class="col-xs-6">结果可视化</div>
+                    			<div class="row">                    			
+  									<div class="col-xs-6"  style="border-right:2px">
+  									<div class="page-header">
+  										 <small style="font-size:15px">经营风险指标输入</small> 										 
+									</div>
+									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">诉讼数量(个)</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入诉讼数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">经营异常次数</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入经营异常数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">行政处罚次数</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入行政处罚数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">动产质押次数</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入动产质押数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">自身风险</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入自身风险数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">周边风险</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入周边风险数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">股东数量（注册）</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入股东数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">第一大股东持股比例（注册）</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
+                                        	</div>
+	                               		</div>
+	                               	<div class="form-group">
+                                        <div class="col-sm-offset-5 col-sm-10">
+                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                        </div>
+                                    </div>
+	                               	</form> 							  									 									 									
+  									</div>
+  									<div class="col-xs-6">
+  									<div class="page-header">
+  										 <small style="font-size:15px">结果分析与可视化</small> 										 
+									</div>
+  									
+  									
+  									
+  									
+  									</div>
 								</div>
                			    </div>                       
                         	<div class="tab-pane fade" id="tec">
-                    			<div class="row">
-  									<div class="col-xs-6">表单输入</div>
-  									<div class="col-xs-6">结果可视化</div>
+                    			<div class="row">                    			
+  									<div class="col-xs-6"  style="border-right:2px">
+  									<div class="page-header">
+  										 <small style="font-size:15px">技术风险指标输入</small> 										 
+									</div>
+									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">专利数量(个)</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入专利数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">软件著作权数量 (个)</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入软件著作权数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">作品著作权数量 (个)</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入作品著作权数">
+                                        	</div>
+	                               		</div>
+	                               	<div class="form-group">
+                                        <div class="col-sm-offset-5 col-sm-10">
+                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                        </div>
+                                    </div>
+	                               	</form> 							  									 									 									
+  									</div>
+  									<div class="col-xs-6">
+  									<div class="page-header">
+  										 <small style="font-size:15px">技术风险分析可视化</small> 										 
+									</div>
+  									
+  									
+  									
+  									
+  									</div>
 								</div>
                			    </div>                    
                         	<div class="tab-pane fade" id="strategy">
@@ -51,15 +155,21 @@
 									</div>
 									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
 	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-3 control-label">竞品信息数量(个)</label>
-		                              		<div class="col-sm-9">
+		                                  	<label for="firstname" class="col-sm-4 control-label">竞品信息数量(个)</label>
+		                              		<div class="col-sm-8">
                                          		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入竞品数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-3 control-label">公众号数量 (个)</label>
-		                              		<div class="col-sm-9">
+		                                  	<label for="firstname" class="col-sm-4 control-label">公众号数量 (个)</label>
+		                              		<div class="col-sm-8">
                                          		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入公众号数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">对外投资数量 (个)</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入对外投资数">
                                         	</div>
 	                               		</div>
 	                               	<div class="form-group">
