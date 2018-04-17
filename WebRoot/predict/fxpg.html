@@ -153,41 +153,42 @@
   									<div class="page-header">
   										 <small style="font-size:15px">战略风险指标输入</small> 										 
 									</div>
-									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+									<form class="form-horizontal" role="form" id="strategy_form" name="risk" method="POST" onsubmit="return false" >
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">竞品信息数量(个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入竞品数">
+                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入竞品数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">公众号数量 (个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入公众号数">
+                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入公众号数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">对外投资数量 (个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入对外投资数">
+                                         		<input type="text" name="num3" class="form-control" id="firstname" placeholder="请输入对外投资数">
                                         	</div>
 	                               		</div>
 	                               	<div class="form-group">
                                         <div class="col-sm-offset-5 col-sm-10">
-                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                            <button type="submit" id="riskBtn"  class="btn btn-default">开始评估</button>
                                         </div>
                                     </div>
 	                               	</form> 							  									 									 									
   									</div>
   									<div class="col-xs-6">
   									<div class="page-header">
-  										 <small style="font-size:15px">战略风险分析可视化</small> 										 
+  										 <small style="font-size:15px">结果分析与可视化</small> 										 
 									</div>
   									
-  									
-  									
-  									
+  									     <div  style="text-align:center" id="loading"></div>									   										
+  										 <p id="msg"></p> 
+  										 <p id="view"><div id="show" style="width: 100%;height: 300px;"></div></p>
   									</div>
+  									
 								</div>
                			      </div>
                			      <div class="tab-pane fade" id="all">
@@ -223,243 +224,74 @@
 #end
 
 <script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-    var search = new Shuidi.PCSearch();
-    search.init();
-</script>
-<!-- 行业动态数据异步加载请求 -->
-<script>
-
-//Echarts接口调用及数据处理
-(function(){
-	var pie3 = echarts.init(document.getElementById("pie3"));
-	/* pie3.showLoading({
-     text: "图表数据正在努力加载..."
- }); */
- option = {
-		    title: {
-		        text: '房地产行业财务分析',
-		        left: '50%',
-		        textAlign: 'center'
-		    },
-		    tooltip: {
-		        trigger: 'axis',
-		        axisPointer: {
-		            lineStyle: {
-		                color: '#000'
-		            }
-		        },
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
-		    },
-		    legend: {
-		        left:"20",
-		        //orient: 'ver',
-		        data: ['盈利能力','偿债能力','经营效率','增长潜力']
-		    },
-		    xAxis: {
-		        type: 'category',
-		        name:'年份',
-		        data: [],
-		        boundaryGap: false,
-		        splitLine: {
-		            show: true,
-		            interval: 'auto',
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
-		        }
-		    },
-		    yAxis: {
-		        type: 'value',
-		        name:'指数',
-		        splitLine: {
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
-		    },
-		    series: [
-            {
-		        name: '盈利能力',
-		        type: 'line',
-		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }, {
-		        name: '偿债能力',
-		        type: 'line',
-		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }
-            , {
-                name: '经营效率',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-            , {
-                name: '增长潜力',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#5793f3'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-
-            ]
-		};
-
-pie3.showLoading();    //数据加载完之前先显示一段简单的loading动画
-
-//ajax异步请求数据
-var profit   = [];   //盈利能力
-var debt     = [];     //偿债能力
-var manager  = [];  //经营效率
-var increase = []; //增长潜力
-var years    = []; //横坐标：年份
-$.ajax({
-    "url": "./marketData",      //路径
-    "cache": false,              //不缓存
-    "async": true ,               //默认true即异步（优先选择）
-    "type": "GET",              //POST方式提交
-    "dataType": "json",          //json格式，重要
-    "contentType": "application/json",      //json格式                            
-    success: function (data) { //成功同步请求数据      	
-        //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
-        
-        pie3.hideLoading();    //隐藏加载动画
-        pie3.setOption({        //加载数据图表                
-            dataZoom: [{
-            type: 'inside',
-            start: 0,
-            end: 50
-        }, {
-            show: true,
-            type: 'slider',
-            y: '90%',
-            start: 0,
-            end: 50
-        }],
-            xAxis: {
-                data: years
-            },
-            series: [{
-                name: "盈利能力",  data: profit
-            }, {
-                name: "偿债能力",  data: debt
-            }, {
-                name: "经营效率",  data: manager
-            }, {
-                name: "增长潜力",  data: increase
-            }]
-        });
-    },
-    error: function (errorMsg) {
-        //请求失败时执行该函数
-        alert("图表请求数据失败!");
-        pie3.hideLoading();
-    }
-}); 
-
-pie3.setOption(option);
-})();
+$('#riskBtn').click(function(){
+	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.risk.elements.length-1;i++)
+    {
+     if(document.risk.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.risk.elements[i].focus();
+       return false;
+     }
+ }
+	
+	//表单提交数据序列化
+	var strategy_data =  $('#strategy_form').serialize();		
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./fxpg_model",//请求后台方法并接受模型返回数据
+	        data:strategy_data,//将该表单序列化
+	        //async: false,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	$("#msg").empty(); //加载前先清空结果信息
+	        	$("#view").empty(); //加载前先清空结果信息
+	            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	          },  
+	        success:function(data){
+	        	$("#loading").empty();
+	        	var re = data['result']
+	        	var percent = (re*100).toFixed(2);
+	        	
+	        		        	        		        	
+	        	//可视化
+	        	$("#view").html("<div id=\"show\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var myChart = echarts.init(document.getElementById('show'));
+	        	option = {
+	        		    tooltip : {
+	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    },
+	        		    toolbox: {
+	        		        feature: {
+	        		            restore: {},
+	        		            saveAsImage: {}
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: '战略指标',
+	        		            type: 'gauge',
+	        		            radius: '80%',	  
+	        		            detail: {formatter:'{value}%',fontSize:17},
+	        		            data: [{value: percent, name: '战略风险率'}]
+	        		        }
+	        		    ]
+	        		};	        	
+	        	myChart.setOption(option, true)	;
+	        	$("#msg").html("您查询企业的战略风险为："+percent+"%");    	        		
+	        }	          	      	          
+	  });
+	
+	
+	
+	
+	
+});
 
 </script>
 

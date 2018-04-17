@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import strategy.risk;
 import trainClassifier_Tree.creditQuality;
 import DEA.research;
 
@@ -195,6 +196,31 @@ public class PredictController extends Controller{
 		render("fxpg.html");
 	}
 
+	//0417风险等级评估模型算法
+	public void fxpg_model(){
+		
+		 int num1 = getParaToInt("num1"); 
+		 int num2 = getParaToInt("num2"); 
+		 int num3 = getParaToInt("num3"); 		
+		try {
+			String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
+			risk str = new risk();
+			str.strategy(1, input,1, 0 ,0);
+			Object[] result = null;
+			result = str.strategy(1, input,num3, num1, num2);
+			System.out.println(result[0]);
+			renderJson("result",result[0].toString());
+						
+		} catch (MWException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+	
+	
+	
 	//科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr(){
