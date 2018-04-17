@@ -5,7 +5,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import manage.manage_org;
 import strategy.risk;
+import tec.riskTec;
 import trainClassifier_Tree.creditQuality;
 import DEA.research;
 
@@ -205,22 +207,62 @@ public class PredictController extends Controller{
 		try {
 			String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
 			risk str = new risk();
-			str.strategy(1, input,1, 0 ,0);
 			Object[] result = null;
 			result = str.strategy(1, input,num3, num1, num2);
-			System.out.println(result[0]);
 			renderJson("result",result[0].toString());
 						
 		} catch (MWException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		}				
+	}
+	
+	//0417风险等级评估模型算法--技术专利
+		public void jszl_model(){
+			
+			 int num1 = getParaToInt("num1"); 
+			 int num2 = getParaToInt("num2"); 
+			 int num3 = getParaToInt("num3"); 		
+			try {
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
+				riskTec str = new riskTec();
+				Object[] result = null;
+				result = str.tec(1, input,num1, num2, num3);
+				renderJson("tec",result[0].toString());
+							
+			} catch (MWException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}				
+		}
+	
+		//0417风险等级评估模型算法--经营组织
+		public void org_risk_model(){
+					
+			int num1 = getParaToInt("num1"); 
+			int num2 = getParaToInt("num2"); 
+			int num3 = getParaToInt("num3"); 		
+			int num4 = getParaToInt("num4"); 
+			int num5 = getParaToInt("num5"); 
+			int num6 = getParaToInt("num6"); 	
+			int num7 = getParaToInt("num7"); 
+			double num8 = Double.parseDouble(getPara("num8"));  	
+			try {
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
+				manage_org str = new manage_org();
+				Object[] result = null;
+				result = str.manage(2, input,num1, num2, num3,num4, num5, num6,num7, num8);
+				setAttr("manage",result[1].toString());
+				setAttr("org",result[0].toString());				
+				renderJson(new String[]{"manage","org"});
+									
+					} catch (MWException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}				
 		}
 		
 		
-	}
-	
-	
-	
 	//科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr(){

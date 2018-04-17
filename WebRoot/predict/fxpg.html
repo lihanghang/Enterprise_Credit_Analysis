@@ -37,58 +37,58 @@
   									<div class="page-header">
   										 <small style="font-size:15px">经营风险指标输入</small> 										 
 									</div>
-									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+									<form class="form-horizontal" role="form" id="business_risk" name="org_form" method="POST" onsubmit="return false" >
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">诉讼数量(个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入诉讼数">
+                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入诉讼数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">经营异常次数</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入经营异常数">
+                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入经营异常数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">行政处罚次数</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入行政处罚数">
+                                         		<input type="text" name="num3" class="form-control" id="firstname" placeholder="请输入行政处罚数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">动产质押次数</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入动产质押数">
+                                         		<input type="text" name="num4" class="form-control" id="firstname" placeholder="请输入动产质押数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">自身风险</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入自身风险数">
+                                         		<input type="text" name="num5" class="form-control" id="firstname" placeholder="请输入自身风险数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">周边风险</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入周边风险数">
+                                         		<input type="text" name="num6" class="form-control" id="firstname" placeholder="请输入周边风险数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">股东数量（注册）</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入股东数">
+                                         		<input type="text" name="num7" class="form-control" id="firstname" placeholder="请输入股东数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">第一大股东持股比例（注册）</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
+                                         		<input type="text" name="num8" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
                                         	</div>
 	                               		</div>
 	                               	<div class="form-group">
                                         <div class="col-sm-offset-5 col-sm-10">
-                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                            <button type="submit" id="orgBtn"  class="btn btn-default">开始评估</button>
                                         </div>
                                     </div>
 	                               	</form> 							  									 									 									
@@ -97,7 +97,9 @@
   									<div class="page-header">
   										 <small style="font-size:15px">结果分析与可视化</small> 										 
 									</div>
-  									
+  									 	 <div  style="text-align:center" id="loading2"></div>									   										
+  										 <p id="msg2"></p> 
+  										 <p id="view2"><div id="show2" style="width: 100%;height: 300px;"></div></p>
   									
   									
   									
@@ -110,40 +112,39 @@
   									<div class="page-header">
   										 <small style="font-size:15px">技术风险指标输入</small> 										 
 									</div>
-									<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
+									<form class="form-horizontal" role="form" id="tec_data" name="tec_form" method="POST" onsubmit="return false" >
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">专利数量(个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入专利数">
+                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入专利数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">软件著作权数量 (个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入软件著作权数">
+                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入软件著作权数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">作品著作权数量 (个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" placeholder="请输入作品著作权数">
+                                         		<input type="text" name="num3" class="form-control" id="firstname" placeholder="请输入作品著作权数">
                                         	</div>
 	                               		</div>
 	                               	<div class="form-group">
                                         <div class="col-sm-offset-5 col-sm-10">
-                                            <button type="submit" id="btn"  class="btn btn-default">开始评估</button>
+                                            <button type="submit" id="tecBtn"  class="btn btn-default">开始评估</button>
                                         </div>
                                     </div>
 	                               	</form> 							  									 									 									
   									</div>
   									<div class="col-xs-6">
   									<div class="page-header">
-  										 <small style="font-size:15px">技术风险分析可视化</small> 										 
+  										 <small style="font-size:15px">结果分析与可视化</small> 										 
 									</div>
-  									
-  									
-  									
-  									
+  									  <div  style="text-align:center" id="loading1"></div>									   										
+  									  <p id="msg1"></p> 
+  									  <p id="view1"><div id="show1" style="width: 100%;height: 300px;"></div></p> 									 									  									
   									</div>
 								</div>
                			    </div>                    
@@ -182,8 +183,7 @@
   									<div class="col-xs-6">
   									<div class="page-header">
   										 <small style="font-size:15px">结果分析与可视化</small> 										 
-									</div>
-  									
+									</div>  									
   									     <div  style="text-align:center" id="loading"></div>									   										
   										 <p id="msg"></p> 
   										 <p id="view"><div id="show" style="width: 100%;height: 300px;"></div></p>
@@ -192,8 +192,7 @@
 								</div>
                			      </div>
                			      <div class="tab-pane fade" id="all">
-                    			<div class="row">
-  									
+                    			<div class="row"> 									
   									<div class="col-xs-1">结果可视化</div>
 								</div>
                			    </div>  
@@ -285,12 +284,141 @@ $('#riskBtn').click(function(){
 	        	myChart.setOption(option, true)	;
 	        	$("#msg").html("您查询企业的战略风险为："+percent+"%");    	        		
 	        }	          	      	          
-	  });
+	  });	
+});
+
+
+
+$('#tecBtn').click(function(){
 	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.tec_form.elements.length-1;i++)
+    {
+     if(document.tec_form.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.tec_form.elements[i].focus();
+       return false;
+     }
+ }
 	
+	//表单提交数据序列化
+	var tec_data =  $('#tec_data').serialize();		
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./jszl_model",//请求后台方法并接受模型返回数据
+	        data:tec_data,//将该表单序列化
+	        //async: false,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	$("#msg1").empty(); //加载前先清空结果信息
+	        	$("#view1").empty(); //加载前先清空结果信息
+	            $("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	          },  
+	        success:function(data){
+	        	$("#loading1").empty();
+	        	var re = data['tec']
+	        	var percent = (re*100).toFixed(2);
+	        	
+	        		        	        		        	
+	        	//可视化
+	        	$("#view1").html("<div id=\"show1\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var myChart1 = echarts.init(document.getElementById('show1'));
+	        	option = {
+	        		    tooltip : {
+	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    },
+	        		    toolbox: {
+	        		        feature: {
+	        		            restore: {},
+	        		            saveAsImage: {}
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: '技术指标',
+	        		            type: 'gauge',
+	        		            radius: '80%',	  
+	        		            detail: {formatter:'{value}%',fontSize:17},
+	        		            data: [{value: percent, name: '技术风险率'}]
+	        		        }
+	        		    ]
+	        		};	        	
+	        	myChart1.setOption(option, true)	;
+	        	$("#msg1").html("您查询企业的技术风险率为："+percent+"%");    	        		
+	        }	          	      	          
+	  });		
+});
+
+
+
+$('#orgBtn').click(function(){
 	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.org_form.elements.length-1;i++)
+    {
+     if(document.org_form.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.org_form.elements[i].focus();
+       return false;
+     }
+ }
 	
-	
+	//表单提交数据序列化
+	var org_data =  $('#business_risk').serialize();		
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./org_risk_model",//请求后台方法并接受模型返回数据
+	        data:org_data,//将该表单序列化
+	        //async: false,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#view2").empty(); //加载前先清空结果信息
+	            $("#loading2").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	          },  
+	        success:function(data){
+	        	$("#loading2").empty();
+	        	//console.log(data['manage']);
+	        	var man = data['manage'];
+	        	var org = data['org'];
+	        	var percent = ((man*0.7+org*0.3)*100).toFixed(2);
+	        	
+	        		        	        		        	
+	        	//可视化
+	        	$("#view2").html("<div id=\"show2\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var myChart2 = echarts.init(document.getElementById('show2'));
+	        	option = {
+	        		    tooltip : {
+	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    },
+	        		    toolbox: {
+	        		        feature: {
+	        		            restore: {},
+	        		            saveAsImage: {}
+	        		        }
+	        		    },
+	        		    series: [
+	        		        {
+	        		            name: '经营指标',
+	        		            type: 'gauge',
+	        		            radius: '80%',	  
+	        		            detail: {formatter:'{value}%',fontSize:17},
+	        		            data: [{value: percent, name: '经营风险率'}]
+	        		        }
+	        		    ]
+	        		};	        	
+	        	myChart2.setOption(option, true)	;
+	        	$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
+	        }	          	      	          
+	  });		
 });
 
 </script>
