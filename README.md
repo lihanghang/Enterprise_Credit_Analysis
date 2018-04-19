@@ -29,6 +29,8 @@
 3. 地代码合并：git merge temp
 4. 本地 temp分支（可选）：git branch -d temp
 5. 通过java调用MATLAB，进行复杂数据计算和相关算法实现。
-
+6. 更新本地仓库代码：git pull.
+7. 删除分支：git push origin : branch_name(您需要删除的分支名)。
 - - - -
-更新时间【2018.4.12】
+【欢迎交流，邮箱ilihanghang@126.com】
+ 更新时间【2018.4.19】
