@@ -3,6 +3,8 @@
  */
 package com.ccip.bank.service;
 
+import java.util.ArrayList;
+
 import com.ccip.bank.model.Company;
 import com.jfinal.plugin.activerecord.Page;
 
@@ -20,7 +22,10 @@ public class CompanyService {
 	
 	public Page<Company> paginate(int pageNumber, int pageSize, String key, int sort) {
 		return dao.paginate(pageNumber, pageSize, "select *", 
-				"from en_companyinfo where concat(IFNULL(cname,''),IFNULL(industry,''),IFNULL(start_time,''),IFNULL(registerAuth,'')) like ?","%"+key+"%");
+				"from en_all_company where concat(IFNULL(cname,''),IFNULL(industry,''),IFNULL(registerAuth,'')) like ?","%"+key+"%");
+//		return dao.paginate(pageNumber, pageSize, "select *", 
+//				"from curya工商  where concat(IFNULL(公司名称,''),IFNULL(行业,''),IFNULL(start_time,''),IFNULL(登记机关,'')) like ?","%"+key+"%");
+//
 	}
 	
 	public Company findById(int id) {
@@ -31,11 +36,31 @@ public class CompanyService {
 		dao.deleteById(id);
 	}
 	
-	//search company by organizateNum0327
-	public Company getByOrgNum (String orgNum) {
-
-		return  dao.findFirst("select * from en_companyinfo where organizateNum = ?" , orgNum);
+	//search company by  统一信用代码
+	public Company getByCreditNum (String creditCode) {
+		return  dao.findFirst("select * from en_all_company where code = ?" , creditCode);
 	}
+	
+	//获取法律诉讼
+	public Page<Company> paginats(int pageNumber, int pageSize,String code){
+		return dao.paginate(pageNumber, pageSize,"select *","from 法律诉讼  where 统一信用代码 = ?" , code);
+        
+    }
+	//获取法院公告
+		public Page<Company> paginat_notice(int pageNumber, int pageSize,String code){
+			return dao.paginate(pageNumber, pageSize,"select *","from 法院公告  where 统一信用代码 = ?" , code);
+	        
+	    }
+	//获取被执行人
+	public Page<Company> paginat_preson(int pageNumber, int pageSize,String code){
+		return dao.paginate(pageNumber, pageSize,"select *","from 被执行人  where 统一信用代码 = ?" , code);
+			        
+	}
+	//获取开庭公告
+		public Page<Company> paginat_session(int pageNumber, int pageSize,String code){
+			return dao.paginate(pageNumber, pageSize,"select *","from 开庭公告  where 统一信用代码 = ?" , code);
+			        
+}
 	
 }
 

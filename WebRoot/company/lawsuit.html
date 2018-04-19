@@ -3,65 +3,151 @@
 <div class="container company-more">
     <div class="container-left">
         <div class="panel">
-
-            <!--风险事件-->
+            <!--法律诉讼-->
             <div class="panel-head title-lg" id="dangerInfo">
-                <i class="icon icon-bang-lg bg-success"></i>风险事件
+                <i class="icon icon-bang-lg bg-success"></i>法律诉讼(#(legalData.totalRow))
             </div>
-            <div class="panel-body danger-info">
-                                                            <span class="text-silver">暂无数据</span>
-                                                </div>
+              <div class="panel-body nashui-info">
+             <!--正常显示-->
+                        <div class="tax-info-title">
+                            <ul>
+                                <li>
+                                    <div class="tax-info-year">日期</div>
+                                    <div class="tax-info-id">裁判文书</div>
+                                    <div class="tax-info-level">案由</div>
+                                    <div class="tax-info-company">案件身份</div>
+                                    <div class="tax-info-province">案件号</div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tax-info-item">
+                            <ul>             
+                           #for(x : legalData.getList())
+                                 <li>
+                                        <div class="tax-info-year">#(x.data)</div>
+                                        <div class="tax-info-id">#(x.case_content)</div>
+                                        <div class="tax-info-level">#(x.case_source)</div>
+                                        <div class="tax-info-company">#(x.identitys)</div>
+                                        <div class="tax-info-province">#(x.case_num)</div>
+                                    </li>
+                           #end
+                         </ul>
+                                                  
+                    </div>
+                       <!-- 分页插件 -->             
+        	   				#@paginateContent(legalData.pageNumber, legalData.totalPage, "./", companyData.code) 
+                 </div>
 
-            <!--诉讼记录-->
+            <!--被执行人-->
             <div class="panel-head title-lg" id="recordInfo">
-                <i class="icon icon-bang-lg bg-success"></i>诉讼记录
+                <i class="icon icon-bang-lg bg-success"></i>被执行人(#(personData.totalRow))
             </div>
-            <div class="panel-body courts-info">
-                                    <!--                                            正常显示-->
-                                            <!--无数据提示-->
-                        <span class="text-silver">暂无数据</span>
-                                                </div>
+              <div class="panel-body nashui-info">
+             <!--正常显示-->
+                        <div class="tax-info-title">
+                            <ul>
+                                <li>
+                                    <div class="tax-info-year">立案日期</div>
+                                    <div class="tax-info-id">执行标的</div>
+                                    <div class="tax-info-level">案号</div>
+                                    <div class="tax-info-company">执行法院</div>                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tax-info-item">
+                            <ul>             
+                           #for(x : personData.getList())
+                                 <li>
+                                        <div class="tax-info-year">#(x.case_data)</div>
+                                        <div class="tax-info-id">#(x.enforcement)</div>
+                                        <div class="tax-info-level">#(x.case_num)</div>
+                                        <div class="tax-info-company">#(x.enforcement_org)</div>                                        
+                                    </li>
+                           #end
+                         </ul>
+                                                  
+                    </div>
+                       <!-- 分页插件 -->             
+        	   				#@paginateContent(personData.pageNumber, personData.totalPage, "./", companyData.code) 
+                 </div>
 
             <!--法院公告-->
             <div class="panel-head title-lg" id="gonggaoInfo">
-                <i class="icon icon-bang-lg bg-success"></i>法院公告
+                <i class="icon icon-bang-lg bg-success"></i>法院公告(#(noticeData.totalRow))
             </div>
-            <div class="panel-body courts-notice">
-                                    <!--                                            正常显示-->
-                                            <!--无数据提示-->
-                        <span class="text-silver">暂无数据</span>
-                                                </div>
-
-            <!--失信被执行-->
+             <div class="panel-body nashui-info">
+             <!--正常显示-->
+                        <div class="tax-info-title">
+                            <ul>
+                                <li>
+                                    <div class="tax-info-year">公告日期</div>
+                                    <div class="tax-info-id">上诉方</div>
+                                    <div class="tax-info-level">被诉方</div>
+                                    <div class="tax-info-company">公告类型</div>  
+                                    <div class="tax-info-company">法院</div>                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tax-info-item">
+                            <ul>             
+                           #for(x : noticeData.getList())
+                                 <li>
+                                        <div class="tax-info-year">#(x.notice_data)</div>
+                                        <div class="tax-info-id">#(x.appealedant)</div>
+                                        <div class="tax-info-level">#(x.defendant)</div>
+                                        <div class="tax-info-company">#(x.notice_type)</div> 
+                                        <div class="tax-info-company">#(x.notice_org)</div>                                       
+                                    </li>
+                           #end
+                         </ul>
+                                                  
+                    </div>
+                       <!-- 分页插件 -->             
+        	   				#@paginateContent(noticeData.pageNumber, noticeData.totalPage, "./", companyData.code) 
+                 </div>
+            <!--开庭公告-->
             <div class="panel-head title-lg" id="shixinInfo">
-                <i class="icon icon-bang-lg bg-success"></i>失信被执行
+                <i class="icon icon-bang-lg bg-success"></i>开庭公告(#(sessionData.totalRow))
             </div>
-            <div class="panel-body">
-                                                            <!--无数据提示-->
-                        <span class="text-silver">暂无数据</span>
-                                                </div>
-            <!--行政处罚-->
+           <div class="panel-body nashui-info">
+             <!--正常显示-->
+                        <div class="tax-info-title">
+                            <ul>
+                                <li>
+                                    <div class="tax-info-year">开庭日期</div>
+                                    <div class="tax-info-id">案由</div>
+                                    <div class="tax-info-level">原告/上诉人</div>
+                                    <div class="tax-info-company">被告/上诉人</div>                                 
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tax-info-item">
+                            <ul>             
+                           #for(x : sessionData.getList())
+                                 <li>
+                                        <div class="tax-info-year">#(x.session_data)</div>
+                                        <div class="tax-info-company">#(x.case_reason)</div>
+                                        <div class="tax-info-id">#(x.appealdant)</div>
+                                        <div class="tax-info-level">#(x.defendant)</div>
+                                                                                                  
+                                    </li>
+                           #end
+                         </ul>
+                                                  
+                    </div>
+                       <!-- 分页插件 -->             
+        	   				#@paginateContent(sessionData.pageNumber,sessionData.totalPage, "./", companyData.code) 
+                 </div>
+            <!--行政处罚
 
             <div class="sanction">
                 <div class="panel-head title-lg" id="sanctionInfo" data-company-no="16075739037152561999330634260113">
                     <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>行政处罚</div>
                 </div>
-                <div class="panel-body sanction-info">
-                                            <!--                                            正常显示-->
-                                                    <!--无数据提示-->
+                <div class="panel-body sanction-info">                                                                                          
                             <span class="text-silver">暂无数据</span>
                                                             </div>
-            </div>
-
-            <!--被执行人信息-->
-            <div class="panel-head title-lg" id="shesuInfo">
-                <i class="icon icon-bang-lg bg-success"></i>被执行人信息
-                                                                </div>
-            <div class="panel-body">
-                                    <!--                                            正常显示-->
-                                            <!--无数据提示-->
-                        <span class="text-silver">暂无数据</span>
-                                                </div>
+            </div>-->
         </div>
 
         <!--声明-->
@@ -94,12 +180,12 @@
         <div class="panel">
             <div class="panel-head title-lg">企业图谱</div>
             <div class="panel-body" id="relation_chart">
-                <img src="../static/home/detail/more_right_map.png">
+                <img src="#(ctx_path)/static/home/detail/more_right_map.png">
                          <!-- 正常显示-->
             <a href="javascript:void(0)" class="btn btn-success company-map-view seeMoreDetail" 
-             jump-url="/company_map?digest=cabe75387416bdce9fc2af48000527b1">发现企业间的隐藏关系</a>
+             jump-url="../../company_map?digest=cabe75387416bdce9fc2af48000527b1">发现企业间的隐藏关系</a>
             </div>
         </div>
-         <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="../static/home/detail/creditchina.PNG"></a>
+         <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
 </div></div>
 #end

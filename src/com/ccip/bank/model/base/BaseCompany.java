@@ -68,13 +68,14 @@ public abstract class BaseCompany<M extends BaseCompany<M>> extends Model<M> imp
 		return getStr("status");
 	}
 	
-	public M setOrganizateNum(java.lang.String organizateNum) {
-		set("organizateNum", organizateNum);
+	//企业信用统一代码
+	public M setCode(java.lang.String code) {
+		set("code", code);
 		return (M)this;
 	}
 	
-	public java.lang.String getOrganizateNum() {
-		return getStr("organizateNum");
+	public java.lang.String getCode() {
+		return getStr("code");
 	}
 	
 	//企业地址

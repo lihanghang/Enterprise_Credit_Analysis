@@ -11,10 +11,10 @@
     <title>企业信息查询与智能分析系统</title>
     <meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
     <meta name="Keywords" content="企业信用与智能分析">
-    <link rel="stylesheet"  href="../static/home/detail/Shuidi_Detail_DocMore.css" type="text/css"> 
-    <link rel="stylesheet"  href="../static/home/basicinfo/Shuidi_Detail_BaseInfo.css" type="text/css"> 
-    <link rel="stylesheet"  href="../static/home/operatingstatus/Shuidi_Detail_OperatingStatus.css" type="text/css"> 
-    <link rel="shortcut icon" href="../static/home/index/images/icon.png" />  
+    <link rel="stylesheet"  href="#(ctx_path)/static/home/detail/Shuidi_Detail_DocMore.css" type="text/css"> 
+    <link rel="stylesheet"  href="#(ctx_path)/static/home/basicinfo/Shuidi_Detail_BaseInfo.css" type="text/css"> 
+    <link rel="stylesheet"  href="#(ctx_path)/static/home/operatingstatus/Shuidi_Detail_OperatingStatus.css" type="text/css"> 
+    <link rel="shortcut icon" href="#(ctx_path)/static/home/index/images/icon.png" />  
    <!--  <script src="../static/home/list/hm.js"></script> -->
 </head>
 <body>
@@ -29,16 +29,16 @@
                 <ul class="pull-down-one" style="bottom: -112px;">
                 </ul>
             </div> -->
-            <div class="triangle-box"><a href="../search/?keyWord="">企业信息查询</a></div> 
+            <div class="triangle-box"><a href="#(ctx_path)/search/">企业信息查询</a></div> 
             <div class="triangle-box" >智能分析服务
                 <i class="triangle"></i>
 
                 <ul class="pull-down-two" style="bottom: -68px;">
-                    <li class="first"><a href="../predict/xypj" >企业信用评级</a></li>
-                    <li><a href="../predict/hydt">行业动态预测</a></li>
-                    <li class="last"><a href="../predict/kytr">企业科研投入推荐</a></li>
-                    <li class="last"><a href="../predict/dhyj">企业贷后预警</a></li>
-                    <li class="last"><a href="../predict/fxpg">企业风险评估</a></li>
+                    <li class="first"><a href="#(ctx_path)/predict/xypj" >企业信用评级</a></li>
+                    <li><a href="#(ctx_path)/predict/hydt">行业动态预测</a></li>
+                    <li class="last"><a href="#(ctx_path)/predict/kytr">企业科研投入推荐</a></li>
+                    <li class="last"><a href="#(ctx_path)/predict/dhyj">企业贷后预警</a></li>
+                    <li class="last"><a href="#(ctx_path)/predict/fxpg">企业风险评估</a></li>
                 </ul>
             </div>
         </div>
@@ -147,32 +147,32 @@
             企业主设置不对外展示
             <span class="vi"><label></label></span>
         </div>
-        <div class="neck-item" data-href="./basicInfo?num=#(companyData.organizateNum)">
+        <div class="neck-item" data-href="#(ctx_path)/company/basicInfo/?num=#(companyData.code)">
             <a href="javascript:void(0)"><div class="title-lg">企业背景</div></a>
             <ul>
-                <li><a href="#managerInfo">工商信息<span class="text-silver">10</span></a></li>
-                <li><a href="#personInfo">主要成员<span class="text-silver">10</span></a></li>
-                <li style="display: none;"><a href="#partnerInfo">股东信息<span class="text-silver">2</span></a></li>
+                <li><a href="#managerInfo">工商信息<span class="text-silver"></span></a></li>
+                <li><a href="#personInfo">主要成员<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#partnerInfo">股东信息<span class="text-silver"></span></a></li>
             </ul>
             <ul>
                 <li><a href="#">分支机构<span class="text-silver"></span></a></li>
-                <li style="display: none;"><a href="#">企业信用等级报告<span class="text-silver" id="reportCount">4</span></a></li>
+                <li style="display: none;"><a href="#">企业信用等级报告<span class="text-silver" id="reportCount"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./operation?num=#(companyData.organizateNum)">
+        <div class="neck-item" data-href="./operation/?num=#(companyData.code)">
             <a href="javascript:void(0)"><div class="title-lg">经营状况</div></a>
             <ul>
                 <li style="display: none;"><a href="#">融资情况<span class="text-silver"></span></a></li>
-                                    <li style="display: none;"><a href="#">公司债务<span class="text-silver">0</span></a></li>
+                                    <li style="display: none;"><a href="#">公司债务<span class="text-silver"></span></a></li>
                                 <li style="display: none;"><a href="#">公司业务<span class="text-silver"></span></a></li>
                                 <li style="display: none;"><a href="#">主要产品<span class="text-silver"></span></a></li>
                 <li style="display: none;"><a href="#">纳税信息<span class="text-silver"></span></a></li>
             </ul>
             <ul>
-                <li><a href="#">对外投资<span class="text-silver" id="outinvestCount">1</span></a></li>
+                <li><a href="#">对外投资<span class="text-silver" id="outinvestCount"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./lawsuit?num=#(companyData.organizateNum)">
+        <div class="neck-item" data-href="./lawsuit/?num=#(companyData.code)">
             <a href="javascript:void(0)"><div class="title-lg">风险状况</div></a>
             <ul>
                 <li><a href="#"> 司法风险 <span class="text-silver"></span></a></li>
@@ -182,7 +182,7 @@
                 <li><a href="#"> 行政处罚 <span class="text-silver"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item noborder" data-href="./intellectProperty?num=#(companyData.organizateNum)">
+        <div class="neck-item noborder" data-href="./intellectProperty/?num=#(companyData.code)">
             <a href="javascript:void(0)"><div class="title-lg">知识产权</div></a>
             <ul>
                 <li><a href="#shangbiaoInfo">商标信息<span class="text-silver"></span></a></li>
@@ -244,45 +244,16 @@
     </div>
 </div>
 <script type="text/javascript" src="../static/home/list/pa.1.0.js"></script>
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?4cb0385b9ad8022cb597e5015cb7a9e8";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
 </div>
 
 <div id="pmt-background"></div>
-<div id="pmt-main">
-    <div id="pmt-first-row">
-        <button id="pmt-cancel"><img src="./湖北筑峰建设工程有限公司-更多信息_files/pmt_cancel.jpg"></button>
-    </div>
-    <p id="pmt-title"></p>
-    <p id="pmt-cost-row">
-        <span class="pmt-cost-row-black">实付金额</span>
-        <span class="pmt-cost-row-orange">￥</span><span id="pmt-price" class="pmt-cost-row-orange"></span>
-        <span class="pmt-cost-row-black">元</span>
-    </p>
-    <p id="pmt-tip"></p>
-    <div id="pmt-qrcode-part">
-        <p id="pmt-qrcode-tip">请用微信扫码完成付款</p>
-        <div id="pmt-qrcode-imgs">
-            <div id="pmt-qrcode"></div>
-            <div id="pmt-scan-tip"></div>
-        </div>
-    </div>
-</div><input type="hidden" value="" id="digest">
-
-<div id="free-pay-background"></div>
+<!--<div id="free-pay-background"></div>
 <div id="free-pay-main">
     <div id="free-pay-first-row">
         <p id="free-pay-title"></p>
         <button id="free-pay-cancel">×</button>
     </div>
-    <div id="free-pay-body">
+     <div id="free-pay-body">
         <div id="free-pay-target-portrait"></div>
         <div id="free-pay-content">
             <p id="free-pay-content-title"></p>
@@ -296,13 +267,13 @@
         </div>
        
     </div>
-</div>
+</div> -->
 
-    <script type="text/javascript" src="../static/home/list/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/jrender.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/promise-7.0.4.min.js"></script>
-    <script type="text/javascript" src="../static/home/detail/Shuidi_Detail_DocMore.js"></script>
+    <script type="text/javascript" src="#(ctx_path)/static/home/list/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="#(ctx_path)/static/home/list/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="#(ctx_path)/static/home/list/jrender.min.js"></script>
+    <script type="text/javascript" src="#(ctx_path)/static/home/list/promise-7.0.4.min.js"></script>
+    <script type="text/javascript" src="#(ctx_path)/static/home/detail/Shuidi_Detail_DocMore.js"></script>
 
 <div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div class="msgtip" style="position: fixed; top: 35%; left: 50%; padding: 15px 25px; text-align: center; border-radius: 10px; color: rgb(255, 255, 255); background: url(&quot;//static.pacra.cn/shuidi/images/bg_black50.png&quot;); display: none; z-index: 99; margin-left: -50px;"></div><div class="mask"></div>
 <script>
@@ -313,7 +284,7 @@
 	var docmore = new Shuidi.Detail.DocMore();
     docmore.init();
 </script>
-<script type="text/javascript" src="../static/home/list/Pa_Pa.js"></script>
+<script type="text/javascript" src="#(ctx_path)/static/home/list/Pa_Pa.js"></script>
 
 </body>
 </html>

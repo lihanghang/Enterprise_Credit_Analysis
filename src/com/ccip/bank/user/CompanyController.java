@@ -17,11 +17,11 @@ public class CompanyController extends Controller {
 		public void index() {
 		    //封装前台展示的数据
 		    User name = getSessionAttr(getCookie("cuser"));		    
-		    setAttr("companyData",service.getByOrgNum(getPara("num")));
+		    setAttr("companyData",service.getByCreditNum(getPara("num")));
 		    setAttr("name",name);	
 			render("company.html");					
 		}
-			    
+	    
 		//企业背景页面;基于RDF存储，SPARQL查询语言获取数据
 	    //拦截器，防止未登录用户进入
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
@@ -30,7 +30,7 @@ public class CompanyController extends Controller {
 	    	String company = getPara("name");	    	
 		    Map data = test.basicInfo(company);	  
 		    setAttr("rdfData", data);
-			setAttr("companyData",service.getByOrgNum(getPara("num")));
+			setAttr("companyData",service.getByCreditNum(getPara("num")));
 			render("companyInfo.html");
 		}
 	    
@@ -39,24 +39,29 @@ public class CompanyController extends Controller {
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void operation()
 		{
-			setAttr("companyData",service.getByOrgNum(getPara("num")));
+			setAttr("companyData",service.getByCreditNum(getPara("num")));
 			render("operatingstatus.html");
 		}
-		//风险状况页面
+		//风险状况页面0419 by Hang-Hang Li
 	    //拦截器，防止未登录用户进入
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void lawsuit()
-		{
-			setAttr("companyData",service.getByOrgNum(getPara("num")));
+		{	
+	    	//将数据分页
+	    	setAttr("legalData", service.paginats(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("personData", service.paginat_preson(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("sessionData",service.paginat_session(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("noticeData", service.paginat_notice(getParaToInt(0, 1), 5, getPara("num")));
+			setAttr("companyData",service.getByCreditNum(getPara("num")));
 			render("lawsuit.html");
-			}		
+		}		
 		
 		//知识产权页面
 	    //拦截器，防止未登录用户进入
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void intellectProperty()
 		{
-			setAttr("companyData",service.getByOrgNum(getPara("num")));
+			setAttr("companyData",service.getByCreditNum(getPara("num")));
 			render("intellectualproperty.html");
 		}
 	    //拦截器，防止未登录用户进入

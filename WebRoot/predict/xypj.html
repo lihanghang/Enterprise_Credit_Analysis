@@ -415,16 +415,17 @@ option = {
 	        		        },
 	        		        
 	        		        {
-	        		        	function (name){
-	        		        	
-	        		        	
-	        		        	if(datas2.outliers>Datas2.boxData[3])
-	        		        		name: '企业指标高于行业平均水平';
-	        		        		else
-	        		        			name:'低于行业平均水平';
-	        		        		
-	        		        	},
-	        		        	
+	        		        	name:
+									 (function (){
+			        		        	
+			        		        	var names="";
+			        		        	if(datas2.outliers>datas2.boxData[3])
+			        		        		  //names= '企业指标高于行业平均水平';
+			        		        		names = "企业指标高于行业平均水平";
+			        		        	else
+			        		        	    names = '企业指标低于行业平均水平';
+			   							return names;
+			        		        	})(),	        		        	
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
 	        		            color:"#7CCD7C",

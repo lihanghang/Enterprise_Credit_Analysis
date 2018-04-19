@@ -48,8 +48,7 @@ public class PredictController extends Controller{
 		
 		List<Market> data = Market.dao.getAllData();
 		String json = JsonKit.toJson(data);
-		renderJson(json);
-				
+		renderJson(json);				
 	}
 	
 	//房地产合成指数数据0326
