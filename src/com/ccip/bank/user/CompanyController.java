@@ -56,14 +56,23 @@ public class CompanyController extends Controller {
 			render("lawsuit.html");
 		}		
 		
-		//知识产权页面
+		//知识产权页面0420 by Hang-Hang Li
 	    //拦截器，防止未登录用户进入
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void intellectProperty()
 		{
+	    	setAttr("brandData", service.paginat_brand(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("softData", service.paginat_soft(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("patentData",service.paginat_zhuanli(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("webData", service.paginat_web(getParaToInt(0, 1), 5, getPara("num")));
+	    	setAttr("worksData", service.paginat_works(getParaToInt(0, 1), 5, getPara("num")));
 			setAttr("companyData",service.getByCreditNum(getPara("num")));
 			render("intellectualproperty.html");
 		}
+	    
+	    
+	    
+	    
 	    //拦截器，防止未登录用户进入
 	    @Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)	
 		public void companyList(){

@@ -32,12 +32,10 @@ public class IndexController extends Controller {
 		//公司搜索主方法,列表展示
 		@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 		public void search(){
-			
-			//得到搜索参数
-			int sort = 0;
-			String searchParam = getPara("keyWord");			
+
+			String searchParam = this.getPara("keyWord").trim();	
 			setAttr("key", searchParam);
-			setAttr("clst", service.paginate(getParaToInt(0, 1), 10, searchParam, sort));			
+			setAttr("clst", service.paginate(getParaToInt(0, 1), 10, searchParam));			
 			render("./company/companyList.html");
 		}
 		

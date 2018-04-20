@@ -21,20 +21,20 @@
 
 <div class="nav">
     <div class="container">
-        <a href="../"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
+        <a href="#(ctx_path)"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
         <div class="link-box">
-            <a href="../" class="home-page-link" style="padding-left:60px;">首页</a>
+            <a href="#(ctx_path)" class="home-page-link" style="padding-left:60px;">首页</a>
 <!--             <div class="triangle-box">查询服务
                 <i class="triangle"></i>
                 <ul class="pull-down-one" style="bottom: -112px;">
                 </ul>
             </div> -->
-            <div class="triangle-box"><a href="#(ctx_path)/search/">企业信息查询</a></div> 
+           <!--  <div class="triangle-box"><a href="#(ctx_path)/search/"; keyWord=" ">企业信息查询</a></div>  -->
             <div class="triangle-box" >智能分析服务
                 <i class="triangle"></i>
 
                 <ul class="pull-down-two" style="bottom: -68px;">
-                    <li class="first"><a href="#(ctx_path)/predict/xypj" >企业信用评级</a></li>
+                    <li class="first"><a href="#(ctx_path)/predict/xypj">企业信用评级</a></li>
                     <li><a href="#(ctx_path)/predict/hydt">行业动态预测</a></li>
                     <li class="last"><a href="#(ctx_path)/predict/kytr">企业科研投入推荐</a></li>
                     <li class="last"><a href="#(ctx_path)/predict/dhyj">企业贷后预警</a></li>
@@ -42,15 +42,15 @@
                 </ul>
             </div>
         </div>
-     <!-- <div class="search top_search ">
-            <form id="topSearchForm" action="../search">                                                      
-                        <input class="search-key ui-autocomplete-input" type="text" placeholder="请输入企业名、产品名、注册号、法人、高管等查询" >
-                        <i class="search-btn"></i>                      
+     <div class="search top_search ">
+            <form id="topSearchForm">                                                      
+                        <input class="search-key ui-autocomplete-input" name="keyWord" type="text" placeholder="请输入企业名、产品名、注册号、法人、高管等查询" >
+                        <i class="btn btn-primary" id="searchBtn"></i>                      
             </form>
-         <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: block;">
+         <!-- <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: block;">
             
-        </ul> 
-    </div>  -->
+        </ul>  -->
+    </div>
  
 		<div class="userinfo-nologin">
             <a class="user-name" href="javascript:;">您好,#(session.user)</a>
@@ -110,11 +110,7 @@
                      </div>
             </div>
         </div>
-
     </div>
-
-
-
 <input type="hidden" id="data_company_name_digest" class="data-companyname-digest" value="cabe75387416bdce9fc2af48000527b1">
 <input type="hidden" id="data_company_no" value="16075739037152561999330634260113">
 <input type="hidden" value="credit_report_basic" id="fileKey">
@@ -147,7 +143,7 @@
             企业主设置不对外展示
             <span class="vi"><label></label></span>
         </div>
-        <div class="neck-item" data-href="#(ctx_path)/company/basicInfo/?num=#(companyData.code)">
+        <div class="neck-item" data-href="#(ctx_path)/company/basicInfo/?num=#(companyData.code)&name=#(companyData.cname)">
             <a href="javascript:void(0)"><div class="title-lg">企业背景</div></a>
             <ul>
                 <li><a href="#managerInfo">工商信息<span class="text-silver"></span></a></li>
@@ -159,7 +155,7 @@
                 <li style="display: none;"><a href="#">企业信用等级报告<span class="text-silver" id="reportCount"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./operation/?num=#(companyData.code)">
+        <div class="neck-item" data-href="#(ctx_path)/company/operation/?num=#(companyData.code)&name=#(companyData.cname)">
             <a href="javascript:void(0)"><div class="title-lg">经营状况</div></a>
             <ul>
                 <li style="display: none;"><a href="#">融资情况<span class="text-silver"></span></a></li>
@@ -172,17 +168,16 @@
                 <li><a href="#">对外投资<span class="text-silver" id="outinvestCount"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item" data-href="./lawsuit/?num=#(companyData.code)">
+        <div class="neck-item" data-href="#(ctx_path)/company/lawsuit/?num=#(companyData.code)&name=#(companyData.cname)">
             <a href="javascript:void(0)"><div class="title-lg">风险状况</div></a>
             <ul>
-                <li><a href="#"> 司法风险 <span class="text-silver"></span></a></li>
-                <li style="display: none;"><a href="#"> 经营风险 <span class="text-silver"></span></a></li>
-            </ul>
-            <ul>
-                <li><a href="#"> 行政处罚 <span class="text-silver"></span></a></li>
+                <li><a href="#susongInfo">法律诉讼<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#beizxInfo">被执行人<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#gonggaoInfo">法院公告<span class="text-silver"></span></a></li>
+                <li style="display: none;"><a href="#kaitingInfo">开庭公告<span class="text-silver"></span></a></li>
             </ul>
         </div>
-        <div class="neck-item noborder" data-href="./intellectProperty/?num=#(companyData.code)">
+        <div class="neck-item noborder" data-href="#(ctx_path)/company/intellectProperty/?num=#(companyData.code)&name=#(companyData.cname)">
             <a href="javascript:void(0)"><div class="title-lg">知识产权</div></a>
             <ul>
                 <li><a href="#shangbiaoInfo">商标信息<span class="text-silver"></span></a></li>
@@ -243,7 +238,7 @@
         </div>
     </div>
 </div>
-<script type="text/javascript" src="../static/home/list/pa.1.0.js"></script>
+<script type="text/javascript" src="#(ctx_path)/static/home/list/pa.1.0.js"></script>
 </div>
 
 <div id="pmt-background"></div>
@@ -276,15 +271,22 @@
     <script type="text/javascript" src="#(ctx_path)/static/home/detail/Shuidi_Detail_DocMore.js"></script>
 
 <div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div class="msgtip" style="position: fixed; top: 35%; left: 50%; padding: 15px 25px; text-align: center; border-radius: 10px; color: rgb(255, 255, 255); background: url(&quot;//static.pacra.cn/shuidi/images/bg_black50.png&quot;); display: none; z-index: 99; margin-left: -50px;"></div><div class="mask"></div>
-<script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
+<!-- 处理 top-search request -->
+<script type="text/javascript">
+$('#searchBtn').click(function(){
+	var keyWords = $("input[name='keyWord']").val();	
+	    if(true){  
+	        document.getElementById("topSearchForm").action = "#(ctx_path)/search/?keyWord="+keyWords;  
+	        document.getElementById("topSearchForm").submit();  
+	    }  	 	
+});
+//禁止回车提交 表单
+document.onkeydown = function () {
+    if (window.event && window.event.keyCode == 13) {
+        window.event.returnValue = false;
+    }
+}
 </script>
-<script>
-	var docmore = new Shuidi.Detail.DocMore();
-    docmore.init();
-</script>
-<script type="text/javascript" src="#(ctx_path)/static/home/list/Pa_Pa.js"></script>
 
 </body>
 </html>

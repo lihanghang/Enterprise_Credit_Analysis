@@ -1,10 +1,10 @@
 #@menu()
 #define main_info()
 <div class="container company-more">
-    <div class="container-left">
+    <div class="container-left" style="width:1178px">
         <div class="panel">
             <!--法律诉讼-->
-            <div class="panel-head title-lg" id="dangerInfo">
+            <div class="panel-head title-lg" id="susongInfo">
                 <i class="icon icon-bang-lg bg-success"></i>法律诉讼(#(legalData.totalRow))
             </div>
               <div class="panel-body nashui-info">
@@ -39,7 +39,7 @@
                  </div>
 
             <!--被执行人-->
-            <div class="panel-head title-lg" id="recordInfo">
+            <div class="panel-head title-lg" id="beizxInfo">
                 <i class="icon icon-bang-lg bg-success"></i>被执行人(#(personData.totalRow))
             </div>
               <div class="panel-body nashui-info">
@@ -106,7 +106,7 @@
         	   				#@paginateContent(noticeData.pageNumber, noticeData.totalPage, "./", companyData.code) 
                  </div>
             <!--开庭公告-->
-            <div class="panel-head title-lg" id="shixinInfo">
+            <div class="panel-head title-lg" id="kaitingInfo">
                 <i class="icon icon-bang-lg bg-success"></i>开庭公告(#(sessionData.totalRow))
             </div>
            <div class="panel-body nashui-info">
@@ -177,15 +177,15 @@
     </div> -->
 
     <div class="ewm128" id="company_open_contact"></div>
-        <div class="panel">
+       <!--  <div class="panel">
             <div class="panel-head title-lg">企业图谱</div>
             <div class="panel-body" id="relation_chart">
                 <img src="#(ctx_path)/static/home/detail/more_right_map.png">
-                         <!-- 正常显示-->
+                         正常显示
             <a href="javascript:void(0)" class="btn btn-success company-map-view seeMoreDetail" 
              jump-url="../../company_map?digest=cabe75387416bdce9fc2af48000527b1">发现企业间的隐藏关系</a>
             </div>
-        </div>
-         <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
-</div></div>
+        </div> -->
+<!--          <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
+ --></div></div>
 #end
