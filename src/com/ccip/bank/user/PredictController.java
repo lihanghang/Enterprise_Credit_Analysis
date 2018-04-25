@@ -1,21 +1,29 @@
 package com.ccip.bank.user;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
 
+import lpsolve.LpSolveException;
 import manage.manage_org;
 import strategy.risk;
 import tec.riskTec;
 import trainClassifier_Tree.creditQuality;
-import DEA.research;
 
 import com.ccip.bank.bean.ScienceInvest;
 import com.ccip.bank.bean.creditQualityBean;
 import com.ccip.bank.model.InvestFactor;
 import com.ccip.bank.model.InvestPotential;
 import com.ccip.bank.model.Market;
+import com.ccip.bank.utils.javaDea.DataEnvelopmentAnalysis;
+import com.ccip.bank.utils.javaDea.DeaRecord;
+import com.ccip.bank.utils.javaDea.GetExcelInfo;
 import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
@@ -269,46 +277,75 @@ public class PredictController extends Controller{
 		render("kytr.html");
 	}
 	
-	//0405 实现
+	//0405 实现 0425update java dea
 	public void kytr_model() throws MWException{
 		
 		//接受测试参数
 		ScienceInvest paraBean = getBean(ScienceInvest.class);
 		System.out.println(paraBean);
-		research test = new research();			
-		//new int[]{11,2}代表矩阵为11行2列的矩阵
-				//MWClassID.DOUBLE代表矩阵中数为double类型，MWComplexity.REAL代表矩阵中是实数
-				//in 投入矩阵  out 产出矩阵
-				MWNumericArray in = MWNumericArray.newInstance
-								(new int[]{4,1}, MWClassID.DOUBLE, MWComplexity.REAL);
-				MWNumericArray out = MWNumericArray.newInstance
-						(new int[]{6,1}, MWClassID.DOUBLE, MWComplexity.REAL);
-				//组装投入数据为矩阵
-				in.set(new int[]{1,1}, paraBean.getSci_invest() );
-				in.set(new int[]{2,1}, (paraBean.getSci_invest()/paraBean.getReceipt_num()));
-				in.set(new int[]{3,1}, paraBean.getEdu_num());
-				in.set(new int[]{4,1}, paraBean.getWork_num());
-				//组装产出数据为矩阵
-				out.set(new int[]{1,1}, paraBean.getSoft_num());
-				out.set(new int[]{2,1}, paraBean.getPatent_num());	
-				out.set(new int[]{3,1}, paraBean.getBrand_num());
-				out.set(new int[]{4,1}, paraBean.getWorks_num());
-				out.set(new int[]{5,1}, paraBean.getWeb_num());
-				out.set(new int[]{6,1}, paraBean.getProfit_num());
-				//用于接收返回值
-				Object[] result = null;
-				//模型实例化
-				String  f_in  = "D://java-project/enterpriseInfo/datasets/zhibiao-input.xlsx";
-				String  f_out = "D://java-project/enterpriseInfo/datasets/zhibiao-output.xlsx";				
-				result = test.importFile(3,f_in,f_out,in,out);
-				MWNumericArray ccr   = (MWNumericArray)result[0];
-				MWNumericArray bcc   = (MWNumericArray)result[1];
-				MWNumericArray scale = (MWNumericArray)result[2];
-				List lst = new ArrayList();
-				lst.add(ccr.getFloat());
-				lst.add(bcc.getFloat());
-				lst.add(scale.getFloat());				
-				renderJson("ret",lst);
+		//基于Java实现DEA算法
+		  Map<String, DeaRecord> records = new LinkedHashMap<>();
+	        
+	        GetExcelInfo obj = new GetExcelInfo(); 
+	        File file = new File("D://java-project/enterpriseInfo/datasets/zhibiao.xls");
+	        records = obj.readExcel(file);	        
+	        double []input = new double[4];
+	        double []output= new double[6];
+	        input[0] = paraBean.getSci_invest();
+	        input[1] = paraBean.getSci_invest()/paraBean.getReceipt_num();
+	        input[2] = paraBean.getEdu_num();
+	        input[3] = paraBean.getWork_num();	        
+	        output[0]= paraBean.getSoft_num();
+	        output[1]= paraBean.getPatent_num();
+	        output[2]= paraBean.getBrand_num();
+	        output[3]= paraBean.getWorks_num();
+	        output[4]= paraBean.getWeb_num();
+	        output[5]= paraBean.getProfit_num();
+	        records.put("new", new DeaRecord(output,input));
+	        System.out.println(System.getProperty("java.library.path"));
+	        DataEnvelopmentAnalysis dea = new DataEnvelopmentAnalysis();
+	        Map<String, Double> results =null;
+			try {
+				results = dea.estimateEfficiency(records);
+			} catch (LpSolveException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			renderJson("ret",(new TreeMap<>(results)).get("new"));
+//		research test = new research();			
+//		//new int[]{11,2}代表矩阵为11行2列的矩阵
+//				//MWClassID.DOUBLE代表矩阵中数为double类型，MWComplexity.REAL代表矩阵中是实数
+//				//in 投入矩阵  out 产出矩阵
+//				MWNumericArray in = MWNumericArray.newInstance
+//								(new int[]{4,1}, MWClassID.DOUBLE, MWComplexity.REAL);
+//				MWNumericArray out = MWNumericArray.newInstance
+//						(new int[]{6,1}, MWClassID.DOUBLE, MWComplexity.REAL);
+//				//组装投入数据为矩阵
+//				in.set(new int[]{1,1}, paraBean.getSci_invest() );
+//				in.set(new int[]{2,1}, (paraBean.getSci_invest()/paraBean.getReceipt_num()));
+//				in.set(new int[]{3,1}, paraBean.getEdu_num());
+//				in.set(new int[]{4,1}, paraBean.getWork_num());
+//				//组装产出数据为矩阵
+//				out.set(new int[]{1,1}, paraBean.getSoft_num());
+//				out.set(new int[]{2,1}, paraBean.getPatent_num());	
+//				out.set(new int[]{3,1}, paraBean.getBrand_num());
+//				out.set(new int[]{4,1}, paraBean.getWorks_num());
+//				out.set(new int[]{5,1}, paraBean.getWeb_num());
+//				out.set(new int[]{6,1}, paraBean.getProfit_num());
+//				//用于接收返回值
+//				Object[] result = null;
+//				//模型实例化
+//				String  f_in  = "D://java-project/enterpriseInfo/datasets/zhibiao-input.xlsx";
+//				String  f_out = "D://java-project/enterpriseInfo/datasets/zhibiao-output.xlsx";				
+//				result = test.importFile(3,f_in,f_out,in,out);
+//				MWNumericArray ccr   = (MWNumericArray)result[0];
+//				MWNumericArray bcc   = (MWNumericArray)result[1];
+//				MWNumericArray scale = (MWNumericArray)result[2];
+//				List lst = new ArrayList();
+//				lst.add(ccr.getFloat());
+//				lst.add(bcc.getFloat());
+//				lst.add(scale.getFloat());				
+//				renderJson("ret",lst);
 	}
 	
 	//贷后预警页面

@@ -150,16 +150,17 @@ var kytr_data =  $('#kytr_data').serialize();
             $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
           },  
         success:function(data){//请求成功之后的操作
-            //console.log(data);
+        	var ccr = (data['ret']).toFixed(2);
+            console.log(data);
             $("#loading").empty(); //ajax返回成功，清除loading图标  
        	 	var html = ''; 
             var guidInfo = "";
             var subInfo = "";
-       	if(data.ret[0] == 1)
+       	if(data['ret'] == 1)
        	    guidInfo = "投入产出整体去上处于最佳状况，资源配置达到最优状态.\n";
        	else{
        	 	guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
-       	    if(data.ret[1] == 1){
+       	    if(data['ret'] == 1){
        	         subInfo = "目前投入资源的使用时最有效的,但产出不能与投入成同比例增加.\n【建议】：提高管理效率.\n";
        	    }
        	    else if(data.ret[2]  > 0.9){
@@ -170,7 +171,7 @@ var kytr_data =  $('#kytr_data').serialize();
        	    }
 
        	}            
-            html = '公司纯技术效率为：' + data.ret[0] + '\n；公司综合效率为：' + data.ret[1]+ '\n；公司规模效率为：'+ data.ret[2]+"<br>"+guidInfo+"<br>"+subInfo;
+            html = '公司纯技术效率为：' +ccr + '\n；公司综合效率为：' + 0+ '\n；公司规模效率为：'+ 0+"<br>"+guidInfo+"<br>"+subInfo;
          	$("#msg").html(html);         
          //雷达图展示
          //先加载画布
@@ -203,7 +204,7 @@ var kytr_data =  $('#kytr_data').serialize();
          		        // areaStyle: {normal: {}},
          		        data : [
          		            {
-         		                value : [data.ret[0], data.ret[1],data.ret[2]],
+         		                value : [ccr, 0,0],
          		                name : '企业投入出效率'
          		            }
          		        ]
