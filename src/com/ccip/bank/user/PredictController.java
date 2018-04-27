@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Scanner;
 import java.util.TreeMap;
 
 import lpsolve.LpSolveException;
@@ -18,9 +17,11 @@ import trainClassifier_Tree.creditQuality;
 
 import com.ccip.bank.bean.ScienceInvest;
 import com.ccip.bank.bean.creditQualityBean;
+import com.ccip.bank.model.Company;
 import com.ccip.bank.model.InvestFactor;
 import com.ccip.bank.model.InvestPotential;
 import com.ccip.bank.model.Market;
+import com.ccip.bank.service.CompanyService;
 import com.ccip.bank.utils.javaDea.DataEnvelopmentAnalysis;
 import com.ccip.bank.utils.javaDea.DeaRecord;
 import com.ccip.bank.utils.javaDea.GetExcelInfo;
@@ -281,11 +282,10 @@ public class PredictController extends Controller{
 	public void kytr_model() throws MWException{
 		
 		//接受测试参数
-		ScienceInvest paraBean = getBean(ScienceInvest.class);
-		System.out.println(paraBean);
+			ScienceInvest paraBean = getBean(ScienceInvest.class);
+		//System.out.println(paraBean);
 		//基于Java实现DEA算法
-		  Map<String, DeaRecord> records = new LinkedHashMap<>();
-	        
+			Map<String, DeaRecord> records = new LinkedHashMap<>();	        
 	        GetExcelInfo obj = new GetExcelInfo(); 
 	        File file = new File("D://java-project/enterpriseInfo/datasets/zhibiao.xls");
 	        records = obj.readExcel(file);	        
@@ -349,10 +349,35 @@ public class PredictController extends Controller{
 	}
 	
 	//贷后预警页面
+	static CompanyService service = new CompanyService();
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyj(){
-
+		
 		render("dhyj.html");
 	}
 	
+	public void dhyjData(){
+	
+		 int offset = Integer.parseInt(getPara("offset").trim());
+	     int limit = Integer.parseInt(getPara("limit").trim());
+	     String cname = getPara("name");
+	     int size = (offset/limit)+1;
+	     String pagenum = String.valueOf(size);
+	     //根据企业名称得到数据总量，默认为全部
+	     List<Company> num = service.queryList();	     		
+		 List<Company> data = service.getAllCompany(offset,limit,cname);
+		 this.setAttr("total",num.size());
+		 this.setAttr("rows", data);		 
+		 this.renderJson();
+		 return;					
+	}
+	public void dhyjContent(){
+		String code = getPara("num");
+		String cname = getPara("name");		
+		setAttr("legalData", service.paginats(getParaToInt(0, 1), 5, getPara("num")));
+		setAttr("changeData", service.paginat_change(getParaToInt(0, 1), 5, getPara("num")));
+		setAttr("cname",cname);
+		setAttr("code",code);
+		render("dhyjContent.html");
+	}
 }

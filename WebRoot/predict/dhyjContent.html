@@ -1,0 +1,125 @@
+#@predict()
+#define predict_main()
+
+<div class="container-content">
+    <!-- common search -->
+    <div class="sd_company_container">
+        <div class="sd_form_search" style="height:50px">
+           <p style="text-align:center; font-size:30px">#(cname) </p>
+        </div>
+    </div>
+
+    <div class="sd_company_container" style="margin-top: 20px;">
+        <div class="sd_cent">
+            <div class="sd_cent">
+                <div class="sd_left_block">
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>贷后预警详情</b>
+                    </div>
+                    <div class="or_left_silde" id="searchCondition" >
+                    
+                   <div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            最新涉诉
+        </h3>
+    </div>
+    <!--  lawsuit -->
+    <div class="panel-body">
+       <table class="table table-striped">
+    <thead>
+   
+    <tr>
+        <th>时间</th>
+        <th>内容</th>
+        <th>涉诉类型</th>
+        <th>案件身份</th>
+        <th>案件号</th>
+    </tr>
+   
+    </thead>
+    <tbody>
+    #for(x : legalData.getList())
+    <tr>
+        <td>#(x.date)</td>
+        <td>#(x.case_content)</td>
+        <td>#(x.case_source)</td>
+        <td>#(x.identitys)</td>
+        <td>#(x.case_num)</td>
+    </tr>
+	 #end
+    </tbody>
+</table>
+  <!-- 分页插件 -->             
+       #@paginateContent(legalData.pageNumber, legalData.totalPage, "./", code+"&name="+cname)        
+     </div>
+</div>
+  
+   <div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+             最新变更
+        </h3>
+    </div>
+      <div class="panel-body">
+       <table class="table table-striped">
+    <thead>   
+    <tr>
+        <th>时间</th>
+        <th>变更类型</th>
+        <th>变更前</th>
+        <th>变更后</th>
+    </tr>
+   
+    </thead>
+    <tbody>
+    #for(x : changeData.getList())
+    <tr>
+        <td>#(x.change_date)</td>
+        <td>#(x.change_type)</td>
+        <td>#(x.change_before)</td>
+        <td>#(x.change_after)</td>
+    </tr>
+	 #end
+    </tbody>
+</table>
+  <!-- 分页插件 -->             
+       #@paginateContent(changeData.pageNumber, changeData.totalPage, "./", code+"&name="+cname) 
+</div>                  
+
+ <div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            贷后相关财务指标变化
+        </h3>
+    </div>
+    <div class="panel-body">
+        <table id="financialIndex"></table>
+    </div>
+</div>                                                
+                   </div>
+                </div>                               
+                 <div class="sd_left_block">
+                    <div class="sd_left_block_tit">
+                        <b>结果及分析</b>
+                       
+                    </div>
+                    <div class="or_left_silde" id="searchCondition" style="height: 300px">
+                    
+                    <div class="or_category">
+                          <p>输出结果及结果说明</p>                       
+                    </div>                                            
+                     </div>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+#end
+<script>
+
+</script>
+
+
+

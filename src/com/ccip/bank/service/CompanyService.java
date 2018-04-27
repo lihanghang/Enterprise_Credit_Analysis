@@ -3,8 +3,7 @@
  */
 package com.ccip.bank.service;
 
-import java.util.ArrayList;
-
+import java.util.List;
 import com.ccip.bank.model.Company;
 import com.jfinal.plugin.activerecord.Page;
 
@@ -28,13 +27,41 @@ public class CompanyService {
 //
 	}
 	
-	public Company findById(int id) {
+	public Company findById(String id) {
 		return dao.findById(id);
 	}
+			
 	
 	public void deleteById(int id) {
 		dao.deleteById(id);
 	}
+	public List<Company> queryList(){
+		
+		// 基本SQL语句
+		String sql = "SELECT * FROM en_all_company";
+		String itemSql = "";
+	        //通过企业名称进行查询
+	   /* if (cname != null && cname.length() != 0) {
+	         itemSql += "and cname like '%" + cname + "%' ";
+	      }*/     
+        return dao.find(sql+itemSql);
+	}
+	
+	//0426 get all company to warning page @hang
+	public List<Company> getAllCompany(int offset, int limit, String cname){ 
+		// 基本SQL语句
+        String sql = "SELECT * FROM en_all_company where 1=1 ";
+		// 动态条件的SQL语句
+        String itemSql = "";
+        //通过企业名称进行查询
+        if (cname != null && cname.length() != 0) {
+            itemSql += "and cname like '%" + cname + "%' ";
+        }              
+		return dao.find(sql + itemSql + "limit ?,?", offset,limit); 
+		
+	}
+
+	
 	
 	//search company by  统一信用代码
 	public Company getByCreditNum (String creditCode) {
@@ -43,19 +70,28 @@ public class CompanyService {
 	
 	//获取法律诉讼
 	public Page<Company> paginats(int pageNumber, int pageSize,String code){
-		return dao.paginate(pageNumber, pageSize,"select *","from 法律诉讼  where 统一信用代码 = ?" , code);
+		return dao.paginate(pageNumber, pageSize,"select *","from 法律诉讼  where 统一信用代码 = ?  order by date desc" , code);
         
     	}
+	
+	//获取变更信息
+	public Page<Company> paginat_change(int pageNumber, int pageSize,String code){
+		return dao.paginate(pageNumber, pageSize,"select *","from 变更信息  where code = ?  order by change_date desc" , code);
+	        
+	    }
+	
 	//获取法院公告
 		public Page<Company> paginat_notice(int pageNumber, int pageSize,String code){
 			return dao.paginate(pageNumber, pageSize,"select *","from 法院公告  where 统一信用代码 = ?" , code);
 	        
 	    }
+		
 	//获取被执行人
 	public Page<Company> paginat_preson(int pageNumber, int pageSize,String code){
 		return dao.paginate(pageNumber, pageSize,"select *","from 被执行人  where 统一信用代码 = ?" , code);
 			        
 		}
+	
 	//获取开庭公告
 		public Page<Company> paginat_session(int pageNumber, int pageSize,String code){
 			return dao.paginate(pageNumber, pageSize,"select *","from 开庭公告  where 统一信用代码 = ?" , code);

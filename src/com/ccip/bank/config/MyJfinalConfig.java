@@ -55,7 +55,8 @@ public class MyJfinalConfig extends JFinalConfig {
             arp.addMapping("法律诉讼","id", Company.class); //映射公司法律诉讼数据表
             arp.addMapping("被执行人","id", Company.class); //映射公司被执行人数据表
             arp.addMapping("法院公告","id", Company.class); //映射公司法院公告数据表
-            arp.addMapping("开庭公告","id", Company.class); //映射公司开庭公告数据表            
+            arp.addMapping("开庭公告","id", Company.class); //映射公司开庭公告数据表    
+            arp.addMapping("变更信息","id", Company.class); //映射公司变更信息数据表            
             //知识产权数据库表映射
             arp.addMapping("网站备案","id", Company.class); 
             arp.addMapping("作品著作权","id", Company.class);

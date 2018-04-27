@@ -4,8 +4,8 @@
 <div class="container-content">
     <!-- common search -->
     <div class="sd_company_container">
-        <div class="sd_form_search">
-           <p style="text-align:center; font-size:30px">企业贷后预警 </p>
+        <div class="sd_form_search" style="height:50px">
+           <p style="text-align:center; font-size:30px">贷后预警监测分析 </p>
         </div>
     </div>
 
@@ -13,14 +13,14 @@
         <div class="sd_cent">
             <div class="sd_cent">
                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>企业贷后预警</b>
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>贷后预警监控企业</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
-                        <div class="or_category">
-                         企业贷后预警
-                         <!-- <div id="pie3" style="width: 90%;height: 400px;"></div> -->
-                        </div>
+                    <div class="or_left_silde" id="searchCondition" style="height: 600px">
+                    
+                    
+ <table id="ArbetTable"></table>
+              
                    </div>
                 </div>                               
                  <div class="sd_left_block">
@@ -41,246 +41,94 @@
     </div>
 </div>
 #end
-
-<script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-    var search = new Shuidi.PCSearch();
-    search.init();
-</script>
-<!-- 行业动态数据异步加载请求 -->
 <script>
 
-//Echarts接口调用及数据处理
-(function(){
-	var pie3 = echarts.init(document.getElementById("pie3"));
-	/* pie3.showLoading({
-     text: "图表数据正在努力加载..."
- }); */
- option = {
-		    title: {
-		        text: '房地产行业财务分析',
-		        left: '50%',
-		        textAlign: 'center'
-		    },
-		    tooltip: {
-		        trigger: 'axis',
-		        axisPointer: {
-		            lineStyle: {
-		                color: '#000'
-		            }
-		        },
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
-		    },
-		    legend: {
-		        left:"20",
-		        //orient: 'ver',
-		        data: ['盈利能力','偿债能力','经营效率','增长潜力']
-		    },
-		    xAxis: {
-		        type: 'category',
-		        name:'年份',
-		        data: [],
-		        boundaryGap: false,
-		        splitLine: {
-		            show: true,
-		            interval: 'auto',
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
-		        }
-		    },
-		    yAxis: {
-		        type: 'value',
-		        name:'指数',
-		        splitLine: {
-		            lineStyle: {
-		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
-		    },
-		    series: [
-            {
-		        name: '盈利能力',
-		        type: 'line',
-		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }, {
-		        name: '偿债能力',
-		        type: 'line',
-		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
-		        itemStyle: {
-		            normal: {
-		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
-		            }
-		        }
-		    }
-            , {
-                name: '经营效率',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
-            , {
-                name: '增长潜力',
-                type: 'line',
-                smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
-                itemStyle: {
-                    normal: {
-                        color: '#5793f3'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
-            }
+//初始化表格
+ $(function(){
+	var oTable = new TableInit();
+	oTable.Init();
+});
 
-            ]
-		};
-
-pie3.showLoading();    //数据加载完之前先显示一段简单的loading动画
-
-//ajax异步请求数据
-var profit   = [];   //盈利能力
-var debt     = [];     //偿债能力
-var manager  = [];  //经营效率
-var increase = []; //增长潜力
-var years    = []; //横坐标：年份
-$.ajax({
-    "url": "./marketData",      //路径
-    "cache": false,              //不缓存
-    "async": true ,               //默认true即异步（优先选择）
-    "type": "GET",              //POST方式提交
-    "dataType": "json",          //json格式，重要
-    "contentType": "application/json",      //json格式                            
-    success: function (data) { //成功同步请求数据      	
-        //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
-        
-        pie3.hideLoading();    //隐藏加载动画
-        pie3.setOption({        //加载数据图表                
-            dataZoom: [{
-            type: 'inside',
-            start: 0,
-            end: 50
-        }, {
-            show: true,
-            type: 'slider',
-            y: '90%',
-            start: 0,
-            end: 50
-        }],
-            xAxis: {
-                data: years
+var TableInit = function () {
+    var oTableInit = new Object();
+    //初始化Table
+    oTableInit.Init = function () {
+        $('#ArbetTable').bootstrapTable({
+            url: './dhyjData',         //请求后台的URL（*）
+            method: 'get',                      //请求方式（*）
+            toolbar: '#toolbar',                //工具按钮用哪个容器
+            striped: true,                      //是否显示行间隔色
+            cache: false,                       //是否使用缓存，默认为true，所以一般情况下需要设置一下这个属性（*）
+            pagination: true,                   //是否显示分页（*）
+            sortable: false,                     //是否启用排序
+            sortOrder: "asc",                   //排序方式
+            queryParams: oTableInit.queryParams,//传递参数（*）
+            sidePagination: "server",           //分页方式：client客户端分页，server服务端分页（*）
+            pageNumber: 1,                       //初始化加载第一页，默认第一页
+            pageSize: 10,                       //每页的记录行数（*）
+            pageList: [10, 20, 40, 50],        //可供选择的每页的行数（*）
+            search: true,                       //是否显示表格搜索，此搜索是客户端搜索，不会进服务端，所以，个人感觉意义不大
+            contentType: "application/x-www-form-urlencoded",
+            strictSearch: true,
+            showColumns: true,                  //是否显示所有的列
+            showRefresh: true,                  //是否显示刷新按钮
+            minimumCountColumns: 2,             //最少允许的列数
+            clickToSelect: true,                //是否启用点击选中行
+            height: 550,                        //行高，如果没有设置height属性，表格自动根据记录条数觉得表格高度
+            uniqueId: "no",                     //每一行的唯一标识，一般为主键列
+            showToggle: false,                    //是否显示详细视图和列表视图的切换按钮
+            cardView: false,                    //是否显示详细视图
+            detailView: false,                   //是否显示父子表
+            columns: [
+           /*  {
+                field: 'ID',
+                title: 'ID'
+            },  */{
+                field: 'cname',
+                title: '企业名称',
+                align: 'center'
+              
+            }, {
+                field: 'industry',
+                title: '所在行业',
+                align: 'center'
             },
-            series: [{
-                name: "盈利能力",  data: profit
-            }, {
-                name: "偿债能力",  data: debt
-            }, {
-                name: "经营效率",  data: manager
-            }, {
-                name: "增长潜力",  data: increase
-            }]
+            {
+                field: 'operate',
+                title: '操作',
+                align: 'center',
+                formatter: operateFormatter //自定义方法，添加操作按钮
+            },
+            ]
         });
-    },
-    error: function (errorMsg) {
-        //请求失败时执行该函数
-        alert("图表请求数据失败!");
-        pie3.hideLoading();
-    }
-}); 
 
-pie3.setOption(option);
-})();
+    };
 
+
+    //得到查询的参数
+    oTableInit.queryParams = function (params) {
+    	console.log(params);
+        var temp = {   //这里的键的名字和控制器的变量名必须一直，这边改动，控制器也需要改成一样的
+        		 limit : params.limit, // 每页显示数量
+        	     offset : params.offset, // SQL语句偏移量
+        	     name: params.search,      //请求时向服务端传递的搜索参数            
+        };
+        return temp;
+    };
+    return oTableInit;
+};
+
+
+function operateFormatter(value, row, index) {//赋予的参数
+	//console.log(value);
+    return [
+        '<a class="btn active" href="./dhyjContent/?num='+row.code+"&name="+row.cname +'">预警详情</a>',
+       /*  '<a class="btn active" href="#">档案</a>',
+        '<a class="btn btn-default" href="#">记录</a>',
+        '<a class="btn active" href="#">准入</a>' */
+    ].join('');
+}
 </script>
+
 
 
