@@ -12,7 +12,7 @@
             <div class="sd_cent">
                 <div class="sd_left_block">
                     <div class="sd_left_block_tit" style="color:green">
-                        <b>贷后预警详情</b>   <span style="float:rigth;"> <a href="../dhyj"  target="_blank" >返回预警监控主界面</a></span>
+                        <b>贷后预警详情</b>   <span style="padding-left:900px;"> <a style="color:green" href="#(ctx_path)/predict/dhyj">返回预警监控主界面</a></span>
                     </div>
                     <div class="or_left_silde" id="searchCondition" >                    
                    		<div class="panel panel-default">
@@ -57,7 +57,7 @@
     elem: '#change'
     ,url:'../getMethod_change?num=#(code)'
     ,cols: [[
-      {field:'id', width:80, title: '编号', sort: true}
+       {type:'numbers' ,title: '序号'}
       ,{field:'change_date', width:110, title: '时间',sort: true}
       ,{field:'change_type', width:100, title: '变更类型', sort: true}
       ,{field:'change_before', width:180, title: '变更前', minWidth: 100}
@@ -70,7 +70,7 @@
 	    elem: '#lawsuit'
 	    ,url:'../getMethod_lawsuit?num=#(code)'
 	    ,cols: [[
-	      {field:'id', width:80, title: '编号', sort: true}
+	      {type:'numbers' ,title: '序号'}
 	      ,{field:'date', width:110, title: '时间',sort: true}
 	      ,{field:'case_content', width:100, title: '内容', minWidth: 150}
 	      ,{field:'case_source', width:200, title: '涉诉类型',sort: true}

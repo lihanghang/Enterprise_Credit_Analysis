@@ -7,6 +7,7 @@ import java.util.List;
 
 import com.ccip.bank.model.Company;
 import com.jfinal.plugin.activerecord.Page;
+import com.jfinal.plugin.activerecord.SqlPara;
 
 /**
  * @date 2018年3月26日 下午8:00:59 
@@ -36,30 +37,19 @@ public class CompanyService {
 	public void deleteById(int id) {
 		dao.deleteById(id);
 	}
-	public List<Company> queryList(){
-		
-		// 基本SQL语句
-		String sql = "SELECT * FROM en_all_company";
-		String itemSql = "";
-	        //通过企业名称进行查询
-	   /* if (cname != null && cname.length() != 0) {
-	         itemSql += "and cname like '%" + cname + "%' ";
-	      }*/     
-        return dao.find(sql+itemSql);
-	}
-	
+
 	//0426 get all company to warning page @hang
-	public List<Company> getAllCompany(int offset, int limit, String cname){ 
+	public Page<Company> paginats_all_company(int pageNumber, int pageSize){ 
 		// 基本SQL语句
-        String sql = "SELECT * FROM en_all_company where 1=1 ";
+        String sql = "SELECT * FROM en_all_company";
 		// 动态条件的SQL语句
         String itemSql = "";
-        //通过企业名称进行查询
+        //通过企业名称进行查询[根据需求待实现]
+        String cname = "";
         if (cname != null && cname.length() != 0) {
-            itemSql += "and cname like '%" + cname + "%' ";
-        }              
-		return dao.find(sql + itemSql + "limit ?,?", offset,limit); 
-		
+            itemSql += "and cname like '%" + cname + "%'";
+        }
+		return dao.paginate(pageNumber, pageSize,"select * ","from en_all_company"); 		
 	}
 
 	

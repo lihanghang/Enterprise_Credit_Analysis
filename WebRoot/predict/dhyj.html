@@ -16,9 +16,8 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>贷后预警监控企业</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 600px">
-						<table id="ArbetTable"></table>             
-                   </div>
+                    <div class="or_left_silde" id="searchCondition" style="height: 600px">						
+							<table class="layui-hide" id="test"></table>                         
                 </div>                               
                 <!--  <div class="sd_left_block">
                     <div class="sd_left_block_tit">
@@ -38,10 +37,76 @@
     </div>
 </div>
 #end
+<script type="text/html" id="switchTpl"> 
+  <input type="checkbox" name="rank" value="{{d.cname}}" lay-skin="switch" lay-text="高|低" lay-filter="sexDemo" {{ d.id == 10003 ? 'checked' : '' }}>
+</script>
+ 
+<script type="text/html" id="checkboxTpl">
+  <input type="checkbox" name="lock" value="{{d.cname}}" title="重点监测" lay-filter="lockDemo" {{ d.id == 10006 ? 'checked' : '' }}>
+</script> 
+<script type="text/html" id="barDemo">
+   <a style="text-align:center" class="layui-btn layui-btn-xs" lay-event="edit" href="./dhyjContent/?num={{d.code}}&name={{d.cname}}">监控详情</a>
+</script>  
 <script>
+layui.use('table', function(){
+  var table = layui.table
+  ,form = layui.form;
+  //方法级渲染
+  table.render({
+	 elem: '#test'
+    ,url: './getAllCompany'
+    ,cellMinWidth: 100
+    ,height: 'full-450'
+    ,cols: [[
+       {type:'numbers', title: '序号'}
+      /* {checkbox: true, fixed: true}
+      ,{field:'id', title: 'ID', width:80, sort: true, fixed: true} */
+      ,{field:'cname', title: '企业名称', align:'center',  width:300}
+      ,{field:'industry', title: '所处行业', width:250, align:'center', sort: true}
+      ,{field:'rank', title:'预警级别', width:200, align:'center', templet: '#switchTpl', unresize: true}
+      ,{field:'lock', title:'是否监测', width:200, align:'center',templet: '#checkboxTpl', unresize: true}
+      ,{fixed: 'right', title:'操作',width:178, align:'center', toolbar: '#barDemo'}
+    ]]
+    ,page: true
+  });
+  
+  //监听性别操作
+  form.on('switch(sexDemo)', function(obj){
+    layer.tips(this.value + ' ' + this.name + '：'+ obj.elem.checked, obj.othis);
+  });
+  
+  //监听锁定操作
+  form.on('checkbox(lockDemo)', function(obj){
+    layer.tips(this.value + ' ' + this.name + '：'+ obj.elem.checked, obj.othis);
+  });
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //初始化表格
- $(function(){
+/* $(function(){
 	var oTable = new TableInit();
 	oTable.Init();
 });
@@ -57,7 +122,7 @@ var TableInit = function () {
             striped: true,                      //是否显示行间隔色
             cache: false,                       //是否使用缓存，默认为true，所以一般情况下需要设置一下这个属性（*）
             pagination: true,                   //是否显示分页（*）
-            sortable: false,                     //是否启用排序
+            sortable: true,                     //是否启用排序
             sortOrder: "asc",                   //排序方式
             queryParams: oTableInit.queryParams,//传递参数（*）
             sidePagination: "server",           //分页方式：client客户端分页，server服务端分页（*）
@@ -77,11 +142,11 @@ var TableInit = function () {
             cardView: false,                    //是否显示详细视图
             detailView: false,                   //是否显示父子表
             columns: [
-           /*  {
+           {
                 field: 'ID',
                 title: 'ID'
-            },  */{
-                field: 'cname',
+            },  {
+               field: 'cname',
                 title: '企业名称',
                 align: 'center'
               
@@ -109,7 +174,9 @@ var TableInit = function () {
         var temp = {   //这里的键的名字和控制器的变量名必须一直，这边改动，控制器也需要改成一样的
         		 limit : params.limit, // 每页显示数量
         	     offset : params.offset, // SQL语句偏移量
-        	     name: params.search,      //请求时向服务端传递的搜索参数            
+        	     name: params.search,      //请求时向服务端传递的搜索参数  
+                 sortKey: params.sort,  //排序关键字 
+                 order: params.order         
         };
         return temp;
     };
@@ -124,8 +191,8 @@ function operateFormatter(value, row, index) {//赋予的参数
        /*  '<a class="btn active" href="#">档案</a>',
         '<a class="btn btn-default" href="#">记录</a>',
         '<a class="btn active" href="#">准入</a>' */
-    ].join('');
-}
+ //   ].join('');
+//}*/
 </script>
 
 

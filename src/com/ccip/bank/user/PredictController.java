@@ -350,28 +350,13 @@ public class PredictController extends Controller{
 	
 	//贷后预警页面	
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
-	public void dhyj(){
+	public void dhyj() {
 		
 		render("dhyj.html");
 	}
 	
-	public void dhyjData(){
-	
-		 int offset = Integer.parseInt(getPara("offset").trim());
-	     int limit = Integer.parseInt(getPara("limit").trim());
-	     String cname = getPara("name");
-	     int size = (offset/limit)+1;
-	     String pagenum = String.valueOf(size);
-	     //根据企业名称得到数据总量，默认为全部
-	     List<Company> num = service.queryList();	     		
-		 List<Company> data = service.getAllCompany(offset,limit,cname);
-		 this.setAttr("total",num.size());
-		 this.setAttr("rows", data);		 
-		 this.renderJson();
-		 return;					
-	}
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
-	public void dhyjContent(){
+	public void dhyjContent() {
 		String code = getPara("num");
 		String cname = getPara("name");		
 		setAttr("cname",cname);
@@ -412,6 +397,14 @@ public class PredictController extends Controller{
         String code = getPara("num");
         Page<Company> pages = service.paginats(pageIndex, pageSize, code);
         renderPageForLayUI(pages,0,"操作成功");
+    }
+    
+    //获取所有公司并分页
+    public void getAllCompany() {
+    	int pageIndexs = getParaToInt("page");
+        int pageSizes  = getParaToInt("limit"); 
+        Page<Company> page_all = service.paginats_all_company(pageIndexs, pageSizes);
+        renderPageForLayUI(page_all,0,"操作成功");
     }
     
     
