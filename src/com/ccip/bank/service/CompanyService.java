@@ -4,6 +4,7 @@
 package com.ccip.bank.service;
 
 import java.util.List;
+
 import com.ccip.bank.model.Company;
 import com.jfinal.plugin.activerecord.Page;
 
@@ -123,6 +124,6 @@ public class CompanyService {
 			public Page<Company> paginat_brand(int pageNumber, int pageSize,String code){
 				return dao.paginate(pageNumber, pageSize,"select *","from 商标信息  where 统一信用代码 = ?" , code);
 				        
-			}			
+			}	
 }
 

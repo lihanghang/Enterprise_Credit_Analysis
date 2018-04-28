@@ -17,13 +17,10 @@
                         <b>贷后预警监控企业</b>
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 600px">
-                    
-                    
- <table id="ArbetTable"></table>
-              
+						<table id="ArbetTable"></table>             
                    </div>
                 </div>                               
-                 <div class="sd_left_block">
+                <!--  <div class="sd_left_block">
                     <div class="sd_left_block_tit">
                         <b>结果及分析</b>
                        
@@ -34,7 +31,7 @@
                           <p>输出结果及结果说明</p>                       
                     </div>                                            
                      </div>
-                </div>
+                </div> -->
             </div>
         
         </div>
@@ -66,7 +63,7 @@ var TableInit = function () {
             sidePagination: "server",           //分页方式：client客户端分页，server服务端分页（*）
             pageNumber: 1,                       //初始化加载第一页，默认第一页
             pageSize: 10,                       //每页的记录行数（*）
-            pageList: [10, 20, 40, 50],        //可供选择的每页的行数（*）
+            pageList: [10, 30, 60, 100],        //可供选择的每页的行数（*）
             search: true,                       //是否显示表格搜索，此搜索是客户端搜索，不会进服务端，所以，个人感觉意义不大
             contentType: "application/x-www-form-urlencoded",
             strictSearch: true,

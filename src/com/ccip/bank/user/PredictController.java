@@ -29,6 +29,7 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
+import com.jfinal.plugin.activerecord.Page;
 import com.jmatio.io.MatFileReader;
 import com.jmatio.types.MLArray;
 import com.jmatio.types.MLDouble;
@@ -45,12 +46,11 @@ import com.mathworks.toolbox.javabuilder.MWNumericArray;
 
 public class PredictController extends Controller{
 		
-//	static UserService service = new UserService();
+	static CompanyService service = new CompanyService();
 	@ActionKey("/predict")
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
     public void index(){
-		
-			
+					
 	}		
 	//异步请求加载数据库：行业动态最终指标数据
 	public void marketData(){
@@ -348,8 +348,7 @@ public class PredictController extends Controller{
 //				renderJson("ret",lst);
 	}
 	
-	//贷后预警页面
-	static CompanyService service = new CompanyService();
+	//贷后预警页面	
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyj(){
 		
@@ -371,13 +370,49 @@ public class PredictController extends Controller{
 		 this.renderJson();
 		 return;					
 	}
+	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyjContent(){
 		String code = getPara("num");
 		String cname = getPara("name");		
-		setAttr("legalData", service.paginats(getParaToInt(0, 1), 5, getPara("num")));
-		setAttr("changeData", service.paginat_change(getParaToInt(0, 1), 5, getPara("num")));
 		setAttr("cname",cname);
 		setAttr("code",code);
 		render("dhyjContent.html");
 	}
+	
+	public void renderPageForLayUI(Page<?> page){
+        renderPageForLayUI(page,0,"");
+    }
+	/**
+     * 按照layUI格式分页获取数据
+     * @param page
+     * @param code
+     * @param message
+     */
+    public void renderPageForLayUI(Page<?> page,int code,String message){
+        Map<String,Object> result = new HashMap<String, Object>();
+        result.put("code", code);
+        result.put("msg", message);
+        result.put("count", page.getTotalRow());
+        result.put("data", page.getList());        
+        super.renderJson(result);
+    }
+    
+    //0428 基于layUI的分页实现
+    public void getMethod_change(){
+        int pageIndex = getParaToInt("page");
+        int pageSize = getParaToInt("limit"); 
+        String code = getPara("num");
+        Page<Company> page = service.paginat_change(pageIndex, pageSize, code);
+        renderPageForLayUI(page,0,"操作成功");
+    }
+    
+    public void getMethod_lawsuit(){
+        int pageIndex = getParaToInt("page");
+        int pageSize = getParaToInt("limit"); 
+        String code = getPara("num");
+        Page<Company> pages = service.paginats(pageIndex, pageSize, code);
+        renderPageForLayUI(pages,0,"操作成功");
+    }
+    
+    
 }
