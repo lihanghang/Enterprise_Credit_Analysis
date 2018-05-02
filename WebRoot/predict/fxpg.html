@@ -23,12 +23,17 @@
     						<li><a href="#strategy" data-toggle="tab">市场竞争风险评估</a></li>  
     						<li><a href="#all" data-toggle="tab">综合风险评估</a></li>  
 				    </ul>
-                    <div class="or_left_silde" id="searchCondition" style="height: 700x">                       
-                         <div id="myTabContent" class="tab-content"  style="height: 820px">
+                    <div class="or_left_silde" id="searchCondition" style="">                       
+                         <div id="myTabContent" class="tab-content"  style="">
                         	<div class="tab-pane fade in active" id="financial">
-                    			<div class="row">
-  									<div class="col-xs-6">
-										<form class="form-horizontal" role="form" id="financial_risk" name="economy_form" method="POST" onsubmit="return false" >
+                        	
+                        <div class="container">
+                        <form class="form-horizontal" role="form" id="financial_risk" name="economy_form" method="POST" onsubmit="return false" >
+ 							<div class="row">
+ 								<div class="col-md-6">
+										<div class="page-header">
+  										 	<small style="font-size:15px">流动性方面</small> 										 
+										</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">流动资产周转率</label>
 		                              		<div class="col-sm-8">
@@ -41,6 +46,11 @@
                                          		<input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入应收账款周转率">
                                         	</div>
 	                               		</div>
+								</div>
+ 								<div class="col-md-6">
+ 									<div class="page-header">
+  										 	<small style="font-size:15px">筹资方面</small> 										 
+										</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">纳税信用等级</label>
 		                              		<div class="col-sm-8">
@@ -58,7 +68,14 @@
 		                              		<div class="col-sm-8">
                                          		<input type="text" name="financialRiskBean.equityRatio" class="form-control" id="firstname" placeholder="请输入1/产权比率">
                                         	</div>
-	                               		</div>
+	                               		</div>									
+								</div>
+ 							</div>
+                        	<div class="row">
+ 								<div class="col-md-6">	
+ 									<div class="page-header">
+  										 	<small style="font-size:15px">清偿方面</small> 										 
+										</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">流动比率</label>
 		                              		<div class="col-sm-8">
@@ -83,6 +100,11 @@
                                          		<input type="text" name="financialRiskBean.cashFlow" class="form-control" id="firstname" placeholder="请输入现金流量利息保障倍数">
                                         	</div>
 	                               		</div>
+	                               </div>
+ 								<div class="col-md-6">
+ 									 <div class="page-header">
+  										 	<small style="font-size:15px">成长力方面</small> 										 
+										</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">营业收入增长率</label>
 		                              		<div class="col-sm-8">
@@ -94,17 +116,100 @@
 		                              		<div class="col-sm-8">
                                          		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入总资产增长率">
                                         	</div>
-	                               		</div>	                           
-	                               	<div class="form-group">
-                                        <div class="col-sm-offset-5 col-sm-10">
-                                            <button type="submit" id="financialBtn"  class="btn btn-default">开始评估</button>
-                                        </div>
-                                    </div>
-	                               	</form> 
-									</div>
-  									<div class="col-xs-6">结果可视化</div>
+	                               		</div>
+	                               	</div>
+ 							</div>
+ 							<div class="page-header">
+  								<small style="font-size:15px">各指标比率输入</small> 										 
+							</div>
+                        	<div class="row">
+ 								<div class="col-md-6">
+										<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与流动性比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与流动性比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与流动性比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与流动性比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">成长与流动性比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长与流动性比率">
+                                        	</div>
+	                               		</div>	
 								</div>
-               			    </div>                        
+ 								<div class="col-md-6">
+ 								<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与筹资比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与筹资比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与筹资比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与筹资比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">成长力与筹资比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长力与筹资比率">
+                                        	</div>
+	                               		</div>
+	                               		</div>
+ 							</div>
+ 							<div class="row">
+ 								<div class="col-md-6"><div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与清偿比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与清偿比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与清偿比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与清偿比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">成长力与清偿比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长力与清偿比率">
+                                        	</div>
+	                               		</div></div>
+ 								<div class="col-md-6"><div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与成长力比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与成长力比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与成长力比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与成长力比率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与成长力比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与成长力比率">
+                                        	</div>
+	                               		</div></div>
+ 							</div>							
+ 							<div class="form-group">
+                                <div class="col-sm-offset-5 col-sm-10">
+                                   <button type="submit" id="financialBtn"  class="btn btn-default">开始评估</button>
+                                </div>
+                            </div>
+ 							</form>
+ 						</div>
+ 					</div>                        
                         	<div class="tab-pane fade" id="business">
                     			<div class="row">                    			
   									<div class="col-xs-6"  style="border-right:2px">
@@ -272,12 +377,12 @@
                                          		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入竞品数">
                                         	</div>
 	                               		</div>
-	                               		<div class="form-group">
+	                               		<!-- <div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">公众号数量 (个)</label>
 		                              		<div class="col-sm-8">
                                          		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入公众号数">
                                         	</div>
-	                               		</div>
+	                               		</div> -->
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">对外投资数量 (个)</label>
 		                              		<div class="col-sm-8">
