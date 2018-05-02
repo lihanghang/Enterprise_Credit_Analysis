@@ -16,7 +16,9 @@ import tec.riskTec;
 import trainClassifier_Tree.creditQuality;
 
 import com.ccip.bank.bean.ScienceInvest;
+import com.ccip.bank.bean.businessBean;
 import com.ccip.bank.bean.creditQualityBean;
+import com.ccip.bank.bean.financialRiskBean;
 import com.ccip.bank.model.Company;
 import com.ccip.bank.model.InvestFactor;
 import com.ccip.bank.model.InvestPotential;
@@ -205,7 +207,13 @@ public class PredictController extends Controller{
 
 		render("fxpg.html");
 	}
-
+	//财务风险
+	public void financial_risk_model() {
+	 
+		financialRiskBean paraBean = getBean(financialRiskBean.class);		
+		renderJson("data",paraBean);
+		
+	}
 	//0417风险等级评估模型算法
 	public void fxpg_model(){
 		
@@ -244,9 +252,11 @@ public class PredictController extends Controller{
 			}				
 		}
 	
-		//0417风险等级评估模型算法--经营组织
+		//0417风险等级评估模型算法--经营组织 update param at 20180502
 		public void org_risk_model(){
-					
+			
+			businessBean paraBean = getBean(businessBean.class);
+			
 			int num1 = getParaToInt("num1"); 
 			int num2 = getParaToInt("num2"); 
 			int num3 = getParaToInt("num3"); 		
