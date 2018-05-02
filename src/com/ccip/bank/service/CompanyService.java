@@ -61,7 +61,10 @@ public class CompanyService {
 	
 	//获取法律诉讼
 	public Page<Company> paginats(int pageNumber, int pageSize,String code){
-		return dao.paginate(pageNumber, pageSize,"select *","from 法律诉讼  where 统一信用代码 = ?  order by date desc" , code);
+		
+		String select = "select * ";
+		String sqlExceptSelect = "from 法律诉讼 where code = ?  order by date desc";
+		return dao.paginate(pageNumber, pageSize, select, sqlExceptSelect, code);
         
     	}
 	
