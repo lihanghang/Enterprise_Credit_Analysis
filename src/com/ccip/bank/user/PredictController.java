@@ -14,6 +14,7 @@ import manage.manage_org;
 import strategy.risk;
 import tec.riskTec;
 import trainClassifier_Tree.creditQuality;
+import Risklevel.RiskDea;
 
 import com.ccip.bank.bean.ScienceInvest;
 import com.ccip.bank.bean.businessBean;
@@ -207,16 +208,38 @@ public class PredictController extends Controller{
 
 		render("fxpg.html");
 	}
-	//财务风险
+	//财务风险0503
 	public void financial_risk_model() {
 	 
-		financialRiskBean paraBean = getBean(financialRiskBean.class);		
-		renderJson("data",paraBean);
-		
+		financialRiskBean paraBean = getBean(financialRiskBean.class);
+		//System.out.print(paraBean.getAllAsserrtIncrease());
+		try {
+			RiskDea risk = new RiskDea();
+			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";			
+			Object[] financialRes = null;
+			financialRes = risk.financial(1,input,paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
+					paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
+					paraBean.getFlowPercent(),paraBean.getDebtRate(),paraBean.getInterest(),paraBean.getCashFlow(),
+					paraBean.getGrowthRateOperateIncome(),paraBean.getAllAsserrtIncrease());
+			//get Result
+			Object[] Res = risk.getResult(2);
+			setAttr("secondaryIndex",Res[0].toString());
+			setAttr("firstlyIndex",Res[1].toString());
+			System.out.println(Res[0].toString()+" "+Res[1].toString());
+			renderJson(new String[]{"secondaryIndex","firstlyIndex"});
+		} catch (MWException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+				
 	}
+	
+	
+	
+	
 	//0417风险等级评估模型算法
 	public void fxpg_model(){
-		
+				 
 		 int num1 = getParaToInt("num1"); 
 		 int num2 = getParaToInt("num2"); 
 		 int num3 = getParaToInt("num3"); 		
@@ -236,6 +259,7 @@ public class PredictController extends Controller{
 	//0417风险等级评估模型算法--技术专利
 		public void jszl_model(){
 			
+
 			 int num1 = getParaToInt("num1"); 
 			 int num2 = getParaToInt("num2"); 
 			 int num3 = getParaToInt("num3"); 		

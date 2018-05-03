@@ -47,7 +47,7 @@ public class CompanyService {
         //通过企业名称进行查询[根据需求待实现]
         String cname = "";
         if (cname != null && cname.length() != 0) {
-            itemSql += "and cname like '%" + cname + "%'";
+            itemSql += 	 "and cname like '%" + cname + "%'";
         }
 		return dao.paginate(pageNumber, pageSize,"select * ","from en_all_company"); 		
 	}
