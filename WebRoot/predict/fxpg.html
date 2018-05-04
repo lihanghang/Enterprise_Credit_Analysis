@@ -21,7 +21,7 @@
     						<li><a href="#business" data-toggle="tab">经营风险评估</a></li>
     						<li><a href="#tec" data-toggle="tab">技术风险评估</a></li>
     						<li><a href="#strategy" data-toggle="tab">市场竞争风险评估</a></li>  
-    						<li><a href="#all" data-toggle="tab">综合风险评估</a></li>  
+    						<li><a href="#all" data-toggle="tab">综合风险</a></li>  
 				    </ul>
                     <div class="or_left_silde" id="searchCondition" style="">                       
                          <div id="myTabContent" class="tab-content"  style="">
@@ -209,6 +209,12 @@
                             </div>
  							</form>
  						</div>
+                        <!--展示评估结果-->
+                        <div class="page-header">
+                            <small style="font-size:15px">结果及分析</small>    
+                        </div>
+                        <p id="loading1" style="text-align: center;"></p>
+                         <p id="financialView"><div id="financial_show" style="width: 100%;height: 300px;"></div> </p>
  					</div>
  					
  					
@@ -227,89 +233,77 @@
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">销售净利率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入销售净利率">
+                                         		<input type="text" name="businessBean.netSaleRate" class="form-control" id="firstname" placeholder="请输入销售净利率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">总资产报酬率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入总资产报酬率">
+                                         		<input type="text" name="businessBean.totalAssetRewardRate" class="form-control" id="firstname" placeholder="请输入总资产报酬率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">净资产收益率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入净资产收益率">
+                                         		<input type="text" name="businessBean.netAssetYield" class="form-control" id="firstname" placeholder="请输入净资产收益率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">存货周转率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入存货周转率">
+                                         		<input type="text" name="businessBean.inventoryTurnover" class="form-control" id="firstname" placeholder="请输入存货周转率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">总资产周转率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入总资产周转率">
+                                         		<input type="text" name="businessBean.totalAssetTurnover" class="form-control" id="firstname" placeholder="请输入总资产周转率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">成本费用利润率</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
+                                         		<input type="text" name="businessBean.costProfitMargin" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
                                         	</div>
 	                               		</div>                              		
 	                               	</div>
  						<div class="col-md-4"><div class="page-header">
   										 	<small style="font-size:15px">司法方面</small> 										 
-									 	</div>
-									 	<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">成本费用利润率</label>
-		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
-                                        	</div>
-	                               		</div>  
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">成本费用利润率</label>
-		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
-                                        	</div>
-	                               		</div>        
+									 	</div> 	              
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">诉讼数量(个)</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入诉讼数">
+                                         		<input type="text" name="businessBean.litigationNum" class="form-control" id="firstname" placeholder="请输入诉讼数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">经营异常次数</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入经营异常数">
+                                         		<input type="text" name="businessBean.abOperNum" class="form-control" id="firstname" placeholder="请输入经营异常数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">行政处罚次数</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num3" class="form-control" id="firstname" placeholder="请输入行政处罚数">
+                                         		<input type="text" name="businessBean.adminSancteNum" class="form-control" id="firstname" placeholder="请输入行政处罚数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">动产质押次数</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num4" class="form-control" id="firstname" placeholder="请输入动产质押数">
+                                         		<input type="text" name="businessBean.chattelPledgeNum" class="form-control" id="firstname" placeholder="请输入动产质押数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">自身风险</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num5" class="form-control" id="firstname" placeholder="请输入自身风险数">
+                                         		<input type="text" name="businessBean.selfRiskNum" class="form-control" id="firstname" placeholder="请输入自身风险数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">周边风险</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num6" class="form-control" id="firstname" placeholder="请输入周边风险数">
+                                         		<input type="text" name="businessBean.peripheralRiskNum" class="form-control" id="firstname" placeholder="请输入周边风险数">
                                         	</div>
 	                               		</div></div>
  <div class="col-md-4"><div class="page-header">
@@ -318,13 +312,13 @@
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">股东数量（注册）</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num7" class="form-control" id="firstname" placeholder="请输入股东数">
+                                         		<input type="text" name="businessBean.shareholdNum" class="form-control" id="firstname" placeholder="请输入股东数">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">第一大股东持股比例（注册）</label>
 		                              		<div class="col-sm-6">
-                                         		<input type="text" name="num8" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
+                                         		<input type="text" name="businessBean.firstMaxShare" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
                                         	</div>
 	                               		</div></div>
  </div>
@@ -404,7 +398,16 @@
   									
   									</div>
 								</div> -->
-               			    </div>                       
+
+                                 <!--展示经营评估结果-->
+                        <div class="page-header">
+                            <small style="font-size:15px">结果及分析</small>    
+                        </div>
+                        <p id="loading2" style="text-align: center;"></p>
+                         <p id="businessView"><div id="business_show" style="width: 100%;height: 320px;"></div> </p>
+               			    </div>  
+
+
                         	<div class="tab-pane fade" id="tec">
                     			<div class="row">                    			
   									<div class="col-xs-6"  style="border-right:2px">
@@ -441,7 +444,7 @@
   									<div class="page-header">
   										 <small style="font-size:15px">结果分析与可视化</small> 										 
 									</div>
-  									  <div  style="text-align:center" id="loading1"></div>									   										
+  									  <div  style="text-align:center" id="loading3"></div>									   										
   									  <p id="msg1"></p> 
   									  <p id="view1"><div id="show1" style="width: 100%;height: 300px;"></div></p> 									 									  									
   									</div>
@@ -453,7 +456,7 @@
   									<div class="page-header">
   										 <small style="font-size:15px">市场竞争风险指标输入</small> 										 
 									</div>
-									<form class="form-horizontal" role="form" id="strategy_form" name="risk" method="POST" onsubmit="return false" >
+									<form class="form-horizontal" role="form" id="competition_form" name="competition_risk" method="POST" onsubmit="return false" >
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">竞品信息数量(个)</label>
 		                              		<div class="col-sm-8">
@@ -469,12 +472,12 @@
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">对外投资数量 (个)</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="num3" class="form-control" id="firstname" placeholder="请输入对外投资数">
+                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入对外投资数">
                                         	</div>
 	                               		</div>
 	                               	<div class="form-group">
                                         <div class="col-sm-offset-5 col-sm-10">
-                                            <button type="submit" id="riskBtn"  class="btn btn-default">开始评估</button>
+                                            <button type="submit" id="riskCompetitionBtn"  class="btn btn-default">开始评估</button>
                                         </div>
                                     </div>
 	                               	</form> 							  									 									 									
@@ -483,7 +486,7 @@
   									<div class="page-header">
   										 <small style="font-size:15px">结果分析与可视化</small> 										 
 									</div>  									
-  									     <div  style="text-align:center" id="loading"></div>									   										
+  									     <div  style="text-align:center" id="loading4"></div>									   										
   										 <p id="msg"></p> 
   										 <p id="view"><div id="show" style="width: 100%;height: 300px;"></div></p>
   									</div>
@@ -491,9 +494,16 @@
 								</div>
                			      </div>
                			      <div class="tab-pane fade" id="all">
-                    			<div class="row"> 									
-  									<div class="col-xs-1">结果可视化</div>
-								</div>
+                    												
+  									<div class="col-xs-1">
+                                                <button type="button" class="btn btn-default" id="allIndex">查看风险详情</button>
+                                    </div>
+                                    <div  style="text-align:center" id="loading5"></div>                                                                         
+                                         <!--<p id="msg"></p> -->
+                                         <p id="allView"><div id="allShow" style="width: 100%;height: 300px;"></div></p>
+                                         <p id="allView1"><div id="allShow1" style="width: 100%;height: 300px;"></div></p>
+                                         <p id="allView2"><div id="allShow2" style="width: 100%;height: 300px;"></div></p>
+								
                			    </div>  
                         </div>
                    </div>
@@ -543,48 +553,187 @@ $('#financialBtn').click(function(){
 	        type:"POST",//为post请求
 	        url:"./financial_risk_model",//请求后台方法并接受模型返回数据
 	        data:financial_data,//将该表单序列化
-	        //async: false,
+	        async: false,
 	        error:function(request){//请求失败之后的操作
 	            return;
 	        },
 	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#view2").empty(); //加载前先清空结果信息
-	            $("#loading2").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	        	//$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#financialView").empty(); //加载前先清空结果信息
+	            $("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	          },  
+	        success:function(data){
+	        	$("#loading1").empty();
+	        	//console.log(data);
+	        	var secondIndex = data['secondaryIndex'].split("    ");
+	        	//可视化
+	        	var data = [secondIndex[1],secondIndex[2],secondIndex[3],secondIndex[4]];
+	        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var financialChart = echarts.init(document.getElementById('financial_show'));
+	        	option = {
+	        		    /* title: {
+	        		        text: '财务风险评估分析'
+	        		    }, */
+	        		    tooltip: {},
+	        		    legend: {
+	        		        data: ['财务风险指标']
+	        		    },
+	        		    radar: {
+	        		        // shape: 'circle',
+	        		        name: {
+	        		            textStyle: {
+	        		                color: '#fff',
+	        		                backgroundColor: '#999',
+	        		                borderRadius: 3,
+	        		                padding: [3, 5]
+	        		           }
+	        		        },
+	        		        indicator: [
+	        		           { name: '流动性', max: 1},
+	        		           { name: '筹资', max: 1},
+	        		           { name: '清偿', max: 1},
+	        		           { name: '成长力', max: 1}	        		        
+	        		        ],
+	        		        radius : 100 //半径，可放大放小雷达图
+	        		    },
+	        		    series: [{
+	        		        name: '风险指数',
+	        		        type: 'radar',
+	        		        itemStyle: {
+	                            normal: {
+	                                lineStyle: {
+	                                    color :"#87cefa",
+	                                    width : 2
+	                                },
+	                                areaStyle: {
+	                                    color:"#87cefa",
+	                                    type: 'default'
+	                                }
+	                            }
+	                        },
+	                        symbolSize :10,
+	        		        // areaStyle: {normal: {}},
+	        		        data : [
+	        		            {
+	        		                value : data,
+	        		                name : '风险指数',
+	        		                label: {
+	        		                    normal: {
+	        		                        show: true,
+	        		                        formatter:function(params) {
+	        		                            return params.value;
+	        		                        }
+	        		                    }
+	        		                }
+	        		            }
+	        		        ]
+	        		    }]
+	        		};    	
+	        	financialChart.setOption(option, true);  		
+	        }	          	      	          
+	  });		
+});
+
+
+//经营风险评估
+$('#orgBtn').click(function(){
+	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.org_form.elements.length-1;i++)
+    {
+     if(document.org_form.elements[i].value=="")
+     {
+       alert("请填写完整数据信息！");
+       document.org_form.elements[i].focus();
+       return false;
+     }
+ };
+	//表单提交数据序列化
+	var org_data =  $('#business_risk').serialize();	
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./org_risk_model",//请求后台方法并接受模型返回数据
+	        data:org_data,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	//$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#businessView").empty(); //加载前先清空结果信息
+	            $("#loading2").html("<img src='../static/home/predict/images/loading.gif' />结果分析中，请稍后……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
 	        	$("#loading2").empty();
+	        	var secondaryIndex = data['secondaryIndex'].split('    ');
+	        	var datas = [secondaryIndex[5], secondaryIndex[6], secondaryIndex[7]];
 	        	console.log(data);
-	        	var man = data['manage'];
-	        	var org = data['org'];
-	        	//var percent = ((man*0.7+org*0.3)*100).toFixed(2);
-	        	
+	        	//var percent = (allIndex*100).toFixed(2);
+	        	 
 	        		        	        		        	
 	        	//可视化
-	        	$("#view2").html("<div id=\"show2\" style=\"width: 100%;height: 300px;\"></div>");
-	        	var myChart2 = echarts.init(document.getElementById('show2'));
+	        	$("#businessView").html("<div id=\"business_show\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var businessChart = echarts.init(document.getElementById('business_show'));	        	
 	        	option = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    /* title: {
+	        		        text: '财务风险评估分析'
+	        		    }, */
+	        		    tooltip: {},
+	        		    legend: {
+	        		        data: ['经营风险指标']
 	        		    },
-	        		    toolbox: {
-	        		        feature: {
-	        		            restore: {},
-	        		            saveAsImage: {}
-	        		        }
+	        		    radar: {
+	        		        // shape: 'circle',
+	        		        name: {
+	        		            textStyle: {
+	        		                color: '#fff',
+	        		                backgroundColor: '#999',
+	        		                borderRadius: 3,
+	        		                padding: [3, 5]
+	        		           }
+	        		        },
+	        		        indicator: [
+	        		           { name: '经营力', max: 1},
+	        		           { name: '司法', max: 1},
+	        		           { name: '组织', max: 1} 		        
+	        		        ],
+	        		        radius : 100 //半径，可放大放小雷达图
 	        		    },
-	        		    series: [
-	        		        {
-	        		            name: '经营指标',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '经营风险率'}]
-	        		        }
-	        		    ]
-	        		};	        	
-	        	myChart2.setOption(option, true)	;
-	        	$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
+	        		    series: [{
+	        		        name: '风险指数',
+	        		        type: 'radar',
+	        		        itemStyle: {
+	                            normal: {
+	                                lineStyle: {
+	                                    color :"#87cefa",
+	                                    width : 2
+	                                },
+	                                areaStyle: {
+	                                    color:"#87cefa",
+	                                    type: 'default'
+	                                }
+	                            }
+	                        },
+	                        symbolSize :10,
+	        		        // areaStyle: {normal: {}},
+	        		        data : [
+	        		            {
+	        		                value : datas,
+	        		                name : '风险指数',
+	        		                label: {
+	        		                    normal: {
+	        		                        show: true,
+	        		                        formatter:function(params) {
+	        		                            return params.value;
+	        		                        }
+	        		                    }
+	        		                }
+	        		            }
+	        		        ]
+	        		    }]
+	        		};   
+	        	businessChart.setOption(option, true);
+	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
 	        }	          	      	          
 	  });		
 });
@@ -592,51 +741,25 @@ $('#financialBtn').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-$('#riskBtn').click(function(){
+$('#riskCompetitionBtn').click(function(){
 	
 	//防止用户未填写完整数据提交
-	for(var i=0;i<document.risk.elements.length-1;i++)
+	for(var i=0;i<document.competition_risk.elements.length-1;i++)
     {
-     if(document.risk.elements[i].value=="")
+     if(document.competition_risk.elements[i].value=="")
      {
        alert("请填写完整数据信息！");
-       document.risk.elements[i].focus();
+       document.competition_risk.elements[i].focus();
        return false;
      }
  }
 	
 	//表单提交数据序列化
-	var strategy_data =  $('#strategy_form').serialize();		
+	var strategy_data =  $('#competition_form').serialize();		
 	 $.ajax({
 	        cache:true,//保留缓存数据
 	        type:"POST",//为post请求
-	        url:"./fxpg_model",//请求后台方法并接受模型返回数据
+	        url:"./fxpg_competition_model",//请求后台方法并接受模型返回数据
 	        data:strategy_data,//将该表单序列化
 	        //async: false,
 	        error:function(request){//请求失败之后的操作
@@ -645,12 +768,14 @@ $('#riskBtn').click(function(){
 	        beforeSend:function(XMLHttpRequest){
 	        	$("#msg").empty(); //加载前先清空结果信息
 	        	$("#view").empty(); //加载前先清空结果信息
-	            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	            $("#loading4").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
-	        	$("#loading").empty();
-	        	var re = data['result']
-	        	var percent = (re*100).toFixed(2);
+	        	console.log(data);
+	        	$("#loading4").empty();
+	        	var secondaryIndex = data['secondaryIndex'].split('    ');
+	        	//var re = data['result']
+	             var percent = (secondaryIndex[9]*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -668,22 +793,22 @@ $('#riskBtn').click(function(){
 	        		    },
 	        		    series: [
 	        		        {
-	        		            name: '战略指标',
+	        		            name: '市场竞争风险指标',
 	        		            type: 'gauge',
 	        		            radius: '80%',	  
 	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '战略风险率'}]
+	        		            data: [{value: percent, name: '市场竞争风险率'}]
 	        		        }
 	        		    ]
 	        		};	        	
 	        	myChart.setOption(option, true)	;
-	        	$("#msg").html("您查询企业的战略风险为："+percent+"%");    	        		
+	        	$("#msg").html("您查询企业的市场竞争风险为："+percent+"%");    	        		
 	        }	          	      	          
 	  });	
 });
 
 
-
+//技术风险评估实现
 $('#tecBtn').click(function(){
 	
 	//防止用户未填写完整数据提交
@@ -711,12 +836,14 @@ $('#tecBtn').click(function(){
 	        beforeSend:function(XMLHttpRequest){
 	        	$("#msg1").empty(); //加载前先清空结果信息
 	        	$("#view1").empty(); //加载前先清空结果信息
-	            $("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	            $("#loading3").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
-	        	$("#loading1").empty();
-	        	var re = data['tec']
-	        	var percent = (re*100).toFixed(2);
+	        	console.log(data);
+	        	$("#loading3").empty();
+	        	var secondaryIndex = data['secondaryIndex'].split('    ');
+	        	//var re = data['result']
+	            var percent = (secondaryIndex[8]*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -750,47 +877,45 @@ $('#tecBtn').click(function(){
 
 
 
-$('#orgBtn').click(function(){
+
+
+
+$('#allIndex').click(function(){
 	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.org_form.elements.length-1;i++)
-    {
-     if(document.org_form.elements[i].value=="")
-     {
-       alert("请填写完整数据信息！");
-       document.org_form.elements[i].focus();
-       return false;
-     }
- }
-	
-	//表单提交数据序列化
-	var org_data =  $('#business_risk').serialize();		
+		
 	 $.ajax({
 	        cache:true,//保留缓存数据
 	        type:"POST",//为post请求
-	        url:"./org_risk_model",//请求后台方法并接受模型返回数据
-	        data:org_data,//将该表单序列化
-	        //async: false,
+	        url:"./ajaxIntegrateIndex",//请求后台方法并接受模型返回数据
 	        error:function(request){//请求失败之后的操作
 	            return;
 	        },
 	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#view2").empty(); //加载前先清空结果信息
-	            $("#loading2").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	        	//$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#allView").empty(); //加载前先清空结果信息
+	        	$("#allView1").empty(); //加载前先清空结果信息
+	        	$("#allView2").empty(); //加载前先清空结果信息
+	            $("#loading5").html("<img src='../static/home/predict/images/loading.gif' />结果加载中，请稍后……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
-	        	$("#loading2").empty();
-	        	//console.log(data['manage']);
-	        	var man = data['manage'];
-	        	var org = data['org'];
-	        	var percent = ((man*0.7+org*0.3)*100).toFixed(2);
-	        	
+	        	$("#loading5").empty();
+	        	console.log(data);
+	        	var allIndex = data['integrateIndex'];
+	        	var firstlyIndex = data['firstlyIndex'].split("    ");
+ 	        	var secondaryIndex = data['secondaryIndex'].split("    ");
+ 	        	//console.log(allIndex+"\n"+firstlyIndex+"\n"+secondaryIndex);
+	        	/*var org = data['org'];*/
+	        	var percent = (allIndex*100).toFixed(2);
+	        	 
 	        		        	        		        	
 	        	//可视化
-	        	$("#view2").html("<div id=\"show2\" style=\"width: 100%;height: 300px;\"></div>");
-	        	var myChart2 = echarts.init(document.getElementById('show2'));
-	        	option = {
+	        	$("#allView").html("<div id=\"allShow\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 100%;height: 300px;\"></div>");
+	        	var businessChart = echarts.init(document.getElementById('allShow'));
+	        	var businessChart1 = echarts.init(document.getElementById('allShow1'));
+	        	var businessChart2 = echarts.init(document.getElementById('allShow2'));
+	        	alloption = {
 	        		    tooltip : {
 	        		        formatter: "{a} <br/>{b} : {c}%"
 	        		    },
@@ -802,16 +927,144 @@ $('#orgBtn').click(function(){
 	        		    },
 	        		    series: [
 	        		        {
-	        		            name: '经营指标',
+	        		            name: '综合风险率',
 	        		            type: 'gauge',
 	        		            radius: '80%',	  
 	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '经营风险率'}]
+	        		            data: [{value:percent, name: '综合风险率'}]
 	        		        }
 	        		    ]
-	        		};	        	
-	        	myChart2.setOption(option, true)	;
-	        	$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
+	        		};
+	        	
+	        	option1 = {
+	        		    /* title: {
+	        		        text: '财务风险评估分析'
+	        		    }, */
+	        		    tooltip: {},
+	        		    legend: {
+	        		        data: ['一级指标风险指标']
+	        		    },
+	        		    radar: {
+	        		        // shape: 'circle',
+	        		        name: {
+	        		            textStyle: {
+	        		                color: '#fff',
+	        		                backgroundColor: '#999',
+	        		                borderRadius: 3,
+	        		                padding: [3, 5]
+	        		           }
+	        		        },
+	        		        indicator: [
+	        		           { name: '财务', max: 1},
+	        		           { name: '经营', max: 1},
+	        		           { name: '技术', max: 1},
+	        		           { name: '市场竞争', max: 1} 
+	        		        ],
+	        		        radius : 100 //半径，可放大放小雷达图
+	        		    },
+	        		    series: [{
+	        		        name: '一级指标指数',
+	        		        type: 'radar',
+	        		        itemStyle: {
+	                            normal: {
+	                                lineStyle: {
+	                                    color :"#87cefa",
+	                                    width : 2
+	                                },
+	                                areaStyle: {
+	                                    color:"#87cefa",
+	                                    type: 'default'
+	                                }
+	                            }
+	                        },
+	                        symbolSize :10,
+	        		        // areaStyle: {normal: {}},
+	        		        data : [
+	        		            {
+	        		                value : firstlyIndex,
+	        		                name : '风险指数',
+	        		                label: {
+	        		                    normal: {
+	        		                        show: true,
+	        		                        formatter:function(params) {
+	        		                            return params.value;
+	        		                        }
+	        		                    }
+	        		                }
+	        		            }
+	        		        ]
+	        		    }]
+	        		};   
+	        	
+	        	
+	        	option2 = {
+	        		    /* title: {
+	        		        text: '财务风险评估分析'
+	        		    }, */
+	        		    tooltip: {},
+	        		    legend: {
+	        		        data: ['二级指标风险指标']
+	        		    },
+	        		    radar: {
+	        		        // shape: 'circle',
+	        		        name: {
+	        		            textStyle: {
+	        		                color: '#fff',
+	        		                backgroundColor: '#999',
+	        		                borderRadius: 3,
+	        		                padding: [3, 5]
+	        		           }
+	        		        },
+	        		        indicator: [
+	        		           { name: '流动性', max: 1},
+	        		           { name: '筹资', max: 1},
+	        		           { name: '清偿', max: 1},
+	        		           { name: '成长', max: 1},
+	        		           { name: '经营', max: 1},
+	        		           { name: '司法', max: 1},
+	        		           { name: '组织', max: 1},
+	        		           { name: '技术', max: 1},
+	        		           { name: '市场竞争', max: 1}
+	        		        ],
+	        		        radius : 100 //半径，可放大放小雷达图
+	        		    },
+	        		    series: [{
+	        		        name: '二级指标指数',
+	        		        type: 'radar',
+	        		        itemStyle: {
+	                            normal: {
+	                                lineStyle: {
+	                                    color :"#87cefa",
+	                                    width : 2
+	                                },
+	                                areaStyle: {
+	                                    color:"#87cefa",
+	                                    type: 'default'
+	                                }
+	                            }
+	                        },
+	                        symbolSize :10,
+	        		        // areaStyle: {normal: {}},
+	        		        data : [
+	        		            {
+	        		                value : secondaryIndex,
+	        		                name : '风险指数',
+	        		                label: {
+	        		                    normal: {
+	        		                        show: true,
+	        		                        formatter:function(params) {
+	        		                            return params.value;
+	        		                        }
+	        		                    }
+	        		                }
+	        		            }
+	        		        ]
+	        		    }]
+	        		};
+	        	businessChart.setOption(alloption, true);
+	        	businessChart1.setOption(option1, true);
+	        	businessChart2.setOption(option2, true);
+	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
 	        }	          	      	          
 	  });		
 });

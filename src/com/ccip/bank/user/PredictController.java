@@ -237,18 +237,19 @@ public class PredictController extends Controller{
 	
 	
 	
-	//0417风险等级评估模型算法
-	public void fxpg_model(){
+	//0417风险等级评估模型 竞争风险算法
+	public void fxpg_competition_model(){
 				 
-		 int num1 = getParaToInt("num1"); 
-		 int num2 = getParaToInt("num2"); 
-		 int num3 = getParaToInt("num3"); 		
+		 int num1 = getParaToInt("num1"); //竞品
+		 int num2 = getParaToInt("num2");//对外投资		
 		try {
-			String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
-			risk str = new risk();
-			Object[] result = null;
-			result = str.strategy(1, input,num3, num1, num2);
-			renderJson("result",result[0].toString());
+			RiskDea competitionRisk = new RiskDea();
+			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+			competitionRisk.competition(2, input, num2,num1);
+			Object[] Res = competitionRisk.getResult(2);
+			setAttr("secondaryIndex",Res[0].toString());
+			setAttr("firstlyIndex",Res[1].toString());
+			renderJson(new String[]{"secondaryIndex","firstlyIndex"});
 						
 		} catch (MWException e) {
 			// TODO Auto-generated catch block
@@ -256,19 +257,20 @@ public class PredictController extends Controller{
 		}				
 	}
 	
-	//0417风险等级评估模型算法--技术专利
+	//0417风险等级评估模型算法--技术风险评估 update at 20180504
 		public void jszl_model(){
 			
-
 			 int num1 = getParaToInt("num1"); 
 			 int num2 = getParaToInt("num2"); 
 			 int num3 = getParaToInt("num3"); 		
 			try {
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
-				riskTec str = new riskTec();
-				Object[] result = null;
-				result = str.tec(1, input,num1, num2, num3);
-				renderJson("tec",result[0].toString());
+				RiskDea tecRisk = new RiskDea();
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+				tecRisk.tec(0, input, num1,num2,num3);
+				Object[] Res = tecRisk.getResult(2);
+				setAttr("secondaryIndex",Res[0].toString());
+				setAttr("firstlyIndex",Res[1].toString());
+				renderJson(new String[]{"secondaryIndex","firstlyIndex"});
 							
 			} catch (MWException e) {
 				// TODO Auto-generated catch block
@@ -276,34 +278,45 @@ public class PredictController extends Controller{
 			}				
 		}
 	
-		//0417风险等级评估模型算法--经营组织 update param at 20180502
+		//0417风险等级评估模型算法--经营风险评估  update param at 20180502
 		public void org_risk_model(){
 			
-			businessBean paraBean = getBean(businessBean.class);
-			
-			int num1 = getParaToInt("num1"); 
-			int num2 = getParaToInt("num2"); 
-			int num3 = getParaToInt("num3"); 		
-			int num4 = getParaToInt("num4"); 
-			int num5 = getParaToInt("num5"); 
-			int num6 = getParaToInt("num6"); 	
-			int num7 = getParaToInt("num7"); 
-			double num8 = Double.parseDouble(getPara("num8"));  	
+			businessBean paraBean = getBean(businessBean.class);	
 			try {
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/输入指标集excel模板.xls";
-				manage_org str = new manage_org();
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+				RiskDea businessRisk = new RiskDea();
 				Object[] result = null;
-				result = str.manage(2, input,num1, num2, num3,num4, num5, num6,num7, num8);
-				setAttr("manage",result[1].toString());
-				setAttr("org",result[0].toString());				
-				renderJson(new String[]{"manage","org"});
-									
-					} catch (MWException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
+				result =  businessRisk.business(1, input,paraBean.getNetSaleRate(),paraBean.getTotalAssetRewardRate(),paraBean.getNetAssetYield(),
+						paraBean.getInventoryTurnover(),paraBean.getTotalAssetTurnover(),paraBean.getCostProfitMargin(),paraBean.getLitigationNum(),
+						paraBean.getAbOperNum(),paraBean.getAdminSancteNum(),paraBean.getChattelPledgeNum(),paraBean.getSelfRiskNum(),
+						paraBean.getPeripheralRiskNum(),paraBean.getShareholdNum(),paraBean.getFirstMaxShare());
+				Object[] Res = businessRisk.getResult(2);
+				setAttr("secondaryIndex", Res[0].toString());
+				setAttr("firstlyIndex", Res[1].toString());			
+				renderJson(new String[]{"secondaryIndex","firstlyIndex"});									
+				} catch (MWException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
 					}				
 		}
-		
+		//企业风险评估综合指标0504
+		public void ajaxIntegrateIndex() {
+			
+			try {
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+				RiskDea allRisk = new RiskDea();
+				Object[] result = null;
+				allRisk.integrate(0);//得到综合指标
+				result = allRisk.getResult(3);//得到所有一级二级指标
+				setAttr("secondaryIndex",result[0].toString());
+				setAttr("firstlyIndex",result[1].toString());
+				setAttr("integrateIndex",result[2].toString());
+				renderJson(new String[]{"secondaryIndex","firstlyIndex","integrateIndex"});									
+				} catch (MWException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+					}							
+		}
 		
 	//科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
