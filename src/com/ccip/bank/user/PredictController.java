@@ -10,11 +10,8 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import lpsolve.LpSolveException;
-import manage.manage_org;
-import strategy.risk;
-import tec.riskTec;
 import trainClassifier_Tree.creditQuality;
-import Risklevel.RiskDea;
+import RiskDea.riskDea;
 
 import com.ccip.bank.bean.ScienceInvest;
 import com.ccip.bank.bean.businessBean;
@@ -208,24 +205,22 @@ public class PredictController extends Controller{
 
 		render("fxpg.html");
 	}
-	//财务风险0503
+	//财务风险0503 update 0507
 	public void financial_risk_model() {
 	 
 		financialRiskBean paraBean = getBean(financialRiskBean.class);
 		//System.out.print(paraBean.getAllAsserrtIncrease());
 		try {
-			RiskDea risk = new RiskDea();
+			riskDea risks = new riskDea();
 			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";			
 			Object[] financialRes = null;
-			financialRes = risk.financial(1,input,paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
+			financialRes = risks.financial(2,input,paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
 					paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
 					paraBean.getFlowPercent(),paraBean.getDebtRate(),paraBean.getInterest(),paraBean.getCashFlow(),
 					paraBean.getGrowthRateOperateIncome(),paraBean.getAllAsserrtIncrease());
 			//get Result
-			Object[] Res = risk.getResult(2);
-			setAttr("secondaryIndex",Res[0].toString());
-			setAttr("firstlyIndex",Res[1].toString());
-			System.out.println(Res[0].toString()+" "+Res[1].toString());
+			setAttr("firstlyIndex",financialRes[0]);
+			setAttr("secondaryIndex",financialRes[1]);		
 			renderJson(new String[]{"secondaryIndex","firstlyIndex"});
 		} catch (MWException e1) {
 			// TODO Auto-generated catch block
@@ -243,13 +238,11 @@ public class PredictController extends Controller{
 		 int num1 = getParaToInt("num1"); //竞品
 		 int num2 = getParaToInt("num2");//对外投资		
 		try {
-			RiskDea competitionRisk = new RiskDea();
-			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-			competitionRisk.competition(2, input, num2,num1);
-			Object[] Res = competitionRisk.getResult(2);
-			setAttr("secondaryIndex",Res[0].toString());
-			setAttr("firstlyIndex",Res[1].toString());
-			renderJson(new String[]{"secondaryIndex","firstlyIndex"});
+			riskDea competitionRisk = new riskDea();
+			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";			
+			Object[] Res = null;
+			Res = competitionRisk.competition(1, input, num2,num1);
+			renderJson("firstlyIndex",Res[0]);
 						
 		} catch (MWException e) {
 			// TODO Auto-generated catch block
@@ -264,13 +257,11 @@ public class PredictController extends Controller{
 			 int num2 = getParaToInt("num2"); 
 			 int num3 = getParaToInt("num3"); 		
 			try {
-				RiskDea tecRisk = new RiskDea();
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				tecRisk.tec(0, input, num1,num2,num3);
-				Object[] Res = tecRisk.getResult(2);
-				setAttr("secondaryIndex",Res[0].toString());
-				setAttr("firstlyIndex",Res[1].toString());
-				renderJson(new String[]{"secondaryIndex","firstlyIndex"});
+				riskDea tecRisk = new riskDea();
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";				
+				Object[] Res = null;
+				Res = tecRisk.tec(1, input, num1,num2,num3);
+				renderJson("firstlyIndex",Res[0]);
 							
 			} catch (MWException e) {
 				// TODO Auto-generated catch block
@@ -284,15 +275,14 @@ public class PredictController extends Controller{
 			businessBean paraBean = getBean(businessBean.class);	
 			try {
 				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				RiskDea businessRisk = new RiskDea();
-				Object[] result = null;
-				result =  businessRisk.business(1, input,paraBean.getNetSaleRate(),paraBean.getTotalAssetRewardRate(),paraBean.getNetAssetYield(),
+				riskDea businessRisk = new riskDea();
+				Object[] Res = null;
+				Res = businessRisk.business(2, input,paraBean.getNetSaleRate(),paraBean.getTotalAssetRewardRate(),paraBean.getNetAssetYield(),
 						paraBean.getInventoryTurnover(),paraBean.getTotalAssetTurnover(),paraBean.getCostProfitMargin(),paraBean.getLitigationNum(),
 						paraBean.getAbOperNum(),paraBean.getAdminSancteNum(),paraBean.getChattelPledgeNum(),paraBean.getSelfRiskNum(),
 						paraBean.getPeripheralRiskNum(),paraBean.getShareholdNum(),paraBean.getFirstMaxShare());
-				Object[] Res = businessRisk.getResult(2);
-				setAttr("secondaryIndex", Res[0].toString());
-				setAttr("firstlyIndex", Res[1].toString());			
+				setAttr("firstlyIndex", Res[0]);	
+				setAttr("secondaryIndex", Res[1]);						
 				renderJson(new String[]{"secondaryIndex","firstlyIndex"});									
 				} catch (MWException e) {
 					// TODO Auto-generated catch block
@@ -300,18 +290,25 @@ public class PredictController extends Controller{
 					}				
 		}
 		//企业风险评估综合指标0504
-		public void ajaxIntegrateIndex() {
-			
+		public void ajaxIntegrateIndex() {			
 			try {
 				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				RiskDea allRisk = new RiskDea();
-				Object[] result = null;
-				allRisk.integrate(0);//得到综合指标
-				result = allRisk.getResult(3);//得到所有一级二级指标
-				setAttr("secondaryIndex",result[0].toString());
-				setAttr("firstlyIndex",result[1].toString());
-				setAttr("integrateIndex",result[2].toString());
-				renderJson(new String[]{"secondaryIndex","firstlyIndex","integrateIndex"});									
+				riskDea allRisk = new riskDea();
+				Object[] result = allRisk.getResult(5);//得到所有一级二级指标
+				System.out.println(result[1]);
+				if(result[0].toString().length()==1){
+					setAttr("secondaryIndex",0);
+					setAttr("firstlyIndex",0);
+					renderJson(new String[]{"secondaryIndex","firstlyIndex"});
+				}else{
+				
+				String data[] = {result[1].toString(),result[2].toString(),result[3].toString(),result[4].toString()}; 
+				setAttr("secondaryIndex",data);
+				System.out.println(data);
+				setAttr("firstlyIndex",result[0].toString());
+				renderJson(new String[]{"secondaryIndex","firstlyIndex"});
+				}				
+													
 				} catch (MWException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
@@ -330,7 +327,6 @@ public class PredictController extends Controller{
 		
 		//接受测试参数
 			ScienceInvest paraBean = getBean(ScienceInvest.class);
-		//System.out.println(paraBean);
 		//基于Java实现DEA算法
 			Map<String, DeaRecord> records = new LinkedHashMap<>();	        
 	        GetExcelInfo obj = new GetExcelInfo(); 

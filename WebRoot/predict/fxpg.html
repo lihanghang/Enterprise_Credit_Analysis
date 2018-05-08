@@ -500,7 +500,7 @@
                                     </div>
                                     <div  style="text-align:center" id="loading5"></div>                                                                         
                                          <!--<p id="msg"></p> -->
-                                         <p id="allView"><div id="allShow" style="width: 100%;height: 300px;"></div></p>
+                                        <!--  <p id="allView"><div id="allShow" style="width: 100%;height: 300px;"></div></p> -->
                                          <p id="allView1"><div id="allShow1" style="width: 100%;height: 300px;"></div></p>
                                          <p id="allView2"><div id="allShow2" style="width: 100%;height: 300px;"></div></p>
 								
@@ -553,7 +553,7 @@ $('#financialBtn').click(function(){
 	        type:"POST",//为post请求
 	        url:"./financial_risk_model",//请求后台方法并接受模型返回数据
 	        data:financial_data,//将该表单序列化
-	        async: false,
+	        //async: false,
 	        error:function(request){//请求失败之后的操作
 	            return;
 	        },
@@ -565,16 +565,20 @@ $('#financialBtn').click(function(){
 	        success:function(data){
 	        	$("#loading1").empty();
 	        	//console.log(data);
-	        	var secondIndex = data['secondaryIndex'].split("    ");
+	        	var secondIndex = data['secondaryIndex']['data'];
+	        	console.log(secondIndex[0]);
 	        	//可视化
-	        	var data = [secondIndex[1],secondIndex[2],secondIndex[3],secondIndex[4]];
+	        	var data = [secondIndex[0],secondIndex[1],secondIndex[2],secondIndex[3]];
 	        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 100%;height: 300px;\"></div>");
 	        	var financialChart = echarts.init(document.getElementById('financial_show'));
 	        	option = {
+	        			
 	        		    /* title: {
 	        		        text: '财务风险评估分析'
 	        		    }, */
-	        		    tooltip: {},
+	        		    tooltip: {
+	        		    	trigger: 'axis'
+	        		    },
 	        		    legend: {
 	        		        data: ['财务风险指标']
 	        		    },
@@ -594,10 +598,16 @@ $('#financialBtn').click(function(){
 	        		           { name: '清偿', max: 1},
 	        		           { name: '成长力', max: 1}	        		        
 	        		        ],
-	        		        radius : 100 //半径，可放大放小雷达图
+	        		        radius : 130 //半径，可放大放小雷达图
 	        		    },
 	        		    series: [{
-	        		        name: '风险指数',
+	        		    	name:{
+	                            show: true, // 是否显示文字
+	                            formatter: null, // 文字的显示形式
+	                            textStyle: {
+	                              color:'#a3a5b6' // 文字颜色
+	                            }
+	                          },
 	        		        type: 'radar',
 	        		        itemStyle: {
 	                            normal: {
@@ -606,9 +616,22 @@ $('#financialBtn').click(function(){
 	                                    width : 2
 	                                },
 	                                areaStyle: {
-	                                    color:"#87cefa",
+	                                    color:"#fa610e",
 	                                    type: 'default'
-	                                }
+	                                },
+	                                splitLine : {
+	                                    show : true,
+	                                    lineStyle : {
+	                                        width : 1,
+	                                        color : '#286fbb' // 图表背景网格线的颜色
+	                                    }
+	                                },
+	                                splitArea : {
+	                                    show : true,   
+	                                    areaStyle : {
+	                                        color: ["#2a4a93"]  // 图表背景网格的颜色
+	                                    }
+	                                },
 	                            }
 	                        },
 	                        symbolSize :10,
@@ -665,9 +688,9 @@ $('#orgBtn').click(function(){
 	          },  
 	        success:function(data){
 	        	$("#loading2").empty();
-	        	var secondaryIndex = data['secondaryIndex'].split('    ');
-	        	var datas = [secondaryIndex[5], secondaryIndex[6], secondaryIndex[7]];
-	        	console.log(data);
+	        	var secondaryIndex = data['secondaryIndex']['data'];
+	        	var datas = [secondaryIndex[0], secondaryIndex[1], secondaryIndex[2]];
+	        	console.log(datas);
 	        	//var percent = (allIndex*100).toFixed(2);
 	        	 
 	        		        	        		        	
@@ -697,7 +720,7 @@ $('#orgBtn').click(function(){
 	        		           { name: '司法', max: 1},
 	        		           { name: '组织', max: 1} 		        
 	        		        ],
-	        		        radius : 100 //半径，可放大放小雷达图
+	        		        radius : 120 //半径，可放大放小雷达图
 	        		    },
 	        		    series: [{
 	        		        name: '风险指数',
@@ -773,9 +796,9 @@ $('#riskCompetitionBtn').click(function(){
 	        success:function(data){
 	        	console.log(data);
 	        	$("#loading4").empty();
-	        	var secondaryIndex = data['secondaryIndex'].split('    ');
+	        	var secondaryIndex = data['firstlyIndex']['data'];
 	        	//var re = data['result']
-	             var percent = (secondaryIndex[9]*100).toFixed(2);
+	             var percent = (secondaryIndex[0]*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -841,9 +864,9 @@ $('#tecBtn').click(function(){
 	        success:function(data){
 	        	console.log(data);
 	        	$("#loading3").empty();
-	        	var secondaryIndex = data['secondaryIndex'].split('    ');
+	        	var secondaryIndex = data['firstlyIndex']['data'];
 	        	//var re = data['result']
-	            var percent = (secondaryIndex[8]*100).toFixed(2);
+	            var percent = (secondaryIndex[0]*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -892,30 +915,39 @@ $('#allIndex').click(function(){
 	        },
 	        beforeSend:function(XMLHttpRequest){
 	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#allView").empty(); //加载前先清空结果信息
 	        	$("#allView1").empty(); //加载前先清空结果信息
 	        	$("#allView2").empty(); //加载前先清空结果信息
 	            $("#loading5").html("<img src='../static/home/predict/images/loading.gif' />结果加载中，请稍后……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
 	        	$("#loading5").empty();
-	        	console.log(data);
-	        	var allIndex = data['integrateIndex'];
-	        	var firstlyIndex = data['firstlyIndex'].split("    ");
- 	        	var secondaryIndex = data['secondaryIndex'].split("    ");
+	        	var data1 = data['firstlyIndex'];
+	        	var data2 = data['secondaryIndex']
+	        	if(data1==0)
+	        		{
+	        		console.log(data);
+	        		alert("数据不完整，请您先进行前四项风险评估！");
+	        		}
+	        	
+	        	else{
+	        	
+	        	
+	        	var firstlyIndex   =  data1.split('    ');
+	        	var secondaryIndexs = [];
+ 	        	var secondaryIndex =  data2[0].split('    ');
+ 	        	var secondaryIndex_1 =  data2[1].split('    ');
+ 	        	secondaryIndexs = secondaryIndex.concat(secondaryIndex_1).concat(data2[2]).concat(data2[3]);
+ 	        	
  	        	//console.log(allIndex+"\n"+firstlyIndex+"\n"+secondaryIndex);
 	        	/*var org = data['org'];*/
-	        	var percent = (allIndex*100).toFixed(2);
-	        	 
-	        		        	        		        	
-	        	//可视化
-	        	$("#allView").html("<div id=\"allShow\" style=\"width: 100%;height: 300px;\"></div>");
+	        	 var index1 = [firstlyIndex[0], firstlyIndex[1], firstlyIndex[2], firstlyIndex[3]];
+	        	 //var index2 = [secondaryIndex_1[0], secondaryIndex[1], secondaryIndex[2], secondaryIndex[3], data2[2],data2[3]]
+	        	//可视化	
 	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 100%;height: 300px;\"></div>");
 	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 100%;height: 300px;\"></div>");
-	        	var businessChart = echarts.init(document.getElementById('allShow'));
 	        	var businessChart1 = echarts.init(document.getElementById('allShow1'));
 	        	var businessChart2 = echarts.init(document.getElementById('allShow2'));
-	        	alloption = {
+	    /*     	alloption = {
 	        		    tooltip : {
 	        		        formatter: "{a} <br/>{b} : {c}%"
 	        		    },
@@ -934,7 +966,7 @@ $('#allIndex').click(function(){
 	        		            data: [{value:percent, name: '综合风险率'}]
 	        		        }
 	        		    ]
-	        		};
+	        		}; */
 	        	
 	        	option1 = {
 	        		    /* title: {
@@ -1047,7 +1079,7 @@ $('#allIndex').click(function(){
 	        		        // areaStyle: {normal: {}},
 	        		        data : [
 	        		            {
-	        		                value : secondaryIndex,
+	        		                value : secondaryIndexs,
 	        		                name : '风险指数',
 	        		                label: {
 	        		                    normal: {
@@ -1061,11 +1093,11 @@ $('#allIndex').click(function(){
 	        		        ]
 	        		    }]
 	        		};
-	        	businessChart.setOption(alloption, true);
 	        	businessChart1.setOption(option1, true);
 	        	businessChart2.setOption(option2, true);
 	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
-	        }	          	      	          
+	        }
+	        }
 	  });		
 });
 
