@@ -62,7 +62,9 @@ public class MyJfinalConfig extends JFinalConfig {
             arp.addMapping("作品著作权","id", Company.class);
             arp.addMapping("软件著作权","id", Company.class);
             arp.addMapping("商标信息","id", Company.class); 
-            arp.addMapping("专利","id", Company.class);                  
+            arp.addMapping("专利","id", Company.class);     
+            //财务数据表
+            arp.addMapping("利润表","year", Company.class); 
     		me.add(arp);
     }  
   

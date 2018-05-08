@@ -74,6 +74,15 @@ public class CompanyService {
 	        
 	    }
 	
+	//获取财务数据
+	public Page<Company> paginat_financial(int pageNumber, int pageSize,String code){
+		return dao.paginate(pageNumber, pageSize,"select year,oper_revenue,main_oper_revenue,other_oper_revenue,oper_cost,main_oper_cost,other_oper_cost","from 利润表   where code = ? " , code);
+	        
+	    }
+	
+	
+	
+	
 	//获取法院公告
 		public Page<Company> paginat_notice(int pageNumber, int pageSize,String code){
 			return dao.paginate(pageNumber, pageSize,"select *","from 法院公告  where 统一信用代码 = ?" , code);

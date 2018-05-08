@@ -261,6 +261,7 @@ public class PredictController extends Controller{
 				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";				
 				Object[] Res = null;
 				Res = tecRisk.tec(1, input, num1,num2,num3);
+				System.out.println(Res[0].toString());
 				renderJson("firstlyIndex",Res[0]);
 							
 			} catch (MWException e) {
@@ -439,6 +440,14 @@ public class PredictController extends Controller{
         int pageSize = getParaToInt("limit"); 
         String code = getPara("num");
         Page<Company> pages = service.paginats(pageIndex, pageSize, code);
+        renderPageForLayUI(pages,0,"操作成功");
+    }
+    public void getMethod_financial(){
+        int pageIndex = getParaToInt("page");
+        int pageSize = getParaToInt("limit"); 
+        String code = getPara("num");
+        Page<Company> pages = service.paginat_financial(pageIndex, pageSize, code);
+        System.out.println(pages);
         renderPageForLayUI(pages,0,"操作成功");
     }
     

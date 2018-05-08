@@ -41,7 +41,10 @@
                     <div class="or_left_silde" id="searchCondition" style="height: 300px">
                     
                     <div class="or_category">
-                          <p>建立模型进行动态预测分析报警</p>                                               
+                          <p>建立模型进行动态预测分析报警[财务数据]</p>
+                          <div class="panel-body">
+								<table class="layui-hide" id="financial"></table>
+    						</div>                                               
                     </div> 
                      </div>
                 </div>
@@ -76,6 +79,22 @@
 	      ,{field:'case_source', width:200, title: '涉诉类型',sort: true}
 	      ,{field:'identitys', title: '案件身份', minWidth: 150}
 	      ,{field:'case_num', title: '案件号', minWidth: 150}
+	    ]]
+	    ,page: true
+	  });
+  
+  table.render({
+	    elem: '#financial'
+	    ,url:'../getMethod_financial?num=#(code)'
+	    ,cols: [[
+	       {type:'numbers' ,title: '序号'}
+	       ,{field:'year', width:110, title: '年份',sort: true}
+		   ,{field:'oper_revenue', width:125, title: '营业收入(万元)', minWidth: 150}
+		   ,{field:'main_oper_revenue', width:145, title: '主营业收入(万元)', minWidth: 150}
+		   ,{field:'other_oper_revenue', width:160, title: '其他业务收入(万元)', minWidth: 150}
+		   ,{field:'oper_cost', width:140, title: '营业成本(万元)', minWidth: 150}
+		   ,{field:'main_oper_cost', width:140, title: '主营成本(万元)', minWidth: 150}
+		   ,{field:'other_oper_cost', width:140, title: '其他成本(万元)', minWidth: 150}
 	    ]]
 	    ,page: true
 	  });
