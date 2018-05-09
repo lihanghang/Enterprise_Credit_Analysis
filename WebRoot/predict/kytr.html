@@ -16,7 +16,7 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>企业科研投入推荐分析</b>
                     </div>
-                    <div class="or_left_silde" id="factors" style="height:720px;">
+                    <div class="or_left_silde" id="factors">
                         <div class="or_category">
                         <div class="page-header" style="height:20px">  
         					<small>输入投入指标数据</small>  
@@ -104,14 +104,14 @@
                         </div>
                    </div>
                 </div>                               
-                 <div class="sd_left_block">
+                 <div class="sd_left_block" >
                     <div class="sd_left_block_tit" style="color:green">
                         <b>结果分析及可视化</b>                       
                     </div>
-                    <div class="or_left_silde" id="result" style="height: 300px">  
+                    <div class="or_left_silde" id="result" style="height: 400px">  
                     <p id="msg"></p>                 
                     <div class="or_category" style="text-align:center" id="loading"></div>
-                     <p id="view"><div id="radar" style="width: 100%;height: 200px;"></div> </p>
+                     <p id="view"><div id="radar" style="width: 100%;height: 350px;"></div> </p>
                      </div>
                   
                 </div>
@@ -175,7 +175,7 @@ var kytr_data =  $('#kytr_data').serialize();
          	$("#msg").html(html);         
          //雷达图展示
          //先加载画布
-         $("#view").html("<div id=\"radar\" style=\"width: 100%;height: 200px;\"></div>");       
+         $("#view").html("<div id=\"radar\" style=\"width: 100%;height: 350px;\"></div>");       
          var radar = echarts.init(document.getElementById("radar"));
          	option = {
          		    tooltip: {},
