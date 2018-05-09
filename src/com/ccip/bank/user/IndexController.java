@@ -112,7 +112,6 @@ public class IndexController extends Controller {
 		
 		public void regist(){
 			
-			
 			render("/user/reg.html");
 		}
 		//@ActionKey("register")
@@ -170,7 +169,7 @@ public class IndexController extends Controller {
 				// 设置服务器端session
 				setSessionAttr(sessionId, user);
 				// 设置用户端cookie
-				setCookie("cuser", sessionId, 600);
+				setCookie("cuser", sessionId, 6000);
 				setAttr("user", user);
 				login();
 			}

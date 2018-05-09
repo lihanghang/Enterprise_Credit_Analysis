@@ -338,7 +338,8 @@ public class PredictController extends Controller{
 	        input[0] = paraBean.getSci_invest();
 	        input[1] = paraBean.getSci_invest()/paraBean.getReceipt_num();
 	        input[2] = paraBean.getEdu_num();
-	        input[3] = paraBean.getWork_num();	        
+	        input[3] = paraBean.getWork_num();
+	        
 	        output[0]= paraBean.getSoft_num();
 	        output[1]= paraBean.getPatent_num();
 	        output[2]= paraBean.getBrand_num();
@@ -346,7 +347,7 @@ public class PredictController extends Controller{
 	        output[4]= paraBean.getWeb_num();
 	        output[5]= paraBean.getProfit_num();
 	        records.put("new", new DeaRecord(output,input));
-	        System.out.println(System.getProperty("java.library.path"));
+	        //System.out.println(System.getProperty("java.library.path"));
 	        DataEnvelopmentAnalysis dea = new DataEnvelopmentAnalysis();
 	        Map<String, Double> results =null;
 			try {

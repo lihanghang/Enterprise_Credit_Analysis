@@ -214,7 +214,14 @@
                             <small style="font-size:15px">结果及分析</small>    
                         </div>
                         <p id="loading1" style="text-align: center;"></p>
-                         <p id="financialView"><div id="financial_show" style="width: 100%;height: 300px;"></div> </p>
+                         <div class="container">
+                                <div class="row">
+                                        <div class="col-md-6">    
+                                            <p id="financialView"><div id="financial_show" style="width: 100%;height: 350px;"></div> </p></div>
+                                            <div class="col-md-6"><p id="financialView1"><div id="financial_show1" style="width: 100%;height: 350px;"></div></p></div>
+                                </div>
+                                 
+                        </div>
  					</div>
  					
  					
@@ -404,9 +411,17 @@
                             <small style="font-size:15px">结果及分析</small>    
                         </div>
                         <p id="loading2" style="text-align: center;"></p>
-                         <p id="businessView"><div id="business_show" style="width: 100%;height: 300px;"></div> </p>
-               			    </div>  
-
+                        <div class="container">
+                                <div class="row">
+                        <div class="col-md-6">    
+                         <p id="businessView"><div id="business_show" style="width: 100%;height: 350px;"></div> 
+                         </p>
+                        </div>
+                        <div class="col-md-6"><p id="businessView"><div id="business_show1" style="width: 100%;height: 350px;"></div></p></div> 
+               			          </div>  
+                        </div>
+                        </div>
+                  
 
                         	<div class="tab-pane fade" id="tec">
                     			<div class="row">                    			
@@ -446,7 +461,7 @@
 									</div>
   									  <div  style="text-align:center" id="loading3"></div>									   										
   									  <p id="msg1"></p> 
-  									  <p id="view1"><div id="show1" style="width: 100%;height: 300px;"></div></p> 									 									  									
+  									  <p id="view1"><div id="show1" style="width: 100%;height: 350px;"></div></p> 									 									  									
   									</div>
 								</div>
                			    </div>                    
@@ -488,7 +503,7 @@
 									</div>  									
   									     <div  style="text-align:center" id="loading4"></div>									   										
   										 <p id="msg"></p> 
-  										 <p id="view"><div id="show" style="width: 100%;height: 300px;"></div></p>
+  										 <p id="view"><div id="show" style="width: 100%;height: 350px;"></div></p>
   									</div>
   									
 								</div>
@@ -503,30 +518,14 @@
                                         <!--  <p id="allView"><div id="allShow" style="width: 100%;height: 300px;"></div></p> -->
                                         <div class="container">
  <div class="row">
- <div class="col-md-6"><p id="allView2"><div id="allShow2" style="width: 100%;height: 300px;"></div></p></div>
- <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 100%;height: 300px;"></div></p></div>
+ <div class="col-md-6"><p id="allView2"><div id="allShow2" style="width: 100%;height: 350px;"></div></p></div>
+ <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 100%;height: 350px;"></div></p></div>
  </div>
  </div>                                                                             								
                			    </div>  
                         </div>
-                   </div>
-                   
-                   
-                   
-                   
-                </div>                               
-                 <!-- <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>结果及分析</b>
-                       
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">
-                    
-                    <div class="or_category" >
-                          <p>输出结果及结果说明</p>
-                     </div>
-                   </div>
-                </div> -->
+                   </div>                                                                    
+                </div>                             
             </div>
         
         </div>
@@ -563,17 +562,22 @@ $('#financialBtn').click(function(){
 	        beforeSend:function(XMLHttpRequest){
 	        	//$("#msg2").empty(); //加载前先清空结果信息
 	        	$("#financialView").empty(); //加载前先清空结果信息
+	        	$("#financialView1").empty(); //加载前先清空结果信息
 	            $("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
 	        	$("#loading1").empty();
 	        	//console.log(data);
+	        	var firstlyIndex = data['firstlyIndex']['data'];
 	        	var secondIndex = data['secondaryIndex']['data'];
-	        	console.log(secondIndex[0]);
+	        	console.log(firstlyIndex);
+	        	var percent = (firstlyIndex[0]*100).toFixed(2);
 	        	//可视化
 	        	var data = [secondIndex[0],secondIndex[1],secondIndex[2],secondIndex[3]];
-	        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 100%;height: 350px;\"></div>");
+	        	$("#financialView1").html("<div id=\"financial_show1\" style=\"width: 100%;height: 350px;\"></div>");
 	        	var financialChart = echarts.init(document.getElementById('financial_show'));
+	        	var financialChart1 = echarts.init(document.getElementById('financial_show1'));
 	        	option = {
 	        			
 	        		    /* title: {
@@ -582,6 +586,31 @@ $('#financialBtn').click(function(){
 	        		    tooltip: {
 	        		    	trigger: 'axis'
 	        		    },
+                        toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    legend: {
 	        		        data: ['财务风险指标']
 	        		    },
@@ -655,7 +684,49 @@ $('#financialBtn').click(function(){
 	        		        ]
 	        		    }]
 	        		};    	
-	        	financialChart.setOption(option, true);  		
+	        	
+	        	option_index = {
+	        		    tooltip : {
+	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    },
+	        		    toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
+	        		    series: [
+	        		        {
+	        		            name: '财务风险合成指标',
+	        		            type: 'gauge',
+	        		            radius: '80%',	  
+	        		            detail: {formatter:'{value}%',fontSize:17},
+	        		            data: [{value: percent, name: '财务风险率'}]
+	        		        }
+	        		    ]
+	        		};	
+	        	financialChart.setOption(option, true);  	
+	        	financialChart1.setOption(option_index, true);  		
+
 	        }	          	      	          
 	  });		
 });
@@ -687,24 +758,53 @@ $('#orgBtn').click(function(){
 	        beforeSend:function(XMLHttpRequest){
 	        	//$("#msg2").empty(); //加载前先清空结果信息
 	        	$("#businessView").empty(); //加载前先清空结果信息
+	        	$("#businessView1").empty(); //加载前先清空结果信息
 	            $("#loading2").html("<img src='../static/home/predict/images/loading.gif' />结果分析中，请稍后……"); //在后台返回success之前显示loading图标  
 	          },  
 	        success:function(data){
 	        	$("#loading2").empty();
+	        	var firstlyIndex = data['firstlyIndex']['data'];
 	        	var secondaryIndex = data['secondaryIndex']['data'];
 	        	var datas = [secondaryIndex[0], secondaryIndex[1], secondaryIndex[2]];
-	        	console.log(datas);
-	        	//var percent = (allIndex*100).toFixed(2);
+	        	console.log(firstlyIndex);
+	        	var percent = (firstlyIndex[0]*100).toFixed(2);
 	        	 
 	        		        	        		        	
 	        	//可视化
-	        	$("#businessView").html("<div id=\"business_show\" style=\"width: 100%;height: 300px;\"></div>");
-	        	var businessChart = echarts.init(document.getElementById('business_show'));	        	
+	        	$("#businessView").html("<div id=\"business_show\" style=\"width: 100%;height: 350px;\"></div>");
+	        	$("#businessView1").html("<div id=\"business_show1\" style=\"width: 100%;height: 350px;\"></div>");
+	        	var businessChart = echarts.init(document.getElementById('business_show'));	
+	        	var businessChart1 = echarts.init(document.getElementById('business_show1'));
 	        	option = {
 	        		    /* title: {
 	        		        text: '财务风险评估分析'
 	        		    }, */
 	        		    tooltip: {},
+                        toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    legend: {
 	        		        data: ['经营风险指标']
 	        		    },
@@ -723,7 +823,7 @@ $('#orgBtn').click(function(){
 	        		           { name: '司法', max: 1},
 	        		           { name: '组织', max: 1} 		        
 	        		        ],
-	        		        radius : 120 //半径，可放大放小雷达图
+	        		        radius : 130 //半径，可放大放小雷达图
 	        		    },
 	        		    series: [{
 	        		        name: '风险指数',
@@ -758,7 +858,47 @@ $('#orgBtn').click(function(){
 	        		        ]
 	        		    }]
 	        		};   
+	        	
+	        	option_index = {
+	        		    tooltip : {
+	        		        formatter: "{a} <br/>{b} : {c}%"
+	        		    },
+	        		    toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },ies: [
+	        		        {
+	        		            name: '经营风险合成指标',
+	        		            type: 'gauge',
+	        		            radius: '80%',	  
+	        		            detail: {formatter:'{value}%',fontSize:17},
+	        		            data: [{value: percent, name: '经营风险率'}]
+	        		        }
+	        		    ]
+	        		};
 	        	businessChart.setOption(option, true);
+	        	businessChart1.setOption(option_index, true);
 	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
 	        }	          	      	          
 	  });		
@@ -805,18 +945,37 @@ $('#riskCompetitionBtn').click(function(){
 	        	
 	        		        	        		        	
 	        	//可视化
-	        	$("#view").html("<div id=\"show\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#view").html("<div id=\"show\" style=\"width: 100%;height: 350px;\"></div>");
 	        	var myChart = echarts.init(document.getElementById('show'));
 	        	option = {
 	        		    tooltip : {
 	        		        formatter: "{a} <br/>{b} : {c}%"
 	        		    },
 	        		    toolbox: {
-	        		        feature: {
-	        		            restore: {},
-	        		            saveAsImage: {}
-	        		        }
-	        		    },
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    series: [
 	        		        {
 	        		            name: '市场竞争风险指标',
@@ -873,18 +1032,37 @@ $('#tecBtn').click(function(){
 	        	
 	        		        	        		        	
 	        	//可视化
-	        	$("#view1").html("<div id=\"show1\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#view1").html("<div id=\"show1\" style=\"width: 100%;height: 350px;\"></div>");
 	        	var myChart1 = echarts.init(document.getElementById('show1'));
 	        	option = {
 	        		    tooltip : {
 	        		        formatter: "{a} <br/>{b} : {c}%"
 	        		    },
 	        		    toolbox: {
-	        		        feature: {
-	        		            restore: {},
-	        		            saveAsImage: {}
-	        		        }
-	        		    },
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    series: [
 	        		        {
 	        		            name: '技术指标',
@@ -946,8 +1124,8 @@ $('#allIndex').click(function(){
 	        	 var index1 = [firstlyIndex[0], firstlyIndex[1], firstlyIndex[2], firstlyIndex[3]];
 	        	 //var index2 = [secondaryIndex_1[0], secondaryIndex[1], secondaryIndex[2], secondaryIndex[3], data2[2],data2[3]]
 	        	//可视化	
-	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 100%;height: 300px;\"></div>");
-	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 100%;height: 300px;\"></div>");
+	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 100%;height: 350px;\"></div>");
+	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 100%;height: 350px;\"></div>");
 	        	var businessChart1 = echarts.init(document.getElementById('allShow1'));
 	        	var businessChart2 = echarts.init(document.getElementById('allShow2'));
 	    /*     	alloption = {
@@ -976,6 +1154,31 @@ $('#allIndex').click(function(){
 	        		        text: '财务风险评估分析'
 	        		    }, */
 	        		    tooltip: {},
+                        toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    legend: {
 	        		        data: ['一级指标风险指标']
 	        		    },
@@ -1030,13 +1233,37 @@ $('#allIndex').click(function(){
 	        		        ]
 	        		    }]
 	        		};   
-	        	
-	        	
+	        		        	
 	        	option2 = {
 	        		    /* title: {
 	        		        text: '财务风险评估分析'
 	        		    }, */
 	        		    tooltip: {},
+                        toolbox: {
+                            feature: {
+                            restore: {
+                                 show: true,                         //是否显示该工具。
+                                 title:"还原",
+                            },
+                            saveAsImage: {
+                                show: true,                         //是否显示该工具。
+                                title:"保存为图片",
+                                pixelRatio:1  
+                            },
+                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                    show: true,                         //是否显示该工具。
+                                    title:"数据视图",
+                                    readOnly: false,                    //是否不可编辑（只读）
+                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                    backgroundColor:"#fff",             //数据视图浮层背景色。
+                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                    textColor:"#000",                    //文本颜色。
+                                    buttonColor:"#c23531",              //按钮颜色。
+                                    buttonTextColor:"#fff",             //按钮文本颜色。
+                                }
+                            }
+                        },
 	        		    legend: {
 	        		        data: ['二级指标风险指标']
 	        		    },
@@ -1103,13 +1330,4 @@ $('#allIndex').click(function(){
 	        }
 	  });		
 });
-
-
-
-
-
-
-
 </script>
-
-
