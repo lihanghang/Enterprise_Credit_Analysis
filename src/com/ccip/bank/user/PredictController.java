@@ -456,7 +456,8 @@ public class PredictController extends Controller{
     public void getAllCompany() {
     	int pageIndexs = getParaToInt("page");
         int pageSizes  = getParaToInt("limit"); 
-        Page<Company> page_all = service.paginats_all_company(pageIndexs, pageSizes);
+        String cname   = getPara("KeyWords");
+        Page<Company> page_all = service.paginats_all_company(pageIndexs, pageSizes, cname);
         renderPageForLayUI(page_all,0,"操作成功");
     }
     

@@ -16,8 +16,14 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>贷后预警监控企业</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 600px">						
-							<table class="layui-hide" id="test"></table>                         
+                    <div class="or_left_silde" id="searchCondition" style="height: 600px">            
+			<div class="demoTable">  
+                <div class="layui-inline">  
+                    <input name="id" class="layui-input" id="keyword" placeholder="请输入查询企业名称关键字">  
+                </div>  
+                <button class="layui-btn" data-type="reload" style="padding-left:10px" onclick="initTable();">搜索</button>  
+            </div> 
+							<table class="layui-hide" id="test" lay-filter="test"></table>                         
                 </div>                               
                 <!--  <div class="sd_left_block">
                     <div class="sd_left_block_tit">
@@ -48,6 +54,12 @@
    <a style="text-align:center" class="layui-btn layui-btn-xs" lay-event="edit" href="./dhyjContent/?num={{d.code}}&name={{d.cname}}">监控详情</a>
 </script>  
 <script>
+$(document).ready(function () {  
+	  
+    initTable();  
+});  
+
+function initTable() {  
 layui.use('table', function(){
   var table = layui.table
   ,form = layui.form;
@@ -55,19 +67,22 @@ layui.use('table', function(){
   table.render({
 	 elem: '#test'
     ,url: './getAllCompany'
+    ,where: { KeyWords: $("#keyword").val()}
+    ,method: 'post'
+    ,loading: true 
     ,cellMinWidth: 100
-    ,height: 'full-195'
     ,cols: [[
        {type:'numbers', title: '序号'}
       /* {checkbox: true, fixed: true}
       ,{field:'id', title: 'ID', width:80, sort: true, fixed: true} */
-      ,{field:'cname', title: '企业名称', align:'center', sort: true, width:300}
+      ,{field:'cname', title: '企业名称', align:'center', sort: true, width:300	}
       ,{field:'industry', title: '所处行业', width:250, align:'center', sort: true}
       ,{field:'rank', title:'预警级别', width:200, align:'center', templet: '#switchTpl', unresize: true}
       ,{field:'lock', title:'是否监测', width:200, align:'center',templet: '#checkboxTpl', unresize: true}
       ,{fixed: 'right', title:'操作',width:178, align:'center', toolbar: '#barDemo'}
     ]]
     ,page: true
+    ,height: 500
   });
   
   //监听性别操作
@@ -79,8 +94,11 @@ layui.use('table', function(){
   form.on('checkbox(lockDemo)', function(obj){
     layer.tips(this.value + ' ' + this.name + '：'+ obj.elem.checked, obj.othis);
   });
+
+
 });
 
+}
 
 
 

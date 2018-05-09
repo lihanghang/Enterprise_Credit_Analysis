@@ -39,17 +39,17 @@ public class CompanyService {
 	}
 
 	//0426 get all company to warning page @hang
-	public Page<Company> paginats_all_company(int pageNumber, int pageSize){ 
+	public Page<Company> paginats_all_company(int pageNumber, int pageSize, String cname){ 
 		// 基本SQL语句
         String sql = "SELECT * FROM en_all_company";
 		// 动态条件的SQL语句
         String itemSql = "";
         //通过企业名称进行查询[根据需求待实现]
-        String cname = "";
         if (cname != null && cname.length() != 0) {
-            itemSql += 	 "and cname like '%" + cname + "%'";
+            itemSql = " where cname like '%" + cname + "%'";
         }
-		return dao.paginate(pageNumber, pageSize,"select * ","from en_all_company"); 		
+        System.out.println(itemSql);
+		return dao.paginate(pageNumber, pageSize, "SELECT *","FROM en_all_company where  cname like ?","%"+cname+"%"); 		
 	}
 
 	
