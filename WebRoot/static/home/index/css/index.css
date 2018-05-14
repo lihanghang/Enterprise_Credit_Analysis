@@ -1,0 +1,195 @@
+@charset "utf-8";
+/*重置*/
+body,h1,h2,h3,dl,dd,dt,p,ul,li,ol{ margin:0; padding:0;}
+button,input,select,textarea{border:none; margin:0;outline:none; padding:0;background: none;}
+h1,h2,h3{ font-weight:normal;}
+img{ border:none;}
+a{text-decoration:none; outline:none;}
+body{ font:14px/1.5; font-family:"Microsoft YaHei";}
+li{ list-style-type:none;}
+
+
+/*css雪碧图*/
+/* .img{background:url(./static/home/index/images/images/img.png) no-repeat ;} */
+.xjt_l{height:20px;width:18px;background-position:-136px -64px;}
+.xjt_r{height:20px;width:18px;background-position:-112px -64px;}
+.more_grid{height:18px;width:21px;background-position:-160px -64px;}
+.dh_01HOME{height:28px;width:24px;background-position:0 0;}
+.dh_04GRID{height:28px;width:24px;background-position:-81px 0;}
+.dh_03TARGET{height:28px;width:24px;background-position:-54px 0;}
+.dh_02COMPASS{height:28px;width:24px;background-position:-27px 0;}
+.dh_05NOTEPAD{height:28px;width:24px;background-position:-108px 0;}
+.dh_06PEN{height:28px;width:24px;background-position:-135px 0;}
+.dh_07USER{height:28px;width:24px;background-position:-162px 0;}
+.qweix{height:34px;width:34px;background-position:0 -120px;}
+.qweibo{height:34px;width:34px;background-position:-37px -120px;}
+.qq{height:34px;width:34px;background-position:-74px -120px;}
+.foot_tel{height:24px;width:24px;background-position:-112px -120px;}
+.jt_right{height:50px;width:50px;background-position:-53px -63px;}
+.jt_left{height:50px;width:50px;background-position:0 -63px;}
+
+/*header*/
+.top_bg{
+	height:125px;
+	box-shadow: 0 1px 5px #888;
+	background-color: #ffffff;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=113, Color='#888888')";/*ie8,需和背景颜色共同使用,超出部分会隐藏*/
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+}
+.top_line{
+	height: 30px;
+	width: 100%;
+	background-color: #443e3b;
+}
+.top_line p{
+	width: 1300px;
+	margin:0 auto;
+	line-height: 30px;
+	color: #fff;
+	font-size: 12px;
+}
+.top_line p a{
+	float: right;
+}
+.top_line p a img{
+	vertical-align: middle;
+	margin-right: 5px;
+	margin-top:-2px;
+}
+.top_main{
+	width: 1300px;
+	margin:0 auto;
+}
+.top_logo{
+	float: left;
+	max-width: 500px;
+	height: 70px;
+	margin-top: 15px;
+}
+.top_logo img{
+	width: 100%;
+	display: block;
+}
+
+/*导航*/
+.dh_bg{
+	max-width: 780px;
+	float: right;
+	position: relative;
+}
+.dh_bg ul:after{
+	display:table; content:''; clear:both;/*清除浮动*/
+}
+.dh_bg ul li{
+	float: left;
+	width: 100px;
+	text-align: center;
+	position: relative;
+	z-index: 5;
+}
+.dh_bg ul li>a{
+	 font-size: 16px;
+	 color: #000000;
+	 display: block;
+	 height: 68px;
+	 padding-top: 22px;
+}
+.dh_bg ul li>a i{
+	display: block;
+	margin:0 auto;
+	width: 24px; 
+	height: 28px;
+	background-position-y:0;
+	transition:background-position-y .3s;
+	-moz-transition:background-position-y .3s; /* Firefox 4 */
+	-webkit-transition:background-position-y .3s; /* Safari and Chrome */
+	-o-transition:background-position-y .3s; /* Opera */ 
+}
+.dh_bg ul li>a span{
+	display: block;
+	height: 16px;
+	line-height: 16px;
+	margin-top: 6px;
+	overflow: hidden;
+}
+.dh_bg_cur{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	width: 100px;
+	overflow: hidden;
+}
+.dh_bg_cur img{
+	display: block;
+	position: relative;
+	left: 50%;
+	margin-left: -43px;
+}
+.dh_bg ul li.cur>a{
+	color: #fff;
+}
+.dh_bg ul li.cur>a i{
+	background-position-y:-28px; 
+}
+
+.two_nav_box{
+	position: relative;
+	position: absolute;
+	width: 1300px;
+	right: 0;
+}
+.two_nav_box .two_nav{
+	position: absolute;
+	right: 0;
+	overflow: visible;
+	background-color: #ffffff;
+	box-shadow: 0 0 6px #888888;
+	border-radius: 3px;
+	padding:10px 0;
+	display: none;
+}
+.two_nav_box .two_nav dl{
+	float: left;
+	padding:0 20px;
+	position: relative;
+}
+.two_nav_box .two_nav dl dt{
+	font-size: 15px;
+	line-height: 30px;
+}
+.two_nav_box .two_nav dl dt a{
+	color: #3385cc;
+	font-weight: bold;
+}
+.two_nav_box .two_nav dl i{
+	position: absolute;
+	left: 0;
+	width: 1px;
+	height: 100%;
+	/* background:url(./static/home/index/images/images/menu_line.png) no-repeat center center; */
+	background-size: 1px 100%;
+}
+.two_nav_box .two_nav>div dl:first-child i{
+	display: none;
+}
+.two_nav_box .two_nav>span{
+	position: absolute;
+	right: 24px;
+	top: -13px;
+	width: 37px; 
+	height: 13px;
+	/* background: url(./static/home/index/images/images/menu_xsj.png) no-repeat center center; */
+}
+
+.two_nav_box .two_nav dl dd a{
+	font-size: 12px;
+	color: #999;
+	line-height: 26px;
+}
+.two_nav_box .two_nav dl dd:hover a{
+	color: #3385cc;
+	text-decoration:underline;
+}

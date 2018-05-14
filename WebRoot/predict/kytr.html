@@ -113,15 +113,15 @@
                     	 <div class="container">
                             <div class="row">
                         		<div class="col-md-6">  
-                        		<div class="page-header">
+                        		<!-- <div class="page-header">
   								<small style="font-size:15px">科研投入优良率</small> 										 
-							    </div>  
+							    </div>   -->
                          			<p id="view"><div id="radar" style="width: 100%;height: 350px;"></div> </p>
                         		</div>
                         		
-                        		<div class="col-md-6"><div class="page-header">
+                        		<div class="col-md-6"><!-- <div class="page-header">
   								<small style="font-size:15px">科研投入推荐建议</small> 										 
-							    </div>
+							    </div> -->
 							     <p id="msg"></p>
 							     </div> 
                			    </div>  
@@ -161,12 +161,20 @@ var kytr_data =  $('#kytr_data').serialize();
         beforeSend:function(XMLHttpRequest){
         	$("#msg").empty(); //加载前先清空结果信息
         	$("#view").empty() ;//加载前先清空已有信息
-            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
-          },  
+            //$("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+        	 layui.use(['layer', 'form'], function(){
+        		 index = layer.load(1, {shade: 0.06});
+         });
+        },  
         success:function(data){//请求成功之后的操作
         	var ccr = (data['ret']*100).toFixed(2);
             console.log(data['ret']);
-            $("#loading").empty(); //ajax返回成功，清除loading图标  
+          /*   $("#loading").empty(); //ajax返回成功，清除loading图标   */
+           layui.use(['layer', 'form'], function(){
+                		var layer = layui.layer
+                		layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+                });
        	 	var html = ''; 
             var guidInfo = "";
             var subInfo = "";

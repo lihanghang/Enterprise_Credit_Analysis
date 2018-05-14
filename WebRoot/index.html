@@ -18,13 +18,16 @@
 		<!-- <link rel="stylesheet" type="text/css" href="./resource/own/css/my.css" /> -->
         <!--Theme Responsive css-->
         <link rel="stylesheet" href="./static/home/index/css/responsive.css" />
-        <script src="./static/home/index/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-       <!--  <script type="text/javascript" src="./static/home/index/js/my.js"></script>  	 -->
+        
+        <link rel="stylesheet" href="./static/home/index/css/index.css" type="text/css">
+
+
+        
     </head>
  <style>
     
 
-  input::-webkit-input-placeholder {
+ input::-webkit-input-placeholder {
   
   		font-size: 18px;
   		text-align:left;
@@ -34,34 +37,38 @@
     
 </style>
     <body>
-        <nav class="navbar navbar-default">
-            <div class="container">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button> -->
-                    <a class="navbar-brand" href="" ><img src="./static/home/index/images/logo.jpg" alt="img" /></a>
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
-                    <ul class="nav navbar-nav navbar-right">
-                      <!--   <li class="active"><a href="#home"></a></li> -->
-                      <!--   <li><a href="./search/">企业信息查询</a></li> -->
-                        <li><a href="./predict/xypj">智能化分析</a></li>
-                        <li id="login"><a href="./login">登录</a></li>
-                        <li class = "active"  id = "userName" value="#(session.user)"  style="display:none;"><a href="#"><span style="color:red">欢迎您：#(session.user)</span> </a> </li>
-                        <li  class = "active" id = "loginOut" style="display:none;"><a href="./logout">退出登录</a></li>
-              
+    
+    <div class="top_bg" id="top_bg">	
+    <div class="top_line">
+		<p style="margin-right:20px">
+	 <span id = "loginOut" style="display:none;font-size:15px;"><a href="./logout"><span style="color:#fff;">退出系统</span></a>  </span>
+     <span id = "userName" value="#(session.user)"  style="display:none;color:#fff;float:right;font-size:15px">欢迎您:#(session.user)||</span> 
+	 <a id="login" style="color:#fff;font-size:15px" href="./login">用户登录</a>
+		</p>	
+			
+		
+	</div> 
+	<div class="top_main">
+		<div class="top_logo">
+			<a href='./'><img src="./static/home/index/images/logo.jpg"></a>
+		</div>
+		<!-- 导航 -->
+		<div class="dh_bg">                
+                    <ul >
+                        <li  class="cur" ><a href="#home"><span>系统首页</span></a></li>
+                        <li><a href="#"><span>关系图谱</span> </a></li>
+                        <li><a href="./predict/xypj"><span>智能分析</span></a></li>                                 
                     </ul>
-                </div><!-- /.navbar-collapse -->
-            </div><!-- /.container-fluid -->
-        </nav>
+                     <div class="dh_bg_cur">
+	        	<img src="./static/home/index/images/images/nav_cur.png">
+	        </div>              
+		</div>
+		<!-- 导航菜单 end -->
+	</div>
+</div>
+      
+        
+        
         <!--Home page style-->
         <header id="home" class="home">
             <div class="overlay-fluid-block">
@@ -77,9 +84,9 @@
                                         <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
            <div class="home-contact">                                             				
 								<div class="input-group">
-								<form name="loginform" method="POST" id="loginform" action="search/">
-                                   	<input type="text" name="keyWord" autoComplete='off' id="search" class="form-control" placeholder="输入公司名称、行业、成立时间、注册地址等关键字">
-                               	 	<input type="submit" id='btn' class="form-control" value="查询"> 
+								<form name="loginform" method="POST" id="loginform" action="search/" onsubmit="return isNull();">								
+                                   	<input type="text" name="keyWord" value="" autoComplete='off' id="search" class="form-control" placeholder="输入公司名称、行业、成立时间、注册地址等关键字">
+                               	 	<input type="submit" id='btn' class="form-control" value="查询" > 
                                   <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
                                 </form> 
                                 </div>
@@ -448,6 +455,8 @@
         <script src="./static/home/index/js/plugins.js"></script>
         <script src="./static/home/index/js/modernizr.js"></script>
         <script src="./static/home/index/js/main.js"></script>
+         <script src="./static/home/index/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+         <script type="text/javascript" src="./static/home/index/js/public.js"></script>
        <script type="text/javascript" >
        			var name = $('#userName').attr("value"); 
        			//console.log(name);
@@ -459,16 +468,16 @@
        			}
        		
                 //实时监听是否键入搜索条件，默认不可点击 0327 by Mason
-                document.getElementById("btn").disabled=true;
-                $(function(){  
-                    $('#search').bind('input propertychange', function() {                     	
-                        var info = $(this).val();
-                        if(info.length != 0)
-                        {
-                        	document.getElementById("btn").disabled=false;
-                        }
-                })
-            })  
+               
+               function isNull(){
+                	var text = document.getElementById("search").value;
+                	console.log(text)
+                	if(text==""){//当上面获取的值为空时
+                	     alert("您输入的搜索条件过于模糊，请重新输入！");//弹出提示
+                	     return false;//返回false（不提交表单）
+                	   }
+                	   return true;//提交表单
+            }  
     	</script>
      
     </body>

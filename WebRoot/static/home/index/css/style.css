@@ -9,8 +9,8 @@ body {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    font-family: 'kaiti';
-    font-weight: 500;
+    font-family:"Microsoft YaHei";
+    font-weight: normal;
 }
 
 img {
@@ -579,7 +579,6 @@ textarea::-ms-input-placeholder
 }
 .home-content h1{
     font-size:48px;
-    font-weight:700;
     margin-bottom: 0px;
     color: #fff;
 }
@@ -605,6 +604,7 @@ textarea::-ms-input-placeholder
 }
 .home-content .home-contact input[type="text"]{
     color:#000000;
+    border-radius:15px;
 }
 .home-content .home-contact input[type="submit"]{
     display:inline-block;
@@ -614,6 +614,7 @@ textarea::-ms-input-placeholder
     font-weight:900;
     border: 1px;
     font-size:20px;
+    border-radius:9px;
     
 }
 .home-content .home-contact input[type="submit"]:hover{

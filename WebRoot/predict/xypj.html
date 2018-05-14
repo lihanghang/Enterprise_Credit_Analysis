@@ -77,12 +77,12 @@
                         </div>
                    </div>
                 </div>                               
-                 <div class="sd_left_block">
+                 <div class="sd_left_block" id="resultsView" style="display:none">
                     <div class="sd_left_block_tit" style="color:green">
                         <b>结果及分析</b>
                        
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="">                   
+                    <div class="or_left_silde" id="searchCondition" >                   
                      <div class="or_category" style="text-align:center" id="loading"></div>
                      <p id="msg"></p> 
                  <div class="row"><!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
@@ -142,21 +142,23 @@ $('#btn').click(function(){
 	        },
 	        beforeSend:function(XMLHttpRequest){
 	        	$("#msg").empty(); //加载前先清空结果信息
-	            $("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
-	          },  
+	            //$("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	        	 layui.use(['layer', 'form'], function(){
+	        		 index = layer.load(1, {shade: 0.06});
+	         });
+	        },  
 	        success:function(data){
 	        	//console.log(data.map['debt']);
 	        	//成功接收后台返回数据进行其他处理操作
-	        	$("#loading").empty(); //清除加载数据
+	        	layui.use(['layer', 'form'], function(){
+                		var layer = layui.layer
+                		layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+                });
+	        	document.getElementById("resultsView").style.display="block";//显
+	        	/* $("#loading").empty(); //清除加载数据 */
 	        	var CQ = data.lst[0];
-	        	//console.log(data);
-	        	
-	        	
-	        
-	        
-	          
-	          
-	          
+	        	//console.log(data);        		        		        	        	          	          	          
 	         //四分位图展示评级企业的数据情况0411
 	          // 基于准备好的dom，初始化echarts实例
 	         var myChart = echarts.init(document.getElementById('debt'));
@@ -355,7 +357,7 @@ option = {
 	        		            name: '企业指标所处位置',
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
-	        		            color:"#7CCD7C",
+	        		            color:"#00FF00",
 	        		            data: datas1.outliers
 	        		        }
 	        		    ]
@@ -428,7 +430,7 @@ option = {
 			        		        	})(),	        		        	
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
-	        		            color:"#7CCD7C",
+	        		            color:"#00FF00",
 	        		            data: datas2.outliers
 	        		        }
 	        		    ]
@@ -491,7 +493,7 @@ option = {
 	        		            name: '企业指标所处位置',
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
-	        		            color:"#7CCD7C",
+	        		            color:"#00FF00",
 	        		            data: datas3.outliers
 	        		        }
 	        		    ]
@@ -554,7 +556,7 @@ option = {
 	        		            name: '企业指标所处位置',
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
-	        		            color:"#7CCD7C",
+	        		            color:"#00FF00",
 	        		            data: datas4.outliers,
 	        		            label: {
 	        		                show: true,
@@ -634,7 +636,7 @@ option = {
 		        		        data:datas5.outliers,
 	        		            type: 'effectScatter',
 	        		            symbolSize:15, 
-	        		            color:"#7CCD7C",
+	        		            color:"#00FF00",
 	        		            //data: datas5.outliers,
 	        		        }
 	        		    ]
