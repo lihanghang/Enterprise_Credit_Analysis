@@ -45,10 +45,8 @@ public class CompanyService {
 		// 动态条件的SQL语句
         String itemSql = "";
         //通过企业名称进行查询[根据需求待实现]
-        if (cname != null && cname.length() != 0) {
-            itemSql = " where cname like '%" + cname + "%'";
-        }
-        System.out.println(itemSql);
+        itemSql = " where cname like '%" + cname + "%'";
+        //System.out.println(itemSql);
 		return dao.paginate(pageNumber, pageSize, "SELECT *","FROM en_all_company where  cname like ?","%"+cname+"%"); 		
 	}
 

@@ -19,7 +19,7 @@
             <b class="caret"></b>
         </a>
         <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-            <li ><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
+            <li class="active" ><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
             <li><a href="#yingli" tabindex="-1" data-toggle="tab">盈利能力</a></li>
             <li><a href="#zengzhang" tabindex="-1" data-toggle="tab">增长潜力</a></li>
             <li><a href="#changzhai" tabindex="-1" data-toggle="tab">偿债能力</a></li>
@@ -122,19 +122,12 @@
                 </div>                               
                  <div class="sd_left_block">
                     <div class="sd_left_block_tit">
-                        <b>结果及分析</b>
-                       
+                        <b>市场分析报告</b>                      
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">
-                    
-                    <div class="or_category">
-                          <p>输出结果及结果说明</p>
-                          
-                          
-                          
-                    </div>
-                     
-                         
+                    <div class="or_left_silde" id="searchCondition" style="height: 300px">                 
+                    	<div class="or_category">
+                          	<p>图表说明</p>                                                                            
+                    	</div>                                              
                      </div>
                 </div>
               <!-- <div class="sd_left_block">
@@ -147,13 +140,6 @@
 </div>
 #end
 
-<!-- <script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-    var search = new Shuidi.PCSearch();
-    search.init();
-	
-</script> -->
 <!-- 行业动态数据异步加载请求：财务预警 -->
 <script>
 var sum = function(x,y){ return x+y;};　　//求和函数
@@ -207,14 +193,7 @@ return info;
 		            lineStyle: {
 		                color: '#000'
 		            }
-		        },
-		       
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+		        }
 		    },
 		    toolbox: {
                 feature: {
@@ -248,57 +227,28 @@ return info;
             },
 		    legend: {
 		        left:"20",
-		        //orient: 'ver',
 		        data: ['盈利能力','偿债能力','经营效率','增长潜力']
 		    },
 		    xAxis: {
 		        type: 'category',
 		        name:'年份',
 		        data: [],
-		        boundaryGap: false,
+		        boundaryGap: true,
 		        splitLine: {
 		            show: true,
 		            interval: 'auto',
 		            lineStyle: {
 		                color: ['#D4DFF5']
 		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
 		        }
 		    },
 		    yAxis: [{
 		        type: 'value',
 		        name:'指数',
+		        interval: 3,
 		        splitLine: {
 		            lineStyle: {
 		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
 		            }
 		        }
 		    },{
@@ -310,21 +260,6 @@ return info;
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
                 }
             }],
 		    series: [
@@ -332,39 +267,97 @@ return info;
 		        name: '盈利能力',
 		        type: 'line',
 		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        markArea: {
+		            data: [
+		              [{
+		                yAxis: 18,
+		                itemStyle: {
+		                  normal: {
+		                    color: 'rgba(183,234,209,0.7)'
+		                  }
+		                }
+		              }, {
+		                yAxis: 21
+		              }],
+		              [{
+		                yAxis: 18,
+		                itemStyle: {
+		                  normal: {
+		                    color: 'rgba(175,214,254,0.7)'
+		                  }
+		                }
+		              }, {
+		                yAxis: 15
+		              }],
+		              [{
+		                yAxis: 15,
+		                itemStyle: {
+		                  normal: {
+		                    color: 'rgba(183,226,234,0.7)'
+		                  }
+		                }
+		              }, {
+		                yAxis: 12
+		              }],
+		              [{
+		                yAxis: 12,
+		                itemStyle: {
+		                  normal: {
+		                    color: 'rgba(244,228,199,0.7)'
+		                  }
+		                }
+		              }, {
+		                yAxis: 9
+		              }],
+		              [{
+		                // name: 'E',
+		                yAxis: 9,
+		                itemStyle: {
+		                  normal: {
+		                    color: 'rgba(254,201,219,0.7)'
+		                  }
+		                }
+		              }, {
+		                yAxis: 6
+		              }],
+		              [{
+			                // name: 'E',
+			                yAxis: 6,
+			                itemStyle: {
+			                  normal: {
+			                    color: 'rgba(254,235,219,0.7)'
+			                  }
+			                }
+			              }, {
+			                yAxis: 3
+			              }],
+			              [{
+				                // name: 'E',
+				                yAxis: 3,
+				                itemStyle: {
+				                  normal: {
+				                    color: 'rgba(254,224,219,0.7)'
+				                  }
+				                }
+				              }, {
+				                yAxis: 0
+				              }]
+		            ]
+		          },
+		        data: [],		        
 		        itemStyle: {
 		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
+		                color: '#f7b851',		              		                
 		            }
 		        }
 		    }, {
 		        name: '偿债能力',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        data: [],		        
 		        itemStyle: {
 		            normal: {
-		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
+		                color: '#58c8da',	               
 		            }
 		        }
 		    }
@@ -372,19 +365,11 @@ return info;
                 name: '经营效率',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
                     normal: {
                         color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
                     }
                 }
             }
@@ -392,22 +377,15 @@ return info;
                 name: '增长潜力',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 yAxisIndex:1,
                 data: [],
                 
                 itemStyle: {
                     normal: {
-                        color: '#5793f3'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
+                        color: '#5793f3',                       
                     }
                 }
+ 
             }
 
             ]
@@ -453,16 +431,16 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-                data: years
+               data: years
             },
             series: [{
-                name: "盈利能力",  data: profit
+                data: profit
             }, {
-                name: "偿债能力",  data: debt
+               data: debt
             }, {
-                name: "经营效率",  data: manager
+                data: manager
             }, {
-                name: "增长潜力",  data: increase
+                data: increase
             }]
         });
     },
@@ -495,14 +473,7 @@ pie3.setOption(option);
 		            lineStyle: {
 		                color: '#000'
 		            }
-		        },
-		       
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+		        }
 		    },
 		    toolbox: {
                 feature: {
@@ -543,26 +514,12 @@ pie3.setOption(option);
 		        type: 'category',
 		        name:'年份',
 		        data: [],
-		        boundaryGap: false,
+		        boundaryGap: true,
 		        splitLine: {
 		            show: true,
 		            interval: 'auto',
 		            lineStyle: {
 		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
 		            }
 		        }
 		    },
@@ -575,60 +532,31 @@ pie3.setOption(option);
 		            }
 		        },
 		        min:'-25',
-		        max:'95',
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
+		        max:'95'
 		    },
 		    series: [
             {
 		        name: '增长潜力',
 		        type: 'line',
 		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        data: [],	        
 		        itemStyle: {
 		            normal: {
 		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
 		            }
 		        }
 		    }, {
 		        name: '偏冷',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        data: [],	        
 		        itemStyle: {
 		            normal: {
 		                color: '#58c8da',
 		                lineStyle: {                            
                             width:3,
                             type:'dotted'  //'dotted'虚线 'solid'实线
-                    }
+                    		}
 		            }
 		        },
 		    }
@@ -636,18 +564,14 @@ pie3.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
+                data: [],             
                 itemStyle: {
                     normal: {
                         color: '#d14a61',
                         lineStyle: {                            
                             width:3,
                             type:'dotted'  //'dotted'虚线 'solid'实线
-                    }
+                    	}
                     }
                 },
             }]
@@ -694,11 +618,11 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "增长潜力",  data: increase
+                 data: increase
             }, {
-                name: "偏冷",  data: compute[0]
+                 data: compute[0]
             }, {
-                name: "适度下限",  data: compute[1]
+                 data: compute[1]
             }]
         });
     },
@@ -731,14 +655,7 @@ pie6.setOption(option);
 		            lineStyle: {
 		                color: '#000'
 		            }
-		        },
-		        
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+		        }
 		    },
 		    toolbox: {
                 feature: {
@@ -786,20 +703,6 @@ pie6.setOption(option);
 		            lineStyle: {
 		                color: ['#D4DFF5']
 		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
 		        }
 		    },
 		    yAxis: {
@@ -811,32 +714,13 @@ pie6.setOption(option);
 		            }
 		        },
 		        max: '20',
-                min:'0',
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
+                min:'0'
 		    },
 		    series: [
             {
 		        name: '偿债能力',
 		        type: 'line',
 		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
 		        data: [],
 		        
 		        itemStyle: {
@@ -852,19 +736,10 @@ pie6.setOption(option);
 		        name: '偏冷',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        data: [],		        
 		        itemStyle: {
 		            normal: {
 		                color: '#58c8da'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
 		            }
 		        }
 		    }
@@ -872,9 +747,6 @@ pie6.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: true, 
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -928,11 +800,11 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "偿债能力",  data: debt
+                data: debt
             }, {
-                name: "偏冷",  data:compute[0]
+                data: compute[0]
             }, {
-                name: "适度下限",  data: compute[1]
+                data: compute[1]
             }]
         });
     },
@@ -965,13 +837,6 @@ pie7.setOption(option);
 		                color: '#000'
 		            }
 		        },
-		        
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
 		    },
 		    toolbox: {
                 feature: {
@@ -1019,20 +884,6 @@ pie7.setOption(option);
 		            lineStyle: {
 		                color: ['#D4DFF5']
 		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
-		            }
 		        }
 		    },
 		    yAxis: {
@@ -1045,41 +896,17 @@ pie7.setOption(option);
 		        },
 		        max: '17',
                 min:'9',
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
+
 		    },
 		    series: [
             {
 		        name: '盈利能力',
 		        type: 'line',
 		        smooth: true,
-		        show:true,
-		        showSymbol: true, 
-		        symbol: 'circle',
-		        symbolSize: 2,
-		        data: [],
-		        
+		        data: [],		        
 		        itemStyle: {
 		            normal: {
 		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
 		            }
 		        }
 		    }, {
@@ -1105,9 +932,6 @@ pie7.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: true, 
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -1161,11 +985,11 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "盈利能力",  data: profit
+                data: profit
             }, {
-                name: "偏冷",  data: compute[0]
+                data: compute[0]
             }, {
-                name: "适度下限",  data: compute[1]
+                data: compute[1]
             }]
         });
     },
@@ -1197,14 +1021,7 @@ pie8.setOption(option);
 		            lineStyle: {
 		                color: '#000'
 		            }
-		        },
-		        
-		        backgroundColor: 'rgba(255,255,255,1)',
-		        padding: [5, 10],
-		        textStyle: {
-		            color: '#7588E4',
-		        },
-		        extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+		        }
 		    },
 		    toolbox: {
                 feature: {
@@ -1248,23 +1065,8 @@ pie8.setOption(option);
 		        boundaryGap: false,
 		        splitLine: {
 		            show: true,
-		            interval: 'auto',
 		            lineStyle: {
 		                color: ['#D4DFF5']
-		            }
-		        },
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            textStyle: {
-		                fontSize: 18
 		            }
 		        }
 		    },
@@ -1278,50 +1080,24 @@ pie8.setOption(option);
 		        },
 		        max: '13',
                 min:'-5',
-		        axisTick: {
-		            show: false
-		        },
-		        axisLine: {
-		            lineStyle: {
-		                color: '#609ee9'
-		            }
-		        },
-		        axisLabel: {
-		            margin: 10,
-		            
-		            textStyle: {
-		                fontSize: 14
-		            }
-		        }
+		   
 		    },
 		    series: [
             {
 		        name: '经营效率',
 		        type: 'line',
 		        smooth: true,
-		        show:true,
-		        showSymbol: false,
-		        symbol: 'circle',
-		        symbolSize: 2,
 		        data: [],
 		        
 		        itemStyle: {
 		            normal: {
-		                color: '#f7b851'
-		            }
-		        },
-		        lineStyle: {
-		            normal: {
-		                width: 2
+		                color: '#f7b851'	                   
 		            }
 		        }
 		    }, {
 		        name: '偏冷',
 		        type: 'line',
 		        smooth: true,
-		        showSymbol: true, 
-		        symbol: 'circle',
-		        symbolSize: 2,
 		        data: [],
 		        
 		        itemStyle: {
@@ -1330,7 +1106,8 @@ pie8.setOption(option);
 		                lineStyle: {                            
                             width:3,
                             type:'dotted'  //'dotted'虚线 'solid'实线
-                    }
+                    },
+                 
 		            }
 		        }
 		    }
@@ -1338,18 +1115,15 @@ pie8.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
+                data: [],              
                 itemStyle: {
                     normal: {
                         color: '#d14a61',
                         lineStyle: {                            
                             width:3,
                             type:'dotted'  //'dotted'虚线 'solid'实线
-                    }
+                    },
+                  
                     }
                 }
             }]
@@ -1395,11 +1169,11 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "经营效率",  data: manager
+               data: manager
             }, {
-                name: "偏冷",  data: compute[0]
+               data: compute[0]
             }, {
-                name: "适度下限",  data: compute[1]
+               data: compute[1]
             }]
         });
     },
@@ -1432,12 +1206,8 @@ var len = 0;
 		        $.each(data, function(index,item) {
 		        	 s1.add(new Option(item["地区"],index)); //一级
 		        }); 
-		}
-	
-	
-	}) ;
-
-               
+		}		
+	}) ;              
 })();
 
 
@@ -1458,12 +1228,8 @@ var len = 0;
 		        $.each(data, function(index,item) {
 		        	 s4.add(new Option(item["发展程度"],index)); //一级
 		        }); 
-		}
-	
-	
-	}) ;
-
-               
+		}		
+	}) ;               
 })();
 //二级状态改变事件
 $("#s4").change(function(){
@@ -1485,15 +1251,10 @@ $("#s4").change(function(){
 		        //请求成功时执行该函数内容，result即为服务器返回的json对象		        
 		        $.each(data, function(index,item) {
 		        	s5.add(new Option(item["城市"],index)); //二级
-		        }); 
-		       
+		        }); 		       
 		}	
 	}) 
 });
-
-
-
-
 
 
 
@@ -1574,14 +1335,7 @@ $(document).ready(function(){
                     lineStyle: {
                         color: '#000'
                     }
-                },
-                
-                backgroundColor: 'rgba(255,255,255,1)',
-                padding: [5, 10],
-                textStyle: {
-                    color: '#7588E4',
-                },
-                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+                }             
             },
             toolbox: {
                 feature: {
@@ -1630,22 +1384,6 @@ $(document).ready(function(){
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    interval:0,
-                    textStyle: {
-                        fontSize: 18
-                    }
                 }
             },
             yAxis: [{
@@ -1657,21 +1395,6 @@ $(document).ready(function(){
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
                 }
             },{
                 type: 'value',
@@ -1682,21 +1405,6 @@ $(document).ready(function(){
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
                 }
             }],
             series: [
@@ -1704,10 +1412,6 @@ $(document).ready(function(){
                 name: '投资潜力因子',
                 type: 'line',
                 smooth: true,
-                show:true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -1725,9 +1429,6 @@ $(document).ready(function(){
                 name: '区位因子',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -1744,9 +1445,6 @@ $(document).ready(function(){
                 name: '人口因子',
                 type: 'line',
                 smooth: true, //实现变虚线设置为false，默认为true
-               // showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 yAxisIndex:1, //指代第二条y轴
                 data: [],
               /*   markLine: {
@@ -1769,9 +1467,6 @@ $(document).ready(function(){
                 name: '市场供需因子',
                 type: 'line',
                 smooth: true, //实现变虚线设置为false，默认为true
-               // showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 yAxisIndex: 1, //指代第二条y轴
                 data: [],
               /*   markLine: {
@@ -1795,9 +1490,6 @@ $(document).ready(function(){
                 name: '经济因子',
                 type: 'line',
                 smooth: true, //实现变虚线设置为false，默认为true
-               // showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 yAxisIndex: 1, //指代第二条y轴
                 data: [],
               /*   markLine: {
@@ -1846,15 +1538,15 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                data: years
 		            },
 		            series: [{
-		                name: "投资潜力因子",  data: potential
+		                data: potential
 		            }, {
-		                name: "经济因子",  data: economy
+		                data: economy
 		            }, {
-		                name: "人口因子",  data: population
+		                data: population
 		            }, {
-		                name: "区位因子",  data: local
+		                data: local
 		            }, {
-		                name: "市场供需因子",  data: supply
+		                data: supply
 		            }]
 		        });    
 		 },
@@ -1893,14 +1585,7 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                    lineStyle: {
 		                        color: '#000'
 		                    }
-		                },
-		                
-		                backgroundColor: 'rgba(255,255,255,1)',
-		                padding: [5, 10],
-		                textStyle: {
-		                    color: '#7588E4',
-		                },
-		                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+		                }
 		            },
 		            toolbox: {
 	                    feature: {
@@ -1949,22 +1634,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                    lineStyle: {
 		                        color: ['#D4DFF5']
 		                    }
-		                },
-		                axisTick: {
-		                    show: false
-		                },
-		                axisLine: {
-		                    lineStyle: {
-		                        color: '#609ee9'
-		                    }
-		                },
-		                axisLabel: {
-		                    margin: 10,
-		                    
-		                    interval:0,
-		                    textStyle: {
-		                        fontSize: 18
-		                    }
 		                }
 		            },
 		            yAxis: [{
@@ -1976,21 +1645,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                    lineStyle: {
 		                        color: ['#D4DFF5']
 		                    }
-		                },
-		                axisTick: {
-		                    show: false
-		                },
-		                axisLine: {
-		                    lineStyle: {
-		                        color: '#609ee9'
-		                    }
-		                },
-		                axisLabel: {
-		                    margin: 10,
-		                    
-		                    textStyle: {
-		                        fontSize: 14
-		                    }
 		                }
 		            },{
 		                type: 'value',
@@ -2001,21 +1655,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                    lineStyle: {
 		                        color: ['#D4DFF5']
 		                    }
-		                },
-		                axisTick: {
-		                    show: false
-		                },
-		                axisLine: {
-		                    lineStyle: {
-		                        color: '#609ee9'
-		                    }
-		                },
-		                axisLabel: {
-		                    margin: 10,
-		                    
-		                    textStyle: {
-		                        fontSize: 14
-		                    }
 		                }
 		            }],
 		            series: [
@@ -2023,10 +1662,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                name: '投资潜力因子',
 		                type: 'line',
 		                smooth: true,
-		                show:true,
-		                showSymbol: false,
-		                symbol: 'circle',
-		                symbolSize: 2,
 		                data: [],
 		                
 		                itemStyle: {
@@ -2044,9 +1679,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                name: '区位因子',
 		                type: 'line',
 		                smooth: true,
-		                showSymbol: false,
-		                symbol: 'circle',
-		                symbolSize: 2,
 		                data: [],
 		                
 		                itemStyle: {
@@ -2063,9 +1695,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                name: '人口因子',
 		                type: 'line',
 		                smooth: true, //实现变虚线设置为false，默认为true
-		               // showSymbol: false,
-		                symbol: 'circle',
-		                symbolSize: 2,
 		                yAxisIndex:1, //指代第二条y轴
 		                data: [],
 		              /*   markLine: {
@@ -2088,9 +1717,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                name: '市场供需因子',
 		                type: 'line',
 		                smooth: true, //实现变虚线设置为false，默认为true
-		               // showSymbol: false,
-		                symbol: 'circle',
-		                symbolSize: 2,
 		                yAxisIndex: 1, //指代第二条y轴
 		                data: [],
 		              /*   markLine: {
@@ -2114,9 +1740,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		                name: '经济因子',
 		                type: 'line',
 		                smooth: true, //实现变虚线设置为false，默认为true
-		               // showSymbol: false,
-		                symbol: 'circle',
-		                symbolSize: 2,
 		                yAxisIndex: 1, //指代第二条y轴
 		                data: [],
 		              /*   markLine: {
@@ -2162,18 +1785,18 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 				        main.hideLoading();    //隐藏加载动画
 				        main.setOption({        //加载数据图表                
 				            xAxis: {
-				                data: years
+				               data: years
 				            },
 				            series: [{
-				                name: "投资潜力因子",  data: potential
+				                data: potential
 				            }, {
-				                name: "经济因子",  data: economy
+				                data: economy
 				            }, {
-				                name: "人口因子",  data: population
+				                data: population
 				            }, {
-				                name: "区位因子",  data: local
+				                data: local
 				            }, {
-				                name: "市场供需因子",  data: supply
+				               data: supply
 				            }]
 				        });    
 				 },
@@ -2207,13 +1830,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                         color: '#000'
                     }
                 },
-               
-                backgroundColor: 'rgba(255,255,255,1)',
-                padding: [5, 10],
-                textStyle: {
-                    color: '#7588E4',
-                },
-                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
             }, 
             toolbox: {
                     feature: {
@@ -2254,79 +1870,40 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                 type: 'category',
                 name:'时间',
                 data: [],
-                boundaryGap: false,
+                boundaryGap: true,
                 splitLine: {
-                    show: true,
-                    interval: 'auto',
+                    show: true,              
                     lineStyle: {
-                        color: ['#D4DFF5']
+                    	color: '#fcc',
+                        width: 1
                     }
-                },
-                axisTick: {
-                    show: false
                 },
                 axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
                 },
-                axisLabel: {
-                    margin: 10,
-                    rotate: 90,
-                    interval:0,
-                    textStyle: {
-                        fontSize: 18
-                    }
-                }
             },
             yAxis: [{
                 type: 'value',
                 name:'合成指数',
                 max: '104',
                 min:'95',
+                interval: 3,
                 splitLine: {
-                    lineStyle: {
-                        color: ['#D4DFF5']
-                    }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
-                }
+                	show: true,
+                	lineStyle: {
+                        color: '#fcc',
+                        width: 2
+                      }
+                }                              
             },{
                 type: 'value',
                 name:'房价指数',
                 max: '125',
                 min:'95',
+                interval: 3,
                 splitLine: {
-                    lineStyle: {
-                        color: ['#D4DFF5']
-                    }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
+                   lineStyle: {
+                        color: '#fcc',
+                        width: 2
                     }
                 }
             }],
@@ -2335,39 +1912,55 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                 name: '领先指数',
                 type: 'line',
                 smooth: true,
-                show:true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
+                markArea: {
+                    data: [
+                      [{
+                        yAxis: 101,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(183,234,209,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 104
+                      }],
+                      [{
+                        yAxis: 101,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(175,214,254,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 98
+                      }],
+                      [{
+                        yAxis: 98,
+                        itemStyle: {
+                          normal: {
+                        	 color: 'rgba(254,231,219,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 95
+                      }]             
+                    ]
+                  },
+                data: [],               
                 itemStyle: {
                     normal: {
                         color: '#f7b851'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
                     }
                 }
             }, {
                 name: '同步指数',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
                     normal: {
                         color: '#58c8da'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
                     }
                 }
             }
@@ -2375,19 +1968,11 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                 name: '滞后指数',
                 type: 'line',
                 smooth:true, 
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
                     normal: {
                         color: '#d14a61'
-                    }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
                     }
                 }
             }
@@ -2395,9 +1980,6 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                 name: 'HPY',
                 type: 'line',
                 smooth: true, 
-               // showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 yAxisIndex: 1, //指代第二条y轴
                 data: [],
                 markLine: {
@@ -2445,8 +2027,7 @@ $.ajax({
             hpy.push(item['HPY']);
             years.push(item['id']);
             //console.log(item['id']);
-        });     
-        
+        });             
         pie4.hideLoading();    //隐藏加载动画
         pie4.setOption({        //加载数据图表                
             dataZoom: [{
@@ -2464,13 +2045,13 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "领先指数",  data: lead_index
+               data: lead_index
             }, {
-                name: "同步指数",  data: coincident_index
+              data: coincident_index
             }, {
-                name: "滞后指数",  data: lag_index
+               data: lag_index
             }, {
-                name: "HPY",  data: hpy
+               data: hpy
             }]
         });
     },
@@ -2503,14 +2084,7 @@ pie4.setOption(option);
                     lineStyle: {
                         color: '#000'
                     }
-                },
-                
-                backgroundColor: 'rgba(255,255,255,1)',
-                padding: [5, 10],
-                textStyle: {
-                    color: '#7588E4',
-                },
-                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+                },                    
             },
             toolbox: {
                 feature: {
@@ -2551,30 +2125,15 @@ pie4.setOption(option);
                 type: 'category',
                 name:'时间',
                 data: [],
-                boundaryGap: false,
+                boundaryGap: true,
                 splitLine: {
                     show: true,
-                    interval: 'auto',
-                    lineStyle: {
-                        color: ['#D4DFF5']
-                    }
-                },
-                axisTick: {
-                    show: false
+                    width: 1
+                    
                 },
                 axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
+                  onZero: true
                 },
-                axisLabel: {
-                    margin: 10,
-                    rotate: 90,
-                    interval:0,
-                    textStyle: {
-                        fontSize: 18
-                    }
-                }
             },
             yAxis: {
                 type: 'value',
@@ -2582,89 +2141,113 @@ pie4.setOption(option);
                 max: '100',
                 min:'-10',
                 splitLine: {
-                    lineStyle: {
-                        color: ['#D4DFF5']
-                    }
+                	show: true,
+                	 lineStyle: {
+                         color: '#fcc',
+                         width: 2
+                       }
                 },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
-                }
             },
             series: [
             {
                 name: '领先指数',
                 type: 'line',
                 smooth: true,
-                show:true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
                 itemStyle: {
                     normal: {
-                        color: '#f7b851'
+                      color: '#2dbeff'
                     }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
+                  },
+                  markArea: {
+                      data: [
+                        [{
+                          yAxis: 80,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(183,234,209,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 100
+                        }],
+                        [{
+                          yAxis: 80,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(175,214,254,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 60
+                        }],
+                        [{
+                          yAxis: 60,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(183,226,234,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 40
+                        }],
+                        [{
+                          yAxis: 40,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(244,228,199,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 20
+                        }],
+                        [{
+                          // name: 'E',
+                          yAxis: 20,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(254,231,219,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 0
+                        }],
+                        [{
+                            // name: 'E',
+                            yAxis: 0,
+                            itemStyle: {
+                              normal: {
+                                color: 'rgba(254,131,219,0.7)'
+                              }
+                            }
+                          }, {
+                            yAxis: -10
+                          }]
+                      ]
+                    },
+                data: [],
             }, {
                 name: '同步指数',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
                 itemStyle: {
                     normal: {
-                        color: '#58c8da'
+                      color: '#ff62a3'
                     }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
+                  },
+                data: [],
             }
             , {
                 name: '滞后指数',
                 type: 'line',
                 smooth:true, 
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
                 itemStyle: {
                     normal: {
-                        color: '#d14a61'
+                      color: '#23ca55'
                     }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
-                }
+                  },
+                data: [],
             }]
         };
-
 pie5.showLoading();    //数据加载完之前先显示一段简单的loading动画
 
 //ajax异步请求数据
@@ -2692,26 +2275,21 @@ $.ajax({
         console.log(lead_index);
         pie5.hideLoading();    //隐藏加载动画
         pie5.setOption({        //加载数据图表                
-            dataZoom: [{
-            type: 'inside',
-            start: 0,
-            end: 60
-        }, {
-            show: true,
-            type: 'slider',
-            y: '90%',
-            start: 0,
-            end: 50
-        }],
+        	 dataZoom: {
+                 show: true,
+                 realtime: true,
+                 start: 0,
+                 end: 60,                 
+               },              
             xAxis: {
                 data: years
             },
             series: [{
-                name: "领先指数",  data: lead_index
+                data: lead_index
             }, {
-                name: "同步指数",  data: coincident_index
+                data: coincident_index
             }, {
-                name: "滞后指数",  data: lag_index
+                data: lag_index
             }]
         });
     },
@@ -2743,14 +2321,7 @@ pie5.setOption(option);
                     lineStyle: {
                         color: '#000'
                     }
-                },
-                
-                backgroundColor: 'rgba(255,255,255,1)',
-                padding: [5, 10],
-                textStyle: {
-                    color: '#7588E4',
-                },
-                extraCssText: 'box-shadow: 0 0 5px rgba(0,0,0,0.3)'
+                }
             },
             toolbox: {
                 feature: {
@@ -2793,26 +2364,9 @@ pie5.setOption(option);
                 data: [],
                 boundaryGap: false,
                 splitLine: {
-                    show: true,
-                    interval: 'auto',
+                    show: true,                  
                     lineStyle: {
                         color: ['#D4DFF5']
-                    }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    rotate: 90,
-                    interval:0,
-                    textStyle: {
-                        fontSize: 18
                     }
                 }
             },
@@ -2825,21 +2379,6 @@ pie5.setOption(option);
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                axisTick: {
-                    show: false
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#609ee9'
-                    }
-                },
-                axisLabel: {
-                    margin: 10,
-                    
-                    textStyle: {
-                        fontSize: 14
-                    }
                 }
             },
             series: [
@@ -2847,31 +2386,18 @@ pie5.setOption(option);
                 name: '领先指数',
                 type: 'line',
                 smooth: true,
-                show:true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
                     normal: {
                         color: '#f7b851'
                     }
-                },
-                lineStyle: {
-                    normal: {
-                        width: 2
-                    }
                 }
             }, {
                 name: '偏热线',
                 type: 'line',
                 smooth: true,
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
-                data: [],
-                
+                data: [],            
                 itemStyle: {
                     normal: {
                         color: '#58c8da',
@@ -2885,9 +2411,6 @@ pie5.setOption(option);
                 name: '偏冷线',
                 type: 'line',
                 smooth:true,  
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -2903,9 +2426,6 @@ pie5.setOption(option);
                 name: '适度上限',
                 type: 'line',
                 smooth:true, 
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -2921,9 +2441,6 @@ pie5.setOption(option);
                 name: '适度下限',
                 type: 'line',
                 smooth:true, 
-                showSymbol: false,
-                symbol: 'circle',
-                symbolSize: 2,
                 data: [],
                 
                 itemStyle: {
@@ -2981,15 +2498,15 @@ $.ajax({
                 data: years
             },
             series: [{
-                name: "领先指数", data: lead_index
+                data: lead_index
             }, {
-                name: "偏热线",  data: hot_line
+                data: hot_line
             }, {
-                name: "偏冷线",  data: cold_line
+                data: cold_line
             }, {
-                name: "适度上限",  data: upper
+                data: upper
             }, {
-                name: "适度下限",  data: limit
+                data: limit
             }]
         });
     },
