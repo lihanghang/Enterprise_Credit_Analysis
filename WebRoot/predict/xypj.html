@@ -16,7 +16,7 @@
                     <div class="sd_left_block_tit" style="color:green">
                         <b>评级企业相关指标输入</b>
                     </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 360px">
+                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
                         <div class="or_category">
 							<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
 	                               <div class="form-group">
@@ -123,7 +123,10 @@ $('#btn').click(function(){
     {
      if(document.form1.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
        document.form1.elements[i].focus();
        return false;
      }

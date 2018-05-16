@@ -588,7 +588,10 @@ $('#financialBtn').click(function(){
     {
      if(document.economy_form.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
        document.economy_form.elements[i].focus();
        return false;
      }
@@ -794,7 +797,10 @@ $('#orgBtn').click(function(){
     {
      if(document.org_form.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
        document.org_form.elements[i].focus();
        return false;
      }
@@ -977,7 +983,10 @@ $('#riskCompetitionBtn').click(function(){
     {
      if(document.competition_risk.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
        document.competition_risk.elements[i].focus();
        return false;
      }
@@ -1072,7 +1081,10 @@ $('#tecBtn').click(function(){
     {
      if(document.tec_form.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+   	layui.use(['layer', 'form'], function(){
+		//提示层
+		layer.msg('请填写完整数据信息！')
+	});	  
        document.tec_form.elements[i].focus();
        return false;
      }
@@ -1193,8 +1205,11 @@ $('#allIndex').click(function(){
 	        	var data2 = data['secondaryIndex']
 	        	if(data1==0)
 	        		{
-	        		console.log(data);
-	        		alert("数据不完整，请您先进行前四项风险评估！");
+	        		//console.log(data);
+	        		layui.use(['layer', 'form'], function(){
+	        			//提示层
+	        			layer.msg('数据不完整，请您先进行前四项风险评估！')
+                });	        		
 	        		}
 	        	
 	        	else{
