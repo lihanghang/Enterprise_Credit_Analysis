@@ -101,6 +101,7 @@
                  </div>
                 <div class="tab-pane fade" id="hecheng">
                     <div id="pie4" style="width: 1100px;height: 400px;"></div>
+                    <p id='msg' style="text-align: center;color:red;font-family: Microsoft Yahei;text-decoration: underline"></p>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
                      <div id="pie5" style="width: 1100px;height: 400px;"></div>
@@ -120,16 +121,16 @@
             </div>
         </div>
                 </div>                               
-                 <div class="sd_left_block">
+                 <!-- <div class="sd_left_block">
                     <div class="sd_left_block_tit">
                         <b>市场分析报告</b>                      
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 300px">                 
                     	<div class="or_category">
-                          	<p>图表说明</p>                                                                            
+                          	<p id="">图表说明</p>                                                                            
                     	</div>                                              
                      </div>
-                </div>
+                </div> -->
               <!-- <div class="sd_left_block">
                   
              </div> -->
@@ -2040,6 +2041,7 @@ $.ajax({
             y: '90%',
             start: 0,
             end: 50
+            
         }],
             xAxis: {
                 data: years
@@ -2063,6 +2065,45 @@ $.ajax({
 }); 
 
 pie4.setOption(option);
+var map1 = {};
+var map2 = {};
+var tstart = ""
+var tend = ""
+
+pie4.on("dataZoom", function(params){ 
+	var element=document.getElementById("msg");
+	
+ 	var opt = pie4.getOption()
+ 	console.log(params)
+	var dz = opt.dataZoom[0];
+	var year = opt.xAxis[0].data;
+	var hpy = opt.series[3].data;
+	var lead = opt.series[0].data;
+	for (var i = 0; i < year.length; i++) {
+	   map1[year[i]] = hpy[i]
+	   map2[year[i]] = lead[i]
+	}	
+	tstart = opt.xAxis[0].data[dz.startValue];
+	tstart1 = opt.xAxis[0].data[dz.startValue+1];
+	console.log(tstart1)
+	tend = opt.xAxis[0].data[dz.endValue];	
+	var date = "『动态分析预测』"+tstart+"至"+tend
+	var industry = "[房地产]"
+	if(map1[tstart]<map1[tend])
+	{
+		if(map2[tstart1]<map2[tend])
+			element.innerHTML=date+"期间，"+industry+"行业整体处于上升趋势, 预期未来3-6个月整体呈上行趋势。"
+		else
+			element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势, 预期未来3-6个月整体呈下行趋势。"	
+	}
+	else{
+		
+		if(map2[tstart1]<map2[tend])
+			element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势，预期未来3-6个月整体呈上行趋势。"
+		else
+			element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势，预期未来3-6个月整体呈下行趋势。"	
+	}  
+});
 })();
 
 
