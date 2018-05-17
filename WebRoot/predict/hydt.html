@@ -19,7 +19,7 @@
             <b class="caret"></b>
         </a>
         <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-            <li class="active" ><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
+            <li><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
             <li><a href="#yingli" tabindex="-1" data-toggle="tab">盈利能力</a></li>
             <li><a href="#zengzhang" tabindex="-1" data-toggle="tab">增长潜力</a></li>
             <li><a href="#changzhai" tabindex="-1" data-toggle="tab">偿债能力</a></li>
@@ -101,10 +101,11 @@
                  </div>
                 <div class="tab-pane fade" id="hecheng">
                     <div id="pie4" style="width: 1100px;height: 400px;"></div>
-                    <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 17px"></p>
+                    <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
                      <div id="pie5" style="width: 1100px;height: 400px;"></div>
+                     <p id='msg_kuosan' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
                 </div>
                 <div class="tab-pane fade" id="yingli">
                      <div id="pie8" style="width: 1100px;height: 400px;"></div>
@@ -2340,8 +2341,66 @@ $.ajax({
         pie5.hideLoading();
     }
 }); 
-
 pie5.setOption(option);
+//add analysis msg 0516
+
+
+var map2 = {};
+var tstart = ""
+var tend = ""
+
+var test = []
+pie5.on("dataZoom", function(params){
+	var test = []
+	var element=document.getElementById("msg");	
+ 	var opt = pie5.getOption()
+	var dz = opt.dataZoom[0];
+	var year = opt.xAxis[0].data;
+	var lead = opt.series[0].data;
+	for (var i = 0; i < year.length; i++) {
+	   map2[year[i]] = lead[i]
+	}	
+	var start = dz.startValue //起点
+	var end = dz.endValue //终点
+	//console.log(dz.startValue+"==>"+dz.endValue)
+	tstart = opt.xAxis[0].data[start]; //起点		
+	tend = opt.xAxis[0].data[end];	//终点
+	for(var i =start;i<=end;i++) {
+		test [i] = lead[i]; 		
+	}	
+	//console.log(map1)
+	var maxima = [];
+	var minima = []
+	//console.log(test)
+	//获取极大、极小值及对应年份
+   	var direction = test[0] > 0? -1:1;
+      for(var i=0;i<test.length-1;i++) {
+       if((test[i+1]-test[i])*direction>0) {
+        direction*=-1;
+        if(direction == 1) {
+        	maxima.push(opt.xAxis[0].data[i])
+         console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极大值");
+        } else {
+        	minima.push(opt.xAxis[0].data[i])
+         console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极小值");
+        	}
+       	}
+      }
+    var industry = "[房地产]"
+    var date = tstart+"至"+tend
+	//console.log(maxima+"=="+minima)"『动态分析预测』"+
+	var element=document.getElementById("msg_kuosan");
+    if(maxima.length!=0 && minima.length!=0){
+	element.innerHTML= date+"时间段内，"+"领先指数在时间点："+maxima+"为极大值点，表明此后3-6个月，"+industry+"市场景气可能会达到峰值并出现反转。"+'<br>'
+	element.append(date+"时间段内，"+"领先指数在时间点："+minima+"为极小值点，表明此后3-6个月，"+industry+"市场景气可能会进入低谷期并出现反转。")
+    }
+    else{
+    	element.innerHTML= "所选时间段内，领先指数无极值！"
+    }
+});
+
+
+
 })();
 
 //房地产风险预警

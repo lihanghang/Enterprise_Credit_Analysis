@@ -114,61 +114,21 @@ ul.c-header-nav li:nth-child(3)::before {
 
 
 <!-- tab 切换样式自定义 -->
-.sd_left_block .nav-tabs {
+.tab .nav-tabs {
 border-bottom: 0 none;
 background: #eaeaea;
 }
-.sd_left_block .nav-tabs li a {
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
 background: transparent;
 border-radius: 0;
 font-size: 16px;
 border: none;
-color: #333;
+color: green;
 padding: 12px 22px;
-}
-.sd_left_block .nav-tabs li.active a, .tab .nav-tabs li.active a i {
-border: 0 none;
-background:#337ab7;
-color: #fff;
-border-radius:20px;
-}
-.sd_left_block .nav-tabs li.active a:after {
-content: "";
-position: absolute;
-left: 45%;
-bottom: -14px;
-border: 7px solid transparent;
-border-top: 7px solid #337ab7;
-}
-.sd_left_block .tab-content {
-padding: 5px;
-color: #5a5c5d;
-font-size: 14px;
-line-height: 20px;
-margin-top: 5px;
-border-bottom: 1px solid #e67e22;
-}
-@media only screen and (max-width: 480px) {
-.sd_left_block .nav-tabs, .tab .nav-tabs li {
-width: 100%;
-background: transparent;
-}
-.tab .nav-tabs li.active a {
-border-radius: 10px 10px 0 0;
-}
-.tab .nav-tabs li:first-child a {
-border-bottom-left-radius: 0;
-}
-.tab .nav-tabs li a {
-margin-bottom: 10px;
-border: 1px solid lightgray;
-}
-.tab .nav-tabs li.active a:after {
-border: none;
-}
-}
+font-weight: bold;
 
-
+}
 </style>
 
 <body>
@@ -341,7 +301,12 @@ border: none;
 
 </body>
 </html>
-
+<script type="text/javascript">
+    function getMax(a,b,c)
+        {
+            return a>b?(a>c?a:c):(b>c?b:c);
+        }
+</script>
 
 <!-- <script type="text/javascript">
     
