@@ -49,17 +49,20 @@
         </ul>
     </li>
 </ul>
-        <div class="or_left_silde" id="searchCondition">                      
+        <div class="or_left_silde" id="searchCondition" style="height: 600px">                      
             <div id="myTabContent" class="tab-content"  style="height: 500px">
                 <div class="tab-pane fade in active" id="home">
                     <div class="or_category">
                         <div id="pie3" style="width: 100%;height: 400px;"></div>
+                         <p id='msg_home' style="font-family: Microsoft Yahei;font-weight: bold;font-size: 15px"></p>
+
                     </div> 
                 </div>
                 <div class="tab-pane fade" id="market">
                     <div id="Risk" style="width: 1100px;height: 400px;"></div>
+                    <p id="msg_risk" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
                 </div>
-                <div class="tab-pane fade" id="zone" style="height: 500px">
+                <div class="tab-pane fade" id="zone" style="height: 550px">
                     
   <div class="or_category" name="form">                 
 <select class="selectpicker" id="s1" onchange="getZoneIndex()">
@@ -80,8 +83,11 @@
             </div>             
             <!-- 采用联动方式实现投资潜力指数查看 --> 
              <div id="main" style="width: 1100px;height: 400px;"></div> 
-                    
+              <p id="msg_potential" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>      
                 </div>
+
+
+
                  <div class="tab-pane fade" id="devlop">
                  	<div class="or_category">                 
 <select class="selectpicker" id="s4"    >
@@ -98,26 +104,38 @@
             </div>             
             <!-- 采用联动方式实现投资潜力指数查看 --> 
              <div id="mains" style="width: 1100px;height: 400px;"></div> 
-                 </div>
+                </div>
+                <p id='msg_potential2' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+
+
+
                 <div class="tab-pane fade" id="hecheng">
                     <div id="pie4" style="width: 1100px;height: 400px;"></div>
                     <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
                      <div id="pie5" style="width: 1100px;height: 400px;"></div>
-                     <p id='msg_kuosan' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
+                     <p id='msg_kuosan' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="yingli">
                      <div id="pie8" style="width: 1100px;height: 400px;"></div>
+                      <p id='msg_yingli' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+
                 </div>
                 <div class="tab-pane fade" id="zengzhang">
                      <div id="pie6" style="width: 1100px;height: 400px;"></div>
+                      <p id='msg_zengzhang' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+
                 </div>
                 <div class="tab-pane fade" id="changzhai">
                      <div id="pie7" style="width: 1100px;height: 400px;"></div>
+                      <p id='msg_changzhai' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+
                 </div>
                 <div class="tab-pane fade" id="jingying">
                      <div id="pie9" style="width: 1100px;height: 400px;"></div>
+                      <p id='msg_jingying' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+
                 </div>
             </div>
         </div>
@@ -144,6 +162,16 @@
 
 <!-- 行业动态数据异步加载请求：财务预警 -->
 <script>
+
+//获取数组最大、最小值 by Hang-Hang Li
+Array.prototype.max = function(){ 
+return Math.max.apply({},this) 
+} 
+Array.prototype.min = function(){ 
+return Math.min.apply({},this) 
+} 
+
+
 var sum = function(x,y){ return x+y;};　　//求和函数
 var square = function(x){ return x*x;};　　//数组中每个元素求它的平方
 var reducer = function add(sumSoFar, item) {
@@ -418,7 +446,15 @@ $.ajax({
             years.push(item['id']);
             //console.log(item['id']);
         });     
-        
+    
+       //add tips 20180518
+        var element=document.getElementById("msg_home");	
+	    element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
+	        "【偿债能力】整体呈不断下降趋势；"+'<br>'+
+	        "【盈利能力】自2004年开始有所提升，2011年开始呈小幅下降趋势；"+'<br>'+
+	        "【经营效率】整体呈稳步上升态势，"+'<br>'+
+	    	"【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
+  
         pie3.hideLoading();    //隐藏加载动画
         pie3.setOption({        //加载数据图表                
          /*    dataZoom: [{
@@ -602,6 +638,14 @@ $.ajax({
             //console.log(item['id']);
         });     
     	
+        //add tips 20180518
+        var element=document.getElementById("msg_zengzhang");	
+	    element.innerHTML="近10年来，房地产企业【增长潜力】一直未向下突破适度下限值，2004年之前增长潜力呈现周期性波动，个别年份出现增长潜力为负值的情况，2004年起增长潜力激增，并在2006年达到峰值，之后又迅速回落至10附近。"
+    
+    
+    
+    
+    
         var compute = maths(increase); //指标计算
         pie6.hideLoading();    //隐藏加载动画
         pie6.setOption({        //加载数据图表                
@@ -783,7 +827,15 @@ $.ajax({
             debt.push(item['偿债能力']);
             years.push(item['id']);
             //console.log(item['id']);
-        });     
+        });  
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_changzhai");	
+	    element.innerHTML="近10年来，房地产企业的【偿债能力】不断下降，2015年起开始向下突破适度下限值。"
+    
+    
+    
+    
         var compute = maths(debt); //指标计算
         pie7.hideLoading();    //隐藏加载动画
         pie7.setOption({        //加载数据图表                
@@ -969,6 +1021,13 @@ $.ajax({
             years.push(item['id']);
             //console.log(item['id']);
         });     
+    
+    
+    
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_yingli");	
+	    element.innerHTML="近10年来，房地产企业【盈利能力】一直在适度下限值之上波动。2004年之前整体呈下降趋势，2004年达到历史最低值。2004年之后，盈利能力不断攀升，2011年达到峰值后逐渐回落。"
         var compute = maths(profit); //指标计算
         pie8.hideLoading();    //隐藏加载动画
         pie8.setOption({        //加载数据图表                
@@ -1153,6 +1212,15 @@ $.ajax({
             years.push(item['id']);
             //console.log(item['id']);
         });     
+    
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_jingying");	
+	    element.innerHTML="近10年来，房地产企业的【经营效率】不断提升，且一直位于适度下限值之上，2005年以来增长较快。"
+	    	
+	    	
+	    	
+	    	
         var compute = maths(manager); //指标计算
         pie9.hideLoading();    //隐藏加载动画
         pie9.setOption({        //加载数据图表                
@@ -1514,7 +1582,7 @@ $(document).ready(function(){
 
             ]
         };
-
+var map = {}
 main.showLoading();    //数据加载完之前先显示一段简单的loading动画
 	$.ajax({		
 		"type": 'GET',
@@ -1531,9 +1599,27 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		        	economy.push(item['经济因子']);
 		        	population.push(item['人口因子']);
 		        	local.push(item['区位因子']);
-		        	supply.push(item['市场供需因子']);
-		        	
+		        	supply.push(item['市场供需因子']);	
+		        	map[item['投资潜力因子']] =item['年份']
 		        }); 
+		        var element=document.getElementById("msg_potential");	
+		        //增加投资潜力提示信息
+		        console.log(potential)
+		        var pmax = potential.max()
+				var pmin = potential.min()
+				var index_a = potential[0]
+		        
+		        var index_b = potential[potential.length-1]
+		        console.log(index_a+"=="+index_b)
+				if(index_a < index_b) {
+					 element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈上升趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+				}else{
+					 element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈下降趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+				}
+		       
+		        
+		        
+		        
 		        main.hideLoading();    //隐藏加载动画
 		        main.setOption({        //加载数据图表                
 		            xAxis: {
@@ -1552,15 +1638,16 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 		            }]
 		        });    
 		 },
+		 
 		 error: function (errorMsg) {
 		        //请求失败时执行该函数
 		        alert("图表请求数据失败!");
 		        main.hideLoading();
-		    }
-	}) 
-	
+		    },
+		
+	}) 	
 	main.setOption(option);
-	});
+});
 	 
 	 $("#s5").change(function(){
 			var main = echarts.init(document.getElementById("mains"));
@@ -1764,7 +1851,7 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 
 		            ]
 		        };
-
+var map ={}
 		main.showLoading();    //数据加载完之前先显示一段简单的loading动画
 			$.ajax({		
 				"type": 'GET',
@@ -1781,9 +1868,24 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 				        	economy.push(item['经济因子']);
 				        	population.push(item['人口因子']);
 				        	local.push(item['区位因子']);
-				        	supply.push(item['市场供需因子']);
-				        	
+				        	supply.push(item['市场供需因子']);				        	
+				        	map[item['投资潜力因子']] =item['年份']
 				        }); 
+				        var element=document.getElementById("msg_potential2");	
+				        //增加投资潜力提示信息
+				        console.log(potential)
+				        var pmax = potential.max()
+						var pmin = potential.min()
+						var index_a = potential[0]				        
+				        var index_b = potential[potential.length-1]
+				        console.log(index_a+"=="+index_b)
+						if(index_a < index_b) {
+							 element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈上升趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+						}else{
+							 element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈下降趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+						}
+				        
+				        
 				        main.hideLoading();    //隐藏加载动画
 				        main.setOption({        //加载数据图表                
 				            xAxis: {
@@ -1807,10 +1909,9 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
 				        alert("图表请求数据失败!");
 				        main.hideLoading();
 				    }
-			}) 
-			
-			main.setOption(option);
-			});
+			}) 			
+	main.setOption(option);
+	});
 });
 
 //合成指数异步加载
@@ -2379,10 +2480,10 @@ pie5.on("dataZoom", function(params){
         direction*=-1;
         if(direction == 1) {
         	maxima.push(opt.xAxis[0].data[i])
-         console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极大值");
+         	//console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极大值");
         } else {
         	minima.push(opt.xAxis[0].data[i])
-         console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极小值");
+            //console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极小值");
         	}
        	}
       }
@@ -2395,7 +2496,11 @@ pie5.on("dataZoom", function(params){
 	element.append(date+"时间段内，"+"领先指数在时间点："+minima+"为极小值点，表明此后3-6个月，"+industry+"市场景气可能会进入低谷期并出现反转。")
     }
     else{
-    	element.innerHTML= "所选时间段内，领先指数无极值！"
+    	//无极值时判断走势
+    	if(lead[start]<lead[end])
+    		element.innerHTML= date+"时间段内表明未来3-6个月内，房地产市场整体将可能呈现上升趋势"
+    	else
+    		element.innerHTML= date+"时间段内表明未来3-6个月内，房地产市场整体将可能呈现下降趋势"
     }
 });
 
@@ -2618,9 +2723,70 @@ $.ajax({
 }); 
 
 Risk.setOption(option);
+var map1 = {};
+var map2 = {};
+var tstart = ""
+var tend = ""
+Risk.on("dataZoom", function(params){ 
+	var element=document.getElementById("msg_risk");	
+ 	var opt = Risk.getOption()
+ 	//console.log(params)
+	var dz = opt.dataZoom[0];
+	var lead = opt.series[0].data;
+	var hot = opt.series[1].data[0];//偏热线
+	var cold = opt.series[2].data[0];//偏冷线
+	var upper = opt.series[3].data[0];
+	var limit = opt.series[4].data[0];	
+	var start = dz.startValue;
+	var end = dz.endValue;
+	tstart = opt.xAxis[0].data[start];
+	tend = opt.xAxis[0].data[end];
+	var date = tstart+"至"+tend
+	//console.log(upper+" "+limit)
+	var ldata = []
+ 	for (var i = start; i <= end; i++) {
+	    ldata[i] = lead[i]
+	}
+	
+var fdata = []
+for(var i =0;i<ldata.length;i++){
+	if(ldata[i] != null || typeof(ldata[i]) != "undefined")
+    {
+		fdata.push(ldata[i])        
+    }
+}
+	var lmax = fdata.max()
+	var lmin = fdata.min()
+ 	var hotData = []
+	var coldData = []
+	if(parseFloat(lmax) <=parseFloat(upper) && parseFloat(lmin)>=parseFloat(limit)){
+		 element.innerHTML="根据领先指数判断，"+ date+ "期间，房地产市场处风险状况为：适度；"
+	}
+	for(var i =start;i<=end;i++)
+	 {
+		if(parseFloat(ldata[i]) >= parseFloat(hot)){			
+			hotData.push(opt.xAxis[0].data[i])			
+		}
+		if(parseFloat(ldata[i]) <= parseFloat(limit)){
+			coldData.push(opt.xAxis[0].data[i])			
+		}		
+	}
+	
+	if(hotData.length!=0) {
+		element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"
+	}
+	
+	if(coldData.length!=0) {
+		element.innerHTML = "根据领先指数判断，房地产市场在，"+ coldData + "过冷"
+	}
+	//console.log(coldData.length+"============"+hotData.length)
+	//issue：在获取数组长度时，通过.length()方法，出现判断失误，因此采用以下方法判断数组是否为false
+	if(hotData!=false && coldData!=false) {
+		element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"+'<br>'
+		element.append("根据领先指数判断，房地产市场在，"+ coldData + "过冷")
+		}
+	});
 })();
-
-
 </script>
 
 
