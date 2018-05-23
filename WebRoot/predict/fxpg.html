@@ -108,7 +108,7 @@
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">营业收入增长率</label>
 		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.GrowthRateOperateIncome" class="form-control" id="firstname" placeholder="请输入营业收入增长率">
+                                         		<input type="text" name="financialRiskBean.growthRateOperateIncome" class="form-control" id="firstname" placeholder="请输入营业收入增长率">
                                         	</div>
 	                               		</div>
 	                               		<div class="form-group">
@@ -619,22 +619,22 @@ $('#financialBtn').click(function(){
 	     
 	        success:function(data){
 	        	//$("#loading1").empty();
-	        	//console.log(data);
+	        	 //console.log(data);
 	        	 layui.use(['layer', 'form'], function(){
                 		var layer = layui.layer
                 		layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	        	var firstlyIndex = data['firstlyIndex']['data'];
-	        	var secondIndex = data['secondaryIndex']['data'];
-	        	console.log(firstlyIndex);
-	        	var percent = (firstlyIndex[0]*100).toFixed(2);
-	        	//可视化
-	        	var data = [secondIndex[0],secondIndex[1],secondIndex[2],secondIndex[3]];
-	        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 90%;height: 350px;\"></div>");
-	        	$("#financialView1").html("<div id=\"financial_show1\" style=\"width: 90%;height: 350px;\"></div>");
-	        	var financialChart = echarts.init(document.getElementById('financial_show'));
-	        	var financialChart1 = echarts.init(document.getElementById('financial_show1'));
+	        	 var firstlyIndex = data['firstlyIndex'];
+		        	var secondIndex = data['secondaryIndex'].split("    ");
+		        	console.log(secondIndex);
+		        	var percent = (firstlyIndex*100).toFixed(2);
+		        	//可视化
+		        	var data = secondIndex;
+		        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 90%;height: 350px;\"></div>");
+		        	$("#financialView1").html("<div id=\"financial_show1\" style=\"width: 90%;height: 350px;\"></div>");
+		        	var financialChart = echarts.init(document.getElementById('financial_show'));
+		        	var financialChart1 = echarts.init(document.getElementById('financial_show1'));
 	        	option = {
 	        			
 	        		    /* title: {
@@ -832,11 +832,12 @@ $('#orgBtn').click(function(){
                 		layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	        	var firstlyIndex = data['firstlyIndex']['data'];
-	        	var secondaryIndex = data['secondaryIndex']['data'];
-	        	var datas = [secondaryIndex[0], secondaryIndex[1], secondaryIndex[2]];
+	        	 console.log(data['firstlyIndex']+"==============="+data['secondaryIndex']);
+	        	var firstlyIndex = data['firstlyIndex'];
+	        	var secondaryIndex = data['secondaryIndex'].split("    ");
+	        	var datas = secondaryIndex;
 	        	console.log(firstlyIndex);
-	        	var percent = (firstlyIndex[0]*100).toFixed(2);
+	        	var percent = (firstlyIndex*100).toFixed(2);
 	        	 
 	        		        	        		        	
 	        	//可视化
@@ -1019,9 +1020,9 @@ $('#riskCompetitionBtn').click(function(){
                 		layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	        	var secondaryIndex = data['firstlyIndex']['data'];
+	        	var secondaryIndex = data['firstlyIndex'];
 	        	//var re = data['result']
-	             var percent = (secondaryIndex[0]*100).toFixed(2);
+	             var percent = (secondaryIndex*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -1118,9 +1119,9 @@ $('#tecBtn').click(function(){
                 		layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	        	var secondaryIndex = data['firstlyIndex']['data'];
+	        	var secondaryIndex = data['firstlyIndex'];
 	        	//var re = data['result']
-	            var percent = (secondaryIndex[0]*100).toFixed(2);
+	            var percent = (secondaryIndex*100).toFixed(2);
 	        	
 	        		        	        		        	
 	        	//可视化
@@ -1195,6 +1196,7 @@ $('#allIndex').click(function(){
 	         });
 	        },  
 	        success:function(data){
+	        	console.log(data);
 	        	//$("#loading5").empty();
 	        	layui.use(['layer', 'form'], function(){
                 		var layer = layui.layer
@@ -1217,14 +1219,9 @@ $('#allIndex').click(function(){
 	        	
 	        	var firstlyIndex   =  data1.split('    ');
 	        	var secondaryIndexs = [];
- 	        	var secondaryIndex =  data2[0].split('    ');
- 	        	var secondaryIndex_1 =  data2[1].split('    ');
+ 	        	var secondaryIndex =  data2[0].split("    ");
+ 	        	var secondaryIndex_1 =  data2[1].split("    ");
  	        	secondaryIndexs = secondaryIndex.concat(secondaryIndex_1).concat(data2[2]).concat(data2[3]);
- 	        	
- 	        	//console.log(allIndex+"\n"+firstlyIndex+"\n"+secondaryIndex);
-	        	/*var org = data['org'];*/
-	        	 var index1 = [firstlyIndex[0], firstlyIndex[1], firstlyIndex[2], firstlyIndex[3]];
-	        	 //var index2 = [secondaryIndex_1[0], secondaryIndex[1], secondaryIndex[2], secondaryIndex[3], data2[2],data2[3]]
 	        	//可视化	
 	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 90%;height: 350px;\"></div>");
 	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 90%;height: 350px;\"></div>");

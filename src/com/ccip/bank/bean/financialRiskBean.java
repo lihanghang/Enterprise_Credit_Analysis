@@ -18,7 +18,7 @@ public class financialRiskBean {
 		private double debtRate;
 		private double interest;
 		private double cashFlow;
-		private double GrowthRateOperateIncome;
+		private double growthRateOperateIncome;
 		private double allAsserrtIncrease;
 		/**
 		 * @return the flowAssertRate
@@ -132,13 +132,13 @@ public class financialRiskBean {
 		 * @return the growthRateOperateIncome
 		 */
 		public double getGrowthRateOperateIncome() {
-			return GrowthRateOperateIncome;
+			return growthRateOperateIncome;
 		}
 		/**
 		 * @param growthRateOperateIncome the growthRateOperateIncome to set
 		 */
 		public void setGrowthRateOperateIncome(double growthRateOperateIncome) {
-			GrowthRateOperateIncome = growthRateOperateIncome;
+			this.growthRateOperateIncome = growthRateOperateIncome;
 		}
 		/**
 		 * @return the allAsserrtIncrease
@@ -163,7 +163,7 @@ public class financialRiskBean {
 					+ ", equityRatio=" + equityRatio + ", flowPercent="
 					+ flowPercent + ", debtRate=" + debtRate + ", interest="
 					+ interest + ", cashFlow=" + cashFlow
-					+ ", GrowthRateOperateIncome=" + GrowthRateOperateIncome
+					+ ", GrowthRateOperateIncome=" + growthRateOperateIncome
 					+ ", allAsserrtIncrease=" + allAsserrtIncrease + "]";
 		}
 		

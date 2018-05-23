@@ -294,9 +294,13 @@ option = {
         
         {
             name: debtInfo,
-            type: 'effectScatter',
+            type: 'scatter',
             symbolSize:15, 
-            color:"#7CCD7C",
+            label: {
+                show: true,
+                formatter: "{@[2]}",
+                position: 'right',
+            },
             data: datas.outliers
         }
     ]
@@ -358,9 +362,13 @@ option = {
 	        		        //描述当前预测指标
 	        		        {
 	        		            name: '企业指标所处位置',
-	        		            type: 'effectScatter',
+	        		            type: 'scatter',
 	        		            symbolSize:15, 
-	        		            color:"#00FF00",
+	        		            label: {
+	        		                show: true,
+	        		                formatter: "{@[2]}",
+	        		                position: 'right',
+	        		            },
 	        		            data: datas1.outliers
 	        		        }
 	        		    ]
@@ -431,9 +439,13 @@ option = {
 			        		        	    names = '企业指标低于行业平均水平';
 			   							return names;
 			        		        	})(),	        		        	
-	        		            type: 'effectScatter',
+	        		            type: 'scatter',
 	        		            symbolSize:15, 
-	        		            color:"#00FF00",
+	        		            label: {
+	        		                show: true,
+	        		                formatter: "{@[2]}",
+	        		                position: 'right',
+	        		            },
 	        		            data: datas2.outliers
 	        		        }
 	        		    ]
@@ -494,10 +506,14 @@ option = {
 	        		        
 	        		        {
 	        		            name: '企业指标所处位置',
-	        		            type: 'effectScatter',
-	        		            symbolSize:15, 
-	        		            color:"#00FF00",
-	        		            data: datas3.outliers
+	        		            type: 'scatter',
+	        		            symbolSize:15, 	        		        
+	        		            data: datas3.outliers,
+	        		            label: {
+	        		                show: true,
+	        		                formatter: "{@[2]}",
+	        		                position: 'right',
+	        		            },
 	        		        }
 	        		    ]
 	        		};
@@ -557,18 +573,19 @@ option = {
 	        		        
 	        		        {
 	        		            name: '企业指标所处位置',
-	        		            type: 'effectScatter',
-	        		            symbolSize:15, 
-	        		            color:"#00FF00",
+	        		            type: 'scatter',
+	        		            symbolSize:15, 	        	
 	        		            data: datas4.outliers,
 	        		            label: {
 	        		                show: true,
-	        		                formatter: "",
+	        		                formatter: "{@[2]}",
 	        		                position: 'right',
 	        		            },
 	        		        }
 	        		    ]
 	        		};
+	        	
+	        	
 	        	option5 = {
 	        		    tooltip: {
 	        		        trigger: 'item',
@@ -621,13 +638,11 @@ option = {
 	        		                }
 	        		            }/* ,
 	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },
-	        		        
+	        		        },	        		        
 	        		        {
 								
 	        		        	name:
-								 (function (){
-		        		        	
+								 (function (){		        		        	
 		        		        	var names="";
 		        		        	if(datas5.outliers>datas5.boxData[3])
 		        		        		  //names= '企业指标高于行业平均水平';
@@ -636,11 +651,13 @@ option = {
 		        		        	    names = '企业指标低于行业平均水平';
 		   							return names;
 		        		        	})(),
-		        		        data:datas5.outliers,
-	        		            type: 'effectScatter',
-	        		            symbolSize:15, 
-	        		            color:"#00FF00",
-	        		            //data: datas5.outliers,
+		        		        data:datas5.outliers,	        
+	        		            type: 'scatter',
+	        		            symbolSize:15,
+	        		            label: {
+	        		                show: true,        		           
+	        		                position: 'right',
+	        		            }
 	        		        }
 	        		    ]
 	        		};

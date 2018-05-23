@@ -1,6 +1,8 @@
 package com.ccip.bank.user;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,7 +13,7 @@ import java.util.TreeMap;
 
 import lpsolve.LpSolveException;
 import trainClassifier_Tree.creditQuality;
-import RiskDea.riskDea;
+import Risk.testRisk;
 
 import com.ccip.bank.bean.ScienceInvest;
 import com.ccip.bank.bean.businessBean;
@@ -45,7 +47,7 @@ import com.mathworks.toolbox.javabuilder.MWNumericArray;
  */
 
 public class PredictController extends Controller{
-		
+	
 	static CompanyService service = new CompanyService();
 	@ActionKey("/predict")
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
@@ -135,7 +137,7 @@ public class PredictController extends Controller{
 	//信用评级页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void xypj(){
-
+		
 		render("xypj.html");
 	}
 
@@ -207,20 +209,38 @@ public class PredictController extends Controller{
 	}
 	//财务风险0503 update 0507
 	public void financial_risk_model() {
-	 
 		financialRiskBean paraBean = getBean(financialRiskBean.class);
-		//System.out.print(paraBean.getAllAsserrtIncrease());
+//		paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
+//		paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
+//		paraBean.getFlowPercent(),paraBean.getDebtRate(),paraBean.getInterest(),paraBean.getCashFlow(),
+//		paraBean.getGrowthRateOperateIncome(),paraBean.getAllAsserrtIncrease()
+		
+		MWNumericArray in = MWNumericArray.newInstance
+				(new int[]{11,1}, MWClassID.DOUBLE, MWComplexity.REAL);													
+		in.set(new int[]{1,1}, paraBean.getFlowAssertRate());
+		in.set(new int[]{2,1}, paraBean.getCheckRate());
+		
+		in.set(new int[]{3,1}, paraBean.getCreditGrade());
+		in.set(new int[]{4,1}, paraBean.getFinancialCostRate());
+		in.set(new int[]{5,1}, paraBean.getEquityRatio());
+		
+		in.set(new int[]{6,1}, paraBean.getFlowPercent());
+		in.set(new int[]{7,1}, paraBean.getDebtRate());
+		in.set(new int[]{8,1}, paraBean.getInterest());
+		in.set(new int[]{9,1}, paraBean.getCashFlow());
+		
+		in.set(new int[]{10,1}, paraBean.getGrowthRateOperateIncome());
+		in.set(new int[]{11,1}, paraBean.getAllAsserrtIncrease());
+		System.out.print(in);	
 		try {
-			riskDea risks = new riskDea();
-			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";			
+			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+			String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+			testRisk testRisk = new testRisk();
 			Object[] financialRes = null;
-			financialRes = risks.financial(2,input,paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
-					paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
-					paraBean.getFlowPercent(),paraBean.getDebtRate(),paraBean.getInterest(),paraBean.getCashFlow(),
-					paraBean.getGrowthRateOperateIncome(),paraBean.getAllAsserrtIncrease());
+			financialRes = testRisk.financial(2,input,input_text,in);
 			//get Result
-			setAttr("firstlyIndex",financialRes[0]);
-			setAttr("secondaryIndex",financialRes[1]);		
+			setAttr("firstlyIndex",financialRes[1].toString());
+			setAttr("secondaryIndex",financialRes[0].toString());
 			renderJson(new String[]{"secondaryIndex","firstlyIndex"});
 		} catch (MWException e1) {
 			// TODO Auto-generated catch block
@@ -233,17 +253,21 @@ public class PredictController extends Controller{
 	
 	
 	//0417风险等级评估模型 竞争风险算法
-	public void fxpg_competition_model(){
-				 
+	public void fxpg_competition_model(){		 
 		 int num1 = getParaToInt("num1"); //竞品
-		 int num2 = getParaToInt("num2");//对外投资		
-		try {
-			riskDea competitionRisk = new riskDea();
-			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";			
+		 int num2 = getParaToInt("num2");//对外投资		 		 
+			MWNumericArray in = MWNumericArray.newInstance
+					(new int[]{2,1}, MWClassID.DOUBLE, MWComplexity.REAL);													
+			in.set(new int[]{1,1}, num1);
+			in.set(new int[]{2,1},num2);
+			System.out.print(in);	
+			try {
+				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+				String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+				testRisk testRisk = new testRisk();		
 			Object[] Res = null;
-			Res = competitionRisk.competition(1, input, num2,num1);
-			renderJson("firstlyIndex",Res[0]);
-						
+			Res = testRisk.competion(1, input, input_text, in);
+			renderJson("firstlyIndex",Res[0].toString());						
 		} catch (MWException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -252,17 +276,23 @@ public class PredictController extends Controller{
 	
 	//0417风险等级评估模型算法--技术风险评估 update at 20180504
 		public void jszl_model(){
-			
 			 int num1 = getParaToInt("num1"); 
 			 int num2 = getParaToInt("num2"); 
 			 int num3 = getParaToInt("num3"); 		
-			try {
-				riskDea tecRisk = new riskDea();
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";				
+			 
+				MWNumericArray in = MWNumericArray.newInstance
+						(new int[]{3,1}, MWClassID.DOUBLE, MWComplexity.REAL);													
+				in.set(new int[]{1,1}, num1);
+				in.set(new int[]{2,1}, num2);
+				in.set(new int[]{3,1}, num3);
+				System.out.print(in);	
+				try {
+					String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
+					String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+					testRisk testRisk = new testRisk();				
 				Object[] Res = null;
-				Res = tecRisk.tec(1, input, num1,num2,num3);
-				System.out.println(Res[0].toString());
-				renderJson("firstlyIndex",Res[0]);
+				Res = testRisk.tec(1, input, input_text, in);
+				renderJson("firstlyIndex",Res[0].toString());
 							
 			} catch (MWException e) {
 				// TODO Auto-generated catch block
@@ -270,20 +300,42 @@ public class PredictController extends Controller{
 			}				
 		}
 	
-		//0417风险等级评估模型算法--经营风险评估  update param at 20180502
+		//0417风险等级评估模型算法--经营风险评估  update param at 20180502  1-11
 		public void org_risk_model(){
-			
 			businessBean paraBean = getBean(businessBean.class);	
+			//初始化矩阵
+			MWNumericArray in = MWNumericArray.newInstance
+					(new int[]{14,1}, MWClassID.DOUBLE, MWComplexity.REAL);
+//			getNetSaleRate(),paraBean.getTotalAssetRewardRate(),paraBean.getNetAssetYield(),
+//			paraBean.getInventoryTurnover(),paraBean.getTotalAssetTurnover(),paraBean.getCostProfitMargin(),paraBean.getLitigationNum(),
+//			paraBean.getAbOperNum(),paraBean.getAdminSancteNum(),paraBean.getChattelPledgeNum(),paraBean.getSelfRiskNum(),
+//			paraBean.getPeripheralRiskNum(),paraBean.getShareholdNum(),paraBean.getFirstMaxShare())
+														
+			in.set(new int[]{1,1}, paraBean.getNetSaleRate());
+			in.set(new int[]{2,1}, paraBean.getTotalAssetRewardRate() );
+			in.set(new int[]{3,1}, paraBean.getNetAssetYield());
+			in.set(new int[]{4,1}, paraBean.getInventoryTurnover());
+			in.set(new int[]{5,1}, paraBean.getTotalAssetTurnover());
+			in.set(new int[]{6,1}, paraBean.getCostProfitMargin());
+			in.set(new int[]{7,1}, paraBean.getLitigationNum());
+			in.set(new int[]{8,1}, paraBean.getAbOperNum());
+			in.set(new int[]{9,1}, paraBean.getAdminSancteNum() );
+			in.set(new int[]{10,1}, paraBean.getChattelPledgeNum() );
+			in.set(new int[]{11,1}, paraBean.getSelfRiskNum());
+			in.set(new int[]{12,1}, paraBean.getPeripheralRiskNum() );
+			in.set(new int[]{13,1}, paraBean.getShareholdNum());
+			in.set(new int[]{14,1}, paraBean.getFirstMaxShare());
+			
+			System.out.println(in);			
 			try {
 				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				riskDea businessRisk = new riskDea();
+				String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+				testRisk testRisk = new testRisk();
 				Object[] Res = null;
-				Res = businessRisk.business(2, input,paraBean.getNetSaleRate(),paraBean.getTotalAssetRewardRate(),paraBean.getNetAssetYield(),
-						paraBean.getInventoryTurnover(),paraBean.getTotalAssetTurnover(),paraBean.getCostProfitMargin(),paraBean.getLitigationNum(),
-						paraBean.getAbOperNum(),paraBean.getAdminSancteNum(),paraBean.getChattelPledgeNum(),paraBean.getSelfRiskNum(),
-						paraBean.getPeripheralRiskNum(),paraBean.getShareholdNum(),paraBean.getFirstMaxShare());
-				setAttr("firstlyIndex", Res[0]);	
-				setAttr("secondaryIndex", Res[1]);						
+				Res = testRisk.business(2, input,input_text,in);				
+				System.out.println(Res[0].toString()+"=="+Res[1].toString());
+				setAttr("firstlyIndex", Res[1].toString());	
+				setAttr("secondaryIndex", Res[0].toString());
 				renderJson(new String[]{"secondaryIndex","firstlyIndex"});									
 				} catch (MWException e) {
 					// TODO Auto-generated catch block
@@ -291,18 +343,16 @@ public class PredictController extends Controller{
 					}				
 		}
 		//企业风险评估综合指标0504
-		public void ajaxIntegrateIndex() {			
-			try {
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				riskDea allRisk = new riskDea();
-				Object[] result = allRisk.getResult(5);//得到所有一级二级指标
+		public void ajaxIntegrateIndex() {
+			try {		
+				testRisk testRisk = new testRisk();
+				Object[] result = testRisk.Result(5);//得到所有一级二级指标
 				System.out.println(result[1]);
 				if(result[0].toString().length()==1){
 					setAttr("secondaryIndex",0);
 					setAttr("firstlyIndex",0);
 					renderJson(new String[]{"secondaryIndex","firstlyIndex"});
-				}else{
-				
+				}else{				
 				String data[] = {result[1].toString(),result[2].toString(),result[3].toString(),result[4].toString()}; 
 				setAttr("secondaryIndex",data);
 				System.out.println(data);
@@ -313,9 +363,9 @@ public class PredictController extends Controller{
 				} catch (MWException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
-					}							
+					}	
 		}
-		
+			
 	//科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr(){
@@ -402,6 +452,7 @@ public class PredictController extends Controller{
 	
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyjContent() {
+
 		String code = getPara("num");
 		String cname = getPara("name");		
 		setAttr("cname",cname);
@@ -461,5 +512,19 @@ public class PredictController extends Controller{
         renderPageForLayUI(page_all,0,"操作成功");
     }
     
-    
+    /**
+     * 以FileWriter方式写入txt文件。
+     * @param File file：要写入的文件
+     * @param String content： 要写入的内容
+     * @param String charset:要写入内容的编码方式
+     */
+    public static void contentToTxt(String filePath, String content) {
+        try{
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new File(filePath),true));
+            writer.write(content+"\n");
+            writer.close();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
 }
