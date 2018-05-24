@@ -65,12 +65,13 @@ li{ list-style-type:none;}
 .top_logo{
 	float: left;
 	max-width: 500px;
-	height: 70px;
+	height: 80px;
 	margin-top: 15px;
 }
 .top_logo img{
 	width: 100%;
 	display: block;
+	height:60px;
 }
 
 /*导航*/

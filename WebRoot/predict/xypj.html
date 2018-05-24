@@ -84,6 +84,7 @@
                     </div>
                     <div class="or_left_silde" id="searchCondition" >                   
                      <div class="or_category" style="text-align:center" id="loading"></div>
+                     <span id="grade"></span>
                      <p id="msg"></p> 
                  <div class="row"><!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
                       <div class="col-md-4">
@@ -145,6 +146,12 @@ $('#btn').click(function(){
 	        },
 	        beforeSend:function(XMLHttpRequest){
 	        	$("#msg").empty(); //加载前先清空结果信息
+	        	$("#grade").empty(); //加载前先清空结果信息
+	        	/* 	$("#interest").empty(); //加载前先清空结果信息
+	        	$("#turn").empty(); //加载前先清空结果信息
+	        	$("#rate").empty(); //加载前先清空结果信息
+	        	$("#cost").empty(); //加载前先清空结果信息
+	        	$("#owner").empty(); //加载前先清空结果信息 */
 	            //$("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	        	 layui.use(['layer', 'form'], function(){
 	        		 index = layer.load(1, {shade: 0.06});
@@ -161,6 +168,17 @@ $('#btn').click(function(){
 	        	document.getElementById("resultsView").style.display="block";//显
 	        	/* $("#loading").empty(); //清除加载数据 */
 	        	var CQ = data.lst[0];
+	        	layui.use(['rate'], function(){
+	        		  var rate = layui.rate;
+	        		  //只读
+	        		  rate.render({
+	        		    elem: '#grade'
+	        		    ,value: CQ
+	        		    ,readonly: true
+	        		    ,theme: '#009688'
+	        		  });
+	        	});
+	        		        	
 	        	//console.log(data);        		        		        	        	          	          	          
 	         //四分位图展示评级企业的数据情况0411
 	          // 基于准备好的dom，初始化echarts实例
@@ -231,7 +249,7 @@ $('#btn').click(function(){
 	        	}else{
 	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。\n";
 	        	}
-	         $("#msg").html("您查询企业的综合信用等级为：【"+CQ+"】级.<br>"+guidInfo+debtInfo);
+	         $("#msg").html("您查询企业的综合信用等级为："+CQ+"星级.<br>"+guidInfo+"</br>"+debtInfo);
 	        /*  for ( var i = 0; i <datas.outliers.length; i++){
 	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
 	        		 delete datas[i];

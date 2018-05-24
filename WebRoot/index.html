@@ -21,9 +21,8 @@
  <style type="text/css">  
  input::-webkit-input-placeholder {
   
-  		font-size: 18px;
-  		text-align:left;
-  		font-weight:bold;
+  		font-size: 14px;
+  		text-align:left;  		
   }
        
 </style> 
@@ -40,8 +39,8 @@
 		
 	</div> 
 	<div class="top_main">
-		<div class="top_logo">
-			<a href='./'><img src="./static/home/index/images/logo.jpg"></a>
+		 <div class="top_logo">
+			<a href='./'><img src="./static/home/index/images/systitle.png"></a>
 		</div>
 		
 		<div class="dh_bg">                
@@ -50,9 +49,10 @@
                         <li><a href="#"><span>企业图谱</span> </a></li>
                         <li><a href="./predict/xypj"><span>智能分析</span></a></li>                                 
                     </ul>
-                     <div class="dh_bg_cur">
+            
+            <div class="dh_bg_cur">
 	        	<img src="./static/home/index/images/images/nav_cur.png">
-	        </div>              
+	        </div>   	                      
 		</div>
 		
 	</div>
@@ -83,15 +83,16 @@
 </div> -->
         <!--Home page style-->
         <header id="home" class="home">
-            <div class="overlay-fluid-block">
-                <div class="container text-center">
-                    <div class="row">
+            <div class="overlay-fluid-block">          
+                <div class="container text-center">                         
+				 <div class="row">
                         <div class="home-wrapper">
                             <div class="col-md-10 col-md-offset-1">
                                 <div class="home-content">
 
                                     <h1>企业信息查询与智能分析</h1>
-                                    <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
+                                    <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>
+                                    	该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
            <div class="home-contact">                                             				
@@ -101,21 +102,16 @@
                                	 	<input type="submit" id='btn' class="form-control" value="查询" > 
                                   <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
                                 </form> 
-                                </div>
-				<ul id="oul"></ul>
+                                </div>				
 			</div>
-
 		<!-- /input-group -->
-
-
                                             </div>
                                         </div>
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
+					</div>                                                 
                     </div>
                 </div>			
           
@@ -494,6 +490,87 @@
                 	   }
                 	   return true;//提交表单
             }  
+                
+                
+                
+                
+                
+               layui.use(['carousel', 'form'], function(){
+            	   var carousel = layui.carousel
+            	   ,form = layui.form;
+            	   
+            	 
+            	   
+            	   //设定各种参数
+            	   var ins3 = carousel.render({
+            	     elem: '#test3'
+            	   });
+            	   //图片轮播
+            	   carousel.render({
+            	     elem: '#test3'
+            	     ,width: '1200px'
+            	     ,height: '550px'
+            	     ,interval: 5000
+            	   });
+            	   
+            	   //事件
+            	   carousel.on('change(test3)', function(res){
+            	     console.log(res)
+            	   });
+            	   
+            	   var $ = layui.$, active = {
+            	     set: function(othis){
+            	       var THIS = 'layui-bg-normal'
+            	       ,key = othis.data('key')
+            	       ,options = {};
+            	       
+            	       othis.css('background-color', '#5FB878').siblings().removeAttr('style'); 
+            	       options[key] = othis.data('value');
+            	       ins3.reload(options);
+            	     }
+            	   };
+            	   
+            	   //监听开关
+            	   form.on('switch(autoplay)', function(){
+            	     ins3.reload({
+            	       autoplay: this.checked
+            	     });
+            	   });
+            	   
+            	   $('.demoSet').on('keyup', function(){
+            	     var value = this.value
+            	     ,options = {};
+            	     if(!/^\d+$/.test(value)) return;
+            	     
+            	     options[this.name] = value;
+            	     ins3.reload(options);
+            	   });
+            	   
+            	   //其它示例
+            	   $('.demoTest .layui-btn').on('click', function(){
+            	     var othis = $(this), type = othis.data('type');
+            	     active[type] ? active[type].call(this, othis) : '';
+            	   });
+            	 });     
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
     	</script>
      
     </body>

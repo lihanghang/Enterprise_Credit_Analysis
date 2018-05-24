@@ -565,7 +565,7 @@ textarea::-ms-input-placeholder
 
 /*For Home Section*/
 .home{
-    background:url(../images/homebg.jpg) no-repeat center center;
+    background:url(../images/bg.jpg) no-repeat center center;
     color:#000;
     background-size:cover;
     -webkit-background-size:cover;
@@ -580,11 +580,12 @@ textarea::-ms-input-placeholder
 .home-content h1{
     font-size:48px;
     margin-bottom: 0px;
-    color: #fff;
+    font-weight:bold;
+    color: #5fb878;
 }
 .home-content p{
     
-    color: #fff;
+    color: #000000;
     margin-bottom: -10px;
     text-align: left;
 }
@@ -1576,7 +1577,7 @@ xkeyframes
 /*For Footer Menu Section*/
 
 .footer-menu{
-    background:#efefef;
+    background:#e2e2e2;
     color:#000;
     border-bottom:1px solid #cfcdcd;
     height:230px;
