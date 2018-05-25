@@ -12,6 +12,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import lpsolve.LpSolveException;
+import test.ANN;
 import trainClassifier_Tree.creditQuality;
 import Risk.testRisk;
 
@@ -151,6 +152,15 @@ public class PredictController extends Controller{
 		//实例化信用评级模型对象
 		creditQuality CQ = new creditQuality();
 		String input = "D://java-project/enterpriseInfo/datasets/Data554.mat";
+		
+		//180525 增加ANN进行等级预测
+		ANN ann = new ANN();
+		String input_ANN = "D://java-project/enterpriseInfo/datasets/xypj/ANN_model.mat";
+		
+		
+		
+		
+		
 		//初始化1*6矩阵
 		MWNumericArray test_data = MWNumericArray.newInstance
 				(new int[]{1,6}, MWClassID.DOUBLE, MWComplexity.REAL);
@@ -161,7 +171,13 @@ public class PredictController extends Controller{
 		test_data.set(new int[]{1,3}, paraBean.getInventoryTurn());
 		test_data.set(new int[]{1,4}, paraBean.getFlowDebt());
 		test_data.set(new int[]{1,5}, paraBean.getCost());
-		test_data.set(new int[]{1,6}, paraBean.getOwnerEquity());						
+		test_data.set(new int[]{1,6}, paraBean.getOwnerEquity());	
+		
+		//使用人工神经网络得到等级概率
+		Object [] ANNRes = ann.guid(1,input_ANN);
+		System.out.println(test_data);
+		
+		
 		result = CQ.trainClassifier_Tree(3,input,test_data);
 		//得到公司信用评级
 		MWNumericArray cqNum   = (MWNumericArray)result[2];
