@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import lpsolve.LpSolveException;
-import test.ANN;
+import test.test;
 import trainClassifier_Tree.creditQuality;
 import Risk.testRisk;
 
@@ -154,7 +154,7 @@ public class PredictController extends Controller{
 		String input = "D://java-project/enterpriseInfo/datasets/Data554.mat";
 		
 		//180525 增加ANN进行等级预测
-		ANN ann = new ANN();
+		test grade = new test();
 		String input_ANN = "D://java-project/enterpriseInfo/datasets/xypj/ANN_model.mat";
 		
 		
@@ -174,10 +174,9 @@ public class PredictController extends Controller{
 		test_data.set(new int[]{1,6}, paraBean.getOwnerEquity());	
 		
 		//使用人工神经网络得到等级概率
-		Object [] ANNRes = ann.guid(1,input_ANN);
-		System.out.println(test_data);
+		Object [] test = grade.guid(2,input_ANN, test_data);
 		
-		
+			
 		result = CQ.trainClassifier_Tree(3,input,test_data);
 		//得到公司信用评级
 		MWNumericArray cqNum   = (MWNumericArray)result[2];
@@ -213,8 +212,9 @@ public class PredictController extends Controller{
 		setAttr("map",map1);
 		setAttr("lst",lst);
 		setAttr("para",paraBean);
+		setAttr("ANNRes",test[1].toString());
 		String matrixData = JsonKit.toJson(map1);
-		renderJson(new String[]{"map","lst","para"});
+		renderJson(new String[]{"map","lst","para","ANNRes"});
 	}
 	
 	//风险评估页面

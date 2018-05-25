@@ -158,7 +158,7 @@ $('#btn').click(function(){
 	         });
 	        },  
 	        success:function(data){
-	        	//console.log(data.map['debt']);
+	        	console.log(data);
 	        	//成功接收后台返回数据进行其他处理操作
 	        	layui.use(['layer', 'form'], function(){
                 		var layer = layui.layer
@@ -168,6 +168,7 @@ $('#btn').click(function(){
 	        	document.getElementById("resultsView").style.display="block";//显
 	        	/* $("#loading").empty(); //清除加载数据 */
 	        	var CQ = data.lst[0];
+	        	var ANN = data["ANNRes"];
 	        	layui.use(['rate'], function(){
 	        		  var rate = layui.rate;
 	        		  //只读
@@ -249,7 +250,7 @@ $('#btn').click(function(){
 	        	}else{
 	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。\n";
 	        	}
-	         $("#msg").html("您查询企业的综合信用等级为："+CQ+"星级.<br>"+guidInfo+"</br>"+debtInfo);
+	         $("#msg").html("您查询企业的综合信用等级为："+CQ+"星级.<br>"+guidInfo+"</br>"+debtInfo+"</br>"+"ANN返回概率结果："+ "</br>"+ANN);
 	        /*  for ( var i = 0; i <datas.outliers.length; i++){
 	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
 	        		 delete datas[i];
