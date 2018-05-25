@@ -35,4 +35,4 @@
 7. 删除分支：git push origin : branch_name(您需要删除的分支名)。
 8. java调用MATLAB封装的函数及神经网络函数。
 【欢迎交流，邮箱ilihanghang@126.com】
- 更新时间【2018.4.25】
+ 更新时间【2018.5.25】
