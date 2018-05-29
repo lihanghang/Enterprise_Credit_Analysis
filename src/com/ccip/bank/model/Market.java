@@ -17,6 +17,7 @@ public class Market extends Model<Market>{
 	public static final Market dao = new Market(); //房地产财务数据0325
     public static final Market ci = new Market(); //合成指数数据模型0326
     public static final Market diffusion = new Market(); //扩散指数数据模型0326
+    public static final Market industry = new Market(); //扩散指数数据模型0326
 	//获取所有财务数据
 	public List<Market> getAllData(){
 		return dao.find("select * from en_market order by id asc");
@@ -34,4 +35,11 @@ public class Market extends Model<Market>{
 	public List<Market> getRiskPreAlarming(){
 		return ci.find("select id,领先指数,偏冷线,偏热线,适度上限,适度下限  from en_ci order by id asc");
 	}
+	
+	//处理制造业和信息技术业的财务数据0529
+	public List<Market> getManufactureData(){
+		return industry.find("select year,净资产收益率,总资产报酬率,销售利润率,盈余现金保障倍数	from en_manufacture_financial");
+	}
+	
+	
 }

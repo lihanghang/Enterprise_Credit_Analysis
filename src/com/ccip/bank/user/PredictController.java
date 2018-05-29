@@ -59,6 +59,8 @@ public class PredictController extends Controller{
 	public void marketData(){
 		
 		List<Market> data = Market.dao.getAllData();
+		List<Market> manufactory = Market.dao.getManufactureData();
+		System.out.println(manufactory);
 		String json = JsonKit.toJson(data);
 		renderJson(json);				
 	}
@@ -155,11 +157,7 @@ public class PredictController extends Controller{
 		
 		//180525 增加ANN进行等级预测
 		test grade = new test();
-		String input_ANN = "D://java-project/enterpriseInfo/datasets/xypj/ANN_model.mat";
-		
-		
-		
-		
+		String input_ANN = "D://java-project/enterpriseInfo/datasets/xypj/ANN_model.mat";								
 		
 		//初始化1*6矩阵
 		MWNumericArray test_data = MWNumericArray.newInstance
