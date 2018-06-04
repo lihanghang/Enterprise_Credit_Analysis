@@ -1,4 +1,4 @@
-# <center>**Enterprise_Credit_Analysis**</center>
+# Enterprise_Credit_Analysis
     一个集企业信息查询、数据分析、推理、评估、预测企业信用可视化分析平台
     下阶段会基于知识图谱、机器学习算法、深度神经网络进行风险评估及关联关系推理
 #### 平台架构
