@@ -1,4 +1,4 @@
-# Enterprise_Credit_Analysis
+# <center>**Enterprise_Credit_Analysis**</center>
     一个集企业信息查询、数据分析、推理、评估、预测企业信用可视化分析平台
     下阶段会基于知识图谱、机器学习算法、深度神经网络进行风险评估及关联关系推理
 #### 平台架构
@@ -35,5 +35,5 @@
 7. 删除分支：git push origin : branch_name(您需要删除的分支名)。
 8. java调用MATLAB封装的函数及神经网络函数。
 【欢迎交流，邮箱ilihanghang@126.com】
- 更新时间【2018.5.25】
+ 更新时间【2018.6.4】
  
