@@ -1,0 +1,2678 @@
+
+var reducer = function add(sumSoFar, item) {
+      sumSoFar.sum = sumSoFar.sum + item;
+      return sumSoFar;
+    };
+    
+function maths (data) {
+var val = [];
+for(var i=0;i<data.length;i++) {
+        val[i] = parseFloat(data[i]);
+    }   
+var total = val.reduce(reducer, {sum: 0});
+var info = [];
+var mean = val.reduce(sum)/val.length;
+var deviations = val.map(function(x){return x-mean;});
+var stddev = Math.sqrt(deviations.map(square).reduce(sum)/(val.length-1));
+
+var arrCold  = [];
+var arrLimit = [];
+var cold = mean - 1.96*stddev;
+var limit = mean - 1.28*stddev;
+for(var i=0;i<val.length;i++) {
+    arrCold[i]  = cold;
+    arrLimit[i] = limit;
+    
+}
+info.push(arrCold);
+info.push(arrLimit);
+return info;
+
+}
+
+
+
+
+
+
+
+//Echarts接口调用及数据处理
+(function(){
+    var pie3 = echarts.init(document.getElementById("pie3"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option3 = {
+            title: {
+                text: '房地产行业财务分析(综合)',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                data: ['盈利能力','偿债能力','经营效率','增长潜力']
+            },
+            xAxis: {
+                type: 'category',
+                name:'年份',
+                data: [],
+                boundaryGap: true,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: [{
+                type: 'value',
+                name:'指数',
+                interval: 3,
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },{
+                type: 'value',
+                name:'潜力指数',
+                /* max: '125',
+                min:'95', */
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            }],
+            series: [
+            {
+                name: '盈利能力',
+                type: 'line',
+                smooth: true,
+                markArea: {
+                    data: [
+                      [{
+                        yAxis: 18,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(183,234,209,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 21
+                      }],
+                      [{
+                        yAxis: 18,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(175,214,254,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 15
+                      }],
+                      [{
+                        yAxis: 15,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(183,226,234,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 12
+                      }],
+                      [{
+                        yAxis: 12,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(244,228,199,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 9
+                      }],
+                      [{
+                        // name: 'E',
+                        yAxis: 9,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(254,201,219,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 6
+                      }],
+                      [{
+                            // name: 'E',
+                            yAxis: 6,
+                            itemStyle: {
+                              normal: {
+                                color: 'rgba(254,235,219,0.7)'
+                              }
+                            }
+                          }, {
+                            yAxis: 3
+                          }],
+                          [{
+                                // name: 'E',
+                                yAxis: 3,
+                                itemStyle: {
+                                  normal: {
+                                    color: 'rgba(254,224,219,0.7)'
+                                  }
+                                }
+                              }, {
+                                yAxis: 0
+                              }]
+                    ]
+                  },
+                data: [],               
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851',                                           
+                    }
+                }
+            }, {
+                name: '偿债能力',
+                type: 'line',
+                smooth: true,
+                data: [],               
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',                  
+                    }
+                }
+            }
+            , {
+                name: '经营效率',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61'
+                    }
+                }
+            }
+            , {
+                name: '增长潜力',
+                type: 'line',
+                smooth: true,
+                yAxisIndex:1,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#5793f3',                       
+                    }
+                }
+ 
+            }
+
+            ]
+        };
+
+pie3.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var profit   = [];   //盈利能力
+var debt     = [];     //偿债能力
+var manager  = [];  //经营效率
+var increase = []; //增长潜力
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./marketData",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            profit.push(item['盈利能力']);
+            debt.push(item['偿债能力']);
+            manager.push(item['经营效率']);
+            increase.push(item['增长潜力']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+    
+       //add tips 20180518
+        var element=document.getElementById("msg_home");    
+        element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
+            "【偿债能力】整体呈不断下降趋势；"+'<br>'+
+            "【盈利能力】自2004年开始有所提升，2011年开始呈小幅下降趋势；"+'<br>'+
+            "【经营效率】整体呈稳步上升态势，"+'<br>'+
+            "【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
+  
+        pie3.hideLoading();    //隐藏加载动画
+        pie3.setOption({        //加载数据图表                
+         /*    dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], */
+            xAxis: {
+               data: years
+            },
+            series: [{
+                data: profit
+            }, {
+               data: debt
+            }, {
+                data: manager
+            }, {
+                data: increase
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie3.hideLoading();
+    }
+}); 
+
+pie3.setOption(option3);
+})();
+
+
+//增长潜力
+(function(){
+    var pie6 = echarts.init(document.getElementById("pie6"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option6 = {
+            title: {
+                text: '增长潜力',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['增长潜力','偏冷','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'年份',
+                data: [],
+                boundaryGap: true,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                min:'-25',
+                max:'95'
+            },
+            series: [
+            {
+                name: '增长潜力',
+                type: 'line',
+                smooth: true,
+                data: [],           
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                }
+            }, {
+                name: '偏冷',
+                type: 'line',
+                smooth: true,
+                data: [],           
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                            }
+                    }
+                },
+            }
+            , {
+                name: '适度下限',
+                type: 'line',
+                smooth: true,
+                data: [],             
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                        }
+                    }
+                },
+            }]
+        };
+
+pie6.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+
+var increase = []; //增长潜力
+var cold = []; //偏冷线
+var limit = []; //适度下限
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./marketData",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            increase.push(item['增长潜力']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+        
+        //add tips 20180518
+        var element=document.getElementById("msg_zengzhang");   
+        element.innerHTML="近10年来，房地产企业【增长潜力】一直未向下突破适度下限值，2004年之前增长潜力呈现周期性波动，个别年份出现增长潜力为负值的情况，2004年起增长潜力激增，并在2006年达到峰值，之后又迅速回落至10附近。"
+    
+    
+    
+    
+    
+        var compute = maths(increase); //指标计算
+        pie6.hideLoading();    //隐藏加载动画
+        pie6.setOption({        //加载数据图表                
+          /*   dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], */
+            xAxis: {
+                data: years
+            },
+            series: [{
+                 data: increase
+            }, {
+                 data: compute[0]
+            }, {
+                 data: compute[1]
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie6.hideLoading();
+    }
+}); 
+
+pie6.setOption(option6);
+})();
+
+
+//偿债能力
+(function(){
+    var pie7 = echarts.init(document.getElementById("pie7"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option7 = {
+            title: {
+                text: '偿债能力',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['偿债能力','偏冷','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'年份',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                max: '20',
+                min:'0'
+            },
+            series: [
+            {
+                name: '偿债能力',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
+                    }
+                }
+            }, {
+                name: '偏冷',
+                type: 'line',
+                smooth: true,
+                data: [],               
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da'
+                    }
+                }
+            }
+            , {
+                name: '适度下限',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
+                    } }
+            }]
+        };
+
+pie7.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+
+var debt     = [];     //偿债能力
+var cold = []; //偏冷线
+var limit = []; //适度下限
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./marketData",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {          
+            debt.push(item['偿债能力']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });  
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_changzhai");   
+        element.innerHTML="近10年来，房地产企业的【偿债能力】不断下降，2015年起开始向下突破适度下限值。"
+    
+    
+    
+    
+        var compute = maths(debt); //指标计算
+        pie7.hideLoading();    //隐藏加载动画
+        pie7.setOption({        //加载数据图表                
+           /*  dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], */
+            xAxis: {
+                data: years
+            },
+            series: [{
+                data: debt
+            }, {
+                data: compute[0]
+            }, {
+                data: compute[1]
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie7.hideLoading();
+    }
+}); 
+
+pie7.setOption(option7);
+})();
+//盈利能力
+
+(function(){
+    var pie8 = echarts.init(document.getElementById("pie8"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option8 = {
+            title: {
+                text: '盈利能力',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['盈利能力','偏冷','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'年份',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                max: '17',
+                min:'9',
+
+            },
+            series: [
+            {
+                name: '盈利能力',
+                type: 'line',
+                smooth: true,
+                data: [],               
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                }
+            }, {
+                name: '偏冷',
+                type: 'line',
+                smooth: true,
+                showSymbol: true, 
+                symbol: 'circle',
+                symbolSize: 2,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
+                    }
+                }
+            }
+            , {
+                name: '适度下限',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
+                    }
+                }
+            }]
+        };
+
+pie8.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var profit   = [];   //盈利能力
+var cold = []; //偏冷线
+var limit = []; //适度下限
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./marketData",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            profit.push(item['盈利能力']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+    
+    
+    
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_yingli");  
+        element.innerHTML="近10年来，房地产企业【盈利能力】一直在适度下限值之上波动。2004年之前整体呈下降趋势，2004年达到历史最低值。2004年之后，盈利能力不断攀升，2011年达到峰值后逐渐回落。"
+        var compute = maths(profit); //指标计算
+        pie8.hideLoading();    //隐藏加载动画
+        pie8.setOption({        //加载数据图表                
+    /*         dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], */
+            xAxis: {
+                data: years
+            },
+            series: [{
+                data: profit
+            }, {
+                data: compute[0]
+            }, {
+                data: compute[1]
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie8.hideLoading();
+    }
+}); 
+
+pie8.setOption(option8);
+})();
+
+//经营效率
+(function(){
+    var pie9 = echarts.init(document.getElementById("pie9"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option9 = {
+            title: {
+                text: '经营效率',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['经营效率','偏冷','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'年份',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                },
+                max: '13',
+                min:'-5',
+           
+            },
+            series: [
+            {
+                name: '经营效率',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'                       
+                    }
+                }
+            }, {
+                name: '偏冷',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    },
+                 
+                    }
+                }
+            }
+            , {
+                name: '适度下限',
+                type: 'line',
+                smooth: true,
+                data: [],              
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    },
+                  
+                    }
+                }
+            }]
+        };
+
+pie9.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+
+var manager  = [];  //经营效率
+var cold = []; //偏冷线
+var limit = []; //适度下限
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./marketData",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            manager.push(item['经营效率']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });     
+    
+    
+        //add tips 20180518
+        var element=document.getElementById("msg_jingying");    
+        element.innerHTML="近10年来，房地产企业的【经营效率】不断提升，且一直位于适度下限值之上，2005年以来增长较快。"
+            
+            
+            
+            
+        var compute = maths(manager); //指标计算
+        pie9.hideLoading();    //隐藏加载动画
+        pie9.setOption({        //加载数据图表                
+          /*   dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], */
+            xAxis: {
+                data: years
+            },
+            series: [{
+               data: manager
+            }, {
+               data: compute[0]
+            }, {
+               data: compute[1]
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie9.hideLoading();
+    }
+}); 
+
+pie9.setOption(option9);
+})();
+
+
+
+
+//按区域投资潜力
+(function(){
+var s1=document.getElementById("s1");
+var zone = []; //地区数组
+var len = 0;
+    $.ajax({        
+        "type": 'GET',
+        "url": './getZone',
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象
+                
+                $.each(data, function(index,item) {
+                     s1.add(new Option(item["地区"],index)); //一级
+                }); 
+        }       
+    }) ;              
+})();
+
+
+//按发展程度
+
+(function(){
+var s4=document.getElementById("s4");
+var zone = []; //地区数组
+var len = 0;
+    $.ajax({        
+        "type": 'GET',
+        "url": './getDevLevel',
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象
+                console.log(data);
+                $.each(data, function(index,item) {
+                     s4.add(new Option(item["发展程度"],index)); //一级
+                }); 
+        }       
+    }) ;               
+})();
+//二级状态改变事件
+$("#s4").change(function(){
+    
+    var val = document.getElementById("s4");
+    var index = val.selectedIndex;
+    var txt = val.options[index].text;
+    var s5=document.getElementById("s5"); //二级省份
+    s5.options.length=1; //只保留首项option
+     
+    //获取二级省份
+    $.ajax({        
+        "type": 'GET',
+        "url": './getCitys',
+        "data": {level: txt}, //向后台传参
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象             
+                $.each(data, function(index,item) {
+                    s5.add(new Option(item["城市"],index)); //二级
+                });                
+        }   
+    }) 
+});
+
+
+
+
+//二级状态改变事件
+$("#s1").change(function(){
+    
+    var val = document.getElementById("s1");
+    var index = val.selectedIndex;
+    var txt = val.options[index].text;
+    var s2=document.getElementById("s2"); //二级省份
+    s2.options.length=1; //只保留首项option
+     
+    //获取二级省份
+    $.ajax({        
+        "type": 'GET',
+        "url": './getProvince',
+        "data": {zone: txt}, //向后台传参
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象             
+                $.each(data, function(index,item) {
+                    s2.add(new Option(item["省份"],index)); //二级
+                }); 
+               
+        }   
+    }) 
+});
+
+//三级状态改变事件
+$("#s2").change(function() {
+    
+    var val = document.getElementById("s2");
+    var index = val.selectedIndex;
+    var txt = val.options[index].text;
+     var s3 = document.getElementById("s3"); //三级级市区
+     s3.options.length=1; //只保留首项option
+    //获取二级省份
+    $.ajax({        
+        "type": 'GET',
+        "url": './getCity',
+        "data": {province: txt}, //向后台传参
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象             
+                $.each(data, function(index,item) {
+                    s3.add(new Option(item["城市"],index)); //二级
+                });
+        }   
+    });
+});
+
+$(document).ready(function(){
+     $("#s3").change(function(){
+    var main = echarts.init(document.getElementById("main"));
+    var val = document.getElementById("s3");
+    var index = val.selectedIndex;
+    var txt = val.options[index].text;
+    //获取因子数据    
+    var potential = [];
+    var years = [];
+    var economy = [];
+    var population = [];
+    var local = [];
+    var supply = [];
+    option = {
+            title: {
+                text: txt+' 市（区）投资潜力指数',
+                left: '50%',
+                top:'18',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }             
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                top:"0",
+                //orient: 'ver',
+                data: ['投资潜力因子','经济因子','人口因子','区位因子','市场供需因子']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,
+                    //interval: 'auto',
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: [{
+                type: 'value',
+                name:'投资潜力因子、区位因子',
+                max: '105.5',
+                min:'100',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },{
+                type: 'value',
+                name:'市场供需因子、经济因子、人口因子',
+                max: '101.5',
+                min:'99',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            }],
+            series: [
+            {
+                name: '投资潜力因子',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                },
+                lineStyle: {
+                    normal: {
+                        width: 3,
+                        type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
+                }
+            }, {
+                name: '区位因子',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                            width:2,
+                           
+                    }
+                    }
+                },
+            }
+            , {
+                name: '人口因子',
+                type: 'line',
+                smooth: true, //实现变虚线设置为false，默认为true
+                yAxisIndex:1, //指代第二条y轴
+                data: [],
+              /*   markLine: {
+                    data: [{
+                        type: 'average',
+                        name: '平均值'
+                    }]
+                }, */
+                itemStyle: {
+                    normal: {
+                        color: '#8B1A1A',
+                        lineStyle: {                            
+                               width:2,
+                               //type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+               
+            }, {
+                name: '市场供需因子',
+                type: 'line',
+                smooth: true, //实现变虚线设置为false，默认为true
+                yAxisIndex: 1, //指代第二条y轴
+                data: [],
+              /*   markLine: {
+                    data: [{
+                        type: 'average',
+                        name: '平均值'
+                    }]
+                }, */
+                itemStyle: {
+                    normal: {
+                        color: '#BF3EFF',
+                        lineStyle: {                            
+                               width:2,
+                               //type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+               
+            }
+            , {
+                name: '经济因子',
+                type: 'line',
+                smooth: true, //实现变虚线设置为false，默认为true
+                yAxisIndex: 1, //指代第二条y轴
+                data: [],
+              /*   markLine: {
+                    data: [{
+                        type: 'average',
+                        name: '平均值'
+                    }]
+                }, */
+                itemStyle: {
+                    normal: {
+                        color: '#5793f3',
+                        lineStyle: {                            
+                               width:2,
+                               //type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+               
+            }
+
+            ]
+        };
+var map = {}
+main.showLoading();    //数据加载完之前先显示一段简单的loading动画
+    $.ajax({        
+        "type": 'GET',
+        "url": './getFactorData',
+        "data": {city: txt}, //向后台传参
+        "dataType": 'json',
+        "contentType": "application/json",      //json格式    
+         success: function (data) { //成功同步请求数据          
+                //请求成功时执行该函数内容，result即为服务器返回的json对象 
+                //console.log(data);
+                $.each(data, function(index,item) {
+                    potential.push(item['投资潜力因子']);
+                    years.push(item['年份']);
+                    economy.push(item['经济因子']);
+                    population.push(item['人口因子']);
+                    local.push(item['区位因子']);
+                    supply.push(item['市场供需因子']);    
+                    map[item['投资潜力因子']] =item['年份']
+                }); 
+                var element=document.getElementById("msg_potential");   
+                //增加投资潜力提示信息
+                console.log(potential)
+                var pmax = potential.max()
+                var pmin = potential.min()
+                var index_a = potential[0]
+                
+                var index_b = potential[potential.length-1]
+                console.log(index_a+"=="+index_b)
+                if(index_a < index_b) {
+                     element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈上升趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+                }else{
+                     element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈下降趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+                }
+               
+                
+                
+                
+                main.hideLoading();    //隐藏加载动画
+                main.setOption({        //加载数据图表                
+                    xAxis: {
+                        data: years
+                    },
+                    series: [{
+                        data: potential
+                    }, {
+                        data: economy
+                    }, {
+                        data: population
+                    }, {
+                        data: local
+                    }, {
+                        data: supply
+                    }]
+                });    
+         },
+         
+         error: function (errorMsg) {
+                //请求失败时执行该函数
+                alert("图表请求数据失败!");
+                main.hideLoading();
+            },
+        
+    })  
+    main.setOption(option);
+});
+     
+     $("#s5").change(function(){
+            var main = echarts.init(document.getElementById("mains"));
+            var val = document.getElementById("s5");
+            var index = val.selectedIndex;
+            var txt = val.options[index].text;
+            //获取因子数据    
+            var potential = [];
+            var years = [];
+            var economy = [];
+            var population = [];
+            var local = [];
+            var supply = [];
+            option = {
+                    title: {
+                        text: txt+' 市（区）投资潜力指数',
+                        left: '50%',
+                        top:'18',
+                        textAlign: 'center'
+                    },
+                    tooltip: {
+                        trigger: 'axis',
+                        axisPointer: {
+                            lineStyle: {
+                                color: '#000'
+                            }
+                        }
+                    },
+                    toolbox: {
+                        feature: {
+                        restore: {
+                             show: true,                         //是否显示该工具。
+                             title:"还原",
+                        },
+                        saveAsImage: {
+                            show: true,                         //是否显示该工具。
+                            title:"保存为图片",
+                            pixelRatio:1  
+                        },
+                        magicType: {                            //动态类型切换
+                            show: true,
+                            title:"切换",                       //各个类型的标题文本，可以分别配置。
+                            type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                        },
+                            dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                                show: true,                         //是否显示该工具。
+                                title:"数据视图",
+                                readOnly: false,                    //是否不可编辑（只读）
+                                lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                                backgroundColor:"#fff",             //数据视图浮层背景色。
+                                textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                                textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                                textColor:"#000",                    //文本颜色。
+                                buttonColor:"#c23531",              //按钮颜色。
+                                buttonTextColor:"#fff",             //按钮文本颜色。
+                            }
+                        }
+                    },
+                    legend: {
+                        left:"20",
+                        top:"0",
+                        //orient: 'ver',
+                        data: ['投资潜力因子','经济因子','人口因子','区位因子','市场供需因子']
+                    },
+                    xAxis: {
+                        type: 'category',
+                        name:'时间',
+                        data: [],
+                        boundaryGap: false,
+                        splitLine: {
+                            show: true,
+                            //interval: 'auto',
+                            lineStyle: {
+                                color: ['#D4DFF5']
+                            }
+                        }
+                    },
+                    yAxis: [{
+                        type: 'value',
+                        name:'投资潜力因子、区位因子',
+                        max: '105.5',
+                        min:'100',
+                        splitLine: {
+                            lineStyle: {
+                                color: ['#D4DFF5']
+                            }
+                        }
+                    },{
+                        type: 'value',
+                        name:'市场供需因子、经济因子、人口因子',
+                        max: '101.5',
+                        min:'99',
+                        splitLine: {
+                            lineStyle: {
+                                color: ['#D4DFF5']
+                            }
+                        }
+                    }],
+                    series: [
+                    {
+                        name: '投资潜力因子',
+                        type: 'line',
+                        smooth: true,
+                        data: [],
+                        
+                        itemStyle: {
+                            normal: {
+                                color: '#f7b851'
+                            }
+                        },
+                        lineStyle: {
+                            normal: {
+                                width: 3,
+                                type:'dotted'  //'dotted'虚线 'solid'实线
+                            }
+                        }
+                    }, {
+                        name: '区位因子',
+                        type: 'line',
+                        smooth: true,
+                        data: [],
+                        
+                        itemStyle: {
+                            normal: {
+                                color: '#58c8da',
+                                lineStyle: {                            
+                                    width:2,
+                                   
+                            }
+                            }
+                        },
+                    }
+                    , {
+                        name: '人口因子',
+                        type: 'line',
+                        smooth: true, //实现变虚线设置为false，默认为true
+                        yAxisIndex:1, //指代第二条y轴
+                        data: [],
+                      /*   markLine: {
+                            data: [{
+                                type: 'average',
+                                name: '平均值'
+                            }]
+                        }, */
+                        itemStyle: {
+                            normal: {
+                                color: '#8B1A1A',
+                                lineStyle: {                            
+                                       width:2,
+                                       //type:'dotted'  //'dotted'虚线 'solid'实线
+                               }
+                            }
+                        },
+                       
+                    }, {
+                        name: '市场供需因子',
+                        type: 'line',
+                        smooth: true, //实现变虚线设置为false，默认为true
+                        yAxisIndex: 1, //指代第二条y轴
+                        data: [],
+                      /*   markLine: {
+                            data: [{
+                                type: 'average',
+                                name: '平均值'
+                            }]
+                        }, */
+                        itemStyle: {
+                            normal: {
+                                color: '#BF3EFF',
+                                lineStyle: {                            
+                                       width:2,
+                                       //type:'dotted'  //'dotted'虚线 'solid'实线
+                               }
+                            }
+                        },
+                       
+                    }
+                    , {
+                        name: '经济因子',
+                        type: 'line',
+                        smooth: true, //实现变虚线设置为false，默认为true
+                        yAxisIndex: 1, //指代第二条y轴
+                        data: [],
+                      /*   markLine: {
+                            data: [{
+                                type: 'average',
+                                name: '平均值'
+                            }]
+                        }, */
+                        itemStyle: {
+                            normal: {
+                                color: '#5793f3',
+                                lineStyle: {                            
+                                       width:2,
+                                       //type:'dotted'  //'dotted'虚线 'solid'实线
+                               }
+                            }
+                        },
+                       
+                    }
+
+                    ]
+                };
+var map ={}
+        main.showLoading();    //数据加载完之前先显示一段简单的loading动画
+            $.ajax({        
+                "type": 'GET',
+                "url": './getFactorData',
+                "data": {city: txt}, //向后台传参
+                "dataType": 'json',
+                "contentType": "application/json",      //json格式    
+                 success: function (data) { //成功同步请求数据          
+                        //请求成功时执行该函数内容，result即为服务器返回的json对象 
+                        //console.log(data);
+                        $.each(data, function(index,item) {
+                            potential.push(item['投资潜力因子']);
+                            years.push(item['年份']);
+                            economy.push(item['经济因子']);
+                            population.push(item['人口因子']);
+                            local.push(item['区位因子']);
+                            supply.push(item['市场供需因子']);                            
+                            map[item['投资潜力因子']] =item['年份']
+                        }); 
+                        var element=document.getElementById("msg_potential2");  
+                        //增加投资潜力提示信息
+                        console.log(potential)
+                        var pmax = potential.max()
+                        var pmin = potential.min()
+                        var index_a = potential[0]                      
+                        var index_b = potential[potential.length-1]
+                        console.log(index_a+"=="+index_b)
+                        if(index_a < index_b) {
+                             element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈上升趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+                        }else{
+                             element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈下降趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
+                        }
+                        
+                        
+                        main.hideLoading();    //隐藏加载动画
+                        main.setOption({        //加载数据图表                
+                            xAxis: {
+                               data: years
+                            },
+                            series: [{
+                                data: potential
+                            }, {
+                                data: economy
+                            }, {
+                                data: population
+                            }, {
+                                data: local
+                            }, {
+                               data: supply
+                            }]
+                        });    
+                 },
+                 error: function (errorMsg) {
+                        //请求失败时执行该函数
+                        alert("图表请求数据失败!");
+                        main.hideLoading();
+                    }
+            })          
+    main.setOption(option);
+    });
+});
+
+//合成指数异步加载
+(function(){
+    var pie4 = echarts.init(document.getElementById("pie4"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '市场景气-合成指数',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },
+            }, 
+            toolbox: {
+                    feature: {
+                    restore: {
+                         show: true,                         //是否显示该工具。
+                         title:"还原",
+                    },
+                    saveAsImage: {
+                        show: true,                         //是否显示该工具。
+                        title:"保存为图片",
+                        pixelRatio:1  
+                    },
+                    magicType: {                            //动态类型切换
+                        show: true,
+                        title:"切换",                       //各个类型的标题文本，可以分别配置。
+                        type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                    },
+                        dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                            show: true,                         //是否显示该工具。
+                            title:"数据视图",
+                            readOnly: false,                    //是否不可编辑（只读）
+                            lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                            backgroundColor:"#fff",             //数据视图浮层背景色。
+                            textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                            textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                            textColor:"#000",                    //文本颜色。
+                            buttonColor:"#c23531",              //按钮颜色。
+                            buttonTextColor:"#fff",             //按钮文本颜色。
+                        }
+                    }
+                },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','同步指数','滞后指数','HPY']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: true,
+                splitLine: {
+                    show: true,              
+                    lineStyle: {
+                        color: '#fcc',
+                        width: 1
+                    }
+                },
+                axisLine: {
+                },
+            },
+            yAxis: [{
+                type: 'value',
+                name:'合成指数',
+                max: '104',
+                min:'95',
+                interval: 3,
+                splitLine: {
+                    show: true,
+                    lineStyle: {
+                        color: '#fcc',
+                        width: 2
+                      }
+                }                              
+            },{
+                type: 'value',
+                name:'房价指数',
+                max: '125',
+                min:'95',
+                interval: 3,
+                splitLine: {
+                   lineStyle: {
+                        color: '#fcc',
+                        width: 2
+                    }
+                }
+            }],
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                markArea: {
+                    data: [
+                      [{
+                        yAxis: 101,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(183,234,209,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 104
+                      }],
+                      [{
+                        yAxis: 101,
+                        itemStyle: {
+                          normal: {
+                            color: 'rgba(175,214,254,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 98
+                      }],
+                      [{
+                        yAxis: 98,
+                        itemStyle: {
+                          normal: {
+                             color: 'rgba(254,231,219,0.7)'
+                          }
+                        }
+                      }, {
+                        yAxis: 95
+                      }]             
+                    ]
+                  },
+                data: [],               
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                }
+            }, {
+                name: '同步指数',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da'
+                    }
+                }
+            }
+            , {
+                name: '滞后指数',
+                type: 'line',
+                smooth:true, 
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61'
+                    }
+                }
+            }
+            , {
+                name: 'HPY',
+                type: 'line',
+                smooth: true, 
+                yAxisIndex: 1, //指代第二条y轴
+                data: [],
+                markLine: {
+                    data: [{
+                        type: 'average',
+                        name: '平均值'
+                    }]
+                },
+                itemStyle: {
+                    normal: {
+                        color: '#5793f3',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+               
+            }
+
+            ]
+        };
+
+pie4.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index       = [];   //领先指数
+var coincident_index = [];   //同步指数
+var lag_index        = [];  //滞后指数
+var hpy              = []; //HPY
+var years            = []; //横坐标：年份
+$.ajax({
+    "url": "./getCI",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            coincident_index.push(item['同步指数']);
+            lag_index.push(item['滞后指数']);
+            hpy.push(item['HPY']);
+            years.push(item['id']);
+            //console.log(item['id']);
+        });             
+        pie4.hideLoading();    //隐藏加载动画
+        pie4.setOption({        //加载数据图表                
+            dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+            
+        }],
+            xAxis: {
+                data: years
+            },
+            series: [{
+               data: lead_index
+            }, {
+              data: coincident_index
+            }, {
+               data: lag_index
+            }, {
+               data: hpy
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie4.hideLoading();
+    }
+}); 
+
+pie4.setOption(option);
+var map1 = {};
+var map2 = {};
+var tstart = ""
+var tend = ""
+
+pie4.on("dataZoom", function(params){ 
+    var element=document.getElementById("msg");
+    
+    var opt = pie4.getOption()
+    console.log(params)
+    var dz = opt.dataZoom[0];
+    var year = opt.xAxis[0].data;
+    var hpy = opt.series[3].data;
+    var lead = opt.series[0].data;
+    for (var i = 0; i < year.length; i++) {
+       map1[year[i]] = hpy[i]
+       map2[year[i]] = lead[i]
+    }   
+    tstart = opt.xAxis[0].data[dz.startValue];
+    tstart1 = opt.xAxis[0].data[dz.startValue+1];
+    console.log(tstart1)
+    tend = opt.xAxis[0].data[dz.endValue];  
+    var date = "『动态分析预测』"+tstart+"至"+tend
+    var industry = "[房地产]"
+    if(map1[tstart]<map1[tend])
+    {
+        if(map2[tstart1]<map2[tend])
+            element.innerHTML=date+"期间，"+industry+"行业整体处于上升趋势, 预期未来3-6个月整体呈上行趋势。"
+        else
+            element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势, 预期未来3-6个月整体呈下行趋势。"   
+    }
+    else{
+        
+        if(map2[tstart1]<map2[tend])
+            element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势，预期未来3-6个月整体呈上行趋势。"
+        else
+            element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势，预期未来3-6个月整体呈下行趋势。"    
+    }  
+});
+})();
+
+
+//扩散指数
+(function(){
+    var pie5 = echarts.init(document.getElementById("pie5"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '市场景气-扩散指数',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                },                    
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','同步指数','滞后指数']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: true,
+                splitLine: {
+                    show: true,
+                    width: 1
+                    
+                },
+                axisLine: {
+                  onZero: true
+                },
+            },
+            yAxis: {
+                type: 'value',
+                name:'扩散指数',
+                max: '100',
+                min:'-10',
+                splitLine: {
+                    show: true,
+                     lineStyle: {
+                         color: '#fcc',
+                         width: 2
+                       }
+                },
+            },
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                itemStyle: {
+                    normal: {
+                      color: '#2dbeff'
+                    }
+                  },
+                  markArea: {
+                      data: [
+                        [{
+                          yAxis: 80,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(183,234,209,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 100
+                        }],
+                        [{
+                          yAxis: 80,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(175,214,254,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 60
+                        }],
+                        [{
+                          yAxis: 60,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(183,226,234,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 40
+                        }],
+                        [{
+                          yAxis: 40,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(244,228,199,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 20
+                        }],
+                        [{
+                          // name: 'E',
+                          yAxis: 20,
+                          itemStyle: {
+                            normal: {
+                              color: 'rgba(254,231,219,0.7)'
+                            }
+                          }
+                        }, {
+                          yAxis: 0
+                        }],
+                        [{
+                            // name: 'E',
+                            yAxis: 0,
+                            itemStyle: {
+                              normal: {
+                                color: 'rgba(254,131,219,0.7)'
+                              }
+                            }
+                          }, {
+                            yAxis: -10
+                          }]
+                      ]
+                    },
+                data: [],
+            }, {
+                name: '同步指数',
+                type: 'line',
+                smooth: true,
+                itemStyle: {
+                    normal: {
+                      color: '#ff62a3'
+                    }
+                  },
+                data: [],
+            }
+            , {
+                name: '滞后指数',
+                type: 'line',
+                smooth:true, 
+                itemStyle: {
+                    normal: {
+                      color: '#23ca55'
+                    }
+                  },
+                data: [],
+            }]
+        };
+pie5.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index       = [];   //领先指数
+var coincident_index = [];   //同步指数
+var lag_index        = [];  //滞后指数
+var years            = []; //横坐标：年份
+$.ajax({
+    "url": "./getDiffIndex",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        console.log("test"+data);
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            coincident_index.push(item['同步指数']);
+            lag_index.push(item['滞后指数']);
+            years.push(item['id']);
+           
+        });     
+        console.log(lead_index);
+        pie5.hideLoading();    //隐藏加载动画
+        pie5.setOption({        //加载数据图表                
+             dataZoom: {
+                 show: true,
+                 realtime: true,
+                 start: 0,
+                 end: 60,                 
+               },              
+            xAxis: {
+                data: years
+            },
+            series: [{
+                data: lead_index
+            }, {
+                data: coincident_index
+            }, {
+                data: lag_index
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        pie5.hideLoading();
+    }
+}); 
+pie5.setOption(option);
+//add analysis msg 0516
+
+
+var map2 = {};
+var tstart = ""
+var tend = ""
+
+var test = []
+pie5.on("dataZoom", function(params){
+    var test = []
+    var element=document.getElementById("msg"); 
+    var opt = pie5.getOption()
+    var dz = opt.dataZoom[0];
+    var year = opt.xAxis[0].data;
+    var lead = opt.series[0].data;
+    for (var i = 0; i < year.length; i++) {
+       map2[year[i]] = lead[i]
+    }   
+    var start = dz.startValue //起点
+    var end = dz.endValue //终点
+    //console.log(dz.startValue+"==>"+dz.endValue)
+    tstart = opt.xAxis[0].data[start]; //起点     
+    tend = opt.xAxis[0].data[end];  //终点
+    for(var i =start;i<=end;i++) {
+        test [i] = lead[i];         
+    }   
+    //console.log(map1)
+    var maxima = [];
+    var minima = []
+    //console.log(test)
+    //获取极大、极小值及对应年份
+    var direction = test[0] > 0? -1:1;
+      for(var i=0;i<test.length-1;i++) {
+       if((test[i+1]-test[i])*direction>0) {
+        direction*=-1;
+        if(direction == 1) {
+            maxima.push(opt.xAxis[0].data[i])
+            //console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极大值");
+        } else {
+            minima.push(opt.xAxis[0].data[i])
+            //console.log("("+opt.xAxis[0].data[i]+","+test[i]+")"+"极小值");
+            }
+        }
+      }
+    var industry = "[房地产]"
+    var date = tstart+"至"+tend
+    //console.log(maxima+"=="+minima)"『动态分析预测』"+
+    var element=document.getElementById("msg_kuosan");
+    if(maxima.length!=0 && minima.length!=0){
+    element.innerHTML= date+"时间段内，"+"领先指数在时间点："+maxima+"为极大值点，表明此后3-6个月，"+industry+"市场景气可能会达到峰值并出现反转。"+'<br>'
+    element.append(date+"时间段内，"+"领先指数在时间点："+minima+"为极小值点，表明此后3-6个月，"+industry+"市场景气可能会进入低谷期并出现反转。")
+    }
+    else{
+        //无极值时判断走势
+        if(lead[start]<lead[end])
+            element.innerHTML= date+"时间段内表明未来3-6个月内，房地产市场整体将可能呈现上升趋势"
+        else
+            element.innerHTML= date+"时间段内表明未来3-6个月内，房地产市场整体将可能呈现下降趋势"
+    }
+});
+
+
+
+})();
+
+//房地产风险预警
+(function(){
+    var Risk = echarts.init(document.getElementById("Risk"));
+    /* pie3.showLoading({
+     text: "图表数据正在努力加载..."
+ }); */
+ option = {
+            title: {
+                text: '房地产市场风险预警',
+                left: '50%',
+                textAlign: 'center'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    lineStyle: {
+                        color: '#000'
+                    }
+                }
+            },
+            toolbox: {
+                feature: {
+                restore: {
+                     show: true,                         //是否显示该工具。
+                     title:"还原",
+                },
+                saveAsImage: {
+                    show: true,                         //是否显示该工具。
+                    title:"保存为图片",
+                    pixelRatio:1  
+                },
+                magicType: {                            //动态类型切换
+                    show: true,
+                    title:"切换",                       //各个类型的标题文本，可以分别配置。
+                    type: ['line', 'bar'],              //启用的动态类型，包括'line'（切换为折线图）, 'bar'（切换为柱状图）, 'stack'（切换为堆叠模式）, 'tiled'（切换为平铺模式）
+                },
+                    dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+                        show: true,                         //是否显示该工具。
+                        title:"数据视图",
+                        readOnly: false,                    //是否不可编辑（只读）
+                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        backgroundColor:"#fff",             //数据视图浮层背景色。
+                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        textColor:"#000",                    //文本颜色。
+                        buttonColor:"#c23531",              //按钮颜色。
+                        buttonTextColor:"#fff",             //按钮文本颜色。
+                    }
+                }
+            },
+            legend: {
+                left:"20",
+                //orient: 'ver',
+                data: ['领先指数','偏热线','偏冷线','适度上限','适度下限']
+            },
+            xAxis: {
+                type: 'category',
+                name:'时间',
+                data: [],
+                boundaryGap: false,
+                splitLine: {
+                    show: true,                  
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            yAxis: {
+                type: 'value',
+                name:'指数',
+                max: '103',
+                min:'97',
+                splitLine: {
+                    lineStyle: {
+                        color: ['#D4DFF5']
+                    }
+                }
+            },
+            series: [
+            {
+                name: '领先指数',
+                type: 'line',
+                smooth: true,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#f7b851'
+                    }
+                }
+            }, {
+                name: '偏热线',
+                type: 'line',
+                smooth: true,
+                data: [],            
+                itemStyle: {
+                    normal: {
+                        color: '#58c8da',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '偏冷线',
+                type: 'line',
+                smooth:true,  
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#000093',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '适度上限',
+                type: 'line',
+                smooth:true, 
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#d14a61',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }, {
+                name: '适度下限',
+                type: 'line',
+                smooth:true, 
+                data: [],
+                
+                itemStyle: {
+                     normal: {
+                        color: '#5793f3',
+                        lineStyle: {                            
+                               width:3,
+                               type:'dotted'  //'dotted'虚线 'solid'实线
+                       }
+                    }
+                },
+            }]
+        };
+
+ Risk.showLoading();    //数据加载完之前先显示一段简单的loading动画
+
+//ajax异步请求数据
+var lead_index = [];   //领先指数
+var hot_line   = [];   //偏热线
+var cold_line  = [];  //偏冷线
+var upper      = [];   //适度上限
+var limit      = [];  //适度下限
+var years      = []; //横坐标：年份
+$.ajax({
+    "url": "./getRiskPreAlarming",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "GET",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+        $.each(data, function(index,item) {
+            lead_index.push(item['领先指数']);
+            hot_line.push(item['偏热线']);
+            cold_line.push(item['偏冷线']);
+            upper.push(item['适度上限']);
+            limit.push(item['适度下限']);
+            years.push(item['id']);
+        });           
+        Risk.hideLoading();    //隐藏加载动画
+        Risk.setOption({        //加载数据图表                
+             dataZoom: [{
+            type: 'inside',
+            start: 0,
+            end: 60
+        }, {
+            show: true,
+            type: 'slider',
+            y: '90%',
+            start: 0,
+            end: 50
+        }], 
+            xAxis: {
+                data: years
+            },
+            series: [{
+                data: lead_index
+            }, {
+                data: hot_line
+            }, {
+                data: cold_line
+            }, {
+                data: upper
+            }, {
+                data: limit
+            }]
+        });
+    },
+    error: function (errorMsg) {
+        //请求失败时执行该函数
+        alert("图表请求数据失败!");
+        Risk.hideLoading();
+    }
+}); 
+
+Risk.setOption(option);
+var map1 = {};
+var map2 = {};
+var tstart = ""
+var tend = ""
+Risk.on("dataZoom", function(params){ 
+    var element=document.getElementById("msg_risk");    
+    var opt = Risk.getOption()
+    //console.log(params)
+    var dz = opt.dataZoom[0];
+    var lead = opt.series[0].data;
+    var hot = opt.series[1].data[0];//偏热线
+    var cold = opt.series[2].data[0];//偏冷线
+    var upper = opt.series[3].data[0];
+    var limit = opt.series[4].data[0];  
+    var start = dz.startValue;
+    var end = dz.endValue;
+    tstart = opt.xAxis[0].data[start];
+    tend = opt.xAxis[0].data[end];
+    var date = tstart+"至"+tend
+    //console.log(upper+" "+limit)
+    var ldata = []
+    for (var i = start; i <= end; i++) {
+        ldata[i] = lead[i]
+    }
+    
+var fdata = []
+for(var i =0;i<ldata.length;i++){
+    if(ldata[i] != null || typeof(ldata[i]) != "undefined")
+    {
+        fdata.push(ldata[i])        
+    }
+}
+    var lmax = fdata.max()
+    var lmin = fdata.min()
+    var hotData = []
+    var coldData = []
+    if(parseFloat(lmax) <=parseFloat(upper) && parseFloat(lmin)>=parseFloat(limit)){
+         element.innerHTML="根据领先指数判断，"+ date+ "期间，房地产市场处风险状况为：适度；"
+    }
+    for(var i =start;i<=end;i++)
+     {
+        if(parseFloat(ldata[i]) >= parseFloat(hot)){            
+            hotData.push(opt.xAxis[0].data[i])          
+        }
+        if(parseFloat(ldata[i]) <= parseFloat(limit)){
+            coldData.push(opt.xAxis[0].data[i])         
+        }       
+    }
+    
+    if(hotData.length!=0) {
+        element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"
+    }
+    
+    if(coldData.length!=0) {
+        element.innerHTML = "根据领先指数判断，房地产市场在，"+ coldData + "过冷"
+    }
+    //console.log(coldData.length+"============"+hotData.length)
+    //issue：在获取数组长度时，通过.length()方法，出现判断失误，因此采用以下方法判断数组是否为false
+    if(hotData!=false && coldData!=false) {
+        element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"+'<br>'
+        element.append("根据领先指数判断，房地产市场在，"+ coldData + "过冷")
+        }
+    });
+})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+//tab窗口切换0604 by Hang Hang Li
+function setTab(name,cursel){
+ cursel_0=cursel;
+ for(var i=1; i<=links_len; i++){
+  var menu = document.getElementById(name+i);
+  var menudiv = document.getElementById("con_"+name+"_"+i);
+  if(i==cursel){
+   menu.className="off";
+   menudiv.style.display="block";
+  }
+  else{
+   menu.className="";
+   menudiv.style.display="none";
+  }
+ }
+}
+function Next(){
+ cursel_0++;
+ if (cursel_0>links_len)cursel_0=1
+ setTab(name_0,cursel_0);
+}
+var name_0='one';
+var cursel_0=1;
+//var ScrollTime=3000;//循环周期（毫秒）
+var links_len,iIntervalId;
+onload=function(){
+ var links = document.getElementById("tab1").getElementsByTagName('li')
+ links_len=links.length;
+ for(var i=0; i<links_len; i++){
+  links[i].onmouseover=function(){
+   clearInterval(iIntervalId);
+   this.onmouseout=function(){
+    //iIntervalId = setInterval(Next,ScrollTime);;
+   }
+  }
+ }
+ document.getElementById("con_"+name_0+"_"+links_len).parentNode.onmouseover=function(){
+  clearInterval(iIntervalId);
+  this.onmouseout=function(){
+   //iIntervalId = setInterval(Next,ScrollTime);;
+  }
+ }
+ setTab(name_0,cursel_0);
+ //iIntervalId = setInterval(Next,ScrollTime);
+}
