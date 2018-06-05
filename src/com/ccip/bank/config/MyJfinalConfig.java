@@ -46,8 +46,13 @@ public class MyJfinalConfig extends JFinalConfig {
     		arp.addMapping("en_user","id", User.class);	// 映射到用户表
     		//行业动态模型数据库表映射
     		arp.addMapping("en_market","id", Market.class);	// 映射行业动态分布核心数据表
+    		arp.addMapping("en_hc_yj","id", Market.class);	// 映射合成指数分布核心数据表
+    		
+    		//测试使用
     		arp.addMapping("en_ci","id", Market.class);	// 映射合成指数分布核心数据表
-            arp.addMapping("en_diffusion_index","id", Market.class); //映射分散指数核心数据表            
+    		
+    		
+            arp.addMapping("en_diffusion_index","id", Market.class); //映射扩散指数核心数据表            
             arp.addMapping("en_all_company","id", Company.class); //映射公司信息数据表
             arp.addMapping("en_market_city",InvestPotential.class); //映射投资潜力城市表
             arp.addMapping("en_market_city_factor",InvestFactor.class); //映射各城市投资潜力因子

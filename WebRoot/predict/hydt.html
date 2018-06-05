@@ -17,10 +17,9 @@
     </div>
 
     <div class="sd_company_container" style="margin-top: 20px;">
-
         <div class="tab1" id="tab1">
  <div class="menu">
-  <ul>
+  <ul id="tabs">
    <li id="one1" onclick="setTab('one',1)">房地产业</li>
    <li id="one2" onclick="setTab('one',2)">汽车制造业</li>
    <li id="one3" onclick="setTab('one',3)">信息技术服务业</li>
@@ -58,7 +57,7 @@
                             </a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
                                 <li><a href="#hecheng" tabindex="-1" data-toggle="tab">合成指数</a></li>
-                                <li><a href="#kuosan" tabindex="-1" data-toggle="tab">扩散指数</a></li>
+                                <li onclick="kuosan(0)"><a href="#kuosan" tabindex="-1" data-toggle="tab">扩散指数</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -116,8 +115,8 @@
                     <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
-                     <div id="pie5" style="width: 1100px;height: 400px;"></div>
-                     <p id='msg_kuosan' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                     <div id="pie5_0" style="width: 1100px;height: 400px;"></div>
+                     <p id='msg_kuosan_0' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="yingli">
                      <div id="pie8" style="width: 1100px;height: 400px;"></div>
@@ -141,22 +140,94 @@
             <!-- </div> -->
         </div>            
   </div>
-  <div id="con_one_2" style="display:none;">汽车制造业</div>
-  <div id="con_one_3" style="display:none;">信息服务业</div>
+
+  <!--汽车行业动态分析-->
+  <div id="con_one_2" style="display:none;">
+                    <ul id="myTab" class="nav nav-tabs"> 
+                     <li><a href="#markets" data-toggle="tab">市场风险预警</a></li> 
+                     <li class="dropdown">
+                            <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">景气分析 
+                            <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+                                <li><a href="#hechengs" tabindex="-1" data-toggle="tab">合成指数</a></li>
+                                <li onclick="kuosan(1)" ><a href="#kuosans" tabindex="-1" data-toggle="tab">扩散指数</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                <div id="myTabContent" class="tab-content"  style="height: 500px">
+                    <div class="tab-pane fade" id="hechengs">
+                        <div id="pie4" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px">test</p>
+                    </div>
+                    <div class="tab-pane fade" id="kuosans">
+                        <div id="pie5_1" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_kuosan_1' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                </div>
+  </div>
+  <div id="con_one_3" style="display:none;">
+                    <ul id="myTab" class="nav nav-tabs"> 
+                        <li class="dropdown">
+                            <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">财务风险 
+                            <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+                                <li><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
+                                <li><a href="#yingli" tabindex="-1" data-toggle="tab">盈利能力</a></li>
+                                <li><a href="#zengzhang" tabindex="-1" data-toggle="tab">增长潜力</a></li>
+                                <li><a href="#changzhai" tabindex="-1" data-toggle="tab">偿债能力</a></li>
+                                <li><a href="#jingying" tabindex="-1" data-toggle="tab">经营效率</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#market" data-toggle="tab">市场风险预警</a></li>
+                        <li class="dropdown">
+                            <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">区域投资潜力
+                            <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+                                <li><a href="#zone" tabindex="-1" data-toggle="tab">按地区查看</a></li>
+                                <li><a href="#devlop" tabindex="-1" data-toggle="tab">按发展程度</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">景气分析 
+                            <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+                                <li><a href="#hecheng" tabindex="-1" data-toggle="tab">合成指数</a></li>
+                                <li><a href="#kuosan" tabindex="-1" data-toggle="tab">扩散指数</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
   <!-- <div id="con_one_4" style="display:none;">我的网站我做主</div> -->
  </div>
 </div>
-        <div class="sd_cent">
+<!--        <div class="sd_cent">
             <div class="sd_cent">           		
-                  <!--<ul id="myTab" class="nav nav-tabs">                             
+                  <ul id="myTab" class="nav nav-tabs">                             
                         <li><a href="#test" data-toggle="tab"></a></li>
                         <li><a href="#carManufacture" data-toggle="tab"></a></li>
                         <li><a href="#in foService" data-toggle="tab"></a></li>
-                    </ul> -->
+                    </ul> 
                 <div class="sd_left_block">
 
                 </div>                              
-                 <!-- <div class="sd_left_block">
+                 <div class="sd_left_block">
                     <div class="sd_left_block_tit">
                         <b>市场分析报告</b>                      
                     </div>
@@ -165,13 +236,13 @@
                           	<p id="">图表说明</p>                                                                            
                     	</div>                                              
                      </div>
-                </div> -->
-              <!-- <div class="sd_left_block">
+                </div>
+              <div class="sd_left_block">
                   
-             </div> -->
+             </div> 
             </div>
         
-        </div>
+        </div> --> 
     </div>
 </div>
 #end

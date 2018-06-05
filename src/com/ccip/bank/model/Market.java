@@ -23,12 +23,12 @@ public class Market extends Model<Market>{
 		return dao.find("select * from en_market order by id asc");
 	}
 	//获取合成指数数据
-	public List<Market> getCi(){
-		return ci.find("select * from en_ci order by id asc");
+	public List<Market> getCi(int type){
+		return ci.find("select * from en_hc_yj  where type = ?", type);
 	}
 	//获取扩散指数数据
-	public List<Market> getDiffusionIndex(){
-		return diffusion.find("select * from en_diffusion_index order by id asc");
+	public List<Market> getDiffusionIndex(int type){
+		return diffusion.find("select * from en_diffusion_index where type = ?", type);
 	}
 	
 	//获取风险预警数据0328

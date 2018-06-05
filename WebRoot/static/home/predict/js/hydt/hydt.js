@@ -1,4 +1,53 @@
 
+
+//tab窗口切换0604 by Hang Hang Li
+function setTab(name,cursel){
+ cursel_0=cursel;
+ for(var i=1; i<=links_len; i++){
+  var menu = document.getElementById(name+i);
+  var menudiv = document.getElementById("con_"+name+"_"+i);
+  if(i==cursel){
+   menu.className="off";
+   menudiv.style.display="block";
+  }
+  else{
+   menu.className="";
+   menudiv.style.display="none";
+  }
+ }
+}
+function Next(){
+    cursel_0++;
+    if (cursel_0>links_len) cursel_0=1
+    setTab(name_0,cursel_0);
+}
+var name_0='one';
+var cursel_0=1;
+//var type = 0; 默认选中第一个行业
+var links_len,iIntervalId;
+onload=function(){
+    var links = document.getElementById("tab1").getElementsByTagName('li')
+    links_len=links.length;
+    var funny = function(i){
+    links[i].onclick = function(){
+            console.log("第" + (i+1) + "个");
+        }
+    }    
+    /*for(var i=0; i<links_len; i++){        
+        type = i;
+        console.log(i)
+  // links[i].onmouseover=function(){
+  //  //clearInterval(iIntervalId);
+   
+  // }
+    }*/
+ setTab(name_0,cursel_0);
+}
+
+
+
+//数据处理Js
+
 var reducer = function add(sumSoFar, item) {
       sumSoFar.sum = sumSoFar.sum + item;
       return sumSoFar;
@@ -1134,7 +1183,7 @@ var len = 0;
 })();
 //二级状态改变事件
 $("#s4").change(function(){
-    
+
     var val = document.getElementById("s4");
     var index = val.selectedIndex;
     var txt = val.options[index].text;
@@ -1211,7 +1260,7 @@ $("#s2").change(function() {
 });
 
 $(document).ready(function(){
-     $("#s3").change(function(){
+    $("#s3").change(function(){
     var main = echarts.init(document.getElementById("main"));
     var val = document.getElementById("s3");
     var index = val.selectedIndex;
@@ -1446,11 +1495,7 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                      element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈上升趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
                 }else{
                      element.innerHTML="该段时间内，["+txt+"市(区)]投资潜力整体呈下降趋势，在 "+map[pmax]+"年投资潜力达到最大值，在"+map[pmin]+"年投资潜力最小。"
-                }
-               
-                
-                
-                
+                }                                                            
                 main.hideLoading();    //隐藏加载动画
                 main.setOption({        //加载数据图表                
                     xAxis: {
@@ -1468,14 +1513,12 @@ main.showLoading();    //数据加载完之前先显示一段简单的loading动
                         data: supply
                     }]
                 });    
-         },
-         
+         },         
          error: function (errorMsg) {
                 //请求失败时执行该函数
                 alert("图表请求数据失败!");
                 main.hideLoading();
-            },
-        
+            },        
     })  
     main.setOption(option);
 });
@@ -1948,6 +1991,7 @@ var years            = []; //横坐标：年份
 $.ajax({
     "url": "./getCI",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(0)},
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
@@ -1955,11 +1999,11 @@ $.ajax({
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
         $.each(data, function(index,item) {
-            lead_index.push(item['领先指数']);
-            coincident_index.push(item['同步指数']);
-            lag_index.push(item['滞后指数']);
+            lead_index.push(item['领先指数_H']);
+            coincident_index.push(item['同步指数_H']);
+            lag_index.push(item['滞后指数_H']);
             hpy.push(item['HPY']);
-            years.push(item['id']);
+            years.push(item['year']);
             //console.log(item['id']);
         });             
         pie4.hideLoading();    //隐藏加载动画
@@ -1998,6 +2042,8 @@ $.ajax({
 }); 
 
 pie4.setOption(option);
+
+//动态信息展示
 var map1 = {};
 var map2 = {};
 var tstart = ""
@@ -2039,10 +2085,13 @@ pie4.on("dataZoom", function(params){
 });
 })();
 
-
+var pie5;
 //扩散指数
-(function(){
-    var pie5 = echarts.init(document.getElementById("pie5"));
+function kuosan(type){
+     if (pie5 != null && pie5 != "" && pie5 != undefined) {
+            pie5.dispose();
+        }
+    pie5 = echarts.init(document.getElementById("pie5_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -2232,6 +2281,7 @@ var years            = []; //横坐标：年份
 $.ajax({
     "url": "./getDiffIndex",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
@@ -2243,7 +2293,7 @@ $.ajax({
             lead_index.push(item['领先指数']);
             coincident_index.push(item['同步指数']);
             lag_index.push(item['滞后指数']);
-            years.push(item['id']);
+            years.push(item['year']);
            
         });     
         console.log(lead_index);
@@ -2275,6 +2325,8 @@ $.ajax({
 }); 
 pie5.setOption(option);
 //add analysis msg 0516
+
+
 
 
 var map2 = {};
@@ -2321,7 +2373,7 @@ pie5.on("dataZoom", function(params){
     var industry = "[房地产]"
     var date = tstart+"至"+tend
     //console.log(maxima+"=="+minima)"『动态分析预测』"+
-    var element=document.getElementById("msg_kuosan");
+    var element=document.getElementById("msg_kuosan_"+type);
     if(maxima.length!=0 && minima.length!=0){
     element.innerHTML= date+"时间段内，"+"领先指数在时间点："+maxima+"为极大值点，表明此后3-6个月，"+industry+"市场景气可能会达到峰值并出现反转。"+'<br>'
     element.append(date+"时间段内，"+"领先指数在时间点："+minima+"为极小值点，表明此后3-6个月，"+industry+"市场景气可能会进入低谷期并出现反转。")
@@ -2337,7 +2389,8 @@ pie5.on("dataZoom", function(params){
 
 
 
-})();
+};
+
 
 //房地产风险预警
 (function(){
@@ -2618,61 +2671,3 @@ for(var i =0;i<ldata.length;i++){
         }
     });
 })();
-
-
-
-
-
-
-
-
-
-
-
-
-
-//tab窗口切换0604 by Hang Hang Li
-function setTab(name,cursel){
- cursel_0=cursel;
- for(var i=1; i<=links_len; i++){
-  var menu = document.getElementById(name+i);
-  var menudiv = document.getElementById("con_"+name+"_"+i);
-  if(i==cursel){
-   menu.className="off";
-   menudiv.style.display="block";
-  }
-  else{
-   menu.className="";
-   menudiv.style.display="none";
-  }
- }
-}
-function Next(){
- cursel_0++;
- if (cursel_0>links_len)cursel_0=1
- setTab(name_0,cursel_0);
-}
-var name_0='one';
-var cursel_0=1;
-//var ScrollTime=3000;//循环周期（毫秒）
-var links_len,iIntervalId;
-onload=function(){
- var links = document.getElementById("tab1").getElementsByTagName('li')
- links_len=links.length;
- for(var i=0; i<links_len; i++){
-  links[i].onmouseover=function(){
-   clearInterval(iIntervalId);
-   this.onmouseout=function(){
-    //iIntervalId = setInterval(Next,ScrollTime);;
-   }
-  }
- }
- document.getElementById("con_"+name_0+"_"+links_len).parentNode.onmouseover=function(){
-  clearInterval(iIntervalId);
-  this.onmouseout=function(){
-   //iIntervalId = setInterval(Next,ScrollTime);;
-  }
- }
- setTab(name_0,cursel_0);
- //iIntervalId = setInterval(Next,ScrollTime);
-}

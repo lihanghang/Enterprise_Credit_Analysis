@@ -67,24 +67,25 @@ public class PredictController extends Controller{
 	
 	//房地产合成指数数据0326
 	public void getCI(){
-		
-		List<Market> cIdata = Market.ci.getCi();
+		int type = getParaToInt("type");
+		List<Market> cIdata = Market.ci.getCi(type);
 		String cJson = JsonKit.toJson(cIdata);
 		renderJson(cJson);
 	}
 
 	//房地产扩散指数数据0326
 	public void getDiffIndex(){
-		
-		List<Market> diffIdata = Market.diffusion.getDiffusionIndex();		
+		//以行业进行数据查询
+		int type = getParaToInt("type");
+		List<Market> diffIdata = Market.diffusion.getDiffusionIndex(type);		
 		String diffJson = JsonKit.toJson(diffIdata);
 		System.out.println(diffJson);
 		renderJson(diffJson);
 	}
 	
 	//房地产风险预警数据0328
-		public void getRiskPreAlarming(){
-			
+	public void getRiskPreAlarming(){
+		
 			List<Market> Riskdata = Market.ci.getRiskPreAlarming();			
 			String RiskJson = JsonKit.toJson(Riskdata);			
 			//System.out.println(RiskJson);

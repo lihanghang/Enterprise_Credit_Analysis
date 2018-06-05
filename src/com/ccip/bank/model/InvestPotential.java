@@ -1,10 +1,6 @@
-/**
- * 
- */
 package com.ccip.bank.model;
 
 import java.util.List;
-
 import com.jfinal.plugin.activerecord.Model;
 /**
  * @date 2018年4月2日 上午11:12:58 
