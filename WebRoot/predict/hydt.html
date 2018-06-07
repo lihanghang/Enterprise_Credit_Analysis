@@ -41,7 +41,7 @@
                                 <li><a href="#jingying" tabindex="-1" data-toggle="tab">经营效率</a></li>
                             </ul>
                         </li>
-                        <li><a href="#market" data-toggle="tab">市场风险预警</a></li>
+                        <li onclick="yujing(0)"><a href="#market" data-toggle="tab">市场风险预警</a></li>
                         <li class="dropdown">
                             <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">区域投资潜力
                             <b class="caret"></b>
@@ -56,7 +56,7 @@
                             <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-                                <li><a href="#hecheng" tabindex="-1" data-toggle="tab">合成指数</a></li>
+                                <li onclick="hecheng(0)"><a href="#hecheng" tabindex="-1" data-toggle="tab">合成指数</a></li>
                                 <li onclick="kuosan(0)"><a href="#kuosan" tabindex="-1" data-toggle="tab">扩散指数</a></li>
                             </ul>
                         </li>
@@ -70,8 +70,8 @@
                             </div> 
                         </div>
                         <div class="tab-pane fade" id="market">
-                            <div id="Risk" style="width: 1100px;height: 400px;"></div>
-                            <p id="msg_risk" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
+                            <div id="Risk_0" style="width: 1100px;height: 400px;"></div>
+                            <p id="msg_risk_0" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
                         </div>
                         <div class="tab-pane fade" id="zone" style="height: 550px">                   
                             <div class="or_category" name="form">                 
@@ -111,8 +111,8 @@
                 </div>
                 <p id='msg_potential2' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 <div class="tab-pane fade" id="hecheng">
-                    <div id="pie4" style="width: 1100px;height: 400px;"></div>
-                    <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    <div id="pie4_0" style="width: 1100px;height: 400px;"></div>
+                    <p id='msg_hecheng_0' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
                 </div>
                 <div class="tab-pane fade" id="kuosan">
                      <div id="pie5_0" style="width: 1100px;height: 400px;"></div>
@@ -125,17 +125,14 @@
                 <div class="tab-pane fade" id="zengzhang">
                      <div id="pie6" style="width: 1100px;height: 400px;"></div>
                       <p id='msg_zengzhang' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
-
                 </div>
                 <div class="tab-pane fade" id="changzhai">
                      <div id="pie7" style="width: 1100px;height: 400px;"></div>
                       <p id='msg_changzhai' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
-
                 </div>
                 <div class="tab-pane fade" id="jingying">
                      <div id="pie9" style="width: 1100px;height: 400px;"></div>
                       <p id='msg_jingying' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
-
                 </div>
             <!-- </div> -->
         </div>            
@@ -144,22 +141,60 @@
   <!--汽车行业动态分析-->
   <div id="con_one_2" style="display:none;">
                     <ul id="myTab" class="nav nav-tabs"> 
-                     <li><a href="#markets" data-toggle="tab">市场风险预警</a></li> 
+                        <li class="dropdown">
+                            <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">财务风险 
+                            <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+                                <li><a href="#homes" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
+                                <li><a href="#yinglis" tabindex="-1" data-toggle="tab">盈利能力</a></li>
+                                <li><a href="#zengzhangs" tabindex="-1" data-toggle="tab">增长潜力</a></li>
+                                <li><a href="#changzhais" tabindex="-1" data-toggle="tab">偿债能力</a></li>
+                                <li><a href="#jingyings" tabindex="-1" data-toggle="tab">经营效率</a></li>
+                            </ul>
+                        </li>
+                     <li onclick="yujing(1)"><a href="#markets" data-toggle="tab">市场风险预警</a></li> 
                      <li class="dropdown">
                             <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">景气分析 
                             <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-                                <li><a href="#hechengs" tabindex="-1" data-toggle="tab">合成指数</a></li>
+                                <li onclick="hecheng(1)" ><a href="#hechengs" tabindex="-1" data-toggle="tab">合成指数</a></li>
                                 <li onclick="kuosan(1)" ><a href="#kuosans" tabindex="-1" data-toggle="tab">扩散指数</a></li>
                             </ul>
                         </li>
                     </ul>
 
                 <div id="myTabContent" class="tab-content"  style="height: 500px">
+                        <div class="tab-pane fade in active" id="homes">                           
+                            <div id="pie3" style="width: 100%;height: 400px;"></div>
+                            <p id='msg_home' style="font-family: Microsoft Yahei;font-weight: bold;font-size: 15px"></p>
+                        </div>
+
+                    <div class="tab-pane fade" id="yinglis">
+                        <div id="pie8" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_yingli' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="zengzhangs">
+                        <div id="pie6" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_zengzhang' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="changzhais">
+                        <div id="pie7" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_changzhai' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="jingyings">
+                        <div id="pie9" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_jingying' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+
+                    <div class="tab-pane fade" id="markets">
+                            <div id="Risk_1" style="width: 1100px;height: 400px;"></div>
+                            <p id="msg_risk_1" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
+                    </div>
                     <div class="tab-pane fade" id="hechengs">
-                        <div id="pie4" style="width: 1100px;height: 400px;"></div>
-                        <p id='msg' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px">test</p>
+                        <div id="pie4_1" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_hecheng_1' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px">test</p>
                     </div>
                     <div class="tab-pane fade" id="kuosans">
                         <div id="pie5_1" style="width: 1100px;height: 400px;"></div>

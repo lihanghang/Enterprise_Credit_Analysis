@@ -318,15 +318,26 @@ $.ajax({
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
-    
+        console.log(data['year'])
+        console.log(data['r1'])
+        console.log(data['r2'])
+        console.log(data['r3'])
+        console.log(data['r4'])
+        // $.each(data, function(index,item) {
+        	
+        // 	//console.log(index+"========"+item)
+        //     profit.push(item['盈利能力']);
+        //     debt.push(item['偿债能力']);
+        //     manager.push(item['经营效率']);
+        //     increase.push(item['增长潜力']);
+        //   /*  for(var i =0;i<test.length;i++){
+        //     	 years.push((test[0][i]));
+        //     }*/
+           
+        //    // console.log(data[index])
+           
+        // });     
+    	 //console.log(years);
        //add tips 20180518
         var element=document.getElementById("msg_home");    
         element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
@@ -349,16 +360,16 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-               data: years
+               data: data['year']
             },
             series: [{
-                data: profit
+                data: data['r1']
             }, {
-               data: debt
+               data: data['r3']
             }, {
-                data: manager
+                data:data['r4']
             }, {
-                data: increase
+                data: data['r2']
             }]
         });
     },
@@ -1788,9 +1799,13 @@ var map ={}
     });
 });
 
+var pie4; //二次加载重新创建实例
 //合成指数异步加载
-(function(){
-    var pie4 = echarts.init(document.getElementById("pie4"));
+function hecheng(type){
+    if (pie4 != null && pie4 != "" && pie4 != undefined) {
+            pie4.dispose();
+        }
+    pie4 = echarts.init(document.getElementById("pie4_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -1861,9 +1876,9 @@ var map ={}
             yAxis: [{
                 type: 'value',
                 name:'合成指数',
-                max: '104',
+                max: '132',
                 min:'95',
-                interval: 3,
+                interval: 5,
                 splitLine: {
                     show: true,
                     lineStyle: {
@@ -1874,9 +1889,9 @@ var map ={}
             },{
                 type: 'value',
                 name:'房价指数',
-                max: '125',
+                max: '127',
                 min:'95',
-                interval: 3,
+                interval: 5,
                 splitLine: {
                    lineStyle: {
                         color: '#fcc',
@@ -1892,27 +1907,27 @@ var map ={}
                 markArea: {
                     data: [
                       [{
-                        yAxis: 101,
+                        yAxis: 115,
                         itemStyle: {
                           normal: {
                             color: 'rgba(183,234,209,0.7)'
                           }
                         }
                       }, {
-                        yAxis: 104
+                        yAxis: 132
                       }],
                       [{
-                        yAxis: 101,
+                        yAxis: 115,
                         itemStyle: {
                           normal: {
                             color: 'rgba(175,214,254,0.7)'
                           }
                         }
                       }, {
-                        yAxis: 98
+                        yAxis: 105
                       }],
                       [{
-                        yAxis: 98,
+                        yAxis: 105,
                         itemStyle: {
                           normal: {
                              color: 'rgba(254,231,219,0.7)'
@@ -1991,7 +2006,7 @@ var years            = []; //横坐标：年份
 $.ajax({
     "url": "./getCI",      //路径
     "cache": false,              //不缓存
-    "data": {type: parseInt(0)},
+    "data": {type: parseInt(type)},
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
@@ -2050,8 +2065,7 @@ var tstart = ""
 var tend = ""
 
 pie4.on("dataZoom", function(params){ 
-    var element=document.getElementById("msg");
-    
+    var element=document.getElementById("msg_hecheng_"+type);   
     var opt = pie4.getOption()
     console.log(params)
     var dz = opt.dataZoom[0];
@@ -2067,7 +2081,12 @@ pie4.on("dataZoom", function(params){
     console.log(tstart1)
     tend = opt.xAxis[0].data[dz.endValue];  
     var date = "『动态分析预测』"+tstart+"至"+tend
-    var industry = "[房地产]"
+    if(type=='0'){
+        var industry = "[房地产]"
+    }
+    else{
+        var industry = "[汽车制造业]"
+    }
     if(map1[tstart]<map1[tend])
     {
         if(map2[tstart1]<map2[tend])
@@ -2083,7 +2102,7 @@ pie4.on("dataZoom", function(params){
             element.innerHTML=date+"期间，"+industry+"行业整体处于下降趋势，预期未来3-6个月整体呈下行趋势。"    
     }  
 });
-})();
+};
 
 var pie5;
 //扩散指数
@@ -2391,16 +2410,22 @@ pie5.on("dataZoom", function(params){
 
 };
 
-
+var Risk;
 //房地产风险预警
-(function(){
-    var Risk = echarts.init(document.getElementById("Risk"));
+function yujing(type){
+    Risk = echarts.init(document.getElementById("Risk_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
+    if(type=='0'){
+        var industry = "[房地产]"
+    }
+    else{
+        var industry = "[汽车制造业]"
+    }
  option = {
             title: {
-                text: '房地产市场风险预警',
+                text: industry+'市场风险预警',
                 left: '50%',
                 textAlign: 'center'
             },
@@ -2462,8 +2487,8 @@ pie5.on("dataZoom", function(params){
             yAxis: {
                 type: 'value',
                 name:'指数',
-                max: '103',
-                min:'97',
+                max: '104',
+                min:'90',
                 splitLine: {
                     lineStyle: {
                         color: ['#D4DFF5']
@@ -2556,6 +2581,7 @@ var years      = []; //横坐标：年份
 $.ajax({
     "url": "./getRiskPreAlarming",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
@@ -2563,12 +2589,12 @@ $.ajax({
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
         $.each(data, function(index,item) {
-            lead_index.push(item['领先指数']);
+            lead_index.push(item['领先指数_Y']);
             hot_line.push(item['偏热线']);
             cold_line.push(item['偏冷线']);
             upper.push(item['适度上限']);
             limit.push(item['适度下限']);
-            years.push(item['id']);
+            years.push(item['year']);
         });           
         Risk.hideLoading();    //隐藏加载动画
         Risk.setOption({        //加载数据图表                
@@ -2612,7 +2638,7 @@ var map2 = {};
 var tstart = ""
 var tend = ""
 Risk.on("dataZoom", function(params){ 
-    var element=document.getElementById("msg_risk");    
+    var element=document.getElementById("msg_risk_"+type);    
     var opt = Risk.getOption()
     //console.log(params)
     var dz = opt.dataZoom[0];
@@ -2643,8 +2669,9 @@ for(var i =0;i<ldata.length;i++){
     var lmin = fdata.min()
     var hotData = []
     var coldData = []
+
     if(parseFloat(lmax) <=parseFloat(upper) && parseFloat(lmin)>=parseFloat(limit)){
-         element.innerHTML="根据领先指数判断，"+ date+ "期间，房地产市场处风险状况为：适度；"
+         element.innerHTML="根据领先指数判断，"+ date+ "期间，"+industry+"市场处风险状况为：适度；"
     }
     for(var i =start;i<=end;i++)
      {
@@ -2657,17 +2684,17 @@ for(var i =0;i<ldata.length;i++){
     }
     
     if(hotData.length!=0) {
-        element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"
+        element.innerHTML = "根据领先指数判断，"+ industry +"市场在，"+ hotData + "过热"
     }
     
     if(coldData.length!=0) {
-        element.innerHTML = "根据领先指数判断，房地产市场在，"+ coldData + "过冷"
+        element.innerHTML = "根据领先指数判断，"+ industry +"市场在，"+ coldData + "过冷"
     }
     //console.log(coldData.length+"============"+hotData.length)
     //issue：在获取数组长度时，通过.length()方法，出现判断失误，因此采用以下方法判断数组是否为false
     if(hotData!=false && coldData!=false) {
-        element.innerHTML = "根据领先指数判断，房地产市场在，"+ hotData + "过热"+'<br>'
-        element.append("根据领先指数判断，房地产市场在，"+ coldData + "过冷")
+        element.innerHTML = "根据领先指数判断，"+ industry +"市场在，"+ hotData + "过热"+'<br>'
+        element.append("根据领先指数判断，"+ industry +"市场在，"+ coldData + "过冷")
         }
     });
-})();
+};

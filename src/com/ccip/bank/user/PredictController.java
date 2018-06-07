@@ -1,5 +1,7 @@
 package com.ccip.bank.user;
 
+import helloMatrix.hydtTest;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -56,13 +58,55 @@ public class PredictController extends Controller{
 					
 	}		
 	//异步请求加载数据库：行业动态最终指标数据
-	public void marketData(){
+	public void marketData() throws MWException{
+		String input = "D://java-project/enterpriseInfo/datasets/hydt/car_data.txt"; //汽车业
+		String input_home = "D://java-project/enterpriseInfo/datasets/hydt/home_data.txt"; //房地产市场
+		hydtTest datas = new  hydtTest();
+		MWNumericArray output = null;//用于保存输出矩阵
+		MWNumericArray output1 = null;//用于保存输出矩阵
+		MWNumericArray output2 = null;//用于保存输出矩阵
+		MWNumericArray output3 = null;//用于保存输出矩阵
+		MWNumericArray output4 = null;//用于保存输出矩阵
+		MWNumericArray output5 = null;//用于保存输出矩阵
 		
+		Object[] Results = datas.financialRiskCal(6, input,4,4,4); //房地产市场
+		output = (MWNumericArray)Results[0];//将结果object转换成MWNumericArray
+		output1 = (MWNumericArray)Results[1];//将结果object转换成MWNumericArray
+		output2 = (MWNumericArray)Results[2];//将结果object转换成MWNumericArray
+		output3 = (MWNumericArray)Results[3];//将结果object转换成MWNumericArray
+		output4 = (MWNumericArray)Results[4];//将结果object转换成MWNumericArray
+		output5 = (MWNumericArray)Results[5];//将结果object转换成MWNumericArray
+		int[] res  = output.rowIndex();//从MWNumericArray对象中读取数据
+		float[] myList =  new float [res.length];
+		float[] myList1 = new float [res.length];
+		float[] myList2 = new float [res.length];
+		float[] myList3 = new float [res.length];
+		float[] myList4 = new float [res.length];
+		float[] myList5 = new float [res.length];
+		for(int i=0;i<res.length;i++){
+			myList  [i] = output.getFloat(i+1); //盈利
+			myList1 [i] = output1.getFloat(i+1); //经营
+			myList2 [i] = output2.getFloat(i+1); //偿债
+			myList3 [i] = output3.getFloat(i+1); //发展
+			myList4 [i] = output4.getFloat(i+1); //综合
+			myList5 [i] = output5.getFloat(i+1);	//年份		
+		}
+		
+		setAttr("r1", myList);
+		setAttr("r2", myList1);
+		setAttr("r3", myList2);
+		setAttr("r4", myList3);
+		setAttr("r5", myList4);
+		setAttr("year",myList5);		
+		renderJson(new String[]{"year","r1","r2","r3","r4","r5"});
+		/*System.out.println(Results[1].toString());
 		List<Market> data = Market.dao.getAllData();
 		List<Market> manufactory = Market.dao.getManufactureData();
 		System.out.println(manufactory);
 		String json = JsonKit.toJson(data);
-		renderJson(json);				
+					
+		renderJson(res);	*/
+		
 	}
 	
 	//房地产合成指数数据0326
@@ -85,8 +129,8 @@ public class PredictController extends Controller{
 	
 	//房地产风险预警数据0328
 	public void getRiskPreAlarming(){
-		
-			List<Market> Riskdata = Market.ci.getRiskPreAlarming();			
+			int type = getParaToInt("type");
+			List<Market> Riskdata = Market.ci.getRiskPreAlarming(type);			
 			String RiskJson = JsonKit.toJson(Riskdata);			
 			//System.out.println(RiskJson);
 			renderJson(RiskJson);
@@ -179,6 +223,7 @@ public class PredictController extends Controller{
 		result = CQ.trainClassifier_Tree(3,input,test_data);
 		//得到公司信用评级
 		MWNumericArray cqNum   = (MWNumericArray)result[2];
+		System.out.print(cqNum);
 		List lst = new ArrayList();
 		lst.add(cqNum.getInt());				
 		//读取mat文件

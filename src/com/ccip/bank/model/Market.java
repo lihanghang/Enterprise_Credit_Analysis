@@ -32,8 +32,8 @@ public class Market extends Model<Market>{
 	}
 	
 	//获取风险预警数据0328
-	public List<Market> getRiskPreAlarming(){
-		return ci.find("select id,领先指数,偏冷线,偏热线,适度上限,适度下限  from en_ci order by id asc");
+	public List<Market> getRiskPreAlarming(int type){
+		return ci.find("select year,领先指数_Y,偏冷线,偏热线,适度上限,适度下限  from en_hc_yj where type = ?", type);
 	}
 	
 	//处理制造业和信息技术业的财务数据0529
