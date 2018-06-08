@@ -86,16 +86,22 @@ return info;
 
 
 //Echarts接口调用及数据处理
-(function(){
-    var pie3 = echarts.init(document.getElementById("pie3"));
+var pie3;
+function hyZonghe(type){
+    
+    if (pie3!= null && pie3 != "" && pie3 != undefined) {
+            pie3.dispose();
+    }
+    pie3 = echarts.init(document.getElementById("pie3_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
  option3 = {
             title: {
-                text: '房地产行业财务分析(综合)',
+                text: '财务分析(综合)',
                 left: '50%',
                 textAlign: 'center'
+                
             },
             tooltip: {
                 trigger: 'axis',
@@ -123,21 +129,22 @@ return info;
                 },
                     dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
                         show: true,                         //是否显示该工具。
-                        title:"数据视图",
-                        readOnly: false,                    //是否不可编辑（只读）
-                        lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                        backgroundColor:"#fff",             //数据视图浮层背景色。
-                        textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                        textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                        textColor:"#000",                    //文本颜色。
-                        buttonColor:"#c23531",              //按钮颜色。
-                        buttonTextColor:"#fff",             //按钮文本颜色。
+                        // title:"数据视图",
+                        // readOnly: false,                    //是否不可编辑（只读）
+                        // lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+                        // backgroundColor:"#fff",             //数据视图浮层背景色。
+                        // textareaColor:"#fff",               //数据视图浮层文本输入区背景色
+                        // textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
+                        // textColor:"#000",                    //文本颜色。
+                        // buttonColor:"#c23531",              //按钮颜色。
+                        // buttonTextColor:"#fff",             //按钮文本颜色。
                     }
                 }
+
             },
             legend: {
-                left:"20",
-                data: ['盈利能力','偿债能力','经营效率','增长潜力']
+                left:"0",
+                data: ['盈利能力','偿债能力','经营效率','增长潜力','综合风险']
             },
             xAxis: {
                 type: 'category',
@@ -297,6 +304,20 @@ return info;
                 }
  
             }
+            , {
+                name: '综合风险',
+                type: 'line',
+                smooth: true,
+                yAxisIndex:1,
+                data: [],
+                
+                itemStyle: {
+                    normal: {
+                        color: '#9B30FF',                       
+                    }
+                }
+ 
+            }
 
             ]
         };
@@ -312,17 +333,18 @@ var years    = []; //横坐标：年份
 $.ajax({
     "url": "./marketData",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        console.log(data['year'])
+       /* console.log(data['year'])
         console.log(data['r1'])
         console.log(data['r2'])
         console.log(data['r3'])
-        console.log(data['r4'])
+        console.log(data['r4'])*/
         // $.each(data, function(index,item) {
         	
         // 	//console.log(index+"========"+item)
@@ -339,13 +361,17 @@ $.ajax({
         // });     
     	 //console.log(years);
        //add tips 20180518
-        var element=document.getElementById("msg_home");    
-        element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
+        var element=document.getElementById("msg_home_"+type); 
+        if(type==0){
+            element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
             "【偿债能力】整体呈不断下降趋势；"+'<br>'+
             "【盈利能力】自2004年开始有所提升，2011年开始呈小幅下降趋势；"+'<br>'+
             "【经营效率】整体呈稳步上升态势，"+'<br>'+
             "【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
-  
+        }else{
+
+            element.innerHTML="马上就完善！"
+        }
         pie3.hideLoading();    //隐藏加载动画
         pie3.setOption({        //加载数据图表                
          /*    dataZoom: [{
@@ -370,6 +396,8 @@ $.ajax({
                 data:data['r4']
             }, {
                 data: data['r2']
+            }, {
+                data: data['r5']
             }]
         });
     },
@@ -381,12 +409,16 @@ $.ajax({
 }); 
 
 pie3.setOption(option3);
-})();
+};
 
 
 //增长潜力
-(function(){
-    var pie6 = echarts.init(document.getElementById("pie6"));
+var pie6;
+function zengzhang(type){
+    if (pie6!= null && pie6 != "" && pie6 != undefined) {
+            pie6.dispose();
+    }
+    pie6 = echarts.init(document.getElementById("pie6_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -459,9 +491,10 @@ pie3.setOption(option3);
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                min:'-25',
-                max:'95'
+                }
+                // ,
+                // min:'-25',
+                // max:'95'
             },
             series: [
             {
@@ -517,27 +550,33 @@ var years    = []; //横坐标：年份
 $.ajax({
     "url": "./marketData",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            increase.push(item['增长潜力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
+        // $.each(data, function(index,item) {
+        //     increase.push(item['增长潜力']);
+        //     years.push(item['id']);
+        //     //console.log(item['id']);
+        // });     
         
         //add tips 20180518
-        var element=document.getElementById("msg_zengzhang");   
-        element.innerHTML="近10年来，房地产企业【增长潜力】一直未向下突破适度下限值，2004年之前增长潜力呈现周期性波动，个别年份出现增长潜力为负值的情况，2004年起增长潜力激增，并在2006年达到峰值，之后又迅速回落至10附近。"
+        
+            var element=document.getElementById("msg_zengzhang_"+type);   
+        if(type==0){
+            element.innerHTML="近10年来，房地产企业【增长潜力】一直未向下突破适度下限值，2004年之前增长潜力呈现周期性波动，个别年份出现增长潜力为负值的情况，2004年起增长潜力激增，并在2006年达到峰值，之后又迅速回落至10附近。"
+        }else{
+            element.innerHTML="等着，马上就回来！"
+        }
     
     
     
     
     
-        var compute = maths(increase); //指标计算
+        var compute = maths(data['r2']); //指标计算
         pie6.hideLoading();    //隐藏加载动画
         pie6.setOption({        //加载数据图表                
           /*   dataZoom: [{
@@ -552,10 +591,10 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-                data: years
+                data: data['year']
             },
             series: [{
-                 data: increase
+                 data: data['r2']
             }, {
                  data: compute[0]
             }, {
@@ -571,12 +610,16 @@ $.ajax({
 }); 
 
 pie6.setOption(option6);
-})();
+};
 
 
 //偿债能力
-(function(){
-    var pie7 = echarts.init(document.getElementById("pie7"));
+var pie7;
+function changzhai(type){
+    if (pie7!= null && pie7 != "" && pie7 != undefined) {
+            pie7.dispose();
+    }
+    pie7 = echarts.init(document.getElementById("pie7_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -649,9 +692,10 @@ pie6.setOption(option6);
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                max: '20',
-                min:'0'
+                }
+                // ,
+                // max: '20',
+                // min:'0'
             },
             series: [
             {
@@ -662,11 +706,8 @@ pie6.setOption(option6);
                 
                 itemStyle: {
                     normal: {
-                        color: '#f7b851',
-                        lineStyle: {                            
-                            width:3,
-                            type:'dotted'  //'dotted'虚线 'solid'实线
-                    }
+                        color: '#f7b851'
+                  
                     }
                 }
             }, {
@@ -676,7 +717,11 @@ pie6.setOption(option6);
                 data: [],               
                 itemStyle: {
                     normal: {
-                        color: '#58c8da'
+                        color: '#58c8da',
+                        lineStyle: {                            
+                            width:3,
+                            type:'dotted'  //'dotted'虚线 'solid'实线
+                    }
                     }
                 }
             }
@@ -708,26 +753,28 @@ var years    = []; //横坐标：年份
 $.ajax({
     "url": "./marketData",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {          
+/*        $.each(data, function(index,item) {          
             debt.push(item['偿债能力']);
             years.push(item['id']);
             //console.log(item['id']);
-        });  
+        });  */
     
         //add tips 20180518
-        var element=document.getElementById("msg_changzhai");   
-        element.innerHTML="近10年来，房地产企业的【偿债能力】不断下降，2015年起开始向下突破适度下限值。"
-    
-    
-    
-    
-        var compute = maths(debt); //指标计算
+        var element=document.getElementById("msg_changzhai_"+type);
+        if(type==0){
+            element.innerHTML="近10年来，房地产企业的【偿债能力】不断下降，2015年起开始向下突破适度下限值。"   
+        }else{
+            element.innerHTML="等着，马上就回来！"
+        }
+        var compute = maths(data['r3']); //指标计算 偏冷热线数据计算
+
         pie7.hideLoading();    //隐藏加载动画
         pie7.setOption({        //加载数据图表                
            /*  dataZoom: [{
@@ -742,10 +789,10 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-                data: years
+                data: data['year']
             },
             series: [{
-                data: debt
+                data: data['r3']
             }, {
                 data: compute[0]
             }, {
@@ -761,11 +808,15 @@ $.ajax({
 }); 
 
 pie7.setOption(option7);
-})();
-//盈利能力
+};
 
-(function(){
-    var pie8 = echarts.init(document.getElementById("pie8"));
+//盈利能力
+var pie8;
+function yingli(type){
+    if (pie8!= null && pie8 != "" && pie8 != undefined) {
+            pie8.dispose();
+    }
+    pie8 = echarts.init(document.getElementById("pie8_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -838,9 +889,10 @@ pie7.setOption(option7);
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                max: '17',
-                min:'9',
+                }
+                // ,
+                // max: '17',
+                // min:'9',
 
             },
             series: [
@@ -901,25 +953,31 @@ var years    = []; //横坐标：年份
 $.ajax({
     "url": "./marketData",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
+        // $.each(data, function(index,item) {
+        //     profit.push(item['盈利能力']);
+        //     years.push(item['id']);
+        //     //console.log(item['id']);
+        // });     
     
     
     
     
         //add tips 20180518
-        var element=document.getElementById("msg_yingli");  
-        element.innerHTML="近10年来，房地产企业【盈利能力】一直在适度下限值之上波动。2004年之前整体呈下降趋势，2004年达到历史最低值。2004年之后，盈利能力不断攀升，2011年达到峰值后逐渐回落。"
-        var compute = maths(profit); //指标计算
+        var element=document.getElementById("msg_yingli_"+type);  
+        if(type==0){
+            element.innerHTML="近10年来，房地产企业【盈利能力】一直在适度下限值之上波动。2004年之前整体呈下降趋势，2004年达到历史最低值。2004年之后，盈利能力不断攀升，2011年达到峰值后逐渐回落。"
+        }
+        else{
+            element.innerHTML="等着，马上就回来！"
+        }
+        var compute = maths(data['r1']); //指标计算
         pie8.hideLoading();    //隐藏加载动画
         pie8.setOption({        //加载数据图表                
     /*         dataZoom: [{
@@ -934,10 +992,10 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-                data: years
+                data: data['year']
             },
             series: [{
-                data: profit
+                data: data['r1']
             }, {
                 data: compute[0]
             }, {
@@ -953,11 +1011,15 @@ $.ajax({
 }); 
 
 pie8.setOption(option8);
-})();
+};
 
 //经营效率
-(function(){
-    var pie9 = echarts.init(document.getElementById("pie9"));
+var pie9;
+function jingying(type){
+    if (pie9!= null && pie9 != "" && pie9 != undefined) {
+            pie9.dispose();
+    }
+    pie9 = echarts.init(document.getElementById("pie9_"+type));
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
@@ -1029,9 +1091,10 @@ pie8.setOption(option8);
                     lineStyle: {
                         color: ['#D4DFF5']
                     }
-                },
-                max: '13',
-                min:'-5',
+                }
+                // ,
+                // max: '13',
+                // min:'-5',
            
             },
             series: [
@@ -1092,27 +1155,32 @@ var years    = []; //横坐标：年份
 $.ajax({
     "url": "./marketData",      //路径
     "cache": false,              //不缓存
+    "data": {type: parseInt(type)},   //向后台传参,type表示三大行业之一
     "async": true ,               //默认true即异步（优先选择）
     "type": "GET",              //POST方式提交
     "dataType": "json",          //json格式，重要
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-        $.each(data, function(index,item) {
-            manager.push(item['经营效率']);
-            years.push(item['id']);
-            //console.log(item['id']);
-        });     
+        // $.each(data, function(index,item) {
+        //     manager.push(item['经营效率']);
+        //     years.push(item['id']);
+        //     //console.log(item['id']);
+        // });     
     
     
         //add tips 20180518
-        var element=document.getElementById("msg_jingying");    
-        element.innerHTML="近10年来，房地产企业的【经营效率】不断提升，且一直位于适度下限值之上，2005年以来增长较快。"
+        var element=document.getElementById("msg_jingying_"+type);
+        if(type==0){
+            element.innerHTML="近10年来，房地产企业的【经营效率】不断提升，且一直位于适度下限值之上，2005年以来增长较快。"
+        }
+        else{
+            element.innerHTML="等着哟，马上写完！"
+        } 
             
             
             
-            
-        var compute = maths(manager); //指标计算
+        var compute = maths(data['r4']); //指标计算
         pie9.hideLoading();    //隐藏加载动画
         pie9.setOption({        //加载数据图表                
           /*   dataZoom: [{
@@ -1127,10 +1195,10 @@ $.ajax({
             end: 50
         }], */
             xAxis: {
-                data: years
+                data: data['year']
             },
             series: [{
-               data: manager
+               data: data['r4']
             }, {
                data: compute[0]
             }, {
@@ -1146,7 +1214,7 @@ $.ajax({
 }); 
 
 pie9.setOption(option9);
-})();
+};
 
 
 
@@ -2114,11 +2182,18 @@ function kuosan(type){
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
+     if(type=='0'){
+        var industry = "[房地产]"
+    }
+    else{
+        var industry = "[汽车制造业]"
+    }
  option = {
             title: {
                 text: '市场景气-扩散指数',
                 left: '50%',
-                textAlign: 'center'
+                textAlign: 'center',
+                subtext: industry
             },
             tooltip: {
                 trigger: 'axis',
@@ -2389,7 +2464,7 @@ pie5.on("dataZoom", function(params){
             }
         }
       }
-    var industry = "[房地产]"
+    //var industry = "[房地产]"
     var date = tstart+"至"+tend
     //console.log(maxima+"=="+minima)"『动态分析预测』"+
     var element=document.getElementById("msg_kuosan_"+type);

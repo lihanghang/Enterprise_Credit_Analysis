@@ -59,17 +59,24 @@ public class PredictController extends Controller{
 	}		
 	//异步请求加载数据库：行业动态最终指标数据
 	public void marketData() throws MWException{
-		String input = "D://java-project/enterpriseInfo/datasets/hydt/car_data.txt"; //汽车业
-		String input_home = "D://java-project/enterpriseInfo/datasets/hydt/home_data.txt"; //房地产市场
+
 		hydtTest datas = new  hydtTest();
+		String input;
+		Object[] Results = null;
+		int type = getParaToInt("type"); //获取行业类型：0房地产、1汽车业、2信息服务业
+		if(type==1){
+			input 	= "D://java-project/enterpriseInfo/datasets/hydt/car_data.txt"; //汽车业
+			Results = datas.financialRiskCal(6, input,4,4,4); //房地产市场
+		}else {
+			input = "D://java-project/enterpriseInfo/datasets/hydt/home_data.txt"; //房地产市场
+			Results = datas.financialRiskCal(6, input,3,6,3); //房地产市场
+		}
 		MWNumericArray output = null;//用于保存输出矩阵
 		MWNumericArray output1 = null;//用于保存输出矩阵
 		MWNumericArray output2 = null;//用于保存输出矩阵
 		MWNumericArray output3 = null;//用于保存输出矩阵
 		MWNumericArray output4 = null;//用于保存输出矩阵
 		MWNumericArray output5 = null;//用于保存输出矩阵
-		
-		Object[] Results = datas.financialRiskCal(6, input,4,4,4); //房地产市场
 		output = (MWNumericArray)Results[0];//将结果object转换成MWNumericArray
 		output1 = (MWNumericArray)Results[1];//将结果object转换成MWNumericArray
 		output2 = (MWNumericArray)Results[2];//将结果object转换成MWNumericArray
