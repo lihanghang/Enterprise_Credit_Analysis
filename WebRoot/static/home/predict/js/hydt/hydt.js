@@ -1,5 +1,3 @@
-
-
 //tab窗口切换0604 by Hang Hang Li
 function setTab(name,cursel){
  cursel_0=cursel;
@@ -1877,6 +1875,17 @@ function hecheng(type){
     /* pie3.showLoading({
      text: "图表数据正在努力加载..."
  }); */
+    if(type=='0'){
+        var industry = "[房地产]"
+        var ytitle = "HPY"
+    }
+    else if(type=='1'){
+        var industry = "[汽车制造业]"
+        var ytitle = "价格变化率"
+    }else{
+        var industry = "[信息服务业]"
+        var ytitle = "SPY"
+    }
  option = {
             title: {
                 text: '市场景气-合成指数',
@@ -1924,7 +1933,7 @@ function hecheng(type){
             legend: {
                 left:"20",
                 //orient: 'ver',
-                data: ['领先指数','同步指数','滞后指数','HPY']
+                data: ['领先指数','同步指数','滞后指数',ytitle]
             },
             xAxis: {
                 type: 'category',
@@ -1945,7 +1954,7 @@ function hecheng(type){
                 type: 'value',
                 name:'合成指数',
                 max: '132',
-                min:'95',
+                min:'90',
                 interval: 5,
                 splitLine: {
                     show: true,
@@ -1956,7 +1965,7 @@ function hecheng(type){
                 }                              
             },{
                 type: 'value',
-                name:'房价指数',
+                name: ytitle,
                 max: '127',
                 min:'95',
                 interval: 5,
@@ -2002,7 +2011,7 @@ function hecheng(type){
                           }
                         }
                       }, {
-                        yAxis: 95
+                        yAxis: 90
                       }]             
                     ]
                   },
@@ -2082,9 +2091,9 @@ $.ajax({
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
         $.each(data, function(index,item) {
-            lead_index.push(item['领先指数_H']);
-            coincident_index.push(item['同步指数_H']);
-            lag_index.push(item['滞后指数_H']);
+            lead_index.push(item['领先指数_Y']);
+            coincident_index.push(item['同步指数_Y']);
+            lag_index.push(item['滞后指数_Y']);
             hpy.push(item['HPY']);
             years.push(item['year']);
             //console.log(item['id']);
@@ -2149,12 +2158,7 @@ pie4.on("dataZoom", function(params){
     console.log(tstart1)
     tend = opt.xAxis[0].data[dz.endValue];  
     var date = "『动态分析预测』"+tstart+"至"+tend
-    if(type=='0'){
-        var industry = "[房地产]"
-    }
-    else{
-        var industry = "[汽车制造业]"
-    }
+
     if(map1[tstart]<map1[tend])
     {
         if(map2[tstart1]<map2[tend])
@@ -2185,8 +2189,11 @@ function kuosan(type){
      if(type=='0'){
         var industry = "[房地产]"
     }
-    else{
+    else if(type=='1'){
         var industry = "[汽车制造业]"
+    }else{
+
+        var industry = "[信息服务业]"
     }
  option = {
             title: {
@@ -2495,8 +2502,10 @@ function yujing(type){
     if(type=='0'){
         var industry = "[房地产]"
     }
-    else{
+    else if(type=='1'){
         var industry = "[汽车制造业]"
+    }else{
+        var industry = "[信息服务业]"
     }
  option = {
             title: {
@@ -2562,7 +2571,7 @@ function yujing(type){
             yAxis: {
                 type: 'value',
                 name:'指数',
-                max: '104',
+                max: '109',
                 min:'90',
                 splitLine: {
                     lineStyle: {

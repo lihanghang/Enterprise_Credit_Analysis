@@ -202,6 +202,8 @@
                     </div>
                 </div>
   </div>
+
+  <!--信息服务业0613-->
   <div id="con_one_3" style="display:none;">
                     <ul id="myTab" class="nav nav-tabs"> 
                         <li class="dropdown">
@@ -209,15 +211,15 @@
                             <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-                                <li><a href="#home" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
-                                <li><a href="#yingli" tabindex="-1" data-toggle="tab">盈利能力</a></li>
-                                <li><a href="#zengzhang" tabindex="-1" data-toggle="tab">增长潜力</a></li>
-                                <li><a href="#changzhai" tabindex="-1" data-toggle="tab">偿债能力</a></li>
-                                <li><a href="#jingying" tabindex="-1" data-toggle="tab">经营效率</a></li>
+                                <li onclick="hyZonghe(2)"><a href="#home_2" tabindex="-1" data-toggle="tab">综合风险评价</a></li>
+                                <li onclick="yingli(2)"><a href="#yingli_2" tabindex="-1" data-toggle="tab">盈利能力</a></li>
+                                <li onclick="zengzhang(2)"><a href="#zengzhang_2" tabindex="-1" data-toggle="tab">增长潜力</a></li>
+                                <li onclick="changzhai(2)"><a href="#changzhai_2" tabindex="-1" data-toggle="tab">偿债能力</a></li>
+                                <li onclick="jingying(2)"><a href="#jingying_2" tabindex="-1" data-toggle="tab">经营效率</a></li>
                             </ul>
                         </li>
-                        <li><a href="#market" data-toggle="tab">市场风险预警</a></li>
-                        <li class="dropdown">
+                        <li><a onclick="yujing(2)" href="#market_2" data-toggle="tab">市场风险预警</a></li>
+                      <!--   <li class="dropdown">
                             <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">区域投资潜力
                             <b class="caret"></b>
                             </a>
@@ -225,28 +227,54 @@
                                 <li><a href="#zone" tabindex="-1" data-toggle="tab">按地区查看</a></li>
                                 <li><a href="#devlop" tabindex="-1" data-toggle="tab">按发展程度</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li class="dropdown">
                             <a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown">景气分析 
                             <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
-                                <li><a href="#hecheng" tabindex="-1" data-toggle="tab">合成指数</a></li>
-                                <li><a href="#kuosan" tabindex="-1" data-toggle="tab">扩散指数</a></li>
+                                <li><a onclick="hecheng(2)" href="#hecheng_2" tabindex="-1" data-toggle="tab">合成指数</a></li>
+                                <li><a onclick="kuosan(2)"  href="#kuosan_2" tabindex="-1" data-toggle="tab">扩散指数</a></li>
                             </ul>
                         </li>
                     </ul>
 
+                <div id="myTabContent" class="tab-content"  style="height: 500px">
+                        <div class="tab-pane fade in active" id="home_2">                           
+                            <div id="pie3_2" style="width: 100%;height: 400px;"></div>
+                            <p id='msg_home_2' style="font-family: Microsoft Yahei;font-weight: bold;font-size: 15px"></p>
+                        </div>
 
+                    <div class="tab-pane fade" id="yingli_2">
+                        <div id="pie8_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_yingli_2' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="zengzhang_2">
+                        <div id="pie6_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_zengzhang_2' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="changzhai_2">
+                        <div id="pie7_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_changzhai_2' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="jingying_2">
+                        <div id="pie9_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_jingying_2' style="font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
 
-
-
-
-
-
-
-
-
+                    <div class="tab-pane fade" id="market_2">
+                            <div id="Risk_2" style="width: 1100px;height: 400px;"></div>
+                            <p id="msg_risk_2" style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 13px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="hecheng_2">
+                        <div id="pie4_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_hecheng_2' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                    <div class="tab-pane fade" id="kuosan_2">
+                        <div id="pie5_2" style="width: 1100px;height: 400px;"></div>
+                        <p id='msg_kuosan_2' style="text-align: center;color:green;font-family: Microsoft Yahei;text-decoration: underline;font-weight: bold;font-size: 15px"></p>
+                    </div>
+                </div>
 
   </div>
   <!-- <div id="con_one_4" style="display:none;">我的网站我做主</div> -->

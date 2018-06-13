@@ -1,7 +1,6 @@
 package com.ccip.bank.user;
 
 import helloMatrix.hydtTest;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -67,9 +66,13 @@ public class PredictController extends Controller{
 		if(type==1){
 			input 	= "D://java-project/enterpriseInfo/datasets/hydt/car_data.txt"; //汽车业
 			Results = datas.financialRiskCal(6, input,4,4,4); //房地产市场
-		}else {
+		}else if(type==0) {
 			input = "D://java-project/enterpriseInfo/datasets/hydt/home_data.txt"; //房地产市场
 			Results = datas.financialRiskCal(6, input,3,6,3); //房地产市场
+		}else
+		{
+			input = "D://java-project/enterpriseInfo/datasets/hydt/info_data.txt"; //信息服务业
+			Results = datas.financialRiskCal(6, input,4,4,4); //信息服务业
 		}
 		MWNumericArray output = null;//用于保存输出矩阵
 		MWNumericArray output1 = null;//用于保存输出矩阵
