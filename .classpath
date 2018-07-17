@@ -88,5 +88,10 @@
 	<classpathentry kind="lib" path="D:/repo/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar"/>
 	<classpathentry kind="lib" path="D:/repo/com/typesafe/akka/akka-slf4j_2.10/2.3.13/akka-slf4j_2.10-2.3.13.jar"/>
 	<classpathentry kind="lib" path="D:/repo/org/bytedeco/javacpp-presets/openblas/0.2.20-1.4.1/openblas-0.2.20-1.4.1-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/jar/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/repo/org/tensorflow/libtensorflow/1.4.0-rc0/libtensorflow-1.4.0-rc0.jar"/>
+	<classpathentry kind="lib" path="D:/repo/org/tensorflow/libtensorflow_jni/1.4.0-rc0/libtensorflow_jni-1.4.0-rc0.jar"/>
+	<classpathentry kind="lib" path="D:/repo/org/tensorflow/tensorflow/1.4.0-rc0/tensorflow-1.4.0-rc0.jar"/>
+	<classpathentry kind="lib" path="D:/java-project/ccip_jar/slf4j-log4j12-1.7.25.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>

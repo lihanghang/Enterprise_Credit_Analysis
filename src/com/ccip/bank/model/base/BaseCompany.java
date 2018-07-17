@@ -4,12 +4,7 @@ import com.jfinal.plugin.activerecord.IBean;
 import com.jfinal.plugin.activerecord.Model;
 
 /**
- * 
- */
-/**
  * @date 2018年3月22日 下午5:03:52 
- */
-/**
  * @author Mason
  *
  */

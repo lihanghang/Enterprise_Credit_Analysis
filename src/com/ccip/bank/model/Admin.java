@@ -1,7 +1,6 @@
 package com.ccip.bank.model;
 
 import java.util.List;
-
 import com.jfinal.plugin.activerecord.Model;
 
 /**
@@ -16,8 +15,7 @@ public class Admin extends Model<Admin>{
 	
 	private static final long serialVersionUID = 1L;
 	public static final Admin dao = new Admin();
-    
-
+   
 	//获取所有admin
 	public List<Admin> getAllAdmin(){
 		return dao.find("select * from admin order by id desc");
