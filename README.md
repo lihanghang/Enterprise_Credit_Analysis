@@ -51,7 +51,7 @@
 8. java调用MATLAB封装的函数及神经网络函数。
 
 ***
-- 【欢迎交流，邮箱lihanghang@ucas.ac.cn】
+- 欢迎交流，邮箱lihanghang@ucas.ac.cn
 - [个人网站](https://www.lihanghang.top/)
-- 更新时间【2018.8.16】
+- 更新时间：2018.8.16
  
