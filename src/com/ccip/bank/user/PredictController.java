@@ -1,6 +1,7 @@
 package com.ccip.bank.user;
 
 import helloMatrix.hydtTest;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -33,7 +34,9 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
+import com.jfinal.kit.Ret;
 import com.jfinal.plugin.activerecord.Page;
+import com.jfinal.upload.UploadFile;
 import com.jmatio.io.MatFileReader;
 import com.jmatio.types.MLArray;
 import com.jmatio.types.MLDouble;
@@ -596,5 +599,28 @@ public class PredictController extends Controller{
         }catch(Exception e){
             e.printStackTrace();
         }
+    }
+       
+    //基于Jfinal的文件上传
+    public void upload(){
+    	try{
+             UploadFile upfile = getFile();//JFinal规定getFile()必须最先执行
+             Ret resJson = Ret.create();
+             if(upfile==null){
+                 resJson.set("status",0);
+                 resJson.set("message","当前未选择文件");
+                 renderJson(resJson);
+                 return;
+             }
+           File file = upfile.getFile();
+           String filename = file.getName();      
+           String path = getRequest().getSession().getServletContext().getRealPath("/");
+             }catch (Exception ex) {
+                 Ret resJson = Ret.create();
+                 resJson.set("status", -4);
+                 resJson.set("message", "上传失败");
+                 renderJson(resJson);
+             }
+
     }
 }
