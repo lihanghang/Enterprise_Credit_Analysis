@@ -54,6 +54,7 @@ import com.mathworks.toolbox.javabuilder.MWNumericArray;
 
 public class PredictController extends Controller{
 	
+	static String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
 	static CompanyService service = new CompanyService();
 	@ActionKey("/predict")
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
@@ -604,16 +605,19 @@ public class PredictController extends Controller{
        
     //基于Jfinal的文件上传并调用CNN模型实现信用等级评估
     public void upload(){
-    	String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
-   	    UploadFile uploadFile=this.getFile();        
-        String fileName=uploadFile.getOriginalFileName();
+    	//网页端接收上传.csv文件
+   	    UploadFile uploadFile=this.getFile();  
+   	    //获取上传文件
+        //String fileName=uploadFile.getOriginalFileName();
+   	    //获取文件上传的路径
         File delfile = new File(uploadFile.getUploadPath()+"\\"+uploadFile.getFileName());
         String filePath = delfile.getPath();
-        System.out.println(filePath);
+        //调用模型处理函数
         TFModelPred tm = new TFModelPred();
         String modelPath = modelPathPrex+ "CreditModel/cnn.pb"; 
         float predValue = 0;
 		try {
+			//预测值
 			predValue = tm.CreditGrade(modelPath, filePath);
 			System.out.println(predValue);
 		} catch (NumberFormatException e) {
