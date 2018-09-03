@@ -26,6 +26,7 @@ import com.ccip.bank.model.Company;
 import com.ccip.bank.model.InvestFactor;
 import com.ccip.bank.model.InvestPotential;
 import com.ccip.bank.model.Market;
+import com.ccip.bank.model.TFModelPred;
 import com.ccip.bank.service.CompanyService;
 import com.ccip.bank.utils.javaDea.DataEnvelopmentAnalysis;
 import com.ccip.bank.utils.javaDea.DeaRecord;
@@ -603,24 +604,26 @@ public class PredictController extends Controller{
        
     //基于Jfinal的文件上传
     public void upload(){
-    	try{
-             UploadFile upfile = getFile();//JFinal规定getFile()必须最先执行
-             Ret resJson = Ret.create();
-             if(upfile==null){
-                 resJson.set("status",0);
-                 resJson.set("message","当前未选择文件");
-                 renderJson(resJson);
-                 return;
-             }
-           File file = upfile.getFile();
-           String filename = file.getName();      
-           String path = getRequest().getSession().getServletContext().getRealPath("/");
-             }catch (Exception ex) {
-                 Ret resJson = Ret.create();
-                 resJson.set("status", -4);
-                 resJson.set("message", "上传失败");
-                 renderJson(resJson);
-             }
+    	String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
+   	    UploadFile uploadFile=this.getFile();        
+        String fileName=uploadFile.getOriginalFileName();
+        File delfile = new File(uploadFile.getUploadPath()+"\\"+uploadFile.getFileName());
+        String filePath = delfile.getPath();
+        System.out.println(filePath);
+        TFModelPred tm = new TFModelPred();
+        String modelPath = modelPathPrex+ "CreditModel/cnn.pb"; 
+        float predValue = 0;
+		try {
+			predValue = tm.CreditGrade(modelPath, filePath);
+			System.out.println(predValue);
+		} catch (NumberFormatException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+   	    renderNull();
 
     }
 }

@@ -24,6 +24,7 @@ public class MyJfinalConfig extends JFinalConfig {
     public void configConstant(Constants me) {   
     	PropKit.use("a_little_config");
     	me.setDevMode(PropKit.getBoolean("devMode", false));
+    	me.setBaseUploadPath("/upload");
     }  
   
     @Override

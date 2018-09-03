@@ -79,14 +79,13 @@
                         </div>
                     </div>
                         <div class="col-xs-6">
-                         <!--    <div class="page-header">
-                                <small style="font-size:15px">基于卷积神经网络的信用评级模型</small>                                          
-                            </div> -->
+                              
                          	<label for="input-b1">上传预测指标数据</label>                        	
 								<span style="font-size:14px;">
-									<form  action="./upload"  enctype="multipart/form-data"> 
-  										<input id="input-b1" name="input-b1" type="file" class="file-loading">
-									</form>
+									       <form action="./upload/" enctype="multipart/form-data" method="post">
+                                                <input type="file" name="file"> 
+                                                <input type="submit" value="提交">
+                                            </form>
 							  </span>
                         </div> 
                       </div>
