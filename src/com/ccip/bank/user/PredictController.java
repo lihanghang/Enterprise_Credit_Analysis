@@ -602,7 +602,7 @@ public class PredictController extends Controller{
         }
     }
        
-    //基于Jfinal的文件上传
+    //基于Jfinal的文件上传并调用CNN模型实现信用等级评估
     public void upload(){
     	String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
    	    UploadFile uploadFile=this.getFile();        
