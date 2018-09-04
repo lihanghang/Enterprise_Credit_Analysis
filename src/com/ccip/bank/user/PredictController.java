@@ -126,7 +126,7 @@ public class PredictController extends Controller{
 		System.out.println(manufactory);
 		String json = JsonKit.toJson(data);
 					
-		renderJson(res);	*/
+		renderJson(res);*/
 		
 	}
 	
@@ -478,7 +478,6 @@ public class PredictController extends Controller{
 	        output[4]= paraBean.getWeb_num();
 	        output[5]= paraBean.getProfit_num();
 	        records.put("new", new DeaRecord(output,input));
-	        //System.out.println(System.getProperty("java.library.path"));
 	        DataEnvelopmentAnalysis dea = new DataEnvelopmentAnalysis();
 	        Map<String, Double> results =null;
 			try {
