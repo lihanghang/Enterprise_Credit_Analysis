@@ -23,7 +23,6 @@ public class TFModelPred {
 	 */
 	public float CreditGrade(String ModelPath, String DataPath) throws NumberFormatException, IOException
 	{
-
 		// 加载模型 信用等级
 		System.out.println(ModelPath);
 		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(ModelPath, "dataType");
@@ -31,7 +30,6 @@ public class TFModelPred {
 		// 加载预测数据      
 	    CsvReader reader = new CsvReader(DataPath, ',', Charset.forName("UTF-8"));
 	    String[] header = {};   
-	    System.out.println("您预测的信用评级为：\n");
 	    float grade =0;
 	    while(reader.readRecord()) {
 	    	float[] floatValue = new float[106];

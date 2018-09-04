@@ -16,7 +16,8 @@
     <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap.css"> 
     <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap-table.css">
     <link rel="stylesheet" href="#(ctx_path)/static/common/dist/css/layui.css"  media="all">
-    <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/xypj/fileinput.min.css"  media="all">
+    <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/xypj/upload.css"  media="all">
+    
 </head>
 <style>
 
@@ -287,21 +288,13 @@ font-weight: bold;
     <script  src="#(ctx_path)/static/home/predict/js/dataTool.js" ></script>
     
     <script  src="#(ctx_path)/static/home/predict/js/hydt/jquery.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/hydt/area.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/hydt/location.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/hydt/select2.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/fileinput.min.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/zh.js" ></script>
-<!--   	<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.11.2">   
- -->  	
+    <script  src="#(ctx_path)/static/home/predict/js/ajaxfileupload.js" ></script>
+
         
     
-      	<!-- bootstrap-table组件引用-->   
-<!--     <script src="#(ctx_path)/static/home/predict/js/dhyj/bootstrap-table.js"></script>
-    这个汉化包可选，但是必须在bootstrap-table.js后面哦  
-    <script src="#(ctx_path)/static/home/predict/js/dhyj/local/bootstrap-table-zh-CN.min.js"></script> -->
+     <!-- bootstrap-table组件引用-->   
     <script src="#(ctx_path)/static/common/dist/layui.js" charset="utf-8"></script>
-<div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+	<div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
 
 </body>
 </html>
@@ -312,35 +305,4 @@ font-weight: bold;
         }
 </script>
 
-<!-- <script type="text/javascript">
-    
-//行业选择
-var lineNum = ["汽车", "房地产"];
-var collect = document.getElementById("lines")
-var old = collect.innerHTML
-function aa() {
-    var lineNu = " "
-    for (var j = 0; j < lineNum.length; j++) {
-        lineNu += '<option>' + lineNum[j] + '</option>';
-    }
-    collect.innerHTML = old + lineNu;
-} //网页加载时执行此函数，为线路选择框动态添加选项      
-aa();  
-var stationName = [
-    ["百万庄西口", "百万庄中街", "百万庄东口", "展览路", "阜成门外", "阜成门", "阜成门内", "白塔寺", "西四路口东", "西安门", "北海", "故宫", "沙滩路口西", "美术馆东", "东四路口东", "朝内小街", "朝阳门内", "朝阳门外", "神路街", "东大桥路口东", "关东店", "呼家楼西", "小庄路口东", "红庙路口西", "红庙路口东"],
-    ["动物园枢纽站", "二里沟", "百万庄", "甘家口大厦", "甘家口东", "阜外西口", "展览路", "阜成门外", "阜成门", "阜成门内", "白塔寺", "西四路口西", "缸瓦市", "甘石桥", "西单商场", "西单路口南", "宣武门内", "校场口", "菜市口北", "果子巷", "虎坊桥路口南", "太平街北口", "太平街", "陶然桥北", "永定门长途汽车站", "北京南站"]
-];
-
-function getStationName() {
-    var line_num = document.lineandstation.lines;
-    var station_name = document.lineandstation.station;
-    var lineStation = stationName[line_num.selectedIndex - 1];
-    station_name.length = 1;
-    for (var i = 0; i < lineStation.length; i++) {
-        station_name[i + 1] = new Option(lineStation[i], lineStation[i]);
-    }
-} //为站点选择框根据线路选择框的值动态添加选项
-
-
-</script> -->
 #end

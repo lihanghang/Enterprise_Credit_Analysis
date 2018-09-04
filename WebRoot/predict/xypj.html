@@ -17,8 +17,14 @@
                         <b>评级企业相关指标输入</b>
                     </div>
                     <div class="or_left_silde" id="searchCondition" style="height: 500px">
+
                     <div class="row">                               
                         <div class="col-xs-6"  style="border-right:2px">
+                            <div class="page-header">
+                                <h3>决策树评级模型
+                                   <!--  <small>子标题</small> -->
+                                </h3>
+                            </div>
                         <div class="or_category">
 							<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
 	                               <div class="form-group">
@@ -72,21 +78,42 @@
                                    </div> -->
 	                               <div class="form-group">
                                         <div class="col-sm-offset-5 col-sm-3">
-                                            <button type="submit" id="btn"  class="btn btn-default">开始分析</button>
+                                            <button type="submit" id="btn"  class="btn btn-default">开始评级</button>
                                         </div>
                                     </div>
                             </form>	
                         </div>
                     </div>
                         <div class="col-xs-6">
-                              
-                         	<label for="input-b1">上传预测指标数据</label>                        	
+                             <div class="page-header">
+                                <h3>卷积神经网络评级模型
+                                   <!--  <small>子标题</small> -->
+                                </h3>
+                            </div>
+                         	<!-- <label for="input-b1">上传预测指标数据</label>                        	
 								<span style="font-size:14px;">
-									       <form action="./upload/" enctype="multipart/form-data" method="post">
-                                                <input type="file" name="file"> 
-                                                <input type="submit" value="提交">
-                                            </form>
-							  </span>
+									         <form  enctype="multipart/form-data" >
+                                                <input type="file" name="csv_file" id="uploadfile"> 
+                                                <button id="upload" onclick="return false" >上传&&评级</button>
+                                             </form> 
+							  </span> -->
+                              <div class="upload">
+                                    <div class="upload-files">
+                                        <header>
+                                            <p>
+                                                <i class="fa fa-cloud-upload" aria-hidden="true"></i>
+                                                <span class="up">企业指标数据导入</span>
+                <!-- <span class="load">load</span> -->
+                                            </p>
+                                        </header>
+       
+                                    <i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
+                                    <form  enctype="multipart/form-data" >
+                                        <input type="file" name="csv_file" id="uploadfile" > 
+                                        <button class="importar" id="upload" onclick="return false" >上传&&评级</button>
+                                    </form> 
+                                    </div>
+                                </div>
                         </div> 
                       </div>
                    </div>
@@ -132,6 +159,14 @@
 
 <!-- 信用评级算法Ajax处理0410 -->
 <script>
+
+var myChart;
+var interest;
+var turn;
+var rate;
+var cost;
+var owner;
+
 $('#btn').click(function(){
 	//防止用户未填写完整数据提交
 	for(var i=0;i<document.form1.elements.length-1;i++)
@@ -166,7 +201,6 @@ $('#btn').click(function(){
 	        	$("#rate").empty(); //加载前先清空结果信息
 	        	$("#cost").empty(); //加载前先清空结果信息
 	        	$("#owner").empty(); //加载前先清空结果信息 */
-	            //$("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
 	        	 layui.use(['layer', 'form'], function(){
 	        		 index = layer.load(1, {shade: 0.06});
 	         });
@@ -180,7 +214,6 @@ $('#btn').click(function(){
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
 	        	document.getElementById("resultsView").style.display="block";//显
-	        	/* $("#loading").empty(); //清除加载数据 */
 	        	var CQ = data.lst[0];
 	        	var ANN = data["ANNRes"];
 	        	layui.use(['rate'], function(){
@@ -197,12 +230,20 @@ $('#btn').click(function(){
 	        	//console.log(data);        		        		        	        	          	          	          
 	         //四分位图展示评级企业的数据情况0411
 	          // 基于准备好的dom，初始化echarts实例
-	         var myChart = echarts.init(document.getElementById('debt'));
-	         var interest = echarts.init(document.getElementById('interest'));
-	         var turn = echarts.init(document.getElementById('turn'));
-	         var rate = echarts.init(document.getElementById('rate'));
-	         var cost = echarts.init(document.getElementById('cost'));
-	         var owner = echarts.init(document.getElementById('owner'));
+	          if(myChart != null && interest != "" && turn != undefined && rate !=null && cost != null && owner != null) {
+					myChart.dispose();
+				 	interest.dispose();
+					turn.dispose();
+					rate.dispose();
+					cost.dispose();
+					owner.dispose();
+			 }
+	         myChart = echarts.init(document.getElementById('debt'));
+	         interest = echarts.init(document.getElementById('interest'));
+	         turn = echarts.init(document.getElementById('turn'));
+	         rate = echarts.init(document.getElementById('rate'));
+	         cost = echarts.init(document.getElementById('cost'));
+	         owner = echarts.init(document.getElementById('owner'));
 	         //accept parameters
 	         
 	          // Generate data.
@@ -700,58 +741,102 @@ option = {
 	                turn.setOption(option2);
 	                rate.setOption(option3);
 	                cost.setOption(option4);
-	                owner.setOption(option5);  	                          
+	                owner.setOption(option5);
+
 	        }    
 	 
 	 });
 });
 
 
-//初始化fileinput
-    function initFileInput(ctrlName, uploadUrl) { 
-      var control = $('#' + ctrlName); 
-      control.fileinput({ 
-        // resizeImage : true, 
-        // maxImageWidth : 200, 
-        // maxImageHeight : 200, 
-        showRemove : false, //显示移除按钮
-        resizePreference : 'width', 
-        language : 'zh', //设置语言 
-        uploadUrl : uploadUrl, 
-        uploadAsync : true, 
-        allowedFileExtensions : [ 'csv', 'xls' ],//接收的文件后缀 
-        showUpload : true, //是否显示上传按钮 
-        showCaption : true,//是否显示标题 
-        browseClass : "btn btn-primary", //按钮样式 
-        previewFileIcon : "<i class='glyphicon glyphicon-king'></i>", 
-        maxFileCount : 1,  //表示允许同时上传的最大文件个数
-        //msgFilesTooMany : "选择图片超过了最大数量", 
-        maxFileSize : 2000, 
-        uploadExtraData:function (previewId, index) {           //传参
-            var data = {
-                "reportGroupId": $('#lbl_groupId').html(),      //此处自定义传参
-                };
-                return data;
+
+/**
+ * 文件上传
+ *
+ */
+ 
+$(document).ready(function() {
+ 	$('#upload').click(function() {
+ 		uploadFile();   
+ 	});
+ }); 
+ 
+function uploadFile(){	
+        var files = $('#uploadfile').prop('files');
+        
+        if(files[0]==undefined){
+        	layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('数据不能为空，请上传数据！')
+    		});	 
+        	return false;
+        }
+        var fileName = files[0]["name"]
+        var index = fileName.lastIndexOf('.')
+        var ext = fileName.substring(index)
+        if(ext != '.csv'){ 
+        	layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('上传文件必须为csv文件，请重新上传！')
+    		});	 
+        	cleanInput()
+        	return false;
+        } 
+        var data = new FormData();
+        data.append('csv_file', files[0]);
+        $.ajax({
+            type: 'POST',
+            url: "./upload",
+            data: data,
+            cache: false,
+            processData: false,
+            contentType: false,
+            error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	$("#msg").empty(); //加载前先清空结果信息
+	        	$("#grade").empty(); //加载前先清空结果信息
+	        	$("#interest").empty(); //加载前先清空结果信息
+	        	$("#turn").empty(); //加载前先清空结果信息
+	        	$("#rate").empty(); //加载前先清空结果信息
+	        	$("#cost").empty(); //加载前先清空结果信息
+	        	$("#owner").empty(); //加载前先清空结果信息 
+	        	$("#debt").empty(); //加载前先清空结果信息 
+	        	 layui.use(['layer', 'form'], function(){
+	        		 index = layer.load(1, {shade: 0.06});
+	         });
+	        },  
+            success: function (data) {          
+               //成功接收后台返回数据进行其他处理操作
+             
+			 	cleanInput()
+	           layui.use(['layer', 'form'], function(){
+                		var layer = layui.layer
+                		layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+                });
+	           document.getElementById("resultsView").style.display="block";//显示结果
+	        	layui.use(['rate'], function(){
+	        		  var rate = layui.rate;
+	        		  //只读
+	        		  rate.render({
+	        		    elem: '#grade'
+	        		    ,value: data
+	        		    ,readonly: true
+	        		    ,theme: '#009688'
+	        		  });
+	        	});
+	           $("#msg").html("您预测企业的综合信用等级为:"+data+"星级.");
+
             }
+        });
+	}	
+	
+//清除input-file
+function cleanInput() {
+	 var obj=document.getElementById('uploadfile');
+	  obj.outerHTML=obj.outerHTML;
+}
 
-      }); 
-    }; 
-   //初始化控件initFileInput(id,uploadurl)控件id，与上传路径 
-    initFileInput("input-b1", "./upload");
-   //异步上传返回结果处理
-$("#input-b1").on("fileuploaded", function (event, data, previewId, index) {
-        var response = data.response;
-        alert(response.filePath);
-        $("#fileMd5").val(response.fileMd5);
-        $("#version").val(response.newVersionName);
-        $("#url").val(response.filePath);
-       
-    });
-//上传前
-$('#input-b1').on('filepreupload', function(event, data, previewId, index) {
-   var form = data.form, files = data.files, extra = data.extra,
-    response = data.response, reader = data.reader;
-});
 </script>
-
-

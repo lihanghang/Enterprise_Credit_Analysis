@@ -34,9 +34,11 @@ import com.ccip.bank.utils.javaDea.GetExcelInfo;
 import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
+import com.jfinal.core.JFinal;
 import com.jfinal.kit.JsonKit;
 import com.jfinal.kit.Ret;
 import com.jfinal.plugin.activerecord.Page;
+import com.jfinal.render.JsonRender;
 import com.jfinal.upload.UploadFile;
 import com.jmatio.io.MatFileReader;
 import com.jmatio.types.MLArray;
@@ -45,6 +47,8 @@ import com.mathworks.toolbox.javabuilder.MWClassID;
 import com.mathworks.toolbox.javabuilder.MWComplexity;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
+import com.mathworks.toolbox.javabuilder.external.org.json.JSONException;
+import com.mathworks.toolbox.javabuilder.external.org.json.JSONObject;
 /**
  * 
  * @author Mason
@@ -55,6 +59,8 @@ import com.mathworks.toolbox.javabuilder.MWNumericArray;
 public class PredictController extends Controller{
 	
 	static String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
+	static String dataSetPrex = "D://java-project/Enterprise_Credit_Analysis/datasets/";
+
 	static CompanyService service = new CompanyService();
 	@ActionKey("/predict")
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
@@ -69,14 +75,14 @@ public class PredictController extends Controller{
 		Object[] Results = null;
 		int type = getParaToInt("type"); //获取行业类型：0房地产、1汽车业、2信息服务业
 		if(type==1){
-			input 	= "D://java-project/enterpriseInfo/datasets/hydt/car_data.txt"; //汽车业
+			input 	= dataSetPrex + "hydt/car_data.txt"; //汽车业
 			Results = datas.financialRiskCal(6, input,4,4,4); //房地产市场
 		}else if(type==0) {
-			input = "D://java-project/enterpriseInfo/datasets/hydt/home_data.txt"; //房地产市场
+			input =  dataSetPrex + "hydt/home_data.txt"; //房地产市场
 			Results = datas.financialRiskCal(6, input,3,6,3); //房地产市场
 		}else
 		{
-			input = "D://java-project/enterpriseInfo/datasets/hydt/info_data.txt"; //信息服务业
+			input =  dataSetPrex + "hydt/info_data.txt"; //信息服务业
 			Results = datas.financialRiskCal(6, input,4,4,4); //信息服务业
 		}
 		MWNumericArray output = null;//用于保存输出矩阵
@@ -213,11 +219,11 @@ public class PredictController extends Controller{
 		System.out.println(paraBean);
 		//实例化信用评级模型对象
 		creditQuality CQ = new creditQuality();
-		String input = "D://java-project/enterpriseInfo/datasets/Data554.mat";
+		String input =  dataSetPrex + "Data554.mat";
 		
 		//180525 增加ANN进行等级预测
 		test grade = new test();
-		String input_ANN = "D://java-project/enterpriseInfo/datasets/xypj/ANN_model.mat";								
+		String input_ANN = dataSetPrex + "xypj/ANN_model.mat";								
 		
 		//初始化1*6矩阵
 		MWNumericArray test_data = MWNumericArray.newInstance
@@ -308,8 +314,8 @@ public class PredictController extends Controller{
 		in.set(new int[]{11,1}, paraBean.getAllAsserrtIncrease());
 		System.out.print(in);	
 		try {
-			String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-			String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+			String input =  dataSetPrex + "fxpg/2014.xls";
+			String input_text =  dataSetPrex + "fxpg/financial_index.txt";
 			testRisk testRisk = new testRisk();
 			Object[] financialRes = null;
 			financialRes = testRisk.financial(2,input,input_text,in);
@@ -337,8 +343,8 @@ public class PredictController extends Controller{
 			in.set(new int[]{2,1},num2);
 			System.out.print(in);	
 			try {
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+				String input =  dataSetPrex + "fxpg/2014.xls";
+				String input_text =  dataSetPrex + "fxpg/financial_index.txt";
 				testRisk testRisk = new testRisk();		
 			Object[] Res = null;
 			Res = testRisk.competion(1, input, input_text, in);
@@ -362,8 +368,8 @@ public class PredictController extends Controller{
 				in.set(new int[]{3,1}, num3);
 				System.out.print(in);	
 				try {
-					String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-					String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+					String input =  dataSetPrex + "fxpg/2014.xls";
+					String input_text = dataSetPrex + "fxpg/financial_index.txt";
 					testRisk testRisk = new testRisk();				
 				Object[] Res = null;
 				Res = testRisk.tec(1, input, input_text, in);
@@ -403,8 +409,8 @@ public class PredictController extends Controller{
 			
 			System.out.println(in);			
 			try {
-				String input = "D://java-project/enterpriseInfo/datasets/fxpg/2014.xls";
-				String input_text = "D://java-project/enterpriseInfo/datasets/fxpg/financial_index.txt";
+				String input =  dataSetPrex + "fxpg/2014.xls";
+				String input_text =  dataSetPrex + "fxpg/financial_index.txt";
 				testRisk testRisk = new testRisk();
 				Object[] Res = null;
 				Res = testRisk.business(2, input,input_text,in);				
@@ -456,7 +462,7 @@ public class PredictController extends Controller{
 		//基于Java实现DEA算法
 			Map<String, DeaRecord> records = new LinkedHashMap<>();	        
 	        GetExcelInfo obj = new GetExcelInfo(); 
-	        File file = new File("D://java-project/enterpriseInfo/datasets/zhibiao.xls");
+	        File file = new File( dataSetPrex + "zhibiao.xls");
 	        records = obj.readExcel(file);	        
 	        double []input = new double[4];
 	        double []output= new double[6];
@@ -604,30 +610,29 @@ public class PredictController extends Controller{
     }
        
     //基于Jfinal的文件上传并调用CNN模型实现信用等级评估
-    public void upload(){
-    	//网页端接收上传.csv文件
-   	    UploadFile uploadFile=this.getFile();  
-   	    //获取上传文件
-        //String fileName=uploadFile.getOriginalFileName();
-   	    //获取文件上传的路径
-        File delfile = new File(uploadFile.getUploadPath()+"\\"+uploadFile.getFileName());
-        String filePath = delfile.getPath();
-        //调用模型处理函数
-        TFModelPred tm = new TFModelPred();
-        String modelPath = modelPathPrex+ "CreditModel/cnn.pb"; 
-        float predValue = 0;
-		try {
-			//预测值
-			predValue = tm.CreditGrade(modelPath, filePath);
-			System.out.println(predValue);
-		} catch (NumberFormatException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-   	    renderNull();
-
+    public void upload() throws JSONException{
+    	try {
+    		//网页端接收上传.csv文件
+    		UploadFile uploadFile= getFile();
+    		float predValue = 0;   
+    		//获取上传文件
+    		String fileName=uploadFile.getOriginalFileName();  
+    		//获取文件上传的路径
+    		File delfile = new File(uploadFile.getUploadPath()+"\\"+uploadFile.getFileName());
+    		String filePath = delfile.getPath();
+    		//调用模型处理函数
+    		TFModelPred tm = new TFModelPred();
+    		String modelPath = modelPathPrex+ "CreditModel/cnn.pb";        	
+    		//预测值
+    		predValue = tm.CreditGrade(modelPath, filePath);	    	
+    		renderJson(predValue);			
+    		//System.out.println(predValue);
+			} catch (NumberFormatException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+		}   
     }
 }
