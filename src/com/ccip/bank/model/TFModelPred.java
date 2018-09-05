@@ -1,8 +1,13 @@
 package com.ccip.bank.model;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.charset.Charset;
 
+import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang3.ObjectUtils.Null;
+import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
 import org.tensorflow.*;
 
 import com.ccip.bank.utils.TensorFlowInferenceInterface;
@@ -55,6 +60,36 @@ public class TFModelPred {
 	        }
 	    }								
 		return grade;
-	}		
+	}
+	
+	
+	
+	/**
+	 * 企业风险等级评估模型数据处理过程0905
+	 * @throws IOException 
+	 * @throws FileNotFoundException 
+	 * 
+	 */
+	public  float RiskGrade (float predData [], String ModelPath) throws FileNotFoundException, IOException {
+			float predValue = 0;
+	        try (Graph graph = new Graph()) {
+	            //导入图
+	            byte[] graphBytes = IOUtils.toByteArray(new FileInputStream(ModelPath));
+	            graph.importGraphDef(graphBytes);
+	          //根据图建立Session        		
+	         try(Session sess = new Session(graph)){
+	            float keep = 1.0f;        
+	            Tensor x = Tensor.create(predData);
+	            Tensor  keep_prob = Tensor.create(keep);
+	            Tensor<?> y = sess.runner().feed("input_x", x).feed("keep_prob", keep_prob).fetch("output/predict").run().get(0);  
+	            float[][] t = new float[1][1];
+	            y.copyTo(t);
+	            float[] result = t[0];          
+	            predValue = result[0];      
+	            }
+	        }
+		return predValue;
+	}	
+	
 }
 
