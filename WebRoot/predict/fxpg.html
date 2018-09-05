@@ -1,5 +1,13 @@
 #@predict()
 #define predict_main()
+<style type="text/css">
+/* .tab1{width:1180px;border-top:#cccccc solid 1px;border-bottom:#cccccc solid 1px;margin:50px auto 0 auto;} */
+.menu{height:30px;border-right:#cccccc solid 1px;}
+.menu li{float:left;width:188px;text-align:center;line-height:28px;height:28px;cursor:pointer;border-left:#cccccc solid 1px;color:#666;font-size:15px;overflow:hidden;background:#E0E2EB;}
+.menu li.off{background:#FFFFFF;color:#336699;font-weight:bold;}
+/* .menudiv{height:700px; border-left:#cccccc solid 1px;border-right:#cccccc solid 1px;border-top:0;background:#fefefe}
+.menudiv div{padding:15px;line-height:28px;} */
+</style>
 
 <div class="container-content">
     <!-- common search -->
@@ -9,7 +17,16 @@
         </div>
     </div>
 
-    <div class="sd_company_container" style="margin-top: 20px;">
+<div class="sd_company_container" style="margin-top: 20px;">
+ <!-- 一级导航 0905-->
+ <div class="tab1" id="tab1">
+ <div class="menu">
+  <ul id="tabs">
+   <li id="one1" onclick="setTab('one',1)">DEA模型风险等级评估</li>
+   <li id="one2" onclick="setTab('one',2)">卷积神经网络风险等级评估</li>
+  </ul>
+ </div>   
+ <div id="con_one_1">   
         <div class="sd_cent">
             <div class="sd_cent">
                 <div class="sd_left_block">
@@ -118,90 +135,7 @@
                                         	</div>
 	                               		</div>
 	                               	</div>
- 							</div>
-<!--  							<div class="page-header">
-  								<small style="font-size:15px">各指标比率输入</small> 										 
-							</div> -->
-<!--                         	<div class="row">
- 								<div class="col-md-6">
-										<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与流动性比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与流动性比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与流动性比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与流动性比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">成长与流动性比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长与流动性比率">
-                                        	</div>
-	                               		</div>	
-								</div>
- 								<div class="col-md-6">
- 								<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与筹资比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与筹资比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与筹资比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与筹资比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">成长力与筹资比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长力与筹资比率">
-                                        	</div>
-	                               		</div>
-	                               		</div>
- 							</div> -->
-<!--  							<div class="row">
- 								<div class="col-md-6"><div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与清偿比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与清偿比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与清偿比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与清偿比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">成长力与清偿比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入成长力与清偿比率">
-                                        	</div>
-	                               		</div></div>
- 								<div class="col-md-6"><div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">流动性与成长力比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入流动性与成长力比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">筹资与成长力比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入筹资与成长力比率">
-                                        	</div>
-	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">清偿与成长力比率</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入清偿与成长力比率">
-                                        	</div>
-	                               		</div></div>
- 							</div> -->							
+ 							</div>					
  							<div class="form-group">
                                 <div class="col-sm-offset-5 col-sm-10">
                                    <button style="border-radius:20px;background:#337ab7;color:#fff" type="submit" id="financialBtn"  class="btn btn-default">开始评估</button>
@@ -209,19 +143,6 @@
                             </div>
  							</form>
  						</div>
-                        <!--展示评估结果-->
-                        <!-- <div class="page-header">
-                            <small style="font-size:15px">结果及分析</small>    
-                        </div>
-                        <p id="loading1" style="text-align: center;"></p>
-                         <div class="container">
-                                <div class="row">
-                                        <div class="col-md-6">    
-                                            <p id="financialView"><div id="financial_show" style="width: 100%;height: 350px;"></div> </p></div>
-                                            <div class="col-md-6"><p id="financialView1"><div id="financial_show1" style="width: 100%;height: 350px;"></div></p></div>
-                                </div>
-                                 
-                        </div> -->
                         <div class="sd_left_block" >
                     <div class="sd_left_block_tit" style="color:green">
                         <b>结果分析及可视化</b>                       
@@ -352,49 +273,6 @@
                                         	</div>
 	                               		</div></div>
  </div>
- <!-- <div class="page-header">
-  										 	<small style="font-size:15px">指标比率方面</small> 										 
-									 	</div> -->
-<!--  <div class="row">
- <div class="col-md-4">
-	<div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">司法与经营比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入司法与经营比率">
-        </div>
-	</div>
-	<div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">组织与经营比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入组织与经营比率">
-        </div>
-	</div>
-</div>
- <div class="col-md-4"><div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">经营与司法比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入经营与司法比率">
-        </div>
-	</div>
-	<div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">组织与司法比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入组织与司法比率">
-        </div>
-	</div></div>
- <div class="col-md-4"><div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">经营与组织比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入经营与组织比率">
-        </div>
-	</div>
-	<div class="form-group">
-		<label for="firstname" class="col-sm-4 control-label">司法与组织比率</label>
-		 <div class="col-sm-8">
-             <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入司法与组织比率">
-        </div>
-	</div></div>
- </div> -->
   	<div class="form-group">
      	<div class="col-sm-offset-5 col-sm-10">
                <button style="border-radius:20px;background:#337ab7;color:#fff"  type="submit" id="orgBtn"  class="btn btn-default">开始评估</button>
@@ -404,21 +282,6 @@
 </div>
 </form>  
 
-
-                                 <!--展示经营评估结果-->
-                   <!--      <div class="page-header">
-                            <small style="font-size:15px">结果及分析</small>    
-                        </div>
-                        <p id="loading2" style="text-align: center;"></p>
-                        <div class="container">
-                                <div class="row">
-                        <div class="col-md-6">    
-                         <p id="businessView"><div id="business_show" style="width: 100%;height: 350px;"></div> 
-                         </p>
-                        </div>
-                        <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 100%;height: 350px;"></div></p></div> 
-               			          </div>  
-                        </div> -->
                           <div class="sd_left_block" >
                     <div class="sd_left_block_tit" style="color:green">
                         <b>结果分析及可视化</b>                       
@@ -431,13 +294,7 @@
                          <p id="businessView"><div id="business_show" style="width: 90%;height: 350px;"></div> 
                          </p>
                         </div>
-                        <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 90%;height: 350px;"></div></p></div> 
-                                
-                         <!--        <div class="col-md-6"><div class="page-header">
-                                <small style="font-size:15px">科研投入推荐建议</small>                                       
-                                </div>
-                                 <p id="msg"></p>
-                                 </div>  -->
+                        <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 90%;height: 350px;"></div></p></div>                         
                             </div>  
                         </div>                                                   
                      </div>
@@ -503,12 +360,6 @@
                                          		<input type="text" name="num1" class="form-control" id="firstname" placeholder="请输入竞品数">
                                         	</div>
 	                               		</div>
-	                               		<!-- <div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">公众号数量 (个)</label>
-		                              		<div class="col-sm-8">
-                                         		<input type="text" name="num2" class="form-control" id="firstname" placeholder="请输入公众号数">
-                                        	</div>
-	                               		</div> -->
 	                               		<div class="form-group">
 		                                  	<label for="firstname" class="col-sm-4 control-label">对外投资数量 (个)</label>
 		                              		<div class="col-sm-8">
@@ -533,20 +384,8 @@
   									
 								</div>
                			      </div>
-               			      <div class="tab-pane fade" id="all">
-                    												
-  								<!-- 	<div class="col-xs-1">
-                                                <button style="border-radius:20px;background:#337ab7;color:#fff" type="button" class="btn btn-default" id="allIndex">查看风险详情</button>
-                                    </div>
-                                    <div  style="text-align:center" id="loading5"></div>       -->                                                                   
-                                         <!--<p id="msg"></p> -->
-                                        <!--  <p id="allView"><div id="allShow" style="width: 100%;height: 300px;"></div></p> -->
-   <!--                                      <div class="container">
- <div class="row">
- <div class="col-md-6"><p id="allView2"><div id="allShow2" style="width: 100%;height: 350px;"></div></p></div>
- <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 100%;height: 350px;"></div></p></div>
- </div>
- </div>    -->     <div class="sd_left_block" >
+               		<div class="tab-pane fade" id="all">
+                        <div class="sd_left_block" >
                     <div class="sd_left_block_tit" style="color:green">
                         <b>综合可视化及评估</b>                       
                     </div>
@@ -555,13 +394,7 @@
                          <div class="container">
                             <div class="row">
                                 <div class="col-md-6"><p id="allView2"><div id="allShow2" style="width: 90%;height: 350px;"></div></p></div>
-                                <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 90%;height: 350px;"></div></p></div>
-                              <!--   
-                                <div class="col-md-6"><div class="page-header">
-                                <small style="font-size:15px">科研投入推荐建议</small>                                       
-                                </div>
-                                 <p id="msg"></p>
-                                 </div>  -->
+                                <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 90%;height: 350px;"></div></p></div>                           
                             </div>  
                         </div>                                                   
                      </div>
@@ -575,12 +408,382 @@
         
         </div>
     </div>
+    
+    <!-- CNN风险评估算法  start-->
+<div id="con_one_2" style="display:none;">
+   <div class="sd_cent">
+      <div class="sd_cent">
+		<div class="sd_left_block">
+        	 <ul id="myTab" class="nav nav-tabs">    
+    						<li class="active"><a href="#CNN_financial" data-toggle="tab">财务风险评估</a></li>
+    						<li><a href="#CNN_business" data-toggle="tab">经营风险评估</a></li>
+    						<li><a href="#CNN_all" data-toggle="tab">综合风险</a></li>  
+			</ul>
+ 	<div class="or_left_silde" id="searchCondition" style="">                       
+     	<div id="myTabContent" class="tab-content"  style="">        	
+        <div class="tab-pane fade in active" id="CNN_financial">
+                        	
+                        <div class="container">
+                        <form class="form-horizontal" role="form" id="financial_risks" name="economy_forms" method="POST" onsubmit="return false" >
+ 							<div class="row">
+ 								<div class="col-md-6">
+										<div class="page-header">
+  										 	<small style="font-size:15px">流动性</small> 										 
+										</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">流动资产周转率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.flowAssertRate" class="form-control" id="firstname" placeholder="请输入流动资产周转率">
+                                        	</div>
+	                               		</div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">应收账款周转率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入应收账款周转率">
+                                            </div>
+                                        </div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">流动资产合计</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入流动资产合计">
+                                        	</div>
+	                               		</div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">非流动资产合计</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入非流动资产合计">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">流动负债合计</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入流动负债合计">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">营运资本周转率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.checkRate" class="form-control" id="firstname" placeholder="请输入营运资本周转率">
+                                            </div>
+                                        </div>
+                                        
+								</div>
+ 								<div class="col-md-6">
+ 									<div class="page-header">
+  										 	<small style="font-size:15px">筹资能力</small> 										 
+										</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">纳税信用等级</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.creditGrade" class="form-control" id="firstname" placeholder="请输入纳税信用等级">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">1/财务费用率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.financialCostRate" class="form-control" id="firstname" placeholder="请输入1/财务费用率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">1/产权比率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.equityRatio" class="form-control" id="firstname" placeholder="请输入1/产权比率">
+                                        	</div>
+	                               		</div>	
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">速动比率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.equityRatio" class="form-control" id="firstname" placeholder="请输入速动比率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">现金比率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.equityRatio" class="form-control" id="firstname" placeholder="请输入现金比率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">现金流量债务比</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.equityRatio" class="form-control" id="firstname" placeholder="请输入现金流量债务比">
+                                            </div>
+                                        </div>								
+								</div>
+ 							</div>
+                        	<div class="row">
+ 								<div class="col-md-6">	
+ 									<div class="page-header">
+  										 	<small style="font-size:15px">清偿力</small> 										 
+										</div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">流动资产</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.flowPercent" class="form-control" id="firstname" placeholder="请输入流动资产">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">流动负债</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.flowPercent" class="form-control" id="firstname" placeholder="请输入流动负债">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">资产总计</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.flowPercent" class="form-control" id="firstname" placeholder="请输入资产总计">
+                                            </div>
+                                        </div>
+
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">净利润</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.flowPercent" class="form-control" id="firstname" placeholder="请输入净利润">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">所得税</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.debtRate" class="form-control" id="firstname" placeholder="请输入所得税">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">经营现金流量净额</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.interest" class="form-control" id="firstname" placeholder="请输入经营现金流量净额">
+                                        	</div>
+	                               		</div>	                               		
+	                               </div>
+ 								<div class="col-md-6">
+ 									 <div class="page-header">
+  										 	<small style="font-size:15px">成长力</small> 										 
+									 </div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">营业收入增长率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.growthRateOperateIncome" class="form-control" id="firstname" placeholder="请输入营业收入增长率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">总资产增长率</label>
+		                              		<div class="col-sm-8">
+                                         		<input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入总资产增长率">
+                                        	</div>
+	                               		</div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">净资产收益率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入净资产收益率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">总资本盈利率</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入总资本盈利率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">现金收入比</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入现金收入比">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-4 control-label">购建资产和支付现金</label>
+                                            <div class="col-sm-8">
+                                                <input type="text" name="financialRiskBean.allAsserrtIncrease" class="form-control" id="firstname" placeholder="请输入购建资产和支付现金">
+                                            </div>
+                                        </div>
+	                               	</div>
+ 							</div>							
+ 							<div class="form-group">
+                                <div class="col-sm-offset-5 col-sm-10">
+                                   <button style="border-radius:20px;background:#337ab7;color:#fff" type="submit" id="financialBtns"  class="btn btn-default">开始评估</button>
+                                </div>
+                            </div>
+ 							</form>
+ 						</div>                    
+                <!--  <div class="sd_left_block" > -->
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>结果分析及可视化</b>                       
+                    </div>
+                    <div class="or_left_silde" id="result" style="height: 400px"> 
+                        <div style="text-align:center" id="loading"></div>
+                         <div class="container">
+                            <div class="row">
+                                <div class="row">
+                                        <div class="col-md-6">    
+                                            <p id="financialView"><div id="financial_show" style="width: 90%;height: 350px;"></div> </p></div>
+                                            <div class="col-md-6"><p id="financialView1"><div id="financial_show1" style="width: 90%;height: 350px;"></div></p></div>
+                                </div>
+                            </div>  
+                        </div>                                                   
+                     </div>                 
+               <!--  </div> -->
+ 		</div>
+        <!-- 财务风险 end -->
+        
+        <!-- 经营风险 div start -->
+        <div class="tab-pane fade" id="CNN_business"> 
+        	<div class="container">
+        		<form class="form-horizontal" role="form" id="business_risks" name="org_forms" method="POST" onsubmit="return false" >
+        		<div class="row">                        	
+ 					<div class="col-md-6">
+									
+									<div class="page-header">
+  										 	<small style="font-size:15px">经营力方面</small> 										 
+									 </div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">销售净利率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.netSaleRate" class="form-control" id="firstname" placeholder="请输入销售净利率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">总资产报酬率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.totalAssetRewardRate" class="form-control" id="firstname" placeholder="请输入总资产报酬率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">净资产收益率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.netAssetYield" class="form-control" id="firstname" placeholder="请输入净资产收益率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">存货周转率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.inventoryTurnover" class="form-control" id="firstname" placeholder="请输入存货周转率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">总资产周转率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.totalAssetTurnover" class="form-control" id="firstname" placeholder="请输入总资产周转率">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">成本费用利润率</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.costProfitMargin" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
+                                        	</div>
+	                               		</div>                              		
+	                               	</div>
+ 						<div class="col-md-6"><div class="page-header">
+  										 	<small style="font-size:15px">司法方面</small> 										 
+									 	</div> 	              
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">诉讼数量(个)</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.litigationNum" class="form-control" id="firstname" placeholder="请输入诉讼数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">经营异常次数</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.abOperNum" class="form-control" id="firstname" placeholder="请输入经营异常数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">行政处罚次数</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.adminSancteNum" class="form-control" id="firstname" placeholder="请输入行政处罚数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">动产质押次数</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.chattelPledgeNum" class="form-control" id="firstname" placeholder="请输入动产质押数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">自身风险</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.selfRiskNum" class="form-control" id="firstname" placeholder="请输入自身风险数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">周边风险</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.peripheralRiskNum" class="form-control" id="firstname" placeholder="请输入周边风险数">
+                                        	</div>
+	                               		</div></div>
+<!--  <div class="col-md-4"><div class="page-header">
+  										 	<small style="font-size:15px">组织方面</small> 										 
+									 	</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">股东数量（注册）</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.shareholdNum" class="form-control" id="firstname" placeholder="请输入股东数">
+                                        	</div>
+	                               		</div>
+	                               		<div class="form-group">
+		                                  	<label for="firstname" class="col-sm-4 control-label">第一大股东持股比例（注册）</label>
+		                              		<div class="col-sm-6">
+                                         		<input type="text" name="businessBean.firstMaxShare" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
+                                        	</div>
+	                               		</div></div> -->
+ </div>
+        <div class="form-group">
+     		<div class="col-sm-offset-5 col-sm-10">
+               <button style="border-radius:20px;background:#337ab7;color:#fff"  type="submit" id="orgBtn"  class="btn btn-default">开始评估</button>
+        	</div>
+       </div>
+   </form>	        	        	              	
+        	</div>        	       	
+        	   <div class="sd_left_block" >
+                    <div class="sd_left_block_tit" style="color:green">
+                        <b>结果分析及可视化</b>                       
+                    </div>
+                    <div class="or_left_silde" id="result" style="height: 400px"> 
+                        <div style="text-align:center" id="loading"></div>
+                         <div class="container">
+                            <div class="row">
+                                <div class="col-md-6">    
+                         <p id="businessView"><div id="business_show" style="width: 90%;height: 350px;"></div> 
+                         </p>
+                        </div>
+                        <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 90%;height: 350px;"></div></p></div> 
+                            </div>  
+                        </div>                                                   
+                     </div>                  
+                </div>                    
+        </div>
+        <!-- 经营风险end -->
+        
+        <!-- 综合评估 start -->
+       <div class="tab-pane fade" id="CNN_all">
+				   <div class="sd_left_block" >
+                        <div class="sd_left_block_tit" style="color:green">
+                            <b>综合可视化及评估</b>                       
+                        </div>
+                        <div class="or_left_silde" id="result" style="height: 400px"> 
+                            <button style="border-radius:20px;background:#337ab7;color:#fff" type="button" class="btn btn-default" id="allIndexs">查看评估详情</button>         
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-6"><p id="allView2"><div id="allShow2" style="width: 90%;height: 350px;"></div></p></div>
+                                    <div class="col-md-6"><p id="allView1"><div id="allShow1" style="width: 90%;height: 350px;"></div></p></div>                           
+                                </div>  
+                            </div>                                                   
+                        </div>
+                  
+                    </div>                                                     								
+     </div>  
+ <!-- end 综合评估 --> 		      
+        		</div>
+       		</div> 
+      	</div>
+      </div>	
+   </div>
+</div>        	       	
+  <!-- end CNN风险评估 -->      	        	   
+      
+    
+    </div>                
 </div>
 #end
 
 <script>
-
-
 //财务风险评估20180502
 $('#financialBtn').click(function(){	
 	//防止用户未填写完整数据提交
@@ -783,12 +986,9 @@ $('#financialBtn').click(function(){
 	        		};	
 	        	financialChart.setOption(option, true);  	
 	        	financialChart1.setOption(option_index, true);  		
-
 	        }	          	      	          
 	  });		
 });
-
-
 //经营风险评估
 $('#orgBtn').click(function(){
 	
@@ -973,10 +1173,6 @@ $('#orgBtn').click(function(){
 	        }	          	      	          
 	  });		
 });
-
-
-
-
 $('#riskCompetitionBtn').click(function(){
 	
 	//防止用户未填写完整数据提交
@@ -1072,8 +1268,6 @@ $('#riskCompetitionBtn').click(function(){
 	        }	          	      	          
 	  });	
 });
-
-
 //技术风险评估实现
 $('#tecBtn').click(function(){
 	
@@ -1172,10 +1366,6 @@ $('#tecBtn').click(function(){
 	        }	          	      	          
 	  });		
 });
-
-
-
-
 $('#allIndex').click(function(){
 	
 		
@@ -1430,6 +1620,54 @@ $('#allIndex').click(function(){
 	        }
 	  });		
 });
+
+//tab窗口切换0604 by Hang Hang Li
+function setTab(name,cursel){
+ cursel_0=cursel;
+ for(var i=1; i<=links_len; i++){
+  var menu = document.getElementById(name+i);
+  var menudiv = document.getElementById("con_"+name+"_"+i);
+  if(i==cursel){
+   menu.className="off";
+   menudiv.style.display="block";
+  }
+  else{
+   menu.className="";
+   menudiv.style.display="none";
+  }
+ }
+}
+function Next(){
+    cursel_0++;
+    if (cursel_0>links_len) cursel_0=1
+    setTab(name_0,cursel_0);
+}
+var name_0='one';
+var cursel_0=1;
+//var type = 0; 默认选中第一个行业
+var links_len,iIntervalId;
+onload=function(){
+    var links = document.getElementById("tab1").getElementsByTagName('li')
+    links_len=links.length;
+    var funny = function(i){
+    links[i].onclick = function(){
+            console.log("第" + (i+1) + "个");
+        }
+    }    
+    /*for(var i=0; i<links_len; i++){        
+        type = i;
+        console.log(i)
+  // links[i].onmouseover=function(){
+  //  //clearInterval(iIntervalId);
+   
+  // }
+    }*/
+ setTab(name_0,cursel_0);
+}
+
+
+
+
 
 
 
