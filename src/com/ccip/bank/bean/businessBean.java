@@ -207,6 +207,6 @@ public class businessBean {
 				+ ", shareholdNum=" + shareholdNum + ", firstMaxShare="
 				+ firstMaxShare + "]";
 	}
-	
+
 }
 

@@ -625,10 +625,10 @@
         <!-- 经营风险 div start -->
         <div class="tab-pane fade" id="CNN_business"> 
         	<div class="container">
-        		<form class="form-horizontal" role="form" id="business_risks" name="org_forms" method="POST" onsubmit="return false" >
-        		<div class="row">                        	
+        		
+        		<div class="row">     
+        			<form class="form-horizontal" role="form" id="cnn_business_risks" name="business_forms" method="POST" onsubmit="return false" >        		                   	
  					<div class="col-md-6">
-									
 									<div class="page-header">
   										 	<small style="font-size:15px">经营力方面</small> 										 
 									 </div>
@@ -667,8 +667,15 @@
 		                              		<div class="col-sm-6">
                                          		<input type="text" name="businessBean.costProfitMargin" class="form-control" id="firstname" placeholder="请输入成本费用利润率">
                                         	</div>
-	                               		</div>                              		
-	                               	</div>
+	                               		</div>     
+	                               		  <div class="form-group">
+     		<div class="col-sm-offset-5 col-sm-10">
+               <button style="border-radius:20px;background:#337ab7;color:#fff"  type="submit" id="cnn_business_Btn"  class="btn btn-default">开始评估</button>
+        	</div>
+       </div>                         		
+	                               	</div> 
+   </form>	    
+   				<form class="form-horizontal" role="form" id="cnn_laws_risks" name="laws_forms" method="POST" onsubmit="return false" >
  						<div class="col-md-6"><div class="page-header">
   										 	<small style="font-size:15px">司法方面</small> 										 
 									 	</div> 	              
@@ -707,29 +714,16 @@
 		                              		<div class="col-sm-6">
                                          		<input type="text" name="businessBean.peripheralRiskNum" class="form-control" id="firstname" placeholder="请输入周边风险数">
                                         	</div>
-	                               		</div></div>
-<!--  <div class="col-md-4"><div class="page-header">
-  										 	<small style="font-size:15px">组织方面</small> 										 
-									 	</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">股东数量（注册）</label>
-		                              		<div class="col-sm-6">
-                                         		<input type="text" name="businessBean.shareholdNum" class="form-control" id="firstname" placeholder="请输入股东数">
-                                        	</div>
 	                               		</div>
-	                               		<div class="form-group">
-		                                  	<label for="firstname" class="col-sm-4 control-label">第一大股东持股比例（注册）</label>
-		                              		<div class="col-sm-6">
-                                         		<input type="text" name="businessBean.firstMaxShare" class="form-control" id="firstname" placeholder="请输入第一大股东持股比例数">
-                                        	</div>
-	                               		</div></div> -->
+	                                <div class="form-group">
+     										<div class="col-sm-offset-5 col-sm-10">
+               									<button style="border-radius:20px;background:#337ab7;color:#fff"  type="submit" id="cnn_law_Btn"  class="btn btn-default">开始评估</button>
+        									</div>
+       								</div>			                               		
+	                             </div>	                               		       	    
+	     		</form>	
  </div>
-        <div class="form-group">
-     		<div class="col-sm-offset-5 col-sm-10">
-               <button style="border-radius:20px;background:#337ab7;color:#fff"  type="submit" id="orgBtn"  class="btn btn-default">开始评估</button>
-        	</div>
-       </div>
-   </form>	        	        	              	
+           	              	
         	</div>        	       	
         	   <div class="sd_left_block" >
                     <div class="sd_left_block_tit" style="color:green">
@@ -739,11 +733,13 @@
                         <div style="text-align:center" id="loading"></div>
                          <div class="container">
                             <div class="row">
-                                <div class="col-md-6">    
-                         <p id="businessView"><div id="business_show" style="width: 90%;height: 350px;"></div> 
-                         </p>
+                                <div class="col-md-6"> 
+                            <p id="business_info"></p>
+<!--                          <p id="businessView"><div id="business_show" style="width: 90%;height: 350px;"></div> 
+                         </p> -->
                         </div>
-                        <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 90%;height: 350px;"></div></p></div> 
+                            <p id="laws_info"></p>
+                       <!--  <div class="col-md-6"><p id="businessView1"><div id="business_show1" style="width: 90%;height: 350px;"></div></p></div>  -->
                             </div>  
                         </div>                                                   
                      </div>                  
@@ -1667,6 +1663,105 @@ onload=function(){
 
 
 
+
+// CNN 经营风险评估前台Ajax请求
+
+//经营风险评估
+$('#cnn_business_Btn').click(function(){
+	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.business_forms.elements.length-1;i++)
+    {
+     if(document.business_forms.elements[i].value=="")
+     {
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
+       document.business_forms.elements[i].focus();
+       return false;
+     }
+ };
+	//表单提交数据序列化
+	var org_data =  $('#cnn_business_risks').serialize();	
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./bussinessRisk",//请求后台方法并接受模型返回数据
+	        data:org_data,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	//$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#businessView").empty(); //加载前先清空结果信息
+	        	$("#businessView1").empty(); //加载前先清空结果信息
+	        	 layui.use(['layer', 'form'], function(){
+	        		 index = layer.load(1, {shade: 0.06});
+	         });
+	        },  
+	        
+	        success:function(data){
+	        	//$("#loading2").empty();
+	        	 layui.use(['layer', 'form'], function(){
+                		var layer = layui.layer
+                		layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+               $("#business_info").html("企业的经营力预测值为："+data);  
+                });	        		        	        		
+	        }	          	      	          
+	  });		
+});
+
+
+/**
+ * 经营风险--司法方面
+ */
+$('#cnn_law_Btn').click(function(){
+	
+	//防止用户未填写完整数据提交
+	for(var i=0;i<document.laws_forms.elements.length-1;i++)
+    {
+     if(document.laws_forms.elements[i].value=="")
+     {
+    		layui.use(['layer', 'form'], function(){
+    			//提示层
+    			layer.msg('请填写完整数据信息！')
+    		});	 
+       document.laws_forms.elements[i].focus();
+       return false;
+     }
+ };
+	//表单提交数据序列化
+	var laws_data =  $('#cnn_laws_risks').serialize();	
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./lawRisk",//请求后台方法并接受模型返回数据
+	        data:laws_data,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        },
+	        beforeSend:function(XMLHttpRequest){
+	        	//$("#msg2").empty(); //加载前先清空结果信息
+	        	$("#businessView").empty(); //加载前先清空结果信息
+	        	$("#businessView1").empty(); //加载前先清空结果信息
+	        	 layui.use(['layer', 'form'], function(){
+	        		 index = layer.load(1, {shade: 0.06});
+	         });
+	        },  
+	        
+	        success:function(data){
+	        	//$("#loading2").empty();
+	        	 layui.use(['layer', 'form'], function(){
+                		var layer = layui.layer
+                		layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+                $("#laws_info").html("企业的司法风险预测值为："+data);  
+                });	        		        	        		
+	        }	          	      	          
+	  });		
+});
 
 
 

@@ -4,6 +4,7 @@ import helloMatrix.hydtTest;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,6 +13,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+
+import org.apache.commons.lang3.ObjectUtils.Null;
 
 import lpsolve.LpSolveException;
 import test.test;
@@ -592,6 +595,8 @@ public class PredictController extends Controller{
         renderPageForLayUI(page_all,0,"操作成功");
     }
     
+    
+        
     /**
      * 以FileWriter方式写入txt文件。
      * @param File file：要写入的文件
@@ -608,6 +613,8 @@ public class PredictController extends Controller{
         }
     }
        
+    
+    
     //基于Jfinal的文件上传并调用CNN模型实现信用等级评估
     public void upload() throws JSONException{
     	try {
@@ -634,4 +641,56 @@ public class PredictController extends Controller{
 				e.printStackTrace();
 		}   
     }
+    
+    
+    /**
+     * 经营风险--经营力方面
+     * @throws FileNotFoundException
+     * @throws IOException
+     * 
+     */
+    public void bussinessRisk() throws FileNotFoundException, IOException{
+
+    	businessBean paraBean = getBean(businessBean.class);
+    	float[] predData = new float[]{
+    								(float) paraBean.getNetSaleRate(),
+    								(float) paraBean.getTotalAssetRewardRate(),
+    								(float) paraBean.getNetAssetYield(), 
+    								(float) paraBean.getInventoryTurnover(),
+    								(float) paraBean.getTotalAssetTurnover(), 
+    								(float) paraBean.getCostProfitMargin()
+    								};
+    	TFModelPred tm = new TFModelPred();
+    	String modelPath = modelPathPrex + "Risk/经营力.pb";
+    	float predValue = tm.RiskGrade(predData, modelPath);
+    	renderJson(predValue);	
+    	    	    	
+    }
+    
+    
+    /** 
+     * 经营风险--司法方面
+     * @throws IOException 
+     * @throws FileNotFoundException 
+	 * 
+	 */
+	public void lawRisk() throws FileNotFoundException, IOException {
+		
+		businessBean paraBean = getBean(businessBean.class);
+    	float[] predData = new float[]{
+    								(float) paraBean.getLitigationNum(),
+    								(float) paraBean.getAbOperNum(),
+    								(float) paraBean.getAdminSancteNum(), 
+    								(float) paraBean.getChattelPledgeNum(),
+    								(float) paraBean.getSelfRiskNum(), 
+    								(float) paraBean.getPeripheralRiskNum()
+    								};
+    	TFModelPred tm = new TFModelPred();
+    	String modelPath = modelPathPrex + "Risk/司法.pb";
+    	float predValue = tm.RiskGrade(predData, modelPath);
+    	renderJson(predValue);	
+	}
+	
+	
+	
 }

@@ -8,7 +8,12 @@ import java.nio.charset.Charset;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.ObjectUtils.Null;
 import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
-import org.tensorflow.*;
+
+
+import org.tensorflow.Graph;
+import org.tensorflow.Operation;
+import org.tensorflow.Session;
+import org.tensorflow.Tensor;
 
 import com.ccip.bank.utils.TensorFlowInferenceInterface;
 import com.csvreader.CsvReader;
@@ -68,7 +73,7 @@ public class TFModelPred {
 	 * 企业风险等级评估模型数据处理过程0905
 	 * @throws IOException 
 	 * @throws FileNotFoundException 
-	 * 
+	 * @author Mason
 	 */
 	public  float RiskGrade (float predData [], String ModelPath) throws FileNotFoundException, IOException {
 			float predValue = 0;
