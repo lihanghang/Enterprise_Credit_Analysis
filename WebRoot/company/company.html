@@ -1,190 +1,262 @@
-#@menu()
-#define main_info()
+#@menu() #define main_info()
 <div class="container company-more">
-    <div class="container-left">
-        <div class="panel">
-
-            
-            <!--工商信息-->
-            <div class="panel-head title-lg" id="managerInfo">
-                <i class="icon icon-bang-lg bg-success"></i>工商信息<label class="float-right"><a href="./basicInfo?num=#(companyData.code)&name=#(companyData.cname)" class="text-success">查看更多 &gt;&gt;</a></label>
-                <span class="title-sub">&nbsp;&nbsp;点击查询按钮，可为您精准匹配高管的各项信息（根据大数据技术<font class="text-strong">已排除重名</font>情况）</span>
-            </div>
-            <div class="panel-body manager-info">
-
-                <div class="list border bg-silver">
-                    <div class="item">
-                        <i class="icon icon-person bg-primary" data-iconname="曾庆德">庆</i>&nbsp;&nbsp;
-                        <label>法定代表人：<a class="text-success" href="#">曾庆德</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
-                                                    <a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                            <a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA" href="javascript::" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;<br>
-                                            </div>
-                    <div class="item list-horizontal">
-                        <div class="item"><span class="text-silver">注册资本：</span>1000万元&nbsp;&nbsp;
-                                                            <a href="javascript:void(0);" data-pay="{name: &#39;湖北筑峰建设工程有限公司&#39;, company_name_digest: &#39;cabe75387416bdce9fc2af48000527b1&#39;, action: &#39;get_company_total_capital&#39;, img: &#39;&#39;}" class="btn btn-sm btn-success">查看实缴</a>
-                                                    </div>
-                        <div class="item">
-                            <span class="text-silver">登记状态：</span>
-                                                            <span>存续（在营、开业、在册）</span>
-                                                    </div>
-                        <div class="item"><span class="text-silver">成立日期：</span>2013-11-08</div>
-                        <div class="item"><span class="text-silver">企业类型：</span>有限责任公司(自然人投资或控股)</div>
-                    </div>
-                </div>
-            </div>
+	<div class="container-left">
+		<div class="panel">
 
 
-            <!--主要成员-->
-            <div class="panel-head title-lg" id="personInfo">
-                <i class="icon icon-bang-lg bg-success"></i>主要成员
-                         <label class="float-right"><a href="./basicInfo?num=#(companyData.organizateNum)" class="text-success">查看更多 &gt;&gt;</a></label>            </div>
-            <div class="panel-body person-info">
-                                <!--                                            正常显示-->
-                                            <div class="list-horizontal">
-                                                                                        <div class="item bg-silver ">
-                                    <div class="list-horizontal">
-                                        <div class="item">
-                                            <i class="icon icon-person bg-error" data-iconname="曾庆德">庆</i>
-                                        </div>
-                                        <div class="item">
-                                            <div class="right">
-                                                <label><a class="color444 name-hover" href="#">曾庆德</a>：<a class="text-success" style="cursor: default;" href="javascript:;" title="执行董事兼总经理">执行董事兼总经理</a></label>&nbsp;&nbsp;
-                                                <a data-name="曾庆德" position="执行董事兼总经理" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            </div>
-                                            <div class="btns">
-                                                <a data-name="曾庆德" position="执行董事兼总经理" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                                            <div class="item bg-silver last">
-                                    <div class="list-horizontal">
-                                        <div class="item">
-                                            <i class="icon icon-person bg-error" data-iconname="曾庆财">庆</i>
-                                        </div>
-                                        <div class="item">
-                                            <div class="right">
-                                                <label><a class="color444 name-hover" href="#">曾庆财</a>：<a class="text-success" style="cursor: default;" href="javascript:;" title="监事">监事</a></label>&nbsp;&nbsp;
-                                                <a data-name="曾庆财" position="监事" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            </div>
-                                            <div class="btns">
-                                                <a data-name="曾庆财" position="监事" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                                    </div>
-                                                </div>
+			<!--工商信息-->
+			<div class="panel-head title-lg" id="managerInfo">
+				<i class="icon icon-bang-lg bg-success"></i>工商信息<label
+					class="float-right"><a
+					href="./basicInfo?num=#(companyData.code)&name=#(companyData.cname)"
+					class="text-success">查看更多 &gt;&gt;</a></label> <span class="title-sub">&nbsp;&nbsp;点击查询按钮，可为您精准匹配高管的各项信息（根据大数据技术<font
+					class="text-strong">已排除重名</font>情况）
+				</span>
+			</div>
+			<div class="panel-body manager-info">
 
-            <!--股东信息-->
-            <div class="panel-head title-lg" id="partnerInfo">
-                <i class="icon icon-bang-lg bg-success"></i>股东信息
-                                <label class="float-right"><a href="./basicInfo?num=#(companyData.organizateNum)" class="text-success">查看更多 &gt;&gt;</a></label>            </div>
-            <div class="panel-body partner-info">
-                                <!--                                            正常显示-->
-                                            <div class="list">
-                                                            <div class="item border">
-                                    <div class="bg-silver">
-                                            <!--                                        股东名称：<label><a class="text-success" target="_blank" href="http:///search?key=&searchType=employeeContent&pa_from=12&employeeCompany=&employeeCompanyDigest="></a></label>&nbsp;&nbsp;&nbsp;&nbsp;
+				<div class="list border bg-silver">
+					<div class="item">
+						<i class="icon icon-person bg-primary" data-iconname="曾庆德">庆</i>&nbsp;&nbsp;
+						<label>法定代表人：<a class="text-success" href="#">曾庆德</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA"
+							href="javascript:;"
+							class="btn btn-sm btn-silver-outline check-resume"><i
+							class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <a
+							data-name="曾庆德" position="%E6%B3%95%E4%BA%BA" href="javascript::"
+							class="btn btn-sm btn-success check-precise"><i
+							class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;<br>
+					</div>
+					<div class="item list-horizontal">
+						<div class="item">
+							<span class="text-silver">注册资本：</span>1000万元&nbsp;&nbsp; <a
+								href="javascript:void(0);"
+								data-pay="{name: &#39;湖北筑峰建设工程有限公司&#39;, company_name_digest: &#39;cabe75387416bdce9fc2af48000527b1&#39;, action: &#39;get_company_total_capital&#39;, img: &#39;&#39;}"
+								class="btn btn-sm btn-success">查看实缴</a>
+						</div>
+						<div class="item">
+							<span class="text-silver">登记状态：</span> <span>存续（在营、开业、在册）</span>
+						</div>
+						<div class="item">
+							<span class="text-silver">成立日期：</span>2013-11-08
+						</div>
+						<div class="item">
+							<span class="text-silver">企业类型：</span>有限责任公司(自然人投资或控股)
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<!--主要成员-->
+			<div class="panel-head title-lg" id="personInfo">
+				<i class="icon icon-bang-lg bg-success"></i>主要成员 <label
+					class="float-right"><a
+					href="./basicInfo?num=#(companyData.organizateNum)"
+					class="text-success">查看更多 &gt;&gt;</a></label>
+			</div>
+			<div class="panel-body person-info">
+				<!--                                            正常显示-->
+				<div class="list-horizontal">
+					<div class="item bg-silver ">
+						<div class="list-horizontal">
+							<div class="item">
+								<i class="icon icon-person bg-error" data-iconname="曾庆德">庆</i>
+							</div>
+							<div class="item">
+								<div class="right">
+									<label><a class="color444 name-hover" href="#">曾庆德</a>：<a
+										class="text-success" style="cursor: default;"
+										href="javascript:;" title="执行董事兼总经理">执行董事兼总经理</a></label>&nbsp;&nbsp;
+									<a data-name="曾庆德" position="执行董事兼总经理" href="javascript:;"
+										class="btn btn-sm btn-silver-outline check-resume"><i
+										class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
+								</div>
+								<div class="btns">
+									<a data-name="曾庆德" position="执行董事兼总经理" href="javascript:;"
+										class="btn btn-sm btn-success check-precise"><i
+										class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item bg-silver last">
+						<div class="list-horizontal">
+							<div class="item">
+								<i class="icon icon-person bg-error" data-iconname="曾庆财">庆</i>
+							</div>
+							<div class="item">
+								<div class="right">
+									<label><a class="color444 name-hover" href="#">曾庆财</a>：<a
+										class="text-success" style="cursor: default;"
+										href="javascript:;" title="监事">监事</a></label>&nbsp;&nbsp; <a
+										data-name="曾庆财" position="监事" href="javascript:;"
+										class="btn btn-sm btn-silver-outline check-resume"><i
+										class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
+								</div>
+								<div class="btns">
+									<a data-name="曾庆财" position="监事" href="javascript:;"
+										class="btn btn-sm btn-success check-precise"><i
+										class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--股东信息-->
+			<div class="panel-head title-lg" id="partnerInfo">
+				<i class="icon icon-bang-lg bg-success"></i>股东信息 <label
+					class="float-right"><a
+					href="./basicInfo?num=#(companyData.organizateNum)"
+					class="text-success">查看更多 &gt;&gt;</a></label>
+			</div>
+			<div class="panel-body partner-info">
+				<!--                                            正常显示-->
+				<div class="list">
+					<div class="item border">
+						<div class="bg-silver">
+							<!--                                        股东名称：<label><a class="text-success" target="_blank" href="http:///search?key=&searchType=employeeContent&pa_from=12&employeeCompany=&employeeCompanyDigest="></a></label>&nbsp;&nbsp;&nbsp;&nbsp;
     -->
-                                            股东名称：<label><a class="text-success" href="#">曾庆德</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
-                                            <a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            <a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-precise"><i class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
-                                                                            </div>
-                                    <div class="list-horizontal">
-                                        <div class="item">认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span></div>
-                                        <div class="item">实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span></div>
-                                        <div class="item">持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">51%</span></div>
-                                    </div>
-                                </div>
-                                                            <div class="item border">
-                                 <div class="bg-silver">
-                                            股东名称：<label><a class="text-success" href="#">曾庆财</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
-                                            <a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            <a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-precise"><i class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
-                                       </div>
-                                    <div class="list-horizontal">
-                                        <div class="item">认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span></div>
-                                        <div class="item">实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span></div>
-                                        <div class="item">持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">49%</span></div>
-                                    </div>
-                                </div>
-                                                    </div>
+							股东名称：<label><a class="text-success" href="#">曾庆德</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
+							<a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume"><i
+								class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <a
+								data-name="曾庆德" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-precise"><i
+								class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
+						</div>
+						<div class="list-horizontal">
+							<div class="item">
+								认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span>
+							</div>
+							<div class="item">
+								实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span>
+							</div>
+							<div class="item">
+								持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">51%</span>
+							</div>
+						</div>
+					</div>
+					<div class="item border">
+						<div class="bg-silver">
+							股东名称：<label><a class="text-success" href="#">曾庆财</a></label>&nbsp;&nbsp;&nbsp;&nbsp;
+							<a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume"><i
+								class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <a
+								data-name="曾庆财" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-precise"><i
+								class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
+						</div>
+						<div class="list-horizontal">
+							<div class="item">
+								认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span>
+							</div>
+							<div class="item">
+								实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span>
+							</div>
+							<div class="item">
+								持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">49%</span>
+							</div>
+						</div>
+					</div>
+				</div>
 
-                                                                        </div>
+			</div>
 
-            <!--经营状况-->
-            <div class="panel-head title-lg">
-                <i class="icon icon-bang-lg bg-success"></i>经营状况<label class="float-right">
-                    <a href="./operation?num=#(companyData.organizateNum)" class="text-success">查看更多 &gt;&gt;</a>
-                </label>
-            </div>
-            <div class="panel-body jingying-info">
-                <div class="list-horizontal border">
-                    <div class="item">
-                        <p class="title-lg">融资</p>
-                        <p>企业融资情况&nbsp;<span class="text-silver">未知</span></p>
-                        <p>企业融资金额&nbsp;<span class="text-silver">未知</span></p>
-                    </div>
-                    <div class="item">
-                        <p class="title-lg">纳税</p>
-                        <p>评价年度&nbsp;<span class="text-silver">未知</span></p>
-                        <p>企业纳税等级&nbsp;<span class="text-silver">未知</span></p>
-                    </div>
-                    <div class="item">
-                        <p class="title-lg">社保</p>
-                        <label class="shebaobtn bg-silver border" data-msgtip="暂未收录企业社保信息">查询社保信息</label>
-                    </div>
-                </div>
-            </div>
+			<!--经营状况-->
+			<div class="panel-head title-lg">
+				<i class="icon icon-bang-lg bg-success"></i>经营状况<label
+					class="float-right"> <a
+					href="./operation?num=#(companyData.organizateNum)"
+					class="text-success">查看更多 &gt;&gt;</a>
+				</label>
+			</div>
+			<div class="panel-body jingying-info">
+				<div class="list-horizontal border">
+					<div class="item">
+						<p class="title-lg">融资</p>
+						<p>
+							企业融资情况&nbsp;<span class="text-silver">未知</span>
+						</p>
+						<p>
+							企业融资金额&nbsp;<span class="text-silver">未知</span>
+						</p>
+					</div>
+					<div class="item">
+						<p class="title-lg">纳税</p>
+						<p>
+							评价年度&nbsp;<span class="text-silver">未知</span>
+						</p>
+						<p>
+							企业纳税等级&nbsp;<span class="text-silver">未知</span>
+						</p>
+					</div>
+					<div class="item">
+						<p class="title-lg">社保</p>
+						<label class="shebaobtn bg-silver border" data-msgtip="暂未收录企业社保信息">查询社保信息</label>
+					</div>
+				</div>
+			</div>
 
-            <!--风险信息-->
-            <div class="panel-head title-lg">
-                <i class="icon icon-bang-lg bg-success"></i>风险信息<label class="float-right">
-                    <a href="./lawsuit?num=#(companyData.organizateNum)" class="text-success">查看更多 &gt;&gt;</a>
-                </label>
-            </div>
-            <div class="panel-body fengxian-info">
-                <div class="list-horizontal border bg-silver">
-                    <div class="item">
-                        <p>工商行政处罚</p>
-                        <p class="text-silver">未知</p>
-                    </div>
-                    <div class="item">
-                        <p>是否有重大税务违规行为</p>
-                        <p class="text-silver">未知</p>
-                    </div>
-                    <div class="item">
-                        <p>是否在异常企业名单中</p>
-                        <p class="text-silver">未知</p>
-                    </div>
-                    <div class="item">
-                        <p>是否涉及法律诉讼</p>
-                        <p class="text-silver">未知</p>
-                    </div>
-                </div>
-            </div>
-            <!--媒体最新报道-->
-            
-        </div>
-        <div class="panel shengming">
-            <div class="panel-body text-silver">
-                <font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
-                投诉方式：<font class="text-success">xycx@test.com</font> ，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
-            </div>
-        </div>
-    </div>
-<div class="container-right">
-    <div class="ewm128" id="company_open_contact"></div>
-        <div class="panel">
-            <div class="panel-head title-lg">企业关系图谱</div>
-            <div class="panel-body" id="relation_chart">
-                <img src=".././static/home/detail/more_right_map.png">
-                         <!-- 正常显示-->
-            <a href="javascript:void(0)" class="btn btn-success company-map-view seeMoreDetail" 
-             jump-url="/company_map?digest=cabe75387416bdce9fc2af48000527b1">发现企业间的隐藏关系</a>
-            </div>
-        </div>
-<!--          <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src=".././static/home/detail/creditchina.PNG"></a>
- --></div></div>
+			<!--风险信息-->
+			<div class="panel-head title-lg">
+				<i class="icon icon-bang-lg bg-success"></i>风险信息<label
+					class="float-right"> <a
+					href="./lawsuit?num=#(companyData.organizateNum)"
+					class="text-success">查看更多 &gt;&gt;</a>
+				</label>
+			</div>
+			<div class="panel-body fengxian-info">
+				<div class="list-horizontal border bg-silver">
+					<div class="item">
+						<p>工商行政处罚</p>
+						<p class="text-silver">未知</p>
+					</div>
+					<div class="item">
+						<p>是否有重大税务违规行为</p>
+						<p class="text-silver">未知</p>
+					</div>
+					<div class="item">
+						<p>是否在异常企业名单中</p>
+						<p class="text-silver">未知</p>
+					</div>
+					<div class="item">
+						<p>是否涉及法律诉讼</p>
+						<p class="text-silver">未知</p>
+					</div>
+				</div>
+			</div>
+			<!--媒体最新报道-->
+
+		</div>
+		<div class="panel shengming">
+			<div class="panel-body text-silver">
+				<font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
+				投诉方式：<font class="text-success">xycx@test.com</font>
+				，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
+			</div>
+		</div>
+	</div>
+	<div class="container-right">
+		<div class="ewm128" id="company_open_contact"></div>
+		<div class="panel">
+			<div class="panel-head title-lg">企业关系图谱</div>
+			<div class="panel-body" id="relation_chart">
+				<img src=".././static/home/detail/more_right_map.png">
+				<!-- 正常显示-->
+				<a href="javascript:void(0)"
+					class="btn btn-success company-map-view seeMoreDetail"
+					jump-url="/company_map?digest=cabe75387416bdce9fc2af48000527b1">发现企业间的隐藏关系</a>
+			</div>
+		</div>
+		<!--          <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src=".././static/home/detail/creditchina.PNG"></a>
+ -->
+	</div>
+</div>
 #end

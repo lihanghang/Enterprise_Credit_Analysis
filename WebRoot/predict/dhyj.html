@@ -1,31 +1,33 @@
-#@predict()
-#define predict_main()
+#@predict() #define predict_main()
 
 <div class="container-content">
-    <!-- common search -->
-    <div class="sd_company_container">
-        <div class="sd_form_search" style="height:50px">
-           <p style="text-align:center; font-size:30px">贷后预警监测分析 </p>
-        </div>
-    </div>
+	<!-- common search -->
+	<div class="sd_company_container">
+		<div class="sd_form_search" style="height: 50px">
+			<p style="text-align: center; font-size: 30px">贷后预警监测分析</p>
+		</div>
+	</div>
 
-    <div class="sd_company_container" style="margin-top: 20px;">
-        <div class="sd_cent">
-            <div class="sd_cent">
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>贷后预警监控企业</b>
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 600px">            
-			<div class="demoTable">  
-                <div class="layui-inline">  
-                    <input name="id" class="layui-input" id="keyword" placeholder="请输入查询企业名称关键字">  
-                </div>  
-                <button class="layui-btn" data-type="reload" style="padding-left:10px" onclick="initTable();">搜索</button>  
-            </div> 
-							<table class="layui-hide" id="test" lay-filter="test"></table>                         
-                </div>                               
-                <!--  <div class="sd_left_block">
+	<div class="sd_company_container" style="margin-top: 20px;">
+		<div class="sd_cent">
+			<div class="sd_cent">
+				<div class="sd_left_block">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>贷后预警监控企业</b>
+					</div>
+					<div class="or_left_silde" id="searchCondition"
+						style="height: 600px">
+						<div class="demoTable">
+							<div class="layui-inline">
+								<input name="id" class="layui-input" id="keyword"
+									placeholder="请输入查询企业名称关键字">
+							</div>
+							<button class="layui-btn" data-type="reload"
+								style="padding-left: 10px" onclick="initTable();">搜索</button>
+						</div>
+						<table class="layui-hide" id="test" lay-filter="test"></table>
+					</div>
+					<!--  <div class="sd_left_block">
                     <div class="sd_left_block_tit">
                         <b>结果及分析</b>
                        
@@ -37,23 +39,23 @@
                     </div>                                            
                      </div>
                 </div> -->
-            </div>
-        
-        </div>
-    </div>
-</div>
-#end
-<script type="text/html" id="switchTpl"> 
+				</div>
+
+			</div>
+		</div>
+	</div>
+	#end
+	<script type="text/html" id="switchTpl"> 
   <input type="checkbox" name="rank" value="{{d.cname}}" lay-skin="switch" lay-text="高|低" lay-filter="sexDemo" {{ d.id == 10003 ? 'checked' : '' }}>
 </script>
- 
-<script type="text/html" id="checkboxTpl">
+
+	<script type="text/html" id="checkboxTpl">
   <input type="checkbox" name="lock" value="{{d.cname}}" title="重点监测" lay-filter="lockDemo" {{ d.id == 10006 ? 'checked' : '' }}>
-</script> 
-<script type="text/html" id="barDemo">
+</script>
+	<script type="text/html" id="barDemo">
    <a style="text-align:center" class="layui-btn layui-btn-xs" lay-event="edit" href="./dhyjContent/?num={{d.code}}&name={{d.cname}}">监控详情</a>
-</script>  
-<script>
+</script>
+	<script>
 $(document).ready(function () {  
 	  
     initTable();  
@@ -212,6 +214,3 @@ function operateFormatter(value, row, index) {//赋予的参数
  //   ].join('');
 //}*/
 </script>
-
-
-

@@ -1,64 +1,68 @@
 <!doctype html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>企业信用分析查询系统</title>
-        <meta name="description" content="CCIP实验室课题组">
-        <meta name="viewport"  content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=yes">  
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-		<link rel="shortcut icon" href="./static/home/index/images/icon.png" />
-        <link rel="stylesheet" href="./static/home/index/css/bootstrap.min.css"  media="screen">
-        <!--For Plugins external css-->
-        <link rel="stylesheet" href="./static/home/index/css/plugins.css" />
-        <!--Theme custom css -->
-        <link rel="stylesheet" href="./static/home/index/css/style.css">
-		<!-- <link rel="stylesheet" type="text/css" href="./resource/own/css/my.css" /> -->
-        <!--Theme Responsive css-->
-        <link rel="stylesheet" href="./static/home/index/css/responsive.css" />
-         <link rel="stylesheet" href="#(ctx_path)/static/common/dist/css/layui.css"   media="screen">
-        <link rel="stylesheet" href="./static/home/index/css/index.css" type="text/css">      
-    </head>
- <style type="text/css">  
- input::-webkit-input-placeholder {
-  
-  		font-size: 14px;
-  		text-align:left;  		
-  }
-       
-</style> 
- <body>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>企业信用分析查询系统</title>
+<meta name="description" content="CCIP实验室课题组">
+<meta name="viewport"
+	content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=yes">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="shortcut icon" href="./static/home/index/images/icon.png" />
+<link rel="stylesheet" href="./static/home/index/css/bootstrap.min.css"
+	media="screen">
+<!--For Plugins external css-->
+<link rel="stylesheet" href="./static/home/index/css/plugins.css" />
+<!--Theme custom css -->
+<link rel="stylesheet" href="./static/home/index/css/style.css">
+<!-- <link rel="stylesheet" type="text/css" href="./resource/own/css/my.css" /> -->
+<!--Theme Responsive css-->
+<link rel="stylesheet" href="./static/home/index/css/responsive.css" />
+<link rel="stylesheet"
+	href="#(ctx_path)/static/common/dist/css/layui.css" media="screen">
+<link rel="stylesheet" href="./static/home/index/css/index.css"
+	type="text/css">
+</head>
+<style type="text/css">
+input::-webkit-input-placeholder {
+	font-size: 14px;
+	text-align: left;
+}
+</style>
+<body>
 
- <div class="top_bg" id="top_bg">	
-    <div class="top_line">
-		<p style="margin-right:20px">
-	 <span id = "loginOut" style="display:none;font-size:15px;"><a href="./logout"><span style="color:#fff;">退出系统</span></a>  </span>
-     <span id = "userName" value="#(session.user)"  style="display:none;color:#fff;float:right;font-size:15px">欢迎您:#(session.user)||</span> 
-	 <a id="login" style="color:#fff;font-size:15px" href="./login">用户登录</a>
-		</p>	
-			
-		
-	</div> 
-	<div class="top_main">
-		 <div class="top_logo">
-			<a href='./'><img src="./static/home/index/images/systitle.png"></a>
+	<div class="top_bg" id="top_bg">
+		<div class="top_line">
+			<p style="margin-right: 20px">
+				<span id="loginOut" style="display: none; font-size: 15px;"><a
+					href="./logout"><span style="color: #fff;">退出系统</span></a> </span> <span
+					id="userName" value="#(session.user)"
+					style="display: none; color: #fff; float: right; font-size: 15px">欢迎您:#(session.user)||</span>
+				<a id="login" style="color: #fff; font-size: 15px" href="./login">用户登录</a>
+			</p>
+
+
 		</div>
-		
-		<div class="dh_bg">                
-                    <ul >
-                        <li  class="cur" ><a href="#home"><span>系统首页</span></a></li>
-                        <li><a href="#"><span>企业图谱</span> </a></li>
-                        <li><a href="./predict/xypj"><span>智能分析</span></a></li>                                 
-                    </ul>
-            
-            <div class="dh_bg_cur">
-	        	<img src="./static/home/index/images/images/nav_cur.png">
-	        </div>   	                      
+		<div class="top_main">
+			<div class="top_logo">
+				<a href='./'><img src="./static/home/index/images/systitle.png"></a>
+			</div>
+
+			<div class="dh_bg">
+				<ul>
+					<li class="cur"><a href="#home"><span>系统首页</span></a></li>
+					<li><a href="#"><span>企业图谱</span> </a></li>
+					<li><a href="./predict/xypj"><span>智能分析</span></a></li>
+				</ul>
+
+				<div class="dh_bg_cur">
+					<img src="./static/home/index/images/images/nav_cur.png">
+				</div>
+			</div>
+
 		</div>
-		
 	</div>
-</div> 
-      
-<!--     <div class="navbar navbar-default">
+
+	<!--     <div class="navbar navbar-default">
   <div class="navbar-header">
     　.navbar-toggle样式用于toggle收缩的内容，即nav-collapse collapse样式所在元素
     <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#demo">
@@ -81,392 +85,396 @@
     </ul>
   </div>
 </div> -->
-        <!--Home page style-->
-        <header id="home" class="home">
-            <div class="overlay-fluid-block">          
-                <div class="container text-center">                         
-				 <div class="row">
-                        <div class="home-wrapper">
-                            <div class="col-md-10 col-md-offset-1">
-                                <div class="home-content">
+	<!--Home page style-->
+	<header id="home" class="home">
+		<div class="overlay-fluid-block">
+			<div class="container text-center">
+				<div class="row">
+					<div class="home-wrapper">
+						<div class="col-md-10 col-md-offset-1">
+							<div class="home-content">
 
-                                    <h1>企业信息查询与智能分析</h1>
-                                    <p><!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ --><br>
-                                    	该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。</p>
-                                    <div class="row">
-                                        <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-           <div class="home-contact">                                             				
-								<div class="input-group">
-								<form name="loginform" method="POST" id="loginform" action="search/" onsubmit="return isNull();">								
-                                   	<input type="text" name="keyWord" value="" autoComplete='off' id="search" class="form-control" placeholder="输入公司名称、行业、成立时间、注册地址等关键字">
-                               	 	<input type="submit" id='btn' class="form-control" value="查询" > 
-                                  <!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->                               
-                                </form> 
-                                </div>				
+								<h1>企业信息查询与智能分析</h1>
+								<p>
+									<!-- 企业基本信息查询等基础功能和智能推理子系统包括金融风险预测、贷后管理预警、行业动态预测、企业科研投入推荐、企业信用等级评估。全面、准确、高效评价企业情况、智能化推理行业发展趋势，为投资、贷款提供个性化解决方案！ -->
+									<br>
+									该平台为您提供一站式信用信息查询服务，帮助您高效快捷地了解企业的注册信息、历史沿革、股权结构、企业及法人对外投资、法人代表对外任职等信息，同时还会提供涉诉记录、行政处罚等负面记录。
+								</p>
+								<div class="row">
+									<div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+										<div class="home-contact">
+											<div class="input-group">
+												<form name="loginform" method="POST" id="loginform"
+													action="search/" onsubmit="return isNull();">
+													<input type="text" name="keyWord" value=""
+														autoComplete='off' id="search" class="form-control"
+														placeholder="输入公司名称、行业、成立时间、注册地址等关键字"> <input
+														type="submit" id='btn' class="form-control" value="查询">
+													<!-- <input type="submit" class="form-all"  style="float:right;margin-right:-80px;height:48px;background: #a4ca82;" value="全部">   -->
+												</form>
+											</div>
+										</div>
+										<!-- /input-group -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
-		<!-- /input-group -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-					</div>                                                 
-                    </div>
-                </div>			
-          
-        </header>
+		</div>
+		</div>
 
-       <!-- Sections -->
-        <section id="price" class="price sections">
+	</header>
+
+	<!-- Sections -->
+	<section id="price" class="price sections">
 
 
-          <!--   <div class="head_title text-center">
+		<!--   <div class="head_title text-center">
                 <h1>Affordable Services Package</h1>
                 <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
             </div> -->
-            <!-- Example row of columns -->
-            <div class="cd-pricing-container cd-has-margins">
-                <div class="cd-pricing-switcher">
-                    <p class="fieldset">
-                        <input type="radio" name="duration-2" value="monthly" id="monthly-2" checked>
-                        <label for="monthly-2">基础功能</label>
-                        <input type="radio" name="duration-2" value="yearly" id="yearly-2">
-                        <label for="yearly-2">高级功能</label>
-                        <span class="cd-switch"></span>
-                    </p>
-                </div> <!-- .cd-pricing-switcher -->
+		<!-- Example row of columns -->
+		<div class="cd-pricing-container cd-has-margins">
+			<div class="cd-pricing-switcher">
+				<p class="fieldset">
+					<input type="radio" name="duration-2" value="monthly"
+						id="monthly-2" checked> <label for="monthly-2">基础功能</label>
+					<input type="radio" name="duration-2" value="yearly" id="yearly-2">
+					<label for="yearly-2">高级功能</label> <span class="cd-switch"></span>
+				</p>
+			</div>
+			<!-- .cd-pricing-switcher -->
 
-                <ul class="cd-pricing-list cd-bounce-invert">
-                    <li>
-                        <ul class="cd-pricing-wrapper">
-                            <li data-type="monthly" class="is-visible">
-                                <header class="cd-pricing-header">                                  
-                                    <div class="cd-price">
-                                        <span class="cd-currency">基本信息</span>                               
-                                    </div>
-                                </header>
+			<ul class="cd-pricing-list cd-bounce-invert">
+				<li>
+					<ul class="cd-pricing-wrapper">
+						<li data-type="monthly" class="is-visible"><header
+								class="cd-pricing-header">
+								<div class="cd-price">
+									<span class="cd-currency">基本信息</span>
+								</div>
+							</header>
 
-                                <div class="cd-pricing-body">
-                                    <ul class="cd-pricing-features">
-                                        <li>注册信息</li>
-                                        <li>股权结构</li>
-                                        <li>企业关系</li>
-                                        <li>对外投资</li>
+							<div class="cd-pricing-body">
+								<ul class="cd-pricing-features">
+									<li>注册信息</li>
+									<li>股权结构</li>
+									<li>企业关系</li>
+									<li>对外投资</li>
 
-                                    </ul>
-                                </div> 
-                            </li>
+								</ul>
+							</div></li>
 
-                            <li data-type="yearly" class="is-hidden">
-                                <header class="cd-pricing-header">                               
-                                    <div class="cd-price">
-                                        <span class="cd-currency">企业信用评分</span>                                      
-                                    </div>
-                                </header>
+						<li data-type="yearly" class="is-hidden"><header
+								class="cd-pricing-header">
+								<div class="cd-price">
+									<span class="cd-currency">企业信用评分</span>
+								</div>
+							</header>
 
-                                <div class="cd-pricing-body">
-                                	<p>通过对企业的市场交易信息、银行信息进行分析和推理，对企业信用等级进行评估。辅助投资公司和银行建立维度高、分析全面的企业信用评估策略。</p>
-                                    <!-- <ul class="cd-pricing-features">
+							<div class="cd-pricing-body">
+								<p>通过对企业的市场交易信息、银行信息进行分析和推理，对企业信用等级进行评估。辅助投资公司和银行建立维度高、分析全面的企业信用评估策略。</p>
+								<!-- <ul class="cd-pricing-features">
                                         <li><em><i class="fa fa-check-circle"></i></em>20 Keyword</li>
 
                                     </ul> -->
-                                </div> <!-- .cd-pricing-body -->
-
-                              <!--   <footer class="cd-pricing-footer">
+							</div> <!-- .cd-pricing-body --> <!--   <footer class="cd-pricing-footer">
                                     <a class="cd-select" href="#">Purchase</a>
-                                </footer>  .cd-pricing-footer -->
-                            </li>
-                        </ul> <!-- .cd-pricing-wrapper -->
-                    </li>
+                                </footer>  .cd-pricing-footer --></li>
+					</ul> <!-- .cd-pricing-wrapper -->
+				</li>
 
-                    <li class="cd-popular">
-                        <ul class="cd-pricing-wrapper">
-                            <li data-type="monthly" class="is-visible">
-                                <header class="cd-pricing-header">
-                                  
-                                    <div class="cd-price">
-                                        <span class="cd-currency">运营信息</span>
-                                       <!--  <span class="cd-value">60</span>
+				<li class="cd-popular">
+					<ul class="cd-pricing-wrapper">
+						<li data-type="monthly" class="is-visible"><header
+								class="cd-pricing-header">
+
+								<div class="cd-price">
+									<span class="cd-currency">运营信息</span>
+									<!--  <span class="cd-value">60</span>
                                         <span class="cd-duration">mo</span> -->
-                                    </div>
-                                </header> <!-- .cd-pricing-header -->
+								</div>
+							</header> <!-- .cd-pricing-header -->
 
-                                <div class="cd-pricing-body">
-                                    <ul class="cd-pricing-features">
-                                        <li>公司业务</li>
-                                        <li>产品信息</li>
-                                        <li>融资历史</li>
-                                        <li>知识产权</li>
-                                       
-                                    </ul>
-                                </div> <!-- .cd-pricing-body -->
+							<div class="cd-pricing-body">
+								<ul class="cd-pricing-features">
+									<li>公司业务</li>
+									<li>产品信息</li>
+									<li>融资历史</li>
+									<li>知识产权</li>
 
-                              <!--   <footer class="cd-pricing-footer">
+								</ul>
+							</div> <!-- .cd-pricing-body --> <!--   <footer class="cd-pricing-footer">
                                     <a class="cd-select" href="#">Purchase</a>
-                                </footer>  .cd-pricing-footer -->
-                            </li>
+                                </footer>  .cd-pricing-footer --></li>
 
-                            <li data-type="yearly" class="is-hidden">
-                                <header class="cd-pricing-header">
-                                     <div class="cd-price">
-                                        <span class="cd-currency">贷后管理预警</span>                                 
-                                    </div>
-                                </header> <!-- .cd-pricing-header -->
+						<li data-type="yearly" class="is-hidden"><header
+								class="cd-pricing-header">
+								<div class="cd-price">
+									<span class="cd-currency">贷后管理预警</span>
+								</div>
+							</header> <!-- .cd-pricing-header -->
 
-                                <div class="cd-pricing-body">
-                                    <!-- <ul class="cd-pricing-features">
+							<div class="cd-pricing-body">
+								<!-- <ul class="cd-pricing-features">
                                         <li><em><i class="fa fa-check-circle"></i></em>20 111Keyword</li>
                                        
 
-                                    </ul> --><p>通过对企业所贷款项的资金流进行分析和推理，实行有效的贷款资金流预警，辅助银行形成更加完善的贷后管理机制。</p>
-                                </div> <!-- .cd-pricing-body -->
+                                    </ul> -->
+								<p>通过对企业所贷款项的资金流进行分析和推理，实行有效的贷款资金流预警，辅助银行形成更加完善的贷后管理机制。</p>
+							</div> <!-- .cd-pricing-body --></li>
+					</ul> <!-- .cd-pricing-wrapper -->
+				</li>
 
-                            </li>
-                        </ul> <!-- .cd-pricing-wrapper -->
-                    </li>
-
-                    <li>
-                        <ul class="cd-pricing-wrapper">
-                            <li data-type="monthly" class="is-visible">
-                                <header class="cd-pricing-header">
-                                   <!--  <h2>Premier</h2>
+				<li>
+					<ul class="cd-pricing-wrapper">
+						<li data-type="monthly" class="is-visible"><header
+								class="cd-pricing-header">
+								<!--  <h2>Premier</h2>
  -->
-                                    <div class="cd-price">
-                                        <span class="cd-currency">负面风险信息</span>
-                                    </div>
-                                </header> <!-- .cd-pricing-header -->
+								<div class="cd-price">
+									<span class="cd-currency">负面风险信息</span>
+								</div>
+							</header> <!-- .cd-pricing-header -->
 
-                                <div class="cd-pricing-body">
-                                    <ul class="cd-pricing-features">
-                                        <li>开庭公告</li>
-                                        <li>经营异常</li>
-                                        <li>法律诉讼</li>
-                                        <li>欠税公告</li>
+							<div class="cd-pricing-body">
+								<ul class="cd-pricing-features">
+									<li>开庭公告</li>
+									<li>经营异常</li>
+									<li>法律诉讼</li>
+									<li>欠税公告</li>
 
-                                    </ul>
-                                </div> <!-- .cd-pricing-body -->
+								</ul>
+							</div> <!-- .cd-pricing-body --></li>
 
-                              
-                            </li>
-
-                            <li data-type="yearly" class="is-hidden">
-                                <header class="cd-pricing-header">
-                                   <!--  <h2>Premier</h2> -->
-                                    <div class="cd-price">
-                                        <span class="cd-currency">金融风险预测</span>
-                                        <!-- <span class="cd-value">950</span>
+						<li data-type="yearly" class="is-hidden"><header
+								class="cd-pricing-header">
+								<!--  <h2>Premier</h2> -->
+								<div class="cd-price">
+									<span class="cd-currency">金融风险预测</span>
+									<!-- <span class="cd-value">950</span>
                                         <span class="cd-duration">yr</span> -->
-                                    </div>
-                                </header> <!-- .cd-pricing-header -->
+								</div>
+							</header> <!-- .cd-pricing-header -->
 
-                                <div class="cd-pricing-body">
-                                    <!-- <ul class="cd-pricing-features">
+							<div class="cd-pricing-body">
+								<!-- <ul class="cd-pricing-features">
                                         <li><em><i class="fa fa-check-circle"></i></em>20 Keyword</li>
 
                                     </ul> -->
-                                    <p>通过对金融投资领域风险因子的分析和推理，实现有效的金融风险预测和预报，辅助投资机构形成比较完整的金融风险控制机制。</p>
-                                </div> <!-- .cd-pricing-body -->
+								<p>通过对金融投资领域风险因子的分析和推理，实现有效的金融风险预测和预报，辅助投资机构形成比较完整的金融风险控制机制。</p>
+							</div> <!-- .cd-pricing-body --></li>
+					</ul> <!-- .cd-pricing-wrapper -->
+				</li>
+			</ul>
+			<!-- .cd-pricing-list -->
+		</div>
+		<!-- .cd-pricing-container -->
 
-                            </li>
-                        </ul> <!-- .cd-pricing-wrapper -->
-                    </li>
-                </ul> <!-- .cd-pricing-list -->
-            </div> <!-- .cd-pricing-container -->	
+	</section>
 
-        </section>
-
-        <!-- Sections -->
-        <section id="business" class="portfolio sections">
-            <div class="container">
-               <!--  <div class="head_title text-center">
+	<!-- Sections -->
+	<section id="business" class="portfolio sections">
+		<div class="container">
+			<!--  <div class="head_title text-center">
                     <h1>Our Business Analytics Platform</h1>
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
                 </div> -->
 
-                <div class="row">
-                    <div class="portfolio-wrapper text-center">
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-book"></i>
-                                <div class="separator"></div>
-                                <h4>多维度数据</h4>
-                                <p>财务、舆情</p>
-                            </div>
-                        </div>
+			<div class="row">
+				<div class="portfolio-wrapper text-center">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-book"></i>
+							<div class="separator"></div>
+							<h4>多维度数据</h4>
+							<p>财务、舆情</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-bug"></i>
-                                <div class="separator"></div>
-                                <h4>权威数据来源</h4>
-                                <p>国家企业公示系统</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-bug"></i>
+							<div class="separator"></div>
+							<h4>权威数据来源</h4>
+							<p>国家企业公示系统</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-gears"></i>
-                                <div class="separator"></div>
-                                <h4>智能化推理</h4>
-                                <p>基于记忆性神经网络</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-gears"></i>
+							<div class="separator"></div>
+							<h4>智能化推理</h4>
+							<p>基于记忆性神经网络</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-external-link"></i>
-                                <div class="separator"></div>
-                                <h4>精准化评估</h4>
-                                <p>科学的综合评估体系</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-external-link"></i>
+							<div class="separator"></div>
+							<h4>精准化评估</h4>
+							<p>科学的综合评估体系</p>
+						</div>
+					</div>
 
-                    </div>
-                </div>
+				</div>
+			</div>
 
-                <!-- Example row of columns -->
-                <div class="row">
-                    <div class="portfolio-wrapper2 text-center">
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-coffee"></i>
-                                <div class="separator"></div>
-                                <h4>科学推荐</h4>
-                                <p>投入产出模型,企业高效投入</p>
-                            </div>
-                        </div>
+			<!-- Example row of columns -->
+			<div class="row">
+				<div class="portfolio-wrapper2 text-center">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-coffee"></i>
+							<div class="separator"></div>
+							<h4>科学推荐</h4>
+							<p>投入产出模型,企业高效投入</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-tree"></i>
-                                <div class="separator"></div>
-                                <h4>及时性监控</h4>
-                                <p>动态监控并及时发现潜在风险等</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-tree"></i>
+							<div class="separator"></div>
+							<h4>及时性监控</h4>
+							<p>动态监控并及时发现潜在风险等</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-paper-plane-o"></i>
-                                <div class="separator"></div>
-                                <h4>有效性贷后预警</h4>
-                                <p>行业动态、贷后资金流向查看等</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-paper-plane-o"></i>
+							<div class="separator"></div>
+							<h4>有效性贷后预警</h4>
+							<p>行业动态、贷后资金流向查看等</p>
+						</div>
+					</div>
 
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <div class="community-edition">
-                                <i class="fa fa-folder-open"></i>
-                                <div class="separator"></div>
-                                <h4>个性化数据展示</h4>
-                                <p>企业关系图、雷达图等</p>
-                            </div>
-                        </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="community-edition">
+							<i class="fa fa-folder-open"></i>
+							<div class="separator"></div>
+							<h4>个性化数据展示</h4>
+							<p>企业关系图、雷达图等</p>
+						</div>
+					</div>
 
-                    </div>
-                </div>
-            </div> <!-- /container -->       
-        </section>
-     <section id="footer-menu" class="sections footer-menu">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-menu-wrapper">
+				</div>
+			</div>
+		</div>
+		<!-- /container -->
+	</section>
+	<section id="footer-menu" class="sections footer-menu">
+		<div class="container">
+			<div class="row">
+				<div class="footer-menu-wrapper">
 
-                        <div class="col-md-8 col-sm-12 col-xs-12">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="menu-item">
-                                    <h5>快速链接</h5>
-                                    <ul>
-                                        <li><a href="http://ccip.ucas.ac.cn/"><!-- <i class="fa fa-facebook"></i> -->系统维护</a></li>
-                                    </ul>
-                                    <ul>
-                                        <li><a href="admin/login"><!-- <i class="fa fa-facebook"></i> -->管理员控制入口</a></li>
-                                    </ul>
-                                </div>
-                            </div>
+					<div class="col-md-8 col-sm-12 col-xs-12">
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="menu-item">
+								<h5>快速链接</h5>
+								<ul>
+									<li><a href="http://ccip.ucas.ac.cn/">
+											<!-- <i class="fa fa-facebook"></i> -->系统维护
+									</a></li>
+								</ul>
+								<ul>
+									<li><a href="admin/login">
+											<!-- <i class="fa fa-facebook"></i> -->管理员控制入口
+									</a></li>
+								</ul>
+							</div>
+						</div>
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="menu-item">
-                                    <h5>法律声明</h5>
-                                    <ul>
-                                        <li>免责说明</li>
-                                      
-                                    </ul>
-                                </div>
-                            </div>
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="menu-item">
+								<h5>法律声明</h5>
+								<ul>
+									<li>免责说明</li>
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="menu-item">
-                                    <h5>数据来源</h5>
-                                    <ul>
-                                        <li>上市企业公司</li>
-                                        <li>金融机构</li>
-                                       
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+								</ul>
+							</div>
+						</div>
 
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="menu-item">
-                                <h5>联系我们</h5>
-                                
-                                 <ul>
-                                        <li>010-85158328</li>
-                                       
-                                       
-                                    </ul>
-                               <!--  <div class="input-group">
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="menu-item">
+								<h5>数据来源</h5>
+								<ul>
+									<li>上市企业公司</li>
+									<li>金融机构</li>
+
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="menu-item">
+							<h5>联系我们</h5>
+
+							<ul>
+								<li>010-85158328</li>
+
+
+							</ul>
+							<!--  <div class="input-group">
                                     <input type="text" class="form-control" placeholder="Enter your email address">
                                     <input type="submit" class="form-control" value="Use It Free">
                                 </div> -->
-                            </div>
-                        </div>
+						</div>
+					</div>
 
-                    </div>
-                </div>
-            </div>
-        </section>
+				</div>
+			</div>
+		</div>
+	</section>
 
 
-        <!--Footer-->
-        <footer id="footer" class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-wrapper">
+	<!--Footer-->
+	<footer id="footer" class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="footer-wrapper">
 
-                        <!-- <div class="col-md-6 col-sm-6 col-xs-12">
+					<!-- <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="footer-brand">
                               		企业信用分析查询系统
                             </div>
                         </div> -->
 
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="copyright">
-                                <p>Copyright&copy;2017-2018 <a href="http://ccip.ucas.ac.cn/" target="_blank" title="实验室">CCIP实验室课题组</a> </p>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="copyright">
+							<p>
+								Copyright&copy;2017-2018 <a href="http://ccip.ucas.ac.cn/"
+									target="_blank" title="实验室">CCIP实验室课题组</a>
+							</p>
 
-                            </div>
-                        </div>
+						</div>
+					</div>
 
-                    </div>
-                </div>
-            </div>
-        </footer>
+				</div>
+			</div>
+		</div>
+	</footer>
 
 
-        <div class="scrollup">
-            <a href="#"><i class="fa fa-chevron-up"></i></a>
-        </div>
-        <script src="./static/home/index/js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="./static/home/index/js/vendor/bootstrap.min.js"></script>
-        <script src="./static/home/index/js/plugins.js"></script>
-        <script src="./static/home/index/js/modernizr.js"></script>
-        <script src="./static/home/index/js/main.js"></script>
-         <script src="./static/home/index/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-         <script type="text/javascript" src="./static/home/index/js/public.js"></script>
-         <script src="#(ctx_path)/static/common/dist/layui.js" charset="utf-8"></script>
-       <script type="text/javascript" >
+	<div class="scrollup">
+		<a href="#"><i class="fa fa-chevron-up"></i></a>
+	</div>
+	<script src="./static/home/index/js/vendor/jquery-1.11.2.min.js"></script>
+	<script src="./static/home/index/js/vendor/bootstrap.min.js"></script>
+	<script src="./static/home/index/js/plugins.js"></script>
+	<script src="./static/home/index/js/modernizr.js"></script>
+	<script src="./static/home/index/js/main.js"></script>
+	<script
+		src="./static/home/index/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script type="text/javascript" src="./static/home/index/js/public.js"></script>
+	<script src="#(ctx_path)/static/common/dist/layui.js" charset="utf-8"></script>
+	<script type="text/javascript">
        			var name = $('#userName').attr("value"); 
        			//console.log(name);
        			if(name) {
@@ -556,6 +564,6 @@
                 console.log("数据库数据备份解压缩密码：ccipucas")              
                 
     	</script>
-     
-    </body>
+
+</body>
 </html>

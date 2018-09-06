@@ -1,42 +1,44 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="renderer" content="webkit">
-    <meta name="CCIP" content="CCI实验室课题组2017--2018">
-    <title>企业信息查询与智能分析系统</title>
-    <meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
-	<meta name="Keywords" content="企业信用与智能分析">
-    <link rel="stylesheet"  href="../static/home/list/Shuidi_PCSearch.css" type="text/css">
-    <link rel="shortcut icon" href="../static/home/index/images/icon.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="renderer" content="webkit">
+<meta name="CCIP" content="CCI实验室课题组2017--2018">
+<title>企业信息查询与智能分析系统</title>
+<meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
+<meta name="Keywords" content="企业信用与智能分析">
+<link rel="stylesheet" href="../static/home/list/Shuidi_PCSearch.css"
+	type="text/css">
+<link rel="shortcut icon" href="../static/home/index/images/icon.png" />
 </head>
 
 <body>
 
-<div class="nav">
-    <div class="container">
-        <a href="../"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
-        <div class="link-box">
-            <a href="../" class="home-page-link" style="padding-left:60px;">首页</a>
-             
-      <!--   <div class="triangle-box"><a href="../search/">查询服务</a>
+	<div class="nav">
+		<div class="container">
+			<a href="../"><span style="font-size: 20px; font-weight: 900">企业信息查询与智能分析系统</span></a>
+			<div class="link-box">
+				<a href="../" class="home-page-link" style="padding-left: 60px;">首页</a>
+
+				<!--   <div class="triangle-box"><a href="../search/">查询服务</a>
                 <i class="triangle"></i>
                 
             </div>  -->
-            <div class="triangle-box" >智能分析服务
-                <i class="triangle"></i>
-                <ul class="pull-down-two" style="bottom: -68px;">
-                    <li class="first"><a href="../predict/xypj" >企业信用评级</a></li>
-                    <li><a href="../predict/hydt">行业动态预测</a></li>
-                    <li class="last"><a href="../predict/kytr">企业科研投入推荐</a></li>
-                    <li class="last"><a href="../predict/dhyj">企业贷后预警</a></li>
-                    <li class="last"><a href="../predict/fxpg">企业风险评估</a></li>
-                </ul>
-            </div>
-        </div>
-                   <!--  <div class="search top_search ">
+				<div class="triangle-box">
+					智能分析服务 <i class="triangle"></i>
+					<ul class="pull-down-two" style="bottom: -68px;">
+						<li class="first"><a href="../predict/xypj">企业信用评级</a></li>
+						<li><a href="../predict/hydt">行业动态预测</a></li>
+						<li class="last"><a href="../predict/kytr">企业科研投入推荐</a></li>
+						<li class="last"><a href="../predict/dhyj">企业贷后预警</a></li>
+						<li class="last"><a href="../predict/fxpg">企业风险评估</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--  <div class="search top_search ">
             <form id="topSearchForm">
                信用圈搜索框
                                                        通用搜索框
@@ -46,7 +48,7 @@
                         
             </form>
         <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display:none"></ul></div> -->
-         <!--   <div class="userinfo-nologin">
+			<!--   <div class="userinfo-nologin">
             <div class="user-name">您好,#(session.user)</div>
             <i class="icon-turn"></i>
             <i class="icon-msg"></i>
@@ -60,172 +62,144 @@
                 <li class="logout"><a href="./logout">退出登录</a></li>
             </ul>
         </div> -->
-		 <div class="userinfo-nologin">
-            <a class="user-name" href="javascript:;">您好,#(session.user)</a>
-            <a class="regist-btn" href="../logout">退出登录</a>        
-        </div>  
-    </div>
-</div>
+			<div class="userinfo-nologin">
+				<a class="user-name" href="javascript:;">您好,#(session.user)</a> <a
+					class="regist-btn" href="../logout">退出登录</a>
+			</div>
+		</div>
+	</div>
 
-<div class="container-content">
-    <!-- common search -->
-    <div class="sd_company_container">
-        <div class="sd_form_search">
-            <div class="sd_form_search_input">
-                <form action="./" method="post" id="searchForm">
-                    <input id="searchkey" type="text"  autocomplete="off" name="keyWord" placeholder="可按企业名称、注册号、所属行业、地区等关键字搜索" class="ui-autocomplete-input">
-                   <span class="input-group-btn01">
-                   <button class="btn btn-primary" type="submit" id="searchBtn"></button>
-                   </span>
-                </form>
-            <ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div>
-            <!-- 热搜词 -->
-            <p class="sd_form_search_p" id="hotKeyWordsDiv">
-                【热门搜词：待实现】
-            </p> 
-        </div>
-    </div>
+	<div class="container-content">
+		<!-- common search -->
+		<div class="sd_company_container">
+			<div class="sd_form_search">
+				<div class="sd_form_search_input">
+					<form action="./" method="post" id="searchForm">
+						<input id="searchkey" type="text" autocomplete="off"
+							name="keyWord" placeholder="可按企业名称、注册号、所属行业、地区等关键字搜索"
+							class="ui-autocomplete-input"> <span
+							class="input-group-btn01">
+							<button class="btn btn-primary" type="submit" id="searchBtn"></button>
+						</span>
+					</form>
+					<ul id="ui-id-2" tabindex="0"
+						class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front"
+						style="display: none;"></ul>
+				</div>
+				<!-- 热搜词 -->
+				<p class="sd_form_search_p" id="hotKeyWordsDiv">【热门搜词：待实现】</p>
+			</div>
+		</div>
 
-    <div class="sd_company_container" style="margin-top: 20px;">
-        <div class="sd_cent">
-            <div class="sd_cent">
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>智能筛选</b>
-                        <span class="sd_left_tit_up" id="searchConditionBtn">收起筛选<i></i></span>
-                    </div>
-                    <div class="or_left_silde" id="searchCondition">
-                        <div class="or_category">
-                            <div class="or_sl_key">搜索范围</div>
-                            <div class="or_sl_value searchSlEvent">
-                                <a href="javascript:void(0);" class="  current" inputid="search_type" seed="all"> 全部</a>
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="companyContent">
-                                    企业
-                                </a>
+		<div class="sd_company_container" style="margin-top: 20px;">
+			<div class="sd_cent">
+				<div class="sd_cent">
+					<div class="sd_left_block">
+						<div class="sd_left_block_tit">
+							<b>智能筛选</b> <span class="sd_left_tit_up" id="searchConditionBtn">收起筛选<i></i></span>
+						</div>
+						<div class="or_left_silde" id="searchCondition">
+							<div class="or_category">
+								<div class="or_sl_key">搜索范围</div>
+								<div class="or_sl_value searchSlEvent">
+									<a href="javascript:void(0);" class="  current"
+										inputid="search_type" seed="all"> 全部</a> <a
+										href="javascript:void(0);" class=" " inputid="search_type"
+										seed="companyContent"> 企业 </a> <a href="javascript:void(0);"
+										class=" " inputid="search_type" seed="personContent">
+										法人/股东 </a> <a href="javascript:void(0);" class=" "
+										inputid="search_type" seed="employeeContent"> 董高监 </a> <a
+										href="javascript:void(0);" class=" " inputid="search_type"
+										seed="addressContent"> 地址 </a> <a href="javascript:void(0);"
+										class=" " inputid="search_type" seed="scopeContent"> 经营范围
+									</a>
 
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="personContent">
-                                    法人/股东
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="employeeContent">
-                                    董高监
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="addressContent">
-                                    地址
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="search_type" seed="scopeContent">
-                                    经营范围
-                                </a>
-
-                                <!-- <a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
+									<!-- <a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
                                     品牌/产品
                                 </a>
  -->
-                            </div>
-                        </div>
-                        <div class="or_category">
-                            <div class="or_sl_key">注册资本</div>
-                            <div class="or_sl_value searchSlEvent">
+								</div>
+							</div>
+							<div class="or_category">
+								<div class="or_sl_key">注册资本</div>
+								<div class="or_sl_value searchSlEvent">
 
-                                <a href="javascript:void(0);" class=" current" inputid="capitalNumber" seed="0">
-                                    全部
-                                </a>
-
-                                <a href="javascript:void(0);" class="" inputid="capitalNumber" seed="1">
-                                    100万以下
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="capitalNumber" seed="2">
-                                    100-200万
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="capitalNumber" seed="3">
-                                    200-500万
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="capitalNumber" seed="4">
-                                    500-1000万
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="capitalNumber" seed="5">
-                                    1000万以上
-                                </a>
+									<a href="javascript:void(0);" class=" current"
+										inputid="capitalNumber" seed="0"> 全部 </a> <a
+										href="javascript:void(0);" class="" inputid="capitalNumber"
+										seed="1"> 100万以下 </a> <a href="javascript:void(0);" class=" "
+										inputid="capitalNumber" seed="2"> 100-200万 </a> <a
+										href="javascript:void(0);" class=" " inputid="capitalNumber"
+										seed="3"> 200-500万 </a> <a href="javascript:void(0);"
+										class=" " inputid="capitalNumber" seed="4"> 500-1000万 </a> <a
+										href="javascript:void(0);" class=" " inputid="capitalNumber"
+										seed="5"> 1000万以上 </a>
 
 
-                            </div>
-                        </div>
-                        <div class="or_category">
-                            <div class="or_sl_key">成立年限</div>
-                            <div class="or_sl_value searchSlEvent">
+								</div>
+							</div>
+							<div class="or_category">
+								<div class="or_sl_key">成立年限</div>
+								<div class="or_sl_value searchSlEvent">
 
-                                <a href="javascript:void(0);" class="  current" inputid="establishDuration" seed="0">
-                                    全部
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="1">
-                                    1年以内
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="2">
-                                    1-5年
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="3">
-                                    5-10年
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="4">
-                                    10-15年
-                                </a>
-
-                                <a href="javascript:void(0);" class=" " inputid="establishDuration" seed="5"> 15年以上</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="sd_left_block">
-                    <div class="sd_left_ss">
-                        搜索<span class="sd_left_ss_name">#if(key!="") #(key) #else #("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
-                    </div>
-                    <div class="sd_left_hide">
-                        <div class="sd_left_deep">
-                    	<span class="sd_left_deep_default">
-                        <span class="sd_left_deep_value hover-hide" id="sortBtn" tar="sort">默认排序<i class="tit_up"></i></span>                            
-                        <div class="sd_left_types searchSlEvent hover-cont" style="display:none;z-index:100;" id="sortDiv">
-                            <a href="javascript:void(0);" inputid="sort" seed="0">默认排序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="1">企业评分升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="2">企业评分降序</a>
-                            <a href="./?sort=3&keyWord=#(key)">注册资本升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="4">注册资本降序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="5">成立年限升序</a>
-                            <a href="javascript:void(0);" inputid="sort" seed="6">成立年限降序</a>
-                        </div>
-                        </span>
-                        <!-- <span class="sd_left_deep_name">公司</span> -->
-                       <!--  <span class="" >状态</span>
+									<a href="javascript:void(0);" class="  current"
+										inputid="establishDuration" seed="0"> 全部 </a> <a
+										href="javascript:void(0);" class=" "
+										inputid="establishDuration" seed="1"> 1年以内 </a> <a
+										href="javascript:void(0);" class=" "
+										inputid="establishDuration" seed="2"> 1-5年 </a> <a
+										href="javascript:void(0);" class=" "
+										inputid="establishDuration" seed="3"> 5-10年 </a> <a
+										href="javascript:void(0);" class=" "
+										inputid="establishDuration" seed="4"> 10-15年 </a> <a
+										href="javascript:void(0);" class=" "
+										inputid="establishDuration" seed="5"> 15年以上</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="sd_left_block">
+						<div class="sd_left_ss">
+							搜索<span class="sd_left_ss_name">#if(key!="") #(key) #else
+								#("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
+						</div>
+						<div class="sd_left_hide">
+							<div class="sd_left_deep">
+								<span class="sd_left_deep_default"> <span
+									class="sd_left_deep_value hover-hide" id="sortBtn" tar="sort">默认排序<i
+										class="tit_up"></i></span>
+									<div class="sd_left_types searchSlEvent hover-cont"
+										style="display: none; z-index: 100;" id="sortDiv">
+										<a href="javascript:void(0);" inputid="sort" seed="0">默认排序</a>
+										<a href="javascript:void(0);" inputid="sort" seed="1">企业评分升序</a>
+										<a href="javascript:void(0);" inputid="sort" seed="2">企业评分降序</a>
+										<a href="./?sort=3&keyWord=#(key)">注册资本升序</a> <a
+											href="javascript:void(0);" inputid="sort" seed="4">注册资本降序</a>
+										<a href="javascript:void(0);" inputid="sort" seed="5">成立年限升序</a>
+										<a href="javascript:void(0);" inputid="sort" seed="6">成立年限降序</a>
+									</div>
+								</span>
+								<!-- <span class="sd_left_deep_name">公司</span> -->
+								<!--  <span class="" >状态</span>
                         <span class="sd_left_deep_score">评分</span>  -->
-                    </div>
-                          <div class="or_search_list">
-                            #for(x : clst.getList())
-                                <div class="or_search_row or_row_w">
-                                   <div class="or_search_row_img">                                                                                                             
-                                    </div> 
-                                    <div class="or_search_row_content">
-                                        <a href="../company/?num=#(x.code)" name="#(x.cname)">
-                                            	#(x.cname)
-                                            <span class="icon-style icon-s4">较好</span></a>
-                                        <div class="or_search_row_company">
-                                            <span>所在行业：#(x.industry)</span>
-                                            <span>营业期限：#(x.businesTerm)</span>
-                                            <span>公司类型：#(x.type)</span>
-                                        </div>
-                                        <!-- <div class="or_search_row_history">
+							</div>
+							<div class="or_search_list">
+								#for(x : clst.getList())
+								<div class="or_search_row or_row_w">
+									<div class="or_search_row_img"></div>
+									<div class="or_search_row_content">
+										<a href="../company/?num=#(x.code)" name="#(x.cname)">
+											#(x.cname) <span class="icon-style icon-s4">较好</span>
+										</a>
+										<div class="or_search_row_company">
+											<span>所在行业：#(x.industry)</span> <span>营业期限：#(x.businesTerm)</span>
+											<span>公司类型：#(x.type)</span>
+										</div>
+										<!-- <div class="or_search_row_history">
 											 <span>品牌：WWW.<em>BAIDU</em>.COM</span>
                                         </div> -->
-                                    </div>
-<!--                                     <div class="or_search_row_type">
+									</div>
+									<!--                                     <div class="or_search_row_type">
                                          <p style="cursor:text;">
                                            <small class="searchbadge"><small class="searchbadge">核准日期：#(x.approvelData)</small></small>
                                          </p>
@@ -235,59 +209,57 @@
                                            <small class="searchbadge"><small class="searchbadge">评分：90</small></small>
                                          </p>
                                     </div> -->
-                                </div>
-                               #end
-                            </div>
-             </div>
-            </div>
-            <!-- 分页插件 -->
-            <div class="pagination">
-                <div class="page">                
-        	    #@paginate(clst.pageNumber, clst.totalPage, "./", key)
-    			</div>
-            </div>
-           
-        </div>
-    </div>
-</div>
-</div>
-<input type="hidden" id="searchNpage" value="">
-    <!-- footer -->
-<div class="sd_index_footer">
-    <div class="sd_company_container">
-        <div class="sd_index_foot_second">
-            <div class="sd_index_foot_s1">
-                <h4>企业信息查询和智能分析系统</h4>
-               <div>
-                   <a href="http://ccip.ucas.ac.cn/">关于我们</a>
-                   <a href="#">隐私协议</a>
-                   <a href="../admin/"><span style="color:#00ae64">管理员入口</span></a>
-               </div>
-            </div>
-            <div class="sd_index_foot_s2">
-                <h4>联系我们</h4>
-                <p class="sd_p2">123456789</p>
-                <p class="sd_p3">ccip@ucas.ac.cn</p>
-            </div>
-            <div class="sd_index_foot_s3">
-                <h4>数据来源</h4>
-                <div>
-                    <span><a href="http://www.gsxt.gov.cn/index.html" target="_blank">全国企业信用信息公示系统</a></span>
-                    <span><a href="http://www.sipo.gov.cn/" target="_blank">国家知识产权局</a></span>
-                    <span><a href="https://www.tianyancha.com" target="_blank">天眼查</a></span>
-                    <span><a href="#">中关村高新企业信用报告</a></span>
-                    <br>
-                </div>
-            </div>
-        </div>
-        <div class="sd_index_foot_copy">
-            <p>Copyright © 2017-2018 CCIP实验室课题组 保留所有权利 </p>
-        </div>
-    </div>
-</div>
+								</div>
+								#end
+							</div>
+						</div>
+					</div>
+					<!-- 分页插件 -->
+					<div class="pagination">
+						<div class="page">#@paginate(clst.pageNumber,
+							clst.totalPage, "./", key)</div>
+					</div>
 
-<script type="text/javascript" src="../static/home/list/pa.1.0.js"></script>
-<!-- <script>
+				</div>
+			</div>
+		</div>
+	</div>
+	<input type="hidden" id="searchNpage" value="">
+	<!-- footer -->
+	<div class="sd_index_footer">
+		<div class="sd_company_container">
+			<div class="sd_index_foot_second">
+				<div class="sd_index_foot_s1">
+					<h4>企业信息查询和智能分析系统</h4>
+					<div>
+						<a href="http://ccip.ucas.ac.cn/">关于我们</a> <a href="#">隐私协议</a> <a
+							href="../admin/"><span style="color: #00ae64">管理员入口</span></a>
+					</div>
+				</div>
+				<div class="sd_index_foot_s2">
+					<h4>联系我们</h4>
+					<p class="sd_p2">123456789</p>
+					<p class="sd_p3">ccip@ucas.ac.cn</p>
+				</div>
+				<div class="sd_index_foot_s3">
+					<h4>数据来源</h4>
+					<div>
+						<span><a href="http://www.gsxt.gov.cn/index.html"
+							target="_blank">全国企业信用信息公示系统</a></span> <span><a
+							href="http://www.sipo.gov.cn/" target="_blank">国家知识产权局</a></span> <span><a
+							href="https://www.tianyancha.com" target="_blank">天眼查</a></span> <span><a
+							href="#">中关村高新企业信用报告</a></span> <br>
+					</div>
+				</div>
+			</div>
+			<div class="sd_index_foot_copy">
+				<p>Copyright © 2017-2018 CCIP实验室课题组 保留所有权利</p>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="../static/home/list/pa.1.0.js"></script>
+	<!-- <script>
     var _hmt = _hmt || [];
     (function() {
         var hm = document.createElement("script");
@@ -296,27 +268,36 @@
         s.parentNode.insertBefore(hm, s);
     })();
 </script> -->
-<div id="pmt-background"></div>
-<input type="hidden" value="" id="digest">
+	<div id="pmt-background"></div>
+	<input type="hidden" value="" id="digest">
 
-<div id="free-pay-background"></div>
+	<div id="free-pay-background"></div>
 
 
-    <script type="text/javascript" src="../static/home/list/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/jrender.min.js"></script>
-    <script type="text/javascript" src="../static/home/list/promise-7.0.4.min.js"></script>
-	<script type="text/javascript" src="../static/home/list/Shuidi_PCSearch.js">
-	</script><script type="text/javascript" src="../static/home/list/Pa_Pa.js"></script>
-<div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
-<script>
+	<script type="text/javascript"
+		src="../static/home/list/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript"
+		src="../static/home/list/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="../static/home/list/jrender.min.js"></script>
+	<script type="text/javascript"
+		src="../static/home/list/promise-7.0.4.min.js"></script>
+	<script type="text/javascript"
+		src="../static/home/list/Shuidi_PCSearch.js">
+	</script>
+	<script type="text/javascript" src="../static/home/list/Pa_Pa.js"></script>
+	<div role="status" aria-live="assertive" aria-relevant="additions"
+		class="ui-helper-hidden-accessible"></div>
+	<script>
     var detailFrame = new DetailFrame();
     detailFrame.init();
 </script>
-<script>
+	<script>
     var search = new Shuidi.PCSearch();
     search.init();
-</script><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+</script>
+	<div role="status" aria-live="assertive" aria-relevant="additions"
+		class="ui-helper-hidden-accessible"></div>
 
 
-</body></html>
+</body>
+</html>

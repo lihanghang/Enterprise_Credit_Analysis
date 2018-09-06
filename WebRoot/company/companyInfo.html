@@ -1,241 +1,387 @@
-#@menu()
-#define main_info()
+#@menu() #define main_info()
 <div class="container company-more">
-    <div class="container-left" style="width:1178px">
-        <div class="panel">
-            <div class="panel-head title-lg" id="managerInfo" data-avoidanchro="true" data-avoidanchroevent="true">
-                <i class="icon icon-bang-lg bg-success"></i>工商信息&nbsp;&nbsp;<label class="title-sub">点击查询按钮，可为您精准匹配高管的各项信息（根据大数据技术<font class="text-strong">已排除重名</font>情况）</label>
-                            </div>
-            <div class="panel-body manager-info">
-                <table>
-                    <tbody><tr>
-                        <th>有中征码：</th>
-                        <td class="col-2">#(rdfData["有中征码"])</td>
-                        <th>登记状态：</th>
-                                                    <td>#(companyData.status)</td>
-                                            </tr>
-                    <tr>
-                        <th>法人代表：</th>
-                        <td class="col-2">
-<!--                            <a class="text-success" target="_blank" href="http://--><!--/search?key=--><!--&searchType=employeeContent&pa_from=12&employeeCompany=--><!--&employeeCompanyDigest=--><!--">--><!--</a>&nbsp;&nbsp;-->
-                            <a class="text-success" href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=personContent">曾庆德</a>&nbsp;&nbsp;
-                                                            <a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                <a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;<br>
-                                                    </td>
-                        <th>注册资本：</th>
-                        <td>#(rdfData["有注册资本"])万元&nbsp;&nbsp;
-                                                           <!--  <a href="javascript:void(0);" data-pay="{name: &#39;湖北筑峰建设工程有限公司&#39;, company_name_digest: &#39;cabe75387416bdce9fc2af48000527b1&#39;, action: &#39;get_company_total_capital&#39;, img: &#39;&#39;}" class="btn btn-sm btn-success">查看实缴</a> -->
-                                                    </td>
-                    </tr>
-                    <tr>
-                        <th>企业信用代码：</th>
-                        <td class="col-2">#(rdfData["有信用代码"])</td>
-                        <th>成立时间：</th>
-                        <td>#(rdfData["有注册登记日期"])</td>
-                    </tr>
-                    <tr>
-                        <th>登记机关：</th>
-                        <td class="col-2">#(rdfData["有登记机关"])</td>
-                        <th>从业人数：</th>
-                        <td>#(rdfData["有从业人数"])人</td>
-                    </tr>
-                    <tr>
-                        <th>营业期限：</th>
-                        <td class="col-2">#(rdfData["有营业执照到期日"])</td>
-                        <th>行业分类：</th>
-                        <td>#(rdfData["有行业分类"])</td>
-                    </tr>
-                    <tr>
-                        <th>公司网址：</th>
-                        <td class="col-2">#(rdfData["有网址"])</td>
-                        <th>企业地址：</th>
-                        <td>#(rdfData["有注册地址"])</td>
-                    </tr>
-                    <tr>
-                        <th>经营范围：</th>
-                        <td class="col-5" colspan="3">#(rdfData["有经营范围"])</td>
-                    </tr>
-                </tbody></table>
-            </div>
+	<div class="container-left" style="width: 1178px">
+		<div class="panel">
+			<div class="panel-head title-lg" id="managerInfo"
+				data-avoidanchro="true" data-avoidanchroevent="true">
+				<i class="icon icon-bang-lg bg-success"></i>工商信息&nbsp;&nbsp;<label
+					class="title-sub">点击查询按钮，可为您精准匹配高管的各项信息（根据大数据技术<font
+					class="text-strong">已排除重名</font>情况）
+				</label>
+			</div>
+			<div class="panel-body manager-info">
+				<table>
+					<tbody>
+						<tr>
+							<th>有中征码：</th>
+							<td class="col-2">#(rdfData["有中征码"])</td>
+							<th>登记状态：</th>
+							<td>#(companyData.status)</td>
+						</tr>
+						<tr>
+							<th>法人代表：</th>
+							<td class="col-2">
+								<!--                            <a class="text-success" target="_blank" href="http://-->
+								<!--/search?key=-->
+								<!--&searchType=employeeContent&pa_from=12&employeeCompany=-->
+								<!--&employeeCompanyDigest=-->
+								<!--">-->
+								<!--</a>&nbsp;&nbsp;--> <a class="text-success"
+								href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=personContent">曾庆德</a>&nbsp;&nbsp;
+								<a data-name="曾庆德" position="%E6%B3%95%E4%BA%BA"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume"><i
+									class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <a
+								data-name="曾庆德" position="%E6%B3%95%E4%BA%BA"
+								href="javascript:;" class="btn btn-sm btn-success check-precise"><i
+									class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;<br>
+							</td>
+							<th>注册资本：</th>
+							<td>#(rdfData["有注册资本"])万元&nbsp;&nbsp; <!--  <a href="javascript:void(0);" data-pay="{name: &#39;湖北筑峰建设工程有限公司&#39;, company_name_digest: &#39;cabe75387416bdce9fc2af48000527b1&#39;, action: &#39;get_company_total_capital&#39;, img: &#39;&#39;}" class="btn btn-sm btn-success">查看实缴</a> -->
+							</td>
+						</tr>
+						<tr>
+							<th>企业信用代码：</th>
+							<td class="col-2">#(rdfData["有信用代码"])</td>
+							<th>成立时间：</th>
+							<td>#(rdfData["有注册登记日期"])</td>
+						</tr>
+						<tr>
+							<th>登记机关：</th>
+							<td class="col-2">#(rdfData["有登记机关"])</td>
+							<th>从业人数：</th>
+							<td>#(rdfData["有从业人数"])人</td>
+						</tr>
+						<tr>
+							<th>营业期限：</th>
+							<td class="col-2">#(rdfData["有营业执照到期日"])</td>
+							<th>行业分类：</th>
+							<td>#(rdfData["有行业分类"])</td>
+						</tr>
+						<tr>
+							<th>公司网址：</th>
+							<td class="col-2">#(rdfData["有网址"])</td>
+							<th>企业地址：</th>
+							<td>#(rdfData["有注册地址"])</td>
+						</tr>
+						<tr>
+							<th>经营范围：</th>
+							<td class="col-5" colspan="3">#(rdfData["有经营范围"])</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 
 
-            <!--主要成员-->
-            <div class="panel-head title-lg" id="personInfo">
-                <i class="icon icon-bang-lg bg-success"></i>主要成员<label class="float-right" style="display:none;">我是企业主我要&nbsp;<a href="http://shuidi.cn/audit-claim?company_name_digest=cabe75387416bdce9fc2af48000527b1&amp;pa_from=85" class="text-success">关闭敏感信息查询&gt;&gt;</a></label>
-            </div>
-            <div class="panel-body person-info">
-                                <!--                                            正常显示-->
-                                            <div class="list list-horizontal">
-                            <div class="item bg-silver {2}" data-model="">
-                                <div class="list-horizontal">
-                                    <div class="item">
-                                        <i class="icon icon-person bg-{3}" data-iconname="{0}"></i>
-                                    </div>
-                                    <div class="item">
-                                        <div class="right">
-                                            <label>{0}：<a class="text-success" style="cursor: default;" href="javascript:;" title="{1}">{1}</a></label>&nbsp;&nbsp;
-                                            <a data-name="{0}" position="{1}" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            <br>
-                                            <span class="text-silver"></span>
-                                        </div>
-                                        <div class="btns">
-                                            <a data-name="{0}" position="{1}" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                                                                                        <div class="item bg-silver ">
-                                    <div class="list-horizontal">
-                                        <div class="item">
-                                            <i class="icon icon-person bg-warning" data-iconname="曾庆德">庆</i>
-                                        </div>
-                                        <div class="item">
-                                            <div class="right">
-                                                <label><a class="color444 name-hover" href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=employeeContent">曾庆德</a>：<a class="text-success" style="cursor: default;" href="javascript:;" title="执行董事兼总经理">执行董事兼总经理</a></label>&nbsp;&nbsp;
-                                                <a data-name="曾庆德" position="%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B%E5%85%BC%E6%80%BB%E7%BB%8F%E7%90%86" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            </div>
-                                            <div class="btns">
-                                                <a data-name="曾庆德" position="%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B%E5%85%BC%E6%80%BB%E7%BB%8F%E7%90%86" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                                            <div class="item bg-silver last">
-                                    <div class="list-horizontal">
-                                        <div class="item">
-                                            <i class="icon icon-person bg-warning" data-iconname="曾庆财">庆</i>
-                                        </div>
-                                        <div class="item">
-                                            <div class="right">
-                                                <label><a class="color444 name-hover" href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E8%B4%A2&amp;search_type=employeeContent">曾庆财</a>：<a class="text-success" style="cursor: default;" href="javascript:;" title="监事">监事</a></label>&nbsp;&nbsp;
-                                                <a data-name="曾庆财" position="%E7%9B%91%E4%BA%8B" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume"><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                            </div>
-                                            <div class="btns">
-                                                <a data-name="曾庆财" position="%E7%9B%91%E4%BA%8B" href="javascript:;" class="btn btn-sm btn-success check-precise"><i class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                                    </div>
-                        <div class="page" id="employeePage" data-config="{npage:1, spage:1, total:2, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_employees&#39;}"></div>
-                                                </div>
+			<!--主要成员-->
+			<div class="panel-head title-lg" id="personInfo">
+				<i class="icon icon-bang-lg bg-success"></i>主要成员<label
+					class="float-right" style="display: none;">我是企业主我要&nbsp;<a
+					href="http://shuidi.cn/audit-claim?company_name_digest=cabe75387416bdce9fc2af48000527b1&amp;pa_from=85"
+					class="text-success">关闭敏感信息查询&gt;&gt;</a></label>
+			</div>
+			<div class="panel-body person-info">
+				<!--                                            正常显示-->
+				<div class="list list-horizontal">
+					<div class="item bg-silver {2}" data-model="">
+						<div class="list-horizontal">
+							<div class="item">
+								<i class="icon icon-person bg-{3}" data-iconname="{0}"></i>
+							</div>
+							<div class="item">
+								<div class="right">
+									<label>{0}：<a class="text-success"
+										style="cursor: default;" href="javascript:;" title="{1}">{1}</a></label>&nbsp;&nbsp;
+									<a data-name="{0}" position="{1}" href="javascript:;"
+										class="btn btn-sm btn-silver-outline check-resume"><i
+										class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <br> <span
+										class="text-silver"></span>
+								</div>
+								<div class="btns">
+									<a data-name="{0}" position="{1}" href="javascript:;"
+										class="btn btn-sm btn-success check-precise"><i
+										class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>&nbsp;
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item bg-silver ">
+						<div class="list-horizontal">
+							<div class="item">
+								<i class="icon icon-person bg-warning" data-iconname="曾庆德">庆</i>
+							</div>
+							<div class="item">
+								<div class="right">
+									<label><a class="color444 name-hover"
+										href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=employeeContent">曾庆德</a>：<a
+										class="text-success" style="cursor: default;"
+										href="javascript:;" title="执行董事兼总经理">执行董事兼总经理</a></label>&nbsp;&nbsp;
+									<a data-name="曾庆德"
+										position="%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B%E5%85%BC%E6%80%BB%E7%BB%8F%E7%90%86"
+										href="javascript:;"
+										class="btn btn-sm btn-silver-outline check-resume"><i
+										class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
+								</div>
+								<div class="btns">
+									<a data-name="曾庆德"
+										position="%E6%89%A7%E8%A1%8C%E8%91%A3%E4%BA%8B%E5%85%BC%E6%80%BB%E7%BB%8F%E7%90%86"
+										href="javascript:;"
+										class="btn btn-sm btn-success check-precise"><i
+										class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item bg-silver last">
+						<div class="list-horizontal">
+							<div class="item">
+								<i class="icon icon-person bg-warning" data-iconname="曾庆财">庆</i>
+							</div>
+							<div class="item">
+								<div class="right">
+									<label><a class="color444 name-hover"
+										href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E8%B4%A2&amp;search_type=employeeContent">曾庆财</a>：<a
+										class="text-success" style="cursor: default;"
+										href="javascript:;" title="监事">监事</a></label>&nbsp;&nbsp; <a
+										data-name="曾庆财" position="%E7%9B%91%E4%BA%8B"
+										href="javascript:;"
+										class="btn btn-sm btn-silver-outline check-resume"><i
+										class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
+								</div>
+								<div class="btns">
+									<a data-name="曾庆财" position="%E7%9B%91%E4%BA%8B"
+										href="javascript:;"
+										class="btn btn-sm btn-success check-precise"><i
+										class="icon icon-bang-sm bg-yellow"></i>查全部公司</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="page" id="employeePage"
+					data-config="{npage:1, spage:1, total:2, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_employees&#39;}"></div>
+			</div>
 
-            <!--股东信息-->
-            <div class="panel-head title-lg" id="partnerInfo">
-                <i class="icon icon-bang-lg bg-success"></i>股东信息&nbsp;&nbsp;&nbsp;&nbsp;<label class="float-right" style="display:none;">我是企业主我要&nbsp;<a href="http://shuidi.cn/audit-claim?company_name_digest=cabe75387416bdce9fc2af48000527b1&amp;pa_from=85" class="text-success">关闭敏感信息查询&gt;&gt;</a></label>
-                                                                </div>
-            <div class="panel-body partner-info">
-                                <!--                                            正常显示-->
-                                            <div class="list">
-                            <div class="item border" data-model="">
-                                <div class="bg-silver">
-    <!--                                股东名称：<label><a class="text-success" target="_blank" href="http://--><!--/search?key={1}&searchType=employeeContent&pa_from=12&employeeCompany=--><!--&employeeCompanyDigest=--><!--">{1}</a></label>&nbsp;&nbsp;-->
-                                    股东名称：<label><a class="text-success" style="cursor: pointer;" href="http://shuidi.cn/?action=jump_company_page_by_company_name&amp;company_name=">{1}</a></label>&nbsp;&nbsp;
-                                    <a data-name="{1}" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume" {0}=""><i class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp;
-                                    <a data-name="{1}" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-precise" {0}=""><i class="icon icon-bang-sm bg-error"></i>查全部公司 </a>
+			<!--股东信息-->
+			<div class="panel-head title-lg" id="partnerInfo">
+				<i class="icon icon-bang-lg bg-success"></i>股东信息&nbsp;&nbsp;&nbsp;&nbsp;<label
+					class="float-right" style="display: none;">我是企业主我要&nbsp;<a
+					href="http://shuidi.cn/audit-claim?company_name_digest=cabe75387416bdce9fc2af48000527b1&amp;pa_from=85"
+					class="text-success">关闭敏感信息查询&gt;&gt;</a></label>
+			</div>
+			<div class="panel-body partner-info">
+				<!--                                            正常显示-->
+				<div class="list">
+					<div class="item border" data-model="">
+						<div class="bg-silver">
+							<!--                                股东名称：<label><a class="text-success" target="_blank" href="http://-->
+							<!--/search?key={1}&searchType=employeeContent&pa_from=12&employeeCompany=-->
+							<!--&employeeCompanyDigest=-->
+							<!--">{1}</a></label>&nbsp;&nbsp;-->
+							股东名称：<label><a class="text-success"
+								style="cursor: pointer;"
+								href="http://shuidi.cn/?action=jump_company_page_by_company_name&amp;company_name=">{1}</a></label>&nbsp;&nbsp;
+							<a data-name="{1}" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume"{0}=""><i
+								class="icon icon-bang-sm bg-error"></i>查简历</a>&nbsp; <a
+								data-name="{1}" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-precise"{0}=""><i
+								class="icon icon-bang-sm bg-error"></i>查全部公司 </a> <label
+								class="float-right"{6}="">查看{1}出资信息&nbsp;&nbsp;&nbsp;&nbsp;<a
+								href="javascript:void(0)" class="text-success"
+								data-pay="{name: &#39;{1}&#39;, company_name_digest: &#39;{2}&#39;, action: &#39;get_company_partner_capital&#39;, img: &#39;&#39;}">查看详情
+									&gt;</a></label>
+						</div>
+						<div class="list-horizontal">
+							<div class="item">
+								认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{3}</span>
+							</div>
+							<div class="item">
+								实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{4}</span>
+							</div>
+							<div class="item">
+								持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{5}</span>
+							</div>
+						</div>
+					</div>
+					<div class="item border">
+						<div class="bg-silver">
+							<!--                                        股东名称：<label><a class="text-success" target="_blank" href="http://-->
+							<!--/search?key=-->
+							<!--&searchType=employeeContent&pa_from=12&employeeCompany=-->
+							<!--&employeeCompanyDigest=-->
+							<!--">-->
+							<!--</a></label>&nbsp;&nbsp;-->
 
+							股东名称：<label><a class="text-success"
+								href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=personContent">曾庆德</a></label>&nbsp;&nbsp;
+							<a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume">查简历</a>&nbsp;
+							<a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-precise"><i
+								class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
+						</div>
 
-                                    <label class="float-right" {6}="">查看{1}出资信息&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:void(0)" class="text-success" data-pay="{name: &#39;{1}&#39;, company_name_digest: &#39;{2}&#39;, action: &#39;get_company_partner_capital&#39;, img: &#39;&#39;}">查看详情 &gt;</a></label>
-                                </div>
-                                <div class="list-horizontal">
-                                    <div class="item">认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{3}</span></div>
-                                    <div class="item">实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{4}</span></div>
-                                    <div class="item">持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">{5}</span></div>
-                                </div>
-                            </div>
-                                                            <div class="item border">
-                                    <div class="bg-silver">
-                                            <!--                                        股东名称：<label><a class="text-success" target="_blank" href="http://--><!--/search?key=--><!--&searchType=employeeContent&pa_from=12&employeeCompany=--><!--&employeeCompanyDigest=--><!--">--><!--</a></label>&nbsp;&nbsp;-->
+						<div class="list-horizontal">
+							<div class="item">
+								认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span>
+							</div>
+							<div class="item">
+								实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span>
+							</div>
+							<div class="item">
+								持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">51%</span>
+							</div>
+						</div>
+					</div>
+					<div class="item border">
+						<div class="bg-silver">
 
-                                            股东名称：<label><a class="text-success" href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E5%BE%B7&amp;search_type=personContent">曾庆德</a></label>&nbsp;&nbsp;
-                                            <a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume">查简历</a>&nbsp;
-                                            <a data-name="曾庆德" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-precise"><i class="icon icon-bang-sm bg-error"></i>查全部公司</a>&nbsp;
-                                                                            </div>
+							股东名称：<label><a class="text-success"
+								href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E8%B4%A2&amp;search_type=personContent">曾庆财</a></label>&nbsp;&nbsp;
+							<a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-resume">查简历</a>&nbsp;
+							<a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C"
+								href="javascript:;"
+								class="btn btn-sm btn-silver-outline check-precise"><i
+								class="icon icon-bang-sm bg-error"></i>查全部公司
+								<div class="tip-title tip-btn" actived=""
+									style="left: 98px; display: none;">
+									<span class="vi"><label></label></span><span
+										class="text-success">“精准查询” </span><span class="content">曾庆财&nbsp;<font
+										class="text-silver">投资或任职的全部公司</font></span>
+								</div></a>&nbsp;
+						</div>
 
-                                    <div class="list-horizontal">
-                                        <div class="item">认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span></div>
-                                        <div class="item">实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">510</span></div>
-                                        <div class="item">持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">51%</span></div>
-                                    </div>
-                                </div>
-                                                            <div class="item border">
-                                    <div class="bg-silver">
+						<div class="list-horizontal">
+							<div class="item">
+								认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span>
+							</div>
+							<div class="item">
+								实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span>
+							</div>
+							<div class="item">
+								持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">49%</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="page" id="partnerPage"
+					data-config="{npage:1, spage:1, total:2, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_partners&#39;}"></div>
+			</div>
 
-                                            股东名称：<label><a class="text-success" href="http://shuidi.cn/pc-search?key=%E6%9B%BE%E5%BA%86%E8%B4%A2&amp;search_type=personContent">曾庆财</a></label>&nbsp;&nbsp;
-                                            <a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-resume">查简历</a>&nbsp;
-                                            <a data-name="曾庆财" position="%E8%82%A1%E4%B8%9C" href="javascript:;" class="btn btn-sm btn-silver-outline check-precise"><i class="icon icon-bang-sm bg-error"></i>查全部公司<div class="tip-title tip-btn" actived="" style="left: 98px; display: none;"><span class="vi"><label></label></span><span class="text-success">“精准查询” </span><span class="content">曾庆财&nbsp;<font class="text-silver">投资或任职的全部公司</font></span></div></a>&nbsp;
-                                                                            </div>
+			<!--分支机构-->
+			<div class="panel-head title-lg" id="branchInfo">
+				<i class="icon icon-bang-lg bg-success"></i>分支机构
+			</div>
+			<div class="panel-body branch-info">
+				<!--正常显示-->
+				<!--无数据提示-->
+				<span class="text-silver">暂无数据</span>
+			</div>
 
-                                    <div class="list-horizontal">
-                                        <div class="item">认缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span></div>
-                                        <div class="item">实缴出资额(万元)&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">490</span></div>
-                                        <div class="item">持股比例&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-silver">49%</span></div>
-                                    </div>
-                                </div>
-                                                    </div>
-                        <div class="page" id="partnerPage" data-config="{npage:1, spage:1, total:2, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_partners&#39;}"></div>
-                                                </div>
+			<!--变更记录-->
+			<div class="panel-head title-lg" id="changeInfo">
+				<i class="icon icon-bang-lg bg-success"></i>变更记录
+			</div>
+			<div class="panel-body change-info">
+				<!--  正常显示-->
+				<div class="list-table">
+					<div class="row" data-model="">
+						<div class="item border bg-silver">
+							变更项目：{0}<br>变更前：{1}
+						</div>
+						<div class="item border bg-silver last">
+							变更日期：{2} <br>变更后：{3}
+						</div>
+					</div>
+					<div class="row">
+						<div class="item border bg-silver">
+							变更项目：经营范围变更（含业务范围变更）变更<br>变更前：凭资质从事建筑工程、装饰工程、环保工程、市政工程、钢构工程、园林绿化工程施工与设计建筑材料、五金机电、环保材料批发、零售。(国家有专项规定的经营项目经审批后凭有效许可证方可经营)
+						</div>
+						<div class="item border bg-silver last">
+							变更日期：2016-08-19 <br>变更后：凭资质从事建筑工程、市政工程、公路工程、水利水电工程、电力工程、机电工程、地基基础工程、消防设施工程、防水防腐保温工程、桥梁工程、钢结构工程、模板脚手架工程、建筑装修装饰工程、建筑幕墙工程、城市园林绿化工程、环保工程的施工建筑材料、五金机电、环保材料批发、零售。(涉及许可经营项目,应取得相关部门许可后方可经营)
+						</div>
+					</div>
+				</div>
+				<div class="page" id="changePage"
+					data-config="{npage:1, spage:1, total:1, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_changes&#39;}"></div>
+			</div>
 
-            <!--分支机构-->
-            <div class="panel-head title-lg" id="branchInfo">
-                <i class="icon icon-bang-lg bg-success"></i>分支机构
-            </div>
-            <div class="panel-body branch-info">
-                                <!--正常显示-->
-                                            <!--无数据提示-->
-                        <span class="text-silver">暂无数据</span>
-                                                </div>
+			<!--企业年报-->
+			<div class="panel-head title-lg" id="annualReports">
+				<i class="icon icon-bang-lg bg-success"></i>企业年报
+			</div>
+			<div class="panel-body annual-reports">
+				<!-- 正常显示-->
+				<div class="annual-reports-title">
+					<ul>
+						<li>
+							<div>报送年度</div>
+							<div>填报时间</div>
+							<div class="last">详情</div>
+						</li>
+					</ul>
+				</div>
+				<div class="annual-reports-item">
+					<ul>
+						<li>
+							<div>2016年度报告</div>
+							<div>2017年04月18日</div>
+							<div class="last">
+								<a class="seeMoreDetail"
+									jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2016"
+									href="javascript:;">查看详情</a>
+							</div>
+						</li>
+						<li>
+							<div>2015年度报告</div>
+							<div>2016年04月26日</div>
+							<div class="last">
+								<a class="seeMoreDetail"
+									jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2015"
+									href="javascript:;">查看详情</a>
+							</div>
+						</li>
+						<li>
+							<div>2014年度报告</div>
+							<div>2015年06月20日</div>
+							<div class="last">
+								<a class="seeMoreDetail"
+									jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2014"
+									href="javascript:;">查看详情</a>
+							</div>
+						</li>
+						<li>
+							<div>2013年度报告</div>
+							<div>2015年06月20日</div>
+							<div class="last">
+								<a class="seeMoreDetail"
+									jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2013"
+									href="javascript:;">查看详情</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
 
-            <!--变更记录-->
-            <div class="panel-head title-lg" id="changeInfo">
-                <i class="icon icon-bang-lg bg-success"></i>变更记录
-            </div>
-            <div class="panel-body change-info">
-                                <!--  正常显示-->
-                                            <div class="list-table">
-                            <div class="row" data-model="">
-                                <div class="item border bg-silver">变更项目：{0}<br>变更前：{1} </div>
-                                <div class="item border bg-silver last">变更日期：{2} <br>变更后：{3} </div>
-                            </div>
-                                                            <div class="row">
-                                    <div class="item border bg-silver">变更项目：经营范围变更（含业务范围变更）变更<br>变更前：凭资质从事建筑工程、装饰工程、环保工程、市政工程、钢构工程、园林绿化工程施工与设计建筑材料、五金机电、环保材料批发、零售。(国家有专项规定的经营项目经审批后凭有效许可证方可经营) </div>
-                                    <div class="item border bg-silver last">变更日期：2016-08-19 <br>变更后：凭资质从事建筑工程、市政工程、公路工程、水利水电工程、电力工程、机电工程、地基基础工程、消防设施工程、防水防腐保温工程、桥梁工程、钢结构工程、模板脚手架工程、建筑装修装饰工程、建筑幕墙工程、城市园林绿化工程、环保工程的施工建筑材料、五金机电、环保材料批发、零售。(涉及许可经营项目,应取得相关部门许可后方可经营) </div>
-                                </div>
-                                                    </div>
-                        <div class="page" id="changePage" data-config="{npage:1, spage:1, total:1, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_changes&#39;}"></div>
-                                                </div>
-
-            <!--企业年报-->
-            <div class="panel-head title-lg" id="annualReports">
-                <i class="icon icon-bang-lg bg-success"></i>企业年报
-            </div>
-            <div class="panel-body annual-reports">
-                                <!-- 正常显示-->
-                    <div class="annual-reports-title">
-                        <ul>
-                            <li>
-                                <div>报送年度</div>
-                                <div>填报时间</div>
-                                <div class="last">详情</div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="annual-reports-item">
-                        <ul><li>                            <div>2016年度报告</div>                            <div>2017年04月18日</div>                            <div class="last"><a class="seeMoreDetail" jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2016" href="javascript:;">查看详情</a></div>                        </li><li>                            <div>2015年度报告</div>                            <div>2016年04月26日</div>                            <div class="last"><a class="seeMoreDetail" jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2015" href="javascript:;">查看详情</a></div>                        </li><li>                            <div>2014年度报告</div>                            <div>2015年06月20日</div>                            <div class="last"><a class="seeMoreDetail" jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2014" href="javascript:;">查看详情</a></div>                        </li><li>                            <div>2013年度报告</div>                            <div>2015年06月20日</div>                            <div class="last"><a class="seeMoreDetail" jump-url="/annual-reports?digest=cabe75387416bdce9fc2af48000527b1&amp;report_year=2013" href="javascript:;">查看详情</a></div>                        </li></ul>
-                    </div>
-                            </div>
-
-        </div>
-        <div class="panel shengming">
-             <div class="panel-body text-silver">
-                <font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
-                投诉方式：<font class="text-success">xycx@test.com</font> ，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
-            </div>
-        </div>
-    </div>
-<div class="container-right">
-    <div class="ewm128" id="company_open_contact"></div>        
-       <!--  <div class="panel">
+		</div>
+		<div class="panel shengming">
+			<div class="panel-body text-silver">
+				<font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
+				投诉方式：<font class="text-success">xycx@test.com</font>
+				，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
+			</div>
+		</div>
+	</div>
+	<div class="container-right">
+		<div class="ewm128" id="company_open_contact"></div>
+		<!--  <div class="panel">
             <div class="panel-head title-lg">企业关系分析</div>
             <div class="panel-body" id="relation_chart">
                 <img src="#(ctx_path)/static/home/detail/more_right_map.png">
@@ -245,7 +391,8 @@
         </div> -->
 
 
-<!--     <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
+		<!--     <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
  -->
-</div></div>
+	</div>
+</div>
 #end

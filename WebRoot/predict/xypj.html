@@ -1,159 +1,165 @@
-#@predict()
-#define predict_main()
+#@predict() #define predict_main()
 
 <div class="container-content">
-    <!-- common search -->
-    <div class="sd_company_container">
-        <div class="sd_form_search" style="height: 10px;">
-           <p style="text-align:center; font-size:30px">企业综合信用评级</p>
-        </div>
-    </div>
+	<!-- common search -->
+	<div class="sd_company_container">
+		<div class="sd_form_search" style="height: 10px;">
+			<p style="text-align: center; font-size: 30px">企业综合信用评级</p>
+		</div>
+	</div>
 
-    <div class="sd_company_container" style="margin-top: 20px;">
-        <div class="sd_cent">
-            <div class="sd_cent">
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>评级企业相关指标输入</b>
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 500px">
+	<div class="sd_company_container" style="margin-top: 20px;">
+		<div class="sd_cent">
+			<div class="sd_cent">
+				<div class="sd_left_block">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>评级企业相关指标输入</b>
+					</div>
+					<div class="or_left_silde" id="searchCondition"
+						style="height: 500px">
 
-                    <div class="row">                               
-                        <div class="col-xs-6"  style="border-right:2px">
-                            <div class="page-header">
-                                <h3>决策树评级模型
-                                   <!--  <small>子标题</small> -->
-                                </h3>
-                            </div>
-                        <div class="or_category">
-							<form class="form-horizontal" role="form" id="credit" name="form1" method="POST" onsubmit="return false" >
-	                               <div class="form-group">
-		                                  <label for="firstname" class="col-sm-5 control-label">资产负债率（%）</label>
-		                              <div class="col-sm-5">
-                                         <input type="text" name="creditQualityBean.debt_rate" class="form-control" id="firstname" 
-                                            placeholder="请输入资产负债率">
-                                        </div>
-	                               </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-5 control-label">EBITDA利息数（倍）</label>
-                                        <div class="col-sm-5">
-                                            <input type="text" name="creditQualityBean.interest" class="form-control" id="lastname" 
-                                            placeholder="请输入EBITDA利息数">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-5 control-label">存货周转次数（次）</label>
-                                        <div class="col-sm-5">
-                                            <input type="text" name="creditQualityBean.inventoryTurn" class="form-control" id="lastname" 
-                                            placeholder="请输入存货周转次数">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-5 control-label">现金流动负债比率或EBITDA（%）</label>
-                                        <div class="col-sm-5">
-                                            <input type="text" name="creditQualityBean.flowDebt" class="form-control" id="lastname" 
-                                            placeholder="现金流动负债比率或EBITDA">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-5 control-label">成本费用利润率（%）</label>
-                                        <div class="col-sm-5">
-                                            <input type="text" name="creditQualityBean.cost" class="form-control" id="lastname" 
-                                            placeholder="请输入成本费用利润率">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-5 control-label">所有者权益合计（万元）</label>
-                                        <div class="col-sm-5">
-                                            <input type="text" name="creditQualityBean.ownerEquity" class="form-control" id="lastname" 
-                                            placeholder="请输入所有者权益合计">
-                                        </div>
-                                   </div>
-                        <!--            <div class="form-group">
+						<div class="row">
+							<div class="col-xs-6" style="border-right: 2px">
+								<div class="page-header">
+									<h3>
+										决策树评级模型
+										<!--  <small>子标题</small> -->
+									</h3>
+								</div>
+								<div class="or_category">
+									<form class="form-horizontal" role="form" id="credit"
+										name="form1" method="POST" onsubmit="return false">
+										<div class="form-group">
+											<label for="firstname" class="col-sm-5 control-label">资产负债率（%）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.debt_rate"
+													class="form-control" id="firstname" placeholder="请输入资产负债率">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="lastname" class="col-sm-5 control-label">EBITDA利息数（倍）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.interest"
+													class="form-control" id="lastname"
+													placeholder="请输入EBITDA利息数">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="lastname" class="col-sm-5 control-label">存货周转次数（次）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.inventoryTurn"
+													class="form-control" id="lastname" placeholder="请输入存货周转次数">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="lastname" class="col-sm-5 control-label">现金流动负债比率或EBITDA（%）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.flowDebt"
+													class="form-control" id="lastname"
+													placeholder="现金流动负债比率或EBITDA">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="lastname" class="col-sm-5 control-label">成本费用利润率（%）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.cost"
+													class="form-control" id="lastname" placeholder="请输入成本费用利润率">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="lastname" class="col-sm-5 control-label">所有者权益合计（万元）</label>
+											<div class="col-sm-5">
+												<input type="text" name="creditQualityBean.ownerEquity"
+													class="form-control" id="lastname" placeholder="请输入所有者权益合计">
+											</div>
+										</div>
+										<!--            <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">公司信用量化等级</label>
                                         <div class="col-sm-10">
                                             <input type="text" name="creditNum" class="form-control" id="lastname" 
                                             placeholder="请输入公司信用量化等级">
                                         </div>
                                    </div> -->
-	                               <div class="form-group">
-                                        <div class="col-sm-offset-5 col-sm-3">
-                                            <button type="submit" id="btn"  class="btn btn-default">开始评级</button>
-                                        </div>
-                                    </div>
-                            </form>	
-                        </div>
-                    </div>
-                        <div class="col-xs-6">
-                             <div class="page-header">
-                                <h3>卷积神经网络评级模型
-                                   <!--  <small>子标题</small> -->
-                                </h3>
-                            </div>
-                         	<!-- <label for="input-b1">上传预测指标数据</label>                        	
+										<div class="form-group">
+											<div class="col-sm-offset-5 col-sm-3">
+												<button type="submit" id="btn" class="btn btn-default">开始评级</button>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="col-xs-6">
+								<div class="page-header">
+									<h3>
+										卷积神经网络评级模型
+										<!--  <small>子标题</small> -->
+									</h3>
+								</div>
+								<!-- <label for="input-b1">上传预测指标数据</label>                        	
 								<span style="font-size:14px;">
 									         <form  enctype="multipart/form-data" >
                                                 <input type="file" name="csv_file" id="uploadfile"> 
                                                 <button id="upload" onclick="return false" >上传&&评级</button>
                                              </form> 
 							  </span> -->
-                              <div class="upload">
-                                    <div class="upload-files">
-                                        <header>
-                                            <p>
-                                                <i class="fa fa-cloud-upload" aria-hidden="true"></i>
-                                                <span class="up">企业指标数据导入</span>
-                <!-- <span class="load">load</span> -->
-                                            </p>
-                                        </header>
-       
-                                    <i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
-                                    <form  enctype="multipart/form-data" >
-                                        <input type="file" name="csv_file" id="uploadfile" > 
-                                        <button class="importar" id="upload" onclick="return false" >上传&&评级</button>
-                                    </form> 
-                                    </div>
-                                </div>
-                        </div> 
-                      </div>
-                   </div>
-                </div>                               
-                 <div class="sd_left_block" id="resultsView" style="display:none">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>结果及分析</b>
-                       
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" >                   
-                     <div class="or_category" style="text-align:center" id="loading"></div>
-                     <span id="grade"></span>
-                     <p id="msg"></p> 
-                 <div class="row"><!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
-                      <div class="col-md-4">
-         					<div id="interest" style="height:300px;"></div>  
-       				 </div>
-        			<div class="col-md-4"> 
-        					<div id="debt" style="height:300px;"></div>
-        			</div>
-       			  <div class="col-md-4">
-         					<div id="rate" style="height:300px;"></div>  
-       				 </div>
-        			<div class="col-md-4"> 
-        					<div id="turn" style="height:300px;"></div>  
-        			</div>
-       			  <div class="col-md-4">
-         					<div id="cost" style="height:300px;"></div>  
-       				 </div>
-        			<div class="col-md-4"> 
-        					<div id="owner" style="height:300px;"></div>  
-        			</div>     			 
-       			 </div>
-                      <!-- 为ECharts准备一个具备大小（宽高）的Dom -->					
-                     </div>
-                </div>
-            </div>
-        
-        </div>
-    </div>
+								<div class="upload">
+									<div class="upload-files">
+										<header>
+											<p>
+												<i class="fa fa-cloud-upload" aria-hidden="true"></i> <span
+													class="up">企业指标数据导入</span>
+												<!-- <span class="load">load</span> -->
+											</p>
+										</header>
+
+										<i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
+										<form enctype="multipart/form-data">
+											<input type="file" name="csv_file" id="uploadfile">
+											<button class="importar" id="upload" onclick="return false">上传&&评级</button>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="sd_left_block" id="resultsView" style="display: none">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>结果及分析</b>
+
+					</div>
+					<div class="or_left_silde" id="searchCondition">
+						<div class="or_category" style="text-align: center" id="loading"></div>
+						<span id="grade"></span>
+						<p id="msg"></p>
+						<div class="row">
+							<!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
+							<div class="col-md-4">
+								<div id="interest" style="height: 300px;"></div>
+							</div>
+							<div class="col-md-4">
+								<div id="debt" style="height: 300px;"></div>
+							</div>
+							<div class="col-md-4">
+								<div id="rate" style="height: 300px;"></div>
+							</div>
+							<div class="col-md-4">
+								<div id="turn" style="height: 300px;"></div>
+							</div>
+							<div class="col-md-4">
+								<div id="cost" style="height: 300px;"></div>
+							</div>
+							<div class="col-md-4">
+								<div id="owner" style="height: 300px;"></div>
+							</div>
+						</div>
+						<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
 </div>
 #end
 
