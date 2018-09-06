@@ -616,11 +616,11 @@ public class PredictController extends Controller {
 	 * 以FileWriter方式写入txt文件。
 	 * 
 	 * @param File
-	 *            file：要写入的文件
+	 *            file： 要写入的文件
 	 * @param String
 	 *            content： 要写入的内容
 	 * @param String
-	 *            charset:要写入内容的编码方式
+	 *            charset: 要写入内容的编码方式
 	 */
 	public static void contentToTxt(String filePath, String content) {
 		try {
