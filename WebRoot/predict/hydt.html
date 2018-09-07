@@ -33,7 +33,7 @@
 }
 
 .menudiv {
-	height: 700px;
+	height: 600px;
 	border-left: #cccccc solid 1px;
 	border-right: #cccccc solid 1px;
 	border-top: 0;
@@ -169,7 +169,8 @@
 						<div class="tab-pane fade" id="yingli">
 							<div id="pie8_0" style="width: 1100px; height: 400px;"></div>
 							<p id='msg_yingli_0'
-								style="font-family: Microsoft Yahei; text-decoration: underline; font-weight: bold; font-size: 15px"></p>
+								style="font-family: Microsoft Yahei; text-decoration: underline; font-weight: bold; font-size: 15px">
+							</p>
 						</div>
 						<div class="tab-pane fade" id="zengzhang">
 							<div id="pie6_0" style="width: 1100px; height: 400px;"></div>
@@ -359,36 +360,82 @@
 					</div>
 
 				</div>
-				<!-- <div id="con_one_4" style="display:none;">我的网站我做主</div> -->
 			</div>
 		</div>
-		<!--        <div class="sd_cent">
-            <div class="sd_cent">           		
-                  <ul id="myTab" class="nav nav-tabs">                             
+
+		<div class="sd_cent">
+			<!-- <ul id="myTab" class="nav nav-tabs">                             
                         <li><a href="#test" data-toggle="tab"></a></li>
                         <li><a href="#carManufacture" data-toggle="tab"></a></li>
                         <li><a href="#in foService" data-toggle="tab"></a></li>
-                    </ul> 
-                <div class="sd_left_block">
+                    </ul>  -->
+			<div class="sd_left_block"></div>
+			<div class="sd_left_block">
+				<div class="sd_left_block_tit">
+					<div class="text-center ">
+						<b>基于三次指数平滑法与LSTM模型的行业动态预测</b>
+					</div>
+				</div>
+				<div class="or_left_silde" id="searchCondition"
+					style="height: 300px">
+					<div class="or_category">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-5">
+									<form role="form">
+										<div class="form-group">
+											<label for="name">选择行业</label> <select class="form-control">
+												<option>房地产业</option>
+												<option>汽车制造业</option>
+												<option>信息技术服务业</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<label for="name">选择预测指标</label> <select class="form-control">
+												<option>财务风险</option>
+												<option>市场风险</option>
+												<option>区域投资潜力</option>
+												<option>合成指数</option>
+												<option>扩散指数</option> -->
+											</select>
+										</div>
+										<div class="form-group">
+											<label for="name">预测时长(年/季度）</label> <select
+												class="form-control">
+												<option>1</option>
+												<option>2</option>
+												<option>3</option>
+												<option>4</option>
+												<option>5</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<label for="name">选择模型</label> <select class="form-control">
+												<option>三次指数平滑法</option>
+												<option>长短期记忆网络(LSTM)模型</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<div class="col-sm-offset-4 col-sm-10">
+												<button style="margin-top: 15px;" type="submit"
+													id="riskCompetitionBtn" class="btn btn-success">指标预测</button>
+											</div>
+										</div>
+									</form>
+								</div>
+								<div class="col-md-6">结果信息展示</div>
+							</div>
 
-                </div>                              
-                 <div class="sd_left_block">
-                    <div class="sd_left_block_tit">
-                        <b>市场分析报告</b>                      
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">                 
-                    	<div class="or_category">
-                          	<p id="">图表说明</p>                                                                            
-                    	</div>                                              
-                     </div>
-                </div>
-              <div class="sd_left_block">
-                  
-             </div> 
-            </div>
-        
-        </div> -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
+
+
+</div>
 </div>
 #end
 

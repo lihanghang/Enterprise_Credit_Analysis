@@ -808,7 +808,9 @@ $.ajax({
 pie7.setOption(option7);
 };
 
-//盈利能力
+/**
+ * 盈利能力 0907 add CNN model
+ */
 var pie8;
 function yingli(type){
     if (pie8!= null && pie8 != "" && pie8 != undefined) {
