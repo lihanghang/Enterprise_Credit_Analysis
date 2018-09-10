@@ -382,43 +382,46 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-5">
-									<form role="form">
+									<form role="form" method="POST">
 										<div class="form-group">
-											<label for="name">选择行业</label> <select class="form-control">
-												<option>房地产业</option>
-												<option>汽车制造业</option>
-												<option>信息技术服务业</option>
+											<label for="name">选择行业</label> 
+                                            <select name="risk" class="form-control" id="industry">
+												<option value="0" >房地产业</option>
+												<option value="1">汽车制造业</option>
+												<option value="2">信息技术服务业</option>
 											</select>
 										</div>
 										<div class="form-group">
-											<label for="name">选择预测指标</label> <select class="form-control">
-												<option>财务风险</option>
-												<option>市场风险</option>
-												<option>区域投资潜力</option>
-												<option>合成指数</option>
-												<option>扩散指数</option> -->
+											<label for="name">选择预测指标</label> 
+                                            <select  name="risk" class="form-control" id="predIndex">
+												<option value="financial">财务风险</option>
+												<option value="marke">市场风险</option>
+												<option value="zoneInvest">区域投资潜力</option>
+												<option value="compositeIndex">合成指数</option>
+												<option value="diffusionIndex">扩散指数</option> -->
 											</select>
 										</div>
 										<div class="form-group">
-											<label for="name">预测时长(年/季度）</label> <select
-												class="form-control">
-												<option>1</option>
-												<option>2</option>
-												<option>3</option>
-												<option>4</option>
-												<option>5</option>
+											<label for="name">预测时长(年/季度）</label> 
+                                            <select name="risk"  class="form-control" id="predTime">
+												<option value="1">1</option>
+												<option value="2">2</option>
+												<option value="3">3</option>
+												<option value="4">4</option>
+												<option value="5">5</option>
 											</select>
 										</div>
 										<div class="form-group">
-											<label for="name">选择模型</label> <select class="form-control">
-												<option>三次指数平滑法</option>
-												<option>长短期记忆网络(LSTM)模型</option>
+											<label  for="name">选择模型</label> 
+                                            <select name="risk"  class="form-control" id="ModelType">
+												<option value="ES3">三次指数平滑法</option>
+												<option value="LSTM">长短期记忆网络(LSTM)模型</option>
 											</select>
 										</div>
 										<div class="form-group">
 											<div class="col-sm-offset-4 col-sm-10">
 												<button style="margin-top: 15px;" type="submit"
-													id="riskCompetitionBtn" class="btn btn-success">指标预测</button>
+													id="Es3AndLstmBtn" class="btn btn-success" onclick="Es3AndLstmAjax()">指标预测</button>
 											</div>
 										</div>
 									</form>
@@ -453,4 +456,72 @@
     } 
     var sum = function(x,y){ return x+y};　　//求和函数
     var square = function(x){ return x*x};　　//数组中每个元素求它的平方
+
+
+// 实现财务风险请求代码。201809010@Mason.
+$('#Es3AndLstmBtn').click(function(){
+
+
+
+
+
+
+
+//ajax异步请求数据
+var profit   = [];   //盈利能力
+var debt     = [];     //偿债能力
+var manager  = [];  //经营效率
+var increase = []; //增长潜力
+var years    = []; //横坐标：年份
+$.ajax({
+    "url": "./ajaxFinancialRiskEs3AndLstm",      //路径
+    "cache": false,              //不缓存
+    "async": true ,               //默认true即异步（优先选择）
+    "type": "POST",              //POST方式提交
+    "dataType": "json",          //json格式，重要
+    "contentType": "application/json",      //json格式                            
+    success: function (data) { //成功同步请求数据       
+        //请求成功时执行该函数内容，result即为服务器返回的json对象
+       /* console.log(data['year'])
+        console.log(data['r1'])
+        console.log(data['r2'])
+        console.log(data['r3'])
+        console.log(data['r4'])*/
+        // $.each(data, function(index,item) {
+            
+        //  //console.log(index+"========"+item)
+        //     profit.push(item['盈利能力']);
+        //     debt.push(item['偿债能力']);
+        //     manager.push(item['经营效率']);
+        //     increase.push(item['增长潜力']);
+        //   /*  for(var i =0;i<test.length;i++){
+        //       years.push((test[0][i]));
+        //     }*/
+           
+        //    // console.log(data[index])
+           
+        // });     
+         //console.log(years);
+       //add tips 20180518
+        var element=document.getElementById("msg_home_"+type); 
+        if(type==0){
+            element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
+            "【偿债能力】整体呈不断下降趋势；"+'<br>'+
+            "【盈利能力】自2004年开始有所提升，2011年开始呈小幅下降趋势；"+'<br>'+
+            "【经营效率】整体呈稳步上升态势，"+'<br>'+
+            "【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
+        }else{
+
+            element.innerHTML="马上就完善！"
+        }
+
+
+
+}
+
+});
+
+})
+
+
 </script>

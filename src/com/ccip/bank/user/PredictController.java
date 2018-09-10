@@ -15,10 +15,12 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import org.apache.commons.lang3.ObjectUtils.Null;
+import org.apache.jena.base.Sys;
 
 import lpsolve.LpSolveException;
 import test.test;
 import trainClassifier_Tree.creditQuality;
+import ES3.industryES3;
 import Risk.testRisk;
 
 import com.ccip.bank.bean.CNNbusinessBean;
@@ -39,6 +41,7 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.core.JFinal;
+import com.jfinal.kit.HttpKit;
 import com.jfinal.kit.JsonKit;
 import com.jfinal.kit.Ret;
 import com.jfinal.plugin.activerecord.Page;
@@ -53,6 +56,7 @@ import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
 import com.mathworks.toolbox.javabuilder.external.org.json.JSONException;
 import com.mathworks.toolbox.javabuilder.external.org.json.JSONObject;
+import com.mchange.v2.codegen.bean.InnerBeanPropertyBeanGenerator;
 
 /**
  * 
@@ -133,6 +137,54 @@ public class PredictController extends Controller {
 		 * 
 		 * renderJson(res);
 		 */
+
+	}
+
+	/**
+	 * 20180910 by Mason 实现三次指数平滑法与长短期记忆网络算法模型服务器端代码
+	 * @throws MWException 
+	 */
+	public void ajaxFinancialRiskEs3AndLstm() throws MWException {
+		
+		//接收select表单,并处理
+		String select = getPara("risk");		
+		String input = dataSetPrex + "hydt/car_data.txt"; // 汽车业
+		System.out.println(select);
+		
+		//加载模型处理过程
+		Object[] Results = null;
+		industryES3 model = new industryES3();
+		Results = model.ES3(6,input, 2,0.5,0.5,0.5,4,4,4);	
+		MWNumericArray output = null;// 用于保存输出矩阵
+		MWNumericArray output1 = null;// 用于保存输出矩阵
+		MWNumericArray output2 = null;// 用于保存输出矩阵
+		MWNumericArray output3 = null;// 用于保存输出矩阵
+		MWNumericArray output4 = null;// 用于保存输出矩阵
+		MWNumericArray output5 = null;// 用于保存输出矩阵
+		output = (MWNumericArray) Results[0];// 将结果object转换成MWNumericArray
+		output1 = (MWNumericArray) Results[1];// 将结果object转换成MWNumericArray
+		output2 = (MWNumericArray) Results[2];// 将结果object转换成MWNumericArray
+		output3 = (MWNumericArray) Results[3];// 将结果object转换成MWNumericArray
+		output4 = (MWNumericArray) Results[4];// 将结果object转换成MWNumericArray
+		output5 = (MWNumericArray) Results[5];// 将结果object转换成MWNumericArray
+		int[] res = output.rowIndex();// 从MWNumericArray对象中读取数据
+		float[] myList = new float[res.length];
+		float[] myList1 = new float[res.length];
+		float[] myList2 = new float[res.length];
+		float[] myList3 = new float[res.length];
+		float[] myList4 = new float[res.length];
+		float[] myList5 = new float[res.length];
+		for (int i = 0; i < res.length; i++) {
+			myList[i] = output.getFloat(i + 1); // 盈利
+			myList1[i] = output1.getFloat(i + 1); // 经营
+			myList2[i] = output2.getFloat(i + 1); // 偿债
+			myList3[i] = output3.getFloat(i + 1); // 发展
+			myList4[i] = output4.getFloat(i + 1); // 综合
+			myList5[i] = output5.getFloat(i + 1); // 年份
+		}
+
+		System.out.print(myList5[1]);
+		renderNull();
 
 	}
 
