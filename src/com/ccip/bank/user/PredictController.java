@@ -14,6 +14,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+import javax.servlet.http.HttpServletRequest;
+
 import org.apache.commons.lang3.ObjectUtils.Null;
 import org.apache.jena.base.Sys;
 
@@ -147,14 +149,26 @@ public class PredictController extends Controller {
 	public void ajaxFinancialRiskEs3AndLstm() throws MWException {
 		
 		//接收select表单,并处理
-		String select = getPara("risk");		
-		String input = dataSetPrex + "hydt/car_data.txt"; // 汽车业
-		System.out.println(select);
-		
+		Integer industry = getParaToInt("industry");
+		String Index = getPara("predIndex");
+		Integer time = getParaToInt("predTime");
+		String modelType = getPara("ModelType");
+		String input;		
 		//加载模型处理过程
 		Object[] Results = null;
 		industryES3 model = new industryES3();
-		Results = model.ES3(6,input, 2,0.5,0.5,0.5,4,4,4);	
+		if (industry == 0 ) {
+			
+			input = dataSetPrex + "hydt/home_data.txt"; // 房地产市场
+			Results = model.ES3(6, input,time,0.5,0.5,0.5,4,4,4); // 房地产市场
+		} else if (industry == 1) {
+			input = dataSetPrex + "hydt/car_data.txt"; // 汽车业
+			Results = model.ES3(6, input,time,0.5,0.5,0.5,3,6, 3); // 汽车制造业
+		} else {
+			
+			input = dataSetPrex + "hydt/info_data.txt"; // 信息服务业
+			Results = model.ES3(6, input, time,0.5,0.5,0.5,4,4, 4); // 信息服务业
+		}
 		MWNumericArray output = null;// 用于保存输出矩阵
 		MWNumericArray output1 = null;// 用于保存输出矩阵
 		MWNumericArray output2 = null;// 用于保存输出矩阵
@@ -183,8 +197,13 @@ public class PredictController extends Controller {
 			myList5[i] = output5.getFloat(i + 1); // 年份
 		}
 
-		System.out.print(myList5[1]);
-		renderNull();
+		setAttr("r1", myList);
+		setAttr("r2", myList1);
+		setAttr("r3", myList2);
+		setAttr("r4", myList3);
+		setAttr("r5", myList4);
+		setAttr("year", myList5);
+		renderJson(new String[] { "year", "r1", "r2", "r3", "r4", "r5" });
 
 	}
 

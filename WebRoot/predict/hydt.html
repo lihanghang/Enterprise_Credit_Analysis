@@ -33,7 +33,7 @@
 }
 
 .menudiv {
-	height: 600px;
+	height: 700px;
 	border-left: #cccccc solid 1px;
 	border-right: #cccccc solid 1px;
 	border-top: 0;
@@ -382,10 +382,10 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-5">
-									<form role="form" method="POST">
+									<form role="form" method="POST" onsubmit="return false">
 										<div class="form-group">
 											<label for="name">选择行业</label> 
-                                            <select name="risk" class="form-control" id="industry">
+                                            <select name="risk"   class="form-control" id="industry">
 												<option value="0" >房地产业</option>
 												<option value="1">汽车制造业</option>
 												<option value="2">信息技术服务业</option>
@@ -393,7 +393,7 @@
 										</div>
 										<div class="form-group">
 											<label for="name">选择预测指标</label> 
-                                            <select  name="risk" class="form-control" id="predIndex">
+                                            <select name="risk"  class="form-control" id="predIndex">
 												<option value="financial">财务风险</option>
 												<option value="marke">市场风险</option>
 												<option value="zoneInvest">区域投资潜力</option>
@@ -421,12 +421,14 @@
 										<div class="form-group">
 											<div class="col-sm-offset-4 col-sm-10">
 												<button style="margin-top: 15px;" type="submit"
-													id="Es3AndLstmBtn" class="btn btn-success" onclick="Es3AndLstmAjax()">指标预测</button>
+													id="Es3AndLstmBtn" class="btn btn-success">指标预测</button>
 											</div>
 										</div>
 									</form>
 								</div>
-								<div class="col-md-6">结果信息展示</div>
+								<div class="col-md-6">预测结果展示
+                                    <p id='ResInfo' style="text-align: center; /*color: green;*/ font-family: Microsoft Yahei;  font-weight: bold; font-size: 15px"></p>
+                                </div>
 							</div>
 
 						</div>
@@ -443,8 +445,7 @@
 #end
 
 <!-- 行业动态数据异步加载请求：财务预警 -->
-<script src="#(ctx_path)/static/home/predict/js/hydt/hydt.js"
-	charset="utf-8"></script>
+<script src="#(ctx_path)/static/home/predict/js/hydt/hydt.js" charset="utf-8"></script>
 
 <script type="text/javascript">
     //获取数组最大、最小值 by Hang-Hang Li
@@ -461,12 +462,12 @@
 // 实现财务风险请求代码。201809010@Mason.
 $('#Es3AndLstmBtn').click(function(){
 
+var industryVal = $("#industry").val(); //获取Select选择的Value
+var predeIndexVal = $("#predIndex").val(); //获取Select选择的Value
+var predTimeVal = $("#predTime").val(); //获取Select选择的Value
+var ModelTypeVal = $("#ModelType").val(); //获取Select选择的Value
 
-
-
-
-
-
+var data = {'industry':parseInt(industryVal),'predIndex':predeIndexVal,'predTime':parseInt(predTimeVal),'ModelType':ModelTypeVal};
 //ajax异步请求数据
 var profit   = [];   //盈利能力
 var debt     = [];     //偿债能力
@@ -478,45 +479,58 @@ $.ajax({
     "cache": false,              //不缓存
     "async": true ,               //默认true即异步（优先选择）
     "type": "POST",              //POST方式提交
-    "dataType": "json",          //json格式，重要
-    "contentType": "application/json",      //json格式                            
+    "dataType": "json",          //json格式，重要*/
+    /*  "contentType": "application/json",      //打开后不能post数据，课后寻找原因哈*/
+    "data":  data,   
+    error:function(request){//请求失败之后的操作
+                return;
+            },
+    beforeSend:function(XMLHttpRequest){
+            //$("#msg2").empty(); //加载前先清空结果信息
+            $("#financialView").empty(); //加载前先清空结果信息
+            $("#financialView1").empty(); //加载前先清空结果信息
+            //$("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+            layui.use(['layer', 'form'], function(){
+                index = layer.load(1, {shade: 0.06});
+        });
+    },                    
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
        /* console.log(data['year'])
         console.log(data['r1'])
         console.log(data['r2'])
         console.log(data['r3'])
-        console.log(data['r4'])*/
-        // $.each(data, function(index,item) {
-            
-        //  //console.log(index+"========"+item)
-        //     profit.push(item['盈利能力']);
-        //     debt.push(item['偿债能力']);
-        //     manager.push(item['经营效率']);
-        //     increase.push(item['增长潜力']);
-        //   /*  for(var i =0;i<test.length;i++){
-        //       years.push((test[0][i]));
-        //     }*/
-           
-        //    // console.log(data[index])
-           
-        // });     
+        console.log(data['r4'])
+        $.each(data, function(index,item) {
+            profit.push(item['盈利能力']);
+            debt.push(item['偿债能力']);
+            manager.push(item['经营效率']);
+            increase.push(item['增长潜力']);
+            years.push(item['year'])
+        }); */
+        layui.use(['layer', 'form'], function(){
+                        var layer = layui.layer
+                        layer.close(index);
+                //调用close方法,关闭全局变量index对应的加载效果
+                });
+        len = years.length;
+        years = data['year'];
+        yl = data['r1']
+        cz = data['r3']
+        jy = data['r4']
+        zz = data['r2']
+        zh = data['r5']
+        //13425
+
          //console.log(years);
        //add tips 20180518
-        var element=document.getElementById("msg_home_"+type); 
-        if(type==0){
-            element.innerHTML="1997-2016年，房地产企业财务分析如下："+'<br>'+
-            "【偿债能力】整体呈不断下降趋势；"+'<br>'+
-            "【盈利能力】自2004年开始有所提升，2011年开始呈小幅下降趋势；"+'<br>'+
-            "【经营效率】整体呈稳步上升态势，"+'<br>'+
-            "【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
-        }else{
-
-            element.innerHTML="马上就完善！"
-        }
-
-
-
+        var element=document.getElementById("ResInfo");       
+        element.innerHTML= "预测年份为:"+years.slice(-predTimeVal)+'<br>'+
+            "【偿债能力】"+cz.slice(-predTimeVal)+'<br>'+
+            "【盈利能力】"+yl.slice(-predTimeVal)+'<br>'+
+            "【经营效率】"+jy.slice(-predTimeVal)+'<br>'+
+            "【增长潜力】"+zz.slice(-predTimeVal)+'<br>'+
+            "【综合风险】"+zh.slice(-predTimeVal)
 }
 
 });
