@@ -55,9 +55,12 @@
 6. 更新本地仓库代码：git pull.
 7. 删除分支：git push origin : branch_name(您需要删除的分支名)。
 8. java调用MATLAB封装的函数及神经网络函数。
-
+9. MATLAB 编译为jar文件，供java使用，对于复杂的数据处理过程可以采用此思路，可迅速解决问题。但
+可能在速度方面有可能不佳。
+10. 当用java调用TensorFlow 训练的模型文件pb时，可能在输入数据需要归一化或标准化处理，这是我们可以考虑
+使用MATLAB先做一个处理过程的封装。
 ***
 - 欢迎交流，邮箱lihanghang@ucas.ac.cn
 - [个人网站](https://www.lihanghang.top/)
-- 更新时间：2018.9.3
+- 更新时间：2018.9.13
  
