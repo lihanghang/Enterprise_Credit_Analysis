@@ -338,11 +338,12 @@ $.ajax({
     "contentType": "application/json",      //json格式                            
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-       /* console.log(data['year'])
+    	console.log("test")
+       console.log(data['year'])
         console.log(data['r1'])
         console.log(data['r2'])
         console.log(data['r3'])
-        console.log(data['r4'])*/
+        console.log(data['r4'])
         // $.each(data, function(index,item) {
         	
         // 	//console.log(index+"========"+item)
@@ -1814,7 +1815,7 @@ var map ={}
                 "contentType": "application/json",      //json格式    
                  success: function (data) { //成功同步请求数据          
                         //请求成功时执行该函数内容，result即为服务器返回的json对象 
-                        //console.log(data);
+                        console.log(data);
                         $.each(data, function(index,item) {
                             potential.push(item['投资潜力因子']);
                             years.push(item['年份']);

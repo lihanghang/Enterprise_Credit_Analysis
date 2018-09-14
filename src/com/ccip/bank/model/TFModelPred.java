@@ -14,6 +14,7 @@ import org.tensorflow.Graph;
 import org.tensorflow.Operation;
 import org.tensorflow.Session;
 import org.tensorflow.Tensor;
+import org.tensorflow.TensorFlow;
 
 import com.ccip.bank.utils.TensorFlowInferenceInterface;
 import com.csvreader.CsvReader;
@@ -33,9 +34,12 @@ public class TFModelPred {
 	 */
 	public float CreditGrade(String ModelPath, String DataPath) throws NumberFormatException, IOException
 	{
+		
+		
+		
 		// 加载模型 信用等级
 		System.out.println(ModelPath);
-		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(ModelPath, "dataType");
+		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(ModelPath,"index_type");
 		final Operation operation = tfi.graphOperation("cnn");
 		// 加载预测数据      
 	    CsvReader reader = new CsvReader(DataPath, ',', Charset.forName("UTF-8"));
