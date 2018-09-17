@@ -384,26 +384,26 @@
 								<div class="col-md-5">
 									<form role="form" method="POST" onsubmit="return false">
 										<div class="form-group">
-											<label for="name">选择行业</label> 
-                                            <select name="risk"   class="form-control" id="industry">
-												<option value="0" >房地产业</option>
+											<label for="name">选择行业</label> <select name="risk"
+												class="form-control" id="industry">
+												<option value="0">房地产</option>
 												<option value="1">汽车制造业</option>
 												<option value="2">信息技术服务业</option>
 											</select>
 										</div>
 										<div class="form-group">
-											<label for="name">选择预测指标</label> 
-                                            <select name="risk"  class="form-control" id="predIndex">
-												<option value="financial">财务风险</option>
-												<option value="marke">市场风险</option>
-												<option value="zoneInvest">区域投资潜力</option>
-												<option value="JingQiIndex">景气指数</option>
-												<!-- <option value="diffusionIndex">扩散指数</option> -->
+											<label for="name">选择预测指标</label> <select name="risk"
+												class="form-control" id="predIndex">
+												<option value="0">财务风险(预测2016年后，按年预测)</option>
+												<option value="1">市场风险(预测2017年10月31后，间隔4个月)</option>
+												<option value="2">区域投资潜力(预测2015年以后，按年预测)</option>
+												<option value="3">合成指数(预测2017年10月31后，间隔4个月)</option>
+												<option value="4">扩散指数(预测2017年10月31后，间隔4个月)</option>
 											</select>
 										</div>
 										<div class="form-group">
-											<label for="name">预测时长(年/季度）</label> 
-                                            <select name="risk"  class="form-control" id="predTime">
+											<label for="name">预测时长(年/季度）</label> <select name="risk"
+												class="form-control" id="predTime">
 												<option value="1">1</option>
 												<option value="2">2</option>
 												<option value="3">3</option>
@@ -412,10 +412,10 @@
 											</select>
 										</div>
 										<div class="form-group">
-											<label  for="name">选择模型</label> 
-                                            <select name="risk"  class="form-control" id="ModelType">
-												<option value="ES3">三次指数平滑法</option>
-												<option value="LSTM">长短期记忆网络(LSTM)模型</option>
+											<label for="name">选择模型</label> <select name="risk"
+												class="form-control" id="ModelType">
+												<option value="0">三次指数平滑法</option>
+												<option value="1">长短期记忆网络(LSTM)模型</option>
 											</select>
 										</div>
 										<div class="form-group">
@@ -426,9 +426,11 @@
 										</div>
 									</form>
 								</div>
-								<div class="col-md-6">预测结果展示
-                                    <p id='ResInfo' style="text-align: center; /*color: green;*/ font-family: Microsoft Yahei;  font-weight: bold; font-size: 15px"></p>
-                                </div>
+								<div class="col-md-6">
+									预测结果
+									<p id='ResInfo'
+										style="text-align: center; /*color: green;*/ font-family: Microsoft Yahei; font-weight: bold; font-size: 15px"></p>
+								</div>
 							</div>
 
 						</div>
@@ -438,14 +440,13 @@
 		</div>
 
 	</div>
-
-
 </div>
 </div>
 #end
 
 <!-- 行业动态数据异步加载请求：财务预警 -->
-<script src="#(ctx_path)/static/home/predict/js/hydt/hydt.js" charset="utf-8"></script>
+<script src="#(ctx_path)/static/home/predict/js/hydt/hydt.js"
+	charset="utf-8"></script>
 
 <script type="text/javascript">
     //获取数组最大、最小值 by Hang-Hang Li
@@ -459,23 +460,28 @@
     var square = function(x){ return x*x};　　//数组中每个元素求它的平方
 
 
+    
+    
+    
 // 实现财务风险请求代码。201809010@Mason.
 $('#Es3AndLstmBtn').click(function(){
-
-var industryVal = $("#industry").val(); //获取Select选择的Value
-var predeIndexVal = $("#predIndex").val(); //获取Select选择的Value
-var predTimeVal = $("#predTime").val(); //获取Select选择的Value
-var ModelTypeVal = $("#ModelType").val(); //获取Select选择的Value
-
-var data = {'industry':parseInt(industryVal),'predIndex':predeIndexVal,'predTime':parseInt(predTimeVal),'ModelType':ModelTypeVal};
+    var industryVal = $("#industry").val(); //获取Select选择的Value
+    var predIndexVal = $("#predIndex").val(); //获取Select选择的Value
+    var predTimeVal = $("#predTime").val(); //获取Select选择的Value
+    var ModelTypeVal = $("#ModelType").val(); //获取Select选择的Value
+    // 选择请求方法
+    if(industryVal==0){
+    	msg =  "【商品房销售价格同比】"
+    } else if(industryVal==1) {
+    	msg = '【汽车制造业整体均价】'
+    }else{
+    	msg = '【软件行业SPY】'
+    }
+    
+var data = {'industry':parseInt(industryVal),'predIndex':parseInt(predIndexVal),'predTime':parseInt(predTimeVal),'ModelType':parseInt(ModelTypeVal)};
 //ajax异步请求数据
-var profit   = [];   //盈利能力
-var debt     = [];     //偿债能力
-var manager  = [];  //经营效率
-var increase = []; //增长潜力
-var years    = []; //横坐标：年份
 $.ajax({
-    "url": "./ajaxFinancialRiskEs3AndLstm",      //路径
+    "url":'./ajaxReal',     //路径
     "cache": false,              //不缓存
     "async": true ,               //默认true即异步（优先选择）
     "type": "POST",              //POST方式提交
@@ -486,51 +492,86 @@ $.ajax({
                 return;
             },
     beforeSend:function(XMLHttpRequest){
-            //$("#msg2").empty(); //加载前先清空结果信息
             $("#financialView").empty(); //加载前先清空结果信息
             $("#financialView1").empty(); //加载前先清空结果信息
-            //$("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
             layui.use(['layer', 'form'], function(){
-                index = layer.load(1, {shade: 0.06});
-        });
+              index = layer.load(1, {shade: 0.06});
+        	});
     },                    
     success: function (data) { //成功同步请求数据       
         //请求成功时执行该函数内容，result即为服务器返回的json对象
-       /* console.log(data['year'])
-        console.log(data['r1'])
-        console.log(data['r2'])
-        console.log(data['r3'])
-        console.log(data['r4'])
-        $.each(data, function(index,item) {
-            profit.push(item['盈利能力']);
-            debt.push(item['偿债能力']);
-            manager.push(item['经营效率']);
-            increase.push(item['增长潜力']);
-            years.push(item['year'])
-        }); */
         layui.use(['layer', 'form'], function(){
                         var layer = layui.layer
                         layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-        len = years.length;
-        years = data['year'];
-        yl = data['r1']
-        cz = data['r3']
-        jy = data['r4']
-        zz = data['r2']
-        zh = data['r5']
-        //13425
+        
 
-         //console.log(years);
-       //add tips 20180518
-        var element=document.getElementById("ResInfo");       
-        element.innerHTML= "预测年份为:"+years.slice(-predTimeVal)+'<br>'+
-            "【偿债能力】"+cz.slice(-predTimeVal)+'<br>'+
-            "【盈利能力】"+yl.slice(-predTimeVal)+'<br>'+
-            "【经营效率】"+jy.slice(-predTimeVal)+'<br>'+
-            "【增长潜力】"+zz.slice(-predTimeVal)+'<br>'+
-            "【综合风险】"+zh.slice(-predTimeVal)
+
+    	// 展示结果信息
+        var element=document.getElementById("ResInfo"); 
+        if(predIndexVal == 0){
+        	// 财务风险-单项指标及偏冷线和适度下限
+           yl = data['r1']
+           cz = data['r3']
+           jy = data['r4']
+           zz = data['r2']
+           zh = data['r5'] 
+          czSection = maths(cz)
+          ylSection = maths(yl)
+          jySection = maths(jy)
+          zzSection = maths(zz)
+           element.innerHTML= "您预测了【" + predTimeVal+ "】年的财务风险各分指标结果如下：<br/>"+
+                "【偿债能力】"+cz.slice(-predTimeVal)+"【偏冷线】"+czSection[0][0]+"【适度下限】"+czSection[1][0]+'<br/>'+
+                "【盈利能力】"+yl.slice(-predTimeVal)+"【偏冷线】"+ylSection[0][0]+"【适度下限】"+ylSection[1][0]+'<br/>'+
+                "【经营效率】"+jy.slice(-predTimeVal)+"【偏冷线】"+jySection[0][0]+"【适度下限】"+jySection[1][0]+'<br/>'+
+                "【增长潜力】"+zz.slice(-predTimeVal)+"【偏冷线】"+zzSection[0][0]+"【适度下限】"+zzSection[1][0]+'<br/>'+
+                "【综合风险】"+zh.slice(-predTimeVal)        	       	
+        }
+        
+       if(predIndexVal == 3 || predIndexVal==1){
+        //合成指数预测值
+        tb = data['tb']
+        // 领先指标
+        lead = data['lead']
+        lag = data['lag']
+        hpy = data['hpy']                  
+        if(predIndexVal == 1){
+        	 // 输出风险预警
+        	 Section = maths(lead)
+        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的市场风险预警结果如下：<br />"+
+        	"【同步指数】"+tb.slice(-predTimeVal)+'<br />'+
+        	"【偏热线】"+Section[2]+'<br />'+
+        	"【偏冷线】"+Section[0][0]+'<br />'+
+        	"【适度上限】"+Section[3]+'<br />'+
+        	"【适度下限】"+Section[1][0]+'<br />'           	 
+         }else {
+        	  element.innerHTML= "您预测了【"+predTimeVal+"】个季度的合成指数结果如下：<br />"+
+              "【同步】"+tb.slice(-predTimeVal)+'<br />'+
+              "【领先】"+lead.slice(-predTimeVal)+'<br />'+
+              "【滞后】"+lag.slice(-predTimeVal)+'<br />'+
+               msg +hpy.slice(-predTimeVal)       	 
+        	 
+         }
+         
+         
+         
+        }
+        if(predIndexVal == 4){
+        //扩散指数预测值
+        tb = data['tb']
+        lead = data['lead']
+        lag = data['lag']
+        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
+        "【同步】"+tb.slice(-predTimeVal)+'<br />'+
+        "【领先】"+lead.slice(-predTimeVal)+'<br />'+
+        "【滞后】"+lag.slice(-predTimeVal)+'<br />'
+        }
+        
+        
+        
+        
+        
 }
 
 });

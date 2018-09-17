@@ -20,8 +20,10 @@ import lpsolve.LpSolveException;
 import test.test;
 import trainClassifier_Tree.creditQuality;
 import ES3.industryES3;
+import HC_Index.HC;
 import JQTest.JqModel;
 import JingQi.*;
+import KS_Index.KS;
 import Risk.testRisk;
 
 import com.ccip.bank.bean.CNNbusinessBean;
@@ -81,7 +83,7 @@ public class PredictController extends Controller {
 		int type = getParaToInt("type"); // 获取行业类型：0房地产、1汽车业、2信息服务业
 		if (type == 1) {
 			input = dataSetPrex + "hydt/car_data.txt"; // 汽车业
-			Results = datas.financialRiskCal(6, input, 4, 4, 4); // 房地产市场
+			Results = datas.financialRiskCal(6, input, 4, 4, 4);
 		} else if (type == 0) {
 			input = dataSetPrex + "hydt/home_data.txt"; // 房地产市场
 			Results = datas.financialRiskCal(6, input, 3, 6, 3); // 房地产市场
@@ -137,95 +139,188 @@ public class PredictController extends Controller {
 	}
 
 	/**
-	 * 20180910 by Mason 实现三次指数平滑法与长短期记忆网络算法模型服务器端代码
-	 * 财务动态、景气指数
-	 * @throws MWException 
+	 * 20180910 by Mason 实现三次指数平滑法与长短期记忆网络算法模型服务器端代码 预测指标：财务风险、景气指数、市场风险、区域投资潜力
+	 * 三大行业：房地产、汽车制造业、信息服务业
+	 * 
+	 * @throws MWException
 	 */
-	public void ajaxFinancialRiskEs3AndLstm() throws MWException {
-		
-		//接收select表单,并处理
-		Integer industry = getParaToInt("industry");
-		String Index = getPara("predIndex");
-		System.out.println(Index);
-		Integer time = getParaToInt("predTime");
-		String modelType = getPara("ModelType");
-		String input;		
-		//加载模型处理过程
-		Object[] Results = null;
-		
-		//财务风险
-		industryES3 model = new industryES3();
-		//景气指数
-		JqModel jQ = new JqModel();
-		
-		if (industry == 0 ) {
-			if (Index.equals("JingQiIndex")) {
-				
-				input = dataSetPrex + "/hydt/JingQiIndex/JingQiIndex.txt"; // 房地产市场
-				Results = jQ.ES3(7, input,time,0.5,0.5,0.5,13.0,16.0,0); // 房地产市场
-				System.out.println("111111111111111111111111");
-			}else if (Index.equals("financial")) {
-				
-				input = dataSetPrex + "hydt/home_data.txt"; // 房地产市场
-				Results = model.ES3(6, input,time,0.5,0.5,0.5,4,4,4); // 房地产市场				
-			}else {
-				
-			}
-		
-		} else if (industry == 1) {
-			input = dataSetPrex + "hydt/car_data.txt"; // 汽车业1
-			Results = model.ES3(6, input,time,0.5,0.5,0.5,3,6, 3); // 汽车制造业
-		} else {
-			
-			input = dataSetPrex + "hydt/info_data.txt"; // 信息服务业
-			Results = model.ES3(6, input, time,0.5,0.5,0.5,4,4, 4); // 信息服务业
-		}
-		
-		MWNumericArray output = null;// 用于保存输出矩阵
-		MWNumericArray output1 = null;// 用于保存输出矩阵
-		MWNumericArray output2 = null;// 用于保存输出矩阵
-		MWNumericArray output3 = null;// 用于保存输出矩阵
-		MWNumericArray output4 = null;// 用于保存输出矩阵
-		MWNumericArray output5 = null;// 用于保存输出矩阵
-		MWNumericArray output6 = null;// 用于保存输出矩阵
-		
-		output = (MWNumericArray) Results[0];// 将结果object转换成MWNumericArray
-		output1 = (MWNumericArray) Results[1];// 将结果object转换成MWNumericArray
-		output2 = (MWNumericArray) Results[2];// 将结果object转换成MWNumericArray
-		output3 = (MWNumericArray) Results[3];// 将结果object转换成MWNumericArray
-		output4 = (MWNumericArray) Results[4];// 将结果object转换成MWNumericArray
-		output5 = (MWNumericArray) Results[5];// 将结果object转换成MWNumericArray
-		output6 = (MWNumericArray) Results[6];// 将结果object转换成MWNumericArray
 
-		int[] res = output5.rowIndex();// 从MWNumericArray对象中读取数据
-		System.out.println(res.length);
-		float[] myList = new float[res.length];
-		float[] myList1 = new float[res.length];
-		float[] myList2 = new float[res.length];
-		float[] myList3 = new float[res.length];
-		float[] myList4 = new float[res.length];
-		float[] myList5 = new float[res.length];
-		float[] myList6 = new float[res.length];
-		
-		for (int i = 0; i < res.length; i++) {
-			myList[i] = output.getFloat(i + 1); // 盈利
-			myList1[i] = output1.getFloat(i + 1); // 经营
-			myList2[i] = output2.getFloat(i + 1); // 偿债
-			myList3[i] = output3.getFloat(i + 1); // 发展
-			myList4[i] = output4.getFloat(i+1 ); // 综合
-			myList5[i] = output5.getFloat(i +1); // 年份
-			myList6[i] = output6.getFloat(i +1); // 综合
-			
+	// 房地产业
+	public void ajaxReal() throws MWException {
+		// 行业0-2
+		Integer industry = getParaToInt("industry");
+		// 预测指标0-4
+		Integer Index = getParaToInt("predIndex");
+		// 模型选择0-ES3；1-LSTM
+		Integer modelType = getParaToInt("ModelType");
+		// 预测时长1-5季度或年
+		Integer time = getParaToInt("predTime");
+		String input;
+		Object[] Results = null;
+		// 用于保存输出矩阵
+		MWNumericArray output = null;
+		MWNumericArray output1 = null;
+		MWNumericArray output2 = null;
+		MWNumericArray output3 = null;
+		MWNumericArray output4 = null;
+		MWNumericArray output5 = null;
+		MWNumericArray output6 = null;
+		if (modelType == 0) {
+			// 指数平滑法
+			if (Index == 0) {
+				// 财务风险
+				industryES3 model;
+				try {
+					model = new industryES3();
+					if (industry == 0) {
+						// 房地产
+						input = dataSetPrex + "hydt/home_data.txt";
+						Results = model.ES3(6, input, time, 0.5, 0.5, 0.5, 3,
+								6, 3);
+					} else if (industry == 1) {
+						// 汽车制造业
+						input = dataSetPrex + "hydt/car_data.txt";
+						Results = model.ES3(6, input, time, 0.5, 0.5, 0.5, 4,
+								4, 4);
+					} else {
+						// 信息技术服务业
+						input = dataSetPrex + "hydt/info_data.txt";
+						Results = model.ES3(6, input, time, 0.5, 0.5, 0.5, 4,
+								4, 4);
+					}
+					output = (MWNumericArray) Results[0];// 将结果object转换成MWNumericArray
+					output1 = (MWNumericArray) Results[1];
+					output2 = (MWNumericArray) Results[2];
+					output3 = (MWNumericArray) Results[3];
+					output4 = (MWNumericArray) Results[4];
+					output5 = (MWNumericArray) Results[5];
+					int[] res = output5.rowIndex();// 从MWNumericArray对象中读取数据
+					float[] myList = new float[res.length];
+					float[] myList1 = new float[res.length];
+					float[] myList2 = new float[res.length];
+					float[] myList3 = new float[res.length];
+					float[] myList4 = new float[res.length];
+					float[] myList5 = new float[res.length];
+
+					for (int i = 0; i < res.length; i++) {
+						myList[i] = output.getFloat(i + 1); // 盈利
+						myList1[i] = output1.getFloat(i + 1); // 经营
+						myList2[i] = output2.getFloat(i + 1); // 偿债
+						myList3[i] = output3.getFloat(i + 1); // 发展
+						myList4[i] = output4.getFloat(i + 1); // 综合
+						myList5[i] = output5.getFloat(i + 1); // 年份
+					}
+					setAttr("r1", myList);
+					setAttr("r2", myList1);
+					setAttr("r3", myList2);
+					setAttr("r4", myList3);
+					setAttr("r5", myList4);
+					setAttr("year", myList5);
+					renderJson(new String[] { "year", "r1", "r2", "r3", "r4",
+							"r5" });
+
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+			if (Index == 2) {
+				// 区域投资潜力
+				// …………………………………………
+			}
+			if (Index == 3 || Index == 1) {
+				// 合成指数 市场预警基于合成指数中的领先指数预测值
+				HC model;
+				try {
+					model = new HC();
+					if (industry == 0) {
+						// 房地产
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_real_Index.txt";
+						Results = model.ES3(4, input, time, 0.5, 0.5, 0.5,
+								13.0, 16.0, 0);
+					} else if (industry == 1) {
+						// 汽车制造业
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_car_Index.txt";
+						Results = model.ES3(4, input, time, 0.5, 0.5, 0.5, 3.0,
+								13.0, 1);
+					} else {
+						// 信息技术服务业
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_Info_Index.txt";
+						Results = model.ES3(4, input, time, 0.5, 0.5, 0.5, 8.0,
+								10.0, 2);
+					}
+					output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+					output2 = (MWNumericArray) Results[1];
+					output3 = (MWNumericArray) Results[2];
+					output4 = (MWNumericArray) Results[3];
+					int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
+					float[] myList1 = new float[res.length], myList2 = new float[res.length], myList3 = new float[res.length], myList4 = new float[res.length];
+					for (int i = 0; i < res.length; i++) {
+						myList1[i] = output1.getFloat(i + 1); // 同步
+						myList2[i] = output2.getFloat(i + 1); // 领先
+						myList3[i] = output3.getFloat(i + 1); // 滞后
+						myList4[i] = output4.getFloat(i + 1); // HPY
+
+					}
+					setAttr("tb", myList1);
+					setAttr("lead", myList2);
+					setAttr("lag", myList3);
+					setAttr("hpy", myList4);
+					renderJson(new String[] { "tb", "lead", "lag", "hpy" });
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+			if (Index == 4) {
+				// 扩散指数
+				KS model;
+				try {
+					model = new KS();
+					if (industry == 0) {
+						// 房地产
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_real_Index.txt";
+						Results = model.ES3(3, input, time, 0.5, 0.5, 0.5,
+								13.0, 16.0);
+					} else if (industry == 1) {
+						// 汽车制造业
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_car_Index.txt";
+						Results = model.ES3(3, input, time, 0.5, 0.5, 0.5, 3.0,
+								13.0);
+					} else {
+						// 信息技术服务业
+						input = dataSetPrex
+								+ "/hydt/JingQiIndex/JingQi_Info_Index.txt";
+						Results = model.ES3(3, input, time, 0.5, 0.5, 0.5, 8.0,
+								10.0);
+					}
+					output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+					output2 = (MWNumericArray) Results[1];
+					output3 = (MWNumericArray) Results[2];
+					int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
+					float[] myList1 = new float[res.length], myList2 = new float[res.length], myList3 = new float[res.length];
+					for (int i = 0; i < res.length; i++) {
+						myList1[i] = output1.getFloat(i + 1); // 同步
+						myList2[i] = output2.getFloat(i + 1); // 领先
+						myList3[i] = output3.getFloat(i + 1); // 滞后
+
+					}
+					setAttr("tb", myList1);
+					setAttr("lead", myList2);
+					setAttr("lag", myList3);
+					renderJson(new String[] { "tb", "lead", "lag" });
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+
+		} else {
+			// LSTM模型
+								
 		}
-		System.out.println(myList);
-		setAttr("r1", myList);
-		setAttr("r2", myList1);
-		setAttr("r3", myList2);
-		setAttr("r4", myList3);
-		setAttr("r5", myList4);
-		setAttr("year", myList5);
-		setAttr("r6", myList5);
-		renderJson(new String[] { "year", "r1", "r2", "r3", "r4", "r5" ,"r6"});
 
 	}
 

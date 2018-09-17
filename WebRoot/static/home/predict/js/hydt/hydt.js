@@ -64,15 +64,22 @@ var stddev = Math.sqrt(deviations.map(square).reduce(sum)/(val.length-1));
 
 var arrCold  = [];
 var arrLimit = [];
+// 偏冷线
 var cold = mean - 1.96*stddev;
+// 适度下限
 var limit = mean - 1.28*stddev;
+// 偏热线
+var hot= mean + 1.96*stddev;
+// 适度上限
+var upper = mean + 1.28*stddev;
 for(var i=0;i<val.length;i++) {
     arrCold[i]  = cold;
-    arrLimit[i] = limit;
-    
+    arrLimit[i] = limit;   
 }
 info.push(arrCold);
 info.push(arrLimit);
+info.push(hot)
+info.push(upper)
 return info;
 
 }
