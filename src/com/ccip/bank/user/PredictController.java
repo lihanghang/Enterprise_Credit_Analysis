@@ -1,6 +1,7 @@
 package com.ccip.bank.user;
 
 import helloMatrix.hydtTest;
+import it.unimi.dsi.fastutil.floats.Float2ObjectMaps;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,8 +16,12 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import org.apache.jena.base.Sys;
+import org.bytedeco.javacpp.annotation.Cast;
+import org.nd4j.nativeblas.Nd4jCpu.double_absolute_difference_loss;
+import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
 
 import lpsolve.LpSolveException;
+import riskZscore.riskData;
 import test.test;
 import trainClassifier_Tree.creditQuality;
 import ES3.industryES3;
@@ -54,6 +59,7 @@ import com.mathworks.toolbox.javabuilder.MWComplexity;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
 import com.mathworks.toolbox.javabuilder.external.org.json.JSONException;
+import com.sun.org.apache.bcel.internal.generic.NEW;
 
 /**
  * 
@@ -91,19 +97,22 @@ public class PredictController extends Controller {
 			input = dataSetPrex + "hydt/info_data.txt"; // 信息服务业
 			Results = datas.financialRiskCal(6, input, 4, 4, 4); // 信息服务业
 		}
-		MWNumericArray output = null;// 用于保存输出矩阵
-		MWNumericArray output1 = null;// 用于保存输出矩阵
-		MWNumericArray output2 = null;// 用于保存输出矩阵
-		MWNumericArray output3 = null;// 用于保存输出矩阵
-		MWNumericArray output4 = null;// 用于保存输出矩阵
-		MWNumericArray output5 = null;// 用于保存输出矩阵
-		output = (MWNumericArray) Results[0];// 将结果object转换成MWNumericArray
-		output1 = (MWNumericArray) Results[1];// 将结果object转换成MWNumericArray
-		output2 = (MWNumericArray) Results[2];// 将结果object转换成MWNumericArray
-		output3 = (MWNumericArray) Results[3];// 将结果object转换成MWNumericArray
-		output4 = (MWNumericArray) Results[4];// 将结果object转换成MWNumericArray
-		output5 = (MWNumericArray) Results[5];// 将结果object转换成MWNumericArray
-		int[] res = output.rowIndex();// 从MWNumericArray对象中读取数据
+		// 用于保存输出矩阵
+		MWNumericArray output = null;
+		MWNumericArray output1 = null;
+		MWNumericArray output2 = null;
+		MWNumericArray output3 = null;
+		MWNumericArray output4 = null;
+		MWNumericArray output5 = null;
+		// 将结果object转换成MWNumericArray
+		output = (MWNumericArray) Results[0];
+		output1 = (MWNumericArray) Results[1];
+		output2 = (MWNumericArray) Results[2];
+		output3 = (MWNumericArray) Results[3];
+		output4 = (MWNumericArray) Results[4];
+		output5 = (MWNumericArray) Results[5];
+		// 从MWNumericArray对象中读取数据
+		int[] res = output.rowIndex();
 		float[] myList = new float[res.length];
 		float[] myList1 = new float[res.length];
 		float[] myList2 = new float[res.length];
@@ -496,7 +505,7 @@ public class PredictController extends Controller {
 		// paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
 		// paraBean.getFlowPercent(),paraBean.getDebtRate(),paraBean.getInterest(),paraBean.getCashFlow(),
 		// paraBean.getGrowthRateOperateIncome(),paraBean.getAllAsserrtIncrease()
-
+		
 		MWNumericArray in = MWNumericArray.newInstance(new int[] { 11, 1 },
 				MWClassID.DOUBLE, MWComplexity.REAL);
 		in.set(new int[] { 1, 1 }, paraBean.getFlowAssertRate());
@@ -852,17 +861,35 @@ public class PredictController extends Controller {
 	 * 
 	 * @throws IOException
 	 * @throws FileNotFoundException
+	 * @throws MWException 
 	 * 
 	 */
-	public void liquidity() throws FileNotFoundException, IOException {
-		CNNbusinessBean paraBean = getBean(CNNbusinessBean.class);
-		float[] predData = new float[] { paraBean.getLiquidRate(),
-				paraBean.getReceivables(), paraBean.getTotalCurrentAssets(),
-				paraBean.getTotalNoCurrentAssets(),
-				paraBean.getTotalCurrentLiabilities(), paraBean.getWctor() };
+	public void liquidity() throws FileNotFoundException, IOException, MWException {
+		
+		CNNbusinessBean paraBeans = getBean(CNNbusinessBean.class);
+		Object[] res = null;		
+		// 数据归一化处理过程 by HangHangLi 0919
+		riskData lData = new riskData();
+		String riskData = dataSetPrex + "fxpg/raw_data.txt";
+		MWNumericArray input = null; // 用于保存输入矩阵	
+		float[] predData = new float[] { paraBeans.getLiquidRate(),
+				paraBeans.getReceivables(), paraBeans.getTotalCurrentAssets(),
+				paraBeans.getTotalNoCurrentAssets(),
+				paraBeans.getTotalCurrentLiabilities(), paraBeans.getWctor() };
+		input = new MWNumericArray(predData, MWClassID.DOUBLE); 
+		res = lData.risk(1, riskData,input,0);	
+		double [] pred = (double[]) ((MWNumericArray)res[0]).getData();
+		float[] test = new float[pred.length];
+	    for(int i =0;i<pred.length;i++){
+	    	test[i] = (float)pred[i];
+	    }
 		TFModelPred tm = new TFModelPred();
 		String modelPath = modelPathPrex + "Risk/LD.pb";
-		float predValue = tm.RiskGrade(predData, modelPath);
+		float predValue = tm.RiskGrade(test, modelPath);
+		// 反解求出最终值
+		
+		
+		
 		renderJson(predValue);
 	}
 
@@ -919,6 +946,7 @@ public class PredictController extends Controller {
 				(float) paraBean.getInventoryTurnover(),
 				(float) paraBean.getTotalAssetTurnover(),
 				(float) paraBean.getCostProfitMargin() };
+		System.err.println(predData);
 		TFModelPred tm = new TFModelPred();
 		String modelPath = modelPathPrex + "Risk/经营力.pb";
 		float predValue = tm.RiskGrade(predData, modelPath);

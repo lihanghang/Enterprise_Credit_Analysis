@@ -85,11 +85,6 @@ return info;
 }
 
 
-
-
-
-
-
 //Echarts接口调用及数据处理
 var pie3;
 function hyZonghe(type){
