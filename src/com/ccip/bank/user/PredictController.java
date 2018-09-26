@@ -154,7 +154,7 @@ public class PredictController extends Controller {
 	 * @throws MWException
 	 */
 
-	// 房地产业
+	// 三大产业动态预测
 	public void ajaxReal() throws MWException {
 		// 行业0-2
 		Integer industry = getParaToInt("industry");
@@ -327,7 +327,14 @@ public class PredictController extends Controller {
 			}
 
 		} else {
-			// LSTM模型
+			// LSTM模型实现
+			
+			
+			
+			
+			
+			
+			
 								
 		}
 
