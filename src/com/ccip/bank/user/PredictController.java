@@ -890,6 +890,7 @@ public class PredictController extends Controller {
 		
 		
 		
+		
 		renderJson(predValue);
 	}
 
