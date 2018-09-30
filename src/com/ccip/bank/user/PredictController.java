@@ -86,7 +86,7 @@ public class PredictController extends Controller {
 		hydtTest datas = new hydtTest();
 		String input;
 		Object[] Results = null;
-		int type = getParaToInt("type"); // 获取行业类型：0房地产、1汽车业、2信息服务业
+		int type = getParaToInt("type"); // 获取行业类型：0房地产、1汽车业、2信息服务业   
 		if (type == 1) {
 			input = dataSetPrex + "hydt/car_data.txt"; // 汽车业
 			Results = datas.financialRiskCal(6, input, 4, 4, 4);
