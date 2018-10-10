@@ -21,7 +21,9 @@
 3. 截止目前已实现企业信用评级、行业动态预测、企业风险评估的算法实现，基于TensorFlow深度学习框架，主要设计CNN、LSTM、VGG等模型。
 4. 已实现测试通过TensorFlow保存CNN(卷积神经网络、LSTM(长短期记忆网络)等训练模型pb文件，经Java调用，供Web端调用,测试实现代码。
 5. 实现企业信用评估CNN模型pb文件的Java Web端的使用。利用Jfinal的上传文件接口在前端上传测试数据.csv文件，后台接收后读取数据并使用模型进行预测并返回评级结果。[参考代码--613行左右处可见](https://github.com/lihanghang/Enterprise_Credit_Analysis/blob/master/src/com/ccip/bank/user/PredictController.java)
-6. 五大TFModel全部调用过程封装[代码](https://github.com/lihanghang/Enterprise_Credit_Analysis/blob/master/src/com/ccip/bank/model/TFModelPred.java)查看.根据项目进度不断完善中………………
+6. 五大TFModel全部调用过程封装[代码](https://github.com/lihanghang/Enterprise_Credit_Analysis/blob/master/src/com/ccip/bank/model/TFModelPred.java)查看.根据项目进度不
+7. 实现基于LSTM模型的Java调用。
+8.……………………………………
 
 ##### 第三阶段研发工作【180901--181101】
 总体目标：基于第二阶段研发工作，在神经网络算法中加入“记忆模块”、“注意力机制”等；企业知识图谱核心技术突破及初步实现。
@@ -62,5 +64,5 @@
 ***
 - 欢迎交流，邮箱lihanghang@ucas.ac.cn
 - [个人网站](https://www.lihanghang.top/)
-- 更新时间：2018.9.30
+- 更新时间：2018.10.10
  
