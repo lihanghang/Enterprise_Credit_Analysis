@@ -23,7 +23,7 @@
 5. 实现企业信用评估CNN模型pb文件的Java Web端的使用。利用Jfinal的上传文件接口在前端上传测试数据.csv文件，后台接收后读取数据并使用模型进行预测并返回评级结果。[参考代码--613行左右处可见](https://github.com/lihanghang/Enterprise_Credit_Analysis/blob/master/src/com/ccip/bank/user/PredictController.java)
 6. 五大TFModel全部调用过程封装[代码](https://github.com/lihanghang/Enterprise_Credit_Analysis/blob/master/src/com/ccip/bank/model/TFModelPred.java)查看.根据项目进度不
 7. 实现基于LSTM模型的Java调用。
-8.……………………………………
+8. ……………………………………
 
 ##### 第三阶段研发工作【180901--181101】
 总体目标：基于第二阶段研发工作，在神经网络算法中加入“记忆模块”、“注意力机制”等；企业知识图谱核心技术突破及初步实现。
@@ -61,6 +61,8 @@
 可能在速度方面有可能不佳。
 10. 当用java调用TensorFlow 训练的模型文件pb时，可能在输入数据需要归一化或标准化处理，这是我们可以考虑
 使用MATLAB先做一个处理过程的封装。
+11. 使用基于Conda的Jupyter进行模型行训练时出现kernel dead error时，可在环境中执行conda install mkl命令，可解决问题。
+12. ……………………………………
 ***
 - 欢迎交流，邮箱lihanghang@ucas.ac.cn
 - [个人网站](https://www.lihanghang.top/)
