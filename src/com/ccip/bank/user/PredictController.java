@@ -1,6 +1,7 @@
 package com.ccip.bank.user;
 
 import helloMatrix.hydtTest;
+import hydtColdHot.ColdHot;
 import it.unimi.dsi.fastutil.floats.Float2ObjectMaps;
 
 import java.io.BufferedWriter;
@@ -8,8 +9,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Deque;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -19,6 +23,11 @@ import org.apache.jena.base.Sys;
 import org.bytedeco.javacpp.annotation.Cast;
 import org.nd4j.nativeblas.Nd4jCpu.double_absolute_difference_loss;
 import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
+import org.tensorflow.Operation;
+import org.tensorflow.Output;
+import org.tensorflow.SavedModelBundle;
+import org.tensorflow.Session;
+import org.tensorflow.Tensor;
 
 import lpsolve.LpSolveException;
 import riskZscore.riskData;
@@ -29,6 +38,7 @@ import HC_Index.HC;
 import JQTest.JqModel;
 import JingQi.*;
 import KS_Index.KS;
+import MinMaxScaler.MinMax;
 import Risk.testRisk;
 
 import com.ccip.bank.bean.CNNbusinessBean;
@@ -327,16 +337,137 @@ public class PredictController extends Controller {
 			}
 
 		} else {
-			// LSTM模型实现
-			
-			
-			
-			
-			
-			
-			
-								
-		}
+			// LSTM模型实现20181010
+			if (industry == 0) {
+				// 房地产行业
+				if(Index==3 || Index==1) {
+					//景气指数中的合成指数：领先、同步、滞后、HPY
+
+					// 接收数据的最大、最小值	
+					String inputIndex = dataSetPrex + "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
+					
+					// 存储预警预测结果偏冷、偏热线等
+					MWNumericArray predIn = MWNumericArray.newInstance
+					 (new int[]{time,1}, MWClassID.DOUBLE, MWComplexity.REAL);
+					
+					
+					// save result val
+				    Deque<Float> predQueL = new ArrayDeque<Float>();
+				    Deque<Float> predQueT = new ArrayDeque<Float>();
+				    Deque<Float> predQueZ = new ArrayDeque<Float>();
+				    Deque<Float> predQueH = new ArrayDeque<Float>();
+					for(int p = 0;p<4;p++) {
+						MinMax minMaxs = new MinMax();
+						Object[] Result = null;
+						Results = minMaxs.MinMaxScaler(2,inputIndex, p+1); // 领先指数
+						MWNumericArray outputMin = null;
+						MWNumericArray outputMax = null;
+						outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+						outputMax = (MWNumericArray) Results[1];
+						float min = outputMin.getFloat(1);
+						float max = outputMax.getFloat(1);
+						
+						// 加载LSTM训练模型
+						SavedModelBundle SB = SavedModelBundle.load(modelPathPrex + "/hydt/JingQi_MarketRisk/model_"+p, "mytag");
+					    Session tfSession = SB.session();
+					    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
+					    Output outputs = new Output(operationPredict, 0);
+					   
+					    // 初始化队列元素，即训练数据最后一列
+					    Deque<Float> queue = new ArrayDeque<Float>();
+					    // save result val
+					    Deque<Float> predQue = new ArrayDeque<Float>();
+						 if(p==0) {					    	
+						    queue.add(0.2984940142146755f);
+						    queue.add(0.29307985123528013f);
+						    queue.add(0.24918521130146942f);
+						    queue.add(0.200000000000000f);
+						    queue.add(0.219999999999999f);
+						 }
+						  if(p==1) {							
+						    queue.add(0.6238169157899023f);
+						    queue.add(0.5651990667341238f);
+						    queue.add(0.5624293086506924f);
+						    queue.add(0.388888888888883f);
+						    queue.add(0.388888888888883f);
+						  }
+						  if(p==2) {							
+						    queue.add(0.6918663566556589f);
+						    queue.add(0.7156781310964391f);
+						    queue.add(0.7546369272327169f);
+						    queue.add(0.842105263157896f);
+						    queue.add(0.842105263157896f);
+						  }
+						  if(p==3) {
+						    queue.add(0.5214401294498372f);
+						    queue.add(0.528317152103559f);
+						    queue.add(0.4591423948220066f);
+						    queue.add(0.335355987055016f);
+						    queue.add(0.260922330097087f);
+						    
+						  }
+					    
+					    float predValue = 0.0f;
+					    // 根据预测年数进行循环   
+					    for(int i =1;i<=time; i++) {
+					    	int n = 0;
+					    	float[][] a = new float[5][5];
+					    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
+					    	a[0][n] = itr.next();
+					    	n++;
+					    	}
+					    Tensor input_x = Tensor.create(a); 
+					    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(outputs).run();        
+					    for (Tensor s : out) {   
+					    	// 字符串数组，使用for(:)获得数据
+					    	float[][] t = new float[25][1];  
+					    	s.copyTo(t);     
+					    	for (float pred : t[4]) {
+					    		// 必须经过转化后才可得到真实预测值			
+								predValue = pred*(max-min)+min;
+					    		queue.remove();//队首元素出队
+					    	    queue.add(pred);
+					    	}
+					    }
+						  if(p==0)
+						    predQueL.add(predValue);
+						  	predIn.set(new int[] { i, 1 }, predValue);
+						  if(p==1)
+							predQueT.add(predValue);
+						  if(p==2)
+							predQueZ.add(predValue);
+						  if(p==3)
+							predQueH.add(predValue);
+					  }
+					    					  					   										
+					}
+					 	setAttr("leadIndex",predQueL);
+					    setAttr("tbIndex",  predQueT);
+					    setAttr("lagIndex", predQueZ);
+					    setAttr("hpyIndex", predQueH);
+					// 市场风险预测执行计算临界值
+					if(Index==1) {
+						// 如果计算行业预警信息，可通过MATLAB编译包ColdHot进行计算;输出偏冷线\偏热线\适度上限\适度下限		
+					    ColdHot cHot = new ColdHot();
+					    // 得到偏冷、偏热线、上下限
+					    Results = cHot.hydtColdHot(4, inputIndex,  predIn);
+					    float [] rest = new float[4];
+					    for(int q=0;q<4;q++){	
+					    	// 一种容易得到矩阵返回一维数据的取值方式
+					    	MWNumericArray vals = (MWNumericArray) Results[q];
+					    	float a = vals.getFloat();
+					    	rest[q] = a;
+					    }
+					    setAttr("res", rest);
+						renderJson(new String[] { "leadIndex","tbIndex","lagIndex","hpyIndex","res"});	
+
+					}else
+						// 返回合成指数预测结果
+						renderJson(new String[] { "leadIndex","tbIndex","lagIndex","hpyIndex"});				   
+				}
+				
+		}																						
+	}
 
 	}
 

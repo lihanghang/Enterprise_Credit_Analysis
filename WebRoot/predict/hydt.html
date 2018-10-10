@@ -530,32 +530,53 @@ $.ajax({
         }
         
        if(predIndexVal == 3 || predIndexVal==1){
-        //合成指数预测值
-        tb = data['tb']
-        // 领先指标
-        lead = data['lead']
-        lag = data['lag']
-        hpy = data['hpy']                  
-        if(predIndexVal == 1){
-        	 // 输出风险预警
-        	 Section = maths(lead)
-        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的市场风险预警结果如下：<br />"+
-        	"【同步指数】"+tb.slice(-predTimeVal)+'<br />'+
-        	"【偏热线】"+Section[2]+'<br />'+
-        	"【偏冷线】"+Section[0][0]+'<br />'+
-        	"【适度上限】"+Section[3]+'<br />'+
-        	"【适度下限】"+Section[1][0]+'<br />'           	 
-         }else {
-        	  element.innerHTML= "您预测了【"+predTimeVal+"】个季度的合成指数结果如下：<br />"+
-              "【同步】"+tb.slice(-predTimeVal)+'<br />'+
-              "【领先】"+lead.slice(-predTimeVal)+'<br />'+
-              "【滞后】"+lag.slice(-predTimeVal)+'<br />'+
-               msg +hpy.slice(-predTimeVal)       	 
-        	 
-         }
-         
-         
-         
+    	      	   
+    	   // 三次指数平滑法
+    	  if(ModelTypeVal==0) { 
+    		  
+	        //合成指数预测值
+	        tb = data['tb']
+	        // 领先指标
+	        lead = data['lead']
+	        lag = data['lag']
+	        hpy = data['hpy']                  
+	        if(predIndexVal == 1){
+	        	 // 输出风险预警
+	        	 Section = maths(lead)
+	        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的市场风险预警结果如下：<br />"+
+	        	"【同步指数】"+tb.slice(-predTimeVal)+'<br />'+
+	        	"【偏热线】"+Section[2]+'<br />'+
+	        	"【偏冷线】"+Section[0][0]+'<br />'+
+	        	"【适度上限】"+Section[3]+'<br />'+
+	        	"【适度下限】"+Section[1][0]+'<br />'           	 
+	         }else {
+	        	  element.innerHTML= "您预测了【"+predTimeVal+"】个季度的合成指数结果如下：<br />"+
+	              "【同步】"+tb.slice(-predTimeVal)+'<br />'+
+	              "【领先】"+lead.slice(-predTimeVal)+'<br />'+
+	              "【滞后】"+lag.slice(-predTimeVal)+'<br />'+
+	               msg +hpy.slice(-predTimeVal)       	 	        	 
+	         }
+    	  }
+    	  else{
+    		  // LSTM模型20181010 by HangHangLi
+    		  
+    		 if(predIndexVal == 1){
+	        	 // 输出风险预警	        	
+		        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的市场风险预警结果如下：<br />"+
+		        	"【同步指数】"+data['leadIndex']+'<br />'+
+		        	"【偏热线】"+data['res'][1]+'<br />'+
+		        	"【偏冷线】"+data['res'][0]+'<br />'+
+		        	"【适度上限】"+data['res'][2]+'<br />'+
+		        	"【适度下限】"+data['res'][3]+'<br />'            	 
+	         }else {
+    		  element.innerHTML= "您预测了【"+predTimeVal+"】个季度的合成指数，各单项结果如下：<br />"+
+               "【领先指数】"+data['leadIndex']+'<br />'+
+              "【同步指数】"+data['tbIndex']+'<br />'+
+              "【滞后指数】"+data['lagIndex'] +'<br />'+
+               msg +data['hpyIndex'] 
+              
+	         }    		      		     		  
+    	  }                       
         }
         if(predIndexVal == 4){
         //扩散指数预测值
@@ -566,12 +587,7 @@ $.ajax({
         "【同步】"+tb.slice(-predTimeVal)+'<br />'+
         "【领先】"+lead.slice(-predTimeVal)+'<br />'+
         "【滞后】"+lag.slice(-predTimeVal)+'<br />'
-        }
-        
-        
-        
-        
-        
+        }              
 }
 
 });

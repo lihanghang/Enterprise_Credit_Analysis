@@ -26,6 +26,7 @@ import MinMaxScaler.MinMax;
  * @date 2018年8月7日 下午5:17:31 ；20180820测试完成信用评级CNN模型的调用
  * @author Mason
  * 实现Java下TensorFlow神经网络模型调用
+ * 本类仅作为模型测试所用，不做系统集成
  */
 public class TensorFlowForJava {
 
@@ -114,77 +115,75 @@ public static void main(String[] args) throws FileNotFoundException, IOException
 	
 	// 接收数据的最大、最小值
 	String dataSetPrex = "D://java-project/Enterprise_Credit_Analysis/datasets/";
-	String input = dataSetPrex + "hydt/JingQiIndex/JingQi_real_Index.txt"; // 房地产市场
-	MinMax minMaxs = new MinMax();
-	Object[] Results = null;
-	Results = minMaxs.MinMaxScaler(2,input, 1); // 房地产市场
-	MWNumericArray output1 = null;
-	MWNumericArray output2 = null;
-	output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
-	output2 = (MWNumericArray) Results[1];
-	float min = output1.getFloat(1);
-	float max = output2.getFloat(1);
-
-	
-	
-	
-	
-	
-	
-	
-	
-	SavedModelBundle SB = SavedModelBundle.load(System.getProperty("user.dir")+"/TFModel/hydt/model2", "mytag");
-    Session tfSession = SB.session();
-    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
-    Output output = new Output(operationPredict, 0);
-   
-    // 初始化队列元素，即训练数据最后一列
-    Deque<Float> queue = new ArrayDeque<Float>();
-    Deque<Float> predQue = new ArrayDeque<Float>();
-    queue.add(0.5376470927352686f);
-    queue.add(0.4244357630777214f);
-    queue.add(0.3645078126405753f);
-    queue.add(0.06482944780183306f);
-    queue.add(0.0494559806531145f);
-    
-    float predValue = 0.0f;
-    // 根据预测年数进行循环   
-    for(int i =1;i<=7; i++) {
-    	int k = 0;
-    	float[][] a = new float[5][5];
-    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
-    	a[0][k] = itr.next();
-    	k++;
-    	}
-    Tensor input_x = Tensor.create(a); 
-    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(output).run();        
-    for (Tensor s : out) {   
-    	// 字符串数组，使用for(:)获得数据
-    	float[][] t = new float[25][1];  
-    	s.copyTo(t);     
-    	for (float pred : t[4]) {
-    		// 必须经过转化后才可得到真实预测值
-			predValue = pred*(max-min)+min;
-    		queue.remove();//队首元素出队
-    	    queue.add(pred);
-    	}
-    }
-    predQue.add(predValue);
-  }
-System.out.println("最终预测值为："+predQue);
-    
-
-    
-
-
-
-
-
-
-
-
-
-
+	String input = dataSetPrex + "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
+	   
+	//四个指标对应四个模型\
+	// save result val
+    Deque<Float> predQueL = new ArrayDeque<Float>();
+    Deque<Float> predQueT = new ArrayDeque<Float>();
+    Deque<Float> predQueZ = new ArrayDeque<Float>();
+    Deque<Float> predQueH = new ArrayDeque<Float>();
+	for(int p = 0;p<4;p++) {
+		System.out.println(p);
+		MinMax minMaxs = new MinMax();
+		Object[] Results = null;
+		MWNumericArray output1 = null;
+		MWNumericArray output2 = null;
+		Results = minMaxs.MinMaxScaler(2,input, p+1); // 房地产市场	
+		output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+		output2 = (MWNumericArray) Results[1];
+		float min = output1.getFloat(1);
+		float max = output2.getFloat(1);
+		
+		// 加载LSTM训练模型
+		SavedModelBundle SB = SavedModelBundle.load(System.getProperty("user.dir")+"/TFModel/hydt/JingQi/model_"+p, "mytag");
+	    Session tfSession = SB.session();
+	    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
+	    Output output = new Output(operationPredict, 0);
+	   
+	    // 初始化队列元素，即训练数据最后一列
+	    Deque<Float> queue = new ArrayDeque<Float>();
+	    
+	    queue.add(0.36838878151817056f);
+	    queue.add(0.356056079868992f);
+	    queue.add(0.17894615254532198f);
+	    queue.add(0.3162584205955916f);
+	    queue.add(0.23352082722628964f);
+	    
+	    float predValue = 0.0f;
+	    // 根据预测年数进行循环   
+	    for(int i =1;i<=2; i++) {
+		    	int n = 0;
+		    	float[][] a = new float[5][5];
+		    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
+		    	a[0][n] = itr.next();
+		    	n++;
+		    	}
+		    Tensor input_x = Tensor.create(a); 
+		    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(output).run();        
+		    for (Tensor s : out) {   
+		    	// 字符串数组，使用for(:)获得数据
+		    	float[][] t = new float[25][1];  
+		    	s.copyTo(t);     
+		    	for (float pred : t[4]) {
+		    		// 必须经过转化后才可得到真实预测值
+		    		System.out.println(pred);
+					predValue = pred*(max-min)+min;
+		    		queue.remove();//队首元素出队
+		    	    queue.add(pred);
+		    	}
+		    }
+		  if(p==0)
+		    predQueL.add(predValue);
+		  if(p==1)
+			predQueT.add(predValue);
+		  if(p==2)
+			predQueZ.add(predValue);
+		  if(p==3)
+			predQueH.add(predValue);
+	  }
+	    System.out.println("最终预测值为："+predQueL);
+	}
 
 
 
