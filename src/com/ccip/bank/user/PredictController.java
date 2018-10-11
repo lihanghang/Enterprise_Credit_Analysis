@@ -466,6 +466,95 @@ public class PredictController extends Controller {
 						renderJson(new String[] { "leadIndex","tbIndex","lagIndex","hpyIndex"});				   
 				}
 				
+				// 扩散指数：领先、同步、滞后  at 20181011 by HangHang Lee
+				if(Index==4){
+					String inputIndex = dataSetPrex + "hydt/JingQiIndex/JingQi_diffusion_finall_Index.txt"; // 房地产市场扩散指数最终指标
+					 // save result val
+				    Deque<Float> predQueL = new ArrayDeque<Float>();
+				    Deque<Float> predQueT = new ArrayDeque<Float>();
+				    Deque<Float> predQueZ = new ArrayDeque<Float>();
+					for(int p = 0;p<3;p++) {
+						MinMax minMaxs = new MinMax();
+						Object[] Result = null;
+						Results = minMaxs.MinMaxScaler(2,inputIndex, p+1);
+						MWNumericArray outputMin = null;
+						MWNumericArray outputMax = null;
+						outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+						outputMax = (MWNumericArray) Results[1];
+						float min = outputMin.getFloat(1);
+						float max = outputMax.getFloat(1);
+						System.out.println(min+"*****"+max);
+						// 加载LSTM训练模型
+						SavedModelBundle SB = SavedModelBundle.load(modelPathPrex + "/hydt/JingQi_MarketRisk/diffusionIndex/model_"+p, "mytag");
+					    Session tfSession = SB.session();
+					    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
+					    Output outputs = new Output(operationPredict, 0);
+					   
+					    // 初始化队列元素，即训练数据最后一列
+					    Deque<Float> queue = new ArrayDeque<Float>();
+					   
+						 if(p==0) {					    	
+						    queue.add(0.6366279069767441f);
+						    queue.add(0.7267441860465116f);
+						    queue.add(0.1816860465116279f);
+						    queue.add(0.5450581395348837f);
+						    queue.add(0.5450581395348837f);
+						 }
+						  if(p==1) {							
+						    queue.add(0.400520156046814f);
+						    queue.add(0.5006501950585175f);
+						    queue.add(0.5006501950585175f);
+						    queue.add(0.1001300390117035f);
+						    queue.add(0.400520156046814f);
+						  }
+						  if(p==2) {							
+						    queue.add(0.42857142857142855f);
+						    queue.add(0.5714285714285714f);
+						    queue.add(0.6422857142857143f);
+						    queue.add(0.2857142857142857f);
+						    queue.add(0.2137142857142857f);
+						  }
+					    
+					    float predValue = 0.0f;
+					    // 根据预测年数进行循环   
+					    for(int i =1;i<=time; i++) {
+					    	int n = 0;
+					    	float[][] a = new float[5][5];
+					    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
+					    	a[0][n] = itr.next();
+					    	n++;
+					    	}
+					    Tensor input_x = Tensor.create(a); 
+					    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(outputs).run();        
+					    for (Tensor s : out) {   
+					    	// 字符串数组，使用for(:)获得数据
+					    	float[][] t = new float[25][1];  
+					    	s.copyTo(t);     
+					    	for (float pred : t[4]) {
+					    		// 必须经过转化后才可得到真实预测值			
+								predValue = pred*(max-min)+min;
+					    		queue.remove();//队首元素出队
+					    	    queue.add(pred);
+					    	}
+					    }
+						  if(p==0)
+						    predQueL.add(predValue);						  	
+						  if(p==1)
+							predQueT.add(predValue);
+						  if(p==2)
+							predQueZ.add(predValue);
+					
+					  }			  					   										
+					}
+					
+					setAttr("leadIndex", predQueL);
+				    setAttr("tbIndex",  predQueT);
+				    setAttr("lagIndex", predQueZ);
+				    // 返回合成指数预测结果
+					renderJson(new String[] { "leadIndex","tbIndex","lagIndex"});
+
+				}
+				
 		}																						
 	}
 

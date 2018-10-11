@@ -511,6 +511,8 @@ $.ajax({
     	// 展示结果信息
         var element=document.getElementById("ResInfo"); 
         if(predIndexVal == 0){
+        	//三次指数平滑法
+        	if(ModelTypeVal==0) {
         	// 财务风险-单项指标及偏冷线和适度下限
            yl = data['r1']
            cz = data['r3']
@@ -527,7 +529,15 @@ $.ajax({
                 "【经营效率】"+jy.slice(-predTimeVal)+"【偏冷线】"+jySection[0][0]+"【适度下限】"+jySection[1][0]+'<br/>'+
                 "【增长潜力】"+zz.slice(-predTimeVal)+"【偏冷线】"+zzSection[0][0]+"【适度下限】"+zzSection[1][0]+'<br/>'+
                 "【综合风险】"+zh.slice(-predTimeVal)        	       	
+        }else{
+        // 长短期记忆网络模型。 待实现
+        	
+        	
+        	
+        	
         }
+    }
+        
         
        if(predIndexVal == 3 || predIndexVal==1){
     	      	   
@@ -556,6 +566,7 @@ $.ajax({
 	              "【滞后】"+lag.slice(-predTimeVal)+'<br />'+
 	               msg +hpy.slice(-predTimeVal)       	 	        	 
 	         }
+	       
     	  }
     	  else{
     		  // LSTM模型20181010 by HangHangLi
@@ -575,19 +586,33 @@ $.ajax({
               "【滞后指数】"+data['lagIndex'] +'<br />'+
                msg +data['hpyIndex'] 
               
-	         }    		      		     		  
+	         }    	     		     		  
     	  }                       
         }
-        if(predIndexVal == 4){
-        //扩散指数预测值
-        tb = data['tb']
-        lead = data['lead']
-        lag = data['lag']
-        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
-        "【同步】"+tb.slice(-predTimeVal)+'<br />'+
-        "【领先】"+lead.slice(-predTimeVal)+'<br />'+
-        "【滞后】"+lag.slice(-predTimeVal)+'<br />'
-        }              
+       
+       
+       
+       if(predIndexVal == 4){
+    	   // 三次指数平滑法
+    	   if(ModelTypeVal==0) { 
+           //扩散指数预测值
+           tb = data['tb']
+           lead = data['lead']
+           lag = data['lag']
+           element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
+           "【同步】"+tb.slice(-predTimeVal)+'<br />'+
+           "【领先】"+lead.slice(-predTimeVal)+'<br />'+
+           "【滞后】"+lag.slice(-predTimeVal)+'<br />'
+           }else{
+        	   
+       	    //扩散指数预测值，长短期记忆网络
+	        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
+	        "【同步】"+data['tbIndex']+'<br />'+
+	        "【领先】"+data['leadIndex']+'<br />'+
+	        "【滞后】"+data['lagIndex']+'<br />'       	         	       	   
+           }    
+       }
+           
 }
 
 });
