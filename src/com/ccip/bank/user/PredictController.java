@@ -338,11 +338,207 @@ public class PredictController extends Controller {
 
 		} else {
 			// LSTM模型实现20181010
+								
 			if (industry == 0) {
+				
+				if(Index==0) {
+					//财务风险：盈利、增长、偿债、经营;还需计算适度下线、偏冷线两个临界值
+					// 接收数据的最大、最小值
+					String inputIndexs = dataSetPrex
+							+ "hydt/businessRisk/businessRisk.txt"; // 房地产市场
+					// 存储财务风险各单项指标的偏冷线与适度下线
+					ColdHot cHots = new ColdHot(); 
+					MWNumericArray predInDebt = MWNumericArray.newInstance(
+							new int[] { time, 1 }, MWClassID.DOUBLE,
+							MWComplexity.REAL);
+					MWNumericArray predInProfit = MWNumericArray.newInstance(
+							new int[] { time, 1 }, MWClassID.DOUBLE,
+							MWComplexity.REAL);
+					MWNumericArray predInBusiness = MWNumericArray.newInstance(
+							new int[] { time, 1 }, MWClassID.DOUBLE,
+							MWComplexity.REAL);
+					MWNumericArray predInIncrease = MWNumericArray.newInstance(
+							new int[] { time, 1 }, MWClassID.DOUBLE,
+							MWComplexity.REAL);
+					// 接收临界值计算结果
+					Object[] ResDebt = null;
+					Object[] ResProfit = null;
+					Object[] ResBusiness = null;
+					Object[] ResIncrease = null;
+					
+					// 保存偏冷及适度下限					
+					float[] resProfit = new float[4];
+					float[] resIncrease = new float[4];
+					float[] resDebt = new float[4];
+					float[] resBusiness = new float[4];
+					// save ResVal
+					Deque<Float> predQueProfit = new ArrayDeque<Float>();
+					Deque<Float> predQueIncrease = new ArrayDeque<Float>();
+					Deque<Float> predQueDebt = new ArrayDeque<Float>();
+					Deque<Float> predQueBusiness = new ArrayDeque<Float>();
+					for (int p =1; p < 5; p++) {
+						MinMax minMaxs = new MinMax();
+						Object[] Result = null;
+						Results = minMaxs.MinMaxScaler(2, inputIndexs, p);
+						MWNumericArray outputMin = null;
+						MWNumericArray outputMax = null;
+						outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+						outputMax = (MWNumericArray) Results[1];
+						float min = outputMin.getFloat(1);
+						float max = outputMax.getFloat(1);
+						System.out.println(min+"……………………"+max);
+						// 加载LSTM训练模型
+						SavedModelBundle SB = SavedModelBundle.load(
+								modelPathPrex
+										+ "/hydt/financialRisk/model_" + p,
+								"mytag");
+						Session tfSession = SB.session();
+						Operation operationPredict = SB.graph().operation(
+								"rnn/preds"); // 要执行的op
+						Output outputs = new Output(operationPredict, 0);
+
+						// 初始化队列元素，即训练数据最后一列
+						Deque<Float> queue = new ArrayDeque<Float>();
+						// save result val
+						Deque<Float> predQue = new ArrayDeque<Float>();
+						
+						if (p == 1) {
+							queue.add(0.19816204334991228f);
+							queue.add(0.5298361243503276f);
+							queue.add(0.8278919745347146f);
+							queue.add(0.7761027853921891f);
+							queue.add(0.8451376282298926f);
+						}
+						if (p == 2) {
+							queue.add(1.0000000000000002f);
+							queue.add(0.6170115960870924f);
+							queue.add(0.14256865261554458f);
+							queue.add(0.29564707980990373f);
+							queue.add(0.24449770080641547f);
+						}
+						if (p == 3) {
+							//偿债能力
+							queue.add(0.41456469726929257f);
+							queue.add(0.4520722419784474f);
+							queue.add(0.4257669281458468f);
+							queue.add(0.38015608366588005f);
+							queue.add(0.22595107727146024f);
+						}
+						if (p == 4) {
+							//经营能力
+							queue.add(0.31339307363088215f);
+							queue.add(0.44824200150085197f);
+							queue.add(0.5147971952368775f);
+							queue.add(0.6276184487903889f);
+							queue.add(0.7437064711475722f);							
+						}
+
+						float predValue = 0.0f;
+						// 根据预测年数进行循环
+						for (int i = 1; i <= time; i++) {
+							int n = 0;
+							float[][] a = null;
+							if(p==2) {
+								a = new float[3][queue.size()];
+							}else if(p==4){
+								a = new float[4][queue.size()];
+							}
+							else {
+								a = new float[5][queue.size()];
+							}
+									
+							for (Iterator<Float> itr = queue.iterator(); itr
+									.hasNext();) {
+								a[0][n] = itr.next();
+								n++;
+							}
+							Tensor input_x = Tensor.create(a);
+							List<Tensor<?>> out = tfSession.runner()
+									.feed("inputs", input_x).fetch(outputs)
+									.run();
+							for (Tensor s : out) {
+								// 字符串数组，使用for(:)获得数据 ;根据模型时间 不的大小动态调整数组长度
+								float [][] t =null;
+								if(p==2)  {
+									 t = new float[3*queue.size()][1];
+								}else if(p==4){
+									t = new float[4*queue.size()][1];
+								}
+								else {
+									 t = new float[5*queue.size()][1];
+								}
+								s.copyTo(t);
+								for (float pred : t[4]) {
+									// 必须经过转化后才可得到真实预测值
+									predValue = pred * (max - min) + min;
+									queue.remove();// 队首元素出队
+									queue.add(pred);
+								}
+							}
+							if (p == 1) {
+								predQueProfit.add(predValue);
+								predInProfit.set(new int[] { i, 1 }, predValue);
+								ResProfit = cHots.hydtColdHot(4, inputIndexs, predInProfit);
+							}
+							if (p == 2) {
+								predQueIncrease.add(predValue);
+								predInIncrease.set(new int[] { i, 1 }, predValue);
+								ResIncrease = cHots.hydtColdHot(4, inputIndexs, predInIncrease);
+							}
+			
+							if (p == 3) {
+								predQueDebt.add(predValue);
+								predInDebt.set(new int[] { i, 1 }, predValue);
+								ResDebt = cHots.hydtColdHot(4, inputIndexs, predInDebt);
+							}
+							if (p == 4) {
+								predQueBusiness.add(predValue);
+								predInBusiness.set(new int[] { i, 1 }, predValue);
+								ResBusiness = cHots.hydtColdHot(4, inputIndexs, predInBusiness);
+
+						}
+
+					}									
+					for (int q = 0; q < 2; q++) {
+						// 一种容易得到矩阵返回一维数据的取值方式
+						if(p==1){
+							float profit = ((MWNumericArray) ResProfit[q]).getFloat();
+							resProfit[q] = profit;
+						}
+						if(p==2){
+							float increase = ((MWNumericArray) ResIncrease[q]).getFloat();
+							resIncrease[q] = increase;
+						}
+						if(p==3){
+							float debt = ((MWNumericArray) ResDebt[q]).getFloat();
+							resDebt[q] = debt;
+						}
+						if(p==4){
+							float business = ((MWNumericArray) ResBusiness[q]).getFloat();
+							resBusiness[q] = business;
+						}	
+				}
+					}
+					// 返回偏冷线与适度下限
+					setAttr("resProfit", resProfit);	
+					setAttr("resIncrease", resIncrease);	
+					setAttr("resDebt", resDebt);	
+					setAttr("resBusiness", resBusiness);
+					
+					System.out.println(predQueProfit);
+					// 返回财务风险预测结果
+					setAttr("profitIndex", predQueProfit);
+					setAttr("increaseIndex", predQueIncrease);
+					setAttr("debtIndex", predQueDebt);
+					setAttr("businessIndex", predQueBusiness);
+					
+					renderJson(new String[] {"resProfit","resIncrease","resDebt","resBusiness", "profitIndex", "increaseIndex",
+							"debtIndex", "businessIndex" });			
+			}
+				
 				// 房地产行业
 				if (Index == 3 || Index == 1) {
 					// 景气指数中的合成指数：领先、同步、滞后、HPY
-
 					// 接收数据的最大、最小值
 					String inputIndex = dataSetPrex
 							+ "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
@@ -437,9 +633,10 @@ public class PredictController extends Controller {
 									queue.add(pred);
 								}
 							}
-							if (p == 0)
+							if (p == 0) {
 								predQueL.add(predValue);
-							predIn.set(new int[] { i, 1 }, predValue);
+								predIn.set(new int[] { i, 1 }, predValue);
+							}
 							if (p == 1)
 								predQueT.add(predValue);
 							if (p == 2)

@@ -396,7 +396,7 @@
 												class="form-control" id="predIndex">
 												<option value="0">财务风险(预测2016年后，按年预测)</option>
 												<option value="1">市场风险(预测2017年10月31后，间隔4个月)</option>
-												<option value="2">区域投资潜力(预测2015年以后，按年预测)</option>
+												<option  disabled="disabled" value="2">区域投资潜力(预测2015年以后，按年预测)</option>
 												<option value="3">合成指数(预测2017年10月31后，间隔4个月)</option>
 												<option value="4">扩散指数(预测2017年10月31后，间隔4个月)</option>
 											</select>
@@ -523,18 +523,24 @@ $.ajax({
           ylSection = maths(yl)
           jySection = maths(jy)
           zzSection = maths(zz)
-           element.innerHTML= "您预测了【" + predTimeVal+ "】年的财务风险各分指标结果如下：<br/>"+
+           element.innerHTML= "您预测了【" + predTimeVal + "】年的财务风险各分指标结果如下：<br/>"+
                 "【偿债能力】"+cz.slice(-predTimeVal)+"【偏冷线】"+czSection[0][0]+"【适度下限】"+czSection[1][0]+'<br/>'+
                 "【盈利能力】"+yl.slice(-predTimeVal)+"【偏冷线】"+ylSection[0][0]+"【适度下限】"+ylSection[1][0]+'<br/>'+
                 "【经营效率】"+jy.slice(-predTimeVal)+"【偏冷线】"+jySection[0][0]+"【适度下限】"+jySection[1][0]+'<br/>'+
                 "【增长潜力】"+zz.slice(-predTimeVal)+"【偏冷线】"+zzSection[0][0]+"【适度下限】"+zzSection[1][0]+'<br/>'+
                 "【综合风险】"+zh.slice(-predTimeVal)        	       	
         }else{
-        // 长短期记忆网络模型。 待实现
-        	
-        	
-        	
-        	
+        // 长短期记忆网络模型。  20181015实现 by HangHang Li
+          console.log(data['profitIndex'])
+       	  element.innerHTML= "您预测了【" + predTimeVal+ "】年的财务风险各分指标结果如下：<br/>"+
+               "【偿债能力】"+data["debtIndex"]+'||'+
+               "偏冷线："+data['resDebt'][0]+",适度下限："+data['resDebt'][1]+'<br/>'+
+               "【盈利能力】" +data['profitIndex']+'||'+
+               "偏冷线："+data['resProfit'][0]+",适度下限："+data['resProfit'][1]+'<br/>'+
+               "【经营效率】"+data['businessIndex']+'||'+
+               "偏冷线："+data['resBusiness'][0]+",适度下限："+data['resBusiness'][1]+'<br/>'+
+               "【增长潜力】"+data['increaseIndex']+'||'+
+               "偏冷线："+data['resIncrease'][0]+",适度下限："+data['resIncrease'][1]             
         }
     }
         
