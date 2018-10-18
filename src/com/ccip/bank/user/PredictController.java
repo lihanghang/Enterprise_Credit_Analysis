@@ -339,13 +339,25 @@ public class PredictController extends Controller {
 		} else {
 			// LSTM模型实现20181010
 								
-			if (industry == 0) {
-				
+			
+				//房地产业
 				if(Index==0) {
+					
+					//根据行业进行预测指标历史数据的导入， by HangHang Li at20181018
+					String inputIndexs = "";
+					if(industry == 0)
+						inputIndexs = dataSetPrex
+								+ "hydt/businessRisk/businessRisk.txt"; // 房地产市场
+					else if(industry == 1)
+						inputIndexs = dataSetPrex
+								+ "hydt/businessRisk/carFinancialRisk.txt"; // 汽车制造业
+					else
+						inputIndexs = dataSetPrex
+								+ "hydt/businessRisk/infoFinancialRisk.txt"; // 信息技术服务业
+					
+					
 					//财务风险：盈利、增长、偿债、经营;还需计算适度下线、偏冷线两个临界值
 					// 接收数据的最大、最小值
-					String inputIndexs = dataSetPrex
-							+ "hydt/businessRisk/businessRisk.txt"; // 房地产市场
 					// 存储财务风险各单项指标的偏冷线与适度下线
 					ColdHot cHots = new ColdHot(); 
 					MWNumericArray predInDebt = MWNumericArray.newInstance(
@@ -387,11 +399,25 @@ public class PredictController extends Controller {
 						float min = outputMin.getFloat(1);
 						float max = outputMax.getFloat(1);
 						System.out.println(min+"……………………"+max);
-						// 加载LSTM训练模型
-						SavedModelBundle SB = SavedModelBundle.load(
-								modelPathPrex
-										+ "/hydt/financialRisk/model_" + p,
-								"mytag");
+						
+						
+						// 加载LSTM训练模型，根据行业加载各自模型 20181018
+						SavedModelBundle SB = null;
+						if(industry == 0)
+							 SB = SavedModelBundle.load(
+									modelPathPrex
+											+ "/hydt/financialRisk/model_" + p,
+									"mytag");
+						else if(industry == 1)
+							 SB = SavedModelBundle.load(
+									modelPathPrex
+											+ "/hydt/financialRisk/carIndustry/model_" + p,
+									"mytag");
+						else 
+							 SB = SavedModelBundle.load(
+									modelPathPrex
+											+ "/hydt/financialRisk/infoIndustry/model_" + p,
+									"mytag");
 						Session tfSession = SB.session();
 						Operation operationPredict = SB.graph().operation(
 								"rnn/preds"); // 要执行的op
@@ -402,50 +428,131 @@ public class PredictController extends Controller {
 						// save result val
 						Deque<Float> predQue = new ArrayDeque<Float>();
 						
-						if (p == 1) {
-							queue.add(0.19816204334991228f);
-							queue.add(0.5298361243503276f);
-							queue.add(0.8278919745347146f);
-							queue.add(0.7761027853921891f);
-							queue.add(0.8451376282298926f);
+						//LSTM 模型需要加载最后一个步子的数据。这里的time_step=5或4，根据行业进行初始化赋值
+						if(industry == 0) {
+							// 房地产业
+							if (p == 1) {
+								queue.add(0.19816204334991228f);
+								queue.add(0.5298361243503276f);
+								queue.add(0.8278919745347146f);
+								queue.add(0.7761027853921891f);
+								queue.add(0.8451376282298926f);
+							}
+							if (p == 2) {
+								queue.add(1.0000000000000002f);
+								queue.add(0.6170115960870924f);
+								queue.add(0.14256865261554458f);
+								queue.add(0.29564707980990373f);
+								queue.add(0.24449770080641547f);
+							}
+							if (p == 3) {
+								//偿债能力
+								queue.add(0.41456469726929257f);
+								queue.add(0.4520722419784474f);
+								queue.add(0.4257669281458468f);
+								queue.add(0.38015608366588005f);
+								queue.add(0.22595107727146024f);
+							}
+							if (p == 4) {
+								//经营能力
+								queue.add(0.31339307363088215f);
+								queue.add(0.44824200150085197f);
+								queue.add(0.5147971952368775f);
+								queue.add(0.6276184487903889f);
+								queue.add(0.7437064711475722f);							
+							}
 						}
-						if (p == 2) {
-							queue.add(1.0000000000000002f);
-							queue.add(0.6170115960870924f);
-							queue.add(0.14256865261554458f);
-							queue.add(0.29564707980990373f);
-							queue.add(0.24449770080641547f);
+						else if(industry == 1) {
+							// 汽车制造业
+							if (p == 1) {
+								//盈利能力
+								queue.add(0.005309106972699956f);
+								queue.add(0.017964620304506865f);
+								queue.add(0.010522664341723914f);
+								queue.add(0.07708688381904073f);
+								queue.add(0.12404379480776483f);
+							}
+							if (p == 2) {
+								//增长潜力
+								queue.add(0.5289412334715269f);
+								queue.add(0.5979844474658633f);
+								queue.add(0.6999709486969574f);
+								queue.add(0.8347285947436083f);
+								queue.add(1.0f);
+							}
+							if (p == 3) {
+								//偿债能力
+								queue.add(0.08734807357175484f);
+								queue.add(0.09320827401641069f);
+								queue.add(0.09054904797885172f);
+								queue.add(0.09009346566646964f);
+								queue.add(0.10916516358383527f);
+							}
+							if (p == 4) {
+								//经营能力
+								queue.add(0.046689006674815126f);
+								queue.add(0.45496030901966655f);
+								queue.add(0.4060541538247695f);
+								queue.add(0.6283080772620129f);
+								queue.add(1.0000000000000004f);							
+							}
+							
+							
 						}
-						if (p == 3) {
-							//偿债能力
-							queue.add(0.41456469726929257f);
-							queue.add(0.4520722419784474f);
-							queue.add(0.4257669281458468f);
-							queue.add(0.38015608366588005f);
-							queue.add(0.22595107727146024f);
+						else {
+							// 信息技术服务业
+							if (p == 1) {
+								queue.add(0.29779253432556524f);
+								queue.add(0.36821487965304195f);
+								queue.add(0.324054829090011f);
+								queue.add(0.32049502553047565f);
+								queue.add(0.34028191771712374f);
+							}
+							if (p == 2) {
+								queue.add(0.5774441281520573f);
+								queue.add(0.6564407020453682f);
+								queue.add(0.8380367071654036f);
+								queue.add(0.9696446018053202f);
+								queue.add(1.00f);
+							}
+							if (p == 3) {
+								//偿债能力
+								queue.add(0.5193504923273591f);
+								queue.add(0.9094569928331753f);
+								queue.add(1.0f);
+								queue.add(0.7627055083672278f);
+								queue.add(0.942012297857044f);
+							}
+							if (p == 4) {
+								//经营能力
+								queue.add(0.21604059991114966f);
+								queue.add(0.47621869554685503f);
+								queue.add(0.1781776109508435f);
+								queue.add(0.27378955517006887f);
+								queue.add(0.3645739565658097f);							
+							}						
+																					
 						}
-						if (p == 4) {
-							//经营能力
-							queue.add(0.31339307363088215f);
-							queue.add(0.44824200150085197f);
-							queue.add(0.5147971952368775f);
-							queue.add(0.6276184487903889f);
-							queue.add(0.7437064711475722f);							
-						}
-
 						float predValue = 0.0f;
 						// 根据预测年数进行循环
 						for (int i = 1; i <= time; i++) {
 							int n = 0;
 							float[][] a = null;
-							if(p==2) {
-								a = new float[3][queue.size()];
-							}else if(p==4){
-								a = new float[4][queue.size()];
+							// 根据不同batch_size 的大小调整二维数组行数
+							if(industry==0){
+								if(p==2) {
+									a = new float[3][queue.size()];
+								}else if(p==4){
+									a = new float[4][queue.size()];
+								}
+								else {
+									a = new float[5][queue.size()];
+								}
 							}
-							else {
-								a = new float[5][queue.size()];
-							}
+							else if(industry == 1)
+								a = new float[5][queue.size()];							
+							else
+								a = new float[4][queue.size()];							
 									
 							for (Iterator<Float> itr = queue.iterator(); itr
 									.hasNext();) {
@@ -459,15 +566,22 @@ public class PredictController extends Controller {
 							for (Tensor s : out) {
 								// 字符串数组，使用for(:)获得数据 ;根据模型时间 不的大小动态调整数组长度
 								float [][] t =null;
-								if(p==2)  {
-									 t = new float[3*queue.size()][1];
-								}else if(p==4){
-									t = new float[4*queue.size()][1];
+								// 房地产模型训练的batch-size不一致
+								if(industry==0) {
+									if(p==2)  {
+										 t = new float[3*queue.size()][1];
+									}else if(p==4){
+										t = new float[4*queue.size()][1];
+									}
+									else {
+										 t = new float[5*queue.size()][1];
+									}
 								}
-								else {
-									 t = new float[5*queue.size()][1];
-								}
-								s.copyTo(t);
+								else if(industry==1)
+									t = new float[5*queue.size()][1];
+								else 
+									 t = new float[4*queue.size()][1];
+																																																s.copyTo(t);
 								for (float pred : t[4]) {
 									// 必须经过转化后才可得到真实预测值
 									predValue = pred * (max - min) + min;
@@ -771,7 +885,7 @@ public class PredictController extends Controller {
 
 				}
 
-			}
+
 		}
 
 	}
