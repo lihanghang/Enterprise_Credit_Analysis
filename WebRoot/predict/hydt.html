@@ -396,7 +396,7 @@
 												class="form-control" id="predIndex">
 												<option value="0">财务风险(预测2016年后，按年预测)</option>
 												<option value="1">市场风险(预测2017年10月31后，间隔4个月)</option>
-												<option  disabled="disabled" value="2">区域投资潜力(预测2015年以后，按年预测)</option>
+												<option value="2">(仅限房地产行业使用)区域投资潜力(预测2015年以后，按年预测)</option>
 												<option value="3">合成指数(预测2017年10月31后，间隔4个月)</option>
 												<option value="4">扩散指数(预测2017年10月31后，间隔4个月)</option>
 											</select>
@@ -459,10 +459,16 @@
     var sum = function(x,y){ return x+y};　　//求和函数
     var square = function(x){ return x*x};　　//数组中每个元素求它的平方
 
+   //如果不为房地产行业则设置区域投资潜力功能不可用  	20181022	
+    $('#industry').change(function(){
+    	var val = $('#industry').val();
+    	if(val!=0){   		
+            $("#predIndex option[value=2]").attr("disabled",true);
+    	}else
+    		 $("#predIndex option[value=2]").attr("disabled",false);
+    	})   
 
-    
-    
-    
+    	
 // 实现财务风险请求代码。201809010@Mason.
 $('#Es3AndLstmBtn').click(function(){
     var industryVal = $("#industry").val(); //获取Select选择的Value
@@ -616,6 +622,30 @@ $.ajax({
 	        "【同步】"+data['tbIndex']+'<br />'+
 	        "【领先】"+data['leadIndex']+'<br />'+
 	        "【滞后】"+data['lagIndex']+'<br />'       	         	       	   
+           }    
+       }
+       
+       // 区位因子，仅房地产行业
+       if(predIndexVal == 2){
+    	   // 三次指数平滑法
+    	   if(ModelTypeVal==0) { 
+           //扩散指数预测值
+           tb = data['tb']
+           lead = data['lead']
+           lag = data['lag']
+           element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
+           "【同步】"+tb.slice(-predTimeVal)+'<br />'+
+           "【领先】"+lead.slice(-predTimeVal)+'<br />'+
+           "【滞后】"+lag.slice(-predTimeVal)+'<br />'
+           }else{
+        	   
+       	    //区位投资潜力指数预测值，长短期记忆网络
+	        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的区域投资潜力结果如下：<br />"+
+	        "【区位因子】"+data['zoneIndex']+'<br />'+
+	        "【经济因子】"+data['financialIndex']+'<br />'+
+	        "【人口因子】"+data['pepoleIndex']+'<br />'+  
+	        "【市场供需因子】"+data['marktIndex']+'<br />'+  
+	        "【投资潜力因子】"+data['investIndex']+'<br />'
            }    
        }
            

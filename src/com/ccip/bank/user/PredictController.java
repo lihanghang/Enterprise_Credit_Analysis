@@ -650,12 +650,143 @@ public class PredictController extends Controller {
 							"debtIndex", "businessIndex" });			
 			}
 				
-				// 房地产行业
+				if(Index==2){
+					//房地产行业投资潜力 20181022  区位因子、经济因子、人口因子、市场供需因子、房地产投资潜力
+					String inputIndex = dataSetPrex + "hydt/Zone-Invester_data.txt"; //  区位因子训练数据
+					// save result val
+					Deque<Float> predQueQ = new ArrayDeque<Float>();
+					Deque<Float> predQueJ = new ArrayDeque<Float>();
+					Deque<Float> predQueR = new ArrayDeque<Float>();
+					Deque<Float> predQueS = new ArrayDeque<Float>();
+					Deque<Float> predQueI = new ArrayDeque<Float>();
+					for (int p = 0; p < 5; p++) {
+						MinMax minMaxs = new MinMax();
+						Object[] Result = null;
+						Results = minMaxs.MinMaxScaler(2, inputIndex, p + 1); 
+						MWNumericArray outputMin = null;
+						MWNumericArray outputMax = null;
+						outputMin = (MWNumericArray) Results[0];
+						outputMax = (MWNumericArray) Results[1];
+						float min = outputMin.getFloat(1);
+						float max = outputMax.getFloat(1);
+						System.out.println(min+"******"+max);
+						// 加载LSTM训练模型
+						SavedModelBundle SB = null;
+						SB = SavedModelBundle.load(modelPathPrex+ "/hydt/Zone_Invest/model_" + (p+1),"mytag");
+						Session tfSession = SB.session();
+						Operation operationPredict = SB.graph().operation(
+								"rnn/preds"); // 要执行的op
+						Output outputs = new Output(operationPredict, 0);
+
+						// 初始化队列元素，即训练数据最后一列
+						Deque<Float> queue = new ArrayDeque<Float>();
+						// save result val
+						Deque<Float> predQue = new ArrayDeque<Float>();
+					
+						if (p == 0) {
+							queue.add(0.5034819009932718f);
+							queue.add(0.0f);
+							queue.add(0.8536570678678572f);
+							queue.add(0.8106905006321554f);
+							queue.add(0.7581823170504194f);
+						}
+						if (p == 1) {
+							queue.add(0.3966452719522806f);
+							queue.add(0.3695221140090297f);
+							queue.add(0.5277861561816763f);
+							queue.add(0.473322827982102f);
+							queue.add(0.53795979197902f);
+						}
+						if (p == 2) {
+							queue.add(0.40203175841838856f);
+							queue.add(0.5284635009890621f);
+							queue.add(0.6301238668347366f);
+							queue.add(0.7800377679586603f);
+							queue.add(0.8259661953024278f);
+						}
+						if (p == 3) {
+							queue.add(0.4764315530085952f);
+							queue.add(0.38087158836624724f);
+							queue.add(0.5420147211563773f);
+							queue.add(0.0f);
+							queue.add(0.9344236224474969f);							
+						}
+						if (p == 4) {
+							queue.add(0.4172190978402597f);
+							queue.add(0.0f);
+							queue.add(0.7717069455450343f);
+							queue.add(0.6744452686357363f);
+							queue.add(0.7808614481845808f);							
+						}
+
+
+						float predValue = 0.0f;
+						// 根据预测年数进行循环
+						for (int i = 1; i <= time; i++) {
+							int n = 0;
+							float[][] a = new float[5][5];
+							for (Iterator<Float> itr = queue.iterator(); itr
+									.hasNext();) {
+								a[0][n] = itr.next();
+								n++;
+							}
+							Tensor input_x = Tensor.create(a);
+							List<Tensor<?>> out = tfSession.runner()
+									.feed("inputs", input_x).fetch(outputs)
+									.run();
+							for (Tensor s : out) {
+								// 字符串数组，使用for(:)获得数据
+								float[][] t = new float[25][1];
+								s.copyTo(t);
+								for (float pred : t[4]) {
+									// 必须经过转化后才可得到真实预测值
+									predValue = pred * (max - min) + min;
+									queue.remove();// 队首元素出队
+									queue.add(pred);
+								}
+							}
+							if (p == 0) {
+								predQueQ.add(predValue);								
+							}
+							if (p == 1)
+								predQueJ.add(predValue);
+							if (p == 2)
+								predQueR.add(predValue);
+							if (p == 3)
+								predQueS.add(predValue);
+							if (p == 4)
+								predQueI.add(predValue);
+						}
+
+					}
+					setAttr("zoneIndex", predQueQ);
+					setAttr("financialIndex", predQueJ);
+					setAttr("peopleIndex", predQueR);
+					setAttr("marketIndex", predQueS);
+					setAttr("investIndex", predQueI);	
+					// 返回区位指数预测结果
+					renderJson(new String[] { "zoneIndex", "financialIndex",
+							"peopleIndex","marketIndex" , "investIndex" });
+				}
+				
+				
+				/**
+				 * 计算合成指数以及市场预警
+				 */
 				if (Index == 3 || Index == 1) {
 					// 景气指数中的合成指数：领先、同步、滞后、HPY
 					// 接收数据的最大、最小值
-					String inputIndex = dataSetPrex
-							+ "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
+					String inputIndex;
+					if(industry == 0 )
+						inputIndex = dataSetPrex
+								+ "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
+					else if(industry == 1)
+						inputIndex = dataSetPrex
+								+ "hydt/JingQiIndex/car_JingQi_finall_Index.txt"; // 汽车制造业
+					else 
+						inputIndex = dataSetPrex
+								+ "hydt/JingQiIndex/info_JingQi_finall_Index.txt"; // 信息技术服务业
+					
 
 					// 存储预警预测结果偏冷、偏热线等
 					MWNumericArray predIn = MWNumericArray.newInstance(
@@ -670,19 +801,25 @@ public class PredictController extends Controller {
 					for (int p = 0; p < 4; p++) {
 						MinMax minMaxs = new MinMax();
 						Object[] Result = null;
-						Results = minMaxs.MinMaxScaler(2, inputIndex, p + 1); // 领先指数
+						Results = minMaxs.MinMaxScaler(2, inputIndex, p + 1); 
 						MWNumericArray outputMin = null;
 						MWNumericArray outputMax = null;
 						outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
 						outputMax = (MWNumericArray) Results[1];
 						float min = outputMin.getFloat(1);
 						float max = outputMax.getFloat(1);
-
+					System.out.println(min+"******"+max);
 						// 加载LSTM训练模型
-						SavedModelBundle SB = SavedModelBundle.load(
-								modelPathPrex
-										+ "/hydt/JingQi_MarketRisk/model_" + p,
-								"mytag");
+						SavedModelBundle SB = null;
+						if(industry==0)
+							//房地产
+							SB = SavedModelBundle.load(modelPathPrex+ "/hydt/JingQi_MarketRisk/model_" + p,"mytag");
+						else if(industry==1)
+							//汽车制造业
+							SB = SavedModelBundle.load(modelPathPrex+ "/hydt/JingQi_MarketRisk/carIndustry_hecheng/model_" + (p+1),"mytag");
+						else 
+							//信息技术服务业
+							SB = SavedModelBundle.load(modelPathPrex+ "/hydt/JingQi_MarketRisk/InfoIndustry_hecheng/model_" + (p+1),"mytag");
 						Session tfSession = SB.session();
 						Operation operationPredict = SB.graph().operation(
 								"rnn/preds"); // 要执行的op
@@ -692,34 +829,99 @@ public class PredictController extends Controller {
 						Deque<Float> queue = new ArrayDeque<Float>();
 						// save result val
 						Deque<Float> predQue = new ArrayDeque<Float>();
-						if (p == 0) {
-							queue.add(0.2984940142146755f);
-							queue.add(0.29307985123528013f);
-							queue.add(0.24918521130146942f);
-							queue.add(0.200000000000000f);
-							queue.add(0.219999999999999f);
+						if(industry==0){
+							if (p == 0) {
+								queue.add(0.2984940142146755f);
+								queue.add(0.29307985123528013f);
+								queue.add(0.24918521130146942f);
+								queue.add(0.200000000000000f);
+								queue.add(0.219999999999999f);
+							}
+							if (p == 1) {
+								queue.add(0.6238169157899023f);
+								queue.add(0.5651990667341238f);
+								queue.add(0.5624293086506924f);
+								queue.add(0.388888888888883f);
+								queue.add(0.388888888888883f);
+							}
+							if (p == 2) {
+								queue.add(0.6918663566556589f);
+								queue.add(0.7156781310964391f);
+								queue.add(0.7546369272327169f);
+								queue.add(0.842105263157896f);
+								queue.add(0.842105263157896f);
+							}
+							if (p == 3) {
+								queue.add(0.5214401294498372f);
+								queue.add(0.528317152103559f);
+								queue.add(0.4591423948220066f);
+								queue.add(0.335355987055016f);
+								queue.add(0.260922330097087f);
+	
+							}
 						}
-						if (p == 1) {
-							queue.add(0.6238169157899023f);
-							queue.add(0.5651990667341238f);
-							queue.add(0.5624293086506924f);
-							queue.add(0.388888888888883f);
-							queue.add(0.388888888888883f);
+						else if(industry==1){
+							
+							if (p == 0) {
+								queue.add(0.4460945695182543f);
+								queue.add(0.43913349957875614f);
+								queue.add(0.4095382164179924f);
+								queue.add(0.3798646738803928f);
+								queue.add(0.3733876155864815f);
+							}
+							if (p == 1) {
+								queue.add(0.4527227017782476f);
+								queue.add(0.43920300972164483f);
+								queue.add(0.41016213030265636f);
+								queue.add(0.356547865182927f);
+								queue.add(0.28525093346891417f);
+							}
+							if (p == 2) {
+								queue.add(0.5055565763555769f);
+								queue.add(0.518219790224312f);
+								queue.add(0.5530845496738501f);
+								queue.add(0.6043849001687551f);
+								queue.add(0.6553420475990008f);
+	
+							}
+							if (p == 3) {
+								queue.add(0.5877549927321404f);
+								queue.add(0.5492435238582516f);
+								queue.add(0.5998436302330328f);
+								queue.add(0.4072047737560771f);
+								queue.add(0.4895928188069121f);
+							}
 						}
-						if (p == 2) {
-							queue.add(0.6918663566556589f);
-							queue.add(0.7156781310964391f);
-							queue.add(0.7546369272327169f);
-							queue.add(0.842105263157896f);
-							queue.add(0.842105263157896f);
-						}
-						if (p == 3) {
-							queue.add(0.5214401294498372f);
-							queue.add(0.528317152103559f);
-							queue.add(0.4591423948220066f);
-							queue.add(0.335355987055016f);
-							queue.add(0.260922330097087f);
-
+						else{
+							if (p == 0) {
+								queue.add(0.7368284536084291f);
+								queue.add(0.7365417620037613f);
+								queue.add(0.7892224485723158f);
+								queue.add(0.3047849435529546f);
+								queue.add(0.14986361940020565f);
+							}
+							if (p == 1) {
+								queue.add(0.4819416001954471f);
+								queue.add(0.5003112368493721f);
+								queue.add(0.5223679765030118f);
+								queue.add(1.0f);
+								queue.add(0.9006658025669303f);
+							}
+							if (p == 2) {
+								queue.add(0.1685043237449122f);
+								queue.add(0.1430724208754608f);
+								queue.add(0.0439064751257785f);
+								queue.add(0.0f);
+								queue.add(0.3400425918386638f);
+							}
+							if (p == 3) {
+								queue.add(0.6301653951142914f);
+								queue.add(0.49866001029393736f);
+								queue.add(0.0f);
+								queue.add(1.0f);
+								queue.add(0.6556335855601638f);
+	
+							}
 						}
 
 						float predValue = 0.0f;
@@ -787,10 +989,20 @@ public class PredictController extends Controller {
 								"lagIndex", "hpyIndex" });
 				}
 
+				
+				
+				
 				// 扩散指数：领先、同步、滞后 at 20181011 by HangHang Lee
 				if (Index == 4) {
-					String inputIndex = dataSetPrex
-							+ "hydt/JingQiIndex/JingQi_diffusion_finall_Index.txt"; // 房地产市场扩散指数最终指标
+					String inputIndex;
+					if(industry==0)
+						inputIndex = dataSetPrex + "hydt/JingQiIndex/JingQi_diffusion_finall_Index.txt"; // 房地产市场扩散指数最终指标
+					else if(industry==1)
+						inputIndex = dataSetPrex + "hydt/JingQiIndex/car_JingQi_diffusion_finall_Index.txt"; // 汽车制造业市场扩散指数最终指标
+					else
+						inputIndex = dataSetPrex + "hydt/JingQiIndex/info_JingQi_diffusion_finall_Index.txt"; // 信息技术服务业市场扩散指数最终指标
+
+
 					// save result val
 					Deque<Float> predQueL = new ArrayDeque<Float>();
 					Deque<Float> predQueT = new ArrayDeque<Float>();
@@ -807,10 +1019,20 @@ public class PredictController extends Controller {
 						float max = outputMax.getFloat(1);
 						System.out.println(min + "*****" + max);
 						// 加载LSTM训练模型
-						SavedModelBundle SB = SavedModelBundle
-								.load(modelPathPrex
+						SavedModelBundle SB = null;
+						if(industry==0)
+							SB = SavedModelBundle.load(modelPathPrex
 										+ "/hydt/JingQi_MarketRisk/diffusionIndex/model_"
 										+ p, "mytag");
+						else if(industry==1)
+							SB = SavedModelBundle.load(modelPathPrex
+									+ "/hydt/JingQi_MarketRisk/car_diffusion/model_"
+									+ (p+1), "mytag");
+						else 
+							SB = SavedModelBundle.load(modelPathPrex
+									+ "/hydt/JingQi_MarketRisk/Info_diffusion/model_"
+									+ (p+1), "mytag");
+						
 						Session tfSession = SB.session();
 						Operation operationPredict = SB.graph().operation(
 								"rnn/preds"); // 要执行的op
@@ -818,34 +1040,88 @@ public class PredictController extends Controller {
 
 						// 初始化队列元素，即训练数据最后一列
 						Deque<Float> queue = new ArrayDeque<Float>();
-
-						if (p == 0) {
-							queue.add(0.6366279069767441f);
-							queue.add(0.7267441860465116f);
-							queue.add(0.1816860465116279f);
-							queue.add(0.5450581395348837f);
-							queue.add(0.5450581395348837f);
+						if(industry==0){
+							if (p == 0) {
+								queue.add(0.6366279069767441f);
+								queue.add(0.7267441860465116f);
+								queue.add(0.1816860465116279f);
+								queue.add(0.5450581395348837f);
+								queue.add(0.5450581395348837f);
+							}
+							if (p == 1) {
+								queue.add(0.400520156046814f);
+								queue.add(0.5006501950585175f);
+								queue.add(0.5006501950585175f);
+								queue.add(0.1001300390117035f);
+								queue.add(0.400520156046814f);
+							}
+							if (p == 2) {
+								queue.add(0.42857142857142855f);
+								queue.add(0.5714285714285714f);
+								queue.add(0.6422857142857143f);
+								queue.add(0.2857142857142857f);
+								queue.add(0.2137142857142857f);
+							}
 						}
-						if (p == 1) {
-							queue.add(0.400520156046814f);
-							queue.add(0.5006501950585175f);
-							queue.add(0.5006501950585175f);
-							queue.add(0.1001300390117035f);
-							queue.add(0.400520156046814f);
+						else if(industry==1){
+							//汽车制造业  领先 同步 滞后 HPY
+							if (p == 0) {
+								queue.add(0.8571428571428571f);
+								queue.add(0.8571428571428571f);
+								queue.add(0.2857142857142857f);
+								queue.add(0.42857142857142855f);
+								queue.add(1.0f);
+							}
+							if (p == 1) {
+								queue.add(0.6666666666666666f);
+								queue.add(1.0f);
+								queue.add(0.6666666666666666f);
+								queue.add(0.3333333333333333f);
+								queue.add(0.3333333333333333f);
+							}
+							if (p == 2) {
+								queue.add(1.0f);
+								queue.add(0.8888888888888891f);
+								queue.add(0.555555555555555f);
+								queue.add(1.0f);
+								queue.add(0.8888888888888891f);
+							}
 						}
-						if (p == 2) {
-							queue.add(0.42857142857142855f);
-							queue.add(0.5714285714285714f);
-							queue.add(0.6422857142857143f);
-							queue.add(0.2857142857142857f);
-							queue.add(0.2137142857142857f);
+						else{
+							// 信息技术服务业
+							if (p == 0) {
+								queue.add(0.33333333333333337f);
+								queue.add(0.6666666666666667f);
+								queue.add(0.6666666666666667f);
+								queue.add(0.8333333333333334f);
+								queue.add(0.33333333333333337f);
+							}
+							if (p == 1) {
+								queue.add(0.33333333333333337f);
+								queue.add(0.33333333333333337f);
+								queue.add(0.8333333333333334f);
+								queue.add(0.0f);
+								queue.add(0.33333333333333337f);
+							}
+							if (p == 2) {
+								queue.add(0.5f);
+								queue.add(0.16666666666666666f);
+								queue.add(0.5f);
+								queue.add(0.5f);
+								queue.add(0.5f);
+							}
 						}
 
 						float predValue = 0.0f;
 						// 根据预测年数进行循环
 						for (int i = 1; i <= time; i++) {
 							int n = 0;
-							float[][] a = new float[5][5];
+							
+							float[][] a = null;
+							if(industry==0 || industry==2)
+								a = new float[5][5];
+							else if(industry==1)
+								a = new float[2][5];
 							for (Iterator<Float> itr = queue.iterator(); itr
 									.hasNext();) {
 								a[0][n] = itr.next();
@@ -857,7 +1133,11 @@ public class PredictController extends Controller {
 									.run();
 							for (Tensor s : out) {
 								// 字符串数组，使用for(:)获得数据
-								float[][] t = new float[25][1];
+								float[][] t = null;
+								if(industry==0 || industry==2)
+									t = new float[5*queue.size()][1];
+								if(industry==1)
+									t = new float[2*queue.size()][1];
 								s.copyTo(t);
 								for (float pred : t[4]) {
 									// 必须经过转化后才可得到真实预测值
@@ -879,16 +1159,18 @@ public class PredictController extends Controller {
 					setAttr("leadIndex", predQueL);
 					setAttr("tbIndex", predQueT);
 					setAttr("lagIndex", predQueZ);
-					// 返回合成指数预测结果
+					// 返回扩散指数预测结果
 					renderJson(new String[] { "leadIndex", "tbIndex",
 							"lagIndex" });
 
+
+				}
 				}
 
 
 		}
 
-	}
+	
 
 	// 房地产合成指数数据0326
 	public void getCI() {
