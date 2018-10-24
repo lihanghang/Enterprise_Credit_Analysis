@@ -152,7 +152,7 @@ var kytr_data =  $('#kytr_data').serialize();
  $.ajax({
         cache:true,//保留缓存数据
         type:"POST",//为post请求
-        url:"./kytr_model",//请求后台方法并接受模型返回数据
+        url:"./MemoryNetModel",//请求后台方法并接受模型返回数据
         data:kytr_data,//将该表单序列化
         //async: false,
         error:function(request){//请求失败之后的操作

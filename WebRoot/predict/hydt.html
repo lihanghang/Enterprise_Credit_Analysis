@@ -459,13 +459,16 @@
     var sum = function(x,y){ return x+y};　　//求和函数
     var square = function(x){ return x*x};　　//数组中每个元素求它的平方
 
-   //如果不为房地产行业则设置区域投资潜力功能不可用  	20181022	
+   
     $('#industry').change(function(){
     	var val = $('#industry').val();
+    	var all_options = document.getElementById("predIndex").options;
+    	//如果不为房地产行业则设置区域投资潜力功能不可用  	20181022	
     	if(val!=0){   		
-            $("#predIndex option[value=2]").attr("disabled",true);
+    		all_options[2].disabled=true
     	}else
-    		 $("#predIndex option[value=2]").attr("disabled",false);
+    		all_options[2].disabled=false
+    	 	all_options[0].selected=true
     	})   
 
     	
@@ -630,21 +633,20 @@ $.ajax({
     	   // 三次指数平滑法
     	   if(ModelTypeVal==0) { 
            //扩散指数预测值
-           tb = data['tb']
-           lead = data['lead']
-           lag = data['lag']
-           element.innerHTML= "您预测了【"+predTimeVal+"】个季度的扩散指数结果如下：<br />"+
-           "【同步】"+tb.slice(-predTimeVal)+'<br />'+
-           "【领先】"+lead.slice(-predTimeVal)+'<br />'+
-           "【滞后】"+lag.slice(-predTimeVal)+'<br />'
-           }else{
-        	   
+    		   //区位投资潜力指数预测值，长短期记忆网络
+   	        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的区域投资潜力结果如下：<br />"+
+   	        "【区位因子】"+data['zone']+'<br />'+
+   	        "【经济因子】"+data['financial']+'<br />'+
+   	        "【人口因子】"+data['people']+'<br />'+  
+   	        "【市场供需因子】"+data['market']+'<br />'+  
+   	        "【投资潜力因子】"+data['invest']+'<br />'
+           }else{       	   
        	    //区位投资潜力指数预测值，长短期记忆网络
 	        element.innerHTML= "您预测了【"+predTimeVal+"】个季度的区域投资潜力结果如下：<br />"+
 	        "【区位因子】"+data['zoneIndex']+'<br />'+
 	        "【经济因子】"+data['financialIndex']+'<br />'+
-	        "【人口因子】"+data['pepoleIndex']+'<br />'+  
-	        "【市场供需因子】"+data['marktIndex']+'<br />'+  
+	        "【人口因子】"+data['peopleIndex']+'<br />'+  
+	        "【市场供需因子】"+data['marketIndex']+'<br />'+  
 	        "【投资潜力因子】"+data['investIndex']+'<br />'
            }    
        }

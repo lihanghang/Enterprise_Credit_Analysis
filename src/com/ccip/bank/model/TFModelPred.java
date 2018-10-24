@@ -12,6 +12,8 @@ import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
 
 import org.tensorflow.Graph;
 import org.tensorflow.Operation;
+import org.tensorflow.Output;
+import org.tensorflow.SavedModelBundle;
 import org.tensorflow.Session;
 import org.tensorflow.Tensor;
 import org.tensorflow.TensorFlow;
@@ -26,17 +28,14 @@ import com.csvreader.CsvReader;
 public class TFModelPred {
 
 	/**
-	 * 信用等级预测模型数据处理过程
+	 * @deprecated 信用等级预测模型数据处理过程
 	 * @param data
 	 * @return grade
 	 * @throws IOException 
 	 * @throws NumberFormatException 
 	 */
 	public float CreditGrade(String ModelPath, String DataPath) throws NumberFormatException, IOException
-	{
-		
-		
-		
+	{		
 		// 加载模型 信用等级
 		System.out.println(ModelPath);
 		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(ModelPath,"index_type");
@@ -74,7 +73,7 @@ public class TFModelPred {
 	
 	
 	/**
-	 * 企业风险等级评估模型数据处理过程0905
+	 * @deprecated 企业风险等级评估模型数据处理过程0905
 	 * @throws IOException 
 	 * @throws FileNotFoundException 
 	 * @author Mason
@@ -98,7 +97,30 @@ public class TFModelPred {
 	            }
 	        }
 		return predValue;
-	}	
+	}
+	
+	
+	
+	/**
+	 * 
+	 *@deprecated 基于记忆网络的企业科研投入推荐模型数据处理过程
+	 *@author Mason
+	 *@param modelPath
+	 *@param inputVal
+	 *@data 20181024
+	 *@return predValue
+	 *
+	 */
+	public long KnowledgePredict(String modelPath, float [] inputVal){
+		long predValue = 0;
+		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(modelPath,	"mytag"); // 加载模型
+		tfi.feed("inputs", inputVal, 1, 9);  //数据传入网络
+		tfi.run(new String[] { "pred" }, false); // 输出张量
+		long [] outPuts = new long [1];   // 预测分类结果
+		tfi.fetch("pred", outPuts); 
+		predValue = outPuts[0]; 
+		return predValue;	
+	}
 	
 }
 

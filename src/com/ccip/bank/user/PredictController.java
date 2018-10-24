@@ -40,6 +40,8 @@ import JingQi.*;
 import KS_Index.KS;
 import MinMaxScaler.MinMax;
 import Risk.testRisk;
+import Zone_ES3.ZoneInvest;
+import Zone_ES3.Zone_ES3MCRFactory;
 
 import com.ccip.bank.bean.CNNbusinessBean;
 import com.ccip.bank.bean.ScienceInvest;
@@ -243,8 +245,38 @@ public class PredictController extends Controller {
 				}
 			}
 			if (Index == 2) {
-				// 区域投资潜力
-				// …………………………………………
+				// 区域投资潜力 三次指数平滑法 20181023 	
+				// 加载模型、加载房地产区位投资潜力指数
+				ZoneInvest model = new ZoneInvest();
+				input = dataSetPrex
+						+ "/hydt/Zone-Invester_data.txt";
+				Results = model.Zone_ES3(5, input, time, 0.5, 0.5, 0.5);
+				output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+				output2 = (MWNumericArray) Results[1];
+				output3 = (MWNumericArray) Results[2];
+				output4 = (MWNumericArray) Results[3];
+				output5 = (MWNumericArray) Results[4];
+				int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
+				float[] myList1 = new float[res.length],
+						myList2 = new float[res.length], 
+						myList3 = new float[res.length], 
+						myList4 = new float[res.length],
+						myList5 = new float[res.length];
+				for (int i = 0; i < res.length; i++) {
+					myList1[i] = output1.getFloat(i + 1); // 区位
+					myList2[i] = output2.getFloat(i + 1); // 经济
+					myList3[i] = output3.getFloat(i + 1); // 人口
+					myList4[i] = output4.getFloat(i + 1); // 市场
+					myList5[i] = output5.getFloat(i + 1); // 潜力
+
+				}
+				setAttr("zone", myList1);
+				setAttr("financial", myList2);
+				setAttr("people", myList3);
+				setAttr("market", myList4);
+				setAttr("invest", myList5);
+				renderJson(new String[] { "zone", "financial", "people", "market","invest" });
+		
 			}
 			if (Index == 3 || Index == 1) {
 				// 合成指数 市场预警基于合成指数中的领先指数预测值
@@ -1573,7 +1605,36 @@ public class PredictController extends Controller {
 		// lst.add(scale.getFloat());
 		// renderJson("ret",lst);
 	}
-
+	/**
+	 * 企业科研投入，基于深度学习技术：记忆网络的实现
+	 * @return grade
+	 * @date 20181023
+	 * @author Mason
+	 * 
+	 */
+	public  void MemoryNetModel(){
+		
+		long predVal = 0;
+		ScienceInvest paraBean = getBean(ScienceInvest.class); // 接收前台数据
+		float[] inputVal = new float[9];
+		inputVal[0] = (float) paraBean.getSci_invest();
+		inputVal[1] = (float) (paraBean.getSci_invest() / paraBean.getReceipt_num()); //营业收入占比
+		inputVal[2] = (paraBean.getEdu_num() / paraBean.getWork_num()); //本科及以上学历占总人数比例
+		inputVal[3] = (paraBean.getSoft_num());
+		inputVal[4] = paraBean.getPatent_num();
+		inputVal[5] = paraBean.getBrand_num();
+		inputVal[6] = paraBean.getWorks_num();
+		inputVal[7] = paraBean.getWeb_num();
+		inputVal[8] = (float) paraBean.getProfit_num();
+		TFModelPred tm = new TFModelPred(); // 加载模型处理函数
+		String modelPath = modelPathPrex + "kytr/pred-model.pb";
+		predVal = tm.KnowledgePredict(modelPath, inputVal);	
+		renderJson(predVal);
+		
+	}
+	
+		
+	
 	// 贷后预警页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyj() {
@@ -1723,6 +1784,7 @@ public class PredictController extends Controller {
 		for (int i = 0; i < pred.length; i++) {
 			test[i] = (float) pred[i];
 		}
+		System.out.println(test);
 		TFModelPred tm = new TFModelPred();
 		String modelPath = modelPathPrex + "Risk/LD.pb";
 		float predValue = tm.RiskGrade(test, modelPath);
@@ -1784,7 +1846,8 @@ public class PredictController extends Controller {
 				(float) paraBean.getInventoryTurnover(),
 				(float) paraBean.getTotalAssetTurnover(),
 				(float) paraBean.getCostProfitMargin() };
-		System.err.println(predData);
+		// 预测数据预处理与结果值转化 20181023
+		
 		TFModelPred tm = new TFModelPred();
 		String modelPath = modelPathPrex + "Risk/经营力.pb";
 		float predValue = tm.RiskGrade(predData, modelPath);

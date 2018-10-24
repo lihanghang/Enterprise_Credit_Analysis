@@ -17,6 +17,7 @@ import org.tensorflow.Session;
 import org.tensorflow.Tensor;
 import org.tensorflow.TensorFlow;
 
+import com.ccip.bank.utils.TensorFlowInferenceInterface;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
 
@@ -40,7 +41,7 @@ public static void main(String[] args) throws FileNotFoundException, IOException
 	/**
 	 * 信用模型调用
 	 */
-	//TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface("D://java-project/enterpriseInfo/TFModel/hydt/mnist.pb","dataType");
+//TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(System.getProperty("user.dir")+"/TFModel/kytr/pred-model.pb","mytag");
 	
 //	final Operation operation = tfi.graphOperation("cnn");
 	// 加载预测数据
@@ -113,92 +114,105 @@ public static void main(String[] args) throws FileNotFoundException, IOException
 	 * 行业动态模型 0930
 	*/
 	
-	// 接收数据的最大、最小值
-	String dataSetPrex = "D://java-project/Enterprise_Credit_Analysis/datasets/";
-	String input = dataSetPrex + "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
-	   
-	//四个指标对应四个模型\
-	// save result val
-    Deque<Float> predQueL = new ArrayDeque<Float>();
-    Deque<Float> predQueT = new ArrayDeque<Float>();
-    Deque<Float> predQueZ = new ArrayDeque<Float>();
-    Deque<Float> predQueH = new ArrayDeque<Float>();
-	for(int p = 0;p<4;p++) {
-		System.out.println(p);
-		MinMax minMaxs = new MinMax();
-		Object[] Results = null;
-		MWNumericArray output1 = null;
-		MWNumericArray output2 = null;
-		Results = minMaxs.MinMaxScaler(2,input, p+1); // 房地产市场	
-		output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
-		output2 = (MWNumericArray) Results[1];
-		float min = output1.getFloat(1);
-		float max = output2.getFloat(1);
-		
-		// 加载LSTM训练模型
-		SavedModelBundle SB = SavedModelBundle.load(System.getProperty("user.dir")+"/TFModel/hydt/JingQi/model_"+p, "mytag");
-	    Session tfSession = SB.session();
-	    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
-	    Output output = new Output(operationPredict, 0);
-	   
-	    // 初始化队列元素，即训练数据最后一列
-	    Deque<Float> queue = new ArrayDeque<Float>();
-	    
-	    queue.add(0.36838878151817056f);
-	    queue.add(0.356056079868992f);
-	    queue.add(0.17894615254532198f);
-	    queue.add(0.3162584205955916f);
-	    queue.add(0.23352082722628964f);
-	    
-	    float predValue = 0.0f;
-	    // 根据预测年数进行循环   
-	    for(int i =1;i<=2; i++) {
-		    	int n = 0;
-		    	float[][] a = new float[5][5];
-		    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
-		    	a[0][n] = itr.next();
-		    	n++;
-		    	}
-		    Tensor input_x = Tensor.create(a); 
-		    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(output).run();        
-		    for (Tensor s : out) {   
-		    	// 字符串数组，使用for(:)获得数据
-		    	float[][] t = new float[25][1];  
-		    	s.copyTo(t);     
-		    	for (float pred : t[4]) {
-		    		// 必须经过转化后才可得到真实预测值
-		    		System.out.println(pred);
-					predValue = pred*(max-min)+min;
-		    		queue.remove();//队首元素出队
-		    	    queue.add(pred);
-		    	}
-		    }
-		  if(p==0)
-		    predQueL.add(predValue);
-		  if(p==1)
-			predQueT.add(predValue);
-		  if(p==2)
-			predQueZ.add(predValue);
-		  if(p==3)
-			predQueH.add(predValue);
-	  }
-	    System.out.println("最终预测值为："+predQueL);
+//	// 接收数据的最大、最小值
+//	String dataSetPrex = "D://java-project/Enterprise_Credit_Analysis/datasets/";
+//	String input = dataSetPrex + "hydt/JingQiIndex/JingQi_finall_Index.txt"; // 房地产市场
+//	   
+//	//四个指标对应四个模型\
+//	// save result val
+//    Deque<Float> predQueL = new ArrayDeque<Float>();
+//    Deque<Float> predQueT = new ArrayDeque<Float>();
+//    Deque<Float> predQueZ = new ArrayDeque<Float>();
+//    Deque<Float> predQueH = new ArrayDeque<Float>();
+//	for(int p = 0;p<4;p++) {
+//		System.out.println(p);
+//		MinMax minMaxs = new MinMax();
+//		Object[] Results = null;
+//		MWNumericArray output1 = null;
+//		MWNumericArray output2 = null;
+//		Results = minMaxs.MinMaxScaler(2,input, p+1); // 房地产市场	
+//		output1 = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
+//		output2 = (MWNumericArray) Results[1];
+//		float min = output1.getFloat(1);
+//		float max = output2.getFloat(1);
+//		
+//		// 加载LSTM训练模型
+//		SavedModelBundle SB = SavedModelBundle.load(System.getProperty("user.dir")+"/TFModel/hydt/JingQi/model_"+p, "mytag");
+//	    Session tfSession = SB.session();
+//	    Operation operationPredict = SB.graph().operation("rnn/preds");   //要执行的op
+//	    Output output = new Output(operationPredict, 0);
+//	   
+//	    // 初始化队列元素，即训练数据最后一列
+//	    Deque<Float> queue = new ArrayDeque<Float>();
+//	    
+//	    queue.add(0.36838878151817056f);
+//	    queue.add(0.356056079868992f);
+//	    queue.add(0.17894615254532198f);
+//	    queue.add(0.3162584205955916f);
+//	    queue.add(0.23352082722628964f);
+//	    
+//	    float predValue = 0.0f;
+//	    // 根据预测年数进行循环   
+//	    for(int i =1;i<=2; i++) {
+//		    	int n = 0;
+//		    	float[][] a = new float[5][5];
+//		    	for(Iterator<Float> itr= queue.iterator();itr.hasNext();){
+//		    	a[0][n] = itr.next();
+//		    	n++;
+//		    	}
+//		    Tensor input_x = Tensor.create(a); 
+//		    List<Tensor<?>> out = tfSession.runner().feed("inputs", input_x).fetch(output).run();        
+//		    for (Tensor s : out) {   
+//		    	// 字符串数组，使用for(:)获得数据
+//		    	float[][] t = new float[25][1];  
+//		    	s.copyTo(t);     
+//		    	for (float pred : t[4]) {
+//		    		// 必须经过转化后才可得到真实预测值
+//		    		System.out.println(pred);
+//					predValue = pred*(max-min)+min;
+//		    		queue.remove();//队首元素出队
+//		    	    queue.add(pred);
+//		    	}
+//		    }
+//		  if(p==0)
+//		    predQueL.add(predValue);
+//		  if(p==1)
+//			predQueT.add(predValue);
+//		  if(p==2)
+//			predQueZ.add(predValue);
+//		  if(p==3)
+//			predQueH.add(predValue);
+//	  }
+//	    System.out.println("最终预测值为："+predQueL);
+//	}
+//
+
+
+	
+	/**
+	 *@discription 基于记忆网络的企业科研投入模型 
+	 *@data 181024
+	 *@return grade
+	 *
+	*/		
+	TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface
+					(
+					System.getProperty("user.dir")+"/TFModel/kytr/pred-model.pb",
+					"mytag"
+							); // 加载模型
+	System.out.println("您预测的科研投入等级为：\n");
+	float[] inputVal = new float[]{9.5667887e-01f, 2.1208158e-04f, 2.8952122e-01f, 3.1469699e-03f, 2.9371718e-02f,
+			 0.0000000e+00f, 8.3919195e-03f, 0.0000000e+00f, 0.0000000e+00f}; // 接收预测数据
+	tfi.feed("inputs", inputVal, 1, 9);  //数据传入网络
+	tfi.run(new String[] { "pred" }, false); // 输出张量
+	long [] outPuts = new long [1]; 
+	tfi.fetch("pred", outPuts);   // 接收预测分类结果
+	System.out.println(outPuts[0]); 
+	
 	}
 
-
-
-
-
-
-
-
-
-
-
-}
-
-
-    /**
+	
+  	/**
      * 0均值\标准差归一化 公式：X(norm) = (X - μ) / σ
      * X(norm) = (X - 均值) / 标准差
      *
