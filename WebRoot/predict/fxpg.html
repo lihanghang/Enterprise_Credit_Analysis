@@ -75,7 +75,8 @@
 														<div class="form-group">
 															<label for="firstname" class="col-sm-4 control-label">流动资产周转率</label>
 															<div class="col-sm-8">
-																<input type="text" name="financialRiskBean.flowAssertRate"
+																<input type="text"
+																	name="financialRiskBean.flowAssertRate"
 																	class="form-control" id="firstname"
 																	placeholder="请输入流动资产周转率">
 															</div>
@@ -1056,1199 +1057,1335 @@
 	#end
 
 	<script>
-//财务风险评估20180502
-$('#financialBtn').click(function(){	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.economy_form.elements.length-1;i++)
-    {
-     if(document.economy_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.economy_form.elements[i].focus();
-       return false;
-     }
- }	
-	//表单提交数据序列化
-	var financial_data =  $('#financial_risk').serialize();		
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./financial_risk_model",//请求后台方法并接受模型返回数据
-	        data:financial_data,//将该表单序列化
-	        //async: false,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#financialView").empty(); //加载前先清空结果信息
-	        	$("#financialView1").empty(); //加载前先清空结果信息
-	            //$("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	     
-	        success:function(data){
-	        	//$("#loading1").empty();
-	        	 //console.log(data);
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                });
-	        	 var firstlyIndex = data['firstlyIndex'];
-		        	var secondIndex = data['secondaryIndex'].split("    ");
-		        	console.log(secondIndex);
-		        	var percent = (firstlyIndex*100).toFixed(2);
-		        	//可视化
-		        	var data = secondIndex;
-		        	$("#financialView").html("<div id=\"financial_show\" style=\"width: 90%;height: 350px;\"></div>");
-		        	$("#financialView1").html("<div id=\"financial_show1\" style=\"width: 90%;height: 350px;\"></div>");
-		        	var financialChart = echarts.init(document.getElementById('financial_show'));
-		        	var financialChart1 = echarts.init(document.getElementById('financial_show1'));
-	        	option = {
-	        			
-	        		    /* title: {
-	        		        text: '财务风险评估分析'
-	        		    }, */
-	        		    tooltip: {
-	        		    	trigger: 'axis'
-	        		    },
-                        toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		   /*  legend: {
-	        		        data: ['财务风险指标']
-	        		    }, */
-	        		    radar: {
-	        		        // shape: 'circle',
-	        		        name: {
-	        		            textStyle: {
-	        		                color: '#fff',
-	        		                backgroundColor: '#999',
-	        		                borderRadius: 3,
-	        		                padding: [3, 5]
-	        		           }
-	        		        },
-	        		        indicator: [
-	        		           { name: '流动性', max: 1},
-	        		           { name: '筹资', max: 1},
-	        		           { name: '清偿', max: 1},
-	        		           { name: '成长力', max: 1}	        		        
-	        		        ],
-	        		        radius : 130 //半径，可放大放小雷达图
-	        		    },
-	        		    series: [{
-	        		    	name:{
-	                            show: true, // 是否显示文字
-	                            formatter: null, // 文字的显示形式
-	                            textStyle: {
-	                              color:'#a3a5b6' // 文字颜色
-	                            }
-	                          },
-	        		        type: 'radar',
-	        		        itemStyle: {
-	                            normal: {
-	                                lineStyle: {
-	                                    color :"#87cefa",
-	                                    width : 2
-	                                },
-	                                areaStyle: {
-	                                    color:"#fa610e",
-	                                    type: 'default'
-	                                },
-	                                splitLine : {
-	                                    show : true,
-	                                    lineStyle : {
-	                                        width : 1,
-	                                        color : '#286fbb' // 图表背景网格线的颜色
-	                                    }
-	                                },
-	                                splitArea : {
-	                                    show : true,   
-	                                    areaStyle : {
-	                                        color: ["#2a4a93"]  // 图表背景网格的颜色
-	                                    }
-	                                },
-	                            }
-	                        },
-	                        symbolSize :10,
-	        		        // areaStyle: {normal: {}},
-	        		        data : [
-	        		            {
-	        		                value : data,
-	        		                name : '风险指数',
-	        		                label: {
-	        		                    normal: {
-	        		                        show: true,
-	        		                        formatter:function(params) {
-	        		                            return params.value;
-	        		                        }
-	        		                    }
-	        		                }
-	        		            }
-	        		        ]
-	        		    }]
-	        		};    	
-	        	
-	        	option_index = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
-	        		    },
-	        		    toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		    series: [
-	        		        {
-	        		            name: '财务风险合成指标',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '财务风险率'}]
-	        		        }
-	        		    ]
-	        		};	
-	        	financialChart.setOption(option, true);  	
-	        	financialChart1.setOption(option_index, true);  		
-	        }	          	      	          
-	  });		
-});
-//经营风险评估
-$('#orgBtn').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.org_form.elements.length-1;i++)
-    {
-     if(document.org_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.org_form.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var org_data =  $('#business_risk').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./org_risk_model",//请求后台方法并接受模型返回数据
-	        data:org_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	            //$("#loading2").html("<img src='../static/home/predict/images/loading.gif' />结果分析中，请稍后……"); //在后台返回success之前显示loading图标  
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                });
-	        	 console.log(data['firstlyIndex']+"==============="+data['secondaryIndex']);
-	        	var firstlyIndex = data['firstlyIndex'];
-	        	var secondaryIndex = data['secondaryIndex'].split("    ");
-	        	var datas = secondaryIndex;
-	        	console.log(firstlyIndex);
-	        	var percent = (firstlyIndex*100).toFixed(2);
-	        	 
-	        		        	        		        	
-	        	//可视化
-	        	$("#businessView").html("<div id=\"business_show\" style=\"width: 90%;height: 350px;\"></div>");
-	        	$("#businessView1").html("<div id=\"business_show1\" style=\"width: 90%;height: 350px;\"></div>");
-	        	var businessChart = echarts.init(document.getElementById('business_show'));	
-	        	var businessChart1 = echarts.init(document.getElementById('business_show1'));
-	        	option = {
-	        		    /* title: {
-	        		        text: '财务风险评估分析'
-	        		    }, */
-	        		    tooltip: {},
-                        toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		 /*    legend: {
-	        		        data: ['经营风险指标']
-	        		    }, */
-	        		    radar: {
-	        		        // shape: 'circle',
-	        		        name: {
-	        		            textStyle: {
-	        		                color: '#fff',
-	        		                backgroundColor: '#999',
-	        		                borderRadius: 3,
-	        		                padding: [3, 5]
-	        		           }
-	        		        },
-	        		        indicator: [
-	        		           { name: '经营力', max: 1},
-	        		           { name: '司法', max: 1},
-	        		           { name: '组织', max: 1} 		        
-	        		        ],
-	        		        radius : 130 //半径，可放大放小雷达图
-	        		    },
-	        		    series: [{
-	        		        name: '风险指数',
-	        		        type: 'radar',
-	        		        itemStyle: {
-	                            normal: {
-	                                lineStyle: {
-	                                    color :"#87cefa",
-	                                    width : 2
-	                                },
-	                                areaStyle: {
-	                                    color:"#87cefa",
-	                                    type: 'default'
-	                                }
-	                            }
-	                        },
-	                        symbolSize :10,
-	        		        // areaStyle: {normal: {}},
-	        		        data : [
-	        		            {
-	        		                value : datas,
-	        		                name : '风险指数',
-	        		                label: {
-	        		                    normal: {
-	        		                        show: true,
-	        		                        formatter:function(params) {
-	        		                            return params.value;
-	        		                        }
-	        		                    }
-	        		                }
-	        		            }
-	        		        ]
-	        		    }]
-	        		};   
-	        	
-	        	option_index = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
-	        		    },
-	        		    toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },series: [
-	        		        {
-	        		            name: '经营风险合成指标',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '经营风险率'}]
-	        		        }
-	        		    ]
-	        		};
-	        	businessChart.setOption(option, true);
-	        	businessChart1.setOption(option_index, true);
-	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
-	        }	          	      	          
-	  });		
-});
-$('#riskCompetitionBtn').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.competition_risk.elements.length-1;i++)
-    {
-     if(document.competition_risk.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.competition_risk.elements[i].focus();
-       return false;
-     }
- }
-	
-	//表单提交数据序列化
-	var strategy_data =  $('#competition_form').serialize();		
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./fxpg_competition_model",//请求后台方法并接受模型返回数据
-	        data:strategy_data,//将该表单序列化
-	        //async: false,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg").empty(); //加载前先清空结果信息
-	        	$("#view").empty(); //加载前先清空结果信息
-	            //$("#loading4").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        success:function(data){
-	        	console.log(data);
-	        	//$("#loading4").empty();
-	        	  layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                });
-	        	var secondaryIndex = data['firstlyIndex'];
-	        	//var re = data['result']
-	             var percent = (secondaryIndex*100).toFixed(2);
-	        	
-	        		        	        		        	
-	        	//可视化
-	        	$("#view").html("<div id=\"show\" style=\"width: 100%;height: 350px;\"></div>");
-	        	var myChart = echarts.init(document.getElementById('show'));
-	        	option = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
-	        		    },
-	        		    toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		    series: [
-	        		        {
-	        		            name: '市场竞争风险指标',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '市场竞争风险率'}]
-	        		        }
-	        		    ]
-	        		};	        	
-	        	myChart.setOption(option, true)	;
-	        /* 	$("#msg").html("您查询企业的市场竞争风险为："+percent+"%");    	    */     		
-	        }	          	      	          
-	  });	
-});
-//技术风险评估实现
-$('#tecBtn').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.tec_form.elements.length-1;i++)
-    {
-     if(document.tec_form.elements[i].value=="")
-     {
-   	layui.use(['layer', 'form'], function(){
-		//提示层
-		layer.msg('请填写完整数据信息！')
-	});	  
-       document.tec_form.elements[i].focus();
-       return false;
-     }
- }
-	
-	//表单提交数据序列化
-	var tec_data =  $('#tec_data').serialize();		
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./jszl_model",//请求后台方法并接受模型返回数据
-	        data:tec_data,//将该表单序列化
-	        //async: false,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg1").empty(); //加载前先清空结果信息
-	        	$("#view1").empty(); //加载前先清空结果信息
-	            //$("#loading3").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        
-	        },  
-	        success:function(data){
-	        	//console.log(data);
-	        	//$("#loading3").empty();
-	        	layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                });
-	        	var secondaryIndex = data['firstlyIndex'];
-	        	//var re = data['result']
-	            var percent = (secondaryIndex*100).toFixed(2);
-	        	
-	        		        	        		        	
-	        	//可视化
-	        	$("#view1").html("<div id=\"show1\" style=\"width: 100%;height: 350px;\"></div>");
-	        	var myChart1 = echarts.init(document.getElementById('show1'));
-	        	option = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
-	        		    },
-	        		    toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		    series: [
-	        		        {
-	        		            name: '技术指标',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value: percent, name: '技术风险率'}]
-	        		        }
-	        		    ]
-	        		};
-	        	window.onresize = myChart1.resize; 
-	        	myChart1.setOption(option, true);
-	        	/* $("#msg1").html("您查询企业的技术风险率为："+percent+"%");    	 */        		
-	        }	          	      	          
-	  });		
-});
-$('#allIndex').click(function(){
-	
-		
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./ajaxIntegrateIndex",//请求后台方法并接受模型返回数据
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#allView1").empty(); //加载前先清空结果信息
-	        	$("#allView2").empty(); //加载前先清空结果信息
-	            //$("#loading5").html("<img src='../static/home/predict/images/loading.gif' />结果加载中，请稍后……"); //在后台返回success之前显示loading图标  
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        success:function(data){
-	        	console.log(data);
-	        	//$("#loading5").empty();
-	        	layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                });
-	        	var data1 = data['firstlyIndex'];
-	        	var data2 = data['secondaryIndex']
-	        	if(data1==0)
-	        		{
-	        		//console.log(data);
-	        		layui.use(['layer', 'form'], function(){
-	        			//提示层
-	        			layer.msg('数据不完整，请您先进行前四项风险评估！')
-                });	        		
-	        		}
-	        	
-	        	else{
-	        	
-	        	
-	        	var firstlyIndex   =  data1.split('    ');
-	        	var secondaryIndexs = [];
- 	        	var secondaryIndex =  data2[0].split("    ");
- 	        	var secondaryIndex_1 =  data2[1].split("    ");
- 	        	secondaryIndexs = secondaryIndex.concat(secondaryIndex_1).concat(data2[2]).concat(data2[3]);
-	        	//可视化	
-	        	$("#allView1").html("<div id=\"allShow1\" style=\"width: 90%;height: 350px;\"></div>");
-	        	$("#allView2").html("<div id=\"allShow2\" style=\"width: 90%;height: 350px;\"></div>");
-	        	var businessChart1 = echarts.init(document.getElementById('allShow1'));
-	        	var businessChart2 = echarts.init(document.getElementById('allShow2'));
-	    /*     	alloption = {
-	        		    tooltip : {
-	        		        formatter: "{a} <br/>{b} : {c}%"
-	        		    },
-	        		    toolbox: {
-	        		        feature: {
-	        		            restore: {},
-	        		            saveAsImage: {}
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: '综合风险率',
-	        		            type: 'gauge',
-	        		            radius: '80%',	  
-	        		            detail: {formatter:'{value}%',fontSize:17},
-	        		            data: [{value:percent, name: '综合风险率'}]
-	        		        }
-	        		    ]
-	        		}; */
-	        	
-	        	option1 = {
-	        		    /* title: {
-	        		        text: '财务风险评估分析'
-	        		    }, */
-	        		    tooltip: {},
-                        toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		    legend: {
-	        		        data: ['一级指标风险指标']
-	        		    },
-	        		    radar: {
-	        		        // shape: 'circle',
-	        		        name: {
-	        		            textStyle: {
-	        		                color: '#fff',
-	        		                backgroundColor: '#999',
-	        		                borderRadius: 3,
-	        		                padding: [3, 5]
-	        		           }
-	        		        },
-	        		        indicator: [
-	        		           { name: '财务', max: 1},
-	        		           { name: '经营', max: 1},
-	        		           { name: '技术', max: 1},
-	        		           { name: '市场竞争', max: 1} 
-	        		        ],
-	        		        radius : 100 //半径，可放大放小雷达图
-	        		    },
-	        		    series: [{
-	        		        name: '一级指标指数',
-	        		        type: 'radar',
-	        		        itemStyle: {
-	                            normal: {
-	                                lineStyle: {
-	                                    color :"#87cefa",
-	                                    width : 2
-	                                },
-	                                areaStyle: {
-	                                    color:"#87cefa",
-	                                    type: 'default'
-	                                }
-	                            }
-	                        },
-	                        symbolSize :10,
-	        		        // areaStyle: {normal: {}},
-	        		        data : [
-	        		            {
-	        		                value : firstlyIndex,
-	        		                name : '风险指数',
-	        		                label: {
-	        		                    normal: {
-	        		                        show: true,
-	        		                        formatter:function(params) {
-	        		                            return params.value;
-	        		                        }
-	        		                    }
-	        		                }
-	        		            }
-	        		        ]
-	        		    }]
-	        		};   
-	        		        	
-	        	option2 = {
-	        		    /* title: {
-	        		        text: '财务风险评估分析'
-	        		    }, */
-	        		    tooltip: {},
-                        toolbox: {
-                            feature: {
-                            restore: {
-                                 show: true,                         //是否显示该工具。
-                                 title:"还原",
-                            },
-                            saveAsImage: {
-                                show: true,                         //是否显示该工具。
-                                title:"保存为图片",
-                                pixelRatio:1  
-                            },
-                                dataView : {                            //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
-                                    show: true,                         //是否显示该工具。
-                                    title:"数据视图",
-                                    readOnly: false,                    //是否不可编辑（只读）
-                                    lang: ['数据视图', '关闭', '刷新'],  //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
-                                    backgroundColor:"#fff",             //数据视图浮层背景色。
-                                    textareaColor:"#fff",               //数据视图浮层文本输入区背景色
-                                    textareaBorderColor:"#333",         //数据视图浮层文本输入区边框颜色
-                                    textColor:"#000",                    //文本颜色。
-                                    buttonColor:"#c23531",              //按钮颜色。
-                                    buttonTextColor:"#fff",             //按钮文本颜色。
-                                }
-                            }
-                        },
-	        		    legend: {
-	        		        data: ['二级指标风险指标']
-	        		    },
-	        		    radar: {
-	        		        // shape: 'circle',
-	        		        name: {
-	        		            textStyle: {
-	        		                color: '#fff',
-	        		                backgroundColor: '#999',
-	        		                borderRadius: 3,
-	        		                padding: [3, 5]
-	        		           }
-	        		        },
-	        		        indicator: [
-	        		           { name: '流动性', max: 1},
-	        		           { name: '筹资', max: 1},
-	        		           { name: '清偿', max: 1},
-	        		           { name: '成长', max: 1},
-	        		           { name: '经营', max: 1},
-	        		           { name: '司法', max: 1},
-	        		           { name: '组织', max: 1},
-	        		           { name: '技术', max: 1},
-	        		           { name: '市场竞争', max: 1}
-	        		        ],
-	        		        radius : 100 //半径，可放大放小雷达图
-	        		    },
-	        		    series: [{
-	        		        name: '二级指标指数',
-	        		        type: 'radar',
-	        		        itemStyle: {
-	                            normal: {
-	                                lineStyle: {
-	                                    color :"#87cefa",
-	                                    width : 2
-	                                },
-	                                areaStyle: {
-	                                    color:"#87cefa",
-	                                    type: 'default'
-	                                }
-	                            }
-	                        },
-	                        symbolSize :10,
-	        		        // areaStyle: {normal: {}},
-	        		        data : [
-	        		            {
-	        		                value : secondaryIndexs,
-	        		                name : '风险指数',
-	        		                label: {
-	        		                    normal: {
-	        		                        show: true,
-	        		                        formatter:function(params) {
-	        		                            return params.value;
-	        		                        }
-	        		                    }
-	        		                }
-	        		            }
-	        		        ]
-	        		    }]
-	        		};
-	        	
-	        	businessChart1.setOption(option1, true);
-	        	businessChart2.setOption(option2, true);
-	        	//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
-	        }
-	        }
-	  });		
-});
+		//财务风险评估20180502
+		$('#financialBtn')
+				.click(
+						function() {
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.economy_form.elements.length - 1; i++) {
+								if (document.economy_form.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.economy_form.elements[i].focus();
+									return false;
+								}
+							}
+							//表单提交数据序列化
+							var financial_data = $('#financial_risk')
+									.serialize();
+							$
+									.ajax({
+										cache : true,//保留缓存数据
+										type : "POST",//为post请求
+										url : "./financial_risk_model",//请求后台方法并接受模型返回数据
+										data : financial_data,//将该表单序列化
+										//async: false,
+										error : function(request) {//请求失败之后的操作
+											return;
+										},
+										beforeSend : function(XMLHttpRequest) {
+											//$("#msg2").empty(); //加载前先清空结果信息
+											$("#financialView").empty(); //加载前先清空结果信息
+											$("#financialView1").empty(); //加载前先清空结果信息
+											//$("#loading1").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+											layui.use([ 'layer', 'form' ],
+													function() {
+														index = layer.load(1, {
+															shade : 0.06
+														});
+													});
+										},
 
-//tab窗口切换0604 by Hang Hang Li
-function setTab(name,cursel){
- cursel_0=cursel;
- for(var i=1; i<=links_len; i++){
-  var menu = document.getElementById(name+i);
-  var menudiv = document.getElementById("con_"+name+"_"+i);
-  if(i==cursel){
-   menu.className="off";
-   menudiv.style.display="block";
-  }
-  else{
-   menu.className="";
-   menudiv.style.display="none";
-  }
- }
-}
-function Next(){
-    cursel_0++;
-    if (cursel_0>links_len) cursel_0=1
-    setTab(name_0,cursel_0);
-}
-var name_0='one';
-var cursel_0=1;
-//var type = 0; 默认选中第一个行业
-var links_len,iIntervalId;
-onload=function(){
-    var links = document.getElementById("tab1").getElementsByTagName('li')
-    links_len=links.length;
-    var funny = function(i){
-    links[i].onclick = function(){
-            console.log("第" + (i+1) + "个");
-        }
-    }    
-    /*for(var i=0; i<links_len; i++){        
-        type = i;
-        console.log(i)
-  // links[i].onmouseover=function(){
-  //  //clearInterval(iIntervalId);
-   
-  // }
-    }*/
- setTab(name_0,cursel_0);
-}
+										success : function(data) {
+											//$("#loading1").empty();
+											//console.log(data);
+											layui.use([ 'layer', 'form' ],
+													function() {
+														var layer = layui.layer
+														layer.close(index);
+														//调用close方法,关闭全局变量index对应的加载效果
+													});
+											var firstlyIndex = data['firstlyIndex'];
+											var secondIndex = data['secondaryIndex']
+													.split("    ");
+											console.log(secondIndex);
+											var percent = (firstlyIndex * 100)
+													.toFixed(2);
+											//可视化
+											var data = secondIndex;
+											$("#financialView")
+													.html(
+															"<div id=\"financial_show\" style=\"width: 90%;height: 350px;\"></div>");
+											$("#financialView1")
+													.html(
+															"<div id=\"financial_show1\" style=\"width: 90%;height: 350px;\"></div>");
+											var financialChart = echarts
+													.init(document
+															.getElementById('financial_show'));
+											var financialChart1 = echarts
+													.init(document
+															.getElementById('financial_show1'));
+											option = {
 
+												/* title: {
+												    text: '财务风险评估分析'
+												}, */
+												tooltip : {
+													trigger : 'axis'
+												},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												/*  legend: {
+												     data: ['财务风险指标']
+												 }, */
+												radar : {
+													// shape: 'circle',
+													name : {
+														textStyle : {
+															color : '#fff',
+															backgroundColor : '#999',
+															borderRadius : 3,
+															padding : [ 3, 5 ]
+														}
+													},
+													indicator : [ {
+														name : '流动性',
+														max : 1
+													}, {
+														name : '筹资',
+														max : 1
+													}, {
+														name : '清偿',
+														max : 1
+													}, {
+														name : '成长力',
+														max : 1
+													} ],
+													radius : 130
+												//半径，可放大放小雷达图
+												},
+												series : [ {
+													name : {
+														show : true, // 是否显示文字
+														formatter : null, // 文字的显示形式
+														textStyle : {
+															color : '#a3a5b6' // 文字颜色
+														}
+													},
+													type : 'radar',
+													itemStyle : {
+														normal : {
+															lineStyle : {
+																color : "#87cefa",
+																width : 2
+															},
+															areaStyle : {
+																color : "#fa610e",
+																type : 'default'
+															},
+															splitLine : {
+																show : true,
+																lineStyle : {
+																	width : 1,
+																	color : '#286fbb' // 图表背景网格线的颜色
+																}
+															},
+															splitArea : {
+																show : true,
+																areaStyle : {
+																	color : [ "#2a4a93" ]
+																// 图表背景网格的颜色
+																}
+															},
+														}
+													},
+													symbolSize : 10,
+													// areaStyle: {normal: {}},
+													data : [ {
+														value : data,
+														name : '风险指数',
+														label : {
+															normal : {
+																show : true,
+																formatter : function(
+																		params) {
+																	return params.value;
+																}
+															}
+														}
+													} ]
+												} ]
+											};
 
+											option_index = {
+												tooltip : {
+													formatter : "{a} <br/>{b} : {c}%"
+												},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												series : [ {
+													name : '财务风险合成指标',
+													type : 'gauge',
+													radius : '80%',
+													detail : {
+														formatter : '{value}%',
+														fontSize : 17
+													},
+													data : [ {
+														value : percent,
+														name : '财务风险率'
+													} ]
+												} ]
+											};
+											financialChart.setOption(option,
+													true);
+											financialChart1.setOption(
+													option_index, true);
+										}
+									});
+						});
+		//经营风险评估
+		$('#orgBtn')
+				.click(
+						function() {
 
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.org_form.elements.length - 1; i++) {
+								if (document.org_form.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.org_form.elements[i].focus();
+									return false;
+								}
+							}
+							;
+							//表单提交数据序列化
+							var org_data = $('#business_risk').serialize();
+							$
+									.ajax({
+										cache : true,//保留缓存数据
+										type : "POST",//为post请求
+										url : "./org_risk_model",//请求后台方法并接受模型返回数据
+										data : org_data,
+										error : function(request) {//请求失败之后的操作
+											return;
+										},
+										beforeSend : function(XMLHttpRequest) {
+											//$("#msg2").empty(); //加载前先清空结果信息
+											$("#businessView").empty(); //加载前先清空结果信息
+											$("#businessView1").empty(); //加载前先清空结果信息
+											//$("#loading2").html("<img src='../static/home/predict/images/loading.gif' />结果分析中，请稍后……"); //在后台返回success之前显示loading图标  
+											layui.use([ 'layer', 'form' ],
+													function() {
+														index = layer.load(1, {
+															shade : 0.06
+														});
+													});
+										},
 
+										success : function(data) {
+											//$("#loading2").empty();
+											layui.use([ 'layer', 'form' ],
+													function() {
+														var layer = layui.layer
+														layer.close(index);
+														//调用close方法,关闭全局变量index对应的加载效果
+													});
+											console.log(data['firstlyIndex']
+													+ "==============="
+													+ data['secondaryIndex']);
+											var firstlyIndex = data['firstlyIndex'];
+											var secondaryIndex = data['secondaryIndex']
+													.split("    ");
+											var datas = secondaryIndex;
+											console.log(firstlyIndex);
+											var percent = (firstlyIndex * 100)
+													.toFixed(2);
 
+											//可视化
+											$("#businessView")
+													.html(
+															"<div id=\"business_show\" style=\"width: 90%;height: 350px;\"></div>");
+											$("#businessView1")
+													.html(
+															"<div id=\"business_show1\" style=\"width: 90%;height: 350px;\"></div>");
+											var businessChart = echarts
+													.init(document
+															.getElementById('business_show'));
+											var businessChart1 = echarts
+													.init(document
+															.getElementById('business_show1'));
+											option = {
+												/* title: {
+												    text: '财务风险评估分析'
+												}, */
+												tooltip : {},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												/*    legend: {
+												       data: ['经营风险指标']
+												   }, */
+												radar : {
+													// shape: 'circle',
+													name : {
+														textStyle : {
+															color : '#fff',
+															backgroundColor : '#999',
+															borderRadius : 3,
+															padding : [ 3, 5 ]
+														}
+													},
+													indicator : [ {
+														name : '经营力',
+														max : 1
+													}, {
+														name : '司法',
+														max : 1
+													}, {
+														name : '组织',
+														max : 1
+													} ],
+													radius : 130
+												//半径，可放大放小雷达图
+												},
+												series : [ {
+													name : '风险指数',
+													type : 'radar',
+													itemStyle : {
+														normal : {
+															lineStyle : {
+																color : "#87cefa",
+																width : 2
+															},
+															areaStyle : {
+																color : "#87cefa",
+																type : 'default'
+															}
+														}
+													},
+													symbolSize : 10,
+													// areaStyle: {normal: {}},
+													data : [ {
+														value : datas,
+														name : '风险指数',
+														label : {
+															normal : {
+																show : true,
+																formatter : function(
+																		params) {
+																	return params.value;
+																}
+															}
+														}
+													} ]
+												} ]
+											};
 
+											option_index = {
+												tooltip : {
+													formatter : "{a} <br/>{b} : {c}%"
+												},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												series : [ {
+													name : '经营风险合成指标',
+													type : 'gauge',
+													radius : '80%',
+													detail : {
+														formatter : '{value}%',
+														fontSize : 17
+													},
+													data : [ {
+														value : percent,
+														name : '经营风险率'
+													} ]
+												} ]
+											};
+											businessChart.setOption(option,
+													true);
+											businessChart1.setOption(
+													option_index, true);
+											//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
+										}
+									});
+						});
+		$('#riskCompetitionBtn')
+				.click(
+						function() {
 
-/**
- * 财务风险-- 流动性、筹资、清偿、成长
- */
-$('#liquidBtns').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.liquid_form.elements.length-1;i++)
-    {
-     if(document.liquid_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.liquid_form.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var liquid_data =  $('#liquid_risks').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./liquidity",//请求后台方法并接受模型返回数据
-	        data:liquid_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                $("#liquidInfo").html("企业的流动性预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.competition_risk.elements.length - 1; i++) {
+								if (document.competition_risk.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.competition_risk.elements[i]
+											.focus();
+									return false;
+								}
+							}
 
+							//表单提交数据序列化
+							var strategy_data = $('#competition_form')
+									.serialize();
+							$
+									.ajax({
+										cache : true,//保留缓存数据
+										type : "POST",//为post请求
+										url : "./fxpg_competition_model",//请求后台方法并接受模型返回数据
+										data : strategy_data,//将该表单序列化
+										//async: false,
+										error : function(request) {//请求失败之后的操作
+											return;
+										},
+										beforeSend : function(XMLHttpRequest) {
+											$("#msg").empty(); //加载前先清空结果信息
+											$("#view").empty(); //加载前先清空结果信息
+											//$("#loading4").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+											layui.use([ 'layer', 'form' ],
+													function() {
+														index = layer.load(1, {
+															shade : 0.06
+														});
+													});
+										},
+										success : function(data) {
+											console.log(data);
+											//$("#loading4").empty();
+											layui.use([ 'layer', 'form' ],
+													function() {
+														var layer = layui.layer
+														layer.close(index);
+														//调用close方法,关闭全局变量index对应的加载效果
+													});
+											var secondaryIndex = data['firstlyIndex'];
+											//var re = data['result']
+											var percent = (secondaryIndex * 100)
+													.toFixed(2);
 
-$('#fundingBtns').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.funding_form.elements.length-1;i++)
-    {
-     if(document.funding_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.funding_form.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var funding_data =  $('#funding_risks').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./funding",//请求后台方法并接受模型返回数据
-	        data:funding_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                $("#fundingInfo").html("企业的筹资能力预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+											//可视化
+											$("#view")
+													.html(
+															"<div id=\"show\" style=\"width: 100%;height: 350px;\"></div>");
+											var myChart = echarts.init(document
+													.getElementById('show'));
+											option = {
+												tooltip : {
+													formatter : "{a} <br/>{b} : {c}%"
+												},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												series : [ {
+													name : '市场竞争风险指标',
+													type : 'gauge',
+													radius : '80%',
+													detail : {
+														formatter : '{value}%',
+														fontSize : 17
+													},
+													data : [ {
+														value : percent,
+														name : '市场竞争风险率'
+													} ]
+												} ]
+											};
+											myChart.setOption(option, true);
+											/* 	$("#msg").html("您查询企业的市场竞争风险为："+percent+"%");    	    */
+										}
+									});
+						});
+		//技术风险评估实现
+		$('#tecBtn')
+				.click(
+						function() {
 
-$('#dischargeBtns').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.discharge_form.elements.length-1;i++)
-    {
-     if(document.discharge_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.discharge_form.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var discharge_data =  $('#discharge_risks').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./discharge",//请求后台方法并接受模型返回数据
-	        data:discharge_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                $("#dischargeInfo").html("企业的清偿能力预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.tec_form.elements.length - 1; i++) {
+								if (document.tec_form.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.tec_form.elements[i].focus();
+									return false;
+								}
+							}
 
+							//表单提交数据序列化
+							var tec_data = $('#tec_data').serialize();
+							$
+									.ajax({
+										cache : true,//保留缓存数据
+										type : "POST",//为post请求
+										url : "./jszl_model",//请求后台方法并接受模型返回数据
+										data : tec_data,//将该表单序列化
+										//async: false,
+										error : function(request) {//请求失败之后的操作
+											return;
+										},
+										beforeSend : function(XMLHttpRequest) {
+											$("#msg1").empty(); //加载前先清空结果信息
+											$("#view1").empty(); //加载前先清空结果信息
+											//$("#loading3").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+											layui.use([ 'layer', 'form' ],
+													function() {
+														index = layer.load(1, {
+															shade : 0.06
+														});
+													});
 
+										},
+										success : function(data) {
+											//console.log(data);
+											//$("#loading3").empty();
+											layui.use([ 'layer', 'form' ],
+													function() {
+														var layer = layui.layer
+														layer.close(index);
+														//调用close方法,关闭全局变量index对应的加载效果
+													});
+											var secondaryIndex = data['firstlyIndex'];
+											//var re = data['result']
+											var percent = (secondaryIndex * 100)
+													.toFixed(2);
 
+											//可视化
+											$("#view1")
+													.html(
+															"<div id=\"show1\" style=\"width: 100%;height: 350px;\"></div>");
+											var myChart1 = echarts
+													.init(document
+															.getElementById('show1'));
+											option = {
+												tooltip : {
+													formatter : "{a} <br/>{b} : {c}%"
+												},
+												toolbox : {
+													feature : {
+														restore : {
+															show : true, //是否显示该工具。
+															title : "还原",
+														},
+														saveAsImage : {
+															show : true, //是否显示该工具。
+															title : "保存为图片",
+															pixelRatio : 1
+														},
+														dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+															show : true, //是否显示该工具。
+															title : "数据视图",
+															readOnly : false, //是否不可编辑（只读）
+															lang : [ '数据视图',
+																	'关闭', '刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+															backgroundColor : "#fff", //数据视图浮层背景色。
+															textareaColor : "#fff", //数据视图浮层文本输入区背景色
+															textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+															textColor : "#000", //文本颜色。
+															buttonColor : "#c23531", //按钮颜色。
+															buttonTextColor : "#fff", //按钮文本颜色。
+														}
+													}
+												},
+												series : [ {
+													name : '技术指标',
+													type : 'gauge',
+													radius : '80%',
+													detail : {
+														formatter : '{value}%',
+														fontSize : 17
+													},
+													data : [ {
+														value : percent,
+														name : '技术风险率'
+													} ]
+												} ]
+											};
+											window.onresize = myChart1.resize;
+											myChart1.setOption(option, true);
+											/* $("#msg1").html("您查询企业的技术风险率为："+percent+"%");    	 */
+										}
+									});
+						});
+		$('#allIndex')
+				.click(
+						function() {
 
+							$
+									.ajax({
+										cache : true,//保留缓存数据
+										type : "POST",//为post请求
+										url : "./ajaxIntegrateIndex",//请求后台方法并接受模型返回数据
+										error : function(request) {//请求失败之后的操作
+											return;
+										},
+										beforeSend : function(XMLHttpRequest) {
+											//$("#msg2").empty(); //加载前先清空结果信息
+											$("#allView1").empty(); //加载前先清空结果信息
+											$("#allView2").empty(); //加载前先清空结果信息
+											//$("#loading5").html("<img src='../static/home/predict/images/loading.gif' />结果加载中，请稍后……"); //在后台返回success之前显示loading图标  
+											layui.use([ 'layer', 'form' ],
+													function() {
+														index = layer.load(1, {
+															shade : 0.06
+														});
+													});
+										},
+										success : function(data) {
+											console.log(data);
+											//$("#loading5").empty();
+											layui.use([ 'layer', 'form' ],
+													function() {
+														var layer = layui.layer
+														layer.close(index);
+														//调用close方法,关闭全局变量index对应的加载效果
+													});
+											var data1 = data['firstlyIndex'];
+											var data2 = data['secondaryIndex']
+											if (data1 == 0) {
+												//console.log(data);
+												layui
+														.use(
+																[ 'layer',
+																		'form' ],
+																function() {
+																	//提示层
+																	layer
+																			.msg('数据不完整，请您先进行前四项风险评估！')
+																});
+											}
 
-$('#growthBtns').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.growth_form.elements.length-1;i++)
-    {
-     if(document.growth_form.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.growth_form.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var growth_data =  $('#growth_force').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./growth",//请求后台方法并接受模型返回数据
-	        data:growth_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                $("#growthInfo").html("企业的成长能力预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+											else {
 
+												var firstlyIndex = data1
+														.split('    ');
+												var secondaryIndexs = [];
+												var secondaryIndex = data2[0]
+														.split("    ");
+												var secondaryIndex_1 = data2[1]
+														.split("    ");
+												secondaryIndexs = secondaryIndex
+														.concat(
+																secondaryIndex_1)
+														.concat(data2[2])
+														.concat(data2[3]);
+												//可视化	
+												$("#allView1")
+														.html(
+																"<div id=\"allShow1\" style=\"width: 90%;height: 350px;\"></div>");
+												$("#allView2")
+														.html(
+																"<div id=\"allShow2\" style=\"width: 90%;height: 350px;\"></div>");
+												var businessChart1 = echarts
+														.init(document
+																.getElementById('allShow1'));
+												var businessChart2 = echarts
+														.init(document
+																.getElementById('allShow2'));
+												/*     	alloption = {
+												    		    tooltip : {
+												    		        formatter: "{a} <br/>{b} : {c}%"
+												    		    },
+												    		    toolbox: {
+												    		        feature: {
+												    		            restore: {},
+												    		            saveAsImage: {}
+												    		        }
+												    		    },
+												    		    series: [
+												    		        {
+												    		            name: '综合风险率',
+												    		            type: 'gauge',
+												    		            radius: '80%',	  
+												    		            detail: {formatter:'{value}%',fontSize:17},
+												    		            data: [{value:percent, name: '综合风险率'}]
+												    		        }
+												    		    ]
+												    		}; */
 
+												option1 = {
+													/* title: {
+													    text: '财务风险评估分析'
+													}, */
+													tooltip : {},
+													toolbox : {
+														feature : {
+															restore : {
+																show : true, //是否显示该工具。
+																title : "还原",
+															},
+															saveAsImage : {
+																show : true, //是否显示该工具。
+																title : "保存为图片",
+																pixelRatio : 1
+															},
+															dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+																show : true, //是否显示该工具。
+																title : "数据视图",
+																readOnly : false, //是否不可编辑（只读）
+																lang : [
+																		'数据视图',
+																		'关闭',
+																		'刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+																backgroundColor : "#fff", //数据视图浮层背景色。
+																textareaColor : "#fff", //数据视图浮层文本输入区背景色
+																textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+																textColor : "#000", //文本颜色。
+																buttonColor : "#c23531", //按钮颜色。
+																buttonTextColor : "#fff", //按钮文本颜色。
+															}
+														}
+													},
+													legend : {
+														data : [ '一级指标风险指标' ]
+													},
+													radar : {
+														// shape: 'circle',
+														name : {
+															textStyle : {
+																color : '#fff',
+																backgroundColor : '#999',
+																borderRadius : 3,
+																padding : [ 3,
+																		5 ]
+															}
+														},
+														indicator : [ {
+															name : '财务',
+															max : 1
+														}, {
+															name : '经营',
+															max : 1
+														}, {
+															name : '技术',
+															max : 1
+														}, {
+															name : '市场竞争',
+															max : 1
+														} ],
+														radius : 100
+													//半径，可放大放小雷达图
+													},
+													series : [ {
+														name : '一级指标指数',
+														type : 'radar',
+														itemStyle : {
+															normal : {
+																lineStyle : {
+																	color : "#87cefa",
+																	width : 2
+																},
+																areaStyle : {
+																	color : "#87cefa",
+																	type : 'default'
+																}
+															}
+														},
+														symbolSize : 10,
+														// areaStyle: {normal: {}},
+														data : [ {
+															value : firstlyIndex,
+															name : '风险指数',
+															label : {
+																normal : {
+																	show : true,
+																	formatter : function(
+																			params) {
+																		return params.value;
+																	}
+																}
+															}
+														} ]
+													} ]
+												};
 
+												option2 = {
+													/* title: {
+													    text: '财务风险评估分析'
+													}, */
+													tooltip : {},
+													toolbox : {
+														feature : {
+															restore : {
+																show : true, //是否显示该工具。
+																title : "还原",
+															},
+															saveAsImage : {
+																show : true, //是否显示该工具。
+																title : "保存为图片",
+																pixelRatio : 1
+															},
+															dataView : { //      数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
+																show : true, //是否显示该工具。
+																title : "数据视图",
+																readOnly : false, //是否不可编辑（只读）
+																lang : [
+																		'数据视图',
+																		'关闭',
+																		'刷新' ], //数据视图上有三个话术，默认是['数据视图', '关闭', '刷新']
+																backgroundColor : "#fff", //数据视图浮层背景色。
+																textareaColor : "#fff", //数据视图浮层文本输入区背景色
+																textareaBorderColor : "#333", //数据视图浮层文本输入区边框颜色
+																textColor : "#000", //文本颜色。
+																buttonColor : "#c23531", //按钮颜色。
+																buttonTextColor : "#fff", //按钮文本颜色。
+															}
+														}
+													},
+													legend : {
+														data : [ '二级指标风险指标' ]
+													},
+													radar : {
+														// shape: 'circle',
+														name : {
+															textStyle : {
+																color : '#fff',
+																backgroundColor : '#999',
+																borderRadius : 3,
+																padding : [ 3,
+																		5 ]
+															}
+														},
+														indicator : [ {
+															name : '流动性',
+															max : 1
+														}, {
+															name : '筹资',
+															max : 1
+														}, {
+															name : '清偿',
+															max : 1
+														}, {
+															name : '成长',
+															max : 1
+														}, {
+															name : '经营',
+															max : 1
+														}, {
+															name : '司法',
+															max : 1
+														}, {
+															name : '组织',
+															max : 1
+														}, {
+															name : '技术',
+															max : 1
+														}, {
+															name : '市场竞争',
+															max : 1
+														} ],
+														radius : 100
+													//半径，可放大放小雷达图
+													},
+													series : [ {
+														name : '二级指标指数',
+														type : 'radar',
+														itemStyle : {
+															normal : {
+																lineStyle : {
+																	color : "#87cefa",
+																	width : 2
+																},
+																areaStyle : {
+																	color : "#87cefa",
+																	type : 'default'
+																}
+															}
+														},
+														symbolSize : 10,
+														// areaStyle: {normal: {}},
+														data : [ {
+															value : secondaryIndexs,
+															name : '风险指数',
+															label : {
+																normal : {
+																	show : true,
+																	formatter : function(
+																			params) {
+																		return params.value;
+																	}
+																}
+															}
+														} ]
+													} ]
+												};
 
+												businessChart1.setOption(
+														option1, true);
+												businessChart2.setOption(
+														option2, true);
+												//$("#msg2").html("您查询企业的经营风险率为："+percent+"%");    	        		
+											}
+										}
+									});
+						});
 
+		//tab窗口切换0604 by Hang Hang Li
+		function setTab(name, cursel) {
+			cursel_0 = cursel;
+			for (var i = 1; i <= links_len; i++) {
+				var menu = document.getElementById(name + i);
+				var menudiv = document.getElementById("con_" + name + "_" + i);
+				if (i == cursel) {
+					menu.className = "off";
+					menudiv.style.display = "block";
+				} else {
+					menu.className = "";
+					menudiv.style.display = "none";
+				}
+			}
+		}
+		function Next() {
+			cursel_0++;
+			if (cursel_0 > links_len)
+				cursel_0 = 1
+			setTab(name_0, cursel_0);
+		}
+		var name_0 = 'one';
+		var cursel_0 = 1;
+		//var type = 0; 默认选中第一个行业
+		var links_len, iIntervalId;
+		onload = function() {
+			var links = document.getElementById("tab1").getElementsByTagName(
+					'li')
+			links_len = links.length;
+			var funny = function(i) {
+				links[i].onclick = function() {
+					console.log("第" + (i + 1) + "个");
+				}
+			}
+			/*for(var i=0; i<links_len; i++){        
+			    type = i;
+			    console.log(i)
+			// links[i].onmouseover=function(){
+			//  //clearInterval(iIntervalId);
+			
+			// }
+			}*/
+			setTab(name_0, cursel_0);
+		}
 
+		/**
+		 * 财务风险-- 流动性、筹资、清偿、成长
+		 */
+		$('#liquidBtns').click(function() {
 
+			//防止用户未填写完整数据提交
+			for (var i = 0; i < document.liquid_form.elements.length - 1; i++) {
+				if (document.liquid_form.elements[i].value == "") {
+					layui.use([ 'layer', 'form' ], function() {
+						//提示层
+						layer.msg('请填写完整数据信息！')
+					});
+					document.liquid_form.elements[i].focus();
+					return false;
+				}
+			}
+			;
+			//表单提交数据序列化
+			var liquid_data = $('#liquid_risks').serialize();
+			$.ajax({
+				cache : true,//保留缓存数据
+				type : "POST",//为post请求
+				url : "./liquidity",//请求后台方法并接受模型返回数据
+				data : liquid_data,
+				error : function(request) {//请求失败之后的操作
+					return;
+				},
+				beforeSend : function(XMLHttpRequest) {
+					//$("#msg2").empty(); //加载前先清空结果信息
+					$("#businessView").empty(); //加载前先清空结果信息
+					$("#businessView1").empty(); //加载前先清空结果信息
+					layui.use([ 'layer', 'form' ], function() {
+						index = layer.load(1, {
+							shade : 0.06
+						});
+					});
+				},
 
+				success : function(data) {
+					//$("#loading2").empty();
+					layui.use([ 'layer', 'form' ], function() {
+						var layer = layui.layer
+						layer.close(index);
+						//调用close方法,关闭全局变量index对应的加载效果
+						$("#liquidInfo").html("企业的流动性预测值为：" + data);
+					});
+				}
+			});
+		});
 
+		$('#fundingBtns')
+				.click(
+						function() {
 
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.funding_form.elements.length - 1; i++) {
+								if (document.funding_form.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.funding_form.elements[i].focus();
+									return false;
+								}
+							}
+							;
+							//表单提交数据序列化
+							var funding_data = $('#funding_risks').serialize();
+							$.ajax({
+								cache : true,//保留缓存数据
+								type : "POST",//为post请求
+								url : "./funding",//请求后台方法并接受模型返回数据
+								data : funding_data,
+								error : function(request) {//请求失败之后的操作
+									return;
+								},
+								beforeSend : function(XMLHttpRequest) {
+									//$("#msg2").empty(); //加载前先清空结果信息
+									$("#businessView").empty(); //加载前先清空结果信息
+									$("#businessView1").empty(); //加载前先清空结果信息
+									layui.use([ 'layer', 'form' ], function() {
+										index = layer.load(1, {
+											shade : 0.06
+										});
+									});
+								},
 
+								success : function(data) {
+									//$("#loading2").empty();
+									layui.use([ 'layer', 'form' ], function() {
+										var layer = layui.layer
+										layer.close(index);
+										//调用close方法,关闭全局变量index对应的加载效果
+										$("#fundingInfo").html(
+												"企业的筹资能力预测值为：" + data);
+									});
+								}
+							});
+						});
 
+		$('#dischargeBtns')
+				.click(
+						function() {
 
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.discharge_form.elements.length - 1; i++) {
+								if (document.discharge_form.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.discharge_form.elements[i].focus();
+									return false;
+								}
+							}
+							;
+							//表单提交数据序列化
+							var discharge_data = $('#discharge_risks')
+									.serialize();
+							$.ajax({
+								cache : true,//保留缓存数据
+								type : "POST",//为post请求
+								url : "./discharge",//请求后台方法并接受模型返回数据
+								data : discharge_data,
+								error : function(request) {//请求失败之后的操作
+									return;
+								},
+								beforeSend : function(XMLHttpRequest) {
+									//$("#msg2").empty(); //加载前先清空结果信息
+									$("#businessView").empty(); //加载前先清空结果信息
+									$("#businessView1").empty(); //加载前先清空结果信息
+									layui.use([ 'layer', 'form' ], function() {
+										index = layer.load(1, {
+											shade : 0.06
+										});
+									});
+								},
 
+								success : function(data) {
+									//$("#loading2").empty();
+									layui.use([ 'layer', 'form' ], function() {
+										var layer = layui.layer
+										layer.close(index);
+										//调用close方法,关闭全局变量index对应的加载效果
+										$("#dischargeInfo").html(
+												"企业的清偿能力预测值为：" + data);
+									});
+								}
+							});
+						});
 
+		$('#growthBtns').click(function() {
 
-// CNN 经营风险评估前台Ajax请求
+			//防止用户未填写完整数据提交
+			for (var i = 0; i < document.growth_form.elements.length - 1; i++) {
+				if (document.growth_form.elements[i].value == "") {
+					layui.use([ 'layer', 'form' ], function() {
+						//提示层
+						layer.msg('请填写完整数据信息！')
+					});
+					document.growth_form.elements[i].focus();
+					return false;
+				}
+			}
+			;
+			//表单提交数据序列化
+			var growth_data = $('#growth_force').serialize();
+			$.ajax({
+				cache : true,//保留缓存数据
+				type : "POST",//为post请求
+				url : "./growth",//请求后台方法并接受模型返回数据
+				data : growth_data,
+				error : function(request) {//请求失败之后的操作
+					return;
+				},
+				beforeSend : function(XMLHttpRequest) {
+					//$("#msg2").empty(); //加载前先清空结果信息
+					$("#businessView").empty(); //加载前先清空结果信息
+					$("#businessView1").empty(); //加载前先清空结果信息
+					layui.use([ 'layer', 'form' ], function() {
+						index = layer.load(1, {
+							shade : 0.06
+						});
+					});
+				},
 
-$('#cnn_business_Btn').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.business_forms.elements.length-1;i++)
-    {
-     if(document.business_forms.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.business_forms.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var org_data =  $('#cnn_business_risks').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./bussinessRisk",//请求后台方法并接受模型返回数据
-	        data:org_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-               $("#business_info").html("企业的经营力预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+				success : function(data) {
+					//$("#loading2").empty();
+					layui.use([ 'layer', 'form' ], function() {
+						var layer = layui.layer
+						layer.close(index);
+						//调用close方法,关闭全局变量index对应的加载效果
+						$("#growthInfo").html("企业的成长能力预测值为：" + data);
+					});
+				}
+			});
+		});
 
+		// CNN 经营风险评估前台Ajax请求
 
-/**
- * 经营风险--司法方面
- */
-$('#cnn_law_Btn').click(function(){
-	
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.laws_forms.elements.length-1;i++)
-    {
-     if(document.laws_forms.elements[i].value=="")
-     {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
-       document.laws_forms.elements[i].focus();
-       return false;
-     }
- };
-	//表单提交数据序列化
-	var laws_data =  $('#cnn_laws_risks').serialize();	
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./lawRisk",//请求后台方法并接受模型返回数据
-	        data:laws_data,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	//$("#msg2").empty(); //加载前先清空结果信息
-	        	$("#businessView").empty(); //加载前先清空结果信息
-	        	$("#businessView1").empty(); //加载前先清空结果信息
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        
-	        success:function(data){
-	        	//$("#loading2").empty();
-	        	 layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
-                //调用close方法,关闭全局变量index对应的加载效果
-                $("#laws_info").html("企业的司法风险预测值为："+data);  
-                });	        		        	        		
-	        }	          	      	          
-	  });		
-});
+		$('#cnn_business_Btn')
+				.click(
+						function() {
 
+							//防止用户未填写完整数据提交
+							for (var i = 0; i < document.business_forms.elements.length - 1; i++) {
+								if (document.business_forms.elements[i].value == "") {
+									layui.use([ 'layer', 'form' ], function() {
+										//提示层
+										layer.msg('请填写完整数据信息！')
+									});
+									document.business_forms.elements[i].focus();
+									return false;
+								}
+							}
+							;
+							//表单提交数据序列化
+							var org_data = $('#cnn_business_risks').serialize();
+							$.ajax({
+								cache : true,//保留缓存数据
+								type : "POST",//为post请求
+								url : "./bussinessRisk",//请求后台方法并接受模型返回数据
+								data : org_data,
+								error : function(request) {//请求失败之后的操作
+									return;
+								},
+								beforeSend : function(XMLHttpRequest) {
+									//$("#msg2").empty(); //加载前先清空结果信息
+									$("#businessView").empty(); //加载前先清空结果信息
+									$("#businessView1").empty(); //加载前先清空结果信息
+									layui.use([ 'layer', 'form' ], function() {
+										index = layer.load(1, {
+											shade : 0.06
+										});
+									});
+								},
 
+								success : function(data) {
+									//$("#loading2").empty();
+									layui.use([ 'layer', 'form' ], function() {
+										var layer = layui.layer
+										layer.close(index);
+										//调用close方法,关闭全局变量index对应的加载效果
+										$("#business_info").html(
+												"企业的经营力预测值为：" + data);
+									});
+								}
+							});
+						});
 
+		/**
+		 * 经营风险--司法方面
+		 */
+		$('#cnn_law_Btn').click(function() {
 
-</script>
+			//防止用户未填写完整数据提交
+			for (var i = 0; i < document.laws_forms.elements.length - 1; i++) {
+				if (document.laws_forms.elements[i].value == "") {
+					layui.use([ 'layer', 'form' ], function() {
+						//提示层
+						layer.msg('请填写完整数据信息！')
+					});
+					document.laws_forms.elements[i].focus();
+					return false;
+				}
+			}
+			;
+			//表单提交数据序列化
+			var laws_data = $('#cnn_laws_risks').serialize();
+			$.ajax({
+				cache : true,//保留缓存数据
+				type : "POST",//为post请求
+				url : "./lawRisk",//请求后台方法并接受模型返回数据
+				data : laws_data,
+				error : function(request) {//请求失败之后的操作
+					return;
+				},
+				beforeSend : function(XMLHttpRequest) {
+					//$("#msg2").empty(); //加载前先清空结果信息
+					$("#businessView").empty(); //加载前先清空结果信息
+					$("#businessView1").empty(); //加载前先清空结果信息
+					layui.use([ 'layer', 'form' ], function() {
+						index = layer.load(1, {
+							shade : 0.06
+						});
+					});
+				},
+
+				success : function(data) {
+					//$("#loading2").empty();
+					layui.use([ 'layer', 'form' ], function() {
+						var layer = layui.layer
+						layer.close(index);
+						//调用close方法,关闭全局变量index对应的加载效果
+						$("#laws_info").html("企业的司法风险预测值为：" + data);
+					});
+				}
+			});
+		});
+	</script>

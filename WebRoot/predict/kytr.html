@@ -1,143 +1,188 @@
-#@predict()
-#define predict_main()
+#@predict() #define predict_main()
 
 <div class="container-content">
-    <!-- common search -->
-    <div class="sd_company_container">
-        <div class="sd_form_search" style="height:50px">
-           <p style="text-align:center; font-size:30px">企业科研投入推荐分析 </p>
-        </div>
-    </div>
+	<!-- common search -->
+	<div class="sd_company_container">
+		<div class="sd_form_search" style="height: 50px">
+			<p style="text-align: center; font-size: 30px">企业科研投入推荐分析</p>
+		</div>
+	</div>
 
-    <div class="sd_company_container" style="margin-top: 20px;">
-        <div class="sd_cent">
-            <div class="sd_cent">
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>企业科研投入推荐分析</b>
-                    </div>
-                    <div class="or_left_silde" id="factors">
-                        <div class="or_category" style="height:640px">
-                        <div class="page-header" style="height:20px">  
-        					<small>输入投入指标数据</small>  
-						</div>
-                             <form   class="form-horizontal" name="form1" id="kytr_data"  onsubmit="return false" action="##" method="post">
-                                   <div class="form-group">
-                                          <label for="firstname" class="col-sm-4 control-label">科研投入</label>
-                                      <div class="col-sm-8">
-                                         <input type="text" name="scienceInvest.sci_invest" style="width:25%"  class="form-control" id="firstname" 
-                                            placeholder="请输入科研投入">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">本科及以上学历人数</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.edu_num"  style="width:25%"  class="form-control" id="lastname" 
-                                            placeholder="请输入本科及以上学历人数">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">员工人数</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.work_num"  style="width:25%"  class="form-control" id="lastname" 
-                                            placeholder="请输入员工人数">
-                                        </div>
-                                   </div>
-                                   <div class="page-header">  
-        								<small>输入产出指标数据</small>  
+	<div class="sd_company_container" style="margin-top: 20px;">
+		<div class="sd_cent">
+			<div class="sd_cent">
+				<div class="sd_left_block">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>企业科研投入推荐分析</b>
+					</div>
+					<div class="or_left_silde" id="factors">
+						<div class="or_category" style="height: 450px">
+							<div class="panel panel-success">
+								<div class="panel-heading">
+									<h3 class="panel-title">选择预测模型</h3>
+								</div>
+								<div class="panel-body">
+									<div>
+										<label class="radio-inline"> <input type="radio"
+											name="modelType" id="optionsRadios3" value="0" checked>
+											数据包络分析（DEA）模型 <label class="radio-inline"> <input
+												type="radio" name="modelType" id="optionsRadios4" value="1">
+												卷积神经网络（CNN）的模型
+										</label>
 									</div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">软著总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.soft_num" style="width:25%" class="form-control" id="lastname" 
-                                            placeholder="请输入软著总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group" >
-                                           <label for="lastname" class="col-sm-4 control-label">专利总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.patent_num" style="width:25%" class="form-control" id="lastname" 
-                                            placeholder="请输入专利总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">商标总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.brand_num" style="width:25%" class="form-control" id="lastname" 
-                                            placeholder="请输入商标总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">作品总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.works_num" style="width:25%" class="form-control" id="lastname" 
-                                            placeholder="请输入作品总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">网站总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.web_num" style="width:25%"  class="form-control" id="lastname" 
-                                            placeholder="请输入网站总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">利润总计</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.profit_num" style="width:25%"  class="form-control" id="lastname" 
-                                            placeholder="请输入公司利润总计">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                           <label for="lastname" class="col-sm-4 control-label">营业收入</label>
-                                        <div class="col-sm-8">
-                                            <input type="text" name="scienceInvest.receipt_num" style="width:25%"  class="form-control" id="lastname" 
-                                            placeholder="请输入营业收入">
-                                        </div>
-                                   </div>
-                                   <div class="form-group">
-                                        <div class="col-sm-offset-4 col-sm-8">
-                                            <button type="submit" id="btn" class="btn btn-default">开始分析</button>
-                                        </div>
-                                    </div>
-                            </form> 
-                        </div>
-                   </div>
-                </div>                               
-                 <div class="sd_left_block" >
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>结果分析及可视化</b>                       
-                    </div>
-                    <div class="or_left_silde" id="result" style="height: 400px"> 
-                    	<div style="text-align:center" id="loading"></div>
-                    	 <div class="container">
-                            <div class="row">
-                        		<div class="col-md-6">  
-                        		<!-- <div class="page-header">
+								</div>
+							</div>
+							<div class="page-header" style="height: 20px">
+								<small>输入指标</small>
+							</div>
+
+							<!-- Start Index Input  -->
+							<form class="form-horizontal" name="form1" id="kytr_data"
+								onsubmit="return false" action="##" method="post">
+								<div class="container">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="firstname" class="col-sm-4 control-label">科研投入</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.sci_invest"
+														style="width: 50%" class="form-control" id="firstname"
+														placeholder="科研投入">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">本科及以上学历人数</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.edu_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="本科及以上学历人数">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">员工人数</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.work_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="公司员工总数">
+												</div>
+											</div>
+
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">软著总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.soft_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="软著数量总计">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">专利总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.patent_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="专利数量总计">
+												</div>
+											</div>
+										</div>
+
+										<div class="col-md-6">
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">商标总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.brand_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="商标数量总计">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">作品总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.works_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="作品数量总计">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">网站总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.web_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="网站数量总计">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">利润总计</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.profit_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="公司利润总计">
+												</div>
+											</div>
+											<div class="form-group">
+												<label for="lastname" class="col-sm-4 control-label">营业收入</label>
+												<div class="col-sm-8">
+													<input type="text" name="scienceInvest.receipt_num"
+														style="width: 50%" class="form-control" id="lastname"
+														placeholder="公司营业收入">
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-sm-offset-5 col-sm-6">
+										<button type="submit" id="btn" class="btn btn-success">开始预测</button>
+									</div>
+								</div>
+							</form>
+							<!-- End Index Input -->
+
+
+
+
+						</div>
+					</div>
+				</div>
+				<div class="sd_left_block">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>结果分析及可视化</b>
+					</div>
+					<div class="or_left_silde" id="result" style="height: 330px">
+						<div style="text-align: center" id="loading"></div>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-6">
+									<!-- <div class="page-header">
   								<small style="font-size:15px">科研投入优良率</small> 										 
 							    </div>   -->
-                         			<p id="view"><div id="radar" style="width: 100%;height: 350px;"></div> </p>
-                        		</div>
-                        		
-                        		<div class="col-md-6"><!-- <div class="page-header">
+									<p id="view">
+									<div id="radar" style="width: 100%"></div>
+									</p>
+								</div>
+
+								<div class="col-md-6">
+									<!-- <div class="page-header">
   								<small style="font-size:15px">科研投入推荐建议</small> 										 
 							    </div> -->
-							     <p id="msg"></p>
-							     </div> 
-               			    </div>  
-                        </div>                                                   
-                     </div>
-                  
-                </div>
-            </div>
-        
-        </div>
-    </div>
+									<p id="msg"></p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
 </div>
 #end
 
 <script>
+
+
 $('#btn').click(function(){
+	
 	//防止用户未填写完整数据提交
 	for(var i=0;i<document.form1.elements.length-1;i++)
     {
@@ -148,11 +193,17 @@ $('#btn').click(function(){
        return false;
      }
  }
+
+// get radio val
+var typeIndex = $("input[name='modelType']:checked").val();
+// get Input Val
 var kytr_data =  $('#kytr_data').serialize();
+// select DEA Model 
+if(typeIndex == 0) {
  $.ajax({
         cache:true,//保留缓存数据
         type:"POST",//为post请求
-        url:"./MemoryNetModel",//请求后台方法并接受模型返回数据
+        url:"./kytr_model",//请求后台方法并接受模型返回数据
         data:kytr_data,//将该表单序列化
         //async: false,
         error:function(request){//请求失败之后的操作
@@ -183,7 +234,7 @@ var kytr_data =  $('#kytr_data').serialize();
        	else{
        	 	guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
        	   /*  if(data['ret'] == 1){ */
-       	    subInfo = "目前投入资源的使用时最有效的,但产出不能与投入成同比例增加.\t【建议】：提高管理效率.\n";
+       	    subInfo = "目前投入资源的使用时最有效的,但产出不能与投入成同比例增加.<br />【建议】：提高管理效率.\n";
        	  /*   } */
        	   /*  else if(data.ret[2]  > 0.9){
        	        subInfo = "目前产出与投入基本能成同比例增加.但投入资源没有充分利用.\n【建议】：提高企业资源利用率，提高自主创新能力.\n";
@@ -197,7 +248,7 @@ var kytr_data =  $('#kytr_data').serialize();
          	$("#msg").html(html);         
          //雷达图展示
          //先加载画布
-         $("#view").html("<div id=\"radar\" style=\"width: 100%;height: 350px;\"></div>");       
+         $("#view").html("<div id=\"radar\" style=\"width: 100%;height: 300px;\"></div>");       
          var radar = echarts.init(document.getElementById("radar"));
          option = {
      		    tooltip : {
@@ -232,7 +283,7 @@ var kytr_data =  $('#kytr_data').serialize();
      		        {
      		            name: '企业科研投入指数',
      		            type: 'gauge',
-     		            radius: '75%',	  
+     		            radius: '80%',	  
      		            detail: {formatter:'{value}%',fontSize:17},
      		            data: [{value: ccr, name: '科研投入优良率'}]
      		        }
@@ -274,6 +325,213 @@ var kytr_data =  $('#kytr_data').serialize();
          radar.setOption(option);        	
         }
     }) ;
+}
+ // If select CNN Model loading below 20181025
+ else {
+	 
+	 $.ajax({
+	        cache:true,//保留缓存数据
+	        type:"POST",//为post请求
+	        url:"./MemoryNetModel",//请求后台方法并接受模型返回数据
+	        data:kytr_data,//将该表单序列化
+	        //async: false,
+	        error:function(request){//请求失败之后的操作
+	            return;
+	        }, 
+	        beforeSend:function(XMLHttpRequest){
+	        	// loading shadow
+	        	$("#msg").empty(); //加载前先清空结果信息
+	        	$("#view").empty() ;//加载前先清空已有信息
+	            //$("#loading").html("<img src='../static/home/predict/images/loading.gif' />数据分析中……"); //在后台返回success之前显示loading图标  
+	        	 layui.use(['layer', 'form'], function(){
+	        		 index = layer.load(1, {shade: 0.06});
+	         });
+	        },  
+	        success:function(data){//请求成功之后的操作
+	        	var predVal = (data);
+	           	layui.use(['layer', 'form'], function(){
+	                		var layer = layui.layer
+	                		layer.close(index);  // 调用close方法,关闭全局变量index对应的加载效果              
+	                });
+	       	 	var html = ''; 
+	            var guidInfo = "";
+	            var subInfo = "";
+	            // 0--表示极好
+	       	if(predVal  == 0)
+	       	    guidInfo = "投入产出整体去上处于最佳状况，资源配置达到最优状态，请继续保持！\n";
+	       	else if(predVal == 1){
+	       		//中等
+	       	 	guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
+	       	 	subInfo = "目前投入资源的使用时最有效的,但产出不能与投入成同比例增加.<br />【建议】：提高管理效率.\n";
+	       		} 
+           	else if(predVal == 2){
+           			// 一般
+           			guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
+         	        subInfo = "目前产出与投入基本能成同比例增加.但投入资源没有充分利用.<br />【建议】：提高企业资源利用率，提高自主创新能力.\n";
+         	    }
+         	else {
+         		//最差
+         		   guidInfo = "投入产出整体尚未达到最佳状况，资源配置未达到最优状态,";
+         	       subInfo = "目前产出与投入不能成同比例增加.投入资源没有充分利用,制约了企业创新技术能力的提高.<br />【建议】：提高企业资源利用率，提高自主创新能力并且提高管理效率.\n";
+         	    }             
+	       	html = guidInfo+"<br>"+subInfo;
+	       	$("#msg").html(html);         
+
+	         //先加载画布，雷达图展示
+	         $("#view").html("<div id=\"radar\" style=\"width: 100%;height: 300px;\"></div>");       
+	         var radar = echarts.init(document.getElementById("radar"));
+	         var val = -25*predVal+100 //将等级转化为百分制，0为最好分类
+	         var color = [
+	                      [0.083, '#d60e03'],
+	                      [0.167, '#f20e02'],
+	                      [0.25, '#fa2f00'],
+	                      [0.333, '#ec671c'],
+	                      [0.417, '#fa5800'],
+	                      [0.5, '#fa8700'],
+	                      [0.583, '#ffbb00'],
+	                      [0.667, '#fae000'],
+	                      [0.75, '#fbe360'],
+	                      [0.833, '#b4d43e'],
+	                      [0.917, '#69d728'],
+	                      [1, '#4db90d'],
+	                  ];
+	                  option = {
+	               		    toolbox: {
+	                            feature: {
+	                            restore: {
+	                                 show: true,                         //是否显示该工具。
+	                                 title:"还原",
+	                            },
+	                            saveAsImage: {
+	                                show: true,                         //是否显示该工具。
+	                                title:"保存为图片",
+	                                pixelRatio:1  
+	                            }
+	                            }
+	                        },
+	                      series: [{
+	                              name: '科研投入能力',
+	                              type: 'gauge',
+	                              radius: '100%',
+	                              min: 0,
+	                              max: 100,
+	                              splitNumber: 4, //刻度数量
+	                              startAngle: 180,
+	                              endAngle: 0,
+	                              axisLine: {
+	                                  lineStyle: {
+	                                      color: color,
+	                                      width: 15
+	                                  }
+	                              },
+	                              splitLine: {
+	                                  show: true,
+	                              },
+	                              axisTick: {
+	                                  show: false
+	                              },
+	                              pointer: {
+	                                  show: false
+	                              },
+	                              title: {
+	                                  show: false
+	                              },
+	                              axisLabel: {
+	                                  show: true,
+	                                  fontSize: 14
+	                              },
+	                              detail: {
+	                                  formatter: function(e) {
+	                                	  switch(e + "") {
+		              						case "25":
+		              							return "科研投入能力" + "较差"
+		               
+		              						case "50":
+		              							return "科研投入能力" + "良好"
+
+		              						case "75":
+		              							return "科研投入能力" + "较好"
+
+		              						case "100":
+		              							return "科研投入能力" + "极好"           								
+		              						
+		                                	  }	                                
+	                                  },
+	                                  offsetCenter: [0, '0'],
+	                                  fontSize: 15,
+	                                  fontWeight: 700
+	                              },
+	                              data: [{
+	                                  name: "科研投入等级",
+	                                  value: val
+	                              }]
+	                          },
+	                          {
+	                              name: '科研能力等级',
+	                              title: {
+	                                  color: "#444",
+	                                  fontSize: 16,
+	                                  offsetCenter: [0, '-55%']
+	                              },
+	                              type: 'gauge',
+	                              radius: '50%',
+	                              min: 0,
+	                              max: 100,
+	                              splitNumber: 0, //刻度数量
+	                              startAngle: 180,
+	                              endAngle: 0,
+	                              axisLine: {
+	                                  show: false,
+	                                  lineStyle: {
+	                                      color: color,
+	                                      width: 6
+	                                  }
+	                              },
+	                              detail: {
+	                                  formatter: function(e) {
+	                                	  switch(e + "") {
+	              						case "25":
+	              							return "D级";
+	               
+	              						case "50":
+	              							return "C级";
+
+	              						case "75":
+	              							return "B级";
+
+	              						case "100":
+	              							return "A级";             								
+	              							
+	              						default:
+	              							return e;
+	              						
+	                                	  }
+	                                  },
+	                                  offsetCenter: [0, '-30%'],
+	                                  fontSize: 15,
+	                                  fontWeight: 700
+	                              },
+	                              splitLine: {
+	                                  show: false,
+	                              },
+	                              axisLabel: {
+	                                  show: false
+	                              },
+	                              pointer: {
+	                                  show: false
+	                              },
+	                              data: [{
+	                                  name: "科研投入能力",
+	                                  value: val
+	                              }]
+	                          }
+	                      ]
+	                  }; 	
+	         radar.setOption(option);        	
+	        }
+	    }) ;	 
+ }
+ 
 })
 </script>
 
