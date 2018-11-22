@@ -1,15 +1,28 @@
 package com.ccip.bank.model;
 
+import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.PrintStream;
+import java.net.Socket;
 import java.util.ArrayDeque;
+import java.util.ArrayList;
 import java.util.Deque;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+import org.apache.jena.atlas.json.JSON;
+import org.apache.jena.sparql.function.library.leviathan.log;
+import org.deeplearning4j.eval.meta.Prediction;
 import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
+import org.omg.CORBA.PUBLIC_MEMBER;
 import org.tensorflow.Operation;
 import org.tensorflow.Output;
 import org.tensorflow.SavedModelBundle;
@@ -18,8 +31,11 @@ import org.tensorflow.Tensor;
 import org.tensorflow.TensorFlow;
 
 import com.ccip.bank.utils.TensorFlowInferenceInterface;
+import com.huaban.analysis.jieba.JiebaSegmenter;
 import com.mathworks.toolbox.javabuilder.MWException;
 import com.mathworks.toolbox.javabuilder.MWNumericArray;
+import com.mathworks.toolbox.javabuilder.external.org.json.JSONArray;
+import com.mathworks.toolbox.javabuilder.external.org.json.JSONObject;
 
 import MinMaxScaler.MinMax;
 
@@ -30,9 +46,41 @@ import MinMaxScaler.MinMax;
 public class TensorFlowForJava {
 
 	public static void main(String[] args) throws FileNotFoundException,
-			IOException, MWException {
-
+			IOException, MWException {				
 		System.out.println("TensorFlow version: " + TensorFlow.version());
+		System.out.println(predictSentiment());
+
+	}
+	
+	
+	public static String predictSentiment() {
+		float res = 0;
+		// 测试文本预处理
+		String text = System.getProperty("user.dir")+"/datasets/SentimentText/租车公司失踪客户要不回万元押金 疑不符网约车新政 网约车.txt";	
+		String data = txt2String(text);
+		String sub_data = data.replaceAll("\\pP|\\pS|\\s*", "");
+		System.out.println(sub_data);
+		JiebaSegmenter segmenter = new JiebaSegmenter(); 
+        List<String> info = segmenter.sentenceProcess(sub_data);
+        // Model load CNN textSentiment
+        TensorFlowInferenceInterface tfi = new
+     		TensorFlowInferenceInterface(System.getProperty("user.dir")+"/TFModel/Sentiment/Text_Sentiment.pb","mytag");
+         final Operation operation = tfi.graphOperation("cnn/output/predictions");
+		 float[] a = new float[]{-2.21283262e-02f, -4.22827772e-02f,
+					 -1.22634684e-01f, -1.01158189e-01f,
+					 -1.16706481e-01f, -3.61754572e-02f};
+		 tfi.feed("cnn/placeholders/inputs", a,1, a.length);
+		 tfi.run(new String[] { "cnn/output/predictions" }, false);//输出张量
+		 long [] outPuts = new long [1];//结果分类
+		 tfi.fetch("cnn/output/predictions", outPuts);//接收结果
+		 // outPuts保存的即为预测结果对应的概率，最大的一个通常为本次预测结果}
+		 System.out.println(outPuts[0]);
+        
+		return info.toString();
+	}
+	
+
+	
 
 		/**
 		 * 信用模型调用
@@ -193,24 +241,48 @@ public class TensorFlowForJava {
 
 		/**
 		 * @discription 基于记忆网络的企业科研投入模型
-		 * @data 181024
+		 * @date 181024
 		 * @return grade
 		 *
 		 */
-		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(
-				System.getProperty("user.dir") + "/TFModel/kytr/pred-model.pb",
-				"mytag"); // 加载模型
-		System.out.println("您预测的科研投入等级为：\n");
-		float[] inputVal = new float[] { 9.5667887e-01f, 2.1208158e-04f,
-				2.8952122e-01f, 3.1469699e-03f, 2.9371718e-02f, 0.0000000e+00f,
-				8.3919195e-03f, 0.0000000e+00f, 0.0000000e+00f }; // 接收预测数据
-		tfi.feed("inputs", inputVal, 1, 9); // 数据传入网络
-		tfi.run(new String[] { "pred" }, false); // 输出张量
-		long[] outPuts = new long[1];
-		tfi.fetch("pred", outPuts); // 接收预测分类结果
-		System.out.println(outPuts[0]);
+//		TensorFlowInferenceInterface tfi = new TensorFlowInferenceInterface(
+//				System.getProperty("user.dir") + "/TFModel/kytr/pred-model.pb",
+//				"mytag"); // 加载模型
+//		System.out.println("您预测的科研投入等级为：\n");
+//		float[] inputVal = new float[] { 9.5667887e-01f, 2.1208158e-04f,
+//				2.8952122e-01f, 3.1469699e-03f, 2.9371718e-02f, 0.0000000e+00f,
+//				8.3919195e-03f, 0.0000000e+00f, 0.0000000e+00f }; // 接收预测数据
+//		tfi.feed("inputs", inputVal, 1, 9); // 数据传入网络
+//		tfi.run(new String[] { "pred" }, false); // 输出张量
+//		long[] outPuts = new long[1];
+//		tfi.fetch("pred", outPuts); // 接收预测分类结果
+//		System.out.println(outPuts[0]);
+//
+//	}
+		
+	public static String txt2String(String file){
+		StringBuilder result = new StringBuilder();
+		try{
+			BufferedReader br = new BufferedReader(new FileReader(file));//构造一个BufferedReader类来读取文件
+				String s = null;
+				while((s = br.readLine())!=null){//使用readLine方法，一次读一行
+					result.append(System.lineSeparator()+s);
+				}
+				br.close();
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+		String res = result.toString();
+		return res;
+		
+		}
 
-	}
+		
+		
+		
+		
+		
+		
 
 	/**
 	 * 0均值\标准差归一化 公式：X(norm) = (X - μ) / σ X(norm) = (X - 均值) / 标准差
@@ -295,5 +367,7 @@ public class TensorFlowForJava {
 		}
 		return matrixJ;
 	}
+	
+
 
 }

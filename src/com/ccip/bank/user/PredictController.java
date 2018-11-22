@@ -4,11 +4,17 @@ import helloMatrix.hydtTest;
 import hydtColdHot.ColdHot;
 import it.unimi.dsi.fastutil.floats.Float2ObjectMaps;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.net.URL;
+import java.net.URLConnection;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
@@ -19,6 +25,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.util.EntityUtils;
 import org.apache.jena.base.Sys;
 import org.bytedeco.javacpp.annotation.Cast;
 import org.nd4j.nativeblas.Nd4jCpu.double_absolute_difference_loss;
@@ -1709,6 +1721,64 @@ public class PredictController extends Controller {
 		renderPageForLayUI(page_all, 0, "操作成功");
 	}
 
+	// 舆情信息处理
+	public void getSentimentRes() throws Exception {
+		// 接收处理文本
+		String texts = getPara("text");
+		String data = texts.replaceAll("\\pP|\\pS|\\s*", "");
+		//发送 POST 请求
+		System.out.println(data);
+        String sr= sendGetMethod("http://124.16.71.33:8600/Sentiment", "text="+data, "utf-8");
+        System.out.println(sr);
+		renderJson(sr);		
+	}
+	
+
+
+
+	/**
+     * 通过get方式发送请求，并返回响应结果
+     * 
+     * @param url
+     *            请求地址
+     * @param params
+     *            参数列表，例如name=小明&age=8里面的中文要经过Uri.encode编码
+     * @param encoding
+     *            编码格式
+     * @return 服务器响应结果
+     * @throws Exception
+     */
+	private static final int HTTP_STATUS_OK = 200;
+    public static String sendGetMethod(String url, String params,
+            String encoding) throws Exception {
+        String result = "";
+        url += ((-1 == url.indexOf("?")) ? "?" : "&") + params;
+
+        HttpClient client = new DefaultHttpClient();
+        HttpGet get = new HttpGet(url);
+        get.setHeader("charset", encoding);
+
+        try {
+            HttpResponse response = client.execute(get);
+            if (HTTP_STATUS_OK == response.getStatusLine().getStatusCode()) {
+                result = EntityUtils.toString(response.getEntity(), encoding);
+            } else {
+                throw new Exception("Invalide response from Api!"
+                        + response.toString());
+            }
+        } catch (ClientProtocolException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        return result;
+    }
+
+	
+	
+	
 	/**
 	 * 以FileWriter方式写入txt文件。
 	 * 

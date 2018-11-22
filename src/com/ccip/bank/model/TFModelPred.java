@@ -108,7 +108,7 @@ public class TFModelPred {
 	 * @author Mason
 	 * @param modelPath
 	 * @param inputVal
-	 * @data 20181024
+	 * @date 20181024
 	 * @return predValue
 	 *
 	 */
@@ -123,5 +123,20 @@ public class TFModelPred {
 		predValue = outPuts[0];
 		return predValue;
 	}
-
+	
+	/**
+	 * @date 20181119
+	 * @param modelPath
+	 * @param inputVal
+	 * @return res
+	 * @deprecated 基于CNN的文本情感分析模型调用
+	 * 
+	 */
+	public  float textSentiment(String modelPath, String text) {
+		float res = 0;
+		
+		
+		
+		return res;
+	}
 }

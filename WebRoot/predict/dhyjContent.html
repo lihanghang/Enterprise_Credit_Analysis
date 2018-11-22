@@ -1,105 +1,199 @@
-#@predict()
-#define predict_main()
+#@predict() #define predict_main()
 
 <div class="container-content">
-    <div class="sd_company_container">
-        <div class="sd_form_search" style="height:50px">
-           <p style="text-align:center; font-size:30px">#(cname) </p>
-        </div>
-    </div>
-    <div class="sd_company_container" style="margin-top: 20px;">
-        <div class="sd_cent">
-            <div class="sd_cent">
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b>贷后预警详情</b>   <span style="padding-left:900px;"> <a style="color:green" href="#(ctx_path)/predict/dhyj">返回预警监控主界面</a></span>
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" >                    
-                   		<div class="panel panel-default">
-    						<div class="panel-heading">
-        						<h3 class="panel-title">最新涉诉</h3>
-    						</div>
-    							<!--lawsuit -->
-    						<div class="panel-body">
+	<div class="sd_company_container">
+		<div class="sd_form_search" style="height: 50px">
+			<p style="text-align: center; font-size: 30px">#(cname)</p>
+		</div>
+	</div>
+	<div class="sd_company_container" style="margin-top: 20px;">
+		<div class="sd_cent">
+			<div class="sd_cent">
+				<div class="sd_left_block">
+					<div class="sd_left_block_tit" style="color: green">
+						<b>贷后预警详情</b> <span style="padding-left: 900px;"> <a
+							style="color: green" href="#(ctx_path)/predict/dhyj">返回预警监控主界面</a></span>
+					</div>
+					<div class="or_left_silde" id="searchCondition">
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h3 class="panel-title">最新涉诉</h3>
+							</div>
+							<!--lawsuit -->
+							<div class="panel-body">
 								<table class="layui-hide" id="lawsuit"></table>
-    						</div>
+							</div>
 						</div>
-  
-   						<div class="panel panel-default">
-    						<div class="panel-heading">
-        						<h3 class="panel-title"> 最新变更</h3>
-    						</div>
-      						<div class="panel-body">
-        						<table class="layui-hide" id="change"></table> 
-							</div>                                                             
-                   		</div>
-                	</div>                               
-                <div class="sd_left_block">
-                    <div class="sd_left_block_tit" style="color:green">
-                        <b> 贷后动态监控信息</b>                      
-                    </div>
-                    <div class="or_left_silde" id="searchCondition" style="height: 300px">
-                    
-                    <div class="or_category">
-                          <p>建立模型进行动态预测分析报警[财务数据]</p>
-                          <div class="panel-body">
-								<table class="layui-hide" id="financial"></table>
-    						</div>                                               
-                    </div> 
-                     </div>
-                </div>
-            </div>        
-        </div>
-    </div>
-</div>
-#end
-<script>
-  layui.use('table', function(){
-      var table = layui.table; 
-  table.render({
-    elem: '#change'
-    ,url:'../getMethod_change?num=#(code)'
-    ,cols: [[
-       {type:'numbers' ,title: '序号'}
-      ,{field:'change_date', width:110, title: '时间',sort: true}
-      ,{field:'change_type', width:100, title: '变更类型', sort: true}
-      ,{field:'change_before', width:180, title: '变更前', minWidth: 100}
-      ,{field:'change_after', title: '变更后', minWidth: 100}
-    ]]
-    ,page: true
-  });
-  
-  table.render({
-	    elem: '#lawsuit'
-	    ,url:'../getMethod_lawsuit?num=#(code)'
-	    ,cols: [[
-	      {type:'numbers' ,title: '序号'}
-	      ,{field:'date', width:110, title: '时间',sort: true}
-	      ,{field:'case_content', width:100, title: '内容', minWidth: 150}
-	      ,{field:'case_source', width:200, title: '涉诉类型',sort: true}
-	      ,{field:'identitys', title: '案件身份', minWidth: 150}
-	      ,{field:'case_num', title: '案件号', minWidth: 150}
-	    ]]
-	    ,page: true
-	  });
-  
-  table.render({
-	    elem: '#financial'
-	    ,url:'../getMethod_financial?num=#(code)'
-	    ,cols: [[
-	       {type:'numbers' ,title: '序号'}
-	       ,{field:'year', width:110, title: '年份',sort: true}
-		   ,{field:'oper_revenue', width:125, title: '营业收入(万元)', minWidth: 150}
-		   ,{field:'main_oper_revenue', width:145, title: '主营业收入(万元)', minWidth: 150}
-		   ,{field:'other_oper_revenue', width:160, title: '其他业务收入(万元)', minWidth: 150}
-		   ,{field:'oper_cost', width:140, title: '营业成本(万元)', minWidth: 150}
-		   ,{field:'main_oper_cost', width:140, title: '主营成本(万元)', minWidth: 150}
-		   ,{field:'other_oper_cost', width:140, title: '其他成本(万元)', minWidth: 150}
-	    ]]
-	    ,page: true
-	  });
-});
-</script>
 
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h3 class="panel-title">最新变更</h3>
+							</div>
+							<div class="panel-body">
+								<table class="layui-hide" id="change"></table>
+							</div>
+						</div>
+					</div>
+					<div class="sd_left_block">
+						<div class="sd_left_block_tit" style="color: green">
+							<b> 企业舆情数据情感分析</b>
+						</div>
+						<div class="or_left_silde" id="searchCondition"
+							style="height: 300px">
 
+							<div class="or_category">
+								<!-- <p>建立模型进行动态预测分析报警[财务数据]</p> -->
+								<div class="panel-body">
+									<!-- <table class="layui-hide" id="financial"></table> -->
+									<form method="POST" onsubmit="return false"">
+										<input id="text" name="" type="text" size="100" />
+										<button
+											style="border-radius: 20px; background: #337ab7; color: #fff"
+											type="submit" id="textBtn" class="btn btn-default">开始分析
+										</button>
+									</form>																	
+								</div>
+								<!-- 展示预测结果  -->
+									<p id="info"> </p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	#end
+	<script>
+		layui.use('table', function() {
+			var table = layui.table;
+			table.render({
+				elem : '#change',
+				url : '../getMethod_change?num=#(code)',
+				cols : [ [ {
+					type : 'numbers',
+					title : '序号'
+				}, {
+					field : 'change_date',
+					width : 110,
+					title : '时间',
+					sort : true
+				}, {
+					field : 'change_type',
+					width : 100,
+					title : '变更类型',
+					sort : true
+				}, {
+					field : 'change_before',
+					width : 180,
+					title : '变更前',
+					minWidth : 100
+				}, {
+					field : 'change_after',
+					title : '变更后',
+					minWidth : 100
+				} ] ],
+				page : true
+			});
 
+			table.render({
+				elem : '#lawsuit',
+				url : '../getMethod_lawsuit?num=#(code)',
+				cols : [ [ {
+					type : 'numbers',
+					title : '序号'
+				}, {
+					field : 'date',
+					width : 110,
+					title : '时间',
+					sort : true
+				}, {
+					field : 'case_content',
+					width : 100,
+					title : '内容',
+					minWidth : 150
+				}, {
+					field : 'case_source',
+					width : 200,
+					title : '涉诉类型',
+					sort : true
+				}, {
+					field : 'identitys',
+					title : '案件身份',
+					minWidth : 150
+				}, {
+					field : 'case_num',
+					title : '案件号',
+					minWidth : 150
+				} ] ],
+				page : true
+			});
+
+			table.render({
+				elem : '#financial',
+				url : '../getMethod_financial?num=#(code)',
+				cols : [ [ {
+					type : 'numbers',
+					title : '序号'
+				}, {
+					field : 'year',
+					width : 110,
+					title : '年份',
+					sort : true
+				}, {
+					field : 'oper_revenue',
+					width : 125,
+					title : '营业收入(万元)',
+					minWidth : 150
+				}, {
+					field : 'main_oper_revenue',
+					width : 145,
+					title : '主营业收入(万元)',
+					minWidth : 150
+				}, {
+					field : 'other_oper_revenue',
+					width : 160,
+					title : '其他业务收入(万元)',
+					minWidth : 150
+				}, {
+					field : 'oper_cost',
+					width : 140,
+					title : '营业成本(万元)',
+					minWidth : 150
+				}, {
+					field : 'main_oper_cost',
+					width : 140,
+					title : '主营成本(万元)',
+					minWidth : 150
+				}, {
+					field : 'other_oper_cost',
+					width : 140,
+					title : '其他成本(万元)',
+					minWidth : 150
+				} ] ],
+				page : true
+			});
+		});
+
+		$('#textBtn').click(function() {
+			var element = document.getElementById("info");
+			var datas = document.getElementById("text").value
+			var res ;
+			$.ajax({
+				'type' : "GET",
+				'url' : "../getSentimentRes",//请求后台方法并接受模型返回数据
+				'data' : {
+					text : datas
+				},
+				"dataType" : "json",
+				"contentType" : "application/json", // json格式
+				success : function(data) {
+					// 接收预测返回值
+					if(data>=0.5)
+						res = "是一则负面新闻"
+					res = "是一则正面新闻"
+					element.innerHTML = res
+					
+				}
+			});
+		});
+	</script>
