@@ -15,6 +15,7 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.net.URLEncoder;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
@@ -1726,15 +1727,14 @@ public class PredictController extends Controller {
 		// 接收处理文本
 		String texts = getPara("text");
 		String data = texts.replaceAll("\\pP|\\pS|\\s*", "");
+		// 防止URL编码问题
+		String dataEncode = URLEncoder. encode(data, "utf-8" );
 		//发送 POST 请求
-		System.out.println(data);
-        String sr= sendGetMethod("http://124.16.71.33:8600/Sentiment", "text="+data, "utf-8");
+        String sr= sendGetMethod("http://124.16.71.33:8600/Sentiment", "text="+dataEncode, "utf-8");
         System.out.println(sr);
 		renderJson(sr);		
 	}
 	
-
-
 
 	/**
      * 通过get方式发送请求，并返回响应结果
@@ -1752,6 +1752,7 @@ public class PredictController extends Controller {
     public static String sendGetMethod(String url, String params,
             String encoding) throws Exception {
         String result = "";
+        // String dataEncode = URLEncoder.encode(params, "utf-8" );
         url += ((-1 == url.indexOf("?")) ? "?" : "&") + params;
 
         HttpClient client = new DefaultHttpClient();

@@ -46,7 +46,7 @@
 								<div class="panel-body">
 									<!-- <table class="layui-hide" id="financial"></table> -->
 									<form method="POST" onsubmit="return false"">
-										<input id="text" name="" type="text" size="100" />
+										<textarea id="text" name="" type="text" rows="8" cols="100">输入新闻内容……………… </textarea>
 										<button
 											style="border-radius: 20px; background: #337ab7; color: #fff"
 											type="submit" id="textBtn" class="btn btn-default">开始分析
@@ -189,8 +189,9 @@
 				success : function(data) {
 					// 接收预测返回值
 					if(data>=0.5)
-						res = "是一则负面新闻"
-					res = "是一则正面新闻"
+						res = "是一则负面新闻"+data
+					else
+						res = "是一则正面新闻"
 					element.innerHTML = res
 					
 				}
