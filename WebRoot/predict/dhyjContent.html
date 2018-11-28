@@ -36,25 +36,55 @@
 					</div>
 					<div class="sd_left_block">
 						<div class="sd_left_block_tit" style="color: green">
-							<b> 企业舆情数据情感分析</b>
+							<b> 企业新闻舆情情感分析</b>
 						</div>
 						<div class="or_left_silde" id="searchCondition"
-							style="height: 300px">
+							style="height: 550px">
 
 							<div class="or_category">
 								<!-- <p>建立模型进行动态预测分析报警[财务数据]</p> -->
 								<div class="panel-body">
 									<!-- <table class="layui-hide" id="financial"></table> -->
-									<form method="POST" onsubmit="return false"">
+									<!-- <form method="POST" onsubmit="return false"">
 										<textarea id="text" name="" type="text" rows="8" cols="100">输入新闻内容……………… </textarea>
 										<button
 											style="border-radius: 20px; background: #337ab7; color: #fff"
 											type="submit" id="textBtn" class="btn btn-default">开始分析
 										</button>
-									</form>																	
+									</form>	 -->
+
+
+
+									<table class="layui-table" border= "1" lay-skin="line" id="datas">
+										<colgroup>
+											<col width="150">
+											<col width="200">
+											<col>
+										</colgroup>
+										<thead>
+											<tr>
+												<th>序号</th>
+												<th>日期</th>
+												<th>标题</th>
+												<th>来源</th>
+												<!-- <th>内容</th> -->
+												<th>舆情指数(<=0.5为正面新闻)</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr id="template">
+												<td id="id"></td>
+												<td id="date"></td>
+												<td id="title"></td>
+												<td id="source"></td>
+												<!-- <td id="content"></td> -->
+												<td id="pred"></td>
+											</tr>
+										</tbody>
+									</table>
 								</div>
 								<!-- 展示预测结果  -->
-									<p id="info"> </p>
+								<!-- <p id="info"> </p> -->
 							</div>
 						</div>
 					</div>
@@ -130,54 +160,95 @@
 
 			table.render({
 				elem : '#financial',
-				url : '../getMethod_financial?num=#(code)',
+				url : '../getMethod_financial?name=#(cname)',
 				cols : [ [ {
 					type : 'numbers',
+					width : 50,
 					title : '序号'
 				}, {
-					field : 'year',
+					field : 'publish_date',
 					width : 110,
-					title : '年份',
+					title : '日期',
 					sort : true
 				}, {
-					field : 'oper_revenue',
-					width : 125,
-					title : '营业收入(万元)',
+					field : 'news_title',
+					title : '新闻标题',
+					minWidth : 100
+				}, {
+					field : 'source',
+					width : 105,
+					title : '来源',
 					minWidth : 150
 				}, {
-					field : 'main_oper_revenue',
-					width : 145,
-					title : '主营业收入(万元)',
-					minWidth : 150
-				}, {
-					field : 'other_oper_revenue',
-					width : 160,
-					title : '其他业务收入(万元)',
+					field : 'content',
+					width : 200,
+					title : '详情',
 					minWidth : 150
 				}, {
 					field : 'oper_cost',
 					width : 140,
-					title : '营业成本(万元)',
-					minWidth : 150
-				}, {
-					field : 'main_oper_cost',
-					width : 140,
-					title : '主营成本(万元)',
-					minWidth : 150
-				}, {
-					field : 'other_oper_cost',
-					width : 140,
-					title : '其他成本(万元)',
-					minWidth : 150
-				} ] ],
+					title : '舆情指数',
+					minWidth : 150,
+					sort : true
+				} /*, {
+									field : 'main_oper_cost',
+									width : 140,
+									title : '主营成本(万元)',
+									minWidth : 150
+								}, {
+									field : 'other_oper_cost',
+									width : 140,
+									title : '其他成本(万元)',
+									minWidth : 150
+								}  */] ],
 				page : true
 			});
+		});
+
+		$.ajax({
+			'url' : '../getNews',
+			'type' : 'GET',
+			'data' : {
+				name : "#(cname)",
+			},
+			"dataType" : "json",
+			"contentType" : "application/json", // json格式
+			success : function(data) {
+				var res = [] //save model pred res
+				$.each(data, function(i, result) {
+					var news = result['content']
+					var row = $("#template").clone();
+			        row.find("#id").text(i+1);
+			        row.find("#date").text(result['publish_date']);
+			        row.find("#title").text(result['news_title']);
+			        row.find("#source").text(result.source);
+			        //row.find("#content").text(result.content);
+			        //row.find("#pred").text(n.title);
+			        
+					$.ajax({
+						'type' : "GET",
+						'url' : "../getSentimentRes",//请求后台方法并接受模型返回数据
+						'data' : {
+							text : news
+						},
+						"dataType" : "json",
+						"contentType" : "application/json", // json格式
+						success : function(data) {
+							row.find("#pred").text(data);
+						}
+					}); //ajax			 		
+				row.appendTo("#datas");//添加到模板的容器中	
+				}); //each
+				
+				console.log(res)
+
+			}
 		});
 
 		$('#textBtn').click(function() {
 			var element = document.getElementById("info");
 			var datas = document.getElementById("text").value
-			var res ;
+			var res;
 			$.ajax({
 				'type' : "GET",
 				'url' : "../getSentimentRes",//请求后台方法并接受模型返回数据
@@ -188,12 +259,12 @@
 				"contentType" : "application/json", // json格式
 				success : function(data) {
 					// 接收预测返回值
-					if(data>=0.5)
-						res = "是一则负面新闻"+data
+					if (data >= 0.5)
+						res = "是一则负面新闻" + data
 					else
 						res = "是一则正面新闻"
 					element.innerHTML = res
-					
+
 				}
 			});
 		});

@@ -6,6 +6,7 @@ package com.ccip.bank.service;
 import java.util.List;
 
 import com.ccip.bank.model.Company;
+import com.ccip.bank.model.InvestPotential;
 import com.jfinal.plugin.activerecord.Page;
 import com.jfinal.plugin.activerecord.SqlPara;
 
@@ -40,14 +41,14 @@ public class CompanyService {
 
 	//0426 get all company to warning page @hang
 	public Page<Company> paginats_all_company(int pageNumber, int pageSize, String cname){ 
-		// 基本SQL语句
+		// 基本SQL语句select a.*,b.school 	
         String sql = "SELECT * FROM en_all_company";
 		// 动态条件的SQL语句
         String itemSql = "";
         //通过企业名称进行查询[根据需求待实现]
         itemSql = " where cname like '%" + cname + "%'";
         //System.out.println(itemSql);
-		return dao.paginate(pageNumber, pageSize, "SELECT *","FROM en_all_company where  cname like ?","%"+cname+"%"); 		
+		return dao.paginate(pageNumber, pageSize, "SELECT distinct(company_name),cname,code,industry ","FROM en_all_company, en_news where en_all_company.cname=en_news.company_name and cname like ?","%"+cname+"%"); 		
 	}
 
 	
@@ -55,6 +56,10 @@ public class CompanyService {
 	//search company by  统一信用代码
 	public Company getByCreditNum (String creditCode) {
 		return  dao.findFirst("select * from en_all_company where code = ?" , creditCode);
+	}
+	// 获取新闻数据 
+	public List<Company>  getBynews (String cname) {
+		return  dao.find("select publish_date,news_title,source,content  from en_news where company_name = ? limit 6" , cname);
 	}
 	
 	//获取法律诉讼
@@ -72,9 +77,9 @@ public class CompanyService {
 	        
 	    }
 	
-	//获取财务数据
-	public Page<Company> paginat_financial(int pageNumber, int pageSize,String code){
-		return dao.paginate(pageNumber, pageSize,"select year,oper_revenue,main_oper_revenue,other_oper_revenue,oper_cost,main_oper_cost,other_oper_cost","from 利润表   where code = ? " , code);
+	//获取财务数据 变为新闻数据
+	public Page<Company> paginat_financial(int pageNumber, int pageSize,String name){
+		return dao.paginate(pageNumber, pageSize,"select publish_date,news_title,source,content","from en_news   where company_name = ? " , name);
 	        
 	    }
 	

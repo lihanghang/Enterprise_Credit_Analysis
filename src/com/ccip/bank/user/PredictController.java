@@ -1705,13 +1705,21 @@ public class PredictController extends Controller {
 	public void getMethod_financial() {
 		int pageIndex = getParaToInt("page");
 		int pageSize = getParaToInt("limit");
-		String code = getPara("num");
+		String name = getPara("name");
 		Page<Company> pages = service.paginat_financial(pageIndex, pageSize,
-				code);
-		System.out.println(pages);
+				name);
+		System.out.println(name);
 		renderPageForLayUI(pages, 0, "操作成功");
 	}
 
+	public void getNews()
+	{
+		String name = getPara("name");
+		List<Company> get_news = service.getBynews(name);
+		renderJson(JsonKit.toJson(get_news));
+	}
+	
+	
 	// 获取所有公司并分页
 	public void getAllCompany() {
 		int pageIndexs = getParaToInt("page");
