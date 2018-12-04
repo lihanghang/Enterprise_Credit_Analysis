@@ -223,7 +223,7 @@
 			        row.find("#title").text(result['news_title']);
 			        row.find("#source").text(result.source);
 			        //row.find("#content").text(result.content);
-			        //row.find("#pred").text(n.title);
+			        
 			        
 					$.ajax({
 						'type' : "GET",
@@ -233,18 +233,26 @@
 						},
 						"dataType" : "json",
 						"contentType" : "application/json", // json格式
-						success : function(data) {
+						success : function(data) {								
 							row.find("#pred").text(data);
+							 $("#datas tr td:nth-child(5)").each(function() {
+							    	console.log($(this).text())
+							        if(parseFloat($(this).text()) <=0.5) {
+							            $(this).parent().css("color", "green");
+							        }
+							  });
 						}
-					}); //ajax			 		
+					}); //ajax			 																		
 				row.appendTo("#datas");//添加到模板的容器中	
 				}); //each
 				
-				console.log(res)
-
+				
+				
+				
+				
 			}
 		});
-
+/* 
 		$('#textBtn').click(function() {
 			var element = document.getElementById("info");
 			var datas = document.getElementById("text").value
@@ -267,5 +275,5 @@
 
 				}
 			});
-		});
+		}); */
 	</script>

@@ -88,46 +88,46 @@ public class CompanyService {
 	
 	//获取法院公告
 		public Page<Company> paginat_notice(int pageNumber, int pageSize,String code){
-			return dao.paginate(pageNumber, pageSize,"select *","from 法院公告  where 统一信用代码 = ?" , code);
+			return dao.paginate(pageNumber, pageSize,"select *","from 法院公告  where code = ?" , code);
 	        
 	    }
 		
 	//获取被执行人
 	public Page<Company> paginat_preson(int pageNumber, int pageSize,String code){
-		return dao.paginate(pageNumber, pageSize,"select *","from 被执行人  where 统一信用代码 = ?" , code);
+		return dao.paginate(pageNumber, pageSize,"select *","from 被执行人  where code = ?" , code);
 			        
 		}
 	
 	//获取开庭公告
 		public Page<Company> paginat_session(int pageNumber, int pageSize,String code){
-			return dao.paginate(pageNumber, pageSize,"select *","from 开庭公告  where 统一信用代码 = ?" , code);
+			return dao.paginate(pageNumber, pageSize,"select *","from 开庭公告  where code = ?" , code);
 			        
 		}
 
  //知识产权数据
 		//获取专利
 		public Page<Company> paginat_zhuanli(int pageNumber, int pageSize,String code){
-			return dao.paginate(pageNumber, pageSize,"select *","from 专利  where 统一信用代码 = ?" , code);
+			return dao.paginate(pageNumber, pageSize,"select *","from 专利  where code = ?" , code);
 	        
 	    	}
 		//获取软件著作
 			public Page<Company> paginat_soft(int pageNumber, int pageSize,String code){
-				return dao.paginate(pageNumber, pageSize,"select *","from 软件著作权   where 统一信用代码 = ?" , code);
+				return dao.paginate(pageNumber, pageSize,"select *","from 软件著作权   where code = ?" , code);
 		        
 		    }
 		//获取作品著作
 		public Page<Company> paginat_works(int pageNumber, int pageSize,String code){
-			return dao.paginate(pageNumber, pageSize,"select *","from 作品著作权  where 统一信用代码 = ?" , code);
+			return dao.paginate(pageNumber, pageSize,"select *","from 作品著作权  where code = ?" , code);
 				        
 			}
 		//获取网站备案
 			public Page<Company> paginat_web(int pageNumber, int pageSize,String code){
-				return dao.paginate(pageNumber, pageSize,"select *","from 网站备案  where 统一信用代码 = ?" , code);
+				return dao.paginate(pageNumber, pageSize,"select *","from 网站备案  where code = ?" , code);
 				        
 			}
 		//商标信息
 			public Page<Company> paginat_brand(int pageNumber, int pageSize,String code){
-				return dao.paginate(pageNumber, pageSize,"select *","from 商标信息  where 统一信用代码 = ?" , code);
+				return dao.paginate(pageNumber, pageSize,"select *","from 商标信息  where code = ?" , code);
 				        
 			}	
 }
