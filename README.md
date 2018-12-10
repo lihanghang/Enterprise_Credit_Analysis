@@ -87,5 +87,5 @@ L2范数是指向量中各元素的平方和然后开根。我们让L2范数的�
 - 欢迎交流，邮箱lihanghang@ucas.ac.cn
 - [个人网站](https://www.lihanghang.top/)
 - [CSDN](https://me.csdn.net/lihangll)
-- 更新时间：2018.11.22
+- 更新时间：2018.12.10
  
