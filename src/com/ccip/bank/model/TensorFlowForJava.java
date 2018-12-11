@@ -20,7 +20,6 @@ import java.util.Queue;
 
 import org.apache.jena.atlas.json.JSON;
 import org.apache.jena.sparql.function.library.leviathan.log;
-import org.deeplearning4j.eval.meta.Prediction;
 import org.nd4j.nativeblas.Nd4jCpu.float_absolute_difference_loss;
 import org.omg.CORBA.PUBLIC_MEMBER;
 import org.tensorflow.Operation;

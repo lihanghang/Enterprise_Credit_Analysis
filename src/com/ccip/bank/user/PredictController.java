@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.net.URLEncoder;
@@ -25,6 +26,10 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+
+import javax.servlet.http.HttpServletRequest;
+
+import jdk.nashorn.internal.ir.RuntimeNode.Request;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
@@ -75,6 +80,8 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.ActionKey;
 import com.jfinal.core.Controller;
 import com.jfinal.kit.JsonKit;
+import com.jfinal.kit.PathKit;
+import com.jfinal.kit.PropKit;
 import com.jfinal.plugin.activerecord.Page;
 import com.jfinal.upload.UploadFile;
 import com.jmatio.io.MatFileReader;
@@ -95,15 +102,19 @@ import com.sun.org.apache.bcel.internal.generic.NEW;
 
 public class PredictController extends Controller {
 
-	static String modelPathPrex = "D://java-project/Enterprise_Credit_Analysis/TFModel/";
-	static String dataSetPrex = "D://java-project/Enterprise_Credit_Analysis/datasets/";
-
+    static // get WEB Root path
+	String paths = System.getProperty("user.dir");
+	static String modelPathPrex = paths + "/TFModel/";
+	static String dataSetPrex =paths + "/datasets/";
+	
 	static CompanyService service = new CompanyService();
+	String path =  this.getClass().getClassLoader().getResource(".").getPath();
 
+	
 	@ActionKey("/predict")
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void index() {
-
+		
 	}
 
 	// 异步请求加载数据库：行业动态最终指标数据
@@ -1219,7 +1230,7 @@ public class PredictController extends Controller {
 		int type = getParaToInt("type");
 		List<Market> diffIdata = Market.diffusion.getDiffusionIndex(type);
 		String diffJson = JsonKit.toJson(diffIdata);
-		System.out.println(diffJson);
+		// System.out.println(diffJson);
 		renderJson(diffJson);
 	}
 
@@ -1281,15 +1292,13 @@ public class PredictController extends Controller {
 
 	// 行业动态页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
-	public void hydt() {
-
+	public void hydt() throws URISyntaxException {
 		render("hydt.html");
 	}
 
 	// 信用评级页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void xypj() {
-
 		render("xypj.html");
 	}
 
@@ -1298,7 +1307,7 @@ public class PredictController extends Controller {
 
 		// 接受测试参数.【caution！！】需要在form表单中将字段name改为Bean名首字母小写.字段名，如本表单：creditQuality.Cost
 		creditQualityBean paraBean = getBean(creditQualityBean.class);
-		System.out.println(paraBean);
+		// System.out.println(paraBean);
 		// 实例化信用评级模型对象
 		creditQuality CQ = new creditQuality();
 		String input = dataSetPrex + "Data554.mat";
@@ -1325,7 +1334,7 @@ public class PredictController extends Controller {
 		result = CQ.trainClassifier_Tree(3, input, test_data);
 		// 得到公司信用评级
 		MWNumericArray cqNum = (MWNumericArray) result[2];
-		System.out.print(cqNum);
+		// System.out.print(cqNum);
 		List lst = new ArrayList();
 		lst.add(cqNum.getInt());
 		// 读取mat文件
@@ -1366,7 +1375,7 @@ public class PredictController extends Controller {
 	// 风险评估页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void fxpg() {
-
+		System.out.println(PathKit.getWebRootPath());
 		render("fxpg.html");
 	}
 
@@ -1394,7 +1403,7 @@ public class PredictController extends Controller {
 
 		in.set(new int[] { 10, 1 }, paraBean.getGrowthRateOperateIncome());
 		in.set(new int[] { 11, 1 }, paraBean.getAllAsserrtIncrease());
-		System.out.print(in);
+		// System.out.print(in);
 		try {
 			String input = dataSetPrex + "fxpg/2014.xls";
 			String input_text = dataSetPrex + "fxpg/financial_index.txt";
@@ -1420,7 +1429,7 @@ public class PredictController extends Controller {
 				MWClassID.DOUBLE, MWComplexity.REAL);
 		in.set(new int[] { 1, 1 }, num1);
 		in.set(new int[] { 2, 1 }, num2);
-		System.out.print(in);
+		// System.out.print(in);
 		try {
 			String input = dataSetPrex + "fxpg/2014.xls";
 			String input_text = dataSetPrex + "fxpg/financial_index.txt";
@@ -1445,7 +1454,7 @@ public class PredictController extends Controller {
 		in.set(new int[] { 1, 1 }, num1);
 		in.set(new int[] { 2, 1 }, num2);
 		in.set(new int[] { 3, 1 }, num3);
-		System.out.print(in);
+		// System.out.print(in);
 		try {
 			String input = dataSetPrex + "fxpg/2014.xls";
 			String input_text = dataSetPrex + "fxpg/financial_index.txt";
@@ -1486,7 +1495,7 @@ public class PredictController extends Controller {
 		in.set(new int[] { 13, 1 }, paraBean.getShareholdNum());
 		in.set(new int[] { 14, 1 }, paraBean.getFirstMaxShare());
 
-		System.out.println(in);
+		// System.out.println(in);
 		try {
 			String input = dataSetPrex + "fxpg/2014.xls";
 			String input_text = dataSetPrex + "fxpg/financial_index.txt";
@@ -1517,7 +1526,7 @@ public class PredictController extends Controller {
 				String data[] = { result[1].toString(), result[2].toString(),
 						result[3].toString(), result[4].toString() };
 				setAttr("secondaryIndex", data);
-				System.out.println(data);
+				// System.out.println(data);
 				setAttr("firstlyIndex", result[0].toString());
 				renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
 			}
@@ -1531,7 +1540,7 @@ public class PredictController extends Controller {
 	// 科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr() {
-
+		
 		render("kytr.html");
 	}
 
@@ -1651,7 +1660,8 @@ public class PredictController extends Controller {
 	// 贷后预警页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void dhyj() {
-
+		
+		
 		render("dhyj.html");
 	}
 

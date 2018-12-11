@@ -48,7 +48,9 @@ public class CompanyService {
         //通过企业名称进行查询[根据需求待实现]
         itemSql = " where cname like '%" + cname + "%'";
         //System.out.println(itemSql);
-		return dao.paginate(pageNumber, pageSize, "SELECT distinct(company_name),cname,code,industry ","FROM en_all_company, en_news where en_all_company.cname=en_news.company_name and cname like ?","%"+cname+"%"); 		
+		// return dao.paginate(pageNumber, pageSize, "SELECT distinct(company_name),cname,code,industry ","FROM en_all_company, en_news where en_all_company.cname=en_news.company_name and cname like ?","%"+cname+"%");
+        return dao.paginate(pageNumber, pageSize, "SELECT cname,code,industry ","FROM en_all_company where cname like ?","%"+cname+"%"); 
+        
 	}
 
 	

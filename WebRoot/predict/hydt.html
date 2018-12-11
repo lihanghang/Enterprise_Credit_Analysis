@@ -26,6 +26,19 @@
 	background: #E0E2EB;
 }
 
+CREATE TABLE `开庭公告` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `code` varchar(255) NOT NULL,
+  `session_data` datetime DEFAULT NULL,
+  `case_reason` varchar(255) DEFAULT NULL,
+  `appealdant` varchar(255) DEFAULT NULL,
+  `defendant` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`,`code`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+
 .menu li.off {
 	background: #FFFFFF;
 	color: #336699;

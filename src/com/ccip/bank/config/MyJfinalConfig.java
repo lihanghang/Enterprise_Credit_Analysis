@@ -89,6 +89,8 @@ public class MyJfinalConfig extends JFinalConfig {
 
 	public void configHandler(Handlers me) {
 		me.add(new ContextPathHandler("ctx_path"));
+		me.add(new ContextPathHandler("basePath"));
+
 	}
 
 	@Override
