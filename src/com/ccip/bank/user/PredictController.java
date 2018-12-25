@@ -1327,10 +1327,8 @@ public class PredictController extends Controller {
 		test_data.set(new int[] { 1, 4 }, paraBean.getFlowDebt());
 		test_data.set(new int[] { 1, 5 }, paraBean.getCost());
 		test_data.set(new int[] { 1, 6 }, paraBean.getOwnerEquity());
-
 		// 使用人工神经网络得到等级概率
 		Object[] test = grade.guid(2, input_ANN, test_data);
-
 		result = CQ.trainClassifier_Tree(3, input, test_data);
 		// 得到公司信用评级
 		MWNumericArray cqNum = (MWNumericArray) result[2];
@@ -1380,7 +1378,7 @@ public class PredictController extends Controller {
 	}
 
 	// 财务风险0503 update 0507
-	public void financial_risk_model() {
+	public void financial_risk_model() throws MWException {
 		financialRiskBean paraBean = getBean(financialRiskBean.class);
 		// paraBean.getFlowAssertRate(),paraBean.getCheckRate(),
 		// paraBean.getCreditGrade(),paraBean.getFinancialCostRate(),paraBean.getEquityRatio(),
@@ -1403,48 +1401,36 @@ public class PredictController extends Controller {
 
 		in.set(new int[] { 10, 1 }, paraBean.getGrowthRateOperateIncome());
 		in.set(new int[] { 11, 1 }, paraBean.getAllAsserrtIncrease());
-		// System.out.print(in);
-		try {
-			String input = dataSetPrex + "fxpg/2014.xls";
-			String input_text = dataSetPrex + "fxpg/financial_index.txt";
-			testRisk testRisk = new testRisk();
-			Object[] financialRes = null;
-			financialRes = testRisk.financial(2, input, input_text, in);
-			// get Result
-			setAttr("firstlyIndex", financialRes[1].toString());
-			setAttr("secondaryIndex", financialRes[0].toString());
-			renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
-		} catch (MWException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+		String input = dataSetPrex + "fxpg/2014.csv";
+		String input_text = dataSetPrex + "fxpg/financial_index.txt";
+		testRisk testRisk = new testRisk();
+		Object[] financialRes = null;
+		financialRes = testRisk.financial(2, input, input_text, in);
+		// get Result
+		setAttr("firstlyIndex", financialRes[1].toString());
+		setAttr("secondaryIndex", financialRes[0].toString());
+		renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
 
 	}
 
 	// 0417风险等级评估模型 竞争风险算法
-	public void fxpg_competition_model() {
+	public void fxpg_competition_model() throws MWException {
 		int num1 = getParaToInt("num1"); // 竞品
 		int num2 = getParaToInt("num2");// 对外投资
 		MWNumericArray in = MWNumericArray.newInstance(new int[] { 2, 1 },
 				MWClassID.DOUBLE, MWComplexity.REAL);
 		in.set(new int[] { 1, 1 }, num1);
 		in.set(new int[] { 2, 1 }, num2);
-		// System.out.print(in);
-		try {
-			String input = dataSetPrex + "fxpg/2014.xls";
-			String input_text = dataSetPrex + "fxpg/financial_index.txt";
-			testRisk testRisk = new testRisk();
-			Object[] Res = null;
-			Res = testRisk.competion(1, input, input_text, in);
-			renderJson("firstlyIndex", Res[0].toString());
-		} catch (MWException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		String input = dataSetPrex + "fxpg/2014.csv";
+		String input_text = dataSetPrex + "fxpg/financial_index.txt";
+		testRisk testRisk = new testRisk();
+		Object[] Res = null;
+		Res = testRisk.competion(1, input, input_text, in);
+		renderJson("firstlyIndex", Res[0].toString());
 	}
 
 	// 0417风险等级评估模型算法--技术风险评估 update at 20180504
-	public void jszl_model() {
+	public void jszl_model() throws MWException {
 		int num1 = getParaToInt("num1");
 		int num2 = getParaToInt("num2");
 		int num3 = getParaToInt("num3");
@@ -1454,23 +1440,18 @@ public class PredictController extends Controller {
 		in.set(new int[] { 1, 1 }, num1);
 		in.set(new int[] { 2, 1 }, num2);
 		in.set(new int[] { 3, 1 }, num3);
-		// System.out.print(in);
-		try {
-			String input = dataSetPrex + "fxpg/2014.xls";
-			String input_text = dataSetPrex + "fxpg/financial_index.txt";
-			testRisk testRisk = new testRisk();
-			Object[] Res = null;
-			Res = testRisk.tec(1, input, input_text, in);
-			renderJson("firstlyIndex", Res[0].toString());
+		String input = dataSetPrex + "fxpg/2014.csv";
+		String input_text = dataSetPrex + "fxpg/financial_index.txt";
+		testRisk testRisk = new testRisk();
+		Object[] Res = null;
+		Res = testRisk.tec(1, input, input_text, in);
+		renderJson("firstlyIndex", Res[0].toString());
 
-		} catch (MWException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+
 	}
 
 	// 0417风险等级评估模型算法--经营风险评估 update param at 20180502 1-11
-	public void org_risk_model() {
+	public void org_risk_model() throws MWException {
 		businessBean paraBean = getBean(businessBean.class);
 		// 初始化矩阵
 		MWNumericArray in = MWNumericArray.newInstance(new int[] { 14, 1 },
@@ -1494,27 +1475,19 @@ public class PredictController extends Controller {
 		in.set(new int[] { 12, 1 }, paraBean.getPeripheralRiskNum());
 		in.set(new int[] { 13, 1 }, paraBean.getShareholdNum());
 		in.set(new int[] { 14, 1 }, paraBean.getFirstMaxShare());
-
-		// System.out.println(in);
-		try {
-			String input = dataSetPrex + "fxpg/2014.xls";
-			String input_text = dataSetPrex + "fxpg/financial_index.txt";
-			testRisk testRisk = new testRisk();
-			Object[] Res = null;
-			Res = testRisk.business(2, input, input_text, in);
-			System.out.println(Res[0].toString() + "==" + Res[1].toString());
-			setAttr("firstlyIndex", Res[1].toString());
-			setAttr("secondaryIndex", Res[0].toString());
-			renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
-		} catch (MWException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		String input = dataSetPrex + "fxpg/2014.csv";
+		String input_text = dataSetPrex + "fxpg/financial_index.txt";
+		testRisk testRisk = new testRisk();
+		Object[] Res = null;
+		Res = testRisk.business(2, input, input_text, in);
+		System.out.println(Res[0].toString() + "==" + Res[1].toString());
+		setAttr("firstlyIndex", Res[1].toString());
+		setAttr("secondaryIndex", Res[0].toString());
+		renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
 	}
 
 	// 企业风险评估综合指标0504
-	public void ajaxIntegrateIndex() {
-		try {
+	public void ajaxIntegrateIndex() throws MWException {
 			testRisk testRisk = new testRisk();
 			Object[] result = testRisk.Result(5);// 得到所有一级二级指标
 			System.out.println(result[1]);
@@ -1530,22 +1503,18 @@ public class PredictController extends Controller {
 				setAttr("firstlyIndex", result[0].toString());
 				renderJson(new String[] { "secondaryIndex", "firstlyIndex" });
 			}
-
-		} catch (MWException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		
 	}
 
 	// 科研投入页面
 	@Before(com.ccip.bank.interceptor.UserAuthInterceptor.class)
 	public void kytr() {
-		
+		System.out.println(System.getProperty("java.library.path"));
 		render("kytr.html");
 	}
 
 	// 0405 实现 0425update java dea
-	public void kytr_model() throws MWException {
+	public void kytr_model() throws MWException, LpSolveException {
 
 		// 接受测试参数
 		ScienceInvest paraBean = getBean(ScienceInvest.class);
@@ -1570,12 +1539,7 @@ public class PredictController extends Controller {
 		records.put("new", new DeaRecord(output, input));
 		DataEnvelopmentAnalysis dea = new DataEnvelopmentAnalysis();
 		Map<String, Double> results = null;
-		try {
-			results = dea.estimateEfficiency(records);
-		} catch (LpSolveException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		results = dea.estimateEfficiency(records);
 		renderJson("ret", (new TreeMap<>(results)).get("new"));
 		// research test = new research();
 		// //new int[]{11,2}代表矩阵为11行2列的矩阵
@@ -1820,16 +1784,17 @@ public class PredictController extends Controller {
 	}
 
 	// 基于Jfinal的文件上传并调用CNN模型实现信用等级评估
-	public void upload() throws JSONException {
-		try {
+	public void upload() throws JSONException, IllegalArgumentException, IOException {
+	
 			// 网页端接收上传.csv文件
 			UploadFile uploadFile = getFile();
 			float predValue = 0;
 			// 获取上传文件
 			String fileName = uploadFile.getOriginalFileName();
 			// 获取文件上传的路径
-			File delfile = new File(uploadFile.getUploadPath() + "\\"
+			File delfile = new File(uploadFile.getUploadPath() + "/"
 					+ uploadFile.getFileName());
+			System.out.println(delfile);
 			String filePath = delfile.getPath();
 			// 调用模型处理函数
 			TFModelPred tm = new TFModelPred();
@@ -1838,11 +1803,6 @@ public class PredictController extends Controller {
 			predValue = tm.CreditGrade(modelPath, filePath);
 			renderJson(predValue);
 			// System.out.println(predValue);
-		} catch (NumberFormatException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
 	}
 
 	/**

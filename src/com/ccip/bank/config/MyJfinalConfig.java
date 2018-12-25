@@ -22,9 +22,10 @@ import com.jfinal.template.Engine;
 
 public class MyJfinalConfig extends JFinalConfig {
 	public void configConstant(Constants me) {
+		String paths = System.getProperty("user.dir"); //获取项目路径
 		PropKit.use("a_little_config");
 		me.setDevMode(PropKit.getBoolean("devMode", false));
-		me.setBaseUploadPath("/upload"); // 上传文件接收路径：项目所在文件盘upload下，也可自行修改
+		me.setBaseUploadPath(paths+"/upload"); // 上传文件接收路径：项目所在文件盘upload下，也可自行修改
 	}
 
 	@Override

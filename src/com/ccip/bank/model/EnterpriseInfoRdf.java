@@ -24,18 +24,22 @@ import com.jfinal.core.Controller;
  * @params company_name
  */
 public class EnterpriseInfoRdf extends Controller{
-
+	
+	 static // get WEB Root path
+	 String paths = System.getProperty("user.dir");
+	 static String dataSetPrex = paths + "/datasets/rdfData/";	 
 	 String prefix="PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>"+ 
 		     "PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>"+ 
 		     "PREFIX owl:<http://www.w3.org/2002/07/owl#>"+ 
 		     "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>"+ 
 		     "PREFIX base:<http://ccip.ucas.ac.cn/resource#>"+ 
 		     "PREFIX enterprise:<http://ccip.ucas.ac.cn/ontology/company#>";
-	static String filePath = "A://SysRdfDataSources/"; //data resource
+	static String filePath = dataSetPrex; //data resource
 	static OntModel ontModel = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
 	
 	//basicInfo dataInterface
 	public   Map<String,Object>  basicInfo(String company){		
+		System.out.println(dataSetPrex);
 		ontModel.read(filePath + company + ".rdf");
 		String queryString = "SELECT ?property ?value"
 				+" WHERE " +

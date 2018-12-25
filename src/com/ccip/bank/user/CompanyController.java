@@ -11,7 +11,7 @@ import com.jfinal.aop.Before;
 import com.jfinal.core.Controller;
 
 public class CompanyController extends Controller {	
-	
+		
 		private static final int PAGE_SIZE = 3;
 		static CompanyService comInfoservice = new CompanyService();
 		static EnterpriseInfoRdf test = new EnterpriseInfoRdf(); //实例化RDF查询Model
