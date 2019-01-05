@@ -22,10 +22,11 @@ import com.jfinal.template.Engine;
 
 public class MyJfinalConfig extends JFinalConfig {
 	public void configConstant(Constants me) {
-		String paths = System.getProperty("user.dir"); //获取项目路径
+		String paths = System.getProperty("user.dir"); //获取项目路径		
 		PropKit.use("a_little_config");
 		me.setDevMode(PropKit.getBoolean("devMode", false));
-		me.setBaseUploadPath(paths+"/upload"); // 上传文件接收路径：项目所在文件盘upload下，也可自行修改
+		me.setBaseUploadPath(paths + "/upload"); // 上传文件接收路径：项目所在文件盘upload下，也可自行修改
+		//me.setBaseDownloadPath(paths + "/download");//配置信用评级模板文件下载路径
 	}
 
 	@Override
@@ -50,17 +51,12 @@ public class MyJfinalConfig extends JFinalConfig {
 		// 行业动态模型数据库表映射
 		arp.addMapping("en_market", "id", Market.class); // 映射行业动态分布核心数据表
 		arp.addMapping("en_hc_yj", "id", Market.class); // 映射合成指数分布核心数据表
-
-		// 测试使用
-		// arp.addMapping("en_ci","id", Market.class); // 映射合成指数分布核心数据表
-
 		arp.addMapping("en_diffusion_index", "id", Market.class); // 映射扩散指数核心数据表
 		arp.addMapping("en_all_company", "id", Company.class); // 映射公司信息数据表
 		arp.addMapping("en_market_city", InvestPotential.class); // 映射投资潜力城市表
 		arp.addMapping("en_market_city_factor", InvestFactor.class); // 映射各城市投资潜力因子
 		// arp.addMapping("en_info_financial", Market.class); //映射制造业表
 		// arp.addMapping("en_manufacture_financial", Market.class); //映射信息技术业表
-
 		// 企业风险数据库表映射
 		arp.addMapping("法律诉讼", "id", Company.class); // 映射公司法律诉讼数据表
 		arp.addMapping("被执行人", "id", Company.class); // 映射公司被执行人数据表
@@ -74,18 +70,14 @@ public class MyJfinalConfig extends JFinalConfig {
 		arp.addMapping("商标信息", "id", Company.class);
 		arp.addMapping("专利", "id", Company.class);
 		// 财务数据表
-		arp.addMapping("利润表", "year", Company.class);
-		
+		arp.addMapping("利润表", "year", Company.class);		
 		// 新闻数据表
-		arp.addMapping("en_news", "id", Company.class);
-		
+		arp.addMapping("en_news", "id", Company.class);		
 		me.add(arp);
 	}
 
 	public void configInterceptor(Interceptors me) {
-
 		me.add(new SessionInViewInterceptor(true));
-		// me.add(new MyInterceptor());
 	}
 
 	public void configHandler(Handlers me) {

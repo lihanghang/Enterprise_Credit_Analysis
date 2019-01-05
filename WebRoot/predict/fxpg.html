@@ -1071,6 +1071,15 @@
 									document.economy_form.elements[i].focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.economy_form.elements[i].value!=""&&!reg.test(document.economy_form.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 							//表单提交数据序列化
 							var financial_data = $('#financial_risk')
@@ -1129,13 +1138,15 @@
 															.getElementById('financial_show1'));
 											option = {
 
-												/* title: {
-												    text: '财务风险评估分析'
-												}, */
+												title: {
+												    text: '财务风险雷达图'
+												}, 
 												tooltip : {
 													trigger : 'axis'
 												},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1191,13 +1202,7 @@
 												//半径，可放大放小雷达图
 												},
 												series : [ {
-													name : {
-														show : true, // 是否显示文字
-														formatter : null, // 文字的显示形式
-														textStyle : {
-															color : '#a3a5b6' // 文字颜色
-														}
-													},
+													name : '财务风险单项指标分析',
 													type : 'radar',
 													itemStyle : {
 														normal : {
@@ -1248,6 +1253,8 @@
 													formatter : "{a} <br/>{b} : {c}%"
 												},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1309,12 +1316,20 @@
 									document.org_form.elements[i].focus();
 									return false;
 								}
-							}
-							;
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.org_form.elements[i].value!=""&&!reg.test(document.org_form.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
+							};
 							//表单提交数据序列化
 							var org_data = $('#business_risk').serialize();
-							$
-									.ajax({
+							
+									$.ajax({
 										cache : true,//保留缓存数据
 										type : "POST",//为post请求
 										url : "./org_risk_model",//请求后台方法并接受模型返回数据
@@ -1343,9 +1358,9 @@
 														layer.close(index);
 														//调用close方法,关闭全局变量index对应的加载效果
 													});
-											console.log(data['firstlyIndex']
+/* 											console.log(data['firstlyIndex']
 													+ "==============="
-													+ data['secondaryIndex']);
+													+ data['secondaryIndex']); */
 											var firstlyIndex = data['firstlyIndex'];
 											var secondaryIndex = data['secondaryIndex']
 													.split("    ");
@@ -1373,6 +1388,8 @@
 												}, */
 												tooltip : {},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1462,6 +1479,8 @@
 													formatter : "{a} <br/>{b} : {c}%"
 												},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1524,6 +1543,15 @@
 											.focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.competition_risk.elements[i].value!=""&&!reg.test(document.competition_risk.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 
 							//表单提交数据序列化
@@ -1575,6 +1603,8 @@
 													formatter : "{a} <br/>{b} : {c}%"
 												},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1634,6 +1664,15 @@
 									document.tec_form.elements[i].focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.tec_form.elements[i].value!=""&&!reg.test(document.tec_form.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 
 							//表单提交数据序列化
@@ -1686,6 +1725,8 @@
 													formatter : "{a} <br/>{b} : {c}%"
 												},
 												toolbox : {
+													show: true,
+													right: '5%',
 													feature : {
 														restore : {
 															show : true, //是否显示该工具。
@@ -1833,6 +1874,8 @@
 													}, */
 													tooltip : {},
 													toolbox : {
+														show: true,
+														right: '5%',
 														feature : {
 															restore : {
 																show : true, //是否显示该工具。
@@ -1929,6 +1972,8 @@
 													}, */
 													tooltip : {},
 													toolbox : {
+														show: true,
+														right: '5%',
 														feature : {
 															restore : {
 																show : true, //是否显示该工具。
@@ -2104,6 +2149,15 @@
 					document.liquid_form.elements[i].focus();
 					return false;
 				}
+				// 限制只输入数字
+			     var reg = /^[0-9]+$/; 
+			     if(document.liquid_form.elements[i].value!=""&&!reg.test(document.liquid_form.elements[i].value)){ 
+			    	 layui.use(['layer', 'form'], function(){
+			 			//提示层
+			 			layer.msg('请输入数值型数据！')
+			 		});	 
+			     return false; 
+			     } 
 			}
 			;
 			//表单提交数据序列化
@@ -2153,6 +2207,15 @@
 									document.funding_form.elements[i].focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.funding_form.elements[i].value!=""&&!reg.test(document.funding_form.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 							;
 							//表单提交数据序列化
@@ -2203,6 +2266,15 @@
 									document.discharge_form.elements[i].focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.discharge_form.elements[i].value!=""&&!reg.test(document.discharge_form.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 							;
 							//表单提交数据序列化
@@ -2252,6 +2324,15 @@
 					document.growth_form.elements[i].focus();
 					return false;
 				}
+				// 限制只输入数字
+			     var reg = /^[0-9]+$/; 
+			     if(document.growth_form.elements[i].value!=""&&!reg.test(document.growth_form.elements[i].value)){ 
+			    	 layui.use(['layer', 'form'], function(){
+			 			//提示层
+			 			layer.msg('请输入数值型数据！')
+			 		});	 
+			     return false; 
+			     } 
 			}
 			;
 			//表单提交数据序列化
@@ -2303,6 +2384,15 @@
 									document.business_forms.elements[i].focus();
 									return false;
 								}
+								// 限制只输入数字
+							     var reg = /^[0-9]+$/; 
+							     if(document.business_forms.elements[i].value!=""&&!reg.test(document.business_forms.elements[i].value)){ 
+							    	 layui.use(['layer', 'form'], function(){
+							 			//提示层
+							 			layer.msg('请输入数值型数据！')
+							 		});	 
+							     return false; 
+							     } 
 							}
 							;
 							//表单提交数据序列化
@@ -2354,6 +2444,15 @@
 					document.laws_forms.elements[i].focus();
 					return false;
 				}
+				// 限制只输入数字
+			     var reg = /^[0-9]+$/; 
+			     if(document.laws_forms.elements[i].value!=""&&!reg.test(document.laws_forms.elements[i].value)){ 
+			    	 layui.use(['layer', 'form'], function(){
+			 			//提示层
+			 			layer.msg('请输入数值型数据！')
+			 		});	 
+			     return false; 
+			     } 
 			}
 			;
 			//表单提交数据序列化

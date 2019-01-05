@@ -76,7 +76,7 @@
 				<div class="sd_form_search_input">
 					<form action="./" method="post" id="searchForm">
 						<input id="searchkey" type="text" autocomplete="off"
-							name="keyWord" placeholder="可按企业名称、注册号、所属行业、地区等关键字搜索"
+							name="keyWord" placeholder="请输入企业名称关键字……"
 							class="ui-autocomplete-input"> <span
 							class="input-group-btn01">
 							<button class="btn btn-primary" type="submit" id="searchBtn"></button>
@@ -87,7 +87,7 @@
 						style="display: none;"></ul>
 				</div>
 				<!-- 热搜词 -->
-				<p class="sd_form_search_p" id="hotKeyWordsDiv">【热门搜词：待实现】</p>
+				<!--<p class="sd_form_search_p" id="hotKeyWordsDiv">【热门搜词：待实现】</p>-->
 			</div>
 		</div>
 
@@ -95,10 +95,10 @@
 			<div class="sd_cent">
 				<div class="sd_cent">
 					<div class="sd_left_block">
-						<div class="sd_left_block_tit">
+						<!-- <div class="sd_left_block_tit">
 							<b>智能筛选</b> <span class="sd_left_tit_up" id="searchConditionBtn">收起筛选<i></i></span>
-						</div>
-						<div class="or_left_silde" id="searchCondition">
+						</div> 
+ 						<div class="or_left_silde" id="searchCondition">
 							<div class="or_category">
 								<div class="or_sl_key">搜索范围</div>
 								<div class="or_sl_value searchSlEvent">
@@ -114,10 +114,10 @@
 										class=" " inputid="search_type" seed="scopeContent"> 经营范围
 									</a>
 
-									<!-- <a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
+									<a href="javascript:void(0);" class=" " inputid="search_type" seed="trademarkContent">
                                     品牌/产品
                                 </a>
- -->
+
 								</div>
 							</div>
 							<div class="or_category">
@@ -156,7 +156,7 @@
 										inputid="establishDuration" seed="5"> 15年以上</a>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 					<div class="sd_left_block">
 						<div class="sd_left_ss">
@@ -164,7 +164,7 @@
 								#("全部") #end</span>为您找到<span class="sd_left_ss_number">#(clst.totalRow)</span>家符合条件的企业
 						</div>
 						<div class="sd_left_hide">
-							<div class="sd_left_deep">
+							<!-- 						<div class="sd_left_deep">
 								<span class="sd_left_deep_default"> <span
 									class="sd_left_deep_value hover-hide" id="sortBtn" tar="sort">默认排序<i
 										class="tit_up"></i></span>
@@ -179,10 +179,10 @@
 										<a href="javascript:void(0);" inputid="sort" seed="6">成立年限降序</a>
 									</div>
 								</span>
-								<!-- <span class="sd_left_deep_name">公司</span> -->
-								<!--  <span class="" >状态</span>
-                        <span class="sd_left_deep_score">评分</span>  -->
-							</div>
+								<span class="sd_left_deep_name">公司</span> 
+								 <span class="" >状态</span>
+                        <span class="sd_left_deep_score">评分</span>  
+							</div> -->
 							<div class="or_search_list">
 								#for(x : clst.getList())
 								<div class="or_search_row or_row_w">
@@ -283,18 +283,19 @@
 		src="../static/home/list/promise-7.0.4.min.js"></script>
 	<script type="text/javascript"
 		src="../static/home/list/Shuidi_PCSearch.js">
+		
 	</script>
 	<script type="text/javascript" src="../static/home/list/Pa_Pa.js"></script>
 	<div role="status" aria-live="assertive" aria-relevant="additions"
 		class="ui-helper-hidden-accessible"></div>
 	<script>
-    var detailFrame = new DetailFrame();
-    detailFrame.init();
-</script>
+		var detailFrame = new DetailFrame();
+		detailFrame.init();
+	</script>
 	<script>
-    var search = new Shuidi.PCSearch();
-    search.init();
-</script>
+		var search = new Shuidi.PCSearch();
+		search.init();
+	</script>
 	<div role="status" aria-live="assertive" aria-relevant="additions"
 		class="ui-helper-hidden-accessible"></div>
 

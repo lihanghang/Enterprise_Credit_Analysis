@@ -1,4 +1,3 @@
-
 /*
 
  ____ ___ _   _  ____    _    _   _ ____  _____ ____
@@ -8,4 +7,5156 @@
 |_|  |___|_| \_|\____/_/   \_\_| \_|____/|_____\____|
 
 
-*/@charset "utf-8";html,body{font:14px "Microsoft YaHei","微软雅黑",Arial,Helvetica,sans-serif;color:#607485;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:inherit;font-weight:normal;background-color:#f4f4f4;margin:0;padding:0}ul,ol,li,dd,dl,dt{list-style:none;margin:0;padding:0}h1,h2,h3,h4,h5,h6,p,a{font-family:"Microsoft YaHei","微软雅黑",Arial,Helvetica,sans-serif;margin:0;padding:0}table,td,tr,th{border-collapse:collapse;border:0;text-align:left}a{text-decoration:none;font-family:"Microsoft YaHei","微软雅黑",Arial,Helvetica,sans-serif;outline:0;font-weight:normal;color:#607485}a:hover{text-decoration:none}img{border:0}em,i{font-style:normal}label{display:inline-block}table{width:100%;border:0;border-collapse:collapse;border-spacing:0}table th{font-weight:normal}table th,table td{word-wrap:break-word;word-break:break-all}ul,ol{list-style-type:none}b,i{font-weight:normal;font-style:normal}input,select,textarea{vertical-align:middle;outline:0}input{font-family:"Microsoft YaHei","微软雅黑",Arial,Helvetica,sans-serif;color:#333}input[type="button"]:hover{background-color:#2ca2ff}:focus{outline:0}input[type="text"]:focus{border:1px solid #f07a24}input[type="password"]:focus{border:1px solid #f07a24}input[type="password"]:focus{border:1px solid #f07a24}.float-right{float:right}.float-left{float:left}.clearfix:after{content:"";overflow:hidden;display:block;visibility:hidden;clear:both;height:0}.clearfix{zoom:1}*{margin:0;padding:0}.table-style1{table-layout:fixed;width:100%;font-size:14px}.table-style1 .tb-width1{width:40%}.table-style1 .tb-width2{width:auto}.table-style1 .tb-width3{width:70px}.table-style1 .tb-width4{width:28%}.table-style1 .tb-width5{width:15%}.table-style1 .tb-width6{width:16%}.table-style1 .tb-width7{width:13%}.table-style1 .tb-width8{width:20%}.table-style1 .tb-width9{width:24%}.table-style1 tr:nth-child(2n){background-color:#f9fbfc}.table-style1 tr:nth-child(2n+1){background-color:#f0f4f8}.table-style1 tr td{padding:16px 18px;color:#95a0aa}.table-style1 tr .c-orange{color:#f07a24}.table-style1 .tb-head th{background-color:#a4aeb9;color:#fff;padding:10px 18px}.dis-none{display:none}.loading{display:none}@-webkit-keyframes spin{from{-webkit-transform:rotate(0deg)}to{-webkit-transform:rotate(360deg)}}.loading .limg{margin-right:10px;width:18px;height:18px;display:inline-block;vertical-align:middle;background:no-repeat url("//static.pacra.cn/credit/images/loading.png") left center;animation:spin 1s linear infinite}.text-primary{color:#1a94f3}.text-info{color:#8c8d8d}.text-center{text-align:center}.btn{border-radius:4px;padding:0 10px;display:inline-block;border:0;font-size:14px;line-height:30px}.btn-primary{background-color:#2196f3;color:#fff}.btn-primary:disabled{background-color:#7ac0f8;color:#d0e7fc}.btn-cancel,.btn-ensure{width:78px;height:26px;line-height:26px;border:solid 1px #2196f3;color:#2196f3;margin:0 7px}.btn-cancel:hover,.btn-cancel:active,.btn-ensure:hover,.btn-ensure:active{background-color:#2196f3;color:#fff}.model{position:fixed;display:none;left:50%;top:50%;z-index:10;text-align:center;background-color:#fff}.model .close{background:url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png") center center no-repeat;padding:15px;display:inline-block;position:absolute;top:10px;right:25px;cursor:pointer}.mask{background-color:#000;opacity:.6;filter:Alpha(opacity=60);width:100%;height:100%;z-index:10;position:fixed;top:0;left:0;display:none}.hide{display:none}.content-right{font-size:16px;width:898px;color:#8c8d8d;border:1px solid #e7e9ef;background-color:#fff}.content-right p{line-height:100%}p.cont-tit2{font-size:16px;color:#444;height:16px;line-height:16px;padding-bottom:20px;padding-top:24px}.cont-s1{padding:30px 0;border-bottom:1px solid #e7e9ef}a.normal-bt{text-align:center;font-size:14px;background:#1a94f3;border-radius:4px;width:105px;padding:7px 0;line-height:14px;height:14px;color:#fff;display:inline-block}a.normal-bt:hover,a.normal-bt:active{background:#2ca2ff}.container{width:1180px;text-align:left;margin:0 auto}.bordere7e9ef{border:1px solid #e7e9ef}.panel-body .list>.item{line-height:30px;padding:8px 0;border-bottom:dashed 1px #d6d9e2}.panel-body .list-horizontal .item{min-width:430px}.panel-body .list-horizontal .item-all{min-width:860px}.danger-info .list-horizontal .item{min-width:214px;width:214px;height:48px;line-height:25px;padding:12px 0;border:solid 1px #eaebf1;margin-left:-1px}.courts-info .list-horizontal a.search-company,.courts-notice .list-horizontal a.search-company{color:#999}.courts-info .item-all a,.courts-info a:hover,.courts-info .list-horizontal a.search-company:hover,.courts-notice .item-all a,.courts-notice a:hover,.courts-notice .list-horizontal a.search-company:hover{color:#00ae64;cursor:pointer}.courts-info .list-horizontal a.search-company,.courts-notice .list-horizontal a.search-company{color:#999}.text-warning{color:#f60}.danger-info .list-horizontal .danger-yun{line-height:48px}.danger-info .list-horizontal .danger-yun img{display:inline-block;vertical-align:middle}.executes-history{color:#00ae64;margin-left:8px;font-size:12px}.data-sources-error{margin-top:7px;font-size:12px;color:#999;text-align:right}.data-sources-error span{display:inline-block;width:65px;height:18px;line-height:18px;color:#00ae64;border:1px solid #00ae64;text-align:center;margin-left:10px;border-radius:3px;cursor:pointer}.report-error-data{height:288px;border:1px solid #e9ebf1;position:fixed;top:50%;left:50%;margin-left:-250px;z-index:10001;width:498px;background:#fff;margin-top:-144px;font-size:0;padding:35px 25px 0 25px}.report-error-data h4{font-size:18px}.report-error-data div,.report-error-data form{font-size:14px;color:#999;margin-top:25px;line-height:25px}.report-error-data div p,.report-error-data form ul{display:inline-block;vertical-align:top;margin-left:5px}.report-error-data form li{position:relative;background:url("//static.pacra.cn/shuidi/images/new-detail/checkbox_1.png") no-repeat left center}.report-error-data li.active{background:url("//static.pacra.cn/shuidi/images/new-detail/checkbox_2.png") no-repeat left center}.report-error-data .input-item{margin-right:7px;opacity:0;z-index:99;width:15px;height:15px;filter:alpha(opacity=0)}.report-error-data form a{display:inline-block;width:98px;height:34px;line-height:34px;border:1px solid #00ae64;color:#00ae64;background-color:#e1fef2;text-align:center;margin-top:40px;margin-left:28px;border-radius:3px}.report-error-data form a:hover{background-color:#00ae64;color:#fff}.report-error-data form .submit-report-error-btn{margin-left:78px}.report-error-data-tip{position:absolute;bottom:80px;left:103px;font-size:12px;color:#fe0000}.table9{font-size:13px;border-top:1px solid #e7e9ef;border-left:1px solid #e7e9ef}.sanction-content{border-top:0}.table9 .bg-silver{font-size:14px}.table9 th,.table9 td{padding:0 12px;line-height:30px;border-bottom:1px solid #e7e9ef;border-right:1px solid #e7e9ef}.table9 a{color:#444}.table9 a:hover,.table9 a:active{color:#00ae64}.sanction-more .sanction-get-detail{color:#00ae64}.sanction-code{width:108px}.sanction-cont{width:378px}.sanction-date{width:138px}.sanction-detail{width:750px;z-index:10001;color:#444;height:474px}.detial-content{overflow:auto;height:474px}.sanction-detail-cont{padding:30px}.sanction-detail .title{height:50px;text-align:left;line-height:50px;font-size:16px;font-weight:bold}.sanction-detail .close{top:10px;right:15px;background:url("//static.pacra.cn/shuidi/images/model-close-bt.png") center center no-repeat}.table1 td{vertical-align:top;padding-left:18px;border-right:1px solid #e7e9ef;border-bottom:1px solid #e7e9ef}.table1 .t-bg{background-color:#f5f6fa}.table1 .t-wt1{width:96px;padding-left:14px}.table1 .t-wt2{width:72px;padding-left:14px}.table1{border-top:1px solid #e7e9ef;border-left:1px solid #e7e9ef}.license-detail .table1 td{line-height:32px}.license-detail .table1 td.t1-wt1{width:144px}.sanction-detail .table1 td{line-height:32px;padding-right:18px}.sanction-detail .table1 td a{color:#00ae64;float:right;padding-right:18px}.sanction-detail .table1 td.t1-wt1{width:126px}.lawcourt-detail{width:750px;z-index:10001;color:#444;height:474px}.lawcourt-detail-cont{padding:30px}.lawcourt-detail .title{height:50px;text-align:left;line-height:50px;font-size:16px;font-weight:bold}.lawcourt-detail .close{top:10px;right:15px;background:url("//static.pacra.cn/shuidi/images/model-close-bt.png") center center no-repeat}.lawcourt-detail-tb{text-align:left}body,html{margin:0 auto;min-height:100%;width:100%;color:#444}body{font-family:"微软雅黑",'Microsoft YaHei',Arial,sans-serif;font-size:14px}h1,h2,h3,h4,h5,p,i,b,em{font-style:normal;font-weight:normal;margin:0}ul,li{list-style:none}ul{margin:0;padding:0}*,*:active,*:focus{outline:0 none}img{border:0;vertical-align:middle}input{outline:0;color:#444;margin:0;padding:0;font-family:"微软雅黑"}table{table-layout:fixed;width:100%}label{margin-bottom:0!important}a{text-decoration:none}a:active{outline:0}.sd_index_footer{width:100%;min-width:1200px;background-color:#262d38;padding:35px 0 0;clear:both;margin-top:20px}.sd_index_footer a{color:#9aa7ba}.sd_index_foot{margin-bottom:40px;overflow:hidden;padding:0 2%}.sd_index_foot1{width:22%;float:left}.sd_index_foot1 img{padding-bottom:15px}.sd_index_foot1_w{line-height:26px;font-size:13px}.sd_index_foot1_w0 span{width:160px;display:inline-block;cursor:auto;color:#9aa7ba}.sd_index_foot1_w a{margin-right:10%}.sd_index_foot1_w a:hover,.sd_index_foot1_w a.current{color:#fff}.sd_index_footer h4{color:#fff;font-size:14px;padding-top:10px;padding-bottom:6px}.sd_index_foot2{width:24%;float:left}.sd_index_foot2 p{color:#9aa7ba;line-height:26px;margin-bottom:0}.sd_index_foot2 p.sd_p1,.sd_index_foot2 p.sd_p2,.sd_index_foot2 p.sd_p3,.sd_header_haver a i,.btn-primary,.or_search_row_function span.or_comment,.or_search_row_function span.or_browse,.or_no_follow,.or_has_follow,.sd_glyphicon_phone,.sd_glyphicon_lock,.col-weibo,.col-qq,.col-wexin,.sd_glyphicon_tel,.sd_glyphicon_yzm,.sd_glyphicon_yzm01,.sd_action_a1,.sd_action_a2,.sd_action_a3,.credit_level_th,.sd_right_x1,.sd_right_x2,.sd_right_x3,.sd_state_tit,.sd_rp_tit3,.cener_list_tit a.cener_sz,.center-yes,.center-no,.cener_zh_top a.xg1,.cener_zh_top a.xg2{background:url("//static.pacra.cn/shuidi/images/new/icon.png") no-repeat}.sd_index_foot2 p.sd_p1{background-position:0 6px;padding-left:27px}.sd_index_foot2 p.sd_p2{background-position:0 -21px;padding-left:27px}.sd_index_foot2 p.sd_p3{background-position:0 -47px;padding-left:27px}.sd_index_foot3{width:33%;float:left}.sd_index_foot4{width:20%;float:left}.sd_index_foot_copy{border-top:1px solid #2f3543;text-align:center}.sd_index_foot_copy p{color:#999;font-size:13px;line-height:60px;margin-bottom:0}.sd_company_container{width:1180px;margin:0 auto;min-width:1180px}.zhaomu img{padding:0}.sd_index_foot1_w0 span a{margin-right:0}.sd_index_foot_second{color:#999;font-size:13px;margin-bottom:40px;overflow:hidden;padding:0}.sd_index_foot_second a{color:#999;margin-right:14px;height:26px;line-height:26px}.sd_index_foot_s1{width:27%;float:left}.sd_index_foot_s2{width:27%;float:left}.sd_index_foot_s2 p{color:#999;line-height:26px;margin-bottom:0;margin-right:14px;display:inline-block;float:left}.sd_index_foot_s3{width:46%;float:left}.sd_index_foot_s2 p.sd_p2,.sd_index_foot_s2 p.sd_p3{background:url("//static.pacra.cn/shuidi/images/new/icon_new.png") no-repeat}.sd_index_foot_s2 p.sd_p2{background-position:0 -21px;padding-left:27px}.sd_index_foot_s2 p.sd_p3{background-position:0 -47px;padding-left:27px}.zhaomu i{display:inline-block;height:16px;width:29px;margin-bottom:-3px;margin-left:5px;background:url("//static.pacra.cn/shuidi/images/new/hot.gif") no-repeat center center}.nav{padding:13px 0 14px 0;color:#444;font-size:14px;background:url("//static.pacra.cn/shuidi/images/bg_white88.png") center top repeat;top:0;width:100%;min-width:1200px}.nav .container{height:43px;width:1200px;position:relative}.nav .search{position:relative;display:inline-block}.nav .search input{margin-left:365px;border:solid 1px #d4d9dd;border-radius:4px;width:350px;height:36px;line-height:36px;font-size:13px;padding:0 8px;padding-right:40px;outline:0}.nav .search i{display:inline-block;background:url("//static.pacra.cn/shuidi/images/doc/search_icon.png") center center no-repeat;padding:18px 20px;position:absolute;right:0;top:0;cursor:pointer}.nav .userinfo{display:inline-block;font-size:0;position:absolute;right:18px;top:7px;height:28px;line-height:28px}.nav .userinfo *{vertical-align:middle}.nav .userinfo div{width:125px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:14px;display:inline-block;text-align:right}.nav .userinfo i{padding:7px 10px;background-image:url("//static.pacra.cn/shuidi/images/doc/userinfo_icon.png");background-repeat:no-repeat}.nav .userinfo .icon-turn{background-position:left center}.nav .userinfo .icon-tip:before{content:url("//static.pacra.cn/shuidi/images/doc/userinfo_msgtip.png");margin-left:-6px;margin-right:3px}.nav .userinfo .icon-tip{margin-left:6px;padding:1px 2px 1px 4px;line-height:14px;font-size:12px;color:#fff;border-radius:3px;background:0;background-color:#f3443e;display:none}.nav .hide li{position:relative}.nav .userinfo .icon-tip-pos{position:absolute;right:15px;top:50%;margin-top:-8px}.nav .userinfo .icon-msg{background-position:right center}@media screen and (-webkit-min-device-pixel-ratio:0){.nav .userinfo .icon-tip-pos:before{margin-left:-9px}}.nav .userinfo-nologin{font-size:14px;color:#444;line-height:28px;display:inline-block;position:absolute;right:18px;top:7px}.nav .userinfo-nologin .login-btn,.nav .userinfo-nologin .regist-btn{width:44px;height:24px;line-height:24px;border-radius:3px;display:inline-block;text-align:center;margin-left:12px;border:solid 1px #00ae64;color:#444}.nav .userinfo-nologin .login-btn{width:46px;height:26px;border:0}.nav .userinfo-nologin .login-btn:hover,.nav .userinfo-nologin .login-btn:active{border:solid 1px #00ae64;width:44px;height:24px}.nav .userinfo-nologin .regist-btn{color:#fff;background-color:#00ae64}.nav .userinfo .btns{position:absolute;z-index:10099;left:12px;top:50px}.nav .userinfo .btns a{background-color:#fff;display:inline-block;height:42px;line-height:42px;text-align:center;width:152px;font-size:14px;opacity:.9;filter:alpha(opacity=90)}.nav .userinfo .btns a:hover,.nav .userinfo .btns a:active{opacity:1;filter:alpha(opacity=100)}.nav .hide{display:block}.nav .zhaomu{font-size:14px;color:#444;position:absolute;top:11px;right:175px;margin-right:20px}.link-box{font-size:16px;color:#444;position:absolute;left:275px;top:11px;z-index:2}.link-box>*{float:left;margin-right:36px}.link-box a{color:#444}.nav .link-box ul{font-size:14px}.link-box .triangle-box{position:relative;cursor:default}.link-box .triangle{position:absolute;right:-14px;bottom:6px;width:10px;height:6px;background:url("//static.pacra.cn/shuidi/images/doc/triangle.png")}.link-box .triangle-box ul{padding-top:24px;position:absolute;bottom:0;text-align:center;display:none}.link-box .triangle-box .pull-down-one{width:98px;left:-12px}.link-box .triangle-box .pull-down-two{width:134px;left:-26px}.link-box .triangle-box ul li a{display:block;height:44px;line-height:44px;opacity:.9;filter:alpha(opacity=90);background-color:#fff}.link-box .triangle-box ul li a.active{opacity:1;filter:alpha(opacity=100)}.top_search ul{position:absolute;background-color:#fff;top:62px;left:6px;width:395px;border:solid 1px #e0e0e0;z-index:999}.circle_top_search ul{width:346px}.top_search li{line-height:37px;height:37px;font-size:14px;padding:0 15px;color:#444;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.top_search li:hover,.top_search li:active,.top_search li:focus{background-color:#f2f4f8;cursor:pointer}.shuidi-app-btn{display:none}.nav .search input.circle-search-key{line-height:30px;height:30px;width:280px;font-size:12px;border-radius:0;margin-left:400px;padding-right:58px}#pmt-background{width:100%;background-color:black;-webkit-opacity:.7;-moz-opacity:.7;-khtml-opacity:.7;opacity:.7;position:absolute;top:0;left:0;z-index:900}#pmt-main{position:fixed;top:50%;left:50%;margin-left:-440px;margin-top:-200px;width:881px;height:449px;background-color:white;overflow:hidden;z-index:901;display:none}#pmt-first-row{width:881px;height:31px;text-align:right}#pmt-cancel{margin-top:16px;margin-right:16px;width:18px;height:18px;border:0;background-color:white}#pmt-title{margin-left:50px;font-size:22px;font-weight:600}#pmt-cost-row{margin-left:50px;margin-top:25px;font-size:18px;font-weight:600}.pmt-cost-row-black{color:#444}.pmt-cost-row-orange{color:#f60}#pmt-tip{margin-top:12px;margin-left:50px;color:#444;font-size:14px}#pmt-qrcode-tip{color:#00b062}#pmt-qrcode-part{margin-top:34px;margin-left:50px}#pmt-qrcode-imgs{margin-top:29px;width:800px;height:220px}#pmt-qrcode{width:184px;height:184px;float:left}#pmt-scan-tip{margin-left:20px;width:184px;height:184px;float:left;background:url("//static.pacra.cn/shuidi/images/payment-common/pmt_scan_tip.jpg") no-repeat}button{font:inherit}#free-pay-background{width:100%;background-color:black;-webkit-opacity:.7;-moz-opacity:.7;-khtml-opacity:.7;opacity:.7;position:absolute;top:0;left:0;z-index:900;display:none}#free-pay-main{position:fixed;top:50%;left:50%;margin-left:-285px;margin-top:-160px;width:571px;height:321px;background-color:white;overflow:hidden;z-index:901;display:none}#free-pay-first-row{width:571px;height:59px;background-color:#f5f5f5;position:relative}#free-pay-title{margin-left:19px;height:59px;line-height:59px;font-size:18px;color:black}#free-pay-cancel{position:absolute;top:0;right:0;width:59px;height:59px;font-size:32px;color:#444;border:0;background-color:#f5f5f5}#free-pay-body{position:relative;width:571px;height:262px}#free-pay-target-portrait{position:absolute;top:25px;left:25px;width:54px;height:54px;background-size:54px 54px;background-image:url("//static.pacra.cn/shuidi/images/payment-common/default_portrait.jpg")}#free-pay-content{position:absolute;top:0;left:100px;width:351px;height:259px;overflow:hidden}#free-pay-content-title{margin-top:20px;font-size:18px;color:#00ae64}#free-pay-tip-line{margin-top:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#free-pay-tip-line img{vertical-align:middle}#free-pay-tip-unit,#free-pay-tip-price{color:#ff7200;vertical-align:middle}#free-pay-tip-count,#free-pay-tip-participators{color:#444;vertical-align:middle}#free-pay-report-title{margin-top:7px;font-size:16px;color:#444}#free-pay-report{overflow:auto}#free-pay-scan{position:absolute;right:30px;bottom:20px;width:140px;height:160px}#free-pay-scan p{font-size:14px;color:#00ae64;text-align:center}#free-pay-scan-qrcode{margin-top:5px;margin-left:5px;width:130px;height:130px}#free-pay-scan-qrcode img{width:100%;height:100%}.free-pay-report-item{font-size:14px;color:#444;margin-top:10px;padding-left:22px;background:url("//static.pacra.cn/shuidi/images/payment-common/yes.jpg") left no-repeat}a.bt-ed{display:inline-block;width:104px;height:36px;line-height:36px;color:#fff;font-size:14px;background-color:rgba(255,255,255,.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,endColorstr=#19ffffff);text-align:center}a.bt-ed:hover,a.bt-ed:active{cursor:pointer;background-color:rgba(255,255,255,.5);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,endColorstr=#7Fffffff)}.detail-top{height:455px;background-color:#0076e4;color:white;font-size:14px}.detail-top a{color:inherit}.detail-top .container{padding-top:50px;position:relative}.detail-top h1{font-size:32px;font-weight:bold;line-height:34px}.detail-top .score-info{width:375px;display:inline-block;position:absolute;right:0;top:45px;text-align:center;font-size:0}.detail-top .score-info *{display:inline-block}.detail-top .score-info .tip{width:16px;height:16px;line-height:16px;border-radius:1px;border:solid 1px;border-color:rgba(255,255,255,.5);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,endColorstr=#7Fffffff);background-color:rgba(255,255,255,.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,endColorstr=#19ffffff);float:right;font-size:14px;opacity:.6}.detail-top .score-info h1{display:block}.detail-top .score-info .score-desc{text-align:left;padding:15px 20px;font-size:14px;line-height:25px;background-color:#fff;color:#444;border:1px solid #e1e1e1;position:absolute;right:34px;top:-20px;display:none;z-index:2}.detail-top .score-info .score-desc span{position:absolute;top:18px;right:-20px;display:block;height:0;width:0;border-color:transparent transparent transparent #fff;border-style:dashed dashed solid dashed;border-width:10px}.detail-top .desc{font-size:16px;margin-top:10px}.detail-top .score-info .desc .fir{color:#fff117}.detail-top .score-info .progress-bar{width:352px;height:22px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar.png") center bottom repeat;position:relative;overflow:hidden}.detail-top .score-info .progress-bar .progress{position:absolute;left:-196px;width:205px;height:22px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar.png") center top no-repeat}.detail-top .score-info .progress-bar-z{width:352px;height:10px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_z.png") left center repeat}.detail-top .score-info .progress-bar-s{margin-top:10px;width:370px;height:10px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_s.png") center center no-repeat}.cards{width:875px;height:32px;line-height:30px;margin-top:20px;font-size:0}.cards *{vertical-align:middle}.cards .card{margin-left:10px;border:solid 1px;border-color:rgba(255,255,255,.5);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,endColorstr=#7Fffffff);background-color:rgba(255,255,255,.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,endColorstr=#19ffffff);padding:0 10px;display:inline-block;font-size:14px;position:relative}.cards .card-small{display:inline-block;margin-left:10px}.cards .card i{padding:15px;background:url("//static.pacra.cn/shuidi/images/doc/card_icon.png") left center no-repeat}.cards .real-environment i{padding:12px;margin-top:-2px;display:inline-block;background-image:url("//static.pacra.cn/shuidi/images/new-detail/real-environment-icon2.png")}.qrcode-share{width:160px;height:158px;background:url("//static.pacra.cn/shuidi/images/doc/qr_bg_white.png") center top;position:absolute;left:-55px;top:35px;padding:30px 0 12px 0;text-align:center;font-size:12px;color:#444;z-index:1;display:none}.qrcode-share img{width:100px;height:100px;margin-bottom:16px}.qrcode-share p{line-height:22px}.wall{margin-top:35px;font-size:0;position:relative;text-align:right}.wall .company-card{color:#444;font-size:0;padding-top:26px;width:240px;background-color:#fff;box-shadow:0 1px 50px rgba(68,68,68,0.2);text-align:center;display:inline-block;position:absolute;left:0;top:0}.wall .company-card .img-box{height:145px;line-height:145px}.wall .company-card .img-box img{max-width:145px;max-height:145px;vertical-align:middle}.wall .company-card .watch{margin-top:18px;width:108px;height:74px;line-height:30px;display:inline-block;border-bottom:solid 1px #e7e9f0;font-size:18px}.wall .company-card .watch span{font-size:16px;cursor:pointer}.wall .company-card .call{line-height:59px;font-size:16px;color:#444}.wall .company-card .add-color{color:#1276e1}.qrcode-call{line-height:59px;font-size:14px;display:none}.qrcode-call img{width:100px;height:100px}.wall .icon{background:url("//static.pacra.cn/shuidi/images/doc/detail_head_icon.png") left top no-repeat;vertical-align:middle;display:inline-block;margin-right:6px}.wall .icon-fav{padding:11px 12px;background-position:left -2px}.wall .icon-fav-outline{padding:11px 12px;background-position:-111px -2px}.wall .icon-view{padding:11px 16px;background-position:-22px -2px}.wall .icon-call{padding:11px 16px;background-position:-53px -1px}.wall .icon-diamond{padding:16px 21px;background-position:-2px -60px;margin-right:0}.wall .icon-diamond-none{padding:16px 21px;background-position:center center;margin-right:0}.wall .icon-entry{background-position:left -30px}.wall .icon-earth{background-position:-24px -28px}.wall .icon-wechat{background-position:-51px -28px}.wall .icon-phone{background-position:-80px -28px}.wall .icon-horn,.credit-rating .icon-horn{background-position:-85px -3px;margin-left:10px;margin-right:17px}.credit-pages{display:inline-block;width:918px;height:160px;text-align:left}.credit-pages .page-on{height:160px;width:918px}.credit-pages .page-off{display:none;width:750px;margin-left:13px;background-color:rgba(255,255,255,.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,endColorstr=#19ffffff);text-align:center;padding-top:18px;height:140px;display:inline-block;text-align:center;overflow:hidden}.credit-pages .page-off p{font-size:14px;padding-top:10px;padding-bottom:20px}.credit-pages .page-off .bt-ed{display:none}.no-editor{display:none}.credit-pages .page{margin-top:0;width:138px;height:140px;display:inline-block;margin-left:13px;text-align:center;padding-top:18px;overflow:hidden;line-height:22px;font-size:12px;border:solid 1px;border-color:rgba(255,255,255,.3);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,endColorstr=#3Fffffff);background:url("//static.pacra.cn/shuidi/images/doc/credit_wall_bg.png") right bottom no-repeat;background-color:rgba(255,255,255,.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,endColorstr=#19ffffff)}.credit-pages .zs{width:140px;height:160px;display:block;float:left;background:url("//static.pacra.cn/shuidi/images/doc/credit_wall_zs_2.png") center top no-repeat}.credit-pages .page .name{font-size:14px;margin-top:10px}.credit-pages .pub-info{padding-left:13px;margin-top:20px;line-height:33px;font-size:14px;position:relative}.credit-pages .pub-info .icon,.credit-rating .icon{padding:10px;margin-right:10px}.credit-pages .pub-info a{margin-right:25px}.credit-pages .pub-info .more{position:absolute;right:0;opacity:.6}.credit-pages .pub-info .more a{margin-right:0;margin-left:25px}.qrcode-link{position:relative}.qrcode-img{position:absolute;bottom:-115px;left:1px;background:url("//static.pacra.cn/shuidi/images/doc/qr_bg.png") center center no-repeat;width:100px;height:88px;padding-top:23px;text-align:center;z-index:2;display:none}.qrcode-img img{width:76px;height:76px;vertical-align:middle}.credit-pages .pub-info .oneline{max-width:350px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:top}.credit-pages .pub-info .horn,.credit-rating .horn{color:#99999a;margin-top:31px;margin-left:5px;background-color:#f2f4f8}.credit-pages .pub-info .horn .info-text,.credit-rating .info-text{color:#444;display:inline-block;position:relative;overflow:hidden;vertical-align:middle;float:right;width:800px;height:33px}.credit-pages .pub-info .horn .info-show,.credit-rating .info-show{position:absolute;width:800px;line-height:33px;left:0;top:0}.simple-nav{width:1180px;text-align:left;margin:100px auto 0;color:#444;background-color:#fff}.simple-nav .dis-inline-block ul{position:absolute;left:0;bottom:0;width:1148px;height:0;line-height:65px;border-bottom:1px solid #e7e9ef;border-top:1px solid #e7e9ef;background-color:#fff;padding-left:30px;z-index:2;display:none}.simple-nav .dis-inline-block ul li{float:left}.simple-nav .dis-inline-block ul li a{font-size:14px;text-align:left}.simple-nav .links{border:solid 1px #e7e9ef;margin-bottom:20px;position:relative}.simple-nav .links a{text-align:center;width:120px;height:58px;line-height:58px;display:inline-block;font-size:16px;color:#444}.simple-nav i{background:url("//static.pacra.cn/shuidi/images/extreme/dropdown-icon1.png") center center no-repeat;display:inline-block;width:9px;height:5px;margin:0 0 3px 4px}.simple-nav .links a:hover,.simple-nav .links .dis-inline-block:hover>a,.simple-nav .links a:active,.simple-nav .links .active{color:#00ae64}.simple-nav .links a:hover>i,.simple-nav .links a:active>i,.simple-nav .links .dis-inline-block:hover>a>i,.simple-nav .links .active>i{background-image:url("//static.pacra.cn/shuidi/images/extreme/dropdown-icon2.png")}.model .head-default,.model .footer-default{line-height:50px;padding:0 30px;position:relative;font-size:16px}.model .head-default{border-bottom:solid 1px #e7e9ef;font-weight:bold;text-align:left}.model .footer-default{border-top:solid 1px #e7e9ef;position:absolute;line-height:62px;padding:16px 30px;bottom:0}.model-partner{width:660px;height:320px}.model-partner .head-default,.model-partner .footer-default{width:600px}.model-partner .desc{padding:44px 0 45px;font-size:14px}.model-partner .cont{width:598px;height:64px;padding:33px 0;border:solid 1px #e7e9ef;display:inline-block;background-color:#f7fafb;position:relative}.model-partner .cont label{font-size:18px;font-weight:bold}.model-partner .cont input{width:230px;height:34px;line-height:34px;color:#999;border:1px solid #c0c5cf;padding:0 10px}.model-partner .cont button{width:80px;height:36px;border:0;line-height:36px;color:#fff;background-color:#2196f3;font-weight:bold}.model-partner .cont .info{color:#999;font-size:14px;margin-top:11px;margin-left:-25px}.model-partner .error{font-size:14px;color:#999;font-weight:normal;display:none;position:absolute;right:5px;top:44px}.model-partner .error img{width:16px;margin-right:5px;vertical-align:middle}.model-partner .off img{margin-top:55px;margin-bottom:12px}.model-partner .btn{border:1px solid #2196f3;color:#2196f3;border-radius:4px;background-color:#fff;padding:0;height:27px;line-height:27px;width:76px;font-size:12px}.model-partner .btn:hover{background-color:#2196f3;color:#fff}.model-zs{width:460px;background:url("//static.pacra.cn/shuidi/images/doc/zs_bg_1.png") center bottom no-repeat;background-color:#fff}.model-zs-1{padding-bottom:33px}.model-zs .close{right:10px}.model-zs .logo{width:125px;height:39px;margin-top:20px;margin-bottom:10px}.model-zs .logo-wrap-1{position:relative;margin-top:37px;height:36px;font-size:0}.model-zs .logo-wrap-2{position:relative;height:113px;font-size:0}.model-zs .logo-1{width:117px;height:36px;position:absolute;top:0;left:92px;display:block}.model-zs .logo-2{width:131px;height:36px;position:absolute;top:0;left:235px;display:block}.model-zs h3{line-height:30px;font-size:24px;display:inline-block;margin:27px auto 30px auto;font-weight:bold;width:86%}.model-zs .logo-wrap-6{width:181px;height:151px;margin:0 auto;font-size:0;position:relative}.model-zs .logo-wrap-6 img{width:100%;height:100%;display:block;font-size:0}.model-zs .logo-6-time{position:absolute;bottom:17px;left:0;width:100%;text-align:center;font-size:12px;color:#fff}.model-zs .zs{width:181px;height:151px;display:block;margin:0 auto;font-size:0}.model-zs h4{font-size:24px;margin-top:30px;margin-bottom:8px;font-weight:normal;line-height:24px}.model-zs .qr-img{position:absolute;top:6px;left:84px;width:84px;height:84px;display:block;font-size:0}.model-zs .logo-3{width:151px;height:113px;position:absolute;top:0;left:245px;display:block}.model-zs .logo-7-time{position:absolute;bottom:26px;left:245px;text-align:center;width:151px;font-size:12px;line-height:16px;color:#444}.model-zs p{position:absolute;line-height:12px;font-size:12px;color:#444;bottom:0;left:64px}.model-zs .zs-logo-pingan{width:163px;height:38px;margin:14px 0}.model-zs .zs-border{width:215px;height:1px;font-size:0;display:block;margin:0 auto}.model-zs h5{font-size:14px;font-weight:normal;line-height:14px;margin-top:8px;margin-bottom:26px}.model-report{border-radius:5px}.model-report .company-name{font-weight:bold;font-size:24px;margin-top:45px}.model-report .form{text-align:right;padding:30px 60px 15px}.model-report .form .input-group,.model-report .form .btn-group{position:relative;margin-bottom:15px}.model-report .form .input-group input,.model-report .form .input-group textarea{height:38px;line-height:38px;border:1px solid #ddd;width:338px;padding:0 10px;color:#888;font-size:12px;border-radius:5px;resize:none}.model-report .form .input-group textarea{height:128px;line-height:20px;padding:5px 10px}.model-report .form .input-group label{width:110px;display:inline-block;margin-right:10px;vertical-align:middle;font-size:14px;color:#444}.model-report .form .input-group label:after{content:' * ';color:red;vertical-align:middle}.model-report .form .btn-group{margin-top:50px}.model-report .form .btn-group .btn{padding:0 30px;line-height:30px;height:30px;margin-right:20px;font-size:14px;color:#fff;background-color:#dcdcdc}.model-report .form .btn-group .btn-submit{background-color:#2b97f0}.report-success{padding:45px 35px 25px;width:510px}.report-success h3{font-weight:bold;font-size:24px;text-align:center;margin:0 0 30px}.report-success .desc{text-align:center;padding-top:25px}.report-success .desc img{margin-bottom:12px}.report-success .desc p{color:#999;line-height:30px}.report-success .desc .btn{padding:0 30px;line-height:30px;border-radius:5px;color:#fff;background-color:#2b97f0;display:inline-block;margin-top:20px}.form-msg{color:red}.model-more{width:730px;padding:0 25px;background:url(http://static.shuidixy.com/images/1215_eg13.jpg) center top no-repeat;text-align:left;font-size:14px;color:#444}.model-more .model-title{padding-top:24px;font-weight:bold}.model-more .model-body{margin-top:12px;font-size:0}.model-more .model-body p{line-height:22px;padding:6px 6px 0 0;font-size:14px;vertical-align:top}.model-more .model-body label{color:#999}.model-more .col-md-7,.model-more .col-md-5{display:inline-block}.model-more .col-md-7{width:414px}.model-more .col-md-5{width:302px}.model-more .model-footer{text-align:center;margin:10px 0 20px;color:#f60}.model-more .claimed{position:absolute;right:20px;top:180px}.detail-top-vip1 .icon{background:url("//static.pacra.cn/shuidi/images/doc/company_vip1_icon1.png") top left no-repeat;padding:11px;display:inline-block;vertical-align:middle}.detail-top-vip1 .icon-claim-y{padding:14px 90px;background-position:left top;margin-left:20px}.detail-top-vip1 .icon-share{background-position:4px -34px}.detail-top-vip1 .icon-fav{background:url("//static.pacra.cn/shuidi/images/doc/detail_head_icon.png") left top no-repeat;padding:11px 12px;background-position:left -2px}.detail-top-vip1 .icon-fav-outline{padding:11px 12px;background-position:-16px -32px}.detail-top-vip1 .icon-view{padding:9px 15px;background-position:-39px -34px}.detail-top-vip1 .icon-call{background-position:-94px -30px;margin-right:5px}.detail-top-vip1 .icon-gg{background-position:-70px -31px;margin:0 6px}.detail-top-vip1 .container{padding:30px;margin-top:20px;width:1120px;background-color:#fff}.detail-top-vip1 a{color:#444;font-size:14px;position:relative}.detail-top-vip1 .container>div{display:inline-block;vertical-align:top;position:relative}.detail-top-vip1 .logo-info{width:146px;margin-right:30px;text-align:center}.detail-top-vip1 .logo-info .contact{font-weight:bold}.detail-top-vip1 .logo-info .contact .add-color{color:#1276e1}.detail-top-vip1 .img-box{width:146px;height:146px;line-height:146px;text-align:center;border:solid 1px #e7e9ef;margin-bottom:30px}.detail-top-vip1 .img-box img{max-width:141px;max-height:141px}.detail-top-vip1 .base-info{width:939px;display:inline-block;position:relative}.detail-top-vip1 .base-info div{margin-bottom:22px}.detail-top-vip1 .base-info .last{margin:0}.detail-top-vip1 .base-info .last>label,.detail-top-vip1 .base-info .last>label>span{font-size:14px;height:16px;line-height:16px}.detail-top-vip1 .base-info .gonggao{margin-top:30px;position:relative;overflow:hidden;height:19px}.detail-top-vip1 .base-info .gonggao label{margin:0}.detail-top-vip1 .base-info .gonggao .slide-info{font-size:14px;display:inline-block;vertical-align:top;line-height:20px;width:845px;position:relative;top:0;right:0;float:right}.detail-top-vip1 h1{font-size:24px;font-weight:bold;height:26px;line-height:26px;margin-bottom:15px}.detail-top-vip1 label,.detail-top-vip1 a{color:#939393;font-size:16px;margin-right:20px}.detail-top-vip1 .contact a{margin-right:0}.detail-top-vip1 a{font-size:14px}.detail-top-vip1 label>span{color:#444;font-size:16px}.detail-top-vip1 .label{font-size:13px;line-height:18px;height:18px;padding:0 6px;border:solid 1px}.detail-top-vip1 .label-success{color:#00ae64;border-color:#00ae64;background-color:#e4fff4}.detail-top-vip1 .label-error{color:#fe3c3c;background-color:#ffebeb;border-color:#ff5c5c}.detail-top-vip1 .text-blue{color:#008ff8}.detail-top-vip1 .right{float:right}.detail-top-vip1 .score-info{width:270px;display:inline-block;position:absolute;right:0;top:0;font-size:16px;text-align:center}.detail-top-vip1 .score-info *{display:inline-block}.detail-top-vip1 .score-info .tip{width:16px;height:16px;line-height:16px;border:solid 1px #d9d9db;border-radius:1px;color:#939393;float:right;font-size:14px;margin-right:0}.detail-top-vip1 .score-info h1{display:block;color:#b1b1b1;font-weight:bold;margin-bottom:13px;height:26px}.detail-top-vip1 .score-info .score-desc{text-align:left;padding:15px 20px;font-size:14px;line-height:25px;color:#444;border:1px solid #e1e1e1;position:absolute;right:34px;top:-20px;background-color:#fff;z-index:2;display:none}.detail-top-vip1 .score-info .score-desc span{position:absolute;top:18px;right:-20px;display:block;height:0;width:0;border-color:transparent transparent transparent #e1e1e1;border-style:dashed dashed solid dashed;border-width:10px}.detail-top-vip1 .score-info>div{margin-bottom:0}.detail-top-vip1 .score-info .desc{font-size:16px;margin-bottom:5px}.detail-top-vip1 .score-info .desc .fir{color:#fff117}.detail-top-vip1 .score-info .progress-bar{width:250px;height:10px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_g.png") center bottom repeat;position:relative;overflow:hidden}.detail-top-vip1 .score-info .progress-bar .progress{position:absolute;left:-250px;width:250px;height:22px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_g.png") center -1px no-repeat}.detail-top-vip1 .score-info .progress-bar-z{width:250px;height:10px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_gz.png") left center repeat;background-color:#d2ffec}.detail-top-vip1 .score-info .progress-bar-s{margin-top:10px;width:270px;height:10px;background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_gs.png") center center no-repeat}.detail-top-vip1 .score-info-silver .progress-bar{background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_g_s.png") center bottom repeat}.detail-top-vip1 .score-info-silver .progress-bar-z{background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_gz_s.png") left center repeat;background-color:#efefef}.detail-top-vip1 .score-info-silver .progress-bar-s{background:url("//static.pacra.cn/shuidi/images/doc/progress_bar_gs_s.png") center center no-repeat}.detail-top-vip1 .score-info-silver .progress-bar .progress{background:0}.detail-top-vip1 .qrcode-call{background-color:#fff;position:absolute;z-index:2;line-height:59px;font-size:14px;width:160px;padding-top:18px;left:-17px;display:none}.detail-top-vip1 .qrcode-call img{width:100px;height:100px}.detail-top-vip1 .qrcode-share{top:17px;left:-53px}.simple-nav-vip1 .nopower-tip{position:absolute;width:295px;height:37px;text-align:center;padding-top:10px;background:url("//static.pacra.cn/shuidi/images/doc/nopower_bg.png") center bottom no-repeat;display:none;color:#9b9b9b;font-size:14px;z-index:2}.simple-nav-vip1{text-align:center;margin-bottom:20px}.simple-nav-vip1 .links{font-size:0}.simple-nav-vip1 .links a,.simple-nav-vip1 .links label{width:295px;height:40px;line-height:40px;display:inline-block;font-size:16px;background-color:#e3e5eb}.simple-nav-vip1 .links a:hover,.simple-nav-vip1 .links a:active,.simple-nav-vip1 .links .active{background-color:#21a153;color:#fff}.consult-link{position:fixed;z-index:11;width:130px;padding-bottom:20px;top:35%;left:10px;background:#fff;text-align:center;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;-webkit-box-shadow:0 0 10px rgba(153,153,153,.5);-moz-box-shadow:0 0 10px rgba(153,153,153,.5);box-shadow:0 0 10px rgba(153,153,153,.5)}.consult-link div{position:relative;text-align:center}.consult-link p{padding-top:16px;height:16px;color:#00ae64;font-size:16px}.consult-link a.consult-qq,.consult-link span.consult-wx{display:inline-block;background-color:#00ae64;width:100px;height:32px;line-height:32px;color:#fff;font-size:14px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;margin-top:12px}.consult-link img{width:66px;height:66px;margin:20px auto;display:none}.consult-link .close-button{position:absolute;left:-8px;top:-8px;z-index:44;width:16px;height:16px;display:inline-block;background:no-repeat url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png") center center}#companyName{max-width:580px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:inline-block;vertical-align:top}.vip-normal .logo-info{width:120px}.vip-normal h1{margin-bottom:13px}.vip-normal .img-box{position:relative;margin-bottom:0;width:120px;height:120px;line-height:120px}.vip-normal .img-box img{max-width:115px;max-height:115px}.vip-normal .img-box a{width:118px;height:27px;line-height:27px;text-align:center;position:absolute;bottom:1px;margin:0;left:1px;color:#fff}.vip-normal .base-info div{margin-bottom:10px}.vip-normal .base-info div.label-bar{margin-bottom:14px}.vip-normal .base-info div.label-bar2{height:20px;line-height:20px}.vip-normal .base-info div.label-bar2 label,.vip-normal .base-info div.label-bar2 span{font-size:14px}.vip-normal a.btn-label{font-size:13px;height:18px;padding:0 6px;line-height:18px}.vip-normal .btn-label .icon{background:0;padding:0;background-color:#f00}.vip-normal a.capital-search{width:70px;height:20px;display:inline-block;text-align:center;background-color:#00ae64;color:#fff;font-size:13px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}.vip-normal a.capital-search:hover,.vip-normal a.capital-search:active{background-color:#10cc7c}.vip-normal .share-btn{cursor:pointer;position:relative}.vip-normal .base-info .qrcode-share{top:-13px;left:72px;height:40px;line-height:40px;background-image:none;background-color:#fff;width:auto;display:none}.vip-normal .base-info .qrcode-share img{width:auto;height:auto;padding:11px;margin:0;display:inline-block;vertical-align:initial}.vip-normal .base-info .qrcode-share a{margin:0}.vip-normal .icon-bang-sm{background-image:none;padding:0;margin-right:7px;width:2px;height:12px}.vip-normal .bg-error{background-color:#f00}.vip-normal .btn{padding:8px;text-align:center;line-height:1;border-radius:2px;white-space:nowrap}.vip-normal .btn-sm{padding:2px 6px;font-size:13px}.vip-normal .btn-success{color:#fff;background-color:#00ae64}.vip-normal .btn-success:hover{background-color:#10cc7c}.vip-normal .btn-silver-outline{background-color:#f6fafd;border:solid 1px #dfe3ec}.vip-normal .btn-silver-outline:hover{background-color:#00ae64;border-color:#00ae64;color:#fff}.vip-normal .base-info .score-info div{margin-bottom:5px;margin-top:0}.vip-normal .score-info .light{font-size:13px;font-weight:normal}.vip-normal .score-info .light a{color:#00ae64}.tip-title{position:absolute;white-space:nowrap;left:-10px;top:-30px;font-size:12px;line-height:22px;background-color:#f7f8fa;padding:0 10px;border-radius:2px;border:solid 1px #e7ebf1;display:none;z-index:2}.tip-title .vi{font-size:0;line-height:0;width:0;height:0;border:solid 9px transparent;border-right-color:#e7ebf1;border-left:none;position:absolute;left:-9px;top:10px}.tip-title .vi label{border:solid 8px transparent;border-right-color:#fff;border-left:none;position:absolute;left:1px;top:-8px}.max-300{max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:top}.vip-normal .icon-claim{padding-top:20px}.vip-normal .text-success{color:#21a153}.vip-normal .base-info .claim-status{display:inline-block;vertical-align:middle;margin-top:-4px}.claim-status .btn{padding:2px 4px;margin-top:5px}.claim-status .btn-warning{color:#fff}.claim-status .bg-silver{background-color:#b1b1b1;color:#fff;border:solid 1px #b1b1b1}.vip-normal .nobtns #company-name{margin-bottom:5px}.vip-normal .nobtns #dangerBtn{line-height:15px;margin-top:2px}.vip-normal .nobtns .claim-status{display:block;margin-bottom:10px}.vip-normal .nobtns .claim-status label{font-size:14px;font-weight:normal}.vip-normal .nobtns .claimed{margin-bottom:5px}.vip-normal .base-info .last .icon{background-image:url("//static.pacra.cn/shuidi/images/detail/vip_normal_icon.png")}.vip-normal .base-info .icon-fav{background-position:-66px 2px}.vip-normal .base-info .icon-fav-outline{background-position:-15px 2px}.vip-normal .base-info .icon-view{background-position:-39px 0}.vip-normal .base-info .icon-share{background-position:4px 0}.bg-success{background-color:#00ae64}.btn-warning{background-color:#ff5824;border:solid 1px #ff5824;color:#fff}.btn-warning:hover{background-color:#ff6b3d;border-color:#ff6b3d}.model-accurate,.model-concat{border-radius:5px}.model-accurate .head-default,.model-concat .head-default{font-size:24px;background-color:#00ae64;text-align:center;color:#fff}.model-accurate .model-body,.model-concat .model-body{padding:25px 50px;text-align:center}.model-accurate p{line-height:30px;font-size:16px;margin-bottom:15px}.model-accurate .list>.item{width:414px;line-height:36px;padding:6px 20px;font-size:14px;text-align:left;margin-bottom:10px;border-left:solid 6px #00ae64}.model-accurate .person-name{width:165px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;vertical-align:middle}.icon{vertical-align:middle;padding:14px;display:inline-block;background:url("//static.pacra.cn/shuidi/images/detail/more_icon.png") left top}.icon-bang-sm,.icon-bang-md,.icon-bang-lg{background-image:none;padding:0}.icon-bang-sm{margin-top:-3px;margin-right:7px;width:2px;height:12px}.icon-bang-md{margin-right:8px;width:3px;height:14px}.icon-bang-lg{margin-right:15px;width:5px;height:17px}.icon-ordinal{padding:1px;min-width:16px;text-align:center;border-radius:2px;border:solid 1px #ebedf4}.icon-person{background:0;padding:0;width:44px;height:44px;line-height:44px;border-radius:22px;text-align:center;font-size:18px}.icon-ask{background-position:0,0}.bg-success{background-color:#00ae64}.bg-yellow{background-color:#fff600}.bg-error{background-color:#f00}.bg-primary{background-color:#2196f3}.bg-warning{background-color:#fd7e48}.bg-silver{background-color:#f5f6fa}.text-success{color:#21a153}.text-silver{color:#999}.text-strong{color:#444;font-weight:bold}.list,.list-horizontal{position:relative;font-size:0}.list .item,.list-horizontal .item{position:relative;vertical-align:middle;font-size:14px}.list-horizontal .item{display:inline-block}.list-horizontal .last{margin-right:0}.list-table{display:table}.list-table .row>*{display:table-cell}.title-lg{font-size:16px;font-weight:bold}.title-sub{font-weight:normal;font-size:14px;color:#999}.btn{padding:8px;text-align:center;line-height:1;border-radius:2px;white-space:nowrap;position:relative}.btn-sm{padding:2px 6px;font-size:13px}.btn-success{color:#fff;background-color:#00ae64}.btn-success:hover{background-color:#10cc7c}.btn-success-outline{color:#00ae64;background-color:#fff;border:solid 1px #00ae64}.btn-success-outline:hover{background-color:#00ae64;color:#fff}.btn-silver-outline{background-color:#f6fafd;border:solid 1px #dfe3ec}.btn-silver-outline:hover{background-color:#00ae64;border-color:#00ae64;color:#fff}.btn-silver-outline:hover .bg-error{background-color:#fff600}.tip-btn{line-height:30px;top:-8px;background-color:#fff;font-size:14px;color:#444}.tip-btn .vi{top:6px}.tip-btn .vi label{border-right-color:#fff}.shuidi-tip{width:14px;height:14px;display:inline-block;vertical-align:bottom}.model-concat .model-body img{width:200px;height:200px;margin:30px 100px 10px}.model-concat .model-body p{margin-bottom:20px}.detail-top-vip1 .download-vip1{padding:0 10px;border-radius:3px;background-color:#00ae64;color:#fff}.jump-company-detail{border:1px solid #e9ebf1;position:fixed;top:50%;left:50%;margin-left:-250px;z-index:10001;width:500px;background:#fff;height:289px;margin-top:-144px;display:none}.popup-qrcode-box img{display:block;width:117px;height:119px;margin:0 auto}.detail-popup-icon{position:absolute;width:22px;height:22px;top:12px;right:12px;background-image:url("//static.pacra.cn/shuidi/images/new-detail/icon-close-2.png");background-size:22px;cursor:pointer}.jump-company-title{padding:32px 0 5px 30px}.popup-qrcode-box p{margin:12px auto 0;padding-left:22px;width:130px;height:24px;line-height:24px;font-size:14px;text-align:center;color:#00ae64;background:url("//static.pacra.cn/shuidi/images/payment-common/wx_icon.jpg") no-repeat left}.apply-download-reason,.apply-check-reason{height:288px;border:1px solid #e9ebf1;position:fixed;top:50%;left:50%;margin-left:-250px;z-index:10001;width:498px;background:#fff;margin-top:-144px;font-size:0}.apply-download-reason span,.apply-check-reason span{margin-left:31px;color:#444;font-size:14px;position:absolute;margin-top:56px}.apply-download-reason textarea,.apply-check-reason textarea{margin-top:56px;margin-left:99px;width:340px;height:117px;border:1px solid #e6e8f4;padding:9px;font-size:14px;resize:none}.apply-download-reason .apply-reason-btn,.apply-check-reason .apply-reason-btn{margin-top:14px;margin-left:99px}.apply-reason-btn a{display:inline-block;width:98px;height:34px;border:1px solid #00af64;line-height:34px;text-align:center;color:#00ae64;background-color:#e1fef2;margin-right:12px;font-size:16px;border-radius:3px}.apply-download-reason p,.apply-check-reason p{position:absolute;bottom:79px;right:40px;font-size:12px;color:#fe0000}.apply-download-reason textarea{margin-top:76px}.apply-download-reason span{margin-top:76px}.apply-download-reason p{bottom:58px}.apply-download-reason label{position:absolute;font-size:14px;color:#444;top:40px;left:31px}.reason-success-tip-box,.apply-nodata-tip-box,.apply-noauthority-tip-box{height:90px;border:1px solid #e9ebf1;position:fixed;top:50%;left:50%;margin-left:-250px;z-index:10001;width:498px;background:#fff;margin-top:-144px}i.success-tip{position:absolute;top:36px;left:30px;width:32px;height:32px;display:inline-block;background:url("//static.pacra.cn/shuidi/images/new-detail/icon_ok.png") no-repeat center center}i.nodata-error-tip{position:absolute;top:36px;left:30px;width:32px;height:32px;display:inline-block;background:url("//static.pacra.cn/shuidi/images/new-detail/icon_error_tip.png") no-repeat center center}.reason-success-tip-box .only-p1,.apply-nodata-tip-box .only-p1,.apply-noauthority-tip-box .only-p1{padding:42px 0 10px 75px}.cover-layer{position:relative;height:131px;border:1px solid #e7e9ef}.cover-layer div{position:absolute;width:560px;line-height:50px;top:50%;left:50%;margin-top:-25px;margin-left:-280px;text-align:center}.cover-layer div span{color:#999;margin-right:17px;font-size:14px}.cover-layer div p{line-height:24px;font-size:14px;padding:0 14px;border:1px solid #00af64;color:#00af64;cursor:pointer;display:inline-block;border-radius:3px}.tip-popup{width:328px;height:168px;border:1px solid #e6e8f4}.popup-position{position:fixed;left:50%;top:50%;z-index:100001;background-color:#fff;border:1px solid #e6e8f4}.check-popup{width:630px;height:418px;margin-left:-316px;margin-top:-210px;display:none}.check-popup .add-pd{padding:31px}.check-popup .title{font-size:18px;line-height:18px}.add-size{font-size:12px;color:#aeaeae;margin:8px 0 26px}.check-popup .add-mg{line-height:36px;margin-bottom:10px}.check-popup .con-tip{width:116px}.check-popup .con-tip span{color:red;margin-right:3px}.check-popup .msg{color:red;font-size:12px;margin-left:10px;display:none;width:132px}.check-popup input[type="text"]{height:34px;line-height:34px;border:1px solid #e6e8f4;padding:0 11px;width:286px;border-radius:3px}.check-popup input[type="text"]:focus{border:1px solid #e6e8f4}.check-popup .add-mg .special-msg{line-height:12px}.phone-code-box,.img-code-box{position:relative}.phone-code-box .phone-position,.img-code-box .img-code-btn{position:absolute;width:90px;height:32px;right:2px;line-height:32px;top:3px;text-align:center;cursor:pointer}.phone-code-box .phone-code-btn,.phone-code-box .img-code-btn{background-color:#00ae64;color:#fff}.phone-code-box .phone-code-btn:hover{background-color:#0dbc71;cursor:pointer}.phone-code-box .disabled{background-color:#898989;color:#fff}.phone-code-box .disabled:hover{background-color:#898989;cursor:default}.check-popup .btn-box{padding:4px 0 0 116px}.check-popup .btn-box a{width:98px;height:34px;line-height:34px;text-align:center;border:1px solid #00ae64;border-radius:3px}.check-popup .btn-box .net-submit-sure-btn{color:#fff;margin-right:12px;background-color:#00ae64}.check-popup .btn-box .net-submit-cancle-btn{color:#00ae64;background-color:#e1fef2}.tip-popup{width:328px;height:168px;margin-left:-165px;margin-top:-85px;display:none}.tip-popup .title,.owner-popup .title{font-size:18px;line-height:18px}.tip-popup .add-pd,.owner-popup .add-pd{padding:28px 20px}.tip-popup p{color:#999;line-height:14px;margin:22px 0 28px}.tip-popup a{display:inline-block;background-color:#00ae64;color:#fff;border-radius:3px;width:70px;line-height:32px;text-align:center}.owner-popup{width:708px;margin-top:-216px;margin-left:-355px;display:none}.owner-popup .title{margin-bottom:26px}.owner-popup p{margin-bottom:28px;line-height:24px;vertical-align:top}.owner-popup p span{margin-left:24px;color:#999}.owner-popup p .prove-data{margin-left:0}.owner-popup p textarea{height:120px;width:580px;line-height:24px;margin-left:24px;resize:none;border:1px solid #e6e8f4;color:#999}.owner-popup p a{color:#00ae64;margin-left:24px;width:180px;display:inline-block}.company-contact,.rating-box{background-color:#fff}.company-contact,.rating-box,.credit-rating{height:220px;display:inline-block}.dis-inline-block{display:inline-block}.credit-rating{width:910px;font-size:14px;line-height:33px;color:#444;text-align:left}.rating-box{width:650px;margin-right:15px;overflow:hidden}.company-contact{width:240px}.credit-rating .horn{margin-top:46px}.credit-rating .info-text{text-align:left}.credit-rating .pre-rating,.credit-rating .lat-rating{padding-top:26px}.credit-rating .pre-rating{margin:0 46px 0 34px}.add-clee5035{color:#ee5035}.add-cl00ae64{color:#00ae64}.credit-rating .add-bld{font-size:40px;line-height:100px;text-align:center}.credit-rating .num-day{font-size:24px;margin-right:5px}.line-height24{line-height:24px}.font-size18{font-size:18px}.mar-bottom28{margin-bottom:28px}.bold700{font-weight:700}.lat-rating .mar-bottom26{margin-top:4px}.lat-rating .line-height24{vertical-align:middle}.lat-rating .line-height24 span{display:inline-block;width:200px}.lat-rating .line-height24 span i{display:inline-block;width:16px;height:11px;margin-right:3px;background:url("//static.pacra.cn/shuidi/images/extreme/hook.png") no-repeat center center}.company-contact{vertical-align:top}.company-contact .line-height24{padding:22px 16px 16px 22px}.mar-top5{margin-top:5px}.mar-bottom5{margin-bottom:5px}.company-contact a i{display:inline-block;width:9px;height:5px;margin-left:10px;background:url("//static.pacra.cn/shuidi/images/extreme/pull-down-icon.png") center center no-repeat}.public-num{position:relative}.company-contact .wei-xin-icon{width:10px}.company-contact .qq-link-icon{margin-right:7px}.company-contact .wei-xin-icon .qrcode-img{left:-39px}.public-num:hover .qrcode-img{display:inline-block}.add-mar-left10{margin-left:10px}.credit-rating .font-size12{font-size:12px}.cursor-d{cursor:default}.aaa-certificate{position:fixed;top:50%;left:50%;margin-left:-230px;width:448px;border:6px solid #a37c54;padding-bottom:24px;background-color:#fff;z-index:10001;text-align:center;margin-top:-288px}.certificate-layer .close{background:url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png") center center no-repeat;padding:15px;display:inline-block;position:absolute;top:6px;right:7px;cursor:pointer}.certificate-layer .logo-wrap-1{position:relative;margin-top:37px;height:36px;font-size:0}.certificate-layer .logo-1{width:117px;height:36px;position:absolute;top:0;left:92px;display:block}.certificate-layer .logo-2{width:131px;height:36px;position:absolute;top:0;left:235px;display:block}.certificate-layer h3{line-height:18px;font-size:18px;display:inline-block;margin:40px auto 20px auto;font-weight:bold;width:86%}.certificate-layer h2{line-height:30px;font-size:30px;font-weight:bold}.certificate-layer .zs-border{width:215px;height:1px;font-size:0;display:block;margin:0 auto}.certificate-layer h4{font-size:24px;margin-top:37px;margin-bottom:8px;font-weight:normal;line-height:24px}.certificate-layer h5{font-size:14px;font-weight:normal;line-height:14px;margin-top:8px;margin-bottom:35px}.certificate-layer .logo-wrap-2{height:75px;width:100%;margin-top:22px;background:url("//static.pacra.cn/shuidi/images/extreme/extreme_icon_14.png") center center no-repeat}.certificate-layer .logo-wrap-2 p{font-size:52px;line-height:52px;color:#ee5036;font-weight:bold;margin-bottom:5px}.certificate-layer .logo-wrap-2 span{font-size:14px;color:#a37c54}.certificate-layer .logo-wrap-3{position:relative;height:113px;font-size:0}.certificate-layer .logo-wrap-3 .qr-img{position:absolute;top:6px;left:78px;width:84px;height:84px;display:block;font-size:0}.certificate-layer .logo-wrap4 .float-left{width:174px;text-align:center;padding-left:34px}.certificate-layer .logo-wrap4 .qr-img{width:84px;height:84px;display:block;font-size:0;margin:0 auto 10px}.certificate-layer .logo-wrap4 .logo-wrap4-p1{line-height:12px;font-size:12px;color:#999}.certificate-layer .logo-wrap4 .float-right{text-align:center;width:160px;padding-right:50px;padding-top:10px}.certificate-layer .logo-wrap4 .margin-top6{margin-top:6px}.certificate-layer .logo-wrap4 .float-right p{font-size:16px;line-height:24px}.certificate-layer .logo-wrap-3 p{position:absolute;line-height:12px;font-size:12px;color:#999;bottom:0;left:33px}.certificate-layer .logo-wrap-3 .img-seal{width:151px;height:113px;position:absolute;top:0;left:240px;display:block}.certificate-layer .logo-wrap-3 .claim-time{position:absolute;bottom:26px;left:240px;text-align:center;width:151px;font-size:12px;line-height:16px;color:#444}.model-zs .lt-style1,.model-zs .lt-style2,.model-zs .lt-style3{font-size:16px;width:160px;left:244px}.model-zs .lt-style1{top:20px}.model-zs .lt-style2{top:44px}.model-zs .lt-style3{top:74px}.model-zs-1{margin-left:-230px;margin-top:-284px}.detail-bounced{position:fixed;top:50%;left:50%;margin-left:-375px;transform:translateY(-50%);z-index:10001;width:750px;background:#fff}.detail-bounced .bounced-header{padding:20px;background-color:#00af64;color:#fff;position:relative}.detail-bounced .bounced-header .bounced-icon{position:absolute;width:22px;height:22px;top:20px;right:20px;background-image:url("//static.pacra.cn/shuidi/images/new-detail/icon-close-1.png");background-size:22px;cursor:pointer}.detail-bounced .bounced-header .bounced-header-title{font-size:20px;margin-bottom:3px}.detail-bounced .bounced-header .bounced-header-title span{margin:0 6px}.detail-bounced .bounced-header .bounced-header-description{font-size:14px}.detail-bounced .bounced-header .bounced-header-description span{margin:0 4px;color:#fcff00}.detail-bounced .bounced-contain{padding:20px;color:#444;border:1px solid #e9ebf1;border-top:0}.detail-bounced .bounced-contain .bounced-contain-title{font-size:14px;padding-bottom:20px}.detail-bounced .bounced-body{border:1px solid #e9ebf1}.detail-bounced .bounced-body .bounced-body-title{font-size:14px;padding-left:19px;height:37px;line-height:37px;background-color:#f4f6f9;color:#444}.detail-bounced .bounced-body .bounced-body-title span{color:#999;float:right;margin-right:19px}.detail-bounced .bounced-body .bounced-list:after{display:block;content:"";clear:both;padding-bottom:20px}.detail-bounced .bounced-body .bounced-list .bounced-items{width:50%;float:left;padding-left:48px;margin-top:15px;background:url("//static.pacra.cn/shuidi/images/payment-common/yes.jpg") 22px no-repeat;box-sizing:border-box}.detail-bounced .bounced-main{border:1px solid #e9ebf1;margin-top:20px;padding:20px}.detail-bounced .bounced-main:after{display:block;content:"";clear:both}.detail-bounced .bounced-main .bounced-main-items{width:50%;float:left;text-align:center;box-sizing:border-box}.detail-bounced .bounced-main{border-left:1px solid #e9ebf1}.bounced-main-items .first-main-items{border-right:1px solid #e9ebf1}.detail-bounced .bounced-main .bounced-main-items .bounced-main-title{font-size:18px;color:#444;margin-bottom:8px}.detail-bounced .bounced-main .bounced-main-items .bounced-main-btn{width:140px;height:36px;line-height:36px;background-color:#00af64;border-radius:3px;color:#fff;margin:64px auto 0;font-size:16px}.detail-bounced .bounced-main .bounced-main-items .bounced-main-img{display:block;width:117px;height:119px;margin:0 auto}.detail-bounced .bounced-main .bounced-main-items .bounced-main-tip{margin:12px auto 0;padding-left:22px;width:130px;height:24px;line-height:24px;font-size:14px;text-align:center;color:#00ae64;background:url("//static.pacra.cn/shuidi/images/payment-common/wx_icon.jpg") no-repeat left}.detail-bounced .risk-body{border:1px solid #e9ebf1}.detail-bounced .risk-body .bounced-risk-title{font-size:14px;padding-left:19px;height:37px;line-height:37px;background-color:#f4f6f9;color:#444}.detail-bounced .risk-body .risk-list{margin:0 20px}.detail-bounced .risk-body .risk-list:after{display:block;content:"";clear:both}.detail-bounced .risk-body .risk-list li{width:33.3333%;float:left;text-align:center;line-height:40px}.detail-bounced .risk-body .risk-list-num{color:#f53735;border-top:1px solid #e9ebf1}.detail-outlet .bounced-body .bounced-list .bounced-items{width:100%}.official-website{color:white}a{color:#444}.company-more{font-size:0;position:relative}.company-more .icon-person{color:#fff}.container-left,.container-right{display:inline-block;vertical-align:top;font-size:14px}.container-left{width:900px;margin-right:20px}.company-more .container-left>.panel{min-height:995px}.company-more .container-left .btn-silver-outline:hover .bg-error{background-color:#fff600}.container-right{width:260px}.float-right{float:right}.border{border:solid 1px #e9ebf1}.panel{position:relative;background-color:#fff;border:solid 1px #e9ebf1;margin-bottom:19px}.panel .panel-head{padding:0 19px;height:45px;line-height:45px}.panel .panel-body{padding:5px 19px 19px}.shengming{line-height:25px}.company-more .container-left>.shengming{min-height:125px}.shengming .panel-body{padding-top:19px}.shengming font{font-weight:bold}.neck-top-left a:hover,.neck-item a:hover,.neck-item li:hover span{color:#21a153}.neck-item ul>.text-silver:hover a,.neck-item ul>.text-silver:hover span,.neck-item ul>.text-silver a,.neck-item ul>.text-silver span{color:#999}.company-neck .title-lg{height:16px;line-height:16px}.title-lg .float-right{font-size:13px;font-weight:normal}.neck-top-left{width:785px;height:114px;border-bottom:0;background-color:#fff;overflow:hidden}.neck-top-left .title-lg{padding:0 30px;height:50px;line-height:50px}.neck-top-left ul{padding-left:30px}.neck-top-left ul li{margin-right:30px;min-width:210px;max-width:720px;float:left;height:14px;line-height:14px;margin-bottom:18px;overflow:hidden;word-wrap:break-word;white-space:nowrap;text-overflow:ellipsis}.neck-top-left ul li i{display:inline-block;margin-right:7px;width:3px;height:14px;background-image:none;padding:0}.neck-top-right{width:393px;height:114px}.neck-top-right a{display:inline-block;width:100%;height:100%}.neck-top-right .rukou{position:relative}.neck-top-right .rukou p{font-size:18px;text-align:center;color:#fff;display:inline-block;position:absolute;top:15px;width:100%}.neck-top-right .rukou p font{font-size:36px;font-weight:bold}.neck-top-right .rukou-noclaim p{top:30px}.neck-top-right .ad{width:393px;height:114px;position:relative;background:url("//static.pacra.cn/shuidi/images/detail/ad_bg.png") center center no-repeat}.neck-top-right .ad .cont{position:absolute;left:87px;top:25px;color:white;font-size:15px}.neck-top-right .ad .cont .t{margin-top:10px;font-size:42px}.neck-top-right .ad .ad-btn{width:81px;height:82px;display:inline-block;position:absolute;top:18px;right:15px;background:url("//static.pacra.cn/shuidi/images/detail/ad_btn.png") center center no-repeat}.neck-more{clear:both;padding:20px 0 30px 0;display:inline-block;width:1179px;border:solid 1px #e9ebf1;background-color:#fff;margin-bottom:20px;position:relative}.neck-more .turn-menu{width:23px;height:16px;display:inline-block;position:absolute;left:576px;bottom:0;background:url("//static.pacra.cn/shuidi/images/detail/nav_menu.jpg") center top no-repeat;border:solid 1px #e9ebf1;border-bottom:0}.neck-more .turn-menu:hover{background:0;background-color:#00ae66;width:66px;height:20px;left:555px;text-align:center;line-height:20px;font-size:12px;color:#fff}.neck-more .turn-menu span{cursor:pointer;display:none}.neck-more .turn-menu:hover .down{display:block}.neck-item{padding:0 30px;width:233px;float:left;border-right:1px solid #e4e5ea}.neck-more-active .turn-menu{background-position:center bottom}.neck-more-active .turn-menu:hover .down{display:none}.neck-more-active .turn-menu:hover .up{display:block}.neck-item ul{float:left;width:110px}.neck-item ul li{width:110px;height:14px;line-height:14px;font-size:14px;margin-top:16px}.neck-item ul li span{margin-left:8px}.item-border-none{border:0}.neck-item a{position:relative;white-space:nowrap}.neck-item .tip-title{line-height:30px;left:83px;top:-8px;background-color:#fff}.neck-item .tip-title .vi{left:-16px;top:6px}.neck-item .tip-title .vi label{border-right-color:#fff}.noborder{border:0}.page{font-size:0;margin-left:-5px;margin-top:15px;text-align:right}.page .page-item{display:inline-block;vertical-align:middle;min-width:8px;padding:0 5px;text-align:center;height:18px;line-height:18px;font-size:14px;color:#999;border:solid 1px #e9ebf1;background-color:#fff;margin-left:5px}.page .page-item:hover{border-color:#00ae66;color:#00ae66}.page .active,.page .active:hover{border-color:#00ae66;background-color:#00ae66;color:#fff}.company-more [data-model],.list-horizontal [data-model],list [data-model]{display:none}.nav-fixed{position:fixed;right:0;top:540px;text-align:right;font-size:28px;z-index:1}.nav-fixed a{color:#fff}.nav-fixed>*{margin-bottom:3px;height:44px;line-height:44px;color:#fff;font-size:12px;background-color:#5f5750;display:inline-block}.nav-fixed>* label{padding-left:16px;display:none}.nav-fixed>*:hover,.nav-fixed>*:active{background-color:#4fa6ec}.nav-fixed>*:hover label,.nav-fixed>*:active label{display:inline-block}.nav-fixed .icon{background:url("//static.pacra.cn/shuidi/images/index_icon.png") left top no-repeat;padding:12px;margin:11px 10px;vertical-align:middle}.nav-fixed .icon-qq{background-position:2px -218px}.nav-fixed .icon-edit{background-position:-26px -218px}.nav-fixed .icon-up{background-position:-54px -218px}.shuidi-tip{width:14px;height:14px;display:inline-block;vertical-align:bottom}.container-right .concat-us .panel-body,.container-right .concat-admin .panel-body{padding:0}.container-right .concat-us .bg-success,.container-right .concat-admin .bg-success{padding:52px 0;text-align:center}.container-right .concat-us .btn,.container-right .concat-admin .btn{padding:15px;width:188px;line-height:18px;border:solid 2px #fff;border-radius:2px;font-size:16px;font-weight:bold;color:#fff}.container-right .concat-us .btn{height:58px;padding:0;width:222px;border:0;background:url("//static.pacra.cn/shuidi/images/obtain_contact.gif") center center no-repeat}.container-right .concat-us p{text-align:center}.container-right .concat-us img{margin-top:15px;width:110px;height:110px}.container-right .concat-admin .bg-success{padding:24px 0;background-color:#fff}.container-right .concat-admin .btn{border-width:1px;border-color:#00ae66;color:#00ae66}.container-right .panel{margin-bottom:20px}.container-right .panel-head{border-bottom:solid 1px #e9ebf1}.container-right .panel-body{text-align:center}.container-right .btn{width:204px;margin-top:6px}.container-right p{text-align:left;line-height:40px}.container-right .login .panel-head{border-bottom:0}.container-right .login .btn{width:97px;height:28px;padding:0;line-height:28px;margin:0 4px;margin-bottom:12px}.concat-other .item{line-height:35px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.concat-other .icon{background:url("//static.pacra.cn/shuidi/images/detail/neck_right_icon.png") center center no-repeat;padding:11px;margin-right:7px}.concat-other .icon-phone{background-position:top center}.concat-other .icon-email{background-position:center center}.concat-other .icon-website{background-position:bottom center}.danger-yun .panel-body{padding-top:25px;font-size:0}.danger-yun .btn-success{margin-top:-5px;font-size:14px}.display-block{display:block}.com-conent-d{clear:both;width:1200px;margin:0 auto;background-color:#fff}.con-support{clear:both;padding:20px 20px;font-size:14px;text-align:center}.con-support p.support-p1{font-size:16px;color:#444;padding-bottom:20px}.con-support label{width:350px;text-align:left;font-size:14px;color:#444}.con-support p img{padding-left:20px}.disclaimer{clear:both;padding:16px 20px;line-height:24px;color:#444;font-size:14px}.disclaimer span{color:#00ae64;padding-right:10px}
+*/
+ @charset "utf-8"; 
+
+html, body {
+	font: 14px "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+	color: #607485;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: inherit;
+	font-weight: normal;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 0
+}
+
+ul, ol, li, dd, dl, dt {
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+	font-family: "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0
+}
+
+table, td, tr, th {
+	border-collapse: collapse;
+	border: 0;
+	text-align: left
+}
+
+a {
+	text-decoration: none;
+	font-family: "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+	outline: 0;
+	font-weight: normal;
+	color: #607485
+}
+
+a:hover {
+	text-decoration: none
+}
+
+img {
+	border: 0
+}
+
+em, i {
+	font-style: normal
+}
+
+label {
+	display: inline-block
+}
+
+table {
+	width: 100%;
+	border: 0;
+	border-collapse: collapse;
+	border-spacing: 0
+}
+
+table th {
+	font-weight: normal
+}
+
+table th, table td {
+	word-wrap: break-word;
+	word-break: break-all
+}
+
+ul, ol {
+	list-style-type: none
+}
+
+b, i {
+	font-weight: normal;
+	font-style: normal
+}
+
+input, select, textarea {
+	vertical-align: middle;
+	outline: 0
+}
+
+input {
+	font-family: "Microsoft YaHei", "微软雅黑", Arial, Helvetica, sans-serif;
+	color: #333
+}
+
+input[type="button"]:hover {
+	background-color: #2ca2ff
+}
+
+:focus {
+	outline: 0
+}
+
+input[type="text"]:focus {
+	border: 1px solid #f07a24
+}
+
+input[type="password"]:focus {
+	border: 1px solid #f07a24
+}
+
+input[type="password"]:focus {
+	border: 1px solid #f07a24
+}
+
+.float-right {
+	float: right
+}
+
+.float-left {
+	float: left
+}
+
+.clearfix:after {
+	content: "";
+	overflow: hidden;
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0
+}
+
+.clearfix {
+	zoom: 1
+}
+
+* {
+	margin: 0;
+	padding: 0
+}
+
+.table-style1 {
+	table-layout: fixed;
+	width: 100%;
+	font-size: 14px
+}
+
+.table-style1 .tb-width1 {
+	width: 40%
+}
+
+.table-style1 .tb-width2 {
+	width: auto
+}
+
+.table-style1 .tb-width3 {
+	width: 70px
+}
+
+.table-style1 .tb-width4 {
+	width: 28%
+}
+
+.table-style1 .tb-width5 {
+	width: 15%
+}
+
+.table-style1 .tb-width6 {
+	width: 16%
+}
+
+.table-style1 .tb-width7 {
+	width: 13%
+}
+
+.table-style1 .tb-width8 {
+	width: 20%
+}
+
+.table-style1 .tb-width9 {
+	width: 24%
+}
+
+.table-style1 tr:nth-child(2n) {
+	background-color: #f9fbfc
+}
+
+.table-style1 tr:nth-child(2n+1) {
+	background-color: #f0f4f8
+}
+
+.table-style1 tr td {
+	padding: 16px 18px;
+	color: #95a0aa
+}
+
+.table-style1 tr .c-orange {
+	color: #f07a24
+}
+
+.table-style1 .tb-head th {
+	background-color: #a4aeb9;
+	color: #fff;
+	padding: 10px 18px
+}
+
+.dis-none {
+	display: none
+}
+
+.loading {
+	display: none
+}
+
+@
+-webkit-keyframes spin {
+	from {-webkit-transform: rotate(0deg)
+}
+
+to {
+	-webkit-transform: rotate(360deg)
+}
+
+}
+.loading .limg {
+	margin-right: 10px;
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	vertical-align: middle;
+	background: no-repeat url("//static.pacra.cn/credit/images/loading.png")
+		left center;
+	animation: spin 1s linear infinite
+}
+
+.text-primary {
+	color: #1a94f3
+}
+
+.text-info {
+	color: #8c8d8d
+}
+
+.text-center {
+	text-align: center
+}
+
+.btn {
+	border-radius: 4px;
+	padding: 0 10px;
+	display: inline-block;
+	border: 0;
+	font-size: 14px;
+	line-height: 30px
+}
+
+.btn-primary {
+	background-color: #2196f3;
+	color: #fff
+}
+
+.btn-primary:disabled {
+	background-color: #7ac0f8;
+	color: #d0e7fc
+}
+
+.btn-cancel, .btn-ensure {
+	width: 78px;
+	height: 26px;
+	line-height: 26px;
+	border: solid 1px #2196f3;
+	color: #2196f3;
+	margin: 0 7px
+}
+
+.btn-cancel:hover, .btn-cancel:active, .btn-ensure:hover, .btn-ensure:active
+	{
+	background-color: #2196f3;
+	color: #fff
+}
+
+.model {
+	position: fixed;
+	display: none;
+	left: 50%;
+	top: 50%;
+	z-index: 10;
+	text-align: center;
+	background-color: #fff
+}
+
+.model .close {
+	background: url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png")
+		center center no-repeat;
+	padding: 15px;
+	display: inline-block;
+	position: absolute;
+	top: 10px;
+	right: 25px;
+	cursor: pointer
+}
+
+.mask {
+	background-color: #000;
+	opacity: .6;
+	filter: Alpha(opacity = 60);
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none
+}
+
+.hide {
+	display: none
+}
+
+.content-right {
+	font-size: 16px;
+	width: 898px;
+	color: #8c8d8d;
+	border: 1px solid #e7e9ef;
+	background-color: #fff
+}
+
+.content-right p {
+	line-height: 100%
+}
+
+p.cont-tit2 {
+	font-size: 16px;
+	color: #444;
+	height: 16px;
+	line-height: 16px;
+	padding-bottom: 20px;
+	padding-top: 24px
+}
+
+.cont-s1 {
+	padding: 30px 0;
+	border-bottom: 1px solid #e7e9ef
+}
+
+a.normal-bt {
+	text-align: center;
+	font-size: 14px;
+	background: #1a94f3;
+	border-radius: 4px;
+	width: 105px;
+	padding: 7px 0;
+	line-height: 14px;
+	height: 14px;
+	color: #fff;
+	display: inline-block
+}
+
+a.normal-bt:hover, a.normal-bt:active {
+	background: #2ca2ff
+}
+
+.container {
+	width: 1180px;
+	text-align: left;
+	margin: 0 auto
+}
+
+.bordere7e9ef {
+	border: 1px solid #e7e9ef
+}
+
+.panel-body .list>.item {
+	line-height: 30px;
+	padding: 8px 0;
+	border-bottom: dashed 1px #d6d9e2
+}
+
+.panel-body .list-horizontal .item {
+	min-width: 430px
+}
+
+.panel-body .list-horizontal .item-all {
+	min-width: 860px
+}
+
+.danger-info .list-horizontal .item {
+	min-width: 214px;
+	width: 214px;
+	height: 48px;
+	line-height: 25px;
+	padding: 12px 0;
+	border: solid 1px #eaebf1;
+	margin-left: -1px
+}
+
+.courts-info .list-horizontal a.search-company, .courts-notice .list-horizontal a.search-company
+	{
+	color: #999
+}
+
+.courts-info .item-all a, .courts-info a:hover, .courts-info .list-horizontal a.search-company:hover,
+	.courts-notice .item-all a, .courts-notice a:hover, .courts-notice .list-horizontal a.search-company:hover
+	{
+	color: #00ae64;
+	cursor: pointer
+}
+
+.courts-info .list-horizontal a.search-company, .courts-notice .list-horizontal a.search-company
+	{
+	color: #999
+}
+
+.text-warning {
+	color: #f60
+}
+
+.danger-info .list-horizontal .danger-yun {
+	line-height: 48px
+}
+
+.danger-info .list-horizontal .danger-yun img {
+	display: inline-block;
+	vertical-align: middle
+}
+
+.executes-history {
+	color: #00ae64;
+	margin-left: 8px;
+	font-size: 12px
+}
+
+.data-sources-error {
+	margin-top: 7px;
+	font-size: 12px;
+	color: #999;
+	text-align: right
+}
+
+.data-sources-error span {
+	display: inline-block;
+	width: 65px;
+	height: 18px;
+	line-height: 18px;
+	color: #00ae64;
+	border: 1px solid #00ae64;
+	text-align: center;
+	margin-left: 10px;
+	border-radius: 3px;
+	cursor: pointer
+}
+
+.report-error-data {
+	height: 288px;
+	border: 1px solid #e9ebf1;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 10001;
+	width: 498px;
+	background: #fff;
+	margin-top: -144px;
+	font-size: 0;
+	padding: 35px 25px 0 25px
+}
+
+.report-error-data h4 {
+	font-size: 18px
+}
+
+.report-error-data div, .report-error-data form {
+	font-size: 14px;
+	color: #999;
+	margin-top: 25px;
+	line-height: 25px
+}
+
+.report-error-data div p, .report-error-data form ul {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 5px
+}
+
+.report-error-data form li {
+	position: relative;
+	background:
+		url("//static.pacra.cn/shuidi/images/new-detail/checkbox_1.png")
+		no-repeat left center
+}
+
+.report-error-data li.active {
+	background:
+		url("//static.pacra.cn/shuidi/images/new-detail/checkbox_2.png")
+		no-repeat left center
+}
+
+.report-error-data .input-item {
+	margin-right: 7px;
+	opacity: 0;
+	z-index: 99;
+	width: 15px;
+	height: 15px;
+	filter: alpha(opacity = 0)
+}
+
+.report-error-data form a {
+	display: inline-block;
+	width: 98px;
+	height: 34px;
+	line-height: 34px;
+	border: 1px solid #00ae64;
+	color: #00ae64;
+	background-color: #e1fef2;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 28px;
+	border-radius: 3px
+}
+
+.report-error-data form a:hover {
+	background-color: #00ae64;
+	color: #fff
+}
+
+.report-error-data form .submit-report-error-btn {
+	margin-left: 78px
+}
+
+.report-error-data-tip {
+	position: absolute;
+	bottom: 80px;
+	left: 103px;
+	font-size: 12px;
+	color: #fe0000
+}
+
+.table9 {
+	font-size: 13px;
+	border-top: 1px solid #e7e9ef;
+	border-left: 1px solid #e7e9ef
+}
+
+.sanction-content {
+	border-top: 0
+}
+
+.table9 .bg-silver {
+	font-size: 14px
+}
+
+.table9 th, .table9 td {
+	padding: 0 12px;
+	line-height: 30px;
+	border-bottom: 1px solid #e7e9ef;
+	border-right: 1px solid #e7e9ef
+}
+
+.table9 a {
+	color: #444
+}
+
+.table9 a:hover, .table9 a:active {
+	color: #00ae64
+}
+
+.sanction-more .sanction-get-detail {
+	color: #00ae64
+}
+
+.sanction-code {
+	width: 108px
+}
+
+.sanction-cont {
+	width: 378px
+}
+
+.sanction-date {
+	width: 138px
+}
+
+.sanction-detail {
+	width: 750px;
+	z-index: 10001;
+	color: #444;
+	height: 474px
+}
+
+.detial-content {
+	overflow: auto;
+	height: 474px
+}
+
+.sanction-detail-cont {
+	padding: 30px
+}
+
+.sanction-detail .title {
+	height: 50px;
+	text-align: left;
+	line-height: 50px;
+	font-size: 16px;
+	font-weight: bold
+}
+
+.sanction-detail .close {
+	top: 10px;
+	right: 15px;
+	background: url("//static.pacra.cn/shuidi/images/model-close-bt.png")
+		center center no-repeat
+}
+
+.table1 td {
+	vertical-align: top;
+	padding-left: 18px;
+	border-right: 1px solid #e7e9ef;
+	border-bottom: 1px solid #e7e9ef
+}
+
+.table1 .t-bg {
+	background-color: #f5f6fa
+}
+
+.table1 .t-wt1 {
+	width: 96px;
+	padding-left: 14px
+}
+
+.table1 .t-wt2 {
+	width: 72px;
+	padding-left: 14px
+}
+
+.table1 {
+	border-top: 1px solid #e7e9ef;
+	border-left: 1px solid #e7e9ef
+}
+
+.license-detail .table1 td {
+	line-height: 32px
+}
+
+.license-detail .table1 td.t1-wt1 {
+	width: 144px
+}
+
+.sanction-detail .table1 td {
+	line-height: 32px;
+	padding-right: 18px
+}
+
+.sanction-detail .table1 td a {
+	color: #00ae64;
+	float: right;
+	padding-right: 18px
+}
+
+.sanction-detail .table1 td.t1-wt1 {
+	width: 126px
+}
+
+.lawcourt-detail {
+	width: 750px;
+	z-index: 10001;
+	color: #444;
+	height: 474px
+}
+
+.lawcourt-detail-cont {
+	padding: 30px
+}
+
+.lawcourt-detail .title {
+	height: 50px;
+	text-align: left;
+	line-height: 50px;
+	font-size: 16px;
+	font-weight: bold
+}
+
+.lawcourt-detail .close {
+	top: 10px;
+	right: 15px;
+	background: url("//static.pacra.cn/shuidi/images/model-close-bt.png")
+		center center no-repeat
+}
+
+.lawcourt-detail-tb {
+	text-align: left
+}
+
+body, html {
+	margin: 0 auto;
+	min-height: 100%;
+	width: 100%;
+	color: #444
+}
+
+body {
+	font-family: "微软雅黑", 'Microsoft YaHei', Arial, sans-serif;
+	font-size: 14px
+}
+
+h1, h2, h3, h4, h5, p, i, b, em {
+	font-style: normal;
+	font-weight: normal;
+	margin: 0
+}
+
+ul, li {
+	list-style: none
+}
+
+ul {
+	margin: 0;
+	padding: 0
+}
+
+*, *:active, *:focus {
+	outline: 0 none
+}
+
+img {
+	border: 0;
+	vertical-align: middle
+}
+
+input {
+	outline: 0;
+	color: #444;
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑"
+}
+
+table {
+	table-layout: fixed;
+	width: 100%
+}
+
+label {
+	margin-bottom: 0 !important
+}
+
+a {
+	text-decoration: none
+}
+
+a:active {
+	outline: 0
+}
+
+.sd_index_footer {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #262d38;
+	padding: 35px 0 0;
+	clear: both;
+	margin-top: 20px
+}
+
+.sd_index_footer a {
+	color: #9aa7ba
+}
+
+.sd_index_foot {
+	margin-bottom: 40px;
+	overflow: hidden;
+	padding: 0 2%
+}
+
+.sd_index_foot1 {
+	width: 22%;
+	float: left
+}
+
+.sd_index_foot1 img {
+	padding-bottom: 15px
+}
+
+.sd_index_foot1_w {
+	line-height: 26px;
+	font-size: 13px
+}
+
+.sd_index_foot1_w0 span {
+	width: 160px;
+	display: inline-block;
+	cursor: auto;
+	color: #9aa7ba
+}
+
+.sd_index_foot1_w a {
+	margin-right: 10%
+}
+
+.sd_index_foot1_w a:hover, .sd_index_foot1_w a.current {
+	color: #fff
+}
+
+.sd_index_footer h4 {
+	color: #fff;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 6px
+}
+
+.sd_index_foot2 {
+	width: 24%;
+	float: left
+}
+
+.sd_index_foot2 p {
+	color: #9aa7ba;
+	line-height: 26px;
+	margin-bottom: 0
+}
+
+.sd_index_foot2 p.sd_p1, .sd_index_foot2 p.sd_p2, .sd_index_foot2 p.sd_p3,
+	.sd_header_haver a i, .btn-primary, .or_search_row_function span.or_comment,
+	.or_search_row_function span.or_browse, .or_no_follow, .or_has_follow,
+	.sd_glyphicon_phone, .sd_glyphicon_lock, .col-weibo, .col-qq,
+	.col-wexin, .sd_glyphicon_tel, .sd_glyphicon_yzm, .sd_glyphicon_yzm01,
+	.sd_action_a1, .sd_action_a2, .sd_action_a3, .credit_level_th,
+	.sd_right_x1, .sd_right_x2, .sd_right_x3, .sd_state_tit, .sd_rp_tit3,
+	.cener_list_tit a.cener_sz, .center-yes, .center-no, .cener_zh_top a.xg1,
+	.cener_zh_top a.xg2 {
+	background: url("//static.pacra.cn/shuidi/images/new/icon.png")
+		no-repeat
+}
+
+.sd_index_foot2 p.sd_p1 {
+	background-position: 0 6px;
+	padding-left: 27px
+}
+
+.sd_index_foot2 p.sd_p2 {
+	background-position: 0 -21px;
+	padding-left: 27px
+}
+
+.sd_index_foot2 p.sd_p3 {
+	background-position: 0 -47px;
+	padding-left: 27px
+}
+
+.sd_index_foot3 {
+	width: 33%;
+	float: left
+}
+
+.sd_index_foot4 {
+	width: 20%;
+	float: left
+}
+
+.sd_index_foot_copy {
+	border-top: 1px solid #2f3543;
+	text-align: center
+}
+
+.sd_index_foot_copy p {
+	color: #999;
+	font-size: 13px;
+	line-height: 60px;
+	margin-bottom: 0
+}
+
+.sd_company_container {
+	width: 1180px;
+	margin: 0 auto;
+	min-width: 1180px
+}
+
+.zhaomu img {
+	padding: 0
+}
+
+.sd_index_foot1_w0 span a {
+	margin-right: 0
+}
+
+.sd_index_foot_second {
+	color: #999;
+	font-size: 13px;
+	margin-bottom: 40px;
+	overflow: hidden;
+	padding: 0
+}
+
+.sd_index_foot_second a {
+	color: #999;
+	margin-right: 14px;
+	height: 26px;
+	line-height: 26px
+}
+
+.sd_index_foot_s1 {
+	width: 27%;
+	float: left
+}
+
+.sd_index_foot_s2 {
+	width: 27%;
+	float: left
+}
+
+.sd_index_foot_s2 p {
+	color: #999;
+	line-height: 26px;
+	margin-bottom: 0;
+	margin-right: 14px;
+	display: inline-block;
+	float: left
+}
+
+.sd_index_foot_s3 {
+	width: 46%;
+	float: left
+}
+
+.sd_index_foot_s2 p.sd_p2, .sd_index_foot_s2 p.sd_p3 {
+	background: url("//static.pacra.cn/shuidi/images/new/icon_new.png")
+		no-repeat
+}
+
+.sd_index_foot_s2 p.sd_p2 {
+	background-position: 0 -21px;
+	padding-left: 27px
+}
+
+.sd_index_foot_s2 p.sd_p3 {
+	background-position: 0 -47px;
+	padding-left: 27px
+}
+
+.zhaomu i {
+	display: inline-block;
+	height: 16px;
+	width: 29px;
+	margin-bottom: -3px;
+	margin-left: 5px;
+	background: url("//static.pacra.cn/shuidi/images/new/hot.gif") no-repeat
+		center center
+}
+
+.nav {
+	padding: 13px 0 14px 0;
+	color: #444;
+	font-size: 14px;
+	background: url("//static.pacra.cn/shuidi/images/bg_white88.png") center
+		top repeat;
+	top: 0;
+	width: 100%;
+	min-width: 1200px
+}
+
+.nav .container {
+	height: 43px;
+	width: 1200px;
+	position: relative
+}
+
+.nav .search {
+	position: relative;
+	display: inline-block
+}
+
+.nav .search input {
+	margin-left: 365px;
+	border: solid 1px #d4d9dd;
+	border-radius: 4px;
+	width: 350px;
+	height: 36px;
+	line-height: 36px;
+	font-size: 13px;
+	padding: 0 8px;
+	padding-right: 40px;
+	outline: 0
+}
+
+.nav .search i {
+	display: inline-block;
+	background: url("//static.pacra.cn/shuidi/images/doc/search_icon.png")
+		center center no-repeat;
+	padding: 18px 20px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	cursor: pointer
+}
+
+.nav .userinfo {
+	display: inline-block;
+	font-size: 0;
+	position: absolute;
+	right: 18px;
+	top: 7px;
+	height: 28px;
+	line-height: 28px
+}
+
+.nav .userinfo * {
+	vertical-align: middle
+}
+
+.nav .userinfo div {
+	width: 125px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 14px;
+	display: inline-block;
+	text-align: right
+}
+
+.nav .userinfo i {
+	padding: 7px 10px;
+	background-image:
+		url("//static.pacra.cn/shuidi/images/doc/userinfo_icon.png");
+	background-repeat: no-repeat
+}
+
+.nav .userinfo .icon-turn {
+	background-position: left center
+}
+
+.nav .userinfo .icon-tip:before {
+	content: url("//static.pacra.cn/shuidi/images/doc/userinfo_msgtip.png");
+	margin-left: -6px;
+	margin-right: 3px
+}
+
+.nav .userinfo .icon-tip {
+	margin-left: 6px;
+	padding: 1px 2px 1px 4px;
+	line-height: 14px;
+	font-size: 12px;
+	color: #fff;
+	border-radius: 3px;
+	background: 0;
+	background-color: #f3443e;
+	display: none
+}
+
+.nav .hide li {
+	position: relative
+}
+
+.nav .userinfo .icon-tip-pos {
+	position: absolute;
+	right: 15px;
+	top: 50%;
+	margin-top: -8px
+}
+
+.nav .userinfo .icon-msg {
+	background-position: right center
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.nav .userinfo .icon-tip-pos:before {
+		margin-left: -9px
+	}
+}
+
+.nav .userinfo-nologin {
+	font-size: 14px;
+	color: #444;
+	line-height: 28px;
+	display: inline-block;
+	position: absolute;
+	right: 18px;
+	top: 7px
+}
+
+.nav .userinfo-nologin .login-btn, .nav .userinfo-nologin .regist-btn {
+	width: 44px;
+	height: 24px;
+	line-height: 24px;
+	border-radius: 3px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 12px;
+	border: solid 1px #00ae64;
+	color: #444
+}
+
+.nav .userinfo-nologin .login-btn {
+	width: 46px;
+	height: 26px;
+	border: 0
+}
+
+.nav .userinfo-nologin .login-btn:hover, .nav .userinfo-nologin .login-btn:active
+	{
+	border: solid 1px #00ae64;
+	width: 44px;
+	height: 24px
+}
+
+.nav .userinfo-nologin .regist-btn {
+	color: #fff;
+	background-color: #00ae64
+}
+
+.nav .userinfo .btns {
+	position: absolute;
+	z-index: 10099;
+	left: 12px;
+	top: 50px
+}
+
+.nav .userinfo .btns a {
+	background-color: #fff;
+	display: inline-block;
+	height: 42px;
+	line-height: 42px;
+	text-align: center;
+	width: 152px;
+	font-size: 14px;
+	opacity: .9;
+	filter: alpha(opacity = 90)
+}
+
+.nav .userinfo .btns a:hover, .nav .userinfo .btns a:active {
+	opacity: 1;
+	filter: alpha(opacity = 100)
+}
+
+.nav .hide {
+	display: block
+}
+
+.nav .zhaomu {
+	font-size: 14px;
+	color: #444;
+	position: absolute;
+	top: 11px;
+	right: 175px;
+	margin-right: 20px
+}
+
+.link-box {
+	font-size: 16px;
+	color: #444;
+	position: absolute;
+	left: 275px;
+	top: 11px;
+	z-index: 2
+}
+
+.link-box>* {
+	float: left;
+	margin-right: 36px
+}
+
+.link-box a {
+	color: #444
+}
+
+.nav .link-box ul {
+	font-size: 14px
+}
+
+.link-box .triangle-box {
+	position: relative;
+	cursor: default
+}
+
+.link-box .triangle {
+	position: absolute;
+	right: -14px;
+	bottom: 6px;
+	width: 10px;
+	height: 6px;
+	background: url("//static.pacra.cn/shuidi/images/doc/triangle.png")
+}
+
+.link-box .triangle-box ul {
+	padding-top: 24px;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	display: none
+}
+
+.link-box .triangle-box .pull-down-one {
+	width: 98px;
+	left: -12px
+}
+
+.link-box .triangle-box .pull-down-two {
+	width: 134px;
+	left: -26px
+}
+
+.link-box .triangle-box ul li a {
+	display: block;
+	height: 44px;
+	line-height: 44px;
+	opacity: .9;
+	filter: alpha(opacity = 90);
+	background-color: #fff
+}
+
+.link-box .triangle-box ul li a.active {
+	opacity: 1;
+	filter: alpha(opacity = 100)
+}
+
+.top_search ul {
+	position: absolute;
+	background-color: #fff;
+	top: 62px;
+	left: 6px;
+	width: 395px;
+	border: solid 1px #e0e0e0;
+	z-index: 999
+}
+
+.circle_top_search ul {
+	width: 346px
+}
+
+.top_search li {
+	line-height: 37px;
+	height: 37px;
+	font-size: 14px;
+	padding: 0 15px;
+	color: #444;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.top_search li:hover, .top_search li:active, .top_search li:focus {
+	background-color: #f2f4f8;
+	cursor: pointer
+}
+
+.shuidi-app-btn {
+	display: none
+}
+
+.nav .search input.circle-search-key {
+	line-height: 30px;
+	height: 30px;
+	width: 280px;
+	font-size: 12px;
+	border-radius: 0;
+	margin-left: 400px;
+	padding-right: 58px
+}
+
+#pmt-background {
+	width: 100%;
+	background-color: black;
+	-webkit-opacity: .7;
+	-moz-opacity: .7;
+	-khtml-opacity: .7;
+	opacity: .7;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 900
+}
+
+#pmt-main {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -440px;
+	margin-top: -200px;
+	width: 881px;
+	height: 449px;
+	background-color: white;
+	overflow: hidden;
+	z-index: 901;
+	display: none
+}
+
+#pmt-first-row {
+	width: 881px;
+	height: 31px;
+	text-align: right
+}
+
+#pmt-cancel {
+	margin-top: 16px;
+	margin-right: 16px;
+	width: 18px;
+	height: 18px;
+	border: 0;
+	background-color: white
+}
+
+#pmt-title {
+	margin-left: 50px;
+	font-size: 22px;
+	font-weight: 600
+}
+
+#pmt-cost-row {
+	margin-left: 50px;
+	margin-top: 25px;
+	font-size: 18px;
+	font-weight: 600
+}
+
+.pmt-cost-row-black {
+	color: #444
+}
+
+.pmt-cost-row-orange {
+	color: #f60
+}
+
+#pmt-tip {
+	margin-top: 12px;
+	margin-left: 50px;
+	color: #444;
+	font-size: 14px
+}
+
+#pmt-qrcode-tip {
+	color: #00b062
+}
+
+#pmt-qrcode-part {
+	margin-top: 34px;
+	margin-left: 50px
+}
+
+#pmt-qrcode-imgs {
+	margin-top: 29px;
+	width: 800px;
+	height: 220px
+}
+
+#pmt-qrcode {
+	width: 184px;
+	height: 184px;
+	float: left
+}
+
+#pmt-scan-tip {
+	margin-left: 20px;
+	width: 184px;
+	height: 184px;
+	float: left;
+	background:
+		url("//static.pacra.cn/shuidi/images/payment-common/pmt_scan_tip.jpg")
+		no-repeat
+}
+
+button {
+	font: inherit
+}
+
+#free-pay-background {
+	width: 100%;
+	background-color: black;
+	-webkit-opacity: .7;
+	-moz-opacity: .7;
+	-khtml-opacity: .7;
+	opacity: .7;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 900;
+	display: none
+}
+
+#free-pay-main {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -285px;
+	margin-top: -160px;
+	width: 571px;
+	height: 321px;
+	background-color: white;
+	overflow: hidden;
+	z-index: 901;
+	display: none
+}
+
+#free-pay-first-row {
+	width: 571px;
+	height: 59px;
+	background-color: #f5f5f5;
+	position: relative
+}
+
+#free-pay-title {
+	margin-left: 19px;
+	height: 59px;
+	line-height: 59px;
+	font-size: 18px;
+	color: black
+}
+
+#free-pay-cancel {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 59px;
+	height: 59px;
+	font-size: 32px;
+	color: #444;
+	border: 0;
+	background-color: #f5f5f5
+}
+
+#free-pay-body {
+	position: relative;
+	width: 571px;
+	height: 262px
+}
+
+#free-pay-target-portrait {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	width: 54px;
+	height: 54px;
+	background-size: 54px 54px;
+	background-image:
+		url("//static.pacra.cn/shuidi/images/payment-common/default_portrait.jpg")
+}
+
+#free-pay-content {
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 351px;
+	height: 259px;
+	overflow: hidden
+}
+
+#free-pay-content-title {
+	margin-top: 20px;
+	font-size: 18px;
+	color: #00ae64
+}
+
+#free-pay-tip-line {
+	margin-top: 8px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+#free-pay-tip-line img {
+	vertical-align: middle
+}
+
+#free-pay-tip-unit, #free-pay-tip-price {
+	color: #ff7200;
+	vertical-align: middle
+}
+
+#free-pay-tip-count, #free-pay-tip-participators {
+	color: #444;
+	vertical-align: middle
+}
+
+#free-pay-report-title {
+	margin-top: 7px;
+	font-size: 16px;
+	color: #444
+}
+
+#free-pay-report {
+	overflow: auto
+}
+
+#free-pay-scan {
+	position: absolute;
+	right: 30px;
+	bottom: 20px;
+	width: 140px;
+	height: 160px
+}
+
+#free-pay-scan p {
+	font-size: 14px;
+	color: #00ae64;
+	text-align: center
+}
+
+#free-pay-scan-qrcode {
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 130px;
+	height: 130px
+}
+
+#free-pay-scan-qrcode img {
+	width: 100%;
+	height: 100%
+}
+
+.free-pay-report-item {
+	font-size: 14px;
+	color: #444;
+	margin-top: 10px;
+	padding-left: 22px;
+	background:
+		url("//static.pacra.cn/shuidi/images/payment-common/yes.jpg") left
+		no-repeat
+}
+
+a.bt-ed {
+	display: inline-block;
+	width: 104px;
+	height: 36px;
+	line-height: 36px;
+	color: #fff;
+	font-size: 14px;
+	background-color: rgba(255, 255, 255, .1);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,
+		endColorstr=#19ffffff);
+	text-align: center
+}
+
+a.bt-ed:hover, a.bt-ed:active {
+	cursor: pointer;
+	background-color: rgba(255, 255, 255, .5);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,
+		endColorstr=#7Fffffff)
+}
+
+.detail-top {
+	height: 455px;
+	background-color: #0076e4;
+	color: white;
+	font-size: 14px
+}
+
+.detail-top a {
+	color: inherit
+}
+
+.detail-top .container {
+	padding-top: 50px;
+	position: relative
+}
+
+.detail-top h1 {
+	font-size: 32px;
+	font-weight: bold;
+	line-height: 34px
+}
+
+.detail-top .score-info {
+	width: 375px;
+	display: inline-block;
+	position: absolute;
+	right: 0;
+	top: 45px;
+	text-align: center;
+	font-size: 0
+}
+
+.detail-top .score-info * {
+	display: inline-block
+}
+
+.detail-top .score-info .tip {
+	width: 16px;
+	height: 16px;
+	line-height: 16px;
+	border-radius: 1px;
+	border: solid 1px;
+	border-color: rgba(255, 255, 255, .5);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,
+		endColorstr=#7Fffffff);
+	background-color: rgba(255, 255, 255, .1);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,
+		endColorstr=#19ffffff);
+	float: right;
+	font-size: 14px;
+	opacity: .6
+}
+
+.detail-top .score-info h1 {
+	display: block
+}
+
+.detail-top .score-info .score-desc {
+	text-align: left;
+	padding: 15px 20px;
+	font-size: 14px;
+	line-height: 25px;
+	background-color: #fff;
+	color: #444;
+	border: 1px solid #e1e1e1;
+	position: absolute;
+	right: 34px;
+	top: -20px;
+	display: none;
+	z-index: 2
+}
+
+.detail-top .score-info .score-desc span {
+	position: absolute;
+	top: 18px;
+	right: -20px;
+	display: block;
+	height: 0;
+	width: 0;
+	border-color: transparent transparent transparent #fff;
+	border-style: dashed dashed solid dashed;
+	border-width: 10px
+}
+
+.detail-top .desc {
+	font-size: 16px;
+	margin-top: 10px
+}
+
+.detail-top .score-info .desc .fir {
+	color: #fff117
+}
+
+.detail-top .score-info .progress-bar {
+	width: 352px;
+	height: 22px;
+	background: url("//static.pacra.cn/shuidi/images/doc/progress_bar.png")
+		center bottom repeat;
+	position: relative;
+	overflow: hidden
+}
+
+.detail-top .score-info .progress-bar .progress {
+	position: absolute;
+	left: -196px;
+	width: 205px;
+	height: 22px;
+	background: url("//static.pacra.cn/shuidi/images/doc/progress_bar.png")
+		center top no-repeat
+}
+
+.detail-top .score-info .progress-bar-z {
+	width: 352px;
+	height: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_z.png") left
+		center repeat
+}
+
+.detail-top .score-info .progress-bar-s {
+	margin-top: 10px;
+	width: 370px;
+	height: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_s.png") center
+		center no-repeat
+}
+
+.cards {
+	width: 875px;
+	height: 32px;
+	line-height: 30px;
+	margin-top: 20px;
+	font-size: 0
+}
+
+.cards * {
+	vertical-align: middle
+}
+
+.cards .card {
+	margin-left: 10px;
+	border: solid 1px;
+	border-color: rgba(255, 255, 255, .5);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,
+		endColorstr=#7Fffffff);
+	background-color: rgba(255, 255, 255, .1);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,
+		endColorstr=#19ffffff);
+	padding: 0 10px;
+	display: inline-block;
+	font-size: 14px;
+	position: relative
+}
+
+.cards .card-small {
+	display: inline-block;
+	margin-left: 10px
+}
+
+.cards .card i {
+	padding: 15px;
+	background: url("//static.pacra.cn/shuidi/images/doc/card_icon.png")
+		left center no-repeat
+}
+
+.cards .real-environment i {
+	padding: 12px;
+	margin-top: -2px;
+	display: inline-block;
+	background-image:
+		url("//static.pacra.cn/shuidi/images/new-detail/real-environment-icon2.png")
+}
+
+.qrcode-share {
+	width: 160px;
+	height: 158px;
+	background: url("//static.pacra.cn/shuidi/images/doc/qr_bg_white.png")
+		center top;
+	position: absolute;
+	left: -55px;
+	top: 35px;
+	padding: 30px 0 12px 0;
+	text-align: center;
+	font-size: 12px;
+	color: #444;
+	z-index: 1;
+	display: none
+}
+
+.qrcode-share img {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 16px
+}
+
+.qrcode-share p {
+	line-height: 22px
+}
+
+.wall {
+	margin-top: 35px;
+	font-size: 0;
+	position: relative;
+	text-align: right
+}
+
+.wall .company-card {
+	color: #444;
+	font-size: 0;
+	padding-top: 26px;
+	width: 240px;
+	background-color: #fff;
+	box-shadow: 0 1px 50px rgba(68, 68, 68, 0.2);
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top: 0
+}
+
+.wall .company-card .img-box {
+	height: 145px;
+	line-height: 145px
+}
+
+.wall .company-card .img-box img {
+	max-width: 145px;
+	max-height: 145px;
+	vertical-align: middle
+}
+
+.wall .company-card .watch {
+	margin-top: 18px;
+	width: 108px;
+	height: 74px;
+	line-height: 30px;
+	display: inline-block;
+	border-bottom: solid 1px #e7e9f0;
+	font-size: 18px
+}
+
+.wall .company-card .watch span {
+	font-size: 16px;
+	cursor: pointer
+}
+
+.wall .company-card .call {
+	line-height: 59px;
+	font-size: 16px;
+	color: #444
+}
+
+.wall .company-card .add-color {
+	color: #1276e1
+}
+
+.qrcode-call {
+	line-height: 59px;
+	font-size: 14px;
+	display: none
+}
+
+.qrcode-call img {
+	width: 100px;
+	height: 100px
+}
+
+.wall .icon {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/detail_head_icon.png") left
+		top no-repeat;
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 6px
+}
+
+.wall .icon-fav {
+	padding: 11px 12px;
+	background-position: left -2px
+}
+
+.wall .icon-fav-outline {
+	padding: 11px 12px;
+	background-position: -111px -2px
+}
+
+.wall .icon-view {
+	padding: 11px 16px;
+	background-position: -22px -2px
+}
+
+.wall .icon-call {
+	padding: 11px 16px;
+	background-position: -53px -1px
+}
+
+.wall .icon-diamond {
+	padding: 16px 21px;
+	background-position: -2px -60px;
+	margin-right: 0
+}
+
+.wall .icon-diamond-none {
+	padding: 16px 21px;
+	background-position: center center;
+	margin-right: 0
+}
+
+.wall .icon-entry {
+	background-position: left -30px
+}
+
+.wall .icon-earth {
+	background-position: -24px -28px
+}
+
+.wall .icon-wechat {
+	background-position: -51px -28px
+}
+
+.wall .icon-phone {
+	background-position: -80px -28px
+}
+
+.wall .icon-horn, .credit-rating .icon-horn {
+	background-position: -85px -3px;
+	margin-left: 10px;
+	margin-right: 17px
+}
+
+.credit-pages {
+	display: inline-block;
+	width: 918px;
+	height: 160px;
+	text-align: left
+}
+
+.credit-pages .page-on {
+	height: 160px;
+	width: 918px
+}
+
+.credit-pages .page-off {
+	display: none;
+	width: 750px;
+	margin-left: 13px;
+	background-color: rgba(255, 255, 255, .1);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,
+		endColorstr=#19ffffff);
+	text-align: center;
+	padding-top: 18px;
+	height: 140px;
+	display: inline-block;
+	text-align: center;
+	overflow: hidden
+}
+
+.credit-pages .page-off p {
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px
+}
+
+.credit-pages .page-off .bt-ed {
+	display: none
+}
+
+.no-editor {
+	display: none
+}
+
+.credit-pages .page {
+	margin-top: 0;
+	width: 138px;
+	height: 140px;
+	display: inline-block;
+	margin-left: 13px;
+	text-align: center;
+	padding-top: 18px;
+	overflow: hidden;
+	line-height: 22px;
+	font-size: 12px;
+	border: solid 1px;
+	border-color: rgba(255, 255, 255, .3);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7Fffffff,
+		endColorstr=#3Fffffff);
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/credit_wall_bg.png") right
+		bottom no-repeat;
+	background-color: rgba(255, 255, 255, .1);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19ffffff,
+		endColorstr=#19ffffff)
+}
+
+.credit-pages .zs {
+	width: 140px;
+	height: 160px;
+	display: block;
+	float: left;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/credit_wall_zs_2.png") center
+		top no-repeat
+}
+
+.credit-pages .page .name {
+	font-size: 14px;
+	margin-top: 10px
+}
+
+.credit-pages .pub-info {
+	padding-left: 13px;
+	margin-top: 20px;
+	line-height: 33px;
+	font-size: 14px;
+	position: relative
+}
+
+.credit-pages .pub-info .icon, .credit-rating .icon {
+	padding: 10px;
+	margin-right: 10px
+}
+
+.credit-pages .pub-info a {
+	margin-right: 25px
+}
+
+.credit-pages .pub-info .more {
+	position: absolute;
+	right: 0;
+	opacity: .6
+}
+
+.credit-pages .pub-info .more a {
+	margin-right: 0;
+	margin-left: 25px
+}
+
+.qrcode-link {
+	position: relative
+}
+
+.qrcode-img {
+	position: absolute;
+	bottom: -115px;
+	left: 1px;
+	background: url("//static.pacra.cn/shuidi/images/doc/qr_bg.png") center
+		center no-repeat;
+	width: 100px;
+	height: 88px;
+	padding-top: 23px;
+	text-align: center;
+	z-index: 2;
+	display: none
+}
+
+.qrcode-img img {
+	width: 76px;
+	height: 76px;
+	vertical-align: middle
+}
+
+.credit-pages .pub-info .oneline {
+	max-width: 350px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: inline-block;
+	vertical-align: top
+}
+
+.credit-pages .pub-info .horn, .credit-rating .horn {
+	color: #99999a;
+	margin-top: 31px;
+	margin-left: 5px;
+	background-color: #f2f4f8
+}
+
+.credit-pages .pub-info .horn .info-text, .credit-rating .info-text {
+	color: #444;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	vertical-align: middle;
+	float: right;
+	width: 800px;
+	height: 33px
+}
+
+.credit-pages .pub-info .horn .info-show, .credit-rating .info-show {
+	position: absolute;
+	width: 800px;
+	line-height: 33px;
+	left: 0;
+	top: 0
+}
+
+.simple-nav {
+	width: 1180px;
+	text-align: left;
+	margin: 100px auto 0;
+	color: #444;
+	background-color: #fff
+}
+
+.simple-nav .dis-inline-block ul {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 1148px;
+	height: 0;
+	line-height: 65px;
+	border-bottom: 1px solid #e7e9ef;
+	border-top: 1px solid #e7e9ef;
+	background-color: #fff;
+	padding-left: 30px;
+	z-index: 2;
+	display: none
+}
+
+.simple-nav .dis-inline-block ul li {
+	float: left
+}
+
+.simple-nav .dis-inline-block ul li a {
+	font-size: 14px;
+	text-align: left
+}
+
+.simple-nav .links {
+	border: solid 1px #e7e9ef;
+	margin-bottom: 20px;
+	position: relative
+}
+
+.simple-nav .links a {
+	text-align: center;
+	width: 120px;
+	height: 58px;
+	line-height: 58px;
+	display: inline-block;
+	font-size: 16px;
+	color: #444
+}
+
+.simple-nav i {
+	background:
+		url("//static.pacra.cn/shuidi/images/extreme/dropdown-icon1.png")
+		center center no-repeat;
+	display: inline-block;
+	width: 9px;
+	height: 5px;
+	margin: 0 0 3px 4px
+}
+
+.simple-nav .links a:hover, .simple-nav .links .dis-inline-block:hover>a,
+	.simple-nav .links a:active, .simple-nav .links .active {
+	color: #00ae64
+}
+
+.simple-nav .links a:hover>i, .simple-nav .links a:active>i, .simple-nav .links .dis-inline-block:hover>a>i,
+	.simple-nav .links .active>i {
+	background-image:
+		url("//static.pacra.cn/shuidi/images/extreme/dropdown-icon2.png")
+}
+
+.model .head-default, .model .footer-default {
+	line-height: 50px;
+	padding: 0 30px;
+	position: relative;
+	font-size: 16px
+}
+
+.model .head-default {
+	border-bottom: solid 1px #e7e9ef;
+	font-weight: bold;
+	text-align: left
+}
+
+.model .footer-default {
+	border-top: solid 1px #e7e9ef;
+	position: absolute;
+	line-height: 62px;
+	padding: 16px 30px;
+	bottom: 0
+}
+
+.model-partner {
+	width: 660px;
+	height: 320px
+}
+
+.model-partner .head-default, .model-partner .footer-default {
+	width: 600px
+}
+
+.model-partner .desc {
+	padding: 44px 0 45px;
+	font-size: 14px
+}
+
+.model-partner .cont {
+	width: 598px;
+	height: 64px;
+	padding: 33px 0;
+	border: solid 1px #e7e9ef;
+	display: inline-block;
+	background-color: #f7fafb;
+	position: relative
+}
+
+.model-partner .cont label {
+	font-size: 18px;
+	font-weight: bold
+}
+
+.model-partner .cont input {
+	width: 230px;
+	height: 34px;
+	line-height: 34px;
+	color: #999;
+	border: 1px solid #c0c5cf;
+	padding: 0 10px
+}
+
+.model-partner .cont button {
+	width: 80px;
+	height: 36px;
+	border: 0;
+	line-height: 36px;
+	color: #fff;
+	background-color: #2196f3;
+	font-weight: bold
+}
+
+.model-partner .cont .info {
+	color: #999;
+	font-size: 14px;
+	margin-top: 11px;
+	margin-left: -25px
+}
+
+.model-partner .error {
+	font-size: 14px;
+	color: #999;
+	font-weight: normal;
+	display: none;
+	position: absolute;
+	right: 5px;
+	top: 44px
+}
+
+.model-partner .error img {
+	width: 16px;
+	margin-right: 5px;
+	vertical-align: middle
+}
+
+.model-partner .off img {
+	margin-top: 55px;
+	margin-bottom: 12px
+}
+
+.model-partner .btn {
+	border: 1px solid #2196f3;
+	color: #2196f3;
+	border-radius: 4px;
+	background-color: #fff;
+	padding: 0;
+	height: 27px;
+	line-height: 27px;
+	width: 76px;
+	font-size: 12px
+}
+
+.model-partner .btn:hover {
+	background-color: #2196f3;
+	color: #fff
+}
+
+.model-zs {
+	width: 460px;
+	background: url("//static.pacra.cn/shuidi/images/doc/zs_bg_1.png")
+		center bottom no-repeat;
+	background-color: #fff
+}
+
+.model-zs-1 {
+	padding-bottom: 33px
+}
+
+.model-zs .close {
+	right: 10px
+}
+
+.model-zs .logo {
+	width: 125px;
+	height: 39px;
+	margin-top: 20px;
+	margin-bottom: 10px
+}
+
+.model-zs .logo-wrap-1 {
+	position: relative;
+	margin-top: 37px;
+	height: 36px;
+	font-size: 0
+}
+
+.model-zs .logo-wrap-2 {
+	position: relative;
+	height: 113px;
+	font-size: 0
+}
+
+.model-zs .logo-1 {
+	width: 117px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 92px;
+	display: block
+}
+
+.model-zs .logo-2 {
+	width: 131px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 235px;
+	display: block
+}
+
+.model-zs h3 {
+	line-height: 30px;
+	font-size: 24px;
+	display: inline-block;
+	margin: 27px auto 30px auto;
+	font-weight: bold;
+	width: 86%
+}
+
+.model-zs .logo-wrap-6 {
+	width: 181px;
+	height: 151px;
+	margin: 0 auto;
+	font-size: 0;
+	position: relative
+}
+
+.model-zs .logo-wrap-6 img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	font-size: 0
+}
+
+.model-zs .logo-6-time {
+	position: absolute;
+	bottom: 17px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	color: #fff
+}
+
+.model-zs .zs {
+	width: 181px;
+	height: 151px;
+	display: block;
+	margin: 0 auto;
+	font-size: 0
+}
+
+.model-zs h4 {
+	font-size: 24px;
+	margin-top: 30px;
+	margin-bottom: 8px;
+	font-weight: normal;
+	line-height: 24px
+}
+
+.model-zs .qr-img {
+	position: absolute;
+	top: 6px;
+	left: 84px;
+	width: 84px;
+	height: 84px;
+	display: block;
+	font-size: 0
+}
+
+.model-zs .logo-3 {
+	width: 151px;
+	height: 113px;
+	position: absolute;
+	top: 0;
+	left: 245px;
+	display: block
+}
+
+.model-zs .logo-7-time {
+	position: absolute;
+	bottom: 26px;
+	left: 245px;
+	text-align: center;
+	width: 151px;
+	font-size: 12px;
+	line-height: 16px;
+	color: #444
+}
+
+.model-zs p {
+	position: absolute;
+	line-height: 12px;
+	font-size: 12px;
+	color: #444;
+	bottom: 0;
+	left: 64px
+}
+
+.model-zs .zs-logo-pingan {
+	width: 163px;
+	height: 38px;
+	margin: 14px 0
+}
+
+.model-zs .zs-border {
+	width: 215px;
+	height: 1px;
+	font-size: 0;
+	display: block;
+	margin: 0 auto
+}
+
+.model-zs h5 {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 14px;
+	margin-top: 8px;
+	margin-bottom: 26px
+}
+
+.model-report {
+	border-radius: 5px
+}
+
+.model-report .company-name {
+	font-weight: bold;
+	font-size: 24px;
+	margin-top: 45px
+}
+
+.model-report .form {
+	text-align: right;
+	padding: 30px 60px 15px
+}
+
+.model-report .form .input-group, .model-report .form .btn-group {
+	position: relative;
+	margin-bottom: 15px
+}
+
+.model-report .form .input-group input, .model-report .form .input-group textarea
+	{
+	height: 38px;
+	line-height: 38px;
+	border: 1px solid #ddd;
+	width: 338px;
+	padding: 0 10px;
+	color: #888;
+	font-size: 12px;
+	border-radius: 5px;
+	resize: none
+}
+
+.model-report .form .input-group textarea {
+	height: 128px;
+	line-height: 20px;
+	padding: 5px 10px
+}
+
+.model-report .form .input-group label {
+	width: 110px;
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: middle;
+	font-size: 14px;
+	color: #444
+}
+
+.model-report .form .input-group label:after {
+	content: ' * ';
+	color: red;
+	vertical-align: middle
+}
+
+.model-report .form .btn-group {
+	margin-top: 50px
+}
+
+.model-report .form .btn-group .btn {
+	padding: 0 30px;
+	line-height: 30px;
+	height: 30px;
+	margin-right: 20px;
+	font-size: 14px;
+	color: #fff;
+	background-color: #dcdcdc
+}
+
+.model-report .form .btn-group .btn-submit {
+	background-color: #2b97f0
+}
+
+.report-success {
+	padding: 45px 35px 25px;
+	width: 510px
+}
+
+.report-success h3 {
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+	margin: 0 0 30px
+}
+
+.report-success .desc {
+	text-align: center;
+	padding-top: 25px
+}
+
+.report-success .desc img {
+	margin-bottom: 12px
+}
+
+.report-success .desc p {
+	color: #999;
+	line-height: 30px
+}
+
+.report-success .desc .btn {
+	padding: 0 30px;
+	line-height: 30px;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #2b97f0;
+	display: inline-block;
+	margin-top: 20px
+}
+
+.form-msg {
+	color: red
+}
+
+.model-more {
+	width: 730px;
+	padding: 0 25px;
+	background: url(http://static.shuidixy.com/images/1215_eg13.jpg) center
+		top no-repeat;
+	text-align: left;
+	font-size: 14px;
+	color: #444
+}
+
+.model-more .model-title {
+	padding-top: 24px;
+	font-weight: bold
+}
+
+.model-more .model-body {
+	margin-top: 12px;
+	font-size: 0
+}
+
+.model-more .model-body p {
+	line-height: 22px;
+	padding: 6px 6px 0 0;
+	font-size: 14px;
+	vertical-align: top
+}
+
+.model-more .model-body label {
+	color: #999
+}
+
+.model-more .col-md-7, .model-more .col-md-5 {
+	display: inline-block
+}
+
+.model-more .col-md-7 {
+	width: 414px
+}
+
+.model-more .col-md-5 {
+	width: 302px
+}
+
+.model-more .model-footer {
+	text-align: center;
+	margin: 10px 0 20px;
+	color: #f60
+}
+
+.model-more .claimed {
+	position: absolute;
+	right: 20px;
+	top: 180px
+}
+
+.detail-top-vip1 .icon {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/company_vip1_icon1.png") top
+		left no-repeat;
+	padding: 11px;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.detail-top-vip1 .icon-claim-y {
+	padding: 14px 90px;
+	background-position: left top;
+	margin-left: 20px
+}
+
+.detail-top-vip1 .icon-share {
+	background-position: 4px -34px
+}
+
+.detail-top-vip1 .icon-fav {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/detail_head_icon.png") left
+		top no-repeat;
+	padding: 11px 12px;
+	background-position: left -2px
+}
+
+.detail-top-vip1 .icon-fav-outline {
+	padding: 11px 12px;
+	background-position: -16px -32px
+}
+
+.detail-top-vip1 .icon-view {
+	padding: 9px 15px;
+	background-position: -39px -34px
+}
+
+.detail-top-vip1 .icon-call {
+	background-position: -94px -30px;
+	margin-right: 5px
+}
+
+.detail-top-vip1 .icon-gg {
+	background-position: -70px -31px;
+	margin: 0 6px
+}
+
+.detail-top-vip1 .container {
+	padding: 30px;
+	margin-top: 20px;
+	width: 1120px;
+	background-color: #fff
+}
+
+.detail-top-vip1 a {
+	color: #444;
+	font-size: 14px;
+	position: relative
+}
+
+.detail-top-vip1 .container>div {
+	display: inline-block;
+	vertical-align: top;
+	position: relative
+}
+
+.detail-top-vip1 .logo-info {
+	width: 146px;
+	margin-right: 30px;
+	text-align: center
+}
+
+.detail-top-vip1 .logo-info .contact {
+	font-weight: bold
+}
+
+.detail-top-vip1 .logo-info .contact .add-color {
+	color: #1276e1
+}
+
+.detail-top-vip1 .img-box {
+	width: 146px;
+	height: 146px;
+	line-height: 146px;
+	text-align: center;
+	border: solid 1px #e7e9ef;
+	margin-bottom: 30px
+}
+
+.detail-top-vip1 .img-box img {
+	max-width: 141px;
+	max-height: 141px
+}
+
+.detail-top-vip1 .base-info {
+	width: 939px;
+	display: inline-block;
+	position: relative
+}
+
+.detail-top-vip1 .base-info div {
+	margin-bottom: 22px
+}
+
+.detail-top-vip1 .base-info .last {
+	margin: 0
+}
+
+.detail-top-vip1 .base-info .last>label, .detail-top-vip1 .base-info .last>label>span
+	{
+	font-size: 14px;
+	height: 16px;
+	line-height: 16px
+}
+
+.detail-top-vip1 .base-info .gonggao {
+	margin-top: 30px;
+	position: relative;
+	overflow: hidden;
+	height: 19px
+}
+
+.detail-top-vip1 .base-info .gonggao label {
+	margin: 0
+}
+
+.detail-top-vip1 .base-info .gonggao .slide-info {
+	font-size: 14px;
+	display: inline-block;
+	vertical-align: top;
+	line-height: 20px;
+	width: 845px;
+	position: relative;
+	top: 0;
+	right: 0;
+	float: right
+}
+
+.detail-top-vip1 h1 {
+	font-size: 24px;
+	font-weight: bold;
+	height: 26px;
+	line-height: 26px;
+	margin-bottom: 15px
+}
+
+.detail-top-vip1 label, .detail-top-vip1 a {
+	color: #939393;
+	font-size: 16px;
+	margin-right: 20px
+}
+
+.detail-top-vip1 .contact a {
+	margin-right: 0
+}
+
+.detail-top-vip1 a {
+	font-size: 14px
+}
+
+.detail-top-vip1 label>span {
+	color: #444;
+	font-size: 16px
+}
+
+.detail-top-vip1 .label {
+	font-size: 13px;
+	line-height: 18px;
+	height: 18px;
+	padding: 0 6px;
+	border: solid 1px
+}
+
+.detail-top-vip1 .label-success {
+	color: #00ae64;
+	border-color: #00ae64;
+	background-color: #e4fff4
+}
+
+.detail-top-vip1 .label-error {
+	color: #fe3c3c;
+	background-color: #ffebeb;
+	border-color: #ff5c5c
+}
+
+.detail-top-vip1 .text-blue {
+	color: #008ff8
+}
+
+.detail-top-vip1 .right {
+	float: right
+}
+
+.detail-top-vip1 .score-info {
+	width: 270px;
+	display: inline-block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 16px;
+	text-align: center
+}
+
+.detail-top-vip1 .score-info * {
+	display: inline-block
+}
+
+.detail-top-vip1 .score-info .tip {
+	width: 16px;
+	height: 16px;
+	line-height: 16px;
+	border: solid 1px #d9d9db;
+	border-radius: 1px;
+	color: #939393;
+	float: right;
+	font-size: 14px;
+	margin-right: 0
+}
+
+.detail-top-vip1 .score-info h1 {
+	display: block;
+	color: #b1b1b1;
+	font-weight: bold;
+	margin-bottom: 13px;
+	height: 26px
+}
+
+.detail-top-vip1 .score-info .score-desc {
+	text-align: left;
+	padding: 15px 20px;
+	font-size: 14px;
+	line-height: 25px;
+	color: #444;
+	border: 1px solid #e1e1e1;
+	position: absolute;
+	right: 34px;
+	top: -20px;
+	background-color: #fff;
+	z-index: 2;
+	display: none
+}
+
+.detail-top-vip1 .score-info .score-desc span {
+	position: absolute;
+	top: 18px;
+	right: -20px;
+	display: block;
+	height: 0;
+	width: 0;
+	border-color: transparent transparent transparent #e1e1e1;
+	border-style: dashed dashed solid dashed;
+	border-width: 10px
+}
+
+.detail-top-vip1 .score-info>div {
+	margin-bottom: 0
+}
+
+.detail-top-vip1 .score-info .desc {
+	font-size: 16px;
+	margin-bottom: 5px
+}
+
+.detail-top-vip1 .score-info .desc .fir {
+	color: #fff117
+}
+
+.detail-top-vip1 .score-info .progress-bar {
+	width: 250px;
+	height: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_g.png") center
+		bottom repeat;
+	position: relative;
+	overflow: hidden
+}
+
+.detail-top-vip1 .score-info .progress-bar .progress {
+	position: absolute;
+	left: -250px;
+	width: 250px;
+	height: 22px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_g.png") center
+		-1px no-repeat
+}
+
+.detail-top-vip1 .score-info .progress-bar-z {
+	width: 250px;
+	height: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_gz.png") left
+		center repeat;
+	background-color: #d2ffec
+}
+
+.detail-top-vip1 .score-info .progress-bar-s {
+	margin-top: 10px;
+	width: 270px;
+	height: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_gs.png") center
+		center no-repeat
+}
+
+.detail-top-vip1 .score-info-silver .progress-bar {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_g_s.png") center
+		bottom repeat
+}
+
+.detail-top-vip1 .score-info-silver .progress-bar-z {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_gz_s.png") left
+		center repeat;
+	background-color: #efefef
+}
+
+.detail-top-vip1 .score-info-silver .progress-bar-s {
+	background:
+		url("//static.pacra.cn/shuidi/images/doc/progress_bar_gs_s.png")
+		center center no-repeat
+}
+
+.detail-top-vip1 .score-info-silver .progress-bar .progress {
+	background: 0
+}
+
+.detail-top-vip1 .qrcode-call {
+	background-color: #fff;
+	position: absolute;
+	z-index: 2;
+	line-height: 59px;
+	font-size: 14px;
+	width: 160px;
+	padding-top: 18px;
+	left: -17px;
+	display: none
+}
+
+.detail-top-vip1 .qrcode-call img {
+	width: 100px;
+	height: 100px
+}
+
+.detail-top-vip1 .qrcode-share {
+	top: 17px;
+	left: -53px
+}
+
+.simple-nav-vip1 .nopower-tip {
+	position: absolute;
+	width: 295px;
+	height: 37px;
+	text-align: center;
+	padding-top: 10px;
+	background: url("//static.pacra.cn/shuidi/images/doc/nopower_bg.png")
+		center bottom no-repeat;
+	display: none;
+	color: #9b9b9b;
+	font-size: 14px;
+	z-index: 2
+}
+
+.simple-nav-vip1 {
+	text-align: center;
+	margin-bottom: 20px
+}
+
+.simple-nav-vip1 .links {
+	font-size: 0
+}
+
+.simple-nav-vip1 .links a, .simple-nav-vip1 .links label {
+	width: 295px;
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+	font-size: 16px;
+	background-color: #e3e5eb
+}
+
+.simple-nav-vip1 .links a:hover, .simple-nav-vip1 .links a:active,
+	.simple-nav-vip1 .links .active {
+	background-color: #21a153;
+	color: #fff
+}
+
+.consult-link {
+	position: fixed;
+	z-index: 11;
+	width: 130px;
+	padding-bottom: 20px;
+	top: 35%;
+	left: 10px;
+	background: #fff;
+	text-align: center;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: 0 0 10px rgba(153, 153, 153, .5);
+	-moz-box-shadow: 0 0 10px rgba(153, 153, 153, .5);
+	box-shadow: 0 0 10px rgba(153, 153, 153, .5)
+}
+
+.consult-link div {
+	position: relative;
+	text-align: center
+}
+
+.consult-link p {
+	padding-top: 16px;
+	height: 16px;
+	color: #00ae64;
+	font-size: 16px
+}
+
+.consult-link a.consult-qq, .consult-link span.consult-wx {
+	display: inline-block;
+	background-color: #00ae64;
+	width: 100px;
+	height: 32px;
+	line-height: 32px;
+	color: #fff;
+	font-size: 14px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin-top: 12px
+}
+
+.consult-link img {
+	width: 66px;
+	height: 66px;
+	margin: 20px auto;
+	display: none
+}
+
+.consult-link .close-button {
+	position: absolute;
+	left: -8px;
+	top: -8px;
+	z-index: 44;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background: no-repeat
+		url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png") center
+		center
+}
+
+#companyName {
+	max-width: 580px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	display: inline-block;
+	vertical-align: top
+}
+
+.vip-normal .logo-info {
+	width: 120px
+}
+
+.vip-normal h1 {
+	margin-bottom: 13px
+}
+
+.vip-normal .img-box {
+	position: relative;
+	margin-bottom: 0;
+	width: 120px;
+	height: 120px;
+	line-height: 120px
+}
+
+.vip-normal .img-box img {
+	max-width: 115px;
+	max-height: 115px
+}
+
+.vip-normal .img-box a {
+	width: 118px;
+	height: 27px;
+	line-height: 27px;
+	text-align: center;
+	position: absolute;
+	bottom: 1px;
+	margin: 0;
+	left: 1px;
+	color: #fff
+}
+
+.vip-normal .base-info div {
+	margin-bottom: 10px
+}
+
+.vip-normal .base-info div.label-bar {
+	margin-bottom: 14px
+}
+
+.vip-normal .base-info div.label-bar2 {
+	height: 20px;
+	line-height: 20px
+}
+
+.vip-normal .base-info div.label-bar2 label, .vip-normal .base-info div.label-bar2 span
+	{
+	font-size: 14px
+}
+
+.vip-normal a.btn-label {
+	font-size: 13px;
+	height: 18px;
+	padding: 0 6px;
+	line-height: 18px
+}
+
+.vip-normal .btn-label .icon {
+	background: 0;
+	padding: 0;
+	background-color: #f00
+}
+
+.vip-normal a.capital-search {
+	width: 70px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: #00ae64;
+	color: #fff;
+	font-size: 13px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px
+}
+
+.vip-normal a.capital-search:hover, .vip-normal a.capital-search:active
+	{
+	background-color: #10cc7c
+}
+
+.vip-normal .share-btn {
+	cursor: pointer;
+	position: relative
+}
+
+.vip-normal .base-info .qrcode-share {
+	top: -13px;
+	left: 72px;
+	height: 40px;
+	line-height: 40px;
+	background-image: none;
+	background-color: #fff;
+	width: auto;
+	display: none
+}
+
+.vip-normal .base-info .qrcode-share img {
+	width: auto;
+	height: auto;
+	padding: 11px;
+	margin: 0;
+	display: inline-block;
+	vertical-align: initial
+}
+
+.vip-normal .base-info .qrcode-share a {
+	margin: 0
+}
+
+.vip-normal .icon-bang-sm {
+	background-image: none;
+	padding: 0;
+	margin-right: 7px;
+	width: 2px;
+	height: 12px
+}
+
+.vip-normal .bg-error {
+	background-color: #f00
+}
+
+.vip-normal .btn {
+	padding: 8px;
+	text-align: center;
+	line-height: 1;
+	border-radius: 2px;
+	white-space: nowrap
+}
+
+.vip-normal .btn-sm {
+	padding: 2px 6px;
+	font-size: 13px
+}
+
+.vip-normal .btn-success {
+	color: #fff;
+	background-color: #00ae64
+}
+
+.vip-normal .btn-success:hover {
+	background-color: #10cc7c
+}
+
+.vip-normal .btn-silver-outline {
+	background-color: #f6fafd;
+	border: solid 1px #dfe3ec
+}
+
+.vip-normal .btn-silver-outline:hover {
+	background-color: #00ae64;
+	border-color: #00ae64;
+	color: #fff
+}
+
+.vip-normal .base-info .score-info div {
+	margin-bottom: 5px;
+	margin-top: 0
+}
+
+.vip-normal .score-info .light {
+	font-size: 13px;
+	font-weight: normal
+}
+
+.vip-normal .score-info .light a {
+	color: #00ae64
+}
+
+.tip-title {
+	position: absolute;
+	white-space: nowrap;
+	left: -10px;
+	top: -30px;
+	font-size: 12px;
+	line-height: 22px;
+	background-color: #f7f8fa;
+	padding: 0 10px;
+	border-radius: 2px;
+	border: solid 1px #e7ebf1;
+	display: none;
+	z-index: 2
+}
+
+.tip-title .vi {
+	font-size: 0;
+	line-height: 0;
+	width: 0;
+	height: 0;
+	border: solid 9px transparent;
+	border-right-color: #e7ebf1;
+	border-left: none;
+	position: absolute;
+	left: -9px;
+	top: 10px
+}
+
+.tip-title .vi label {
+	border: solid 8px transparent;
+	border-right-color: #fff;
+	border-left: none;
+	position: absolute;
+	left: 1px;
+	top: -8px
+}
+
+.max-300 {
+	max-width: 300px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	vertical-align: top
+}
+
+.vip-normal .icon-claim {
+	padding-top: 20px
+}
+
+.vip-normal .text-success {
+	color: #21a153
+}
+
+.vip-normal .base-info .claim-status {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: -4px
+}
+
+.claim-status .btn {
+	padding: 2px 4px;
+	margin-top: 5px
+}
+
+.claim-status .btn-warning {
+	color: #fff
+}
+
+.claim-status .bg-silver {
+	background-color: #b1b1b1;
+	color: #fff;
+	border: solid 1px #b1b1b1
+}
+
+.vip-normal .nobtns #company-name {
+	margin-bottom: 5px
+}
+
+.vip-normal .nobtns #dangerBtn {
+	line-height: 15px;
+	margin-top: 2px
+}
+
+.vip-normal .nobtns .claim-status {
+	display: block;
+	margin-bottom: 10px
+}
+
+.vip-normal .nobtns .claim-status label {
+	font-size: 14px;
+	font-weight: normal
+}
+
+.vip-normal .nobtns .claimed {
+	margin-bottom: 5px
+}
+
+.vip-normal .base-info .last .icon {
+	background-image:
+		url("//static.pacra.cn/shuidi/images/detail/vip_normal_icon.png")
+}
+
+.vip-normal .base-info .icon-fav {
+	background-position: -66px 2px
+}
+
+.vip-normal .base-info .icon-fav-outline {
+	background-position: -15px 2px
+}
+
+.vip-normal .base-info .icon-view {
+	background-position: -39px 0
+}
+
+.vip-normal .base-info .icon-share {
+	background-position: 4px 0
+}
+
+.bg-success {
+	background-color: #00ae64
+}
+
+.btn-warning {
+	background-color: #ff5824;
+	border: solid 1px #ff5824;
+	color: #fff
+}
+
+.btn-warning:hover {
+	background-color: #ff6b3d;
+	border-color: #ff6b3d
+}
+
+.model-accurate, .model-concat {
+	border-radius: 5px
+}
+
+.model-accurate .head-default, .model-concat .head-default {
+	font-size: 24px;
+	background-color: #00ae64;
+	text-align: center;
+	color: #fff
+}
+
+.model-accurate .model-body, .model-concat .model-body {
+	padding: 25px 50px;
+	text-align: center
+}
+
+.model-accurate p {
+	line-height: 30px;
+	font-size: 16px;
+	margin-bottom: 15px
+}
+
+.model-accurate .list>.item {
+	width: 414px;
+	line-height: 36px;
+	padding: 6px 20px;
+	font-size: 14px;
+	text-align: left;
+	margin-bottom: 10px;
+	border-left: solid 6px #00ae64
+}
+
+.model-accurate .person-name {
+	width: 165px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle
+}
+
+.icon {
+	vertical-align: middle;
+	padding: 14px;
+	display: inline-block;
+	background: url("//static.pacra.cn/shuidi/images/detail/more_icon.png")
+		left top
+}
+
+.icon-bang-sm, .icon-bang-md, .icon-bang-lg {
+	background-image: none;
+	padding: 0
+}
+
+.icon-bang-sm {
+	margin-top: -3px;
+	margin-right: 7px;
+	width: 2px;
+	height: 12px
+}
+
+.icon-bang-md {
+	margin-right: 8px;
+	width: 3px;
+	height: 14px
+}
+
+.icon-bang-lg {
+	margin-right: 15px;
+	width: 5px;
+	height: 17px
+}
+
+.icon-ordinal {
+	padding: 1px;
+	min-width: 16px;
+	text-align: center;
+	border-radius: 2px;
+	border: solid 1px #ebedf4
+}
+
+.icon-person {
+	background: 0;
+	padding: 0;
+	width: 44px;
+	height: 44px;
+	line-height: 44px;
+	border-radius: 22px;
+	text-align: center;
+	font-size: 18px
+}
+
+.icon-ask {
+	background-position: 0, 0
+}
+
+.bg-success {
+	background-color: #00ae64
+}
+
+.bg-yellow {
+	background-color: #fff600
+}
+
+.bg-error {
+	background-color: #f00
+}
+
+.bg-primary {
+	background-color: #2196f3
+}
+
+.bg-warning {
+	background-color: #fd7e48
+}
+
+.bg-silver {
+	background-color: #f5f6fa
+}
+
+.text-success {
+	color: #21a153
+}
+
+.text-silver {
+	color: #999
+}
+
+.text-strong {
+	color: #444;
+	font-weight: bold
+}
+
+.list, .list-horizontal {
+	position: relative;
+	font-size: 0
+}
+
+.list .item, .list-horizontal .item {
+	position: relative;
+	vertical-align: middle;
+	font-size: 14px
+}
+
+.list-horizontal .item {
+	display: inline-block
+}
+
+.list-horizontal .last {
+	margin-right: 0
+}
+
+.list-table {
+	display: table
+}
+
+.list-table .row>* {
+	display: table-cell
+}
+
+.title-lg {
+	font-size: 16px;
+	font-weight: bold
+}
+
+.title-sub {
+	font-weight: normal;
+	font-size: 14px;
+	color: #999
+}
+
+.btn {
+	padding: 8px;
+	text-align: center;
+	line-height: 1;
+	border-radius: 2px;
+	white-space: nowrap;
+	position: relative
+}
+
+.btn-sm {
+	padding: 2px 6px;
+	font-size: 13px
+}
+
+.btn-success {
+	color: #fff;
+	background-color: #00ae64
+}
+
+.btn-success:hover {
+	background-color: #10cc7c
+}
+
+.btn-success-outline {
+	color: #00ae64;
+	background-color: #fff;
+	border: solid 1px #00ae64
+}
+
+.btn-success-outline:hover {
+	background-color: #00ae64;
+	color: #fff
+}
+
+.btn-silver-outline {
+	background-color: #f6fafd;
+	border: solid 1px #dfe3ec
+}
+
+.btn-silver-outline:hover {
+	background-color: #00ae64;
+	border-color: #00ae64;
+	color: #fff
+}
+
+.btn-silver-outline:hover .bg-error {
+	background-color: #fff600
+}
+
+.tip-btn {
+	line-height: 30px;
+	top: -8px;
+	background-color: #fff;
+	font-size: 14px;
+	color: #444
+}
+
+.tip-btn .vi {
+	top: 6px
+}
+
+.tip-btn .vi label {
+	border-right-color: #fff
+}
+
+.shuidi-tip {
+	width: 14px;
+	height: 14px;
+	display: inline-block;
+	vertical-align: bottom
+}
+
+.model-concat .model-body img {
+	width: 200px;
+	height: 200px;
+	margin: 30px 100px 10px
+}
+
+.model-concat .model-body p {
+	margin-bottom: 20px
+}
+
+.detail-top-vip1 .download-vip1 {
+	padding: 0 10px;
+	border-radius: 3px;
+	background-color: #00ae64;
+	color: #fff
+}
+
+.jump-company-detail {
+	border: 1px solid #e9ebf1;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 10001;
+	width: 500px;
+	background: #fff;
+	height: 289px;
+	margin-top: -144px;
+	display: none
+}
+
+.popup-qrcode-box img {
+	display: block;
+	width: 117px;
+	height: 119px;
+	margin: 0 auto
+}
+
+.detail-popup-icon {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	top: 12px;
+	right: 12px;
+	background-image:
+		url("//static.pacra.cn/shuidi/images/new-detail/icon-close-2.png");
+	background-size: 22px;
+	cursor: pointer
+}
+
+.jump-company-title {
+	padding: 32px 0 5px 30px
+}
+
+.popup-qrcode-box p {
+	margin: 12px auto 0;
+	padding-left: 22px;
+	width: 130px;
+	height: 24px;
+	line-height: 24px;
+	font-size: 14px;
+	text-align: center;
+	color: #00ae64;
+	background:
+		url("//static.pacra.cn/shuidi/images/payment-common/wx_icon.jpg")
+		no-repeat left
+}
+
+.apply-download-reason, .apply-check-reason {
+	height: 288px;
+	border: 1px solid #e9ebf1;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 10001;
+	width: 498px;
+	background: #fff;
+	margin-top: -144px;
+	font-size: 0
+}
+
+.apply-download-reason span, .apply-check-reason span {
+	margin-left: 31px;
+	color: #444;
+	font-size: 14px;
+	position: absolute;
+	margin-top: 56px
+}
+
+.apply-download-reason textarea, .apply-check-reason textarea {
+	margin-top: 56px;
+	margin-left: 99px;
+	width: 340px;
+	height: 117px;
+	border: 1px solid #e6e8f4;
+	padding: 9px;
+	font-size: 14px;
+	resize: none
+}
+
+.apply-download-reason .apply-reason-btn, .apply-check-reason .apply-reason-btn
+	{
+	margin-top: 14px;
+	margin-left: 99px
+}
+
+.apply-reason-btn a {
+	display: inline-block;
+	width: 98px;
+	height: 34px;
+	border: 1px solid #00af64;
+	line-height: 34px;
+	text-align: center;
+	color: #00ae64;
+	background-color: #e1fef2;
+	margin-right: 12px;
+	font-size: 16px;
+	border-radius: 3px
+}
+
+.apply-download-reason p, .apply-check-reason p {
+	position: absolute;
+	bottom: 79px;
+	right: 40px;
+	font-size: 12px;
+	color: #fe0000
+}
+
+.apply-download-reason textarea {
+	margin-top: 76px
+}
+
+.apply-download-reason span {
+	margin-top: 76px
+}
+
+.apply-download-reason p {
+	bottom: 58px
+}
+
+.apply-download-reason label {
+	position: absolute;
+	font-size: 14px;
+	color: #444;
+	top: 40px;
+	left: 31px
+}
+
+.reason-success-tip-box, .apply-nodata-tip-box,
+	.apply-noauthority-tip-box {
+	height: 90px;
+	border: 1px solid #e9ebf1;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 10001;
+	width: 498px;
+	background: #fff;
+	margin-top: -144px
+}
+
+i.success-tip {
+	position: absolute;
+	top: 36px;
+	left: 30px;
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+	background:
+		url("//static.pacra.cn/shuidi/images/new-detail/icon_ok.png")
+		no-repeat center center
+}
+
+i.nodata-error-tip {
+	position: absolute;
+	top: 36px;
+	left: 30px;
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+	background:
+		url("//static.pacra.cn/shuidi/images/new-detail/icon_error_tip.png")
+		no-repeat center center
+}
+
+.reason-success-tip-box .only-p1, .apply-nodata-tip-box .only-p1,
+	.apply-noauthority-tip-box .only-p1 {
+	padding: 42px 0 10px 75px
+}
+
+.cover-layer {
+	position: relative;
+	height: 131px;
+	border: 1px solid #e7e9ef
+}
+
+.cover-layer div {
+	position: absolute;
+	width: 560px;
+	line-height: 50px;
+	top: 50%;
+	left: 50%;
+	margin-top: -25px;
+	margin-left: -280px;
+	text-align: center
+}
+
+.cover-layer div span {
+	color: #999;
+	margin-right: 17px;
+	font-size: 14px
+}
+
+.cover-layer div p {
+	line-height: 24px;
+	font-size: 14px;
+	padding: 0 14px;
+	border: 1px solid #00af64;
+	color: #00af64;
+	cursor: pointer;
+	display: inline-block;
+	border-radius: 3px
+}
+
+.tip-popup {
+	width: 328px;
+	height: 168px;
+	border: 1px solid #e6e8f4
+}
+
+.popup-position {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	z-index: 100001;
+	background-color: #fff;
+	border: 1px solid #e6e8f4
+}
+
+.check-popup {
+	width: 630px;
+	height: 418px;
+	margin-left: -316px;
+	margin-top: -210px;
+	display: none
+}
+
+.check-popup .add-pd {
+	padding: 31px
+}
+
+.check-popup .title {
+	font-size: 18px;
+	line-height: 18px
+}
+
+.add-size {
+	font-size: 12px;
+	color: #aeaeae;
+	margin: 8px 0 26px
+}
+
+.check-popup .add-mg {
+	line-height: 36px;
+	margin-bottom: 10px
+}
+
+.check-popup .con-tip {
+	width: 116px
+}
+
+.check-popup .con-tip span {
+	color: red;
+	margin-right: 3px
+}
+
+.check-popup .msg {
+	color: red;
+	font-size: 12px;
+	margin-left: 10px;
+	display: none;
+	width: 132px
+}
+
+.check-popup input[type="text"] {
+	height: 34px;
+	line-height: 34px;
+	border: 1px solid #e6e8f4;
+	padding: 0 11px;
+	width: 286px;
+	border-radius: 3px
+}
+
+.check-popup input[type="text"]:focus {
+	border: 1px solid #e6e8f4
+}
+
+.check-popup .add-mg .special-msg {
+	line-height: 12px
+}
+
+.phone-code-box, .img-code-box {
+	position: relative
+}
+
+.phone-code-box .phone-position, .img-code-box .img-code-btn {
+	position: absolute;
+	width: 90px;
+	height: 32px;
+	right: 2px;
+	line-height: 32px;
+	top: 3px;
+	text-align: center;
+	cursor: pointer
+}
+
+.phone-code-box .phone-code-btn, .phone-code-box .img-code-btn {
+	background-color: #00ae64;
+	color: #fff
+}
+
+.phone-code-box .phone-code-btn:hover {
+	background-color: #0dbc71;
+	cursor: pointer
+}
+
+.phone-code-box .disabled {
+	background-color: #898989;
+	color: #fff
+}
+
+.phone-code-box .disabled:hover {
+	background-color: #898989;
+	cursor: default
+}
+
+.check-popup .btn-box {
+	padding: 4px 0 0 116px
+}
+
+.check-popup .btn-box a {
+	width: 98px;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+	border: 1px solid #00ae64;
+	border-radius: 3px
+}
+
+.check-popup .btn-box .net-submit-sure-btn {
+	color: #fff;
+	margin-right: 12px;
+	background-color: #00ae64
+}
+
+.check-popup .btn-box .net-submit-cancle-btn {
+	color: #00ae64;
+	background-color: #e1fef2
+}
+
+.tip-popup {
+	width: 328px;
+	height: 168px;
+	margin-left: -165px;
+	margin-top: -85px;
+	display: none
+}
+
+.tip-popup .title, .owner-popup .title {
+	font-size: 18px;
+	line-height: 18px
+}
+
+.tip-popup .add-pd, .owner-popup .add-pd {
+	padding: 28px 20px
+}
+
+.tip-popup p {
+	color: #999;
+	line-height: 14px;
+	margin: 22px 0 28px
+}
+
+.tip-popup a {
+	display: inline-block;
+	background-color: #00ae64;
+	color: #fff;
+	border-radius: 3px;
+	width: 70px;
+	line-height: 32px;
+	text-align: center
+}
+
+.owner-popup {
+	width: 708px;
+	margin-top: -216px;
+	margin-left: -355px;
+	display: none
+}
+
+.owner-popup .title {
+	margin-bottom: 26px
+}
+
+.owner-popup p {
+	margin-bottom: 28px;
+	line-height: 24px;
+	vertical-align: top
+}
+
+.owner-popup p span {
+	margin-left: 24px;
+	color: #999
+}
+
+.owner-popup p .prove-data {
+	margin-left: 0
+}
+
+.owner-popup p textarea {
+	height: 120px;
+	width: 580px;
+	line-height: 24px;
+	margin-left: 24px;
+	resize: none;
+	border: 1px solid #e6e8f4;
+	color: #999
+}
+
+.owner-popup p a {
+	color: #00ae64;
+	margin-left: 24px;
+	width: 180px;
+	display: inline-block
+}
+
+.company-contact, .rating-box {
+	background-color: #fff
+}
+
+.company-contact, .rating-box, .credit-rating {
+	height: 220px;
+	display: inline-block
+}
+
+.dis-inline-block {
+	display: inline-block
+}
+
+.credit-rating {
+	width: 910px;
+	font-size: 14px;
+	line-height: 33px;
+	color: #444;
+	text-align: left
+}
+
+.rating-box {
+	width: 650px;
+	margin-right: 15px;
+	overflow: hidden
+}
+
+.company-contact {
+	width: 240px
+}
+
+.credit-rating .horn {
+	margin-top: 46px
+}
+
+.credit-rating .info-text {
+	text-align: left
+}
+
+.credit-rating .pre-rating, .credit-rating .lat-rating {
+	padding-top: 26px
+}
+
+.credit-rating .pre-rating {
+	margin: 0 46px 0 34px
+}
+
+.add-clee5035 {
+	color: #ee5035
+}
+
+.add-cl00ae64 {
+	color: #00ae64
+}
+
+.credit-rating .add-bld {
+	font-size: 40px;
+	line-height: 100px;
+	text-align: center
+}
+
+.credit-rating .num-day {
+	font-size: 24px;
+	margin-right: 5px
+}
+
+.line-height24 {
+	line-height: 24px
+}
+
+.font-size18 {
+	font-size: 18px
+}
+
+.mar-bottom28 {
+	margin-bottom: 28px
+}
+
+.bold700 {
+	font-weight: 700
+}
+
+.lat-rating .mar-bottom26 {
+	margin-top: 4px
+}
+
+.lat-rating .line-height24 {
+	vertical-align: middle
+}
+
+.lat-rating .line-height24 span {
+	display: inline-block;
+	width: 200px
+}
+
+.lat-rating .line-height24 span i {
+	display: inline-block;
+	width: 16px;
+	height: 11px;
+	margin-right: 3px;
+	background: url("//static.pacra.cn/shuidi/images/extreme/hook.png")
+		no-repeat center center
+}
+
+.company-contact {
+	vertical-align: top
+}
+
+.company-contact .line-height24 {
+	padding: 22px 16px 16px 22px
+}
+
+.mar-top5 {
+	margin-top: 5px
+}
+
+.mar-bottom5 {
+	margin-bottom: 5px
+}
+
+.company-contact a i {
+	display: inline-block;
+	width: 9px;
+	height: 5px;
+	margin-left: 10px;
+	background:
+		url("//static.pacra.cn/shuidi/images/extreme/pull-down-icon.png")
+		center center no-repeat
+}
+
+.public-num {
+	position: relative
+}
+
+.company-contact .wei-xin-icon {
+	width: 10px
+}
+
+.company-contact .qq-link-icon {
+	margin-right: 7px
+}
+
+.company-contact .wei-xin-icon .qrcode-img {
+	left: -39px
+}
+
+.public-num:hover .qrcode-img {
+	display: inline-block
+}
+
+.add-mar-left10 {
+	margin-left: 10px
+}
+
+.credit-rating .font-size12 {
+	font-size: 12px
+}
+
+.cursor-d {
+	cursor: default
+}
+
+.aaa-certificate {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -230px;
+	width: 448px;
+	border: 6px solid #a37c54;
+	padding-bottom: 24px;
+	background-color: #fff;
+	z-index: 10001;
+	text-align: center;
+	margin-top: -288px
+}
+
+.certificate-layer .close {
+	background: url("//static.pacra.cn/shuidi/images/shuidi_btn_close.png")
+		center center no-repeat;
+	padding: 15px;
+	display: inline-block;
+	position: absolute;
+	top: 6px;
+	right: 7px;
+	cursor: pointer
+}
+
+.certificate-layer .logo-wrap-1 {
+	position: relative;
+	margin-top: 37px;
+	height: 36px;
+	font-size: 0
+}
+
+.certificate-layer .logo-1 {
+	width: 117px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 92px;
+	display: block
+}
+
+.certificate-layer .logo-2 {
+	width: 131px;
+	height: 36px;
+	position: absolute;
+	top: 0;
+	left: 235px;
+	display: block
+}
+
+.certificate-layer h3 {
+	line-height: 18px;
+	font-size: 18px;
+	display: inline-block;
+	margin: 40px auto 20px auto;
+	font-weight: bold;
+	width: 86%
+}
+
+.certificate-layer h2 {
+	line-height: 30px;
+	font-size: 30px;
+	font-weight: bold
+}
+
+.certificate-layer .zs-border {
+	width: 215px;
+	height: 1px;
+	font-size: 0;
+	display: block;
+	margin: 0 auto
+}
+
+.certificate-layer h4 {
+	font-size: 24px;
+	margin-top: 37px;
+	margin-bottom: 8px;
+	font-weight: normal;
+	line-height: 24px
+}
+
+.certificate-layer h5 {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 14px;
+	margin-top: 8px;
+	margin-bottom: 35px
+}
+
+.certificate-layer .logo-wrap-2 {
+	height: 75px;
+	width: 100%;
+	margin-top: 22px;
+	background:
+		url("//static.pacra.cn/shuidi/images/extreme/extreme_icon_14.png")
+		center center no-repeat
+}
+
+.certificate-layer .logo-wrap-2 p {
+	font-size: 52px;
+	line-height: 52px;
+	color: #ee5036;
+	font-weight: bold;
+	margin-bottom: 5px
+}
+
+.certificate-layer .logo-wrap-2 span {
+	font-size: 14px;
+	color: #a37c54
+}
+
+.certificate-layer .logo-wrap-3 {
+	position: relative;
+	height: 113px;
+	font-size: 0
+}
+
+.certificate-layer .logo-wrap-3 .qr-img {
+	position: absolute;
+	top: 6px;
+	left: 78px;
+	width: 84px;
+	height: 84px;
+	display: block;
+	font-size: 0
+}
+
+.certificate-layer .logo-wrap4 .float-left {
+	width: 174px;
+	text-align: center;
+	padding-left: 34px
+}
+
+.certificate-layer .logo-wrap4 .qr-img {
+	width: 84px;
+	height: 84px;
+	display: block;
+	font-size: 0;
+	margin: 0 auto 10px
+}
+
+.certificate-layer .logo-wrap4 .logo-wrap4-p1 {
+	line-height: 12px;
+	font-size: 12px;
+	color: #999
+}
+
+.certificate-layer .logo-wrap4 .float-right {
+	text-align: center;
+	width: 160px;
+	padding-right: 50px;
+	padding-top: 10px
+}
+
+.certificate-layer .logo-wrap4 .margin-top6 {
+	margin-top: 6px
+}
+
+.certificate-layer .logo-wrap4 .float-right p {
+	font-size: 16px;
+	line-height: 24px
+}
+
+.certificate-layer .logo-wrap-3 p {
+	position: absolute;
+	line-height: 12px;
+	font-size: 12px;
+	color: #999;
+	bottom: 0;
+	left: 33px
+}
+
+.certificate-layer .logo-wrap-3 .img-seal {
+	width: 151px;
+	height: 113px;
+	position: absolute;
+	top: 0;
+	left: 240px;
+	display: block
+}
+
+.certificate-layer .logo-wrap-3 .claim-time {
+	position: absolute;
+	bottom: 26px;
+	left: 240px;
+	text-align: center;
+	width: 151px;
+	font-size: 12px;
+	line-height: 16px;
+	color: #444
+}
+
+.model-zs .lt-style1, .model-zs .lt-style2, .model-zs .lt-style3 {
+	font-size: 16px;
+	width: 160px;
+	left: 244px
+}
+
+.model-zs .lt-style1 {
+	top: 20px
+}
+
+.model-zs .lt-style2 {
+	top: 44px
+}
+
+.model-zs .lt-style3 {
+	top: 74px
+}
+
+.model-zs-1 {
+	margin-left: -230px;
+	margin-top: -284px
+}
+
+.detail-bounced {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -375px;
+	transform: translateY(-50%);
+	z-index: 10001;
+	width: 750px;
+	background: #fff
+}
+
+.detail-bounced .bounced-header {
+	padding: 20px;
+	background-color: #00af64;
+	color: #fff;
+	position: relative
+}
+
+.detail-bounced .bounced-header .bounced-icon {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	top: 20px;
+	right: 20px;
+	background-image:
+		url("//static.pacra.cn/shuidi/images/new-detail/icon-close-1.png");
+	background-size: 22px;
+	cursor: pointer
+}
+
+.detail-bounced .bounced-header .bounced-header-title {
+	font-size: 20px;
+	margin-bottom: 3px
+}
+
+.detail-bounced .bounced-header .bounced-header-title span {
+	margin: 0 6px
+}
+
+.detail-bounced .bounced-header .bounced-header-description {
+	font-size: 14px
+}
+
+.detail-bounced .bounced-header .bounced-header-description span {
+	margin: 0 4px;
+	color: #fcff00
+}
+
+.detail-bounced .bounced-contain {
+	padding: 20px;
+	color: #444;
+	border: 1px solid #e9ebf1;
+	border-top: 0
+}
+
+.detail-bounced .bounced-contain .bounced-contain-title {
+	font-size: 14px;
+	padding-bottom: 20px
+}
+
+.detail-bounced .bounced-body {
+	border: 1px solid #e9ebf1
+}
+
+.detail-bounced .bounced-body .bounced-body-title {
+	font-size: 14px;
+	padding-left: 19px;
+	height: 37px;
+	line-height: 37px;
+	background-color: #f4f6f9;
+	color: #444
+}
+
+.detail-bounced .bounced-body .bounced-body-title span {
+	color: #999;
+	float: right;
+	margin-right: 19px
+}
+
+.detail-bounced .bounced-body .bounced-list:after {
+	display: block;
+	content: "";
+	clear: both;
+	padding-bottom: 20px
+}
+
+.detail-bounced .bounced-body .bounced-list .bounced-items {
+	width: 50%;
+	float: left;
+	padding-left: 48px;
+	margin-top: 15px;
+	background:
+		url("//static.pacra.cn/shuidi/images/payment-common/yes.jpg") 22px
+		no-repeat;
+	box-sizing: border-box
+}
+
+.detail-bounced .bounced-main {
+	border: 1px solid #e9ebf1;
+	margin-top: 20px;
+	padding: 20px
+}
+
+.detail-bounced .bounced-main:after {
+	display: block;
+	content: "";
+	clear: both
+}
+
+.detail-bounced .bounced-main .bounced-main-items {
+	width: 50%;
+	float: left;
+	text-align: center;
+	box-sizing: border-box
+}
+
+.detail-bounced .bounced-main {
+	border-left: 1px solid #e9ebf1
+}
+
+.bounced-main-items .first-main-items {
+	border-right: 1px solid #e9ebf1
+}
+
+.detail-bounced .bounced-main .bounced-main-items .bounced-main-title {
+	font-size: 18px;
+	color: #444;
+	margin-bottom: 8px
+}
+
+.detail-bounced .bounced-main .bounced-main-items .bounced-main-btn {
+	width: 140px;
+	height: 36px;
+	line-height: 36px;
+	background-color: #00af64;
+	border-radius: 3px;
+	color: #fff;
+	margin: 64px auto 0;
+	font-size: 16px
+}
+
+.detail-bounced .bounced-main .bounced-main-items .bounced-main-img {
+	display: block;
+	width: 117px;
+	height: 119px;
+	margin: 0 auto
+}
+
+.detail-bounced .bounced-main .bounced-main-items .bounced-main-tip {
+	margin: 12px auto 0;
+	padding-left: 22px;
+	width: 130px;
+	height: 24px;
+	line-height: 24px;
+	font-size: 14px;
+	text-align: center;
+	color: #00ae64;
+	background:
+		url("//static.pacra.cn/shuidi/images/payment-common/wx_icon.jpg")
+		no-repeat left
+}
+
+.detail-bounced .risk-body {
+	border: 1px solid #e9ebf1
+}
+
+.detail-bounced .risk-body .bounced-risk-title {
+	font-size: 14px;
+	padding-left: 19px;
+	height: 37px;
+	line-height: 37px;
+	background-color: #f4f6f9;
+	color: #444
+}
+
+.detail-bounced .risk-body .risk-list {
+	margin: 0 20px
+}
+
+.detail-bounced .risk-body .risk-list:after {
+	display: block;
+	content: "";
+	clear: both
+}
+
+.detail-bounced .risk-body .risk-list li {
+	width: 33.3333%;
+	float: left;
+	text-align: center;
+	line-height: 40px
+}
+
+.detail-bounced .risk-body .risk-list-num {
+	color: #f53735;
+	border-top: 1px solid #e9ebf1
+}
+
+.detail-outlet .bounced-body .bounced-list .bounced-items {
+	width: 100%
+}
+
+.official-website {
+	color: white
+}
+
+a {
+	color: #444
+}
+
+.company-more {
+	font-size: 0;
+	position: relative
+}
+
+.company-more .icon-person {
+	color: #fff
+}
+
+.container-left, .container-right {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 14px
+}
+
+.container-left {
+	width: 900px;
+	margin-right: 20px
+}
+
+.company-more .container-left>.panel {
+	min-height: 995px
+}
+
+.company-more .container-left .btn-silver-outline:hover .bg-error {
+	background-color: #fff600
+}
+
+.container-right {
+	width: 260px
+}
+
+.float-right {
+	float: right
+}
+
+.border {
+	border: solid 1px #e9ebf1
+}
+
+.panel {
+	position: relative;
+	background-color: #fff;
+	border: solid 1px #e9ebf1;
+	margin-bottom: 19px
+}
+
+.panel .panel-head {
+	padding: 0 19px;
+	height: 45px;
+	line-height: 45px
+}
+
+.panel .panel-body {
+	padding: 5px 19px 19px
+}
+
+.shengming {
+	line-height: 25px
+}
+
+.company-more .container-left>.shengming {
+	min-height: 125px
+}
+
+.shengming .panel-body {
+	padding-top: 19px
+}
+
+.shengming font {
+	font-weight: bold
+}
+
+.neck-top-left a:hover, .neck-item a:hover, .neck-item li:hover span {
+	color: #21a153
+}
+
+.neck-item ul>.text-silver:hover a, .neck-item ul>.text-silver:hover span,
+	.neck-item ul>.text-silver a, .neck-item ul>.text-silver span {
+	color: #999
+}
+
+.company-neck .title-lg {
+	height: 16px;
+	line-height: 16px
+}
+
+.title-lg .float-right {
+	font-size: 13px;
+	font-weight: normal
+}
+
+.neck-top-left {
+	width: 785px;
+	height: 114px;
+	border-bottom: 0;
+	background-color: #fff;
+	overflow: hidden
+}
+
+.neck-top-left .title-lg {
+	padding: 0 30px;
+	height: 50px;
+	line-height: 50px
+}
+
+.neck-top-left ul {
+	padding-left: 30px
+}
+
+.neck-top-left ul li {
+	margin-right: 30px;
+	min-width: 210px;
+	max-width: 720px;
+	float: left;
+	height: 14px;
+	line-height: 14px;
+	margin-bottom: 18px;
+	overflow: hidden;
+	word-wrap: break-word;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+
+.neck-top-left ul li i {
+	display: inline-block;
+	margin-right: 7px;
+	width: 3px;
+	height: 14px;
+	background-image: none;
+	padding: 0
+}
+
+.neck-top-right {
+	width: 393px;
+	height: 114px
+}
+
+.neck-top-right a {
+	display: inline-block;
+	width: 100%;
+	height: 100%
+}
+
+.neck-top-right .rukou {
+	position: relative
+}
+
+.neck-top-right .rukou p {
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	display: inline-block;
+	position: absolute;
+	top: 15px;
+	width: 100%
+}
+
+.neck-top-right .rukou p font {
+	font-size: 36px;
+	font-weight: bold
+}
+
+.neck-top-right .rukou-noclaim p {
+	top: 30px
+}
+
+.neck-top-right .ad {
+	width: 393px;
+	height: 114px;
+	position: relative;
+	background: url("//static.pacra.cn/shuidi/images/detail/ad_bg.png")
+		center center no-repeat
+}
+
+.neck-top-right .ad .cont {
+	position: absolute;
+	left: 87px;
+	top: 25px;
+	color: white;
+	font-size: 15px
+}
+
+.neck-top-right .ad .cont .t {
+	margin-top: 10px;
+	font-size: 42px
+}
+
+.neck-top-right .ad .ad-btn {
+	width: 81px;
+	height: 82px;
+	display: inline-block;
+	position: absolute;
+	top: 18px;
+	right: 15px;
+	background: url("//static.pacra.cn/shuidi/images/detail/ad_btn.png")
+		center center no-repeat
+}
+
+.neck-more {
+	clear: both;
+	padding: 20px 0 30px 0;
+	display: inline-block;
+	width: 1179px;
+	border: solid 1px #e9ebf1;
+	background-color: #fff;
+	margin-bottom: 20px;
+	position: relative
+}
+
+.neck-more .turn-menu {
+	width: 23px;
+	height: 16px;
+	display: inline-block;
+	position: absolute;
+	left: 576px;
+	bottom: 0;
+	background: url("//static.pacra.cn/shuidi/images/detail/nav_menu.jpg")
+		center top no-repeat;
+	border: solid 1px #e9ebf1;
+	border-bottom: 0
+}
+
+.neck-more .turn-menu:hover {
+	background: 0;
+	background-color: #00ae66;
+	width: 66px;
+	height: 20px;
+	left: 555px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 12px;
+	color: #fff
+}
+
+.neck-more .turn-menu span {
+	cursor: pointer;
+	display: none
+}
+
+.neck-more .turn-menu:hover .down {
+	display: block
+}
+
+.neck-item {
+	padding: 0 30px;
+	width: 233px;
+	float: left;
+	border-right: 1px solid #e4e5ea
+}
+
+.neck-more-active .turn-menu {
+	background-position: center bottom
+}
+
+.neck-more-active .turn-menu:hover .down {
+	display: none
+}
+
+.neck-more-active .turn-menu:hover .up {
+	display: block
+}
+
+.neck-item ul {
+	float: left;
+	width: 110px
+}
+
+.neck-item ul li {
+	width: 110px;
+	height: 14px;
+	line-height: 14px;
+	font-size: 14px;
+	margin-top: 16px
+}
+
+.neck-item ul li span {
+	margin-left: 8px
+}
+
+.item-border-none {
+	border: 0
+}
+
+.neck-item a {
+	position: relative;
+	white-space: nowrap
+}
+
+.neck-item .tip-title {
+	line-height: 30px;
+	left: 83px;
+	top: -8px;
+	background-color: #fff
+}
+
+.neck-item .tip-title .vi {
+	left: -16px;
+	top: 6px
+}
+
+.neck-item .tip-title .vi label {
+	border-right-color: #fff
+}
+
+.noborder {
+	border: 0
+}
+
+.page {
+	font-size: 0;
+	margin-left: -5px;
+	margin-top: 15px;
+	text-align: right
+}
+
+.page .page-item {
+	display: inline-block;
+	vertical-align: middle;
+	min-width: 8px;
+	padding: 0 5px;
+	text-align: center;
+	height: 18px;
+	line-height: 18px;
+	font-size: 14px;
+	color: #999;
+	border: solid 1px #e9ebf1;
+	background-color: #fff;
+	margin-left: 5px
+}
+
+.page .page-item:hover {
+	border-color: #00ae66;
+	color: #00ae66
+}
+
+.page .active, .page .active:hover {
+	border-color: #00ae66;
+	background-color: #00ae66;
+	color: #fff
+}
+
+.company-more [data-model], .list-horizontal [data-model], list [data-model]
+	{
+	display: none
+}
+
+.nav-fixed {
+	position: fixed;
+	right: 0;
+	top: 540px;
+	text-align: right;
+	font-size: 28px;
+	z-index: 1
+}
+
+.nav-fixed a {
+	color: #fff
+}
+
+.nav-fixed>* {
+	margin-bottom: 3px;
+	height: 44px;
+	line-height: 44px;
+	color: #fff;
+	font-size: 12px;
+	background-color: #5f5750;
+	display: inline-block
+}
+
+.nav-fixed>* label {
+	padding-left: 16px;
+	display: none
+}
+
+.nav-fixed>*:hover, .nav-fixed>*:active {
+	background-color: #4fa6ec
+}
+
+.nav-fixed>*:hover label, .nav-fixed>*:active label {
+	display: inline-block
+}
+
+.nav-fixed .icon {
+	background: url("//static.pacra.cn/shuidi/images/index_icon.png") left
+		top no-repeat;
+	padding: 12px;
+	margin: 11px 10px;
+	vertical-align: middle
+}
+
+.nav-fixed .icon-qq {
+	background-position: 2px -218px
+}
+
+.nav-fixed .icon-edit {
+	background-position: -26px -218px
+}
+
+.nav-fixed .icon-up {
+	background-position: -54px -218px
+}
+
+.shuidi-tip {
+	width: 14px;
+	height: 14px;
+	display: inline-block;
+	vertical-align: bottom
+}
+
+.container-right .concat-us .panel-body, .container-right .concat-admin .panel-body
+	{
+	padding: 0
+}
+
+.container-right .concat-us .bg-success, .container-right .concat-admin .bg-success
+	{
+	padding: 52px 0;
+	text-align: center
+}
+
+.container-right .concat-us .btn, .container-right .concat-admin .btn {
+	padding: 15px;
+	width: 188px;
+	line-height: 18px;
+	border: solid 2px #fff;
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff
+}
+
+.container-right .concat-us .btn {
+	height: 58px;
+	padding: 0;
+	width: 222px;
+	border: 0;
+	background: url("//static.pacra.cn/shuidi/images/obtain_contact.gif")
+		center center no-repeat
+}
+
+.container-right .concat-us p {
+	text-align: center
+}
+
+.container-right .concat-us img {
+	margin-top: 15px;
+	width: 110px;
+	height: 110px
+}
+
+.container-right .concat-admin .bg-success {
+	padding: 24px 0;
+	background-color: #fff
+}
+
+.container-right .concat-admin .btn {
+	border-width: 1px;
+	border-color: #00ae66;
+	color: #00ae66
+}
+
+.container-right .panel {
+	margin-bottom: 20px
+}
+
+.container-right .panel-head {
+	border-bottom: solid 1px #e9ebf1
+}
+
+.container-right .panel-body {
+	text-align: center
+}
+
+.container-right .btn {
+	width: 204px;
+	margin-top: 6px
+}
+
+.container-right p {
+	text-align: left;
+	line-height: 40px
+}
+
+.container-right .login .panel-head {
+	border-bottom: 0
+}
+
+.container-right .login .btn {
+	width: 97px;
+	height: 28px;
+	padding: 0;
+	line-height: 28px;
+	margin: 0 4px;
+	margin-bottom: 12px
+}
+
+.concat-other .item {
+	line-height: 35px;
+	text-align: left;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.concat-other .icon {
+	background:
+		url("//static.pacra.cn/shuidi/images/detail/neck_right_icon.png")
+		center center no-repeat;
+	padding: 11px;
+	margin-right: 7px
+}
+
+.concat-other .icon-phone {
+	background-position: top center
+}
+
+.concat-other .icon-email {
+	background-position: center center
+}
+
+.concat-other .icon-website {
+	background-position: bottom center
+}
+
+.danger-yun .panel-body {
+	padding-top: 25px;
+	font-size: 0
+}
+
+.danger-yun .btn-success {
+	margin-top: -5px;
+	font-size: 14px
+}
+
+.display-block {
+	display: block
+}
+
+.com-conent-d {
+	clear: both;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #fff
+}
+
+.con-support {
+	clear: both;
+	padding: 20px 20px;
+	font-size: 14px;
+	text-align: center
+}
+
+.con-support p.support-p1 {
+	font-size: 16px;
+	color: #444;
+	padding-bottom: 20px
+}
+
+.con-support label {
+	width: 350px;
+	text-align: left;
+	font-size: 14px;
+	color: #444
+}
+
+.con-support p img {
+	padding-left: 20px
+}
+
+.disclaimer {
+	clear: both;
+	padding: 16px 20px;
+	line-height: 24px;
+	color: #444;
+	font-size: 14px
+}
+
+.disclaimer span {
+	color: #00ae64;
+	padding-right: 10px
+}

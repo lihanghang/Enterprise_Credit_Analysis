@@ -1,283 +1,338 @@
-#@menu()
-#define main_info()
+#@menu() #define main_info()
 <div class="container company-more">
-    <div class="container-left" style="width:1178px">
-        <div class="panel intell-info">
-          <!--商标信息-->
-                <div class="brand">
-                    <div class="panel-head title-lg" id="shangbiaoInfo" data-company-no="16075739037152561999330634260113">
-                        <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>商标信息(#(brandData.totalRow))</div>
-                                                    <p class="get-new-p ">更新时间<span class="license-update-date update-date-time">2018-04-20</span></p>
-                            <a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
-                                            </div>
-                    <div class="panel-body license-info">
-                                   <!--正常显示-->
-                                <div class="no-data-style license-no-data hide">
-                                    <p>企业招投标信息，请<a href="javascript:;">点击查看</a></p>
-                                </div>
-                                <div class="license-cont-in ">
-                                    <table class="table9">
-                                        <tbody><tr class="bg-silver">
-                                            <td class="license-codes">申请日期</td>
-                                            <td class="license-name">商标名称</td>
-                                            <td class="license-dates">注册号</td>
-                                            <td class="license-results">类别</td>
-                                            <td class="license-mores">流程状态</td>
-                                        </tr>
-                                    </tbody></table>
-                                    <table class="table9 license-content">                                    
-                                      <tbody>                                   
-                                        #for(x : brandData.getList())
-                                         <tr>
-                                              <td class="license-codes">#(x.brand_date)</td>
-                                              <td class="license-name">#(x.brandNames)</td>
-                                              <td class="license-dates">#(x.brandRegNum)</td>
-                                              <td class="license-results">#(x.brand_type)</td>
-                                              <td class="license">#(x.brand_status)</td>
-                                          </tr>
-                                            #end                                    
-                                        </tbody>
-                                       
-                                    </table>
-                                </div>
-                            <!--分页-->
-<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
- -->                   
- 						<!-- 分页插件 -->             
-        	   				#@paginateContent(brandData.pageNumber, brandData.totalPage, "./", companyData.code) 
- 					</div>
-                </div>
+	<div class="container-left" style="width: 1178px">
+		<div class="panel intell-info">
+			<!--商标信息-->
+			<div class="brand">
+				<div class="panel-head title-lg" id="shangbiaoInfo"
+					data-company-no="16075739037152561999330634260113">
+					<div class="icon-title">
+						<i class="icon icon-bang-lg bg-success"></i>商标信息(#(brandData.totalRow))
+					</div>
+					<p class="get-new-p ">
+						更新时间<span class="license-update-date update-date-time">2018-04-20</span>
+					</p>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+				</div>
+				<div class="panel-body license-info">
+					<!--正常显示-->
+					<div class="no-data-style license-no-data hide">
+						<p>
+							企业招投标信息，请<a href="javascript:;">点击查看</a>
+						</p>
+					</div>
+					<div class="license-cont-in ">
+						<table class="table9">
+							<tbody>
+								<tr class="bg-silver">
+									<td class="license-codes">申请日期</td>
+									<td class="license-name">商标名称</td>
+									<td class="license-dates">注册号</td>
+									<td class="license-results">类别</td>
+									<td class="license-mores">流程状态</td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="table9 license-content">
+							<tbody>
+								#for(x : brandData.getList())
+								<tr>
+									<td class="license-codes">#(x.brand_date)</td>
+									<td class="license-name">#(x.brandNames)</td>
+									<td class="license-dates">#(x.brandRegNum)</td>
+									<td class="license-results">#(x.brand_type)</td>
+									<td class="license">#(x.brand_status)</td>
+								</tr>
+								#end
+							</tbody>
 
-            <!--专利信息-->
-                <div class="zhuanli">
-                    <div class="panel-head title-lg" id="zhuanliInfo" data-company-no="16075739037152561999330634260113">
-                        <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>专利信息(#(patentData.totalRow))</div>
-                                                    <p class="get-new-p ">更新时间<span class="license-update-date update-date-time">2018-04-20</span></p>
-                            <a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
-                                            </div>
-                    <div class="panel-body license-info">
-                                                    <!--正常显示-->
-                                <div class="no-data-style license-no-data hide">
-                                    <p>企业招投标信息，请<a href="javascript:;">点击查看</a></p>
-                                </div>
-                                <div class="license-cont-in ">
-                                    <table class="table9">
-                                        <tbody><tr class="bg-silver">
-                                            <td class="license-code">申请公布日</td>
-                                            <td class="license-cont">专利名称</td>
-                                            <td class="license-date">申请号</td>
-                                            <td class="license-result">申请公布号</td>
-                                          <!--   <td class="license-more"></td>--> 
-                                         </tr>
-                                    </tbody></table>
-                                    <table class="table9 license-content">
-                                      <tbody>
-                                        <tr data-model="">
-                                            <td class="license-code">{0}</td>
-                                            <td class="license-cont">{1}</td>
-                                            <td class="license-date">{2}</td>
-                                            <td class="license-result">{3}</td>
-                                        </tr>
-                                         #for(x : patentData.getList())
-                                         <tr>
-                                              <td class="license-code">#(x.patent_push_dates)</td>
-                                              <td class="license-cont">#(x.patent_name)</td>
-                                              <td class="license-date">#(x.patent_num)</td>
-                                              <td class="license-result">#(x.patent_push_num)</td>
-                                            
-                                          </tr>
-                                          #end                                      
-                                        </tbody>
-                                    </table>
-                                </div>
-                            <!--分页-->
-<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
- -->                   #@paginateContent(patentData.pageNumber,patentData.totalPage, "./", companyData.code) 
- 
- 
- </div>
-                </div>
+						</table>
+					</div>
+					<!--分页-->
+					<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
+ -->
+					<!-- 分页插件 -->
+					#@paginateContent(brandData.pageNumber, brandData.totalPage, "./",
+					companyData.code)
+				</div>
+			</div>
 
-            <!--作品著作权信息-->
-                <div class="zuopin">
-                    <div class="panel-head title-lg" id="zuopinInfo" data-company-no="16075739037152561999330634260113">
-                        <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>作品著作权信息(#(worksData.totalRow))</div>
-                                                    <p class="get-new-p ">更新时间<span class="license-update-date update-date-time">2018-04-20</span></p>
-                            <a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
-                                            </div>
-                    <div class="panel-body license-info">
-                                                    <!--正常显示-->
-                                <div class="no-data-style license-no-data hide">
-                                    <p>企业招投标信息，请<a href="javascript:;">点击查看</a></p>
-                                </div>
-                                <div class="license-cont-in ">
-                                    <table class="table9">
-                                        <tbody><tr class="bg-silver">
-                                            <td class="license-code" >作品名称</td>
-                                            <td class="license-cont">登记号</td>
-                                            <td class="license-date" style="width:30px">类型</td>
-                                            <td class="license-result">创作完成日期</td>
-                                            <td class="license-more" style="width:98px">登记日期</td>
-                                            <td class="license" style="width:98px">首次发布日期</td>
-                                        </tr>
-                                    </tbody></table>
-                                    <table class="table9 license-content">
-                                      <tbody>
-                                        <tr data-model="">
-                                            <td class="license-code">{0}</td>
-                                            <td class="license-cont">{1}</td>
-                                            <td class="license-date">{2}</td>
-                                            <td class="license-result">{3}</td>
-                                            <td class="license-more">{4}</td>
-                                             <td class="license-more">{5}</td>
-                                            
-                                            
-                                        </tr>
-                                         #for(x : worksData.getList())
-                                         <tr>
-                                              <td class="license-code">#(x.work_name)</td>
-                                              <td class="license-cont">#(x.work_reg_num)</td>
-                                              <td class="license-date"  style="width:30px">#(x.work_type)</td>
-                                              <td class="license-result">#(x.work_date)</td>
-                                              <td class="license-date">#(x.work_reg_date)</td>
-                                              <td class="license-date">#(x.work_push_date)</td>                                         
-                                           </tr>  
-                                           #end                                    
-                                        </tbody>
-                                    </table>
-                                </div>
-                            <!--分页-->
-<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
- -->                   #@paginateContent(worksData.pageNumber,worksData.totalPage, "./", companyData.code) 
- 
-  				</div>
-                </div>
-            <!--软件著作权信息-->  
-                <div class="soft">
-                    <div class="panel-head title-lg" id="softInfo" data-company-no="16075739037152561999330634260113">
-                        <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>软件著作权信息(#(softData.totalRow))</div>
-                                                    <p class="get-new-p ">更新时间<span class="license-update-date update-date-time">2018-04-20</span></p>
-                            <a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
-                                            </div>
-                    <div class="panel-body license-info">
-                                                    <!--正常显示-->
-                                <div class="no-data-style license-no-data hide">
-                                    <p>企业招投标信息，请<a href="javascript:;">点击查看</a></p>
-                                </div>
-                                <div class="license-cont-in ">
-                                    <table class="table9">
-                                        <tbody><tr class="bg-silver">
-                                            <td class="license-code" >批准日期</td>
-                                            <td class="license-cont">软件全称</td>
-                                            <td class="license-date">软件简称</td>
-                                            <td class="license-result">登记号</td>
-                                            <td class="license-more">分类号</td>
-                                            
-                                        </tr>
-                                    </tbody></table>
-                                    <table class="table9 license-content">
-                                      <tbody>
-                                        <tr data-model="">
-                                            <td class="license-code">{0}</td>
-                                            <td class="license-cont">{1}</td>
-                                            <td class="license-date">{2}</td>
-                                            <td class="license-result">{3}</td>
-                                            <td class="license-more">{4}</td>
-                                            
-                                            
-                                            
-                                        </tr>
-                                         #for(x : softData.getList())
-                                         <tr>
-                                              <td class="license-code">#(x.soft_date)</td>
-                                              <td class="license-cont">#(x.soft_name)</td>
-                                              <td class="license-date">#(x.soft_abbre_name)</td>
-                                              <td class="license-result">#(x.soft_reg_num)</td>
-                                              <td class="license-more">#(x.soft_cat_num)</td>
-                                                                                
-                                           </tr> 
-                                          #end                                     
-                                        </tbody>
-                                    </table>
-                                </div>
-                            <!--分页-->
-<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
- -->                 #@paginateContent(softData.pageNumber,softData.totalPage, "./", companyData.code)    
-					 </div>
-                </div>
-            <!--网站信息-->  
-                <div class="web">
-                    <div class="panel-head title-lg" id="webInfo" data-company-no="16075739037152561999330634260113">
-                        <div class="icon-title"><i class="icon icon-bang-lg bg-success"></i>网站备案信息(#(webData.totalRow))</div>
-                                                    <p class="get-new-p ">更新时间<span class="license-update-date update-date-time">2018-04-20</span></p>
-                            <a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
-                                            </div>
-                    <div class="panel-body license-info">
-                                                    <!--正常显示-->
-                                <div class="no-data-style license-no-data hide">
-                                    <p>企业招投标信息，请<a href="javascript:;">点击查看</a></p>
-                                </div>
-                                <div class="license-cont-in ">
-                                    <table class="table9">
-                                        <tbody><tr class="bg-silver">
-                                            <td class="license-code" >审核日期</td>
-                                            <td class="license-date">网站名称</td>
-                                            <td class="license-date">网站首页</td>
-                                            <td class="license-date">域名</td>                                          
-                                            <td class="license-more">备案号</td>
-                                            <td class="license-date">状态</td>
-                                            <td class="license-date">单位性质</td>
-                                            
-                                        </tr>
-                                    </tbody></table>
-                                    <table class="table9 license-content">
-                                      <tbody>
-                                        <tr data-model="">
-                                            <td class="license-code">{0}</td>
-                                            <td class="license-date">{1}</td>
-                                            <td class="license-date">{2}</td>
-                                            <td class="license-result">{3}</td>
-                                            <td class="license-more">{4}</td>
-                                            <td class="license-result">{5}</td>
-                                            <td class="license-more">{6}</td>
-                                            
-                                            
-                                            
-                                        </tr>
-                                         #for(x : webData.getList())
-                                         <tr>
-                                              <td class="license-code">#(x.web_date)</td>
-                                              <td class="license-date">#(x.web_name)</td>
-                                              <td class="license-date">#(x.web_index)</td>
-                                              <td class="license-date">#(x.web_domain)</td>                                             
-                                              <td class="license-more">#(x.web_record)</td>
-                                              <td class="license-date">#(x.web_status)</td>
-                                              <td class="license-date">#(x.web_property)</td>
-                                                                                
-                                           </tr>   
-                                          #end                                   
-                                        </tbody>
-                                    </table>
-                                </div>
-                            <!--分页-->
-<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
- -->						 #@paginateContent(webData.pageNumber,webData.totalPage, "./", companyData.code)
-                    </div>
-                </div>
-</div>
+			<!--专利信息-->
+			<div class="zhuanli">
+				<div class="panel-head title-lg" id="zhuanliInfo"
+					data-company-no="16075739037152561999330634260113">
+					<div class="icon-title">
+						<i class="icon icon-bang-lg bg-success"></i>专利信息(#(patentData.totalRow))
+					</div>
+					<p class="get-new-p ">
+						更新时间<span class="license-update-date update-date-time">2018-04-20</span>
+					</p>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+				</div>
+				<div class="panel-body license-info">
+					<!--正常显示-->
+					<div class="no-data-style license-no-data hide">
+						<p>
+							企业招投标信息，请<a href="javascript:;">点击查看</a>
+						</p>
+					</div>
+					<div class="license-cont-in ">
+						<table class="table9">
+							<tbody>
+								<tr class="bg-silver">
+									<td class="license-code">申请公布日</td>
+									<td class="license-cont">专利名称</td>
+									<td class="license-date">申请号</td>
+									<td class="license-result">申请公布号</td>
+									<!--   <td class="license-more"></td>-->
+								</tr>
+							</tbody>
+						</table>
+						<table class="table9 license-content">
+							<tbody>
+								<tr data-model="">
+									<td class="license-code">{0}</td>
+									<td class="license-cont">{1}</td>
+									<td class="license-date">{2}</td>
+									<td class="license-result">{3}</td>
+								</tr>
+								#for(x : patentData.getList())
+								<tr>
+									<td class="license-code">#(x.patent_push_dates)</td>
+									<td class="license-cont">#(x.patent_name)</td>
+									<td class="license-date">#(x.patent_num)</td>
+									<td class="license-result">#(x.patent_push_num)</td>
 
-        <!--声明-->
-          <div class="panel shengming">
-             <div class="panel-body text-silver">
-                <font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
-                投诉方式：<font class="text-success">xycx@test.com</font> ，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
-            </div>
-        </div>
-    </div>
-    <input type="hidden" value="cabe75387416bdce9fc2af48000527b1" id="digest">
+								</tr>
+								#end
+							</tbody>
+						</table>
+					</div>
+					<!--分页-->
+					<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
+ -->
+					#@paginateContent(patentData.pageNumber,patentData.totalPage, "./",
+					companyData.code)
 
-<div class="container-right">
-<!--         <div class="panel concat-admin" style="display:none;">
+
+				</div>
+			</div>
+
+			<!--作品著作权信息-->
+			<div class="zuopin">
+				<div class="panel-head title-lg" id="zuopinInfo"
+					data-company-no="16075739037152561999330634260113">
+					<div class="icon-title">
+						<i class="icon icon-bang-lg bg-success"></i>作品著作权信息(#(worksData.totalRow))
+					</div>
+					<p class="get-new-p ">
+						更新时间<span class="license-update-date update-date-time">2018-04-20</span>
+					</p>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+				</div>
+				<div class="panel-body license-info">
+					<!--正常显示-->
+					<div class="no-data-style license-no-data hide">
+						<p>
+							企业招投标信息，请<a href="javascript:;">点击查看</a>
+						</p>
+					</div>
+					<div class="license-cont-in ">
+						<table class="table9">
+							<tbody>
+								<tr class="bg-silver">
+									<td class="license-code">作品名称</td>
+									<td class="license-cont">登记号</td>
+									<td class="license-date" style="width: 30px">类型</td>
+									<td class="license-result">创作完成日期</td>
+									<td class="license-more" style="width: 98px">登记日期</td>
+									<td class="license" style="width: 98px">首次发布日期</td>
+								</tr>
+							</tbody>
+						</table>
+						<table class="table9 license-content">
+							<tbody>
+								<tr data-model="">
+									<td class="license-code">{0}</td>
+									<td class="license-cont">{1}</td>
+									<td class="license-date">{2}</td>
+									<td class="license-result">{3}</td>
+									<td class="license-more">{4}</td>
+									<td class="license-more">{5}</td>
+
+
+								</tr>
+								#for(x : worksData.getList())
+								<tr>
+									<td class="license-code">#(x.work_name)</td>
+									<td class="license-cont">#(x.work_reg_num)</td>
+									<td class="license-date" style="width: 30px">#(x.work_type)</td>
+									<td class="license-result">#(x.work_date)</td>
+									<td class="license-date">#(x.work_reg_date)</td>
+									<td class="license-date">#(x.work_push_date)</td>
+								</tr>
+								#end
+							</tbody>
+						</table>
+					</div>
+					<!--分页-->
+					<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
+ -->
+					#@paginateContent(worksData.pageNumber,worksData.totalPage, "./",
+					companyData.code)
+
+				</div>
+			</div>
+			<!--软件著作权信息-->
+			<div class="soft">
+				<div class="panel-head title-lg" id="softInfo"
+					data-company-no="16075739037152561999330634260113">
+					<div class="icon-title">
+						<i class="icon icon-bang-lg bg-success"></i>软件著作权信息(#(softData.totalRow))
+					</div>
+					<p class="get-new-p ">
+						更新时间<span class="license-update-date update-date-time">2018-04-20</span>
+					</p>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+				</div>
+				<div class="panel-body license-info">
+					<!--正常显示-->
+					<div class="no-data-style license-no-data hide">
+						<p>
+							企业招投标信息，请<a href="javascript:;">点击查看</a>
+						</p>
+					</div>
+					<div class="license-cont-in ">
+						<table class="table9">
+							<tbody>
+								<tr class="bg-silver">
+									<td class="license-code">批准日期</td>
+									<td class="license-cont">软件全称</td>
+									<td class="license-date">软件简称</td>
+									<td class="license-result">登记号</td>
+									<td class="license-more">分类号</td>
+
+								</tr>
+							</tbody>
+						</table>
+						<table class="table9 license-content">
+							<tbody>
+								<tr data-model="">
+									<td class="license-code">{0}</td>
+									<td class="license-cont">{1}</td>
+									<td class="license-date">{2}</td>
+									<td class="license-result">{3}</td>
+									<td class="license-more">{4}</td>
+
+
+
+								</tr>
+								#for(x : softData.getList())
+								<tr>
+									<td class="license-code">#(x.soft_date)</td>
+									<td class="license-cont">#(x.soft_name)</td>
+									<td class="license-date">#(x.soft_abbre_name)</td>
+									<td class="license-result">#(x.soft_reg_num)</td>
+									<td class="license-more">#(x.soft_cat_num)</td>
+
+								</tr>
+								#end
+							</tbody>
+						</table>
+					</div>
+					<!--分页-->
+					<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
+ -->
+					#@paginateContent(softData.pageNumber,softData.totalPage, "./",
+					companyData.code)
+				</div>
+			</div>
+			<!--网站信息-->
+			<div class="web">
+				<div class="panel-head title-lg" id="webInfo"
+					data-company-no="16075739037152561999330634260113">
+					<div class="icon-title">
+						<i class="icon icon-bang-lg bg-success"></i>网站备案信息(#(webData.totalRow))
+					</div>
+					<p class="get-new-p ">
+						更新时间<span class="license-update-date update-date-time">2018-04-20</span>
+					</p>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+				</div>
+				<div class="panel-body license-info">
+					<!--正常显示-->
+					<div class="no-data-style license-no-data hide">
+						<p>
+							企业招投标信息，请<a href="javascript:;">点击查看</a>
+						</p>
+					</div>
+					<div class="license-cont-in ">
+						<table class="table9">
+							<tbody>
+								<tr class="bg-silver">
+									<td class="license-code">审核日期</td>
+									<td class="license-date">网站名称</td>
+									<td class="license-date">网站首页</td>
+									<td class="license-date">域名</td>
+									<td class="license-more">备案号</td>
+									<td class="license-date">状态</td>
+									<td class="license-date">单位性质</td>
+
+								</tr>
+							</tbody>
+						</table>
+						<table class="table9 license-content">
+							<tbody>
+								<tr data-model="">
+									<td class="license-code">{0}</td>
+									<td class="license-date">{1}</td>
+									<td class="license-date">{2}</td>
+									<td class="license-result">{3}</td>
+									<td class="license-more">{4}</td>
+									<td class="license-result">{5}</td>
+									<td class="license-more">{6}</td>
+
+
+
+								</tr>
+								#for(x : webData.getList())
+								<tr>
+									<td class="license-code">#(x.web_date)</td>
+									<td class="license-date">#(x.web_name)</td>
+									<td class="license-date">#(x.web_index)</td>
+									<td class="license-date">#(x.web_domain)</td>
+									<td class="license-more">#(x.web_record)</td>
+									<td class="license-date">#(x.web_status)</td>
+									<td class="license-date">#(x.web_property)</td>
+
+								</tr>
+								#end
+							</tbody>
+						</table>
+					</div>
+					<!--分页-->
+					<!--                             <div class="page" id="licensePage" data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}"><a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a class="page-item active" data-page="1" href="javascript:void(0)">1</a><a class="page-item" data-page="2" href="javascript:void(0)">2</a><a class="page-item" data-page="2" href="javascript:void(0)">&gt;</a></div>
+ -->
+					#@paginateContent(webData.pageNumber,webData.totalPage, "./",
+					companyData.code)
+				</div>
+			</div>
+		</div>
+
+		<!--声明-->
+		<div class="panel shengming">
+			<div class="panel-body text-silver">
+				<font class="text-success">免责声明：</font>由于网络信息更新速度快、来源较多，当您在使用本系统所提供的信息时，企业的信息可能已经发生变更，请在使用系统前提供的信息前，慎重核实，本系统不做任何形式的保证和担保。所有信息来源于网络，本系统不对内容的真实性、准确性和合法性负责，请用户慎重选择使用该信息。<br>
+				投诉方式：<font class="text-success">xycx@test.com</font>
+				，是处理侵权投诉的专用邮箱，在您的合法权益受到侵害时，请您尽快联系工作人员处理，我们会在5个工作日内给您答复，感谢您对本系统信用的关注与支持！
+			</div>
+		</div>
+	</div>
+	<input type="hidden" value="cabe75387416bdce9fc2af48000527b1"
+		id="digest">
+
+	<div class="container-right">
+		<!--         <div class="panel concat-admin" style="display:none;">
         <div class="panel-head title-lg">我是企业主</div>
         <div class="panel-body">
             <div class="bg-success">
@@ -287,7 +342,7 @@
     </div> -->
 
 
-<!--     <div class="panel concat-other">
+		<!--     <div class="panel concat-other">
         <div class="panel-head title-lg">其他联系方式</div>
         <div class="panel-body">
             <div class="list">
@@ -300,9 +355,9 @@
         </div>
     </div> -->
 
-    <div class="ewm128" id="company_open_contact"></div>
-        
-   <!--  <div class="panel">
+		<div class="ewm128" id="company_open_contact"></div>
+
+		<!--  <div class="panel">
         <div class="panel-head title-lg">举报失信企业</div>
         <div class="panel-body">
             <img src="./知识产权_files/more_right_report.png">
@@ -310,7 +365,7 @@
         </div>
     </div> -->
 
-   <!--     <div class="panel">
+		<!--     <div class="panel">
              <div class="panel-head title-lg">企业图谱</div>
             <div class="panel-body" id="relation_chart">
                 <img src="#(ctx_path)/static/home/detail/more_right_map.png">
@@ -320,7 +375,8 @@
         </div>-->
 
 
-<!--      <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
+		<!--      <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国查询此企业是否失信"><img class="item" src="#(ctx_path)/static/home/detail/creditchina.PNG"></a>
  -->
-</div></div>
+	</div>
+</div>
 #end

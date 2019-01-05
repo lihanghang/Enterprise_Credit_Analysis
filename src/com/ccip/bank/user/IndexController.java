@@ -24,7 +24,7 @@ public class IndexController extends Controller {
 	public void index() {
 		// long l = System.currentTimeMillis();
 		String serverIp = getRequest().getRemoteAddr();
-		System.out.println("访问 ip地址 ：" + serverIp);
+		System.out.println("请求IP地址 ：" + serverIp);
 		render("index.html");
 	}
 
@@ -39,6 +39,9 @@ public class IndexController extends Controller {
 		render("./company/companyList.html");
 	}
 
+	
+	
+	
 	/*
 	 * login 0309 Author:Mason param：username/passwd/type
 	 */

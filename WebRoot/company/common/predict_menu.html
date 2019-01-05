@@ -2,189 +2,206 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
-    <meta name="renderer" content="webkit">
-    <meta name="CCIP" content="CCI实验室课题组2017--2018">
-    <title>企业信息查询与智能分析系统</title>
-    <meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
-    <meta name="Keywords" content="企业信用与智能分析">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet"  href="#(ctx_path)/static/home/list/Shuidi_PCSearch.css" type="text/css">
-    <link rel="shortcut icon" href="#(ctx_path)/static/home/index/images/icon.png" />
-    <link rel="stylesheet" href="#(ctx_path)/static/home/index/css/bootstrap.min.css">
-    <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap.css"> 
-    <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap-table.css">
-    <link rel="stylesheet" href="#(ctx_path)/static/common/dist/css/layui.css"  media="all">
-    <link rel="stylesheet" href="#(ctx_path)/static/home/predict/css/xypj/upload.css"  media="all">
-    
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="CCIP" content="CCI实验室课题组2017--2018">
+<title>企业信息查询与智能分析系统</title>
+<meta name="Description" content="智能分析功能基于动态自组织记忆网络的智能推理系统">
+<meta name="Keywords" content="企业信用与智能分析">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet"
+	href="#(ctx_path)/static/home/list/Shuidi_PCSearch.css" type="text/css">
+<link rel="shortcut icon"
+	href="#(ctx_path)/static/home/index/images/icon.png" />
+<link rel="stylesheet"
+	href="#(ctx_path)/static/home/index/css/bootstrap.min.css">
+<link rel="stylesheet"
+	href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap.css">
+<link rel="stylesheet"
+	href="#(ctx_path)/static/home/predict/css/dhyj/bootstrap-table.css">
+<link rel="stylesheet"
+	href="#(ctx_path)/static/common/dist/css/layui.css" media="all">
+<link rel="stylesheet"
+	href="#(ctx_path)/static/home/predict/css/xypj/upload.css" media="all">
+
 </head>
 <style>
+#slide-demo-1 {
+	position: relative;
+	width: 640px;
+	height: 35px;
+}
 
-    #slide-demo-1 {
-        position:relative;
-        width: 640px;
-        height: 35px;
-    }
-    #slide-demo-1 .ui-switchable-content {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        font-size: 25px;
-        font-family: "宋体";
-        
-    }
-    #slide-demo-1 .ui-switchable-content .ui-switchable-panel {
-        position: relative;
-        width: 640px;
-        height: 35px;
-       
-    }
-    #slide-demo-1 .ui-switchable-content .ui-switchable-panel img {
-        margin-left: -660px;
-    }
-    .ui-switchable-content var {
-        max-width: 560px;
-        
-    }
-    /*头部样式*/
-	.c-header {
-    z-index: 999; 
-    width: 100%;
-    background: #ddd;
-    box-shadow: 2px 2px 5px #d6dde7;
-    position: relative;
+#slide-demo-1 .ui-switchable-content {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 25px;
+	font-family: "宋体";
 }
-    ul.c-header-nav {
-    
-    position: relative;
-    height: 1rem;
-    overflow: hidden;
-    margin: 0 auto;         
-    max-width: 900px;
-    height: 50px;
-    /* color: #595757 */;
-    font-size: 18px;
-    line-height: 50px;
-   /*  overflow: hidden; */
+
+#slide-demo-1 .ui-switchable-content .ui-switchable-panel {
+	position: relative;
+	width: 640px;
+	height: 35px;
 }
+
+#slide-demo-1 .ui-switchable-content .ui-switchable-panel img {
+	margin-left: -660px;
+}
+
+.ui-switchable-content var {
+	max-width: 560px;
+}
+/*头部样式*/
+.c-header {
+	z-index: 999;
+	width: 100%;
+	background: #ddd;
+	box-shadow: 2px 2px 5px #d6dde7;
+	position: relative;
+}
+
+ul.c-header-nav {
+	position: relative;
+	height: 1rem;
+	overflow: hidden;
+	margin: 0 auto;
+	max-width: 900px;
+	height: 50px;
+	/* color: #595757 */;
+	font-size: 18px;
+	line-height: 50px;
+	/*  overflow: hidden; */
+}
+
 ul.c-header-nav li {
-    position: relative;
-    float: left;
-    text-align: center;
-    padding: 0 30px;
+	position: relative;
+	float: left;
+	text-align: center;
+	padding: 0 30px;
 }
+
 ul.c-header-nav.tight li {
-    padding: 0 18px;
-    margin-left:19px;
-    
+	padding: 0 18px;
+	margin-left: 19px;
 }
+
 ul.c-header-nav li a {
-color:#1cbb9b;display:inline-block;font-size:18px;font-weight:bold;cursor:pointer;_padding:0 10px;height:39px;line-height:39px;white-space:nowrap;}
+	color: #1cbb9b;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: bold;
+	cursor: pointer;
+	_padding: 0 10px;
+	height: 39px;
+	line-height: 39px;
+	white-space: nowrap;
+}
+
 ul.c-header-nav li a:hover {
-height:39px;line-height:39px;border-top:2px solid #337ab7;overflow:hidden;}
+	height: 39px;
+	line-height: 39px;
+	border-top: 2px solid #337ab7;
+	overflow: hidden;
+}
+
 ul.c-header-nav li.active a {
-    color: #40c9b3;
+	color: #40c9b3;
 }
+
 ul.c-header-nav li:nth-child(3)::before {
-    content: '|';
-    position: absolute;
-    top: -1px;
-    left: 1px;
+	content: '|';
+	position: absolute;
+	top: -1px;
+	left: 1px;
 }
+
 .c-wrapper {
-    width: 1000px;
-    margin: 0 auto;
-}
-.hd-information{
-    height: 35px;
-    background-color: #333;
-    color: #e9e9e9;
-    line-height: 35px;
-    font-size: 15px;
-    /* overflow: hidden; */
-    
-}
-.nologin{
-    float: right;
-}
-.nologin a{
-    color: green;
-    padding: 0 15px;
+	width: 1000px;
+	margin: 0 auto;
 }
 
-
-
-<!-- tab 切换样式自定义 -->
-.tab .nav-tabs {
-border-bottom: 0 none;
-background: #eaeaea;
+.hd-information {
+	height: 35px;
+	background-color: #333;
+	color: #e9e9e9;
+	line-height: 35px;
+	font-size: 15px;
+	/* overflow: hidden; */
 }
 
-.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-background: transparent;
-border-radius: 0;
-font-size: 16px;
-border: none;
-color: green;
-padding: 12px 22px;
-font-weight: bold;
+.nologin {
+	float: right;
+}
 
+.nologin a {
+	color: green;
+	padding: 0 15px;
+}
+
+<!--
+tab 切换样式自定义 -->.tab .nav-tabs {
+	border-bottom: 0 none;
+	background: #eaeaea;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus
+	{
+	background: transparent;
+	border-radius: 0;
+	font-size: 16px;
+	border: none;
+	color: green;
+	padding: 12px 22px;
+	font-weight: bold;
 }
 </style>
 
 <body>
- 
-<div class="c-header">
-    <div class="hd-information">
-        <div class="hd-center">     
-    <div class="clearfix fl">
-        <div id="slide-demo-1" class="slide-demo fl">
-            <ul class="ui-switchable-content" data-role="content">   
-           		企业信息查询与智能分析推理系统_V1.0                    
-            </ul>
-        </div>
-    </div>
-       <div class="nologin">
-                <div class="clearfix fr" >
-                    <a href="javascript:" class="nologin-log fl">用户：#(session.user)</a>
-                                        <span class="fl" style="color:green">|</span>
-                    <a href="#(ctx_path)/logout" class="nologin-reg fl">退出</a>
-                                    </div>
-            </div>
-                    </div>
-    </div>
-    <div class="c-wrapper">
-        <!-- <a href="/" class="c-fl c-header-logo">
+
+	<div class="c-header">
+		<div class="hd-information">
+			<div class="hd-center">
+				<div class="clearfix fl">
+					<div id="slide-demo-1" class="slide-demo fl">
+						<ul class="ui-switchable-content" data-role="content">
+							企业信息查询与智能分析推理系统_V1.0
+						</ul>
+					</div>
+				</div>
+				<div class="nologin">
+					<div class="clearfix fr">
+						<a href="javascript:" class="nologin-log fl">用户：#(session.user)</a>
+						<span class="fl" style="color: green">|</span> <a
+							href="#(ctx_path)/logout" class="nologin-reg fl">退出</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="c-wrapper">
+			<!-- <a href="/" class="c-fl c-header-logo">
             <img src="http://os.alipayobjects.com/rmsportal/tRXwaSFWzAHtvRn.png">
         </a> -->
-<ul class="c-fr c-cf c-header-nav tight">  
-    <li >
-        <a href="#(ctx_path)/">首页</a>
-    </li>
-    <li>
-        <a class="home" href="#(ctx_path)/predict/xypj">企业信用评级<sup style="line-height:1em; padding-left:1px; margin-right:-10px;">beta</sup></a>
-    </li>
-    <li >
-        <a href="#(ctx_path)/predict/hydt">行业动态预测</a>
-    </li>
-    
-    <li >
-        <a href="#(ctx_path)/predict/kytr">科研投入推荐</a>
-    </li>
-    
-    <li >
-        <a href="#(ctx_path)/predict/dhyj">贷后预警</a>
-    </li>
-    
-    <li >
-        <a href="#(ctx_path)/predict/fxpg">风险评估</a>
-    </li> 
-    
-</ul>
-</div>
-</div>
-<!-- <div class="nav">
+			<ul class="c-fr c-cf c-header-nav tight">
+				<li><a href="#(ctx_path)/">首页</a></li>
+				<li><a class="home" href="#(ctx_path)/predict/xypj">企业信用评级<sup
+						style="line-height: 1em; padding-left: 1px; margin-right: -10px;">beta</sup></a>
+				</li>
+				<li><a href="#(ctx_path)/predict/hydt">行业动态预测</a></li>
+
+				<li><a href="#(ctx_path)/predict/kytr">科研投入推荐</a></li>
+
+				<li><a href="#(ctx_path)/predict/dhyj">贷后预警</a></li>
+
+				<li><a href="#(ctx_path)/predict/fxpg">风险评估</a></li>
+
+			</ul>
+		</div>
+	</div>
+	<!-- <div class="nav">
     <div class="container">
         <a href="#(ctx_path)/"><span style="font-size:20px;font-weight:900">企业信息查询与智能分析系统</span></a>
         <div class="link-box">
@@ -222,46 +239,45 @@ font-weight: bold;
         </div>  
     </div>
 </div> -->
-<!--END head 通用头部 -->
+	<!--END head 通用头部 -->
 
-#@predict_main()
+	#@predict_main()
 
-    <!-- footer -->
-<div class="sd_index_footer">
-    <div class="sd_company_container">
-        <div class="sd_index_foot_second">
-            <div class="sd_index_foot_s1">
-                <h4>企业信息查询和智能分析系统</h4>
-               <div>
-                   <a href="http://ccip.ucas.ac.cn/">关于我们</a>
-                   <a href="#">帮助中心</a>
-                   <a href="#(ctx_path)/admin/login"><span style="color:#00ae64">管理员入口</span></a>
-               </div>
-            </div>
-            <div class="sd_index_foot_s2">
-                <h4>联系我们</h4>
-                <p class="sd_p2">123456789</p>
-                <p class="sd_p3">ccip@ucas.ac.cn</p>
-            </div>
-            <div class="sd_index_foot_s3">
-                <h4>数据来源</h4>
-                <div>
-                    <span><a href="http://www.gsxt.gov.cn/index.html" target="_blank">全国企业信用信息公示系统</a></span>
-                    <span><a href="http://www.sipo.gov.cn/" target="_blank">国家知识产权局</a></span>
-                    <span><a href="https://www.tianyancha.com" target="_blank">天眼查</a></span>
-                    <span><a href="#">中关村高新企业信用报告</a></span>
-                    <br>
-                </div>
-            </div>
-        </div>
-        <div class="sd_index_foot_copy">
-            <p>Copyright © 2017-2018 CCIP实验室课题组 保留所有权利 </p>
-        </div>
-    </div>
-</div>
+	<!-- footer -->
+	<div class="sd_index_footer">
+		<div class="sd_company_container">
+			<div class="sd_index_foot_second">
+				<div class="sd_index_foot_s1">
+					<h4>企业信息查询和智能分析系统</h4>
+					<div>
+						<a href="http://ccip.ucas.ac.cn/">关于我们</a> <a href="#">帮助中心</a> <a
+							href="#(ctx_path)/admin/login"><span style="color: #00ae64">管理员入口</span></a>
+					</div>
+				</div>
+				<div class="sd_index_foot_s2">
+					<h4>联系我们</h4>
+					<p class="sd_p2">123456789</p>
+					<p class="sd_p3">ccip@ucas.ac.cn</p>
+				</div>
+				<div class="sd_index_foot_s3">
+					<h4>数据来源</h4>
+					<div>
+						<span><a href="http://www.gsxt.gov.cn/index.html"
+							target="_blank">全国企业信用信息公示系统</a></span> <span><a
+							href="http://www.sipo.gov.cn/" target="_blank">国家知识产权局</a></span> <span><a
+							href="https://www.tianyancha.com" target="_blank">天眼查</a></span> <span><a
+							href="#">中关村高新企业信用报告</a></span> <br>
+					</div>
+				</div>
+			</div>
+			<div class="sd_index_foot_copy">
+				<p>Copyright © 2017-2018 CCIP实验室课题组 保留所有权利</p>
+			</div>
+		</div>
+	</div>
 
 
-<!-- <script>
+	<!-- <script>
     var _hmt = _hmt || [];
     (function() {
         var hm = document.createElement("script");
@@ -270,31 +286,38 @@ font-weight: bold;
         s.parentNode.insertBefore(hm, s);
     })();
 </script> -->
-<div id="pmt-background"></div>
-<input type="hidden" value="" id="digest">
+	<div id="pmt-background"></div>
+	<input type="hidden" value="" id="digest">
 
-<div id="free-pay-background"></div>
+	<div id="free-pay-background"></div>
 
 
-   	
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/jquery-1.7.1.min.js"></script> 
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/jrender.min.js"></script>
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/promise-7.0.4.min.js"></script>
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/Shuidi_PCSearch.js"></script>
-    <script  src="#(ctx_path)/static/home/predict/js/echarts.js" ></script>
-    <script type="text/javascript" src="#(ctx_path)/static/home/list/pa.1.0.js"></script>
-    <script src="#(ctx_path)/static/home/predict/js/bootstrap.min.js"></script>
-    <script  src="#(ctx_path)/static/home/predict/js/dataTool.js" ></script>
-    
-    <script  src="#(ctx_path)/static/home/predict/js/hydt/jquery.js" ></script>
-    <script  src="#(ctx_path)/static/home/predict/js/ajaxfileupload.js" ></script>
 
-        
-    
-     <!-- bootstrap-table组件引用-->   
-    <script src="#(ctx_path)/static/common/dist/layui.js" charset="utf-8"></script>
-	<div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/jquery-ui.min.js"></script>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/jrender.min.js"></script>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/promise-7.0.4.min.js"></script>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/Shuidi_PCSearch.js"></script>
+	<script src="#(ctx_path)/static/home/predict/js/echarts.js"></script>
+	<script type="text/javascript"
+		src="#(ctx_path)/static/home/list/pa.1.0.js"></script>
+	<script src="#(ctx_path)/static/home/predict/js/bootstrap.min.js"></script>
+	<script src="#(ctx_path)/static/home/predict/js/dataTool.js"></script>
+
+	<script src="#(ctx_path)/static/home/predict/js/hydt/jquery.js"></script>
+	<script src="#(ctx_path)/static/home/predict/js/ajaxfileupload.js"></script>
+
+
+
+	<!-- bootstrap-table组件引用-->
+	<script src="#(ctx_path)/static/common/dist/layui.js" charset="utf-8"></script>
+	<div role="status" aria-live="assertive" aria-relevant="additions"
+		class="ui-helper-hidden-accessible"></div>
 
 </body>
 </html>

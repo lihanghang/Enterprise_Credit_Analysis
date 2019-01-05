@@ -1,33 +1,50 @@
 //tab窗口切换0604 by Hang Hang Li
-function setTab(name, cursel) {
-	cursel_0 = cursel;
-	for (var i = 1; i <= links_len; i++) {
-		var menu = document.getElementById(name + i);
-		var menudiv = document.getElementById("con_" + name + "_" + i);
-		if (i == cursel) {
-			menu.className = "off";
-			menudiv.style.display = "block";
-		} else {
-			menu.className = "con_one_1";
-			menudiv.style.display = "none";
-		}
-	}
-}
-function Next() {
-	cursel_0++;
-	if (cursel_0 > links_len)
-		cursel_0 = 1
-	setTab(name_0, cursel_0);
-}
-var name_0 = 'one';
-var cursel_0 = 1;
-// var type = 0; 默认选中第一个行业
-var links_len, iIntervalId;
-onload = function() {
+function setTab(name,cursel){
 	var links = document.getElementById("tab1").getElementsByTagName('li')
-	links_len = links.length;
-	setTab(name_0, cursel_0);
+	 links_len=links.length;
+	console.log(cursel)
+ cursel_0=cursel;
+ for(var i=1; i<=links_len; i++){
+  var menu = document.getElementById(name+i);
+  var menudiv = document.getElementById("con_"+name+"_"+i);
+  if(i==cursel){
+   menu.className="off";
+   menudiv.style.display="block";
+  }
+  else{
+   menu.className="";
+   menudiv.style.display="none";
+  }
+ }
 }
+function Next(){
+    cursel_0++;
+    if (cursel_0>links_len) cursel_0=1
+    setTab(name_0,cursel_0);
+}
+var name_0='one';
+var cursel_0=1;
+//var type = 0; 默认选中第一个行业
+var links_len,iIntervalId;
+onload=function(){
+    var links = document.getElementById("tab1").getElementsByTagName('li')
+    links_len=links.length;
+    var funny = function(i){
+    links[i].onclick = function(){
+            console.log("第" + (i+1) + "个");
+        }
+    }    
+    /*for(var i=0; i<links_len; i++){        
+        type = i;
+        console.log(i)
+  // links[i].onmouseover=function(){
+  //  //clearInterval(iIntervalId);
+   
+  // }
+    }*/
+ setTab(name_0,cursel_0);
+}
+
 
 // 数据处理Js
 
@@ -102,6 +119,8 @@ function hyZonghe(type) {
 			}
 		},
 		toolbox : {
+			show: true,
+			right: '15%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -114,16 +133,15 @@ function hyZonghe(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					/*title : "切换", */// 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
-				// 'bar'（切换为柱状图）,
-				// 'stack'（切换为堆叠模式）,
-				// 'tiled'（切换为平铺模式）
+				 /*  'bar' : "切换为柱状模式",
+				   'line': "切换为折线模式"*/
 				},
 				dataView : { // 数据视图工具，可以展现当前图表所用的数据，编辑后可以动态更新
 					show : true, // 是否显示该工具。
-				// title:"数据视图",
-				// readOnly: false, //是否不可编辑（只读）
+				    title:"数据视图",
+				    readOnly: true, //是否不可编辑（只读）
 				// lang: ['数据视图', '关闭', '刷新'], //数据视图上有三个话术，默认是['数据视图', '关闭',
 				// '刷新']
 				// backgroundColor:"#fff", //数据视图浮层背景色。
@@ -313,8 +331,8 @@ function hyZonghe(type) {
 	var manager = []; // 经营效率
 	var increase = []; // 增长潜力
 	var years = []; // 横坐标：年份
-	$
-			.ajax({
+	
+	       $.ajax({
 				"url" : "./marketData", // 路径
 				"cache" : false, // 不缓存
 				"data" : {
@@ -359,9 +377,27 @@ function hyZonghe(type) {
 								+ "【经营效率】整体呈稳步上升态势，"
 								+ '<br>'
 								+ "【增长潜力】呈周期性波动，在经过2005年爆发式增长后，2006年开始有所下降，2008年基本回归历史平均水平后又开始恢复周期性波动。"
-					} else {
+					} else if(type == 1) {
 
-						element.innerHTML = "马上就完善！"
+						element.innerHTML = "2000-2016年，汽车制造业财务分析如下："
+							+ '<br>'
+							+ "【偿债能力】2000年呈最高位，从2001年起整体呈平缓趋势；"
+							+ '<br>'
+							+ "【盈利能力】自2000年开始均呈小幅变化，2016年呈 爆发式增长；"
+							+ '<br>'
+							+ "【经营效率】整体呈周期波动趋势;"
+							+ '<br>'
+							+ "【增长潜力】从2000年开始呈不断增长态势,2010年起呈平缓趋势。"
+					} else {
+						element.innerHTML = "2001-2016年，信心技术服务业财务分析如下："
+							+ '<br>'
+							+ "【偿债能力】整体呈周期性波动，从2013年呈小幅下降趋势；"
+							+ '<br>'
+							+ "【盈利能力】自2003年开始呈稳步上升台数，2006年趋于平缓，2013年开始呈下降趋势；"
+							+ '<br>'
+							+ "【经营效率】整体呈小幅变化;"
+							+ '<br>'
+							+ "【增长潜力】从2001年开始呈上升趋势，然后趋于平缓，2010年开始有所下降，2013年基本趋于平缓。"
 					}
 					pie3.hideLoading(); // 隐藏加载动画
 					pie3.setOption({ // 加载数据图表
@@ -421,6 +457,8 @@ function zengzhang(type) {
 			}
 		},
 		toolbox : {
+			show: true,
+			right: '5%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -433,7 +471,7 @@ function zengzhang(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -533,8 +571,8 @@ function zengzhang(type) {
 	var cold = []; // 偏冷线
 	var limit = []; // 适度下限
 	var years = []; // 横坐标：年份
-	$
-			.ajax({
+	
+			$.ajax({
 				"url" : "./marketData", // 路径
 				"cache" : false, // 不缓存
 				"data" : {
@@ -558,8 +596,10 @@ function zengzhang(type) {
 							+ type);
 					if (type == 0) {
 						element.innerHTML = "近10年来，房地产企业【增长潜力】一直未向下突破适度下限值，2004年之前增长潜力呈现周期性波动，个别年份出现增长潜力为负值的情况，2004年起增长潜力激增，并在2006年达到峰值，之后又迅速回落至10附近。"
-					} else {
-						element.innerHTML = "等着，马上就回来！"
+					} else if(type == 1){
+						element.innerHTML = "近17年来，汽车制造业【增长潜力】从2000年开始不断呈上升趋势，2010年达到历史最高值。2010年之后波动趋于平缓。"
+					}else{
+						element.innerHTML = "近16年来，信息技术服务业【增长潜力】2001年在适度下限以下。2002年之前整体呈上升趋势，2010年达到历史最高值。2010年之后，增长潜力不断下降，趋于平缓。"
 					}
 
 					var compute = maths(data['r2']); // 指标计算
@@ -617,6 +657,8 @@ function changzhai(type) {
 			}
 		},
 		toolbox : {
+			show: true,
+			right: '5%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -629,7 +671,7 @@ function changzhai(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -753,8 +795,10 @@ function changzhai(type) {
 			var element = document.getElementById("msg_changzhai_" + type);
 			if (type == 0) {
 				element.innerHTML = "近10年来，房地产企业的【偿债能力】不断下降，2015年起开始向下突破适度下限值。"
-			} else {
-				element.innerHTML = "等着，马上就回来！"
+			} else if(type == 1){
+				element.innerHTML = "近17年来，汽车制造业【偿债能力】一直在适度下限值之上波动。2001年之前整体呈下降趋势，2001年达到历史最低值。2001年之后波动趋于平缓。"
+			}else{
+				element.innerHTML = "近16年来，信息技术服务业【偿债能力】2002年接近适度下限值临界值。2008年之前整体呈上升趋势，2008年达到历史最高值。2008年之后，偿债能力不断下降。"
 			}
 			var compute = maths(data['r3']); // 指标计算 偏冷热线数据计算
 
@@ -813,6 +857,8 @@ function yingli(type) {
 			},
 		},
 		toolbox : {
+			show: true,
+			right: '5%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -825,7 +871,7 @@ function yingli(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -953,8 +999,10 @@ function yingli(type) {
 					var element = document.getElementById("msg_yingli_" + type);
 					if (type == 0) {
 						element.innerHTML = "近10年来，房地产企业【盈利能力】一直在适度下限值之上波动。2004年之前整体呈下降趋势，2004年达到历史最低值。2004年之后，盈利能力不断攀升，2011年达到峰值后逐渐回落。"
-					} else {
-						element.innerHTML = "等着，马上就回来！"
+					} else if(type == 1){
+						element.innerHTML = "近17年来，汽车制造业【盈利能力】一直在适度下限值之上波动。2015年之前整体呈 平缓趋势，2015年后不断增长达到峰值。"
+					}else{
+						element.innerHTML = "近16年来，信息技术服务业【盈利能力】一直在适度下限值之上波动。2005年之前整体呈上升趋势，2005年达到历史最高值。2005年之后，盈利能力不断下降后趋于平缓。"
 					}
 					var compute = maths(data['r1']); // 指标计算
 					pie8.hideLoading(); // 隐藏加载动画
@@ -1011,6 +1059,8 @@ function jingying(type) {
 			}
 		},
 		toolbox : {
+			show: true,
+			right: '5%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -1023,7 +1073,7 @@ function jingying(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -1127,8 +1177,8 @@ function jingying(type) {
 	var cold = []; // 偏冷线
 	var limit = []; // 适度下限
 	var years = []; // 横坐标：年份
-	$
-			.ajax({
+	
+			$.ajax({
 				"url" : "./marketData", // 路径
 				"cache" : false, // 不缓存
 				"data" : {
@@ -1151,8 +1201,10 @@ function jingying(type) {
 							+ type);
 					if (type == 0) {
 						element.innerHTML = "近10年来，房地产企业的【经营效率】不断提升，且一直位于适度下限值之上，2005年以来增长较快。"
-					} else {
-						element.innerHTML = "等着哟，马上写完！"
+					} else if(type==1){
+						element.innerHTML = "近17年来，汽车制造业的【经营效率】呈现周期性变化，且一直位于适度下限值之上，2009年以来增长较快,2011年后趋于平缓。"
+					}else{
+						element.innerHTML = "近16年来，信息技术服务业的【经营效率】 趋于平缓，但一直位于适度下限值之上，2011年以来出现了一次小高峰。"
 					}
 
 					var compute = maths(data['r4']); // 指标计算
@@ -1338,6 +1390,8 @@ $(document).ready(
 								}
 							},
 							toolbox : {
+								show: true,
+								right: '5%',
 								feature : {
 									restore : {
 										show : true, // 是否显示该工具。
@@ -1350,7 +1404,7 @@ $(document).ready(
 									},
 									magicType : { // 动态类型切换
 										show : true,
-										title : "切换", // 各个类型的标题文本，可以分别配置。
+//										title : "切换", // 各个类型的标题文本，可以分别配置。
 										type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 									// 'bar'（切换为柱状图）,
 									// 'stack'（切换为堆叠模式）,
@@ -1390,7 +1444,11 @@ $(document).ready(
 									lineStyle : {
 										color : [ '#D4DFF5' ]
 									}
-								}
+								},
+								nameTextStyle:{						          
+						            fontSize:12,  
+						            padding:10
+						        }
 							},
 							yAxis : [ {
 								type : 'value',
@@ -1609,6 +1667,8 @@ $(document).ready(
 								}
 							},
 							toolbox : {
+								show: true,
+								right: '5%',
 								feature : {
 									restore : {
 										show : true, // 是否显示该工具。
@@ -1621,7 +1681,7 @@ $(document).ready(
 									},
 									magicType : { // 动态类型切换
 										show : true,
-										title : "切换", // 各个类型的标题文本，可以分别配置。
+										//title : "切换", // 各个类型的标题文本，可以分别配置。
 										type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 									// 'bar'（切换为柱状图）,
 									// 'stack'（切换为堆叠模式）,
@@ -1661,7 +1721,12 @@ $(document).ready(
 									lineStyle : {
 										color : [ '#D4DFF5' ]
 									}
-								}
+								},
+								nameTextStyle:{						          
+						            fontSize:12,  
+						            padding:10
+						        }
+							
 							},
 							yAxis : [ {
 								type : 'value',
@@ -1886,6 +1951,8 @@ function hecheng(type) {
 			},
 		},
 		toolbox : {
+			show: true,
+			right: '15%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -1898,7 +1965,7 @@ function hecheng(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -1936,6 +2003,11 @@ function hecheng(type) {
 					width : 1
 				}
 			},
+			
+			nameTextStyle:{						          
+	            fontSize:12,  
+	            padding:10
+	        },
 			axisLine : {},
 		},
 		yAxis : [ {
@@ -2195,6 +2267,8 @@ function kuosan(type) {
 			},
 		},
 		toolbox : {
+			show: true,
+			right: '10%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -2207,7 +2281,7 @@ function kuosan(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,
@@ -2499,6 +2573,8 @@ function yujing(type) {
 			}
 		},
 		toolbox : {
+			show: true,
+			right: '5%',
 			feature : {
 				restore : {
 					show : true, // 是否显示该工具。
@@ -2511,7 +2587,7 @@ function yujing(type) {
 				},
 				magicType : { // 动态类型切换
 					show : true,
-					title : "切换", // 各个类型的标题文本，可以分别配置。
+					//title : "切换", // 各个类型的标题文本，可以分别配置。
 					type : [ 'line', 'bar' ], // 启用的动态类型，包括'line'（切换为折线图）,
 				// 'bar'（切换为柱状图）,
 				// 'stack'（切换为堆叠模式）,

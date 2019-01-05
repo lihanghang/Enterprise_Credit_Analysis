@@ -188,10 +188,22 @@ $('#btn').click(function(){
     {
      if(document.form1.elements[i].value=="")
      {
-       alert("请填写完整数据信息！");
+    	 layui.use(['layer', 'form'], function(){
+ 			//提示层
+ 			layer.msg('请填写完整数据信息！')
+ 		});	 
        document.form1.elements[i].focus();
        return false;
      }
+  // 限制只输入数字
+     var reg = /^[0-9]+$/; 
+     if(document.form1.elements[i].value!=""&&!reg.test(document.form1.elements[i].value)){ 
+    	 layui.use(['layer', 'form'], function(){
+ 			//提示层
+ 			layer.msg('请输入数值型数据！')
+ 		});	 
+     return false; 
+     } 
  }
 
 // get radio val
