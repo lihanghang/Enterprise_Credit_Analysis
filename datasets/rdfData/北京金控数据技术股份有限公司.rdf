@@ -1,0 +1,1967 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京金控数据技术股份有限公司的企业概况">
+    <enterprise:有名称>北京金控数据技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020008578204</enterprise:有中征码>
+    <enterprise:有基本账户开户行>从业人数（人）</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>81</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>1000.00</enterprise:有股本>
+    <enterprise:有经营范围>专业承包；工程勘察设计；工程设计；技术开发、技术转让、技术咨询、技术推广；工业自动化系统技术服务；基础软件服务；应用软件服务；计算机系统集成；合同能源管理；软件开发；销售机械设备、电子产品；货物进出口、代理进出口、技术进出口；工程和技术研究与试验发展。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）专业承包；工程勘察设计；工程设计；技术开发、技术转让、技术咨询、技术推广；工业自动化系统技术服务；基础软件服务；应用软件服务；计算机系统集成；合同能源管理；软件开发；销售机械设备、电子产品；货物进出口、代理进出口、技术进出口；工程和技术研究与试验发展。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>污水处理厂自动控制系列软件的销售、系统集成、技术开发</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区西三环北路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区西三环北路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100048</enterprise:有邮政编码>
+    <enterprise:有联系人>翁惠容</enterprise:有联系人>
+    <enterprise:有联系电话>13241991388</enterprise:有联系电话>
+    <enterprise:有传真电话>010-51520136</enterprise:有传真电话>
+    <enterprise:有E-mail>jinkongauto@sina.com</enterprise:有E-mail>
+    <enterprise:有网址>http://www.jinkongauto.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京金控数据技术股份有限公司（以下
+简称“公司”）前身为北京金控自动化技术
+有限公司，于 2008年 9月 25日在北京市工
+商行政管理局海淀分局注册成立。2015年 6
+月，公司进行了股份制改造，变更为现用名；
+2015年 11月，公司在新三板挂牌，证券简
+称“金控数据”，证券代码“834268”。
+公司初始注册资本 50.00万元，由自然
+人杨斌和翁惠容共同出资，经数次增资及股
+权变更，截至评级时点，公司注册资本
+1000.00万元，实收资本 1000.00万元，股东
+出资及持股比例为：自然人杨斌出资 717.20
+万元，持股 71.72%；自然人翁惠容出资 93.60
+万元，持股 9.36%；陈佳、郑晓晶、杨娜等
+22 名自然人股东出资 189.20 万元，持股
+18.92%。
+公司经营范围：“专业承包；工程勘察
+设计；技术开发、技术转让、技术咨询、技
+术服务、技术推广；基础软件服务；应用软
+件服务；计算机系统服务；合同能源管理；
+软件开发；销售机械设备、电子产品；货物
+进出口、代理进出口、技术进出口；工程和
+技术研究与试验发展。（企业依法自主选择
+经营项目，开展经营活动；依法须经批准的
+项目，经相关部门批准后依批准的内容开展
+经营活动；不得从事本市产业政策禁止和限
+制类项目的经营活动。）”目前，公司主营
+业务为污水处理厂自动控制系列软件的销
+售、系统集成、技术开发。
+截至 2016 年 8 月底，公司资产总额为
+5609.71万元，所有者权益为 745.23万元；
+2015年，公司实现营业收入 2859.59万元，
+利润总额 75.94万元；2016年 1~8月，公司
+实现营业收入 907.88万元，利润总额-350.49
+万元。公司现有员工 81 人，在北京市属于
+小型企业。
+公司注册及经营地址：北京市海淀区西
+三环北路 91号 7号楼 3 层 C03室；统一社
+会信用代码：911101086804563776；开户银
+行：中国工商银行股份有限公司北京公主坟
+支行，账号：0200004609200070710；法定
+代表人：杨斌；营业期限：自 2008年 9 月
+25日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京金控数据技术股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、董事长兼总经理杨
+斌，36岁，硕士研究生学历，中级工程师，
+一级建造师。2004年 9月~2007年 7月，中
+自控（北京）环境工程有限公司任项目经理；
+2008年 9月至今，任公司法定代表人、董事
+长兼总经理。同时，杨斌先生已获得 1项发
+明专利、2项实用新型专利，曾在《城市建
+设理论研究》发表多篇论文。
+公司副总经理张波，39岁，本科学历，
+中级工程师。2001年~2003年，中国自动化
+控制系统总公司任工程师；2003 年~2008
+年，中自控（北京）环境工程有限公司任工
+程部经理；2008年~2010年，施耐德（中国）
+投资有限公司任技术主管；2011年~2012年，
+中自控（北京）环境工程有限公司任副总裁；
+2013年至今，任公司副总经理。
+公司副总经理刘萌，硕士研究生学历，
+2011年 11月~2013 年 2 月，瑞斯康达科技
+股份有限公司任研发人员；2013 年 2 月至
+今，任公司副总经理，主要负责研发工作。
+公司财务总监翁惠容，33岁，硕士研究
+生学历，注册会计师，中级会计师。2008
+年 8月~2009年 7月，北京四达时代软件技
+术股份有限公司任会计；2009年 8月~2013
+年6月，兴业银行北京分行任综合柜员；2013
+年 6月至今，任公司财务总监。
+总体看，公司高管学历水平高，从业及
+管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 81 人。
+从学历构成看，员工中本科及以上学历者占
+比 77.78%，员工学历水平高；从年龄构成
+看，员工年龄在 25~45岁之间占比 82.72%，
+员工年龄以中青年为主；从岗位构成看，员
+工中管理人员占比 39.51%、技术人员占比
+45.68%、其他人员占比 14.81%，岗位构成
+符合高新技术企业特点。
+总体看，公司员工学历水平高，员工年
+龄以中青年为主，岗位构成符合高新技术企
+业特点。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，内设智慧水务事
+业部，主要负责公司产品的研发、测试等。
+近三年，公司研发投入分别为 265.83
+万元、157.10万元、223.70万元，占当年营
+业收入的 32.62%、11.13%、7.82%，主要用
+于支付研发人员工资和采购研发设备及材
+料等，公司研发投入力度较大。
+总体看，公司研发投入力度较大，科研
+条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>265.83万元,157.10万元,223.70万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>32.62%,11.13%,7.82%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京金控数据技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址位于北京市海淀区西三
+环北路 91号 7号楼 3 层 C03、05室，租赁
+面积 150.94平方米，用于办公用途，该经营
+地办公设施齐全，交通便利。
+公司 2011年成立，拥有“KingTrol”、
+“工况”、“数矿”三项注册商标，是国家
+高新技术企业（证书编号：GF201311000451，
+有效期至 2016年 11月）、中关村高新技术
+企业（证书编号：20152010102501，有效期
+至 2018年 8 月）。公司曾获《软件企业认
+定证书》、《建筑施工安全生产许可证》、
+《中关村企业信用促进会会员证书》等多项
+荣誉资质，资质较为齐全。
+总体看，公司经营条件好，资质较为齐
+全。
+（二）业务运营
+1.主要业务
+公司是一家专业从事工业自动化控制
+系统 、信息管理及智能控制系统的设计、
+研发和销售的高新技术企业。公司立足于服
+务水务行业，根据客户的不同需求为客户提
+供全方位、专业化、定制化的工业自动化、
+信息化解决方案。目前公司主要客户包括各
+类污水处理厂、自来水厂、工业废水处理厂
+以及现代工业企业、科研院校等。未来，公
+司将继续深化对客户的信息化管理服务，致
+力于水务、环保、现代工业等领域的大数据
+平台建设。
+2015年，公司销售收入主要来源于三部
+分，分别为污水处理厂自动控制系列软件、
+系统集成、技术服务，其销售金额分别占比
+当年营业收入的 22.43%、73.61%、3.96%。
+各项毛利润分别为 50.29%、41.22%、8.48%。
+2.采购模式
+从采购方面看，公司采用以销定采的零
+库存模式，采购原料主要用于系统集成业
+务，采购产品包括可编程逻辑控制器
+（PLC）、变频柜、高低压柜、仪器仪表等。
+公司主要采购区域在北京地区，采购周期在
+3-8 周，与合作客户均达成长期战略合作协
+议，主要供货商有北京中海汇通科技有限公
+司、天津津开电气有限公司、北京科力华源
+科技有限公司、北京邦正巨元自动化设备有
+限公司等，付款方式一般为预付 20%货款，
+到货后支付 30%，验收合格后支付 30%，剩
+余 20%的质保金。
+3.销售模式
+目前公司销售渠道为参加公开招投标
+或政府采购，污水自动控制软件与系统集成
+可捆绑销售也可分开销售。公司污水控制系
+统集成项目周期通畅在 3~6个月，公司与客
+户在项目合同中约定的结算方式通常为预
+收项目款 30%，供货后收款 30%，项目验收
+合格后收款 30%，剩余 10%的质保金，质保
+期通常在 1~2年。由于公司业务多为市政项
+目，科技主要为各地区的政府单位、国家级
+科学研究院和大型环保企业，客户在合作中
+通常处于强势地位，因此在业务的实际运作
+中，下游客户多集中在年末向公司支付项目
+尾款，对公司资金周转造成一定影响，但形
+成坏账的风险较小。
+总体看，公司主营业务突出，上下游渠
+道通畅，业务运营情况较好。
+（三）经营效率
+表 2 公司近三年主要经营指标
+经营指标 2013年 2014年 2015年
+成本率(%) 104.80 101.04 101.96
+管理费用率(%) 25.32 29.17 22.23
+应收账款周转次数(次) 7.17 5.06 3.10
+存货周转次数(次) 3.43 2.53 5.58
+总资产周转次数(次) 0.51 0.75 1.18
+资料来源：公司提供，中企信用整理。
+近三年，公司成本率居高不下，处于行
+业高水平，成本费用控制水平亟待加强；同
+期，管理费用率呈波动下降趋势，处于行业
+一般水平。
+近三年，公司存货周转次数加权平均值
+为 4.23次，处于行业中等水平；同期，应收
+账款周转次数加权平均值为 4.50次，处于行
+业一般水平；同期，总资产周转次数加权平
+均值为 0.92次，处于行业较低水平。
+总体看，公司经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中华人民共和国公司法》及
+其他有关规定，制订了《北京金控数据技术
+股份有限公司章程》。
+股东大会是公司的权力机构，行使决定
+公司的经营方针和投资计划、审议批准董事
+会的报告等职权。
+公司设董事会，对股东大会负责，董事
+会由 5名董事组成，设董事长 1人，董事会
+行使召集股东大会，并向股东大会报告工作
+等职权。
+公司设监事会，监事会由3名监事组成，
+设监事会主席 1名，监事会行使检查公司财
+务、对董事、高级管理人员执行公司职务的
+行为进行监督等职权。
+公司设总经理 1人，总经理对董事会负
+责，主持公司的生产经营管理工作，组织实
+施董事会决议，并向董事会报告工作。
+截至评级时点，公司内设销售部、智慧
+水务事业部、工程技术部、商务部、财务部、
+行政人事部，部门设置清晰，分工明确。
+总体看，公司法人治理结构完善，部门
+构架清晰。
+（二）内控制度及执行
+公司根据经营管理需要，制定了较为完
+善的财务管理、研发费用管理、费用报销、
+考勤、项目管理、技术管理、采购管理、销
+售管理等制度，已获得 ISO9001:2008 质量
+管 理 体 系 认 证 证 书 （ 证 书 编 号 ：
+016ZB13Q22465R0M，有效期至 2016年 10
+月）、环境管理体系认证证书（证书编号：
+016ZB13E20967R0M，有效期至 2016年 10
+月），实际业务操作中严格按标准执行。
+总体看，公司内部管理制度完善，制度
+执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据中企信用数据预测规则，结合公司
+提供的财务数据，按照谨慎性原则，中企信
+用预测公司 2016年将实现营业收入 3000.00
+万元，净利润 100.00万元；预计 2016年底
+资产总额 4200.34 万元，负债总额 3000.00
+万元，所有者权益 1200.34万元。相比 2015
+年，预计 2016 年负债率变动幅度 4.91%，
+预计负债率变动幅度 12.32%，净资产收益
+率变动幅度 2.50%。
+总体看，公司未来一年发展前景较好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京金控数据技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 8 月底，公司资产总额
+5609.71万元，其中流动资产占比 90.87%，
+非流动资产占比 9.13%。
+1.流动资产
+截至 2016 年 8 月底，公司流动资产
+5097.53 万元，主要为：货币资金 3157.27
+万元，占比 61.94%，为现金、银行存款；
+应收账款 1050.36万元，占比 20.61%，为应
+收北京金州惠凯工程技术有限公司、中铁一
+局集团市政环保工程有限公司物资集采中
+心、首创爱华（天津）市政环境工程有限公
+司、赞比亚能源投资有限公司、北京国环清
+华环境工程设计研究院有限公司等的货款，
+账龄在 1 年以内占 75.14%， 1~2 年占
+24.19%，2 年以上占 0.67%，公司已按账龄
+分析法计提坏账准备；存货 671.82万元，占
+比 13.18%，为设备、在途物资、人工及现
+场材料。
+2.非流动资产
+截至 2016 年 8 月底，公司非流动资产
+512.18万元，主要为：无形资产 371.98万元，
+占比 72.63%，为公司自有软件技术；开发
+支出 86.14万元，占比 16.82%，为智能装备
+管理系统、危废信息化管理系统、无人值守
+管理系统、设备管理系统。
+总体看，公司资产流动性较强，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 8 月底，公司资产负债率
+为 86.72%，负债水平高，有有息债务。公
+司负债总额为 4864.48万元，全部为流动负
+债，主要为：短期借款 400.00 万元，占比
+8.22%，为北京银行清华园支行、杭州银行
+北京中关村支行担保贷款；应付账款 656.20
+万元，占比 13.49%，为应付天津市津开电
+气有限公司、北京北华中清环境工程技术有
+限公司、北京东方泰格科技发展有限公司、
+天健创新（北京）监测仪表股份有限公司、
+江苏恒辉电气有限公司等货款，账龄全部在
+1 年以内；预收款项 576.35 万元，占比
+11.85%，为预收内蒙古爱威天洋科技有限公
+司、福建申发水务有限公司、中持水务股份
+有限公司、四川环能德美科技股份有限公
+司、中国人民解放军 63919部队等货款，账
+龄全部在 1年以内；其他应付款 3044.52万
+元，占比 62.59%，为投资款、个人借款、
+培训费。
+总体看，公司负债水平高，有有息债务。
+2.所有者权益
+近三年，公司所有者权益分别为1013.72
+万元、1034.22万元、2690.23万元，呈逐年
+增长趋势，主要系股东增资及留存收益增加
+所致，所有者权益成长性较好。
+截至2016年8月底，公司所有者权益
+745.23万元，其中实收资本1000.00万元，资
+本公积58.88万元，盈余公积4.15万元，未分
+配利润-317.80万元。
+总体看，公司所有者权益成长性较好，
+但对负债的保障能力弱。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 8
+月底，公司流动比率、速动比率分别为
+104.79%、90.98%，处于行业较低、低水平。
+从长期偿债能力指标看，2015年，公司
+EBITDA 利息倍数、债务保护倍数分别为
+14.78倍、0.22倍，长期偿债能力较强。
+结合公司业务发展及规模看，公司整体</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 815.05
+万元、1411.37万元、2859.59万元；同期，
+净利润分别为 27.25万元、20.50万元、66.12
+万元，公司业务稳步增长。
+近三年，公司主营业务利润率分别为
+23.66%、32.38%、27.44%，加权平均值为
+28.16%，处于行业平均水平；同期，净资产
+收益率分别为 2.69%、2.00%、6.20%，加权
+平均值 4.24%，处于行业中等水平；同期，
+总资产报酬率分别为 1.72%、1.07%、3.43%，
+加权平均值为 2.38%；公司整体盈利能力一
+般。
+近三年，公司现金收入比分别为
+156.23%、85.09%、71.41%，收入实现质量
+下降。
+总体看，公司盈利能力一般，收入实现
+质量下降。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京金控数据技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司成本费用高，关注未来成本费用
+的控制情况。
+2.公司近三年经营活动获取现金的能力
+较弱，整体现金流对筹资活动的依赖性较
+大。
+3.公司下游客户处于强势地位，多集中
+在年底付款，对公司资金周转造成一定影
+响。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京金控数据技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>1595.78 </enterprise:资产总额>
+    <enterprise:所有者权益>1013.72 </enterprise:所有者权益>
+    <enterprise:负债总额>582.06 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>815.05 </enterprise:营业收入>
+    <enterprise:EBITDA>119.75 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金控数据技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>2153.56 </enterprise:资产总额>
+    <enterprise:所有者权益>1034.22 </enterprise:所有者权益>
+    <enterprise:负债总额>1119.33 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1411.37 </enterprise:营业收入>
+    <enterprise:EBITDA>115.32 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金控数据技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>2690.23 </enterprise:资产总额>
+    <enterprise:所有者权益>1100.34 </enterprise:所有者权益>
+    <enterprise:负债总额>1589.89 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2859.59 </enterprise:营业收入>
+    <enterprise:EBITDA>105.12 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京金控数据技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.51 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.17 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.43 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金控数据技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.75 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.06 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.53 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金控数据技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.18 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.10 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.58 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金控数据技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>24.03 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金控数据技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>42.21 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金控数据技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>64.91 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金控数据技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>124.78 </enterprise:流动比率>
+    <enterprise:速动比率>94.14 </enterprise:速动比率>
+    <enterprise:资产负债率>36.47 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金控数据技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>108.17 </enterprise:流动比率>
+    <enterprise:速动比率>57.05 </enterprise:速动比率>
+    <enterprise:资产负债率>51.98 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>109.83 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金控数据技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>143.00 </enterprise:流动比率>
+    <enterprise:速动比率>132.08 </enterprise:速动比率>
+    <enterprise:资产负债率>59.10 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>14.78 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京金控数据技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>24.88 </enterprise:毛利率>
+    <enterprise:成本费用利润率>38.21 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.56 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>22.12 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金控数据技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>33.29 </enterprise:毛利率>
+    <enterprise:成本费用利润率>43.78 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.85 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-14.17 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>12.40 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金控数据技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>27.76 </enterprise:毛利率>
+    <enterprise:成本费用利润率>32.86 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.71 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-12.16 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>27.09 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京金控数据技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>280.01 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>113.74 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>57.37 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>96.86 </enterprise:其他应收款>
+    <enterprise:存货>178.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>726.29 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>40.73 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>806.15 </enterprise:无形资产>
+    <enterprise:开发支出>21.30 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.31 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>869.49 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1595.78 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金控数据技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>91.92 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>443.93 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>52.58 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>44.49 </enterprise:其他应收款>
+    <enterprise:存货>567.04 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1199.96 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>47.96 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>849.83 </enterprise:无形资产>
+    <enterprise:开发支出>51.77 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>4.04 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>953.60 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2153.56 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金控数据技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>591.83 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1400.62 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>19.83 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>87.57 </enterprise:其他应收款>
+    <enterprise:存货>173.76 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2273.61 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>46.49 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>275.34 </enterprise:无形资产>
+    <enterprise:开发支出>81.09 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>13.70 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>416.62 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2690.23 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金控数据技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>60.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>86.43 </enterprise:应付票据>
+    <enterprise:应付账款>330.48 </enterprise:应付账款>
+    <enterprise:预收款项>225.96 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>109.97 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>10.89 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>285.60 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1109.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>10.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>10.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1119.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>3.42 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>30.80 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1034.22 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1034.22 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2153.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金控数据技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>60.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>86.43 </enterprise:应付票据>
+    <enterprise:应付账款>330.48 </enterprise:应付账款>
+    <enterprise:预收款项>225.96 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>109.97 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>10.89 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>285.60 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1109.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>10.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>10.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1119.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>3.42 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>30.80 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1034.22 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1034.22 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2153.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金控数据技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>260.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>148.80 </enterprise:应付票据>
+    <enterprise:应付账款>771.94 </enterprise:应付账款>
+    <enterprise:预收款项>247.36 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>100.05 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>54.16 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7.58 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1589.89 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1589.89 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>58.88 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>4.15 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>37.31 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1100.34 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1100.34 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2690.23 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京金控数据技术股份有限公司2013年利润表">
+    <enterprise:营业收入>815.05 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>612.23 </enterprise:营业成本>
+    <enterprise:主营业务成本>612.23 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>10.02 </enterprise:营业税金及附加>
+    <enterprise:销售费用>15.55 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>216.31 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.02 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.06 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>177.17 </enterprise:营业利润>
+    <enterprise:营业外收入>66.74 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.23 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>243.68 </enterprise:利润总额>
+    <enterprise:所得税费用>0.12 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>243.56 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>243.56 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京金控数据技术股份有限公司2014年利润表">
+    <enterprise:营业收入>1411.37 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>941.52 </enterprise:营业成本>
+    <enterprise:主营业务成本>941.52 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>12.88 </enterprise:营业税金及附加>
+    <enterprise:销售费用>33.40 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>416.01 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>5.80 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>16.50 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>401.27 </enterprise:营业利润>
+    <enterprise:营业外收入>33.90 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.20 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>434.97 </enterprise:利润总额>
+    <enterprise:所得税费用>-1.55 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>436.52 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>436.52 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京金控数据技术股份有限公司2015年利润表">
+    <enterprise:营业收入>2859.59 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2065.74 </enterprise:营业成本>
+    <enterprise:主营业务成本>2065.74 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>9.27 </enterprise:营业税金及附加>
+    <enterprise:销售费用>102.88 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>648.10 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>25.25 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>64.40 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>592.05 </enterprise:营业利润>
+    <enterprise:营业外收入>131.98 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>724.03 </enterprise:利润总额>
+    <enterprise:所得税费用>9.82 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>714.21 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>714.21 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京金控数据技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1273.35 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>66.79 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>97.19 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1437.33 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>862.37  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>112.98 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>91.89 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>241.33 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1308.57 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>128.76 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>59.79 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>59.79 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-59.79 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>68.97 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京金控数据技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1200.97 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>39.61 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>393.02 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1633.60 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1093.36  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>285.77 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>120.64 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>291.06 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1790.83 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-157.23 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>107.44 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>107.44 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-107.44 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>60.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>60.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1.05 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>4.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>5.05 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>54.95 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-209.72 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京金控数据技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2041.99 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>118.85 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>171.45 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2332.29 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1091.99  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>514.96 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>79.84 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>838.84 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2525.63 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-193.34 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>190.57 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>190.57 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-190.57 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>700.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>260.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>960.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>60.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>14.58 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>9.72 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>84.30 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>875.70 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>491.79 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：杨斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨斌 </enterprise:股东名称>
+	 <enterprise:货币>717.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>17.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：翁惠容 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>翁惠容 </enterprise:股东名称>
+	 <enterprise:货币>244.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>6.10%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：陈霖 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈霖 </enterprise:股东名称>
+	 <enterprise:货币>30.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：翁惠玲 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>翁惠玲 </enterprise:股东名称>
+	 <enterprise:货币>17.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：高明岚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>高明岚 </enterprise:股东名称>
+	 <enterprise:货币>17.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：陈佳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈佳 </enterprise:股东名称>
+	 <enterprise:货币>10.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：郑晓晶 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郑晓晶 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：杨娜 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨娜 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：王慧杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王慧杰 </enterprise:股东名称>
+	 <enterprise:货币>5.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：杨学强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨学强 </enterprise:股东名称>
+	 <enterprise:货币>5.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：戴军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>戴军 </enterprise:股东名称>
+	 <enterprise:货币>5.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：张立转 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张立转 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：赵艺 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵艺 </enterprise:股东名称>
+	 <enterprise:货币>4.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.10%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：张波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张波 </enterprise:股东名称>
+	 <enterprise:货币>4.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.10%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：张银虎 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张银虎 </enterprise:股东名称>
+	 <enterprise:货币>3.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：张帅刚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张帅刚 </enterprise:股东名称>
+	 <enterprise:货币>3.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.07%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：冯伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>冯伟 </enterprise:股东名称>
+	 <enterprise:货币>2.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.05%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：赵继勇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵继勇 </enterprise:股东名称>
+	 <enterprise:货币>1.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.04%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：徐长建 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐长建 </enterprise:股东名称>
+	 <enterprise:货币>1.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.02%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金控数据技术股份有限公司股东：乔建岐 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>乔建岐 </enterprise:股东名称>
+	 <enterprise:货币>0.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.01%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：数矿环境云">
+	<enterprise:有申请日期>16-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>数矿环境云</enterprise:有商标名称>
+	<enterprise:有注册号>20922201</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：数矿云">
+	<enterprise:有申请日期>16-8-4</enterprise:有申请日期>
+	<enterprise:有商标名称>数矿云</enterprise:有商标名称>
+	<enterprise:有注册号>20882108</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：金控数据">
+	<enterprise:有申请日期>15-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>金控数据</enterprise:有商标名称>
+	<enterprise:有注册号>17524608</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17524767</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：工况">
+	<enterprise:有申请日期>13-11-7</enterprise:有申请日期>
+	<enterprise:有商标名称>工况</enterprise:有商标名称>
+	<enterprise:有注册号>13499751</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：数矿">
+	<enterprise:有申请日期>13-7-29</enterprise:有申请日期>
+	<enterprise:有商标名称>数矿</enterprise:有商标名称>
+	<enterprise:有注册号>12993507</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：污水厂">
+	<enterprise:有申请日期>13-7-29</enterprise:有申请日期>
+	<enterprise:有商标名称>污水厂</enterprise:有商标名称>
+	<enterprise:有注册号>12993496</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金控数据技术股份有限公司的商标信息：KINGTROL">
+	<enterprise:有申请日期>09-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>KINGTROL</enterprise:有商标名称>
+	<enterprise:有注册号>7313329</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种优化SBR工艺鼓风机频率的工程方法">
+	<enterprise:有申请公布日>17-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种优化SBR工艺鼓风机频率的工程方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510167369.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104898607B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：对膜生物反应器的膜性能进行预警的方法">
+	<enterprise:有申请公布日>17-8-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>对膜生物反应器的膜性能进行预警的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510543553.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105152317B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用正态分布判定设备故障的方法">
+	<enterprise:有申请公布日>17-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用正态分布判定设备故障的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510167393.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104793605B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：优化膜生物反应器反冲洗时间的方法">
+	<enterprise:有申请公布日>17-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>优化膜生物反应器反冲洗时间的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510559926.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105084528B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：基于高斯分布的设备运行控制系统和方法">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于高斯分布的设备运行控制系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611191551.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106773692A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：优化的膜生物反应器反冲洗的方法">
+	<enterprise:有申请公布日>17-5-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>优化的膜生物反应器反冲洗的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510505350.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105084520B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种对设备未来故障时间点进行预测的方法">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对设备未来故障时间点进行预测的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510303320.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104848885B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用正态分布辅助判定污染源监测数据有效性的方法">
+	<enterprise:有申请公布日>17-4-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用正态分布辅助判定污染源监测数据有效性的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410311034.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104091061B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种高密度水质分析仪">
+	<enterprise:有申请公布日>17-4-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高密度水质分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621064746.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206074585U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种对污水处理工艺单元运行性能进行监控的方法">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对污水处理工艺单元运行性能进行监控的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510079806.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104699056B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种多参数水质组合预警监测仪器">
+	<enterprise:有申请公布日>17-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多参数水质组合预警监测仪器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621063788.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206002475U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用神经网络辅助判定污染源监测数据有效性的方法">
+	<enterprise:有申请公布日>17-2-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用神经网络辅助判定污染源监测数据有效性的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410311076.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104063609B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种环保设施运行参数的寻优方法及装置">
+	<enterprise:有申请公布日>17-2-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种环保设施运行参数的寻优方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610798898.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106406089A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种连续性活性污泥法的曝气控制方法及系统">
+	<enterprise:有申请公布日>17-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种连续性活性污泥法的曝气控制方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510175884.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104914897B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：对设备运行状况进行预警的方法">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>对设备运行状况进行预警的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510056094.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104750144B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种环保设施运行参数的寻优控制方法及装置">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种环保设施运行参数的寻优控制方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610832291.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106249595A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种运行质量检测方法及装置">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种运行质量检测方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610244756.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105930652A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种序批式活性污泥法的曝气控制方法及系统">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种序批式活性污泥法的曝气控制方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510173728.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104787875B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种环境保护指数检测方法及装置">
+	<enterprise:有申请公布日>16-8-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种环境保护指数检测方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610213404.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105893767A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种自动筛选设备的方法和装置">
+	<enterprise:有申请公布日>16-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动筛选设备的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610245192.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105718604A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：泵房的节能控制柜">
+	<enterprise:有申请公布日>16-6-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>泵房的节能控制柜</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620066957.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205330943U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种环保效率指数测量方法及装置">
+	<enterprise:有申请公布日>16-6-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种环保效率指数测量方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610195914.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105653888A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种基于远程监控的液位动态变化显示方法">
+	<enterprise:有申请公布日>16-5-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于远程监控的液位动态变化显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610008611.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105590334A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：粗细格栅间系统模型">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>粗细格栅间系统模型</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530444887.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303670985S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：运行设施实时数据多曲线展示方法">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>运行设施实时数据多曲线展示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610007301.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105574202A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：基于双变量二维表的污水处理节能控制方法及控制系统">
+	<enterprise:有申请公布日>16-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于双变量二维表的污水处理节能控制方法及控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510052552.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104671462B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：再生水车间系统模型">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>再生水车间系统模型</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530445177.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303635539S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：测定污泥沉降比的装置">
+	<enterprise:有申请公布日>16-3-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>测定污泥沉降比的装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520857432.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205067282U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：基于图像处理的污泥沉降比检测方法及系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于图像处理的污泥沉降比检测方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510726907.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105261027A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：对膜生物反应器的膜性能进行预警的方法">
+	<enterprise:有申请公布日>15-12-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>对膜生物反应器的膜性能进行预警的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510543553.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105152317A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：膜生物反应器的膜组件反冲洗的优化加药方法">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>膜生物反应器的膜组件反冲洗的优化加药方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510505348.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105129972A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：优化的膜生物反应器反冲洗的方法">
+	<enterprise:有申请公布日>15-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>优化的膜生物反应器反冲洗的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510505350.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105084520A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：优化膜生物反应器反冲洗时间的方法">
+	<enterprise:有申请公布日>15-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>优化膜生物反应器反冲洗时间的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510559926.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105084528A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种连续性活性污泥法的曝气控制方法及系统">
+	<enterprise:有申请公布日>15-9-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种连续性活性污泥法的曝气控制方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510175884.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104914897A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种优化SBR工艺鼓风机频率的工程方法">
+	<enterprise:有申请公布日>15-9-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种优化SBR工艺鼓风机频率的工程方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510167369.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104898607A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种对设备未来故障时间点进行预测的方法">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对设备未来故障时间点进行预测的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510303320.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104848885A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种序批式活性污泥法的曝气控制方法及系统">
+	<enterprise:有申请公布日>15-7-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种序批式活性污泥法的曝气控制方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510173728.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104787875A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用正态分布判定设备故障的方法">
+	<enterprise:有申请公布日>15-7-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用正态分布判定设备故障的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510167393.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104793605A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：对设备运行状况进行预警的方法">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>对设备运行状况进行预警的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510056094.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104750144A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种基于三变量三维表的污水处理节能控制方法">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于三变量三维表的污水处理节能控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510053833.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104731060A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种对污水处理工艺单元运行性能进行监控的方法">
+	<enterprise:有申请公布日>15-6-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对污水处理工艺单元运行性能进行监控的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510079806.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104699056A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：基于双变量二维表的污水处理节能控制方法及控制系统">
+	<enterprise:有申请公布日>15-6-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于双变量二维表的污水处理节能控制方法及控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510052552.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104671462A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用正态分布辅助判定污染源监测数据有效性的方法">
+	<enterprise:有申请公布日>14-10-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用正态分布辅助判定污染源监测数据有效性的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410311034.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104091061A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：一种利用神经网络辅助判定污染源监测数据有效性的方法">
+	<enterprise:有申请公布日>14-9-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用神经网络辅助判定污染源监测数据有效性的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410311076.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104063609A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金控数据技术股份有限公司的专利信息：湖库水质远程监测、分析与水华预测预警智能系统">
+	<enterprise:有申请公布日>12-4-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>湖库水质远程监测、分析与水华预测预警智能系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120275330.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202204534U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：工艺运行诊断系统">
+	<enterprise:有批准日期>17-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>工艺运行诊断系统</enterprise:有软件全称>
+	<enterprise:有软件简称>工艺诊断</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR223001</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：运行管理问题查询系统">
+	<enterprise:有批准日期>17-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>运行管理问题查询系统</enterprise:有软件全称>
+	<enterprise:有软件简称>管理查询系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR224043</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：工艺参数自学习优化系统">
+	<enterprise:有批准日期>17-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>工艺参数自学习优化系统</enterprise:有软件全称>
+	<enterprise:有软件简称>工艺优化系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR222988</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧水务自定义报表管理系统">
+	<enterprise:有批准日期>17-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧水务自定义报表管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>自定义报表系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR099151</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水厂大数据分析系统">
+	<enterprise:有批准日期>17-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>水厂大数据分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR099156</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧水务工艺监控可视化配置系统">
+	<enterprise:有批准日期>17-3-27</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧水务工艺监控可视化配置系统</enterprise:有软件全称>
+	<enterprise:有软件简称>工艺监控配置系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR092452</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：企业环境综合指数评估系统">
+	<enterprise:有批准日期>17-3-27</enterprise:有批准日期>
+	<enterprise:有软件全称>企业环境综合指数评估系统</enterprise:有软件全称>
+	<enterprise:有软件简称>环境指数评估系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR092456</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水务运营知识库系统">
+	<enterprise:有批准日期>17-3-27</enterprise:有批准日期>
+	<enterprise:有软件全称>水务运营知识库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>知识库系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR092791</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：基于M/S架构的设备远程控制系统">
+	<enterprise:有批准日期>17-1-4</enterprise:有批准日期>
+	<enterprise:有软件全称>基于M/S架构的设备远程控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称>设备远程控制系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR002986</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：企业生产运营与安全培训系统">
+	<enterprise:有批准日期>17-1-4</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产运营与安全培训系统</enterprise:有软件全称>
+	<enterprise:有软件简称>企业培训系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR002991</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水厂移动运营管理与决策支持系统">
+	<enterprise:有批准日期>17-1-4</enterprise:有批准日期>
+	<enterprise:有软件全称>水厂移动运营管理与决策支持系统</enterprise:有软件全称>
+	<enterprise:有软件简称>水厂移动管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR002996</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理故障专家诊断系统">
+	<enterprise:有批准日期>16-9-14</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理故障专家诊断系统</enterprise:有软件全称>
+	<enterprise:有软件简称>专家诊断系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR261974</enterprise:有登记号>
+	<enterprise:有分类号>10100-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水厂在线监测报警管理系统">
+	<enterprise:有批准日期>16-9-14</enterprise:有批准日期>
+	<enterprise:有软件全称>水厂在线监测报警管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>报警管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR261664</enterprise:有登记号>
+	<enterprise:有分类号>30219-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水处理设备能效动态评价系统">
+	<enterprise:有批准日期>16-9-14</enterprise:有批准日期>
+	<enterprise:有软件全称>水处理设备能效动态评价系统</enterprise:有软件全称>
+	<enterprise:有软件简称>能效评价系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR262038</enterprise:有登记号>
+	<enterprise:有分类号>10100-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：设备故障智能预警系统">
+	<enterprise:有批准日期>16-9-14</enterprise:有批准日期>
+	<enterprise:有软件全称>设备故障智能预警系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR261669</enterprise:有登记号>
+	<enterprise:有分类号>10100-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：烟气净化信息化管理系统">
+	<enterprise:有批准日期>16-6-17</enterprise:有批准日期>
+	<enterprise:有软件全称>烟气净化信息化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR146260</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理厂无人值守管理系统">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理厂无人值守管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>无人值守系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR137841</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：垃圾渗滤液信息化管理系统">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>垃圾渗滤液信息化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR137849</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧巡检管理系统">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧巡检管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR137844</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水厂智能管理优化调度系统">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>水厂智能管理优化调度系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能调度系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR137633</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智能装备管理系统">
+	<enterprise:有批准日期>16-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>智能装备管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能装备</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR077075</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧危险废物处理管理系统">
+	<enterprise:有批准日期>16-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧危险废物处理管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智慧危废系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR076484</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧水务综合运营管理平台">
+	<enterprise:有批准日期>15-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧水务综合运营管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>智慧水务管理平台</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR209208</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：设备维保智能管理系统">
+	<enterprise:有批准日期>15-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>设备维保智能管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>EMIMS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR127181</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污染源监控数据有效性辅助判定软件">
+	<enterprise:有批准日期>15-2-2</enterprise:有批准日期>
+	<enterprise:有软件全称>污染源监控数据有效性辅助判定软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR020409</enterprise:有登记号>
+	<enterprise:有分类号>30200-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：智慧水务管理系统">
+	<enterprise:有批准日期>14-10-17</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧水务管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR155180</enterprise:有登记号>
+	<enterprise:有分类号>30104-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污染源监测数据管理系统">
+	<enterprise:有批准日期>14-7-28</enterprise:有批准日期>
+	<enterprise:有软件全称>污染源监测数据管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR106916</enterprise:有登记号>
+	<enterprise:有分类号>30104-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：网络公开数据分析系统">
+	<enterprise:有批准日期>14-7-28</enterprise:有批准日期>
+	<enterprise:有软件全称>网络公开数据分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>网络数据分析系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR106830</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理信息化报表管理系统">
+	<enterprise:有批准日期>13-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理信息化报表管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>信息化报表管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR147520</enterprise:有登记号>
+	<enterprise:有分类号>30102-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理水质采集及远程监控软件">
+	<enterprise:有批准日期>13-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理水质采集及远程监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR147672</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理自控监测数据公开系统">
+	<enterprise:有批准日期>13-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理自控监测数据公开系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR147518</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：数据库负载均衡软件">
+	<enterprise:有批准日期>12-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>数据库负载均衡软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR123558</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：湖库水质远程分析与智能评价软件">
+	<enterprise:有批准日期>11-9-13</enterprise:有批准日期>
+	<enterprise:有软件全称>湖库水质远程分析与智能评价软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR065749</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：水华预测预警智能系统软件">
+	<enterprise:有批准日期>11-9-13</enterprise:有批准日期>
+	<enterprise:有软件全称>水华预测预警智能系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR065750</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：湖库水质远程监测软件">
+	<enterprise:有批准日期>11-9-13</enterprise:有批准日期>
+	<enterprise:有软件全称>湖库水质远程监测软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR065748</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol污水处理企业（集团）信息化管理系统">
+	<enterprise:有批准日期>11-3-22</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol污水处理企业（集团）信息化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR014207</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：污水处理厂自动控制系统">
+	<enterprise:有批准日期>11-3-30</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理厂自动控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR016156</enterprise:有登记号>
+	<enterprise:有分类号>66000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：远程工艺监控系统">
+	<enterprise:有批准日期>10-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>远程工艺监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称>远程监控系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR063862</enterprise:有登记号>
+	<enterprise:有分类号>67500-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：设备管理系统">
+	<enterprise:有批准日期>10-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>设备管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR063867</enterprise:有登记号>
+	<enterprise:有分类号>65000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：设备报修单管理系统">
+	<enterprise:有批准日期>10-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>设备报修单管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>报修单系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR063699</enterprise:有登记号>
+	<enterprise:有分类号>65000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol SCADA 数据监测平台软件">
+	<enterprise:有批准日期>10-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol SCADA 数据监测平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingTrol 监测平台软件</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR002952</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol 污水处理厂智能控制与节能管理系统">
+	<enterprise:有批准日期>10-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol 污水处理厂智能控制与节能管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能控制与节能管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR002939</enterprise:有登记号>
+	<enterprise:有分类号>66500-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：基于过程分析的污染源监测系统">
+	<enterprise:有批准日期>14-1-7</enterprise:有批准日期>
+	<enterprise:有软件全称>基于过程分析的污染源监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>污染源监测系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR001859</enterprise:有登记号>
+	<enterprise:有分类号>30000-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol污水处理厂运营管理系统">
+	<enterprise:有批准日期>10-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol污水处理厂运营管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>运营管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR002954</enterprise:有登记号>
+	<enterprise:有分类号>65000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol污水处理厂成本分析系统">
+	<enterprise:有批准日期>10-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol污水处理厂成本分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>成本分析系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR002950</enterprise:有登记号>
+	<enterprise:有分类号>65000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金控数据技术股份有限公司的软件著作：KingTrol污水处理厂生产报表管理系统">
+	<enterprise:有批准日期>10-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>KingTrol污水处理厂生产报表管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>报表管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR002930</enterprise:有登记号>
+	<enterprise:有分类号>62000-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：北京金控数据技术股份有限公司">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京金控数据技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.kingtroldata.com</enterprise:有网站首页>
+	<enterprise:有域名>kingtroldata.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：数矿云计算">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>数矿云计算</enterprise:有网站全称>
+	<enterprise:有网站首页>www.wushuichang.cn</enterprise:有网站首页>
+	<enterprise:有域名>wushuichang.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：数矿云计算">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>数矿云计算</enterprise:有网站全称>
+	<enterprise:有网站首页>www.wushuichang.cn</enterprise:有网站首页>
+	<enterprise:有域名>wushuichang.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：数矿云计算">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>数矿云计算</enterprise:有网站全称>
+	<enterprise:有网站首页>www.wushuichang.cn</enterprise:有网站首页>
+	<enterprise:有域名>wushuichang.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：北京金控数据技术股份有限公司">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京金控数据技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jinkongauto.com</enterprise:有网站首页>
+	<enterprise:有域名>jinkongauto.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金控数据技术股份有限公司的网站备案：数矿管理平台">
+	<enterprise:有审核时间>16-5-31</enterprise:有审核时间>
+	<enterprise:有网站全称>数矿管理平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.shukuang.cn</enterprise:有网站首页>
+	<enterprise:有域名>shukuang.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025746号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京金控数据技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京金控数据技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未提供</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京金控数据技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>市政项目，科技主要为各地区的政府单位、国家级科学研究院和大型环
+保企业等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京金控数据技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>未提供</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京金控数据技术股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 新三板挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京金控数据技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>详见“行业分析”。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京金控数据技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京金控数据技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京金控数据技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>457</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>713</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京金控数据技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>供应商类型</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动额</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-580</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>4215</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京金控数据技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）-</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京金控数据技术股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金控数据技术股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金控数据技术股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京金控数据技术股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金控数据技术股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>100.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金控数据技术股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金控数据技术股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京金控数据技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>10</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>3</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>4</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>3</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京金控数据技术股份有限公司的专利数量">
+	<enterprise:专利总计>15</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>2</enterprise:专利数量2014>
+	<enterprise:专利数量2015>13</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京金控数据技术股份有限公司的商标数量">
+	<enterprise:商标总计>5</enterprise:商标总计>
+	<enterprise:商标数量2013>3</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>2</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京金控数据技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

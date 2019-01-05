@@ -1,0 +1,1288 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京亿赛通网络安全技术有限公司的企业概况">
+    <enterprise:有名称>北京亿赛通网络安全技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010858083932XA</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>—</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司北京西二旗支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>39</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2011.8.12</enterprise:有注册登记日期>
+    <enterprise:有注册资本>100.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2041.8.11</enterprise:有营业执照到期日>
+    <enterprise:有股本>100.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务；计算机系统服务；销售计算机、软件及辅助设备、电子产品、机械设备；货物进出口、技术进出口。(依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。)技术开发、技术推广、技术转让、技术咨询、技术服务；计算机系统服务；销售计算机、软件及辅助设备、电子产品、机械设备；货物进出口、技术进出口。(依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。)...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>信息安全产品的研发、生产、销售及提供专业安全服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区西二旗大街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区西二旗大街</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>梅方方</enterprise:有联系人>
+    <enterprise:有联系电话>010-57933647</enterprise:有联系电话>
+    <enterprise:有传真电话>010-57933600</enterprise:有传真电话>
+    <enterprise:有E-mail>meifangfang@esafenet.com</enterprise:有E-mail>
+    <enterprise:有网址>http://www.esafenet.com/</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京亿赛通网络安全技术有限公司（以下
+简称“公司”）前身为北京敏锐度信息技术有限
+责任公司（以下简称“敏锐度”），于 2011 年 8
+月 12 日在北京市工商行政管理局海淀分局注
+册成立，初始注册资本 100.00 万元，由朱贺军、
+王宇飞、薛全英共同出资设立。2013 年 10 月
+12 日，敏锐度与北京亿赛通科技发展有限责任
+公司（以下简称“亿赛通科技”）签订了《股权
+收购协议书》，全体股东一致同意亿赛通科技以
+人民币 3660.00 万元收购股东朱贺军、王宇飞、
+薛全英持有的敏锐度 100.00%的股权。2014 年
+7月28日，敏锐度名称变更为现用名，并于2014
+年 8 月 1 日在北京市工商行政管理局海淀分局
+完成工商变更登记手续且取得了新的《企业法
+人营业执照》，目前，公司注册资本仍为 100.00
+万元，为亿赛通科技全资子公司。 
+公司经营范围：“技术开发、技术推广、技
+术转让、技术咨询、技术服务；计算机系统服
+务；销售计算机、软件及辅助设备、电子产品、
+机械设备、货物进出口、技术进出口。”目前，
+公司主营业务为信息安全产品的研发、生产、
+销售及提供专业安全服务。 
+截至2016年8月底，公司资产总额3640.95
+万元，固定资产净额 3.92 万元，所有者权益
+1273.54 万元；2015 年，公司实现营业收入
+3400.52 万元，利润总额 781.17 万元；2016 年
+1~8 月，公司实现营业收入 294.72 万元，利润
+总额-252.15 万元。公司现有员工 39人，在北
+京市属于小型企业。 
+公司注册及经营地址：北京市海淀区西二
+旗大街 39号 3层 301-1；法定代表人：朱贺军；
+统一社会信用代码：9111010858083932XA；经
+营期限：自 2011 年 8 月 12 日至 2041 年 8 月
+11 日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京亿赛通网络安全技术有限公司的基础素质">
+    <enterprise:有管理素质>1  
+．高管素质
+公司法定代表人、执行董事、总经理朱贺
+曾任北京许继电气有限公司技术经理、公安部
+第三研究所技术总监、北京锐安科技有限公司
+产品中心总经理，2011 年组建敏锐度，目前，
+担任公司执行董事兼总经理。2009 年，朱贺军
+主持完成的海量数据分析系统项目获得“公安
+部科技进步三等奖”，于 2010 年获得“北京市
+企业评价协会创新人物奖”，于 2011 年获得“北
+京市发明和创新奖三等奖”，朱贺军拥有 6项发
+明专利，并发表过 6篇论文，主持过多个大型
+项目的开发、设计以及交付等工作，具有多年
+大项目管理经验、系统总体结构设计经验及网
+络安全行业经验。 
+公司产品线研发总监薛全英，34岁，本科
+学历，曾任郑州威科姆电子科技有限公司高级
+工程师、武汉北大青鸟构架师、公安部第三研
+究所项目经理、北京锐安科技有限公司产品经
+理，2011 年与朱贺军共同组建敏锐度，目前，
+担任公司产品线研发总监。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2  
+．人力资源
+截至评级时点，公司员工总数 39人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 79.49%，专科学历者占比 12.82%，
+高中及以下学历者占比 7.69%，公司员工学历
+水平较高。 
+从年龄构成看，公司员工中年龄在 45岁及
+以下者占比 94.87%，员工以中青年为主。 
+从岗位构成看，公司管理人员占比
+17.95%，技术人员占比 71.79%，作业人员占比
+10.26%，岗位构成符合公司的经营特点。 
+总体看，公司员工学历水平较高，员工以
+中青年为主，岗位构成符合公司的经营特点。 
+3  
+．研发人员素质
+公司现有研发人员 32人，其中本科及以上
+学历者占比 84.38%，公司研发人员学历水平
+高。 
+公司研发工作主要由薛全英负责，简历详
+见高管素质。 
+总体看，公司研发人员学历水平高，主要
+技术人员项目经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司产品部、技术支持部负责公司研发工
+作。 
+近三年，公司研发投入分别为 31.03 万元、
+2.21 万元、714.72 万元，分别占当年营业收入
+的 1.66%、0.09%、21.02%，公司研发投入主要
+用于发放研发人员工资、购置研发设备及耗材
+等。 
+公司主要从事主流的通信网络的监管和大
+数据挖掘分析领域的产品研究，为信息安全监
+管部门提供基础的情报分析研判工具。公司目
+前与中科院自动化所、中科院声学所、北京理
+工大学等科研机构就专向领域进行合作，以提
+升公司产品的综合竞争力，为客户提供完整的
+综合解决方案。 
+总体看，公司研发投入能够满足现阶段研
+发需求，研发条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>31.03万元,2.21万元,714.72万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>1.66%,0.09%,21.02%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京亿赛通网络安全技术有限公司的经营管理">
+    <enterprise:其经营分析为>1  
+．经营条件
+公司经营地址位于北京市海淀区西二旗大
+街 39号 3层 301-1，使用方式为租赁，公司办
+公地所处位置交通便利。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业 
+1 
+（编号：GF201511000512，有效期至：2018.9.7） 
+软件企业认定证书 
+2 
+（编号：京 R-2013-0051） 
+资料来源：公司提供，联合信用整理 
+总体看，公司具备经营所需资质，经营条
+件尚可。 
+2  
+．业务运作
+公司成立于 2011 年，主营业务为信息安全
+产品的研发、生产、销售及提供专业安全服务，
+主要从事主流的通信网络的监管和大数据挖掘
+分析领域的产品研究，为信息安全监管部门提
+供基础的情报分析研判工具，公司主要产品为
+网络数据软件产品。 
+采购方面，公司主要采购服务器、网络分
+流器、分光器、以太网分路器、波分复用设备、
+存储设备等相关设备，采购区域集中在北京，
+采购原则方面，公司一般为满足项目需求，选
+择质量优、商务条件相对较好的供应商。目前，
+公司主要供应商有：北京瑞源芯科技有限公司、
+北京奇策科技有限公司、北京亿赛通科技发展
+有限责任公司、北京亿赛通软件有限公司、宝
+德科技集团股份有限公司，近三年采购价格相
+略有上升。公司与客户结算方式一般为预付部
+分款项，验货后付尾款或先款后货。 
+销售方面，公司主要通过中电十五所、中
+软泰和、中电国际、华为等合作伙伴销售公司
+的产品。公司向合作伙伴提供产品及解决方案
+的支持，合作伙伴再与最终客户进行洽谈，获
+取项目合同后分包给公司。公司当前最终客户
+主要为国家安全部门、国家情报分析部门、国
+家警察部门以及其他信息监管部门等，客户群
+体相对固定。因每个项目需求及其他要求不一
+致，在确认分包合同时会逐个进行商务洽谈、
+签订商务合同。结算方面，一般为先货后款。 
+总体看，公司业务模式清晰，经营状况较
+好。 
+3  
+．经营效率
+表 3  公司近三年主要经营指标 
+财务指标 2013 年 2014 年 2015 年 
+成本率(%) 94.86 70.91 77.03 
+管理费用率(%) 69.75 15.59 36.45 
+应收账款周转次数(次) 8.96 5.52 1.95 
+存货周转次数(次) 27.07 12.13 5.79 
+总资产周转次数(次) 3.86 1.80 1.14 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率呈下降趋势，主要是
+公司费用控制较好；同期，管理费用率整体呈
+下降趋势，控制在合理水平。 
+近三年，应收账款周转次数呈下降趋势，
+处于行业较低水平，主要受公司与客户结算方
+式影响；同期，公司存货周转次数呈下降趋势，
+目前已趋于行业较低水平；同期，总资产周转
+次数呈下降趋势，处于行业一般水平。 
+总体看，公司经营效率尚可。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1  
+．法人治理及组织架构
+股东会由全体股东组成，是公司的权力机
+权；公司不设董事会，设执行董事 1人，执行
+董事由股东会选举产生，为公司法定代表人，
+执行董事行使召集股东会，执行股东会决议等
+职权；公司设总经理 1人，总经理行使主持公
+司的生产经营管理工作等职权；公司不设监事
+会，设监事 1人，监事由股东会选举产生，行
+使检查公司财务等职权。 
+公司设立了数据安全事业群（下设产品中
+心、渠道中心、管理中心、行业大客户中心）、
+网络安全事业群（下设产品部、技术支持部、
+协议平台部、政防部、业务平台部、测试部、
+质量部、国际营销部）、综合管理平台（下设财
+务部、人力资源部、商务部、办公室），各部门
+分工明确，协调较好，运作有序。 
+总体看，公司法人治理结构简单，部门设
+置清晰。 
+2  
+．制度建设及执行
+公司根据生产经营需要，对财务、人事、
+采购等制定了相关规章制度，在实际经营过程
+中严格按照标准进行，进一步规范了公司内部
+运作流程。 
+总体看，公司管理制度建设较完善，执行
+情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1  
+．发展计划
+根据联合信用预测数据规则，结合公司业
+务目标，按照谨慎性原则，联合信用预计公司
+2016 年将实现营业收入 4000.00 万元，净利润
+1000.00 万元；预计公司 2016 年底资产总额
+5525.69 万元，所有者权益 2525.69 万元，负债
+总额3000.00万元。相比2015年，预计公司2016
+年营业收入增长 17.63%，负债率变动幅度为
+-4.87%，净资产收益率变动幅度为-12.25%。  
+总体看，公司短期内发展较为稳定。 
+公司短期内有 200.00 万元的新增融资需
+求，主要用于研发投入及扩大销售，公司股东
+有可抵押的资产，还款来源为销售回款。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京亿赛通网络安全技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为572.47万元、
+2251.96 万元、3736.24 万元，复合增长率为
+155.47%，主要体现为应收账款、存货的增加。 
+截至2016年8月底，公司资产总额3640.95
+万元，其中：流动资产占比 99.85%，非流动资
+产占比 0.15%。 
+    图 1  公司 2016年 8月底流动资产构成图 
+截至2016年8月底，公司流动资产3635.62
+万元，主要为：货币资金 944.10 万元，占比
+25.97%；应收账款 1228.03 万元，占比 33.78%，
+主要为应收北京亿赛通软件有限公司、阿曼电
+信公司（SAOG）的项目款，账龄在 1 年以内
+的占比 50.50%，账龄在 1~2 年以内的占比
+49.50%，公司已按账龄分析法计提了坏账准
+备；其他应收款 870.19 万元，占比 23.94%，
+主要为应收北京亿赛通软件有限公司、北京亿
+赛通软件技术有限公司的往来款、北京市海淀
+区人民法院押金及员工借款，账龄在 1 年以内
+的占比 99.66%，账龄在 2 年以上的占比 0.34%；
+存货 588.30 万元，占比 16.18%，主要为采购
+的产品。 
+截至 2016 年 8 月底，公司非流动资产 5.33
+万元，其中：固定资产净额 3.92 万元，占比
+73.59%，为办公产品；递延所得税资产 1.41 万
+元，占比 26.41%。  
+总体看，公司资产流动性较强，整体资产
+质量较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2016 年 8 月底，公司流动比率为 153.57%，
+处于行业较低水平；速动比率为 128.72%，处
+于行业一般水平；2015 年，现金流动负债比为
+-7.30%，公司经营活动产生的现金流对公司流
+动负债的保障能力弱，公司短期偿债能力较弱。 
+2015 年，公司 EBITDA 利息倍数、债务保
+护倍数分别为 44.57倍、14.53倍，公司长期偿
+债能力较强。 
+结合公司资产规模、业务发展情况来看，
+公司未来一年整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 80.27 %、
+64.16 %、59.16 %；2015 年，公司全部债务资
+本化比率为 3.17%。2016 年 8 月底，公司资产
+负债率 65.02 %，全部债务资本化比率 3.78 %，
+公司负债水平较高，有息债务压力较小。 
+近三年，公司负债总额分别为459.50万元、
+1444.92 万元、2210.54 万元，复合增长率为
+119.33%，主要体现为应付账款、短期借款、
+预收款项、其他应付款的增加。 
+截至2016年8月底，公司负债总额2367.41
+万元，全部为流动负债，主要为：应付账款
+1000.60 万元，占比 42.27%，主要为应付北京
+亿赛通软件有限公司、北京亿赛通科技发展有
+限责任公司、北京瑞源芯科技有限公司、上海
+威锐电子科技有限公司、北京奇策科技有限公
+司的采购款，账龄在 1 年以内的占比 25.91%，
+账龄在 1~2 年的占比 74.09%；其他应付款
+1220.53 万元，占比 51.56%，主要为应付北京
+亿赛通科技发展有限责任公司的往来款及向个
+人借款。 
+    图 2  公司 2016年 8月底流动负债构成图 
+近三年，公司所有者权益分别为 112.97 万
+元、807.04 万元、1525.69 万元，复合增长率为
+267.50%，主要受益于留存收益的增长，近三
+年，公司未进行过利润分配。 
+截至 2016 年 8 月底，公司所有者权益
+1273.54 万元，其中：实收资本 100.00 万元，
+占比 7.85%；盈余公积 76.80 万元，占比 6.03%；
+未分配利润 1096.75 万元，占比 86.12%。 
+总体看，公司负债水平较高，有息债务压
+力较小，所有者权益对债务的保障能力弱。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 1868.49 万
+元、2544.02 万元、3400.52 万元，复合增长率
+为 34.90 %；同期，利润总额分别为 97.39 万元、
+741.88 万元、781.17 万元，复合增长率为
+183.22 %，随着公司被亿赛通科技收购，给公
+司提供了大量的客户资源，公司营业收入增长
+快速，同时，公司加强了对管理费用的控制力
+度，导致公司利润总额增长较快。 
+近三年，公司主营业务利润率分别为
+72.26%、41.03%、53.77%，加权平均值 53.64%，
+处于行业较高水平；同期，总资产报酬率分别
+为 20.09%、52.96%、26.70%，加权平均值为
+33.25%，处于行业高水平；同期，净资产收益
+率分别为 145.63%、154.82%、61.61%，处于行
+业高水平。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司现金收入比分别为 84.83%、
+73.19%、29.15%，呈下降趋势，加权平均值为
+53.50%，处于行业低水平。 
+总体看，公司盈利能力较强，收入实现质
+量有待提高。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京亿赛通网络安全技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司存在行政处罚
+记录；通过在中国执行信息公开网查询，未发
+现公司存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级中未发现公司存在行业及市场风
+险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司应收账款周转速度较慢，主要受
+公司与客户结算方式影响，关注其回款情况。 
+（2）公司经营活动获取现金的能力不稳
+定，筹资活动对现金流的影响较大。 
+（3）公司应付账款及其他应付款占比较
+大，存在一定的集中偿付压力。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>572.48 </enterprise:资产总额>
+    <enterprise:所有者权益>112.97 </enterprise:所有者权益>
+    <enterprise:负债总额>459.50 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1868.49 </enterprise:营业收入>
+    <enterprise:EBITDA>115.14 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>2251.95 </enterprise:资产总额>
+    <enterprise:所有者权益>807.04 </enterprise:所有者权益>
+    <enterprise:负债总额>1444.92 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2544.02 </enterprise:营业收入>
+    <enterprise:EBITDA>764.64 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>3736.24 </enterprise:资产总额>
+    <enterprise:所有者权益>1525.70 </enterprise:所有者权益>
+    <enterprise:负债总额>2210.55 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3400.52 </enterprise:营业收入>
+    <enterprise:EBITDA>807.28 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>3.86 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.96 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>27.07 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.80 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.52 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>12.13 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.14 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.95 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.79 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>20.09 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1178.55 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>52.96 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>123.09 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>26.70 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>109.69 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>118.26 </enterprise:流动比率>
+    <enterprise:速动比率>114.00 </enterprise:速动比率>
+    <enterprise:资产负债率>80.26 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>154.94 </enterprise:流动比率>
+    <enterprise:速动比率>139.39 </enterprise:速动比率>
+    <enterprise:资产负债率>64.16 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>127.44 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京亿赛通网络安全技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>168.72 </enterprise:流动比率>
+    <enterprise:速动比率>154.39 </enterprise:速动比率>
+    <enterprise:资产负债率>59.17 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>44.57 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>72.33 </enterprise:毛利率>
+    <enterprise:成本费用利润率>254.02 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.85 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-41.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>34.90 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>185.11 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>41.78 </enterprise:毛利率>
+    <enterprise:成本费用利润率>66.89 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.73 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>16.67 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京亿赛通网络安全技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>53.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>104.69 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.29 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-7.29 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>3.17 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京亿赛通网络安全技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>6.38 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>299.06 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.53 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>217.85 </enterprise:其他应收款>
+    <enterprise:存货>19.59 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>543.41 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>27.59 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.48 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>29.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>572.48 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京亿赛通网络安全技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>139.39 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>622.86 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>5.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1246.87 </enterprise:其他应收款>
+    <enterprise:存货>224.68 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2238.80 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>12.54 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.61 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>13.15 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2251.95 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京亿赛通网络安全技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>9.53 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2871.73 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>5.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>478.90 </enterprise:其他应收款>
+    <enterprise:存货>316.89 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>47.67 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3729.72 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>5.11 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.41 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>6.52 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3736.24 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京亿赛通网络安全技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.78 </enterprise:应付账款>
+    <enterprise:预收款项>84.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>69.86 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>85.31 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1204.97 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1444.92 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1444.92 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>76.80 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>630.24 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>807.04 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>807.04 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2251.96 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京亿赛通网络安全技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.78 </enterprise:应付账款>
+    <enterprise:预收款项>84.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>69.86 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>85.31 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1204.97 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1444.92 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1444.92 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>76.80 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>630.24 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>807.04 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>807.04 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2251.96 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京亿赛通网络安全技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>50.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>926.37 </enterprise:应付账款>
+    <enterprise:预收款项>28.20 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>117.78 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>115.49 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>972.71 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>2210.55 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2210.55 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>76.80 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1348.90 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1525.70 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1525.70 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3736.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京亿赛通网络安全技术有限公司2013年利润表">
+    <enterprise:营业收入>1868.49 </enterprise:营业收入>
+    <enterprise:主营业务收入>1868.49 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>517.03 </enterprise:营业成本>
+    <enterprise:主营业务成本>517.03 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.33 </enterprise:营业税金及附加>
+    <enterprise:销售费用>6.85 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1236.20 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.22 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>11.19 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1332.31 </enterprise:营业利润>
+    <enterprise:营业外收入>1.29 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1333.60 </enterprise:利润总额>
+    <enterprise:所得税费用>2.19 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1331.41 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1331.41 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京亿赛通网络安全技术有限公司2014年利润表">
+    <enterprise:营业收入>2544.02 </enterprise:营业收入>
+    <enterprise:主营业务收入>2544.02 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1481.25 </enterprise:营业成本>
+    <enterprise:主营业务成本>1481.25 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>19.05 </enterprise:营业税金及附加>
+    <enterprise:销售费用>23.44 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>281.24 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>5.94 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-6.94 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1021.28 </enterprise:营业利润>
+    <enterprise:营业外收入>1.85 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1023.13 </enterprise:利润总额>
+    <enterprise:所得税费用>29.71 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>993.42 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>993.42 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京亿赛通网络安全技术有限公司2015年利润表">
+    <enterprise:营业收入>3400.52 </enterprise:营业收入>
+    <enterprise:主营业务收入>3400.52 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1569.18 </enterprise:营业成本>
+    <enterprise:主营业务成本>1569.18 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>2.99 </enterprise:营业税金及附加>
+    <enterprise:销售费用>67.77 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>954.83 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>18.22 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>6.35 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1736.01 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1736.01 </enterprise:利润总额>
+    <enterprise:所得税费用>62.52 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1673.49 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1673.49 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京亿赛通网络安全技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1584.96 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>220.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1804.96 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>550.68  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>861.98 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2.87 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>580.87 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1996.40 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-191.44 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>8.53 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>8.53 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-8.53 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-199.97 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京亿赛通网络安全技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1862.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>13.71 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>5448.37 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7324.08 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>658.74  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1467.17 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>427.73 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4529.54 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7083.18 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>240.90 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1.88 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1.88 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1.88 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>100.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>6.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>106.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-106.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>133.02 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京亿赛通网络安全技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>991.17 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>5130.03 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6121.20 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>455.85  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1059.78 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>61.09 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4705.66 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6282.38 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-161.18 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.56 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.56 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-0.56 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>550.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>550.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>18.11 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>518.11 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>31.89 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-129.85 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京亿赛通网络安全技术有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京亿赛通网络安全技术有限公司股东：北京亿赛通科技发展有限责任公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京亿赛通科技发展有限责任公司 </enterprise:股东名称>
+	 <enterprise:货币>100万元人民币</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:专利    rdf:ID="北京亿赛通网络安全技术有限公司的专利信息：一种用户通信特征的获取方法、存储介质及电子设备">
+	<enterprise:有申请公布日>2017-10-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用户通信特征的获取方法、存储介质及电子设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710557083.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107231494A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京亿赛通网络安全技术有限公司的专利信息：一种电话诈骗的检测方法、存储介质及电子设备">
+	<enterprise:有申请公布日>2017-09-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电话诈骗的检测方法、存储介质及电子设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710558195.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107197463A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京亿赛通网络安全技术有限公司的专利信息：一种快速自动识别加密网络行为的方法">
+	<enterprise:有申请公布日>2015-09-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种快速自动识别加密网络行为的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510279195.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104954365A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京亿赛通网络安全技术有限公司的专利信息：一种实现用户上网认证鉴权和报文标签的系统及其方法">
+	<enterprise:有申请公布日>2015-08-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现用户上网认证鉴权和报文标签的系统及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156782.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103227795B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京亿赛通网络安全技术有限公司的专利信息：一种实现用户上网认证鉴权和报文标签的系统及其方法">
+	<enterprise:有申请公布日>2013-07-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现用户上网认证鉴权和报文标签的系统及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156782.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103227795A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：大数据环境下加密网络行为在线识别系统">
+	<enterprise:有批准日期>17-6-3</enterprise:有批准日期>
+	<enterprise:有软件全称>大数据环境下加密网络行为在线识别系统</enterprise:有软件全称>
+	<enterprise:有软件简称>DSJSB</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR229183</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：网络大数据的行为分析与挖掘系统">
+	<enterprise:有批准日期>17-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>网络大数据的行为分析与挖掘系统</enterprise:有软件全称>
+	<enterprise:有软件简称>WLXWFXWJ</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR217198</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：网络阻断平台">
+	<enterprise:有批准日期>17-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>网络阻断平台</enterprise:有软件全称>
+	<enterprise:有软件简称>WLZD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR217139</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：互联网终端远程控制系统">
+	<enterprise:有批准日期>17-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网终端远程控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称>远程控制系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR217201</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：海量语音分析系统">
+	<enterprise:有批准日期>15-6-15</enterprise:有批准日期>
+	<enterprise:有软件全称>海量语音分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MSAS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR106571</enterprise:有登记号>
+	<enterprise:有分类号>30303-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：中间人攻击平台">
+	<enterprise:有批准日期>14-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>中间人攻击平台</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-MITM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR121530</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：互联网协议解析还原平台">
+	<enterprise:有批准日期>14-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网协议解析还原平台</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-NEE</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR120801</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：互联网内容综合管理平台">
+	<enterprise:有批准日期>14-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网内容综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>NEE-AAP</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR121074</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：音视频解析转码平台">
+	<enterprise:有批准日期>14-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>音视频解析转码平台</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-Media</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR121366</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：企业网络数据内容审计处理软件">
+	<enterprise:有批准日期>13-1-7</enterprise:有批准日期>
+	<enterprise:有软件全称>企业网络数据内容审计处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>LMS-UserMonitor</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR001817</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：文件搬运软件">
+	<enterprise:有批准日期>12-11-1</enterprise:有批准日期>
+	<enterprise:有软件全称>文件搬运软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Transport</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR103651</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：BB解析软件">
+	<enterprise:有批准日期>12-11-6</enterprise:有批准日期>
+	<enterprise:有软件全称>BB解析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-BB</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR105392</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：短信格转软件">
+	<enterprise:有批准日期>12-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>短信格转软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-SMS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR102030</enterprise:有登记号>
+	<enterprise:有分类号>30206-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：BB消息格转软件">
+	<enterprise:有批准日期>12-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>BB消息格转软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-BBT</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR102027</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：网络电话音视频及文本解析软件">
+	<enterprise:有批准日期>12-11-6</enterprise:有批准日期>
+	<enterprise:有软件全称>网络电话音视频及文本解析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-Skype</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR105384</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：手机上网认证协议解析软件">
+	<enterprise:有批准日期>12-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>手机上网认证协议解析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-GTP-C</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR102040</enterprise:有登记号>
+	<enterprise:有分类号>30206-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：音视频播放软件">
+	<enterprise:有批准日期>12-11-1</enterprise:有批准日期>
+	<enterprise:有软件全称>音视频播放软件</enterprise:有软件全称>
+	<enterprise:有软件简称>YOYOPlayer</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR103638</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：数据分析与挖掘平台">
+	<enterprise:有批准日期>12-5-2</enterprise:有批准日期>
+	<enterprise:有软件全称>数据分析与挖掘平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR034215</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：WhatsApp解析软件">
+	<enterprise:有批准日期>12-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>WhatsApp解析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRP-WhatsApp</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR102036</enterprise:有登记号>
+	<enterprise:有分类号>30206-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：网络数据感知系统">
+	<enterprise:有批准日期>12-9-25</enterprise:有批准日期>
+	<enterprise:有软件全称>网络数据感知系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR091311</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：互联网舆情分析系统">
+	<enterprise:有批准日期>12-5-2</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网舆情分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR034206</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：VOIP监测系统">
+	<enterprise:有批准日期>12-8-31</enterprise:有批准日期>
+	<enterprise:有软件全称>VOIP监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR081897</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：运维系统">
+	<enterprise:有批准日期>12-11-6</enterprise:有批准日期>
+	<enterprise:有软件全称>运维系统</enterprise:有软件全称>
+	<enterprise:有软件简称>OMS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR105397</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：不良信息监测系统">
+	<enterprise:有批准日期>12-9-25</enterprise:有批准日期>
+	<enterprise:有软件全称>不良信息监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR091308</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：结构化入库软件">
+	<enterprise:有批准日期>12-11-1</enterprise:有批准日期>
+	<enterprise:有软件全称>结构化入库软件</enterprise:有软件全称>
+	<enterprise:有软件简称>LoadDB</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR103648</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京亿赛通网络安全技术有限公司的软件著作：重点区域数据获取与分析系统">
+	<enterprise:有批准日期>12-8-31</enterprise:有批准日期>
+	<enterprise:有软件全称>重点区域数据获取与分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR081903</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京亿赛通网络安全技术有限公司的员工基本信息">
+	<enterprise:有从业人数>39</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:34,25岁以下:3,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:31,高中及以下:3,专科:5</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:7,技术人员:28,作业人员:4</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:39人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京亿赛通网络安全技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司主营业务为信息安全产品的研发、生产、销售及提供专业安全服务</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京亿赛通网络安全技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>国家安全部门、国家情报分析部门、国家警察部门以及其他信息监管部门</enterprise:现有主要客户>
+	<enterprise:目前经营状况>公司业务模式清晰，经营状况较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京亿赛通网络安全技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京亿赛通网络安全技术有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京亿赛通网络安全技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京亿赛通网络安全技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京亿赛通网络安全技术有限公司的企业法人代表：朱贺军">
+	<enterprise:名称>朱贺军</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>41</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1975-7</enterprise:出生年月>
+	<enterprise:身份证号码>610103197507032432</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2011.8 至今 公司 执行董事兼总经理 
+2004.7 2011.1 公安部第三研究所/北京锐安科技有限公司 技术总监/产品中心总经理 
+2003.4 2004.7 北京许继电气有限公司 技术经理 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京亿赛通网络安全技术有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京亿赛通网络安全技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>国税-电信服务业</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>2015年度所得税</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2015年销项税总计</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京亿赛通网络安全技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京亿赛通网络安全技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京亿赛通网络安全技术有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京亿赛通网络安全技术有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京亿赛通网络安全技术有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京亿赛通网络安全技术有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京亿赛通网络安全技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>4</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京亿赛通网络安全技术有限公司的专利数量">
+
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>4</enterprise:专利数量2014>
+	<enterprise:专利数量2015>1</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+
+<enterprise:专利数量 rdf:ID="北京亿赛通网络安全技术有限公司的专利数量">
+	<enterprise:专利总计>3</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>2</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+</rdf:RDF>

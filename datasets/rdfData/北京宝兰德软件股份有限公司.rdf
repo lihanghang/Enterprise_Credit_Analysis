@@ -1,0 +1,1579 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京宝兰德软件股份有限公司的企业概况">
+    <enterprise:有名称>北京宝兰德软件股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司北京万达广场支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008-03-27</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术咨询、技术服务、技术转让；货物进出口、代理进出口、技术进出口；销售计算机、软件及辅助设备、电子产品；计算机系统服务；专业承包。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）技术开发、技术咨询、技术服务、技术转让；货物进出口、代理进出口、技术进出口；销售计算机、软件及辅助设备、电子产品；计算机系统服务；专业承包。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>WebGate系列产品，主要应用于中国移动、中国电信、中国联通的电信行业核心业务系统以</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业（I65）</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地六街17号6314室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区东三环北路19号中青大厦903室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100020</enterprise:有邮政编码>
+    <enterprise:有联系人>李京龙</enterprise:有联系人>
+    <enterprise:有联系电话>010-65936966</enterprise:有联系电话>
+    <enterprise:有传真电话>010-65930866</enterprise:有传真电话>
+    <enterprise:有E-mail>jinglong.li@bessystem.com</enterprise:有E-mail>
+    <enterprise:有网址>www.bessystem.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京宝兰德软件股份有限公司（以下简称
+“宝兰德”或“公司”），立于2008年3月27日
+，初始注册资本为50万元，由易存道、张东晖
+等2位自然人股东共同出资成立，后经过多次增
+资及股权变更，目前公司注册资本为3000万元
+，在2015年整体变更为股份制有限公司，其最
+新股权结构如下表所示：
+表1：公司最新股权结构
+股东 出资金额 股权比例
+序号
+名称 （万元） （%）
+1 易存道 1438.80 47.96
+2 张东晖 528.00 17.60
+北京易东兴股权投
+3 资中心（有限合伙 327.00 10.90
+）
+4 赵艳兴 288.00 9.60
+5 王茜 129.00 4.30
+6 赵雪 103.00 3.44
+7 史晓丽 90.00 3.00
+8 陈选良 60.00 2.00
+9 王凯 36.00 1.20
+合计 - 3000.00 100.00
+数据来源：公司提供
+公司主要从事计算机中间件软件、云管
+理平台软件、应用性能管理软件的研发与销
+售业务，并提供相关的技术支持服务。主要
+产品包括：应用服务器BES Application 
+Server、消息中间件BES MQ、交易中间件BES 
+VBroker、云管理平台软件BES 
+CloudLink、以及应用性能管理软件EBS 
+WebGate系列产品。
+截至2015年末，公司拥有一家控股子公司
+，为苏州宝兰德软件技术服务有限公司（以下
+简称“苏州宝兰德”）；同时还有一家分公司
+，为北京宝兰德软件股份有限公司朝阳分公司
+。苏州宝兰德成立于2014年3月，注册资本200
+万元，主要从事销售与技术支持等业务，公司
+拥有100%的股权。
+截至2015年末，公司资产总额7490.88万元
+，负债总额876.09万元，资产负债率11.7%。当
+年公司实现营业收入5871.7万元，利润总额314
+1.41万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京宝兰德软件股份有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理者均为创始人，其管理层相
+对稳定，主要高管信息如下所示：
+易存道先生，44岁，毕业于中欧国际商学
+院，获EMBA硕士学位。先后就职于北京首钢设
+计院、华铁弘达公司、IBM中国有限公司等，曾
+担任BEA系统（中国）有限公司渠道经理、美国
+Borland公司销售总监及总经理等。2008年创建
+公司，并担任总经理职务。
+张东晖先生，54岁，毕业于北京大学计算
+机专业，本科学历。曾先后就职于煤炭工业部
+、中国科学院大路公司销售主管、日本计算机
+研究所公司（CIJ）技术工程师、NTT数据北京
+合资公司总经理、日本西科姆北京公司总经理
+助理、美国LANDesk北京公司销售总监、美国Bo
+rland软件公司北京代表处首席代表，2008年3
+月创建公司，并担任副总经理。
+赵雪女士，46岁，毕业于新加坡南洋理工
+大学工商管理学院，研究生学历。曾先后就职
+于北京电视台新闻部记者、香港科联股份公司
+销售、BEA系统（中国）有限公司销售、SYMANT
+EC（中国）有限公司北方区销售经理、VMware
+（中国）有限公司电信行业销售总监，2011年9
+月加入公司，任副总经理。
+王茜女士，37岁，毕业于中欧国际商学院
+，获EMBA硕士学位。曾先后在中国惠普有限公
+司任销售代表、IDC国际数据公司任市场分析员
+、青岛中天信息技术有限公司任售前工程师、
+美国Borland软件公司北京代表处任销售经理，
+2008年3月加入公司，任销售总监。
+总体来看，公司主要管理人员素质较高，
+具有多年相关从业经验和管理经验，能够满足
+现有业务发展的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司现有员工95人，其中拥有技术和研发
+人员共计54人，均具有本科及以上学历，且绝
+大多数研发和技术人员具备多年研发经历，其
+中核心研发人员信息如下所示：
+赵艳兴先生，39岁，毕业于西安电子科技
+大学计算机软件专业，本科学历。曾先后在中
+国软件技术服务总公司担任工程师、北京中和
+威软件有限公司担任高级工程师、美国Borland
+公司中国公司担任高级技术咨询和技术总监，2
+008年3月加入公司，并担任副总经理。
+石玉琢先生，39岁，毕业于西安电子科技
+大学应用物理专业，获本科学历。曾先后在中
+软金马计算机系统技术有限公司担任软件研发
+项目经理、北京中和威软件有限公司担任项目
+经理、天津天极视讯科技发展有限公司担任项
+目总监，2009年2月加入公司，担任研发一部总
+监。
+陆仲达先生，39岁，毕业于西安电子科技
+大学计算机软件与理论专业，获研究生学历。
+曾先后在北京大唐软件技术有限公司电信业务
+部担任软件工程师、横河电机（中国）有限公
+司开发部担任软件工程师、摩托罗拉担任高级
+软件工程师，2009年3月加入公司，担任研发二
+部总监。
+总体来看，公司目前技术团队整体实力较
+强，技术经验丰富，能够满足企业现有业务的
+需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司专注于底层支持软件的研发和销售，
+而底层支持软件的特点是和操作系统、网络管
+理系统以及数据库的交互较多，从而使得技术
+难点较多。从业务系统的角度而言，底层支持
+软件没有太多的逻辑，产品需求不会频繁变化
+，产品本身代码数量较少，具有较高的通用性
+，所以，公司的科研方面的发展并不需要大量
+的工程师进行现场的支持，但是对高级工程师
+的技术能力要求较高。
+公司在成立之初，就十分重视高级工程师
+的招募和培养，每年在研发费用当中都保持了
+较高的投入比例。
+表3：公司研发投入情况（万元）
+年份 研发投入 营业收入 比例
+2013年 1340.14 3374.12 39.72%
+2014年 1429.20 4161.19 34.35%
+2015年 1438.26 5871.70 24.49%
+合   计 4207.60 13407.01 -
+数据来源：公司提供
+公司拥有较多专注于底层软件开发的高级
+技术人员，严格按照国际最认可的软件开发流
+程来规范产品的研发以及迭代，同时在国内本
+土化企业所要求的产品操作简易性和维护性方
+面也投入了较多的精力。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京宝兰德软件股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司主要从事中间件软件的研发与销售业
+务，同时以此为基础不断开发新产品
+公司主营业务为中间件软件的开发，其主
+要产品包括：应用服务器BES Application 
+Server、消息中间件BES MQ、交易中间件BES 
+VBroker等。同时，公司根据市场最新需求，也
+推出了云管理平台软件、应用性能管理软件，
+其产品主要为：云管理平台软件BES 
+CloudLink、应用性能管理软件BES 
+WebGate系列产品。目前，公司客户主要集中在
+电信领域，主要为三大通信运营商提供中间件
+软件的开发服务，同时也提供相关的现场或远
+程技术支持服务。
+从业务收入构成来看，目前公司业务主要
+分为中间件软件、云管理平台软件、应用性能
+管理软件、技术服务等四个板块，2015年公司
+营业收入为5871.7万元，其收入构成如下表所
+示：
+表5：2015年公司收入结构
+比例（%
+项目 收入金额（万元）
+）
+中间件软件 2765.22 47.09
+云管理软件 638.59 10.88
+应用性能管理 416.79 7.10
+技术服务 1965.20 33.47
+其他 85.89 1.46
+合  计 5891.69 100.00
+数据来源：公司提供，东方金诚整理
+目前，公司产品仍然以中间件软件为核心
+，是营业收入的主要来源，其他软件产品是针
+对市场的需求而研发推出的新产品，目前依旧
+在推广当中，所占比例相对较小。
+图2：公司近三年主营业务收入（万元
+）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司分别实现主营业务收入3374.12万
+元、4161.19万元、5871.7万元，收入规模呈增
+长趋势。
+公司作为非生产型企业，其采购主要为偶
+发性服务采购；销售的目标主要为企业级客户
+公司作为一家非生产型企业，在日常运营
+过程中，除电力等能耗外，不涉及其他常规性
+采购，目前公司的外部采购主要是偶发性的服
+务采购，即公司会根据当年所签订的合同要求
+，不定期的将一些日常售后保障或保外服务外
+包给其他软件服务商，同时也有一些咨询服务
+采购等。
+中间件软件的销售对象主要为规模较大、
+资源管关系复杂的企业级客户，所以真正对中
+间件软件有较大需求的大企业数量相对较少，
+主要包括金融、电信、互联网等行业的大型企
+业，同时大型企业对中间件软件的质量和稳定
+性都有较高的要求，所以较多企业均已经部署
+了国外软件服务商的产品。目前公司的销售客
+户主要为电信行业的三大运营商，其主要使用O
+racle的软件产品，所以公司业务来源就在于替
+换电信企业原先部署的Oracle中间件产品，目
+前，公司已经在江苏等地替换了8家通信公司，
+其在通信计费领域的Oracle中间件产品。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司管理制度较为完善，能够满足现有业
+务发展的需要
+在制度建设方面，公司建立了较为完善的
+现代企业管理制度，具体包括财务管理基本制
+度、费用开支管理制度、审批权限及审批流程
+规范、印章管理制度、薪酬管理办法、绩效考
+核制度、员工奖励制度、公司培训制度、员工
+关系管理工作计划、档案管理规定，销售管理
+规范、代理商及集成商信用审批制度、物流管
+理制度、货物借用管理制度、采购管理办法、
+售后运行与维护服务体系等。
+总体来看，目前公司组织结构设置合理，
+管理制度较为完善，能够满足现有业务发展的
+需要。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>作为一种服务型产业，中间件产业将随着
+新的应用环境和下游需求的变化而保持稳定增
+长
+中间件软件作为一种支持软件，其本身并
+不能独立存在，中间件的发展要适应应用软件
+的发展需求，当前应用发展的特征是集中化和
+智能化，未来中间件也需要提供相应的支持。
+虽然当前的中间件技术已经较好的实现了软硬
+件环境的统一封装，极大的提高了应用性，但
+可重用性有待进一步提高。
+对于下游行业，国内各大企业对于最终用
+户服务的要求在不断的提升，各行业应用系统
+规模的扩张迅速，尤其在信息化建设水平较高
+的电信、金融、能源等领域，未来整体中间件
+的整体需求增长相对稳定，而新兴的物联网和
+云计算等IT服务领域则是中间件软件市场增长
+的重要增长点。
+财务分析
+公司提供了2013-
+2015年的财务报表，且均经天健会计师事务所
+（特殊普通合伙）审计，并均出具了标准无保
+留意见的审计报告。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京宝兰德软件股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-
+2015年末，公司资产总额分别为3213.73万元、
+4366.83万元、7490.88万元，增长幅度近两年
+分别为35.88%、71.54%，资产规模存总体上呈
+增长趋势。
+图3：公司近三年资产构成（万元）
+数据来源：公司提供，东方金诚整理
+从资产结构变化看，2013-
+2015年末，公司流动资产分别为3093.78万元、
+4262.71万元、7395.29万元，增长幅度近两年
+分别为37.78%、73.49%；非流动资产分别为119
+.95万元、104.12万元、95.59万元，增长幅度
+近两年分别为-13.20%、-
+8.19%。截至2015年末，公司流动资产为7395.2
+9万元，非流动资产为95.59万元，分别占资产
+总额的98.72%和1.28%，流动资产占主要部分。
+图4：公司近三年流动资产构成（万元
+）
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司货币资金、应收票据
+、应收账款、其他应收款、预付账款分别占流
+动资产的53.28%、7.49%、37.47%、1.07%、0.0
+1%，其中货币资金和应收账款占有较大比重。
+图5：公司最近一年流动资产构成
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司货币资金账面余额为3
+939.74万元，较去年同期增长62.05%，公司货
+币资金余额增长较快，主要是由于公司主营业
+务情况良好，同时公司营业收入的不断增长且
+应收账款回款情况良好，公司所积累的货币资
+金逐年增长，同时随着公司业务规模的不断扩
+大，也需要保持相应的货币资金用以满足其日
+常经营的需要。
+截至2015年末，公司应收账款账面价值为2
+770.77万元，较去年同期增长34.47%，其中账
+龄一年以内的为2405.96万元，占比81.56%，是
+应收账款的主要部分，其主要债务人信息如下
+所示：
+表6：2015年公司应收账款信息
+金额（万元 比例（%
+名称
+） ）
+北京东方龙马软件发展
+795.38 26.96
+有限公司
+中国移动通信有限公司 630.00 21.36
+中国移动通信集团上海
+417.50 14.15
+有限公司
+沈阳康地科技有限公司 287.93 9.76
+广州源典科技有限公司 158.60 5.38
+合  计 2289.41 77.61
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司固定资产、无形资产
+、其他分别占非流动资产的68.97%、3.80%、27
+.23%，其中固定资产占有较大比重。
+2013-
+2015年，公司固定资产账面价值分别为63.24万
+元、72.55万元、65.93万元，固定资产占资产
+总额的比例分别为1.97%、1.66%、0.88%，公司
+固定资产占总资产的比例极低，符合软件开发
+企业“轻资产”的特点。
+表7：公司近两年资产运营状况
+2015年
+项  目 2014年 2015年
+行业均值
+应收账款周转率 2.26 2.33 5.80
+存货周转率 0.00 0.00 14.50
+流动资产周转率 1.13 1.01 2.50
+总资产周转率 1.10 0.99 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，2015年各项运营指标较
+去年同期基本持平，但低于行业平均水平。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年末，公司总负债分别为351.01万元、390
+.31万元、876.09万元，最近两年的增长幅度分
+别为11.20%、124.46%，总体增长幅度较大。
+表10：公司近三年负债结构
+2015年
+项  目 2013年 2014年 2015年
+行业均值
+资产负债率（%
+10.92 8.94 11.70 65.00
+）
+全部资本化比率
+0.00 0.00 0.00 0
+（%）
+总负债（万元） 351.01 390.31 876.09 -
+短期借款（万元
+0.00 0.00 0.00 -
+）
+长期借款（万元
+0.00 0.00 0.00 -
+）
+数据来源：公司提供，东方金诚整理
+从负债结构看，公司债务结构以流动性负
+债为主。截至2015年末，公司流动负债期末余
+额为876.09万元，较去年同期增长124.46%，增
+长幅度相对较大，流动负债中，应付账款、其
+他应付款、预收款、应付职工薪酬、应交税费
+项所占的比例分别为0.05%、0.09%、7.53%、35
+.56%、56.77%，其中应付职工薪酬与应交税费
+占有较大比重。
+截至2015年末，公司应付职工薪酬账面余
+额为311.5万元，较去年同期增长134.05%，应
+付职工薪酬增幅较大，主要原因在于公司增加
+了部分技术、业务人员，且工资的发放于次月1
+0-
+15日，导致员工工资在结算日存在较大挂账。
+截至2015年末，公司应交税费期末余额为4
+97.38万元，较去年同期增长152.07%，2015年
+末公司应交税费增加，主要因为应交企业所得
+税有较大幅度增长，2015年公司利润总额较去
+年同期增长147.97%，增长较快。
+2013-
+2015年末，公司流动比率分别为8.81、10.92、
+8.44，速动比率分别为8.81、10.92、8.44，公
+司最新年度的速动比率处于行业较高水平。目
+前，公司经营现金净流量与流动负债的比例分
+别为168.70%、355.66%、168.42%，近年公司经
+营性现金净流量水平持续增加，对流动负债进
+行有效覆盖程度持续加强。综合考虑到公司不
+存在短期借款，且整体流动性负债较少，同时
+整体流动性相对较为充足，公司短期内债务支
+付压力小。
+表11：公司近三年主要偿债指标
+2015年
+项  目 2013年 2014年 2015年 行业均
+值
+流动比率 8.81 10.92 8.44 -
+速动比率 8.81 10.92 8.44 87.50
+经营活动产生
+的现金净流量/ 168.70 355.66 168.42 -
+流动负债（%）
+-
+利息保障倍数 -32.09 -67.11 -
+251.75
+-
+EBITDA利息倍数 -32.09 -67.11 -
+251.75
+总债务/EBITDA 0.00 0.00 0.00 -
+经营活动产生
+的现金净流量/ 0.00 0.00 0.00 -
+总债务（%）
+经营活动产生
+的现金净流量/ 168.70 355.66 168.42 -
+总负债（%）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司资产负债率分别为10.92%、8.9
+4%、11.7%，负债水平相对较低。综合考虑公司
+整体经营趋势向好、盈利能力较强，且不存在
+非流动性负债等因素，公司长期偿债压力小。
+截至报告期，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>未来公司资金来源除自身正常经营产生的
+净现金流之外，还具有或可获得以下的资金来
+源：
+一、近年国家出台了针对中小企业、四技
+企业的税收和融资扶持政策。同时中关村科技
+园区对区内企业的融资也出台了相应的管理办
+法，在补贴利息及担保费方面均制订了优惠政
+策，公司在获得外部融资及补贴方面具有有利
+条件。
+二、公司目前正在积极筹备创业板上市事
+项，计划发行股票1000万股，募集资金18055.1
+2万元，用于项目研发。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年末，公司分别实现营业收入3374.12万元
+、4161.19万元、5871.70万元，最近两年的增
+长幅度分别为23.33%、41.11%，公司业务增长
+较快。
+2013-
+2015年末，公司营业成本分别为72.66万元、82
+.55万元、18.63万元，增长幅度分别为13.61%
+、-
+77.43%，随着公司人员设备逐渐完善，其外包
+项目越来越少，使得主营业务成本逐渐减少。
+近三年公司毛利率分别为97.85%、98.02%、99.
+68%，基本保持在较高水平。
+表8：公司盈利能力主要指标（一）
+项  目 2013年 2014年 2015年
+营业收入（万元
+3374.12 4161.19 5871.70
+）
+营业成本（万元
+72.66 82.55 18.63
+）
+利润总额（万元
+743.08 1266.83 3141.41
+）
+净利润（万元） 661.15 1113.79 2638.28
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司期间费用分别为2967.98万元、
+2987.86万元、3276.41万元，占营业收入的比
+重分别为87.96%、71.80%、55.80%，整体费用
+支出逐渐降低，近年公司期间费用控制能力有
+所加强。
+表9：公司盈利能力主要指标（二）
+2013 2014 2015 2015年
+项  目
+年 年 年 行业均值
+毛利率（%） 97.85 98.02 99.68 -
+营业利润率（%
+7.82 24.97 40.80 15.50
+）
+净资产收益率（%
+23.10 32.57 49.82 5.00
+）
+总资产报酬率（%
+23.03 32.41 52.21 3.50
+）
+数据来源：公司提供，东方金诚整理。
+从资产获利角度看，近两年公司总资产报
+酬率分别为32.41%、52.21%，净资产收益率分
+别为32.57%、49.82%，总体获利能力有所提高
+，且高于同年行业平均水平，总体来看，公司</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京宝兰德软件股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京宝兰德软件股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>3213.73 </enterprise:资产总额>
+    <enterprise:所有者权益>2862.72 </enterprise:所有者权益>
+    <enterprise:负债总额>351.01 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3374.12 </enterprise:营业收入>
+    <enterprise:EBITDA>740.14 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京宝兰德软件股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>4366.83 </enterprise:资产总额>
+    <enterprise:所有者权益>3976.51 </enterprise:所有者权益>
+    <enterprise:负债总额>390.31 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4161.19 </enterprise:营业收入>
+    <enterprise:EBITDA>1228.54 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京宝兰德软件股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>7490.88 </enterprise:资产总额>
+    <enterprise:所有者权益>6614.80 </enterprise:所有者权益>
+    <enterprise:负债总额>876.09 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5871.70 </enterprise:营业收入>
+    <enterprise:EBITDA>3095.29 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京宝兰德软件股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.10 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.26 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京宝兰德软件股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.99 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.33 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京宝兰德软件股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.20 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>14.50 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宝兰德软件股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>84.31 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宝兰德软件股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>76.06 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宝兰德软件股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>69.76 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宝兰德软件股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>881.39 </enterprise:流动比率>
+    <enterprise:速动比率>881.39 </enterprise:速动比率>
+    <enterprise:资产负债率>10.92 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-251.75 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宝兰德软件股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>1092.13 </enterprise:流动比率>
+    <enterprise:速动比率>1092.13 </enterprise:速动比率>
+    <enterprise:资产负债率>8.94 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-32.09 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宝兰德软件股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>844.12 </enterprise:流动比率>
+    <enterprise:速动比率>844.12 </enterprise:速动比率>
+    <enterprise:资产负债率>11.70 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-67.11 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京宝兰德软件股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>1.13 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>97.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>186.07 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.11 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>168.70 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京宝兰德软件股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.01 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>98.02 </enterprise:毛利率>
+    <enterprise:成本费用利润率>258.98 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.19 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>355.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京宝兰德软件股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>2.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>99.68 </enterprise:毛利率>
+    <enterprise:成本费用利润率>360.03 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.87 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>168.42 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京宝兰德软件股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1070.56 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1955.04 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>48.02 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>20.16 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3093.78 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>63.24 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>30.04 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>9.15 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>17.52 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>119.95 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3213.73 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京宝兰德软件股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2431.31 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1720.21 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>27.50 </enterprise:应收利息>
+    <enterprise:其他应收款>80.54 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>1.92 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>1.23 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4262.71 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>72.55 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>16.48 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>15.09 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>104.12 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4366.83 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京宝兰德软件股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>3939.97 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>554.14 </enterprise:应收票据>
+    <enterprise:应收账款>2770.77 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.85 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>24.96 </enterprise:应收利息>
+    <enterprise:其他应收款>79.48 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>25.12 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>7395.29 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>65.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3.63 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>26.03 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>95.59 </enterprise:非流动资产合计>
+    <enterprise:资产总计>7490.88 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宝兰德软件股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.79 </enterprise:应付账款>
+    <enterprise:预收款项>58.58 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>133.09 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>197.32 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.53 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>390.31 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>390.31 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>301.22 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2675.29 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3976.51 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3976.51 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4366.82 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宝兰德软件股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.79 </enterprise:应付账款>
+    <enterprise:预收款项>58.58 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>133.09 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>197.32 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.53 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>390.31 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>390.31 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>301.22 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2675.29 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3976.51 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3976.51 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4366.82 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宝兰德软件股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.44 </enterprise:应付账款>
+    <enterprise:预收款项>65.97 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>311.50 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>497.38 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.80 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>876.09 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>876.09 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1541.76 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>209.02 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1864.02 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6614.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6614.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>7490.89 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京宝兰德软件股份有限公司2013年利润表">
+    <enterprise:营业收入>3374.12 </enterprise:营业收入>
+    <enterprise:主营业务收入>3374.12 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>72.66 </enterprise:营业成本>
+    <enterprise:主营业务成本>72.66 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>52.94 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1218.52 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1752.40 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-2.94 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>16.63 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2016.31 </enterprise:营业利润>
+    <enterprise:营业外收入>479.17 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2495.48 </enterprise:利润总额>
+    <enterprise:所得税费用>81.93 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2413.55 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2413.55 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京宝兰德软件股份有限公司2014年利润表">
+    <enterprise:营业收入>4161.19 </enterprise:营业收入>
+    <enterprise:主营业务收入>4161.19 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>82.55 </enterprise:营业成本>
+    <enterprise:主营业务成本>82.55 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>67.19 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1115.49 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1910.65 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-38.29 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-15.46 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2949.71 </enterprise:营业利润>
+    <enterprise:营业外收入>228.85 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.08 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3177.48 </enterprise:利润总额>
+    <enterprise:所得税费用>153.04 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3024.44 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3024.44 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京宝兰德软件股份有限公司2015年利润表">
+    <enterprise:营业收入>5871.70 </enterprise:营业收入>
+    <enterprise:主营业务收入>5871.70 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>18.63 </enterprise:营业成本>
+    <enterprise:主营业务成本>18.63 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>103.01 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1346.02 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1976.51 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-46.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>77.91 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>4372.25 </enterprise:营业利润>
+    <enterprise:营业外收入>754.41 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>8.74 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>5117.92 </enterprise:利润总额>
+    <enterprise:所得税费用>503.13 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>4614.79 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>4614.79 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京宝兰德软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3746.43 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>479.17 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3.11 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4228.71 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>75.49  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2168.56 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>689.41 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>703.09 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3636.55 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>592.16 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>24.22 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>24.22 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-24.22 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>567.94 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京宝兰德软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4960.37 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>222.38 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>12.41 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>5195.16 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>89.63  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2240.26 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>768.36 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>708.72 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3806.97 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1388.19 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>10.37 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>10.37 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>37.81 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1000.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1037.81 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1027.44 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>360.75 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京宝兰德软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>5091.27 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>750.09 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3.72 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>5845.08 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>25.27  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2382.81 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1196.60 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>764.85 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4369.53 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1475.55 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>1048.79 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1048.79 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>16.48 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1033.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1049.48 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-0.69 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1474.86 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：易存道 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>易存道 </enterprise:股东名称>
+	 <enterprise:货币>660.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>22.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：张东晖 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张东晖 </enterprise:股东名称>
+	 <enterprise:货币>220.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>7.33%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：王茜 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王茜 </enterprise:股东名称>
+	 <enterprise:货币>129.00万元时间：2015-07-15</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：赵艳兴 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵艳兴 </enterprise:股东名称>
+	 <enterprise:货币>120.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：赵雪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵雪 </enterprise:股东名称>
+	 <enterprise:货币>103.2万元时间：2015-07-15</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：史晓丽 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>史晓丽 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元时间：2015-07-15</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：陈选良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈选良 </enterprise:股东名称>
+	 <enterprise:货币>60.00万元时间：2015-07-15</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：王凯 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王凯 </enterprise:股东名称>
+	 <enterprise:货币>36.00万元时间：2015-07-15</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宝兰德软件股份有限公司股东：北京易东兴股权投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京易东兴股权投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德 BESSYSTEM">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德 BESSYSTEM</enterprise:有商标名称>
+	<enterprise:有注册号>21061630</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德  BESSYSTEM BES">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德  BESSYSTEM BES</enterprise:有商标名称>
+	<enterprise:有注册号>21061918</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德 BESSYSTEM">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德 BESSYSTEM</enterprise:有商标名称>
+	<enterprise:有注册号>21062349</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德 BESSYSTEM">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德 BESSYSTEM</enterprise:有商标名称>
+	<enterprise:有注册号>21062388</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：BAOLANDE">
+	<enterprise:有申请日期>16-5-3</enterprise:有申请日期>
+	<enterprise:有商标名称>BAOLANDE</enterprise:有商标名称>
+	<enterprise:有注册号>19834761</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德">
+	<enterprise:有申请日期>16-5-3</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德</enterprise:有商标名称>
+	<enterprise:有注册号>19834877</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：宝兰德">
+	<enterprise:有申请日期>16-5-3</enterprise:有申请日期>
+	<enterprise:有商标名称>宝兰德</enterprise:有商标名称>
+	<enterprise:有注册号>19834904</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：BAOLANDE">
+	<enterprise:有申请日期>16-5-3</enterprise:有申请日期>
+	<enterprise:有商标名称>BAOLANDE</enterprise:有商标名称>
+	<enterprise:有注册号>19834779</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：WEBGATE">
+	<enterprise:有申请日期>16-1-28</enterprise:有申请日期>
+	<enterprise:有商标名称>WEBGATE</enterprise:有商标名称>
+	<enterprise:有注册号>19019894</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：BES">
+	<enterprise:有申请日期>15-6-18</enterprise:有申请日期>
+	<enterprise:有商标名称>BES</enterprise:有商标名称>
+	<enterprise:有注册号>17242210</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审有退信(商标评审申请受理通知书)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：NEOBES">
+	<enterprise:有申请日期>15-6-18</enterprise:有申请日期>
+	<enterprise:有商标名称>NEOBES</enterprise:有商标名称>
+	<enterprise:有注册号>17242227</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：NEOBES">
+	<enterprise:有申请日期>15-6-18</enterprise:有申请日期>
+	<enterprise:有商标名称>NEOBES</enterprise:有商标名称>
+	<enterprise:有注册号>17242216</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：NEOBES">
+	<enterprise:有申请日期>15-6-18</enterprise:有申请日期>
+	<enterprise:有商标名称>NEOBES</enterprise:有商标名称>
+	<enterprise:有注册号>17242206</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京宝兰德软件股份有限公司的商标信息：CLOUDLINK">
+	<enterprise:有申请日期>12-11-15</enterprise:有申请日期>
+	<enterprise:有商标名称>CLOUDLINK</enterprise:有商标名称>
+	<enterprise:有注册号>11749809</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德应用性能管理-服务可用性管理软件">
+	<enterprise:有批准日期>17-7-20</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德应用性能管理-服务可用性管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES WebGate SAM</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR384557</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德云平台-云运维平台">
+	<enterprise:有批准日期>17-7-20</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德云平台-云运维平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CloudLink Ops</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR384564</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德容器管理平台">
+	<enterprise:有批准日期>17-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德容器管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CloudLink CMP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR060740</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德应用性能监控和管理软件">
+	<enterprise:有批准日期>16-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德应用性能监控和管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR337736</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德云运维平台">
+	<enterprise:有批准日期>16-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德云运维平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CloudLink Ops</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR337950</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德应用发布平台">
+	<enterprise:有批准日期>17-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德应用发布平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Publishing Platform</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR059574</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德应用服务器软件">
+	<enterprise:有批准日期>16-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德应用服务器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Server</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR337741</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES负载均衡接入软件">
+	<enterprise:有批准日期>16-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>BES负载均衡接入软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES AccessEntry</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR013249</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES 云平台">
+	<enterprise:有批准日期>15-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>BES 云平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CloudLink</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR233214</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES消息中间件软件">
+	<enterprise:有批准日期>15-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>BES消息中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES MQ</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR090918</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES云平台">
+	<enterprise:有批准日期>15-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>BES云平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CloudLink</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR090300</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES消息中间件软件">
+	<enterprise:有批准日期>14-10-30</enterprise:有批准日期>
+	<enterprise:有软件全称>BES消息中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES MQ</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR164140</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德分布式应用部署系统">
+	<enterprise:有批准日期>14-10-24</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德分布式应用部署系统</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Deployment</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR159886</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德分布式监控系统">
+	<enterprise:有批准日期>15-1-28</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德分布式监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Distribute Monitor</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR016435</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德BES 分布式数据收集系统软件">
+	<enterprise:有批准日期>13-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德BES 分布式数据收集系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES DataCollector</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR133848</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德BES 通知服务中间件软件">
+	<enterprise:有批准日期>13-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德BES 通知服务中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES VBNotify</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR133476</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES分布式测试软件">
+	<enterprise:有批准日期>13-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>BES分布式测试软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES TestFrame</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR099817</enterprise:有登记号>
+	<enterprise:有分类号>30104-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES静态文件缓存服务器软件">
+	<enterprise:有批准日期>13-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>BES静态文件缓存服务器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Cache</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR099114</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES应用服务器软件">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>BES应用服务器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Server</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040666</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES消息中间件软件">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>BES消息中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES MQ</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040660</enterprise:有登记号>
+	<enterprise:有分类号>20200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德分布式缓存数据库软件">
+	<enterprise:有批准日期>13-5-3</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德分布式缓存数据库软件</enterprise:有软件全称>
+	<enterprise:有软件简称>CacheDB</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR039899</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES云平台">
+	<enterprise:有批准日期>13-5-3</enterprise:有批准日期>
+	<enterprise:有软件全称>BES云平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CloudLink</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR039896</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES应用服务器软件">
+	<enterprise:有批准日期>12-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>BES应用服务器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Server</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR117351</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES网站内容发布系统软件">
+	<enterprise:有批准日期>13-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>BES网站内容发布系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES CMS</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR099116</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：宝兰德BES License管理系统软件">
+	<enterprise:有批准日期>13-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>宝兰德BES License管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES LMS</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR133691</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES互联网考试系统软件">
+	<enterprise:有批准日期>13-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>BES互联网考试系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES OES</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR099816</enterprise:有登记号>
+	<enterprise:有分类号>30104-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：分布式中间件软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>分布式中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES VisiBroker</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013557</enterprise:有登记号>
+	<enterprise:有分类号>65000-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES应用服务器软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>BES应用服务器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES Application Server</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013555</enterprise:有登记号>
+	<enterprise:有分类号>65500-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：BES应用性能监控和管理软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>BES应用性能监控和管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES WebGate</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013554</enterprise:有登记号>
+	<enterprise:有分类号>65000-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京宝兰德软件股份有限公司的软件著作：分布式中间件软件">
+	<enterprise:有批准日期>10-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>分布式中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BES VisiBroker</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR015803</enterprise:有登记号>
+	<enterprise:有分类号>38000-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京宝兰德软件股份有限公司的网站备案：北京宝兰德软件股份有限公司">
+	<enterprise:有审核时间>16-6-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京宝兰德软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bessystem.com</enterprise:有网站首页>
+	<enterprise:有域名>bessystem.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10210611号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京宝兰德软件股份有限公司的网站备案：北京宝兰德软件股份有限公司">
+	<enterprise:有审核时间>16-6-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京宝兰德软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bessystem.com</enterprise:有网站首页>
+	<enterprise:有域名>bessystem.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10210611号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京宝兰德软件股份有限公司的员工基本信息">
+	<enterprise:有从业人数>95</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:32,25岁以下:52,45岁以上:11</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:82,高中及以下:0,专科:13</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:9,技术人员:54,作业人员:32</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:95人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京宝兰德软件股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京宝兰德软件股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京宝兰德软件股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京宝兰德软件股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京宝兰德软件股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 资金及高端人才支持                                                            
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京宝兰德软件股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京宝兰德软件股份有限公司的企业法人代表：易存道">
+	<enterprise:名称>易存道</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>44</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1972年3月</enterprise:出生年月>
+	<enterprise:身份证号码>632123197203******</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>EMBA</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真>65930866</enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2008-2010 中欧国际工商学院  EMBA
+1989-1993 上海同济大学  工业与民用建筑专业
+起止日期 在何地区何部门 任何职务
+董事长、
+2008-至今 北京宝兰德软件股份有限公司
+总经理
+执行董事
+2014.3-至今 苏州宝兰德软件技术服务有限公司
+、总经理
+2002-2008 北京新星宝兰软件有限公司 总经理
+2000-2002 美国BEA公司北京代表处 渠道经理
+1998-2000 美国IBM公司 销售代表</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京宝兰德软件股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>是</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>增值税17%、6%，营业税5%，城建税（应交流转税5%），教育税附加（应交流转税3%</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>），地方教育费附加（应交流转税2%），企业所得税25%</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>3,437,681.11</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>832,753.99</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京宝兰德软件股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>货到付款</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>厂家供应商</enterprise:有供应商类型>
+	<enterprise:有交易地位>主导、上级地位</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>3个月</enterprise:有延期支付>
+	<enterprise:有上年度发生额>30,534,969.46</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>13,860,346.13</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-1,645,046,40</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>10,712,158.35</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京宝兰德软件股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）-</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京宝兰德软件股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>17</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>11</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>2</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>4</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京宝兰德软件股份有限公司的商标数量">
+	<enterprise:商标总计>4</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>4</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京宝兰德软件股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

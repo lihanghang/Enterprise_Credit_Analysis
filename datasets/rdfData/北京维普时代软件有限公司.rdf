@@ -1,0 +1,1262 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京维普时代软件有限公司的企业概况">
+    <enterprise:有名称>北京维普时代软件有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087855110883</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行上地支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>23</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2006-2-23</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1500.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2026-2-22</enterprise:有营业执照到期日>
+    <enterprise:有股本>1500.00</enterprise:有股本>
+    <enterprise:有经营范围>基础软件服务；应用软件服务；技术开发、技术转让、技术咨询、技术服务、技术推广；企业管理；企业管理咨询；经济贸易咨询；会议服务；销售自行开发后的产品；计算机系统服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）基础软件服务；应用软件服务；技术开发、技术转让、技术咨询、技术服务、技术推广；企业管理；企业管理咨询；经济贸易咨询；会议服务；销售自行开发后的产品；计算机系统服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>项目管理软件的研发、销售及技术服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地三街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地三街</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100800</enterprise:有邮政编码>
+    <enterprise:有联系人>丁晨</enterprise:有联系人>
+    <enterprise:有联系电话>15910693122</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82899536</enterprise:有传真电话>
+    <enterprise:有E-mail>—</enterprise:有E-mail>
+    <enterprise:有网址>http://www.vpsoft.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京维普时代软件有限公司（以下简称
+“公司”）于 2006年 2月在北京市工商行政管
+理局海淀分局注册成立，原名为北京视锐达软
+件科技有限公司，2011年 7月变更为现名。公
+司初始注册资本 100.00万元，后经过多次增资
+及股权变更，现注册资本为 1500.00 万元，截
+至评级时点，公司股东出资和持股情况详见附
+录二之表 13。 
+公司经营范围：“基础软件服务；应用软件
+服务；技术开发、技术转让、技术咨询、技术
+服务、技术推广；企业管理；企业管理咨询；
+经济贸易咨询；会议服务；销售自行开发后的
+产品；计算机系统服务。（企业依法自主选择经
+营项目，开展经营活动；依法须经批准的项目，
+经相关部门批准后依批准的内容开展经营活
+动；不得从事本市产业政策禁止和限制类项目
+的经营活动。）”目前，公司主营业务为项目管
+理软件的研发、销售及技术服务。 
+截至2016年7月底，公司资产总额3882.75
+万元，固定资产净额 13.99 万元，所有者权益
+2330.30 万元；2015 年，公司实现营业收入
+1553.94 万元，利润总额-55.23 万元；2016 年
+1~7月，公司实现营业收入 548.96万元，利润
+总额-219.23万元。公司现有员工 23人，在北
+京市属于小型企业。 
+公司注册及经营地址：北京市海淀区上地
+三街 9号 A座 A912-57；法定代表人：王芳；
+统一社会信用代码：911101087855110883；经
+营期限：自 2006年 2月 23日至 2026年 2月
+22日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京维普时代软件有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人王芳，38岁，之前一直从
+事软件行业相关工作，2016年 2月加入公司，
+管理经验和从业经验丰富。 
+公司总经理梅景志，40岁，本科学历，曾
+任神州数码软件有限公司软件产品部架构师、
+主架构师、首席架构师，2006年加入公司，管
+理经验和从业经验符丰富。 
+公司技术总监蒋旭馗，46岁，硕士研究生
+学历，曾任联想集团核心开发程序员，现负责
+公司技术研发工作，管理经验和行业经验丰富。 
+公司解决方案总监金蓬，硕士研究生学历，
+2004 年加入神州数码项目及任务管理中心担
+任项目经理，成功完成国家开发银行项目及任
+务管理定制系统的实施，2006年加入公司，现
+兼任清华大学项目及任务管理学会理事，在项
+目及任务管理方面有较高的理论水平和实践经
+验。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 23人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 78.26%，员工学历水平较高。 
+从年龄构成看，公司员工年龄在 45岁及以
+下者占比 95.66%，员工以中青年为主。 
+从岗位构成看，公司管理人员占比
+17.39%、技术人员占比 82.61%，岗位结构合理，
+符合公司经营的需要。 
+总体看，公司员工学历水平较高，岗位结
+构合理。 
+3．研发人员素质 
+公司现有研发人员 7人，全部为本科及以
+上学历，研发人员学历水平高。 
+公司主要研发人员朱海乡，毕业于中国科
+技大学电路与系统专业，硕士研究生学历，曾
+任神州数码高级项目经理，现任公司主设计师，
+研发经验和从业经验丰富。 
+公司主要研发人员刘杰，毕业于内蒙古民
+族大学计算机科学与技术专业，本科学历，曾
+任北京中传网络技术有限公司 java 开发工程
+师，现任公司开发工程师，研发经验和从业经
+验丰富。 
+公司主要研发人员苏君峰，毕业于内蒙古
+工业大学信息管理与信息系统专业，本科学历，
+曾任中国农业发展银行鄂温克旗支行客户业务
+部客户经理、北京艾克诺思科技有限责任公司
+开发部软件工程师，现任公司开发工程师，研
+发经验和从业经验丰富。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设立了研发部，主要负责公司产品升
+级、完善等工作。公司针对不同客户所处行业
+特点进行行业组件的开发，然后嵌入项目管理
+软件中，以满足不同行业客户。 
+近三年，公司研发投入分别为300.00万元、
+200.00万元、150.00万元，分别占当年营业收
+入的 12.56%、10.42%、9.65%，研发投入主要
+用于发放研发人员工资、购置研发设备等。 
+总体看，公司科研条件一般。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>300.00万元,200.00万元,150.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>12.56%,10.42%,9.65%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京维普时代软件有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地址位于北京市海淀区上地三街
+9号 A座 A912-57，建筑面积为 20.00平方米，
+使用方式为租赁。 
+公司拥有的资质详见表 2。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业 
+1 
+编号：GR201511001785，有效期至：2018年 11月 
+中关村高新技术企业 
+2 
+编号：20152010732301，有效期至：2018年 8月 
+资料来源：公司提供，联合信用整理 
+总体看，公司经营条件较好。 
+2．业务运作 
+公司成立于 2006年，专注于“以人为核心”
+的项目管理领域，并率先提出了“组织级项目
+管理”理念，以自主研发的产品“VisualProject
+项目管理软件”为基础，帮助客户成功导入管
+理实践，奠定了公司在项目管理领域的业务基
+础。目前，公司在金融领域市场占有率较高， 同
+时也涉及到高端制造、电力、军工、医药、IT
+服务、系统集成等多个领域。 
+采购方面，公司主要采购办公用品、计算
+机、服务器等设备，各种设备有固定的供应商，
+结算方式为一般现结。 
+销售方面，公司以北京总部为依托，以上
+海、深圳、武汉三个分公司为辐射平台，建立
+了遍布全国的销售和客户服务网络。面对国内
+同行激烈竞争的市场格局，公司利用自身的技
+术优势，采取压低低端软件价格，免费让客户
+使用低端软件等策略提升竞争力；针对国外知
+名公司，公司加强对“以人为核心”的项目管
+理软件研发，并深入了解中国的国情和各行业
+国内具备较大的竞争优势。目前，公司客户主
+要分布在金融领域，并逐步拓展至非金融领域。
+结算方面，公司根据项目的实际情况采取不同
+的结算方式，公司一般按项目进度结算，验收
+合格后收款至 80%~90%，余 10%作为质保金，
+1年后结清。 
+2014年，公司专注于项目管理软件业务，
+逐步淘汰了利润率较低的业务，使得公司的收
+入有所下滑；同时，公司正在筹备项目管理软
+件在线服务业务，计划于 2017 年正式推向市
+场，该业务预计会进一步提高市场占有率，并
+降低公司的实施成本。 
+总体看，公司业务模式清晰，上下游渠道
+畅通。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 89.31 89.40 109.05 
+管理费用率(%) 35.28 49.39 21.79 
+应收账款周转次数(次) 2.68 1.90 1.11 
+存货周转次数(次) — — — 
+总资产周转次数(次) 1.04 0.77 0.49 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率整体呈上升趋势，处
+于行业高水平；同期，管理费用率整体呈下降
+趋势，2015年下降较快主要是公司研发费用下
+降所致。 
+近三年，公司无存货；同期，公司应收账
+款周转次数呈下降趋势，处于行业低水平；同
+期，总资产周转次数呈下降趋势，处于行业较
+低水平。 
+总体看，公司经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+使决定公司的经营方针和投资计划、审议批准
+执行董事和监事的报告、审议批准公司的年度
+财务预算方案和决算方案等职权；公司不设董
+事会，设执行董事 1人，行使执行股东决定、
+审定公司的经营计划和投资方案等职权；公司
+不设监事会，设监事 1人，行使检查公司财务、
+对执行董事和高级管理人员执行公司职务的行
+为进行监督等职权。 
+公司设总经理 1名，行使主持公司的生产
+经营管理工作、组织实施公司年度经营计划和
+投资方案等职权。 
+公司内设销售部、研发部、实施部、综合
+管理部，各部门职责明确，协作有序。 
+公司在上海、深圳、武汉设立了分公司，
+负责当地客户开发及维护。 
+总体看，公司法人治理结构简单，组织架
+构清晰，部门设置合理。 
+2．制度建设及执行 
+根据内部管理需求，公司针对人事、财务、
+行政、研发、技术、项目管理等方面制定了相
+应的管理制度，并通过了 ISO 9001：2008质量
+管理体系认证（有效期至 2017年 6月），进一
+步规范了公司内部运作流程。在实际经营中，
+公司严格按照相关管理制度及操作规程执行。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016年将实现营业收入 2000.00
+万元，净利润 200.00 万元；预计 2016 年底公
+司资产总额 3081.03 万元，负债总额 1500.00
+万元，所有者权益 1581.03 万元①。相比 2015
+① 预测数据为联合信用根据上年度审计报告和公司实
+年，联合信用预计公司 2016 年营业收入增长
+28.71%，负债率变动幅度为-13.75%，净资产收
+益率变动幅度为 17.42%。 
+总体看，联合信用预测公司短期内业务发
+展较好。 
+2．融资需求 
+截至评级时点，公司暂无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京维普时代软件有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 2294.77 万
+元、2719.32万元、3676.68万元，复合增长率
+为 26.58%，增长稳定，主要由于公司业务规模
+扩大所致。截至 2016年 7月底，公司资产总额
+3882.75 万元，其中：流动资产占比 80.75%，
+非流动资产占比 19.25%。 
+截至2016年7月底，公司流动资产3135.42
+万元，其中：货币资金 413.85 万元，占比
+13.20%，资金比较充足；应收账款 539.77万元，
+占比 17.22%，主要为应收石化盈科信息技术有
+限责任公司、新华人寿有限公司、招商银行股
+份有限公司、兰州银行股份有限公司、大连飞
+创信息技术有限公司等客户的项目款，账龄在
+1年以内的占比 56.73%，1~2年的占比 9.80%，
+2年以上的占比 33.47%，公司已计提坏账准备；
+其他应收款 2144.57万元，占比 68.40%，主要
+为员工借款、房租押金和投标保证金等。 
+图 1  公司 2016年 7月底流动资产构成图 
+截至 2016 年 7 月底，公司非流动资产
+747.32万元，其中：固定资产净额 13.99万元，
+占比 1.87%，主要为运输工具和办公设备；无
+形资产 733.33 万元，占比 98.13%，为非专利
+技术。 
+总体看，公司资产流动性较弱，资产质量
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，2016年 7月底，
+公司流动比率和速动比率分别为 201.97%、
+199.89%，均处于行业一般和较高水平，2015
+年现金流动负债比为 5.95%，公司短期偿债能
+力较弱。 
+从长期偿债能力指标看，2015 年，公司
+EBITDA利息倍数和债务保护倍数分别为-2.00
+倍和-0.66倍，公司长期偿债能力较弱。 
+结合公司经营和发展情况来看，公司未来
+一年内整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 52.81%、
+47.18%、62.44%，呈上升趋势；同期，全部债
+务资本化比率分别为 45.74%、14.95%、5.63%。
+截至 2016 年 7 月底，公司资产负债率为
+39.98%，全部债务资本化比率为 2.90%，公司
+负债水平一般，有息债务压力较小。 
+近三年，公司负债总额分别为 1211.82 万
+元、1283.06万元、2295.65万元，复合增长率
+为 37.64%，整体呈上升趋势。 
+截至2016年7月底，公司负债总额1552.44
+万元，全部为流动负债，其中：短期借款 69.55
+万元，但未提供明细；应付账款 1276.71万元，
+主要为应付创想空间软件技术（北京）有限公
+司、北京博源通科技有限公司、北京联创智融
+信息技术有限公司等供应商的款项；其他应付
+伙企业（有限合伙）、北京林毅时代软件技术有
+限公司等的往来款。 
+近三年，公司所有者权益分别为 1082.95
+万元、1436.26万元、1381.03万元，复合增长
+率为 12.93%，2015 年有所下降主要是公司当
+年亏损所致。 
+截至 2016 年 7 月底，公司所有者权益为
+2330.30万元，其中：实收资本 1500.00万元，
+占比64.37%；资本公积29.08万元，占比1.25%；
+未分配利润 801.23 万元，占比 34.38%。公司
+所有者权益对债务保障能力较强。 
+总体看，公司负债水平一般，有息债务压
+力较小，所有者权益成长性一般，但对债务保
+障能力较强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 2389.41 万
+元、1919.52万元、1553.94万元，复合变动率
+为-19.36%；同期，利润总额分别为 372.09 万
+元、252.36 万元、-55.23 万元，复合变动率为
+-1.00%。公司收入和利润均出现下滑，主要是
+公司逐步淘汰了利润率较低的业务，使得公司
+的收入有所下滑；同时，公司正在筹备的项目
+管理软件在线服务业务前期投入较大使得成本
+较高所致。 
+近三年，公司主营业务利润率分别为
+67.44%、 71.98%、 23.08%，加权平均值为
+46.62%，处于行业一般水平；同期，总资产报
+酬率分别为 17.70%、13.34%、-1.16%，加权平
+均值为 6.96%，处于行业低水平；同期，净资
+产收益率分别为 34.36%、20.03%、-3.92%，加
+权平均值为 10.92%，处于行业较低水平。公司</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京维普时代软件有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司存在行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司正在筹备项目管理软件在线服务业
+务，计划于 2017年正式推向市场，该项业务进
+展情况有待持续跟踪。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司经营效率较低，成本率高，成本
+控制有待加强。 
+（2）公司其他应收款占比较大，宜加强其
+他应收款的管理。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京维普时代软件有限公司2013年基本财务指标">
+    <enterprise:资产总额>2294.77 </enterprise:资产总额>
+    <enterprise:所有者权益>1082.95 </enterprise:所有者权益>
+    <enterprise:负债总额>1211.83 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2389.41 </enterprise:营业收入>
+    <enterprise:EBITDA>416.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京维普时代软件有限公司2014年基本财务指标">
+    <enterprise:资产总额>2719.32 </enterprise:资产总额>
+    <enterprise:所有者权益>1436.26 </enterprise:所有者权益>
+    <enterprise:负债总额>1283.06 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1919.52 </enterprise:营业收入>
+    <enterprise:EBITDA>340.12 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京维普时代软件有限公司2015年基本财务指标">
+    <enterprise:资产总额>3676.68 </enterprise:资产总额>
+    <enterprise:所有者权益>1381.03 </enterprise:所有者权益>
+    <enterprise:负债总额>2295.65 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1553.94 </enterprise:营业收入>
+    <enterprise:EBITDA>-36.38 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京维普时代软件有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.04 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京维普时代软件有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.77 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.90 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京维普时代软件有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.49 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.11 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京维普时代软件有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>103.88 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京维普时代软件有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>76.59 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京维普时代软件有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>22.74 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京维普时代软件有限公司2013年偿债能力指标">
+    <enterprise:流动比率>144.48 </enterprise:流动比率>
+    <enterprise:速动比率>144.48 </enterprise:速动比率>
+    <enterprise:资产负债率>52.81 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>12.24 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京维普时代软件有限公司2014年偿债能力指标">
+    <enterprise:流动比率>133.95 </enterprise:流动比率>
+    <enterprise:速动比率>133.95 </enterprise:速动比率>
+    <enterprise:资产负债率>47.18 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>4.14 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京维普时代软件有限公司2015年偿债能力指标">
+    <enterprise:流动比率>116.60 </enterprise:流动比率>
+    <enterprise:速动比率>116.60 </enterprise:速动比率>
+    <enterprise:资产负债率>62.44 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-2.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京维普时代软件有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>68.77 </enterprise:毛利率>
+    <enterprise:成本费用利润率>81.45 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.46 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>15.31 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>45.74 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京维普时代软件有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>73.35 </enterprise:毛利率>
+    <enterprise:成本费用利润率>126.67 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>14.95 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京维普时代软件有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>23.95 </enterprise:毛利率>
+    <enterprise:成本费用利润率>23.69 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>5.63 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京维普时代软件有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>252.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>892.35 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>144.16 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1288.51 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>6.26 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1000.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1006.26 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2294.77 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京维普时代软件有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>150.40 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1124.68 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>443.61 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1718.69 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.63 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1000.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1000.63 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2719.32 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京维普时代软件有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>98.55 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1686.77 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>891.36 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2676.68 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1000.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1000.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3676.68 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京维普时代软件有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>252.54 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>51.35 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>247.26 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>133.71 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>598.20 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1283.06 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1283.06 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>29.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-92.82 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1436.26 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1436.26 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2719.32 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京维普时代软件有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>252.54 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>51.35 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>247.26 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>133.71 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>598.20 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1283.06 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1283.06 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>29.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-92.82 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1436.26 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1436.26 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2719.32 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京维普时代软件有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>82.39 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1181.13 </enterprise:应付账款>
+    <enterprise:预收款项>51.29 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>204.60 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>133.67 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>642.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>2295.65 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2295.65 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>29.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-148.05 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1381.03 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1381.03 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3676.68 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京维普时代软件有限公司2013年利润表">
+    <enterprise:营业收入>2389.41 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>746.29 </enterprise:营业成本>
+    <enterprise:主营业务成本>746.29 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>31.75 </enterprise:营业税金及附加>
+    <enterprise:销售费用>503.65 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>752.88 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>99.44 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1008.28 </enterprise:营业利润>
+    <enterprise:营业外收入>162.32 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>45.62 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1124.98 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1124.98 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1124.98 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京维普时代软件有限公司2014年利润表">
+    <enterprise:营业收入>1919.52 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>511.53 </enterprise:营业成本>
+    <enterprise:主营业务成本>511.53 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>26.31 </enterprise:营业税金及附加>
+    <enterprise:销售费用>248.07 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>847.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>82.48 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1051.13 </enterprise:营业利润>
+    <enterprise:营业外收入>49.04 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.19 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1099.98 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1099.98 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1099.98 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京维普时代软件有限公司2015年利润表">
+    <enterprise:营业收入>1553.94 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1181.82 </enterprise:营业成本>
+    <enterprise:主营业务成本>1181.82 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>13.47 </enterprise:营业税金及附加>
+    <enterprise:销售费用>114.03 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>369.21 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>15.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>228.63 </enterprise:营业利润>
+    <enterprise:营业外收入>85.37 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>313.99 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>313.99 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>313.99 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京维普时代软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1106.12 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>69.91 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>62.72 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1238.75 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京维普时代软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2.76  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>383.37 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>121.49 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>594.61 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1102.23 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>136.52 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>100.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>288.37 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>288.37 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-188.37 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-51.85 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京维普时代软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京维普时代软件有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京维普时代软件有限公司股东：王芳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王芳 </enterprise:股东名称>
+	 <enterprise:货币>1500 万元 人民币时间：2016-02-26</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京维普时代软件有限公司的商标信息：VPSOFT">
+	<enterprise:有申请日期>13-8-30</enterprise:有申请日期>
+	<enterprise:有商标名称>VPSOFT</enterprise:有商标名称>
+	<enterprise:有注册号>13166536</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京维普时代软件有限公司的商标信息：视锐达">
+	<enterprise:有申请日期>06-7-5</enterprise:有申请日期>
+	<enterprise:有商标名称>视锐达</enterprise:有商标名称>
+	<enterprise:有注册号>5462017</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：LinkSAP项目财务管理SAP接口软件">
+	<enterprise:有批准日期>14-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>LinkSAP项目财务管理SAP接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR172089</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualDevice设备管理软件">
+	<enterprise:有批准日期>14-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualDevice设备管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR172156</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：LinkPTC研发项目管理PTC接口软件">
+	<enterprise:有批准日期>14-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>LinkPTC研发项目管理PTC接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR172233</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualBudget预算管理软件">
+	<enterprise:有批准日期>14-9-10</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualBudget预算管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR135737</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：Visual CRM客户管理软件">
+	<enterprise:有批准日期>14-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>Visual CRM客户管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR189603</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualProject组织级项目管理软件">
+	<enterprise:有批准日期>14-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualProject组织级项目管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR066338</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualProject 组织级项目管理软件">
+	<enterprise:有批准日期>13-3-11</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualProject 组织级项目管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR021865</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualProject 组织级项目管理软件">
+	<enterprise:有批准日期>11-11-30</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualProject 组织级项目管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR088919</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualFile文档管理软件">
+	<enterprise:有批准日期>11-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualFile文档管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR094740</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualPeople资源管理软件">
+	<enterprise:有批准日期>11-11-19</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualPeople资源管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR084647</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualTest测试管理软件">
+	<enterprise:有批准日期>11-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualTest测试管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR094736</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualKnow知识管理软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualKnow知识管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>VisualKnow</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR019218</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：SmartProject 项目管理软件">
+	<enterprise:有批准日期>11-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>SmartProject 项目管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR089137</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualReport组合分析软件">
+	<enterprise:有批准日期>11-11-30</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualReport组合分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR089093</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualNeed需求管理软件">
+	<enterprise:有批准日期>11-11-19</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualNeed需求管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR084651</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualTask">
+	<enterprise:有批准日期>09-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualTask</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020624</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：LinkERP">
+	<enterprise:有批准日期>09-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>LinkERP</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020623</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：GoTask">
+	<enterprise:有批准日期>09-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>GoTask</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020626</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：Visualproject lite">
+	<enterprise:有批准日期>09-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>Visualproject lite</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020622</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：linkALM">
+	<enterprise:有批准日期>09-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>linkALM</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020625</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualProject组织级项目管理软件">
+	<enterprise:有批准日期>09-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualProject组织级项目管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>VisualProjectV3.9</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR020142</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京维普时代软件有限公司的软件著作：VisualProject组织级项目管理软件 V3.8 [简称: VisualProject]">
+	<enterprise:有批准日期>08-10-24</enterprise:有批准日期>
+	<enterprise:有软件全称>VisualProject组织级项目管理软件 V3.8 [简称: VisualProject]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR26863</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京维普时代软件有限公司的网站备案：北京维普时代软件有限公司">
+	<enterprise:有审核时间>12-4-11</enterprise:有审核时间>
+	<enterprise:有网站全称>北京维普时代软件有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vpsoft.cn</enterprise:有网站首页>
+	<enterprise:有域名>vpsoft.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11043222号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京维普时代软件有限公司的网站备案：北京维普时代软件有限公司">
+	<enterprise:有审核时间>12-4-11</enterprise:有审核时间>
+	<enterprise:有网站全称>北京维普时代软件有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.smartproject.cn</enterprise:有网站首页>
+	<enterprise:有域名>smartproject.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11043222号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京维普时代软件有限公司的网站备案：北京维普时代软件有限公司">
+	<enterprise:有审核时间>12-4-11</enterprise:有审核时间>
+	<enterprise:有网站全称>北京维普时代软件有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.visualproject.cn</enterprise:有网站首页>
+	<enterprise:有域名>visualproject.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11043222号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京维普时代软件有限公司的员工基本信息">
+	<enterprise:有从业人数>23</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:20,25岁以下:2,45岁以上:1</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:18,高中及以下:0,专科:5</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:4,技术人员:19,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:23人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京维普时代软件有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未发生变化</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京维普时代软件有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>是</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>招商银行、中石油、中石化等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>近三年，公司营业收入呈下降趋势</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京维普时代软件有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>竞争激烈</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京维普时代软件有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京维普时代软件有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 市场需求较大。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京维普时代软件有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京维普时代软件有限公司的企业法人代表：王芳">
+	<enterprise:名称>王芳</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>38岁</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1978.12</enterprise:出生年月>
+	<enterprise:身份证号码>132421197812166820</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>执行董事</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2016.02至今 北京维普时代软件有限公司 执行董事</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京维普时代软件有限公司的下属单位：武汉分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>武汉分公司</enterprise:名称>
+	<enterprise:主要职能>当地客户开发及维护</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:下属单位 rdf:ID="北京维普时代软件有限公司的下属单位：深圳分公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>深圳分公司</enterprise:名称>
+	<enterprise:主要职能>当地客户开发及维护</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:下属单位 rdf:ID="北京维普时代软件有限公司的下属单位：上海分公司">
+	<enterprise:序号>3</enterprise:序号>
+	<enterprise:名称>上海分公司</enterprise:名称>
+	<enterprise:主要职能>当地客户开发及维护</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京维普时代软件有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>其他信息</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>1231.57万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>674.24万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京维普时代软件有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>供应商类型</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动额</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>上年末应付账款余额</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3.或有负债情况</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京维普时代软件有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>信用网查询记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>纳税信用等级</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>互联网查询情况</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京维普时代软件有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京维普时代软件有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京维普时代软件有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京维普时代软件有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京维普时代软件有限公司的软件著作数量">
+	<enterprise:软件著作总计>8</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>2</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京维普时代软件有限公司的商标数量">
+	<enterprise:商标总计>1</enterprise:商标总计>
+	<enterprise:商标数量2013>1</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京维普时代软件有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

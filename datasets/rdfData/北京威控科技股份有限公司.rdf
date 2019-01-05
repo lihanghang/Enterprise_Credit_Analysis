@@ -1,0 +1,1483 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京威控科技股份有限公司的企业概况">
+    <enterprise:有名称>北京威控科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行清河支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>82</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1834.3396</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>1834.3396</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术服务、技术咨询、技术转让；基础软件服务；应用软件服务（不含医用软件）；计算机系统服务；专业承包；企业管理咨询；企业策划、设计；经济贸易咨询；销售计算机、软件及辅助设备、机械设备、电子产品；货物进出口、技术进出口、代理进出口；软件开发；计算机系统服务；租赁机械设备（不含汽车租赁）；生产加工水文仪器（限分支机构经营）；组装电子产品（限分支机构经营）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术服务、技术咨询、技术转让；基础软件服务；应用软件服务（不含医用软件）；计算机系统服务；专业承包；企业管理咨询；企业策划、设计；经济贸易咨询；销售计算机、软件及辅助设备、机械设备、电子产品；货物进出口、技术进出口、代理进出口；软件开发；计算机系统服务；租赁机械设备（不含汽车租赁）；生产加工水文仪器（限分支机构经营）；...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>智能酒店，智能家居，物联网</enterprise:有主营业务>
+    <enterprise:有行业分类>电子</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区高里掌路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区高里掌路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100095</enterprise:有邮政编码>
+    <enterprise:有联系人>甄婷婷</enterprise:有联系人>
+    <enterprise:有联系电话>010-62305007</enterprise:有联系电话>
+    <enterprise:有传真电话>010-62305007</enterprise:有传真电话>
+    <enterprise:有E-mail>Zhentingting@vcontrol.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.vcontrol.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京威控科技股份有限公司（以下简称“威
+控科技”或“公司”）成立于2004年12月4日，
+由王涛、李建明、胡字滢共同出资设立，初始注
+册资本为50万元，公司成立时的股权结构如表1
+所示。公司于2013年8月2日在全国中小企业股份
+转让系统挂牌，证券代码为430292。截至2016年
+6月末，公司注册资本1834.34万元，前十名股东
+持股情况如表2所示。公司注册地址为北京市海
+淀区高里掌路1号院6号楼1层105，法定代表人王
+涛。
+表1：公司成立时股权情况
+金额
+股东名称 持股比例 股东性质
+（万元）
+王涛 19.5 39% 自然人
+李建明 16 32% 自然人
+胡字滢 14.5 29% 自然人
+合计 50 100%
+数据来源：公司提供
+表 2：截至 2016年 6月末公司前十大股东持股情
+况
+期末持股数
+股东名称 持股比例
+（万股）
+王涛 479.30 26.13
+胡字滢 378.62 20.64
+李建明 376.42 20.52
+中泰证券股份有限公司
+166.60 9.08
+做市专用证券账户
+长安基金-包商银行-长
+安源乐晟新三板 1号分 95.04 5.18
+级资产管理计划
+中原证券股份有限公司
+77.40 4.22
+做市专用证券账户
+崔成 51.30 2.80
+华夏资本-平安银行-华
+夏资本-新三板聚宝1号 50.00 2.73
+专项资产管理计划
+华夏资本-平安银行-华
+夏资本-新三板聚宝2号 50.00 2.73
+专项资产管理计划
+华金证券有限公司做市
+40.70 2.22
+专用证券账户
+合计 1765.38 96.24%
+数据来源：公司 2016 年半年度报告
+公司专注于智能控制器智慧酒店领域，主要
+收入来源是为国内高端星级酒店、中档连锁酒店
+等提供软、硬件产品与服务。硬件包括无线入口、
+自动入住、智能电视、智能客房、智能音箱等；
+软件包括面向客人的互动服务、智慧体验，客户
+评价等；服务包括面向酒店的工程维修、酒店运
+营、成本控制及人员管控等，以及支撑软、硬件
+的云平台服务。
+目前，公司目前拥有一家全资子公司无锡威
+控科技发展有限公司，其法定代表人为吴会峰，
+注册资本100万元人民币，主要从事智能家居技
+术开发、物联网技术应用和计算机软硬件的销售
+业务。
+公司下设一家分公司即北京威控科技股份
+有限公司海淀分公司，成立于2012年11月，注册
+地址为北京市海淀区清河西三旗环岛东2号楼
+1002室，是公司的主要生产基地，负责公司产品
+的组装、调试和质检。
+公司是经北京市科学技术委员会、北京市财
+政局、北京市国家税务局、北京市地方税务局联
+合 认 定 的 高 新 技 术 企 业 ， 证 书 编 号 为
+GR201511003590，是经中关村科技园区管理委员
+会认定的中关村高新技术企业，证书编号为
+20152010738601。
+截至2015年末，公司资产总额4084.68万元，
+负债总额495.00万元，资产负债率12.12%。当年
+公司实现营业收入2424.15万元，利润总额
+803.06万元。
+截至2016年6月末，公司资产总额4764.42万
+元，负债总额1307.68万元，资产负债率27.45%。
+2016年1-6月公司实现营业收入812.49万元，利
+润总额-134.21万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京威控科技股份有限公司的基础素质">
+    <enterprise:有管理素质>董事长王涛，男，39岁，研究生学历。2002
+年毕业于北京航空航天大学机械电子工程专业，
+获得硕士学位。2002年-2003年，任北京研华兴
+业电子科技有限公司研发主管；2003年-2004年，
+任北京博控自动化技术有限公司销售经理；2004
+年-2012年，任有限公司执行董事兼总经理，现
+任公司董事长兼总经理。
+财务总监李建明，男，39岁，研究生学历。
+2003年毕业于北京航空航天大学材料加工工程
+专业，获得硕士学位；2003年-2004年，任北京
+安控科技发展有限公司工程师；2004年-2012年，
+任有限公司副总经理、监事；2012年9月起任公
+司董事兼副总经理，并于2014年2月起兼任公司
+财务总监。
+董事会秘书胡字滢，男，39岁，博士研究生
+学历。1999年毕业于北京航空航天大学机械工程
+及自动化专业，获学士学位。1999年-2000年，
+任北京越华电器有限公司嵌入式研发工程师；
+2000年-2001年，任北京得贝电子科技有限公司
+网络通信研发工程师；2001年-2011年，就读于
+北京航空航天大学交通信息工程及控制专业，获
+得硕士学位和博士学位；2004年-2012年，任有
+限公司副总经理；2012年9月起任公司董事兼副
+总经理，并于2013年8月起兼任公司董事会秘书。
+总体看，公司主要管理人员均具有较强的专
+业知识和较丰富的管理经验，为企业发展提供了
+有利条件。</enterprise:有管理素质>
+    <enterprise:有人员素质>截至2015年末，公司在职员工78人，其中，
+技术人员30人，占比38.46%。公司核心技术人员
+包括王涛，李建明，胡字滢，章俊等。专职研发
+人员均来自于电子工程、自动化、机械电子、软
+件工程等专业，多数人员具有两年以上的研发经
+验。整体而言，公司的研发团队知识结构较为合
+理，研发能力较强，有效的支撑了公司研发体系。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设有独立的研发部门，其职能包括新产
+品、新技术的预研与立项开发、按项目要求完成
+研发任务等。另外，公司还建立了相关管理制度
+和激励机制，保证了研发的可持续发展。
+公司重视技术研发，研发投入相对较高。
+2013-2015年，公司研发支出分别为141.72万元、
+109.73万元、348.67万元，占当年营业收入的比
+重分别为14.16%、10.66%、14.49%。
+总体来看，公司的研发支出维持在较高水平,
+能够满足研发需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京威控科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司主要从事智能建筑与家居智能控制器
+和工业远程测控用控制器的研发、生产与销售。
+2013-2015年，公司营业收入增长较快，盈利能
+力不断增强
+公司主要从事智能控制器的研发、生产和销
+售，包括智能控制技术的研究、对应的嵌入式软
+件与算法的开发等。公司的产品主要应用在智能
+建筑与家居、工业远程测控两个领域。
+近三年，随着公司市场拓展力度的加大，业
+务规模不断扩大，营业收入实现较快增长，
+2013-2015年公司营业收入分别为1001.06万元、
+1029.19万元、2424.15万元，增长幅度分别为
+2.81%、135.54%。2015年公司营业收入增长较快
+的原因主要是受益于国家加大对农业信息化及
+气象监测等领域的投入，工控产品销售收入增长
+较快所致。
+公司主要收入来源是为国内高端星级酒店、
+中档连锁酒店等提供软、硬件产品与服务。从收
+入构成来看，2013-2015年，客控收入占总收入
+的比重为分别为65.34%、51.56%、24.59%；工控
+收入占总收入的比重为分别为30.60%、42.53%、
+57.41%。工控收入对总收入的贡献度不断提升。
+从毛利率来看，2014-2015年，公司综合毛
+利率分别为50.04%、58.61%。随着公司大客户增
+加，平均合同额提升，毛利率有所提升。从毛利
+构成情况来看，2015年工控产品对毛利的贡献度
+从2014年的42.52%提升至57.19%，而客控产品对
+毛利的贡献度从2014年的51.55%下降至23.92%。
+表4：2014-2015年公司收入构成情况
+单位：万元，%
+产品 2014 年 2015 年
+和服
+收入 成本 毛利率 收入 成本 毛利率
+务
+客控 530.64 265.16 50.03 609.13 249.15 55.80
+工控 437.68 218.68 50.04 1381.92 569.29 58.80
+维保
+60.87 30.34 50.16 433.11 164.87 61.93
+服务
+合计 1029.19 514.18 - 2424.16 1003.39 -
+数据来源：公司年报
+公司与重要客户保持了紧密的合作关系，主
+导产品“智慧酒店信息生态系统”在各业态酒店
+的应用不断扩大，为未来业务开展奠定坚实基
+础。
+近年来，公司专注于智能控制器智慧酒店领
+域，主导产品“智慧酒店信息生态系统”由面向
+客人的体验服务、面向酒店的运营管理及成本控
+制、云平台软件服务及智能硬件支撑体系等构
+成。该系统可以满足不同系列酒店开源节流的需
+求，有助于酒店企业增加客人体验、降低运营成
+本以及提高管理效率。
+近两年，在老酒店改造需求和中档连锁酒店
+新增需求的共同作用下，“智慧酒店信息生态系
+统”在国内中、高档酒店以及集团型酒店等不同
+业态酒店中的应用不断扩大。
+2014年公司进入铂涛集团采购平台，标志着
+公司智慧酒店信息生态系统全面进入连锁型中
+档酒店，功能涵盖房间智能控制、环境监控、能
+耗管理、安全防范、智能电视、智能门锁等，同
+时涉及到云端大数据的存储和客户行为分析，旨
+在提高客户粘性，和客户分享能耗积分（碳积
+分），长期持续对会员进行运营。除此之外，近
+两年，公司相继同富驿酒店集团、银座佳驿酒店
+管理集团、雅阁集团、首旅集团、中青旅山水、
+来电集团、泉盈酒店集团等知名酒店企业就“智
+慧酒店信息生态系统”在各企业旗下酒店的应用
+签订战略合作协议。与各业态酒店合作的顺利开
+展为公司未来业务开展奠定坚实基础。
+公司在智能控制器智慧酒店领域的知名度
+不断提升
+随着公司“智慧酒店信息生态系统”在不同
+业态酒店的应用不断扩大，公司积累了较为丰富
+的项目经验，综合服务能力不断增强，行业知名
+度有所提升。2015年4月，公司先后被中国酒店
+金工奖评审委员评定为2015年中国酒店最佳智
+能客房控制推荐品牌、被中国饭店协会评定为
+2015年中国饭店业信息化金牌供应商。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>在法人治理方面，公司根据《公司法》、《证
+券法》、《非上市公众公司监督管理办法》、 全
+国中小企业股份转让系统制定的相关规范性文
+件的要求及其他相关法律、法规的要求，不断完
+善法人治理结构，建立行之有效的内控管理体
+系，确保公司规范运作。公司股东大会、董事会、
+监事会的召集、召开、表决程序符合有关法律、
+法规的要求，且均严格按照相关法律法规，履行
+各自的权利和义务，公司重大生产经营决策、投
+资决策及财务决策均按照《公司章程》及有关内
+控制度规定的程序和规则进行。
+在内部管理方面，公司不断加强战略管理体
+系的建设，通过梳理和整改岗位职责及目标、现
+有流程，明确职责和目标，简化流程体系，提升
+工作效率；通过整理、汇编现有制度体系，使公
+司的制度更加科学化、合理化，落实各项规章制
+度；继续加强工程质量管理、安全生产管理、财
+务管理、制度建设等方面的管理优化工作，加强
+成本管控、内部审计力度，提升公司治理水平，
+确保公司健康、良好发展。
+总体来看，公司治理机制完善，内部管理规
+范性较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>国家旅游局数据显示，全国主要城市的酒店
+客房智能化改造市场超过1000亿元，且每年酒店
+数量有20%左右的增长，同时，终端消费者需求
+趋势为注重体验感，创新、舒适、智能；高端酒
+店、经济酒店、中档酒店、民宿酒店将根据市场
+需求的转变，进而改革创新、节能，因此，未来
+智能家居应用于酒店改造的前景非常广阔。智能
+酒店、客房控制、智慧生态信息系统是酒店需求
+新生态，公司现有产品线能够满足行业发展新变
+化的趋势需要，未来发展前景较好。
+财务分析
+公司提供了2013-2016年6月的财务报表，其
+中2013-2015年财务报表均经中兴财光华会计师
+事务所(特殊普通合伙)审计，并均出具了标准无
+保留意见的审计报告，2016年6月财务报表未经
+审计。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京威控科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-2015年公司总资产分别为1323.02万
+元、1447.67万元、4084.68万元，增长幅度近两
+年分别为9.42%、182.16%。2015年公司总资产大
+幅增长主要是股东增资所致。
+图1：公司2013-2015年资产构成（万元）
+数据来源：公司提供经审计财务报表
+从资产结构的变化看，2013-2015年公司流
+动资产分别为1136.23万元、1206.71万元、
+3454.32万元，增长幅度近两年分别为6.20%、
+186.26%；非流动资产分别为186.79万元、240.96
+万元、630.36万元，增长幅度近两年分别为
+29.00%、161.60%。截至2015年底，公司流动资
+产为3454.32万元，非流动资产为630.36万元，
+分别占资产总额的84.57%和15.43%，公司资产以
+流动资产为主。
+图2：公司2013-2015年流动资产构成（万
+元）
+数据来源：公司提供经审计财务报表
+图3：公司2015年末流动资产构成（万元）
+数据来源：公司提供经审计财务报表
+2015年底，公司货币资金、应收账款、其他
+应收款、预付账款、存货分别占流动资产的
+36.59%、41.71%、3.21%、8.11%、10.38%，其中
+应收账款、货币资金所占比重较大。
+截至2015年末，公司应收账款期末余额为
+1440.87万元，占年末流动资产的41.71%，较上
+年增长131.53%。应收账款的大幅增长的原因一
+方面是为了发展业务，给予部分新客户一定的账
+期；另一方面是由于终端客户施工周期长、项目
+验收时间长等原因，导致公司销售回款周期相对
+较长。从应收账款账龄来看，1年以内的占比
+78.18%，1-2年的占比14.31%。应收账款期末余
+额前五名合计占应收款总额的比例为58.37%，分
+别是上海宝信软件股份有限公司北京分公司
+372.24万元，占比23.24%；广州万润智能科技有
+限公司195.23万元，占比12.19%；北京恒宇伟业
+科技发展有限公司152.92万元，占比9.55%；北
+京润华信通科技有限公司111.01万元，占比
+6.93%；北京精密机电设备研究所103.55万元，
+占比6.46%。
+公司应收账款增长较快，占流动资产比重较
+大，对流动资金形成一定占压。
+截至2015年末，公司其他应收款期末余额为
+110.98万元，主要是工程质保金、投标保证金、
+房租押金等。
+截至2015年末，公司存货主要为原材料及库
+存商品、半成品、发出商品等。
+截至2015年末，公司长期股权投资、固定资
+产、开发支出分别占非流动资产的21.20%、
+10.51%、68.28%，其中开发支出占有较大比重。
+公司长期股权投资主要是对子公司无锡威控科
+技发展有限公司的投资133.65万元；固定资产主
+要为电子设备、办公设备及运输设备等；开发支
+出是公司研发的“无线智慧酒店客房信息管理系
+统”的相关投入。
+表5：公司2014-2015年资产运营状况
+2015 年
+项 目 2014 年 2015 年
+行业均值
+应收账款周转率 1.78 2.35 5.80
+存货周转率 1.44 2.84 14.50
+流动资产周转率 0.88 1.04 2.50
+总资产周转率 0.74 0.88 1.20
+数据来源：根据公司提供经审计财务报表计算
+从运营效率来看，2015年公司营运效率较上
+年有所提升，但仍低于行业平均水平，公司总体
+运营效率尚有待改善。
+总体看，公司资产质量尚可，但运营效率有
+待提升。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-2015年，公司总负债分别为662.37万
+元、779.17万元、495.00万元，最近两年的增长
+幅度分别为17.63%、-36.47%，呈减少趋势。
+表 8：公司 2013-2015年负债结构
+2015
+年
+项 目 2013 年 2014 年 2015 年
+行业
+均值
+资产负债率（%） 50.07 53.82 12.12 65.00
+全部资本化比率（%） 23.24 30.98 0.00 0
+总负债（万元） 662.37 779.17 495.00 -
+短期借款（万元） 200.00 300.00 0.00 -
+长期借款（万元） 0.00 0.00 0.00 -
+数据来源：根据公司提供经审计财务报表计算
+从负债结构看，截至2015年末，公司负债全
+部为流动负债，无长期负债。流动负债中，应付
+账款、其他应付款、预收款项所占的比例分别为
+60.16%、10.72%、7.06%。
+截至2015年末，公司无有息债务。
+截至2016年6月末，公司长短期有息债务余
+额为1000万元，分别是公司于2016年1月22日自
+北京银行借入的1年期贷款300万元，贷款利率为
+5.22%以及公司于2016年2月5日自北京银行借入
+10年期贷款700万元，贷款利率为6.37%，抵押品
+为公司位于海淀区高里掌路1号院6号楼的办公
+用房。
+2013-2015年，公司流动比率分别为1.72、
+1.55、6.98，速动比率分别为1.16、1.10、6.25，
+2015年流动比率、速动比率均处于行业良好水
+平，公司短期偿债能力有所增强。
+表 9：公司 2013-2015年主要偿债指标
+2015
+年
+项 目 2013 年 2014 年 2015 年
+行业均
+值
+流动比率 1.72 1.55 6.98 -
+速动比率 1.16 1.10 6.25 87.50
+经营活动产生
+的现金净流量 -41.56 -2.74 -38.32 -
+/流动负债（%）
+利息保障倍数 - - - -
+EBITDA利息倍数 - - - -
+总债务
+11.53 10.49 0.00 -
+/EBITDA
+经营活动产生
+的现金净流量 -137.65 -7.12 0.00 -
+/总债务（%）
+经营活动产生
+的现金净流量 -41.56 -2.74 -38.32 -
+/总负债（%）
+数据来源：根据公司提供经审计财务报表计算
+公 司 2013-2015 年 资 产 负 债率 分 别为
+50.07%、53.82%、12.12%，负债水平较低。
+截至报告期，公司无对外担保事项。
+总体看，公司经营处于良性循环状态，负债
+水平较低，有息债务规模较小，盈利能力不断增
+强，综合分析，公司具备一定的偿债能力。</enterprise:偿债能力>
+    <enterprise:财务弹性>近年国家出台了针对中小企业的扶持政策。
+同时中关村科技园区对区内企业的融资也出台
+了相应的管理办法，在补贴利息及担保费方面均
+制订了优惠政策，为公司获得外部融资提供了有
+利条件。
+2013年8月，公司在全国中小企业股份转让
+系统挂牌，融资渠道逐步拓宽。</enterprise:财务弹性>
+    <enterprise:盈利能力>表 6：公司盈利能力主要指标（一）
+项 目 2013 年 2014 年 2015 年
+营业收入（万元） 1001.06 1029.19 2424.15
+营业成本（万元） 551.91 514.18 1003.40
+利润总额（万元） 14.40 8.98 803.06
+净利润（万元） 11.42 7.83 682.21
+数据来源：公司提供经审计财务报表
+2013-2015年，公司营业收入分别为1001.06
+万元、1029.19万元、2424.15万元，最近两年的
+增长幅度分别为2.81%、135.54%，2015年随着大
+客户迅速增加，平均合同额提高，公司营业收入
+实现较快增长。
+2013-2015年，公司毛利率分别为44.87%、
+50.04%、58.61%，毛利水平较高且较为稳定。
+2013-2015年，公司期间费用率分别为
+53.20%、56.49%、24.93%，公司费用控制能力有
+所提升。同期，公司营业利润率分别为-8.18%、
+-10.70%、30.43%。
+2013-2015年，公司营业外收支净额分别为
+96.25万元、119.13万元、65.44万元，占利润总
+额的比重分别为668.40%、1326.61%、8.15%。营
+业外收入主要来自于增值税退税以及政府补助。
+近两年公司总资产报酬率分别为2.07%、
+29.38%，同期，净资产收益率分别为1.18%、
+32.04%，2015年，公司盈利能力有较大提升，处
+于行业较好水平。
+表 7：公司盈利能力主要指标（二）
+2013 2014 2015 2015 年
+项 目
+年 年 年 行业均值
+毛利率（%） 44.87 50.04 58.61 -
+-10.7
+营业利润率（%） -8.18 30.43 15.50
+0
+净资产收益率（%） 1.73 1.18 32.04 5.00
+总资产报酬率（%） 1.31 2.07 29.38 3.50
+数据来源：根据公司提供经审计财务报表计算
+总体看，公司营业收入增长较快，费用控制
+力度较好，盈利能力有所增强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京威控科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京威控科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>1323.02 </enterprise:资产总额>
+    <enterprise:所有者权益>660.65 </enterprise:所有者权益>
+    <enterprise:负债总额>662.37 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1001.06 </enterprise:营业收入>
+    <enterprise:EBITDA>17.34 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京威控科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>1447.67 </enterprise:资产总额>
+    <enterprise:所有者权益>668.50 </enterprise:所有者权益>
+    <enterprise:负债总额>779.17 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1029.19 </enterprise:营业收入>
+    <enterprise:EBITDA>28.61 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京威控科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>4084.68 </enterprise:资产总额>
+    <enterprise:所有者权益>3589.68 </enterprise:所有者权益>
+    <enterprise:负债总额>495.00 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2424.15 </enterprise:营业收入>
+    <enterprise:EBITDA>812.75 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京威控科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>74.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>178.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>144.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京威控科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>88.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>235.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>284.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京威控科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>120.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>580.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1450.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京威控科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>1.31 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>60.61 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京威控科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>2.07 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>49.23 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京威控科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>29.38 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>27.72 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京威控科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>171.54 </enterprise:流动比率>
+    <enterprise:速动比率>116.49 </enterprise:速动比率>
+    <enterprise:资产负债率>50.07 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>5.90 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京威控科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>154.87 </enterprise:流动比率>
+    <enterprise:速动比率>110.22 </enterprise:速动比率>
+    <enterprise:资产负债率>53.82 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.46 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京威控科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>697.84 </enterprise:流动比率>
+    <enterprise:速动比率>625.40 </enterprise:速动比率>
+    <enterprise:资产负债率>12.12 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>83.88 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京威控科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>88.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>44.87 </enterprise:毛利率>
+    <enterprise:成本费用利润率>57.04 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.23 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-41.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>23.24 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京威控科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>104.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>50.04 </enterprise:毛利率>
+    <enterprise:成本费用利润率>42.04 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.97 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-2.74 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>30.98 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京威控科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>250.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>58.61 </enterprise:毛利率>
+    <enterprise:成本费用利润率>84.40 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.74 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-38.32 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京威控科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>34.56 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>530.05 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>163.96 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>43.01 </enterprise:其他应收款>
+    <enterprise:存货>364.65 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1136.23 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>133.65 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>48.09 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>5.05 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>186.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1323.02 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京威控科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>28.24 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>2.16 </enterprise:应收票据>
+    <enterprise:应收账款>622.33 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>116.52 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>89.55 </enterprise:其他应收款>
+    <enterprise:存货>347.91 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1206.71 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>133.65 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>33.27 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>64.12 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>9.92 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>240.96 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1447.67 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京威控科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1263.84 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1440.87 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>280.05 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>110.98 </enterprise:其他应收款>
+    <enterprise:存货>358.58 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3454.32 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>133.65 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>66.28 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>412.78 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>17.65 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>630.36 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4084.68 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京威控科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>300.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>186.35 </enterprise:应付账款>
+    <enterprise:预收款项>62.43 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>24.70 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>18.41 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>187.28 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>779.17 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>779.17 </enterprise:负债合计>
+    <enterprise:实收资本或股本>600.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>20.09 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>4.84 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>43.57 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>668.50 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>668.50 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1447.67 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京威控科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>300.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>186.35 </enterprise:应付账款>
+    <enterprise:预收款项>62.43 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>24.70 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>18.41 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>187.28 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>779.17 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>779.17 </enterprise:负债合计>
+    <enterprise:实收资本或股本>600.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>20.09 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>4.84 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>43.57 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>668.50 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>668.50 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1447.67 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京威控科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>297.77 </enterprise:应付账款>
+    <enterprise:预收款项>34.96 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.11 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>109.10 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>53.06 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>495.00 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>495.00 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1834.34 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1024.75 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>73.06 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>657.53 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3589.68 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3589.68 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4084.68 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京威控科技股份有限公司2013年利润表">
+    <enterprise:营业收入>1001.06 </enterprise:营业收入>
+    <enterprise:主营业务收入>1001.06 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>551.91 </enterprise:营业成本>
+    <enterprise:主营业务成本>551.91 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>11.75 </enterprise:营业税金及附加>
+    <enterprise:销售费用>140.63 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>389.01 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>2.94 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-13.33 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>307.16 </enterprise:营业利润>
+    <enterprise:营业外收入>97.61 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.36 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>403.41 </enterprise:利润总额>
+    <enterprise:所得税费用>2.98 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>400.43 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>400.43 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京威控科技股份有限公司2014年利润表">
+    <enterprise:营业收入>1029.19 </enterprise:营业收入>
+    <enterprise:主营业务收入>1029.19 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>514.18 </enterprise:营业成本>
+    <enterprise:主营业务成本>514.18 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>11.27 </enterprise:营业税金及附加>
+    <enterprise:销售费用>240.52 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>321.29 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>19.63 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>32.45 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>211.14 </enterprise:营业利润>
+    <enterprise:营业外收入>119.13 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>330.27 </enterprise:利润总额>
+    <enterprise:所得税费用>1.15 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>329.12 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>329.12 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京威控科技股份有限公司2015年利润表">
+    <enterprise:营业收入>2424.15 </enterprise:营业收入>
+    <enterprise:主营业务收入>2424.15 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1003.40 </enterprise:营业成本>
+    <enterprise:主营业务成本>1003.40 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>27.28 </enterprise:营业税金及附加>
+    <enterprise:销售费用>281.77 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>312.85 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>9.69 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>51.54 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1050.47 </enterprise:营业利润>
+    <enterprise:营业外收入>65.44 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1115.91 </enterprise:利润总额>
+    <enterprise:所得税费用>120.85 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>995.06 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>995.06 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京威控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1236.13 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>50.49 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>343.18 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1629.80 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>890.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>325.78 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>139.23 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>550.09 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1905.10 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-275.30 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>6.43 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>6.43 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-6.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>200.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>200.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>4.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>196.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-85.73 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京威控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>995.06 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>40.93 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>78.28 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1114.27 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>396.43  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>300.97 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>111.85 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>326.39 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1135.64 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-21.37 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>65.70 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>65.70 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-65.70 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>300.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>300.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>19.24 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>19.24 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>280.76 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>193.69 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京威控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1800.38 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>65.44 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.99 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1866.81 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1086.84  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>461.22 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>207.78 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>300.66 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2056.50 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-189.69 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>500.70 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>500.70 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-500.70 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>2239.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>2239.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>300.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>10.09 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>310.09 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1928.91 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1238.52 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：绿色积分">
+	<enterprise:有申请日期>16-12-2</enterprise:有申请日期>
+	<enterprise:有商标名称>绿色积分</enterprise:有商标名称>
+	<enterprise:有注册号>22114496</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：环保积分">
+	<enterprise:有申请日期>16-12-2</enterprise:有申请日期>
+	<enterprise:有商标名称>环保积分</enterprise:有商标名称>
+	<enterprise:有注册号>22114495</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：碳积分">
+	<enterprise:有申请日期>16-12-2</enterprise:有申请日期>
+	<enterprise:有商标名称>碳积分</enterprise:有商标名称>
+	<enterprise:有注册号>22114494</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：VCECO">
+	<enterprise:有申请日期>16-11-9</enterprise:有申请日期>
+	<enterprise:有商标名称>VCECO</enterprise:有商标名称>
+	<enterprise:有注册号>21840443</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：威控">
+	<enterprise:有申请日期>10-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>威控</enterprise:有商标名称>
+	<enterprise:有注册号>8563291</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京威控科技股份有限公司的商标信息：VCONTROL">
+	<enterprise:有申请日期>10-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>VCONTROL</enterprise:有商标名称>
+	<enterprise:有注册号>8563290</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种客房能耗积分系统和方法">
+	<enterprise:有申请公布日>17-8-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种客房能耗积分系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710259612.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107045692A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一体化地下水检测终端">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体化地下水检测终端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621017710.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206019688U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：基于互联网净化器的客房环保监控网络、环保积分方法">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于互联网净化器的客房环保监控网络、环保积分方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611077500.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106444414A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种智慧酒店客房生态环境控制系统和控制方法">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智慧酒店客房生态环境控制系统和控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610891788.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106325089A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种可远程控制的智能型低功耗水利闸门">
+	<enterprise:有申请公布日>16-6-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可远程控制的智能型低功耗水利闸门</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520748624.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205329641U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种集成电量采集功能的客房智能控制主机">
+	<enterprise:有申请公布日>16-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种集成电量采集功能的客房智能控制主机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520995754.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205193570U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种集成智能家居网关功能的环境监控装置">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种集成智能家居网关功能的环境监控装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520811743.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205090562U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：无线联网人机交互型电量采集器">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线联网人机交互型电量采集器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520700742.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204925244U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种智能型低功耗监控系统">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能型低功耗监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520729796.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204929099U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种基于云平台的酒店客房智能控制系统及方法">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于云平台的酒店客房智能控制系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510651122.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105208128A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种基于智能机的后沿调光控制系统">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于智能机的后沿调光控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520728434.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204929361U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种室内墙壁开关的感应式控制系统">
+	<enterprise:有申请公布日>15-12-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种室内墙壁开关的感应式控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520700761.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204906827U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：一种室内墙壁开关的感应式控制系统及方法">
+	<enterprise:有申请公布日>15-12-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种室内墙壁开关的感应式控制系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510575112.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105188219A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：基于PAD智能调光控制系统">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于PAD智能调光控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310669604.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103716959A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：基于物联网的酒店客房智能监控系统及方法">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于物联网的酒店客房智能监控系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210294337.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103631202A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：酒店客房智能监控系统">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>酒店客房智能监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120277989.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202257206U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京威控科技股份有限公司的专利信息：酒店客房新型监控系统">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>酒店客房新型监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120277988.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202261393U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控智慧酒店信息生态系统软件">
+	<enterprise:有批准日期>17-6-27</enterprise:有批准日期>
+	<enterprise:有软件全称>威控智慧酒店信息生态系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR312171</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控智慧酒店控制系统软件">
+	<enterprise:有批准日期>17-7-11</enterprise:有批准日期>
+	<enterprise:有软件全称>威控智慧酒店控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR360494</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：酒店客房设备故障检测软件">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>酒店客房设备故障检测软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR205762</enterprise:有登记号>
+	<enterprise:有分类号>30200-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：酒店客房能耗管理软件">
+	<enterprise:有批准日期>14-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>酒店客房能耗管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR196526</enterprise:有登记号>
+	<enterprise:有分类号>30200-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：通讯网关软件">
+	<enterprise:有批准日期>13-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>通讯网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR154787</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：1800水利屏软件">
+	<enterprise:有批准日期>13-12-24</enterprise:有批准日期>
+	<enterprise:有软件全称>1800水利屏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR156091</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控物联网测控终端系统">
+	<enterprise:有批准日期>13-5-18</enterprise:有批准日期>
+	<enterprise:有软件全称>威控物联网测控终端系统</enterprise:有软件全称>
+	<enterprise:有软件简称>测控终端系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR046681</enterprise:有登记号>
+	<enterprise:有分类号>30104-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控联网型温控器系统">
+	<enterprise:有批准日期>13-5-18</enterprise:有批准日期>
+	<enterprise:有软件全称>威控联网型温控器系统</enterprise:有软件全称>
+	<enterprise:有软件简称>联网型温控器系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR046670</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控节电开关系统软件">
+	<enterprise:有批准日期>13-2-18</enterprise:有批准日期>
+	<enterprise:有软件全称>威控节电开关系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>节电开关系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR013889</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：酒店客房控制系统软件">
+	<enterprise:有批准日期>12-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>酒店客房控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>客控系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR086130</enterprise:有登记号>
+	<enterprise:有分类号>30200-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控无线温度传感器系统">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控无线温度传感器系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024398</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控智能调光控制系统">
+	<enterprise:有批准日期>12-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>威控智能调光控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能调光系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR031373</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控水情监测管理软件">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控水情监测管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024435</enterprise:有登记号>
+	<enterprise:有分类号>30000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控无线示功仪传感器系统">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控无线示功仪传感器系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024451</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控无线压力传感器系统">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控无线压力传感器系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024423</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控螺杆泵控制器系统">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控螺杆泵控制器系统</enterprise:有软件全称>
+	<enterprise:有软件简称>螺杆泵系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024400</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控螺杆泵智能监控系统软件">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>威控螺杆泵智能监控系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024432</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控抽油机控制器系统软件">
+	<enterprise:有批准日期>09-6-10</enterprise:有批准日期>
+	<enterprise:有软件全称>威控抽油机控制器系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022031</enterprise:有登记号>
+	<enterprise:有分类号>66000-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控酒店客房控制器系统软件">
+	<enterprise:有批准日期>09-6-10</enterprise:有批准日期>
+	<enterprise:有软件全称>威控酒店客房控制器系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022030</enterprise:有登记号>
+	<enterprise:有分类号>66000-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控酒店客房智能控制系统">
+	<enterprise:有批准日期>09-6-10</enterprise:有批准日期>
+	<enterprise:有软件全称>威控酒店客房智能控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称>客房管理软件</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022027</enterprise:有登记号>
+	<enterprise:有分类号>66000-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控水情测报终端系统软件">
+	<enterprise:有批准日期>09-6-10</enterprise:有批准日期>
+	<enterprise:有软件全称>威控水情测报终端系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022029</enterprise:有登记号>
+	<enterprise:有分类号>69900-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京威控科技股份有限公司的软件著作：威控抽油机SCADA管理信息系统">
+	<enterprise:有批准日期>09-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>威控抽油机SCADA管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR021711</enterprise:有登记号>
+	<enterprise:有分类号>64000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京威控科技股份有限公司的网站备案：北京威控科技股份有限公司网站">
+	<enterprise:有审核时间>16-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京威控科技股份有限公司网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vcontrol.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>vcontrol.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05072604号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京威控科技股份有限公司的网站备案：北京威控科技发展有限公司">
+	<enterprise:有审核时间>16-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京威控科技发展有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vecomm.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>vecomm.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05072604号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京威控科技股份有限公司的网站备案：北京威控科技股份有限公司">
+	<enterprise:有审核时间>16-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京威控科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.weikongyun.cn</enterprise:有网站首页>
+	<enterprise:有域名>weikongyun.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05072604号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京威控科技股份有限公司的网站备案：北京威控科技股份有限公司">
+	<enterprise:有审核时间>16-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京威控科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.wvcontrol.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>wvcontrol.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05072604号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京威控科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数>82</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:70,25岁以下:7,45岁以上:5</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:33,高中及以下:15,专科:34</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:10,技术人员:29,作业人员:16</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:53人,未参加:29人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京威控科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京威控科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京威控科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京威控科技股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京威控科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京威控科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京威控科技股份有限公司的企业法人代表：王涛">
+	<enterprise:名称>王涛</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉族</enterprise:民族>
+	<enterprise:年龄>39</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1977</enterprise:出生年月>
+	<enterprise:身份证号码>510521107703070015</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>经</enterprise:现任职务>
+	<enterprise:联系电话>13910824869</enterprise:联系电话>
+	<enterprise:传真>010-62305007</enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1995.9-1999.7 北京航空航天大学 机械学院 获得学士学位
+1999.9-2002.4 北京航空航天大学 机械学院 机械电子工程 获得硕士学位
+嵌入式软件研
+2002.4-2003.10 北京研华兴业电子科技有限公司
+发主管
+2003.10-2004.12 北京博控工程技术有限公司 销售经理
+2004.12-至今 北京威控科技股份有限公司 总经理
+起止日期 在何地区何部门 任何职务</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京威控科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>0.37万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>0.96万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京威控科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>开发费用</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>良好</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>200万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>0.00</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0.00</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京威控科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京威控科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>7</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>5</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>2</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京威控科技股份有限公司的专利数量">
+	<enterprise:专利总计>8</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>2</enterprise:专利数量2014>
+	<enterprise:专利数量2015>6</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京威控科技股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京威控科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

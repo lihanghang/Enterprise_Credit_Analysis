@@ -1,0 +1,2823 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京安控科技股份有限公司的企业概况">
+    <enterprise:有名称>北京安控科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Aazc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110000633710213T</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110100000248309402</enterprise:有中征码>
+    <enterprise:有基本账户开户行>工行海淀西区支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1998年9月17日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>53578.0672万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>计算机应用软件开发及服务；技术开发、技术服务、技术咨询、技术转让、技术培训；销售开发后的产品、可编程控制器、机械电器设备、电子计算机及外部设备、通讯设备（含无线数据通信设备）、照相器材、文化办公设备、建筑材料、化工产品（不含危险化学品及一类易制毒化学品）；货物进出口、技术进出口、代理进出口；专业承包；生产环保监测仪器、污染治理设备、计算机及外部设备、通讯设备、油气自动化和环境在线检测仪器仪表、RTU（远程测控单元）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）计算机应用软件开发及服务；技术开发、技术服务、技术咨询、技术转让、技术培训；销售开发后的产品、可编程控制器、机械电器设备、电子计算机及外部设备、通讯设备（含无线数据通信设备）、照相器材、文化办公设备、建筑材料、化工产品（不含危险化学品及一类易制毒化学品）；货物进出口、技术进出口、代理进出口；专业承包；生产环保监测仪器、污染治理设备、计算机...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>工控自动化</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区地锦路9号院6号楼</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区地锦路9号院6号楼</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100095</enterprise:有邮政编码>
+    <enterprise:有联系人>张滨</enterprise:有联系人>
+    <enterprise:有联系电话>010-62971668-6231</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.echocontrol.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京安控科技股份有限公司前身为北京安
+控科技发展有限公司，成立于1998年9月17日，
+注册地址为北京市海淀区地锦路9号院6号楼，
+法定代表人俞凌。
+2007年10月9日，经北京市工商行政管理局
+核准，公司整体变更为股份有限公司。2008年8
+月20日，公司进入代办股份转让系统挂牌报价
+转让。2014年1月23日，公司在深圳证券交易所
+创业板挂牌上市，股票代码为300370，股票简
+称：安控科技。
+公司初始注册资本200万元，后经多次增资
+及股权变更，目前注册资本为53578.0672万元
+，公司前十大股东及持股比例如下：
+ 表一：主要股东及持股比例（单位：%、股）
+截至2016年
+6月
+股东名称  持股比例 持股数量
+俞  凌 25.66  137,467,460
+董爱民 7.15  38,291,566
+林  悦 4.86 26,060,892
+北京鸿基大通投资有限公司 4.82  25,825,100
+北京鸿海清科技有限公司 1.71 9,186,200
+中国光大银行股份有限公司
+－泓德优选成长混合型证券 1.60 8,562,612
+投资基金
+成  波 1.57  8,404,590
+庄贵林 1.29  6,935,200
+何意红 1.11  5,939,400
+滑影响，不利于公司未来经营发展。
+全国社保基金六零二组合 0.92  4,935,248
+杨继荣 1.04  1,010,000
+安控科技主要从事工业自动化产品的研发
+、生产、销售和系统集成业务。2004年5月，公
+司正式成为中国自动化学会专家咨询工作委员
+会企业会员单位；2006年12月，公司获得软件
+企业认定证书；2007年11月，公司正式成为中
+国环境科学学会团体会员单位；2007年12月，
+获得计算机信息系统集成资质证书；2008年3月
+，获得建筑业企业资质证书；2008年7月，获得
+环境污染治理设施运营资质证书；2009年5月，
+公司被中关村科技园区管理委员会评为“海淀
+区创新企业”；公司还被中关村信用促进会评
+为“优秀会员”和“五星级瞪羚企业”，以及
+被中关村科技担保公司评为“信用良好A级企业
+”；2009年12月，公司被认定为“中关村国家
+自主创新示范区创新型试点企业”；2012年1月
+，公司被评为“2011中关村新锐企业百强”；2
+012年3月，通过北京市住建委“安全生产许可
+证”复核；2014年9月，公司通过ISO9001：200
+8质量管理体系认证复核、ISO14001：2004环境
+管理体系认证复核和OHSAS18001:2007职业健康
+安全管理体系认证复核；2014年10月，通过北
+京市科学技术委员会等四部门组织的“高新技
+术企业”资格复核；2015年7月，通过“中关村
+高新技术企业”复核。
+截至2015年底，安控科技资产总额为13870
+5.84万元，净资产为76581.52万元；2015年累
+计实现主营业务收入39178.21万元，利润总额5
+961.12万元；2015年公司经营活动产生的现金
+净流量为-
+1125.04万元，投资活动产生的现金净流量为-
+17852.05万元，筹资活动产生的现金净流量为1
+4766.10万元，现金及现金等价物净增加额为-
+4210.99万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京安控科技股份有限公司的基础素质">
+    <enterprise:有管理素质>安控科技总经理俞凌，毕业于中国人民解
+放军信息工程大学，研究生学历，曾任新疆军
+区某部工程师、副部队长，现为中国自动化学
+会理事、中国自动化学会专家咨询工作委员会
+副主任委员、中国石油商务理事会副理事长，
+是三相计量控制器、水源井远程终端控制器、
+天然气流量计量远程测控终端、32位机小型远
+程控制终端等工业自动化产品专利设计人。俞
+凌先生于1998年9月作为公司发起人创立安控科
+技并担任总经理职务，2002年1月至今担任公司
+董事长、总经理。
+公司副总经理成波，本科学历，1992年9月
+至1998年11月于新疆军区某部工作，1998年12
+月至1999年12月任安控科技新疆办事处负责人
+，2000年1月至2005年8月任新疆安控公司总经
+理，2005年10月至2007年3月任北京安控系统工
+程有限公司副总经理，2007年4月至今任公司副
+总经理。
+公司副总经理兼人力资源总监李春福，200
+2年8月至2006年3月曾任安控科技副总经理，20
+06年3月至2010年5月任北京方圆先行文化有限
+公司总经理，2010年5月至今重新担任安控科技
+副总经理兼人力资源总监。
+公司副总经理兼财务总监张滨，2001-
+2011年任北京神州会计师事务所项目经理、部
+门经理；2011-
+2013年任北京神州汽车租赁有限公司内控内审
+部经理、财务经理；2013年至今任安控科技副
+总裁兼财务总监。安控科技高级管理人员均在
+管理岗位上工作多年，管理经验较为丰富。
+总体看，安控科技管理者素质较高，职能
+分工明确，核心管理人员较为稳定，基本满足
+了公司目前经营发展的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>安控科技共有员工332人，其中技术人员11
+8人。技术人员中硕士19人、本科66人、专科27
+人；5人拥有高级职称、21人拥有中级职称、10
+人拥有初级职称。
+公司技术总监卢铭，研究生学历，毕业于
+哈尔滨工业大学，曾任中国航天工业部北京控
+制工程研究所工程师，北京康拓科技公司工程
+师，美国SuperTel公司高级软件工程师、研发
+总监等。卢铭先生具有20多年工业自动化领域
+、无线通讯领域工作经验，擅长于工业自动化
+系统设计和嵌入式产品的设计开发，对RTU、SC
+ADA系统、DCS系统、工业控制器、通信系统及
+通讯协议有较为深入的研究，并具有丰富的国
+际和国内技术团队管理经验。 
+公司副总工程师庄贵林，毕业于西北工业
+大学，高级工程师职称，曾任西安石油大学讲
+师，对于油气田自动化产品的研究与开发具有
+较为丰富的经验，曾获西安石油大学先进教研
+室集体奖、西安石油大学科研奖、西安石油大
+学教学奖等荣誉。
+总体看，公司研发团队素质较高，核心人
+员具备一定的科研实力和经验，为公司的研发
+活动提供了较好的专业技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司拥有设备齐全的实验室，配备有通用
+仪表、电子测试设备、高低温实验设备等，除
+元器件检验需外协以外，产品设计、开发、生
+产、检验等均可在公司设备系统中进行。公司
+注重对产品研发的投入，2013年至2015年的研
+发费用占当年销售收入的比重分别为7.82%、13
+.17%和7.04%，研发投入情况较好。
+总体看，公司具备较为完备的科研设备和
+科研环境，较好的研发经费投入有力地支撑了
+科研活动的开展，科研保障程度较高。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京安控科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>安控科技主要从事RTU产品的研发、生产和
+销售，以RTU产品为应用核心的远程测控系统整
+体解决方案的提供与实施，以及相关运维与技
+术服务。公司拥有完整的RTU产品产业链，同时
+以软硬件产品生产商和系统集成商的身份参与
+市场竞争。公司主营业务可划分为三类：产品
+直接销售、整体解决方案提供与实施、相关运
+维及技术服务。
+公司核心RTU产品分为通用RTU产品、油气
+行业专用产品及环保行业专用产品三大类。安
+控科技目前形成了主导核心基础产品Super32系
+列一体化RTU及Super 
+E50模块化RTU。在实践过程中实现油气行业专
+用产品的产业化，目前公司的油气行业专用产
+品在大庆、长庆、新疆、塔里木、胜利、大港
+、冀东、青海等油田实现了规模应用，并已实
+现国外销售。同时，公司结合自身研发RTU的技
+术优势和环保行业特点，自主开发了数据传输
+采集仪等环保行业专用产品，该类设备已在全
+国范围内得到规模应用。
+公司提供以RTU产品为应用核心的远程测控
+系统整体解决方案，即根据客户需求，提供新
+建、改建远程监测系统的方案、设计、设备选
+型、编程组态、专用RTU设备定制、工程施工、
+现场安装和调试，直至交付使用后的维护和质
+量保证，为客户建设远程监测系统提供高质量
+的一体化专业服务。目前公司整体解决方案主
+要应用于石油天然气行业、环境保护行业。根
+据公司产品适合无人值守环境的使用特点及公
+司经营发展规划，公司下一步拟开拓煤层气开
+采、市政管网、广域监控等应用领域。
+公司的运维服务业务是伴随公司进入环境
+在线监测系统市场开展而新拓展的业务模式，
+是指公司受政府部门或排污企业的委托从事自
+动监控设施操作、维护和管理，保证设施正常
+运行的活动，并最终为政府、排污企业及公众
+提供客观公正、准确可靠、实时连续的环境监
+测数据的服务。技术服务指公司基于核心RTU产
+品和整体解决方案的提供及技术积累为客户提
+供技术开发、技术咨询、技术培训的短期技术
+服务。公司运维服务业务一般按服务时间收费
+，根据合同约定的运行维护费在服务期内平均
+计量运维收入，目前收入较为稳定，业务风险
+较小。
+在采购方面，公司较为注重上游原材料质
+量，所使用的芯片全部为国外进口，电路板、
+元器件、电线电缆为国内知名厂家生产，机箱
+和机柜由合作厂家外加工，产品品质较高，能
+够适应不同环境需求。公司建立了严格的合格
+供应商选择机制，其运营管理部和采购部门共
+同负责合格供应商的甄选和管理，根据供应商
+的产品品质、价格、交货数量、交货周期和售
+后服务对供应商进行综合评价，确定合格供应
+商名单，建立合格供应商档案，并对合格供应
+商的供货情况进行定期监督和考核。目前公司
+主要的供货商有中国航天空气动力技术研究院
+、青县鑫鹏电子机箱制造有限公司、西安合远
+能通科技有限公司、北京福格斯科技有限公司
+、北京泰兴恒业科技有限公司和新疆华逸天源
+自动化设备有限公司等。公司与供应商一般有3
+-
+6个月账期，对缓解公司资金周转压力有一定的
+促进作用。进口芯片需预先付款，采购周期在2
+个月左右。
+在生产方面，公司采用以销定产为主、计
+划生产为辅的生产模式，行业专用产品及其所
+用的通用RTU产品一般按订单生产。对于通用RT
+U产品，既可作为商品直接销售，也用于公司行
+业专用产品的生产，公司一般根据市场预测按
+计划生产并保有一定量的库存；对于行业专用
+产品，公司一般根据订单向制造中心安排生产
+任务。作为电子类产品生产商，公司在多年的
+生产经验基础上自制了多种工装夹具以提高测
+试效率，并形成了自动化测试跟踪技术、高低
+温极限测试技术等先进的产品测试技术。公司
+将电路板印刷、焊接、RTU模块外壳、机箱、机
+柜等非核心工艺环节委托外协加工单位按照公
+司设计要求完成，符合现阶段实际经营所需，
+也符合电子类生产企业的生产模式特点。
+在销售方面，公司以直接对终端客户销售
+为主，对系统集成商销售为辅。公司直接面对
+的终端客户主要是各大油田企业和政府环保部
+门，其项目规模一般较大，多以招投标方式选
+择产品或服务供应商，由于公司核心部件全部
+自主生产且产品线丰富，能够较好的满足客户
+的功能需求和成本要求。同时，随着公司通用R
+TU产品和油气及环保业专用产品的快速发展，
+公司开始培育系统集成商作为其产品的分销商
+。目前，公司已与一批小型系统集成商客户形
+成了较为稳定的业务合作关系，并同少数国际
+知名自动化公司开展合作。相对于油田企业及
+政府单位等终端客户，公司在同系统集成商类
+客户的合作中处于较强势地位，要求保证较高
+的利润率和较为严格的付款条件。
+在收款方面，公司一般按工程完工进度收
+款，受其客户特点影响，油田客户资金预算与
+款项支付通常需要涉及内部多个部门、多个环
+节，审批流程繁琐，收款周期相对较长。此外
+，公司油气业务的收入确认具有明显的季节性
+特征，项目的主体实施及验收时间大多集中在
+第四季度，年底款项结算相对集中，一定程度
+上不利于公司运营资金周转效率的提升。
+从近几年的经营状况看，安控科技主营业
+务收入及资产规模增长较快，同时利润率高于
+行业平均水平，在自动化业务、油气服务业务
+和智慧产业业务战略布局方面有所突破，良好
+的经营状况和资产规模的迅速扩张，进一步增
+强了公司抵御风险的能力。
+图一：安控科技2013-
+2015年总资产、净资产、主营业务收入、利润总额增长
+趋势图（万元）
+总体看，安控科技技术实力较强，产品市
+场占有率较高，业务规模扩展较快，其经营处
+于良性循环状态，未来发展前景较为乐观。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>安控科技逐步形成了相互监督与制约的法
+人治理结构，董事会、监事会及职能部门保持
+了较好的内部独立运作机制。公司设有薪酬管
+理委员会、战略决策委员会和审计委员会，并
+设有企业发展部、人力资源部、财务部、行政
+部、研发中心、产品中心和市场营销中心等职
+能部门。在多年经营发展中，逐步形成了较为
+完善的管理模式、规章制度、业务流程，与其
+目前经营状况相协调。
+从管理效果来看，公司近三年的管理费用
+率分别为21.54%、18.17%和12.78%，管理费用
+控制能力较强，在一定程度上得益于内部管理
+制度的有效实施；同期成本率分别为81.97%、8
+2.52%和87.06%，有所上升，主要受行业环境影
+响，及资产规模扩大后相应的人力、物资成本
+投入较大。
+从运营指标来看，公司近三年的应收账款
+周转率分别为1.48次、1.36次和1.22次，应收
+账款周转速率有所下降，其部分项目回款周期
+较长，在一定程度上影响了公司的资金周转效率
+，且受油田客户财务制度的影响，有结算流程
+繁琐和年末回款较集中的现象；同期存货周转
+率分别为2.04次、1.90次和2.38次，公司通过
+准确预测市场需求，制定科学合理的安全库存
+水平，提高产销协调效率，使存货保持在合理
+的水平；总资产周转率分别为0.47次、0.44次
+和0.35次，资产运营效率一般，公司仍处于发
+展期，当前固定资产投入相对不足，在未来几
+年随着公司业务规模的扩大将加大固定资产投
+资，预计资产运营效率将逐步提高。
+总体看，安控科技治理结构较为完善，内
+部管理制度健全，管理效率较高，资产运营效
+率一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>安控科技将以RTU产品与技术为基础，以客
+户需求为导向，通过持续的研发投入，不断提
+升技术能力，优化产品功能，提供产品性价比
+高的RTU产品及整体解决方案。公司将强化产品
+直接销售并积极开拓国际市场；巩固在油气开
+采领域应用的领先地位；扩大在油气运输、存
+储及分配领域、环境在线监测领域、煤层气开
+采领域的应用范围和市场份额；逐步推广在市
+政管网、广域监控等其他领域的应用，使公司
+成为在全球RTU行业具有重要市场地位和强大竞
+争力的产品及整体解决方案的提供商。
+未来一个时期，公司将进一步加大技术开
+发力度，加快现有RTU产品的升级换代，进一步
+提高产品稳定性和可靠性，通过优化产品设计
+持续降低成品成本，打造高性价比RTU产品，进
+一步提升公司产品的知名度和市场占有率。同
+时，公司正在筹建“RTU产品产业化项目”，预
+计项目达产后，利用先进的生产设备和检验设
+备大幅提高主要产品的生产能力，满足快速增
+长的市场需求。在技术和产品创新方面，公司
+将从产品和应用创新进一步深化到基础技术创
+新；在市场开拓方面，从油气开采领域向油气
+运输、油气储存、油气分配等领域拓展，从成
+熟的油气行业和环境在线监测领域向煤层气、
+市政管网、广域监控等新兴领域拓展，从国内
+市场向国际市场拓展。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京安控科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，安控科技资产总额分别为54075.66万
+元、84095.79万元和138705.84万元，资产规模
+保持了较好的增长趋势，主要归因于经营规模
+的迅速扩大带来的应收账款及存货增长，以及
+效益的显著提升带来的盈利累积投入。近三年
+公司流动资产分别占当年总资产的比重为77.60
+%、65.52%和80.01%；同期固定资产分别占比2.
+91%、19.36%和18.28%，主要为房屋建筑物、运
+输设备、机器设备及办公设备；长期投资分别
+占比18.69%、13.73%和64.63%，为对其下属子
+公司的长期股权投资；其余为无形资产及其他
+资产。
+截至2016年6月底，安控科技总资产为1422
+24.81万元，其中流动资产68062.74万元，由应
+收账款、其他应收款、预付账款、存货和货币
+资金等构成。其中，应收账款占流动资产的52.
+89%，账龄大多在一年以内，客户多为大型石油
+行业国有企业，与公司合作多年，过往履约状
+况良好且资金实力较强，对安控科技的销售债
+权保障程度较高；其他应收款占流动资产的18.
+26%，主要为与子公司之间的往来款；预付账款
+占流动资产的1.71%，主要为购置厂房预付款和
+预付材料款等；存货占流动资产的19.63%，主
+要为原材料、自制半成品、库存商品和在产品
+等，结合其周转情况来看，该部分资产质量较
+好；货币资金占流动资产的7.15%，当前自有资
+金较为充足，可以较好的满足其目前各项资本
+性支出，增强应对多种经营风险的能力。
+总体看，安控科技资产质量和资产流动性
+较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，安控科技流动比率分别为1.36倍、1.3
+0倍和1.09倍；同期速动比率分别为1.15倍、1.
+06倍和0.91倍，指标均逐年下降，主要系公司
+处于成长阶段，通过适度增加银行借款并充分
+利用供应商信用，以满足业务扩张带来的经营
+资金需求，公司的偿债能力始终保持在合理的
+水平，流动性较好，变现能力较强。
+2013-
+2015年，公司经营活动产生的现金净流量分别
+为4258.27万元、-1011.41万元和-
+1125.04万元，持续经营过程中获取自由现金的
+能力偏弱。
+综合考虑公司的经营状况、资产构成、盈</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，公司的资产负债率分别为57.26%、50.
+65%和44.79%，整体看公司债务负担处于合理区
+间，财务策略较为稳健；同期资本化比率分别
+为46.76%、36.36%和31.35%，财务弹性尚可。
+截至2016年6月底，安控科技的负债总额为
+68168.27万元，主要为流动负债，流动负债主
+要由短期借款、应付账款、预收账款、其他应
+付款、应付票据和应付工资构成。短期借款415
+40.00万元，其中，杭州银行北京中关村支行10
+000万元，平安银行德胜门支行800万元，平安
+银行首体南路支行2200万元，招商银行清华园
+支行2000万元，北京银行上地支行5000万元，
+浦发银行北京分行9000万元，工商银行海淀西
+区支行2980万元，宁波银行北京分行3000万元
+，昆仑银行幸福路支行2000万元，华夏银行北
+京分行7700万元。公司目前保持合理、稳定的
+财务结构，银行信誉良好，未发生过贷款逾期
+情形，能够合理利用商业信用。
+总体看，安控科技的财务策略较为符合现
+阶段发展状况，财务弹性尚可，银行信贷记录
+较好，外部债务融资渠道较为顺畅。</enterprise:财务弹性>
+    <enterprise:盈利能力>依靠持续不断的RTU产品技术研发投入以及
+RTU产品研发生产与整体解决方案实施的有机结
+合与相互促进，在国内环保政策不断强化要求
+的背景下，公司近年来经营业绩持续增长，近
+三年主营业务收入分别为22491.63万元、30096
+.82万元和39178.21万元；同期主营业务利润率
+分别为51.72%、47.72%和35.69%，处于行业良
+好水平。
+2013-
+2015年，安控科技总资产报酬率分别为10.16%
+、8.33%和5.54%；同期净资产收益率分别为16.
+27%、11.31%和6.83%，公司资产利用效率尚可
+，持续盈利能力良好。
+2013-
+2015年，公司经营活动现金流入流出比分别为1
+.18倍、0.97倍和0.96倍，经营活动产生净现金
+流量的能力尚可；同期现金收入比分别为0.89
+倍、0.81倍和0.75倍，收入实现质量尚可。
+图二：安控科技2013年至2015年盈利状况（万元、%
+）
+总体来看，安控科技主营业务获利能力良
+好，收入实现质量尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京安控科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>在评级过程中，未发现公司在评级年度有违约
+及违法违规行为。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>随着网络信息化的不断发展，网络在线阅读、
+手机阅读、手持式阅读器阅读等数字阅读方式正成
+为一种普遍的阅读方式。按照我国目前的信息化发
+展速度以及电子阅读器、网络教学软件、电子书等
+数字应用技术的不断完善，未来数字化图书出版方
+式渗入我国图书出版业各环节的速度将不断加快。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>根据现行国家政策规定，公司尚未取得出版资
+质，因此公司需要依赖外部出版社的资源，这样势
+必会降低公司产品推出的速度，影响公司的产品创
+新能力，不利于公司发展。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>随着近年经营规模的快速扩大，公司对销售、
+管理和财务等各类人才的需求大幅上升，对公司的
+管理也提出了更高的要求。如果公司组织模式和管
+理制度未能随着公司规模的扩大而适时调整和完善
+，各类专业人员不能及时到位并胜任工作，存在着
+因公司快速成长而产生的管理风险。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京安控科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>41960.67 </enterprise:资产总额>
+    <enterprise:所有者权益>23113.69 </enterprise:所有者权益>
+    <enterprise:负债总额>29181.31 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>22491.63 </enterprise:营业收入>
+    <enterprise:EBITDA>5713.33 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京安控科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>55999.97 </enterprise:资产总额>
+    <enterprise:所有者权益>41498.24 </enterprise:所有者权益>
+    <enterprise:负债总额>40714.48 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>30096.82 </enterprise:营业收入>
+    <enterprise:EBITDA>7588.83 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京安控科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>67285.43 </enterprise:资产总额>
+    <enterprise:所有者权益>76581.52 </enterprise:所有者权益>
+    <enterprise:负债总额>58947.34 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>39178.21 </enterprise:营业收入>
+    <enterprise:EBITDA>9072.69 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京安控科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>2.55 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>14.39 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.53 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京安控科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.71 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.85 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.15 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京安控科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.38 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.40 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.41 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京安控科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>89.03 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京安控科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>66.53 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京安控科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>47.48 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京安控科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>143.79 </enterprise:流动比率>
+    <enterprise:速动比率>122.18 </enterprise:速动比率>
+    <enterprise:资产负债率>69.54 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京安控科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>135.33 </enterprise:流动比率>
+    <enterprise:速动比率>110.69 </enterprise:速动比率>
+    <enterprise:资产负债率>72.70 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京安控科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>114.14 </enterprise:流动比率>
+    <enterprise:速动比率>95.71 </enterprise:速动比率>
+    <enterprise:资产负债率>87.61 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京安控科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1405.90 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.89 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>14.59 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>48.61 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京安控科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1651.60 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.81 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-2.48 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>37.52 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京安控科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1737.24 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.75 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-1.91 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>32.32 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京安控科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>3417.37 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>856.60 </enterprise:应收票据>
+    <enterprise:应收账款>17613.09 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>11561.31 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2204.51 </enterprise:其他应收款>
+    <enterprise:存货>6307.76 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.03 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>41960.67 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>41960.67 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京安控科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>10694.23 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>1000.32 </enterprise:应收票据>
+    <enterprise:应收账款>26622.76 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>3893.43 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2856.21 </enterprise:其他应收款>
+    <enterprise:存货>10032.94 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.08 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>55099.97 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>900.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>900.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>55999.97 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京安控科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>6914.22 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>4560.59 </enterprise:应收票据>
+    <enterprise:应收账款>37387.29 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>540.15 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>6780.68 </enterprise:其他应收款>
+    <enterprise:存货>10868.69 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>233.81 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>67285.43 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>67285.43 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京安控科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>23706.11 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1209.60 </enterprise:应付票据>
+    <enterprise:应付账款>8488.82 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7309.95 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>40714.48 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>40714.48 </enterprise:负债合计>
+    <enterprise:实收资本或股本>9723.14 </enterprise:实收资本或股本>
+    <enterprise:资本公积>14523.55 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>2349.94 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>14901.61 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>41498.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>41498.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>82212.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京安控科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>23706.11 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1209.60 </enterprise:应付票据>
+    <enterprise:应付账款>8488.82 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7309.95 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>40714.48 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>40714.48 </enterprise:负债合计>
+    <enterprise:实收资本或股本>9723.14 </enterprise:实收资本或股本>
+    <enterprise:资本公积>14523.55 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>2349.94 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>14901.61 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>41498.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>41498.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>82212.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京安控科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>34974.88 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1599.39 </enterprise:应付票据>
+    <enterprise:应付账款>18153.99 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>4219.08 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>58947.34 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>58947.34 </enterprise:负债合计>
+    <enterprise:实收资本或股本>26789.03 </enterprise:实收资本或股本>
+    <enterprise:资本公积>33632.26 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>2872.82 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>13287.41 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>76581.52 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>76581.52 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>135528.86 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京安控科技股份有限公司2013年利润表">
+    <enterprise:营业收入>22491.63 </enterprise:营业收入>
+    <enterprise:主营业务收入>22491.63 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>10646.10 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>213.21 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3837.47 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1250.43 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>406.84 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>20621.15 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>43.79 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>20577.36 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>20577.36 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>20577.36 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京安控科技股份有限公司2014年利润表">
+    <enterprise:营业收入>30096.82 </enterprise:营业收入>
+    <enterprise:主营业务收入>30096.82 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>15512.05 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>223.96 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4325.30 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1447.67 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>801.77 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>27623.42 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>14.79 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>27608.63 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>27608.63 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>27608.63 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京安控科技股份有限公司2015年利润表">
+    <enterprise:营业收入>39178.21 </enterprise:营业收入>
+    <enterprise:主营业务收入>39178.21 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>24844.96 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>350.32 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4225.91 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1742.84 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>698.66 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>36386.39 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>23.17 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>36363.22 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>36363.22 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>36363.22 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京安控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>19983.70 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>261.86 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>7425.92 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>27671.48 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>13001.10  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4499.93 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2764.94 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3147.24 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>23413.21 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>4258.27 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>8000.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3147.24 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>11147.24 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-11147.24 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>8.66 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>8.66 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>21450.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1208.22 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>360.49 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>23018.71 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-23010.05 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-29899.02 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京安控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>24419.19 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>65.25 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4783.05 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>29267.49 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>17974.52  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4956.66 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2853.28 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4494.44 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>30278.90 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1011.41 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1041.04 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>4494.44 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5535.48 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5535.48 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>150.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>150.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>20300.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>2647.07 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>422.91 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>23369.98 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-23219.98 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-29766.87 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京安控科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>29315.80 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>262.85 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>993.02 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>30571.67 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>14961.09  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4848.54 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3583.27 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>8303.81 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>31696.71 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1125.04 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>11294.29 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>8303.81 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>19598.10 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-19598.10 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>93.95 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>93.95 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>30629.24 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3135.18 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>141.44 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>33905.86 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-33811.91 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-54535.05 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：俞凌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>俞凌 </enterprise:股东名称>
+	 <enterprise:货币>2,016.3182万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>56.85%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：董爱民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>董爱民 </enterprise:股东名称>
+	 <enterprise:货币>780.2814万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>22.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：庄贵林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>庄贵林 </enterprise:股东名称>
+	 <enterprise:货币>134.7759万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：成波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>成波 </enterprise:股东名称>
+	 <enterprise:货币>134.7759万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：朱育新 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱育新 </enterprise:股东名称>
+	 <enterprise:货币>90.087万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.54%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：沈一兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>沈一兵 </enterprise:股东名称>
+	 <enterprise:货币>90.087万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.54%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：杨继荣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨继荣 </enterprise:股东名称>
+	 <enterprise:货币>90.087万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.54%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：张建平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张建平 </enterprise:股东名称>
+	 <enterprise:货币>59.9398万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.69%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：刘晓良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘晓良 </enterprise:股东名称>
+	 <enterprise:货币>59.9398万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.69%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：许国根 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许国根 </enterprise:股东名称>
+	 <enterprise:货币>30.1472万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.85%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：姜莉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>姜莉 </enterprise:股东名称>
+	 <enterprise:货币>30.1472万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.85%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京安控科技股份有限公司股东：王连普 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王连普 </enterprise:股东名称>
+	 <enterprise:货币>30.1472万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.85%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20956390</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954750</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957256</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957376</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957838</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955398</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953551</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955925</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953713</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954045</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20956615</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954369</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954622</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957148</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954885</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955305</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957841</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20952987</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957926</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953172</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955485</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953408</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953735</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20956222</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954302</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20956719</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20956833</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954373</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：HOMEXCEL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>HOMEXCEL</enterprise:有商标名称>
+	<enterprise:有注册号>20954491</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：CONTROLPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>CONTROLPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957076</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957560</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957767</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957773</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20957915</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955554</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SAFEPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SAFEPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20958089</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SYSTROL">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>SYSTROL</enterprise:有商标名称>
+	<enterprise:有注册号>20953380</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955685</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DATAPACK">
+	<enterprise:有申请日期>16-8-11</enterprise:有申请日期>
+	<enterprise:有商标名称>DATAPACK</enterprise:有商标名称>
+	<enterprise:有注册号>20955867</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>14-8-7</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15115941</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：MACROE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>MACROE</enterprise:有商标名称>
+	<enterprise:有注册号>14656359</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：FLEXE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>14656363</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE</enterprise:有商标名称>
+	<enterprise:有注册号>14656370</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ROCKE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>ROCKE</enterprise:有商标名称>
+	<enterprise:有注册号>14656371</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：MACROE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>MACROE</enterprise:有商标名称>
+	<enterprise:有注册号>14656361</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：FLEXE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>14656362</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：FLEXE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>14656364</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：FLEXE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>14656366</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE</enterprise:有商标名称>
+	<enterprise:有注册号>14656368</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：MACROE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>MACROE</enterprise:有商标名称>
+	<enterprise:有注册号>14656357</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE</enterprise:有商标名称>
+	<enterprise:有注册号>14656367</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ROCKE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>ROCKE</enterprise:有商标名称>
+	<enterprise:有注册号>14656951</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ROCKE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>ROCKE</enterprise:有商标名称>
+	<enterprise:有注册号>14656952</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：FLEXE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>14656365</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE</enterprise:有商标名称>
+	<enterprise:有注册号>14656369</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ROCKE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>ROCKE</enterprise:有商标名称>
+	<enterprise:有注册号>14656372</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：MACROE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>MACROE</enterprise:有商标名称>
+	<enterprise:有注册号>14656358</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：MACROE">
+	<enterprise:有申请日期>14-7-7</enterprise:有申请日期>
+	<enterprise:有商标名称>MACROE</enterprise:有商标名称>
+	<enterprise:有注册号>14656360</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控  ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控  ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039097</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039143</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039381</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039416</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控  ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控  ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039484</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO TECHNOLOGIES  ECHO">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO TECHNOLOGIES  ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>15039529</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO TECHNOLOGIES ECHO">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO TECHNOLOGIES ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>15039553</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO ECHO TECHNOLOGIES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO ECHO TECHNOLOGIES</enterprise:有商标名称>
+	<enterprise:有注册号>15039620</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO ECHO TECHNOLOGIES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO ECHO TECHNOLOGIES</enterprise:有商标名称>
+	<enterprise:有注册号>15039785</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO TECHNOLOGIES ECHO">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO TECHNOLOGIES ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>15039867</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039050</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039339</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO ECHO TECHNOLOGIES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO ECHO TECHNOLOGIES</enterprise:有商标名称>
+	<enterprise:有注册号>15039742</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO TECHNOLOGIES ECHO">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO TECHNOLOGIES ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>15039851</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO ECHO TECHNOLOGIES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO ECHO TECHNOLOGIES</enterprise:有商标名称>
+	<enterprise:有注册号>15039804</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15038972</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控  ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控  ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039010</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039071</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039179</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039211</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技  ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技  ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039267</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039298</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控 ETROL">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控 ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>15039436</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技  ECHO ECHO TECHNOLIGES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技  ECHO ECHO TECHNOLIGES</enterprise:有商标名称>
+	<enterprise:有注册号>15039608</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控科技 ECHO ECHO TECHNOLOGIES">
+	<enterprise:有申请日期>14-7-4</enterprise:有申请日期>
+	<enterprise:有商标名称>安控科技 ECHO ECHO TECHNOLOGIES</enterprise:有商标名称>
+	<enterprise:有注册号>15039730</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897609</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897650</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANT E">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANT E</enterprise:有商标名称>
+	<enterprise:有注册号>12897525</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANT E">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANT E</enterprise:有商标名称>
+	<enterprise:有注册号>12897485</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897718</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897692</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897740</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANTE">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANTE</enterprise:有商标名称>
+	<enterprise:有注册号>12897563</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：PLANT E">
+	<enterprise:有申请日期>13-7-10</enterprise:有申请日期>
+	<enterprise:有商标名称>PLANT E</enterprise:有商标名称>
+	<enterprise:有注册号>12897828</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11832918</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11832992</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11833042</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11833024</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11832947</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-12-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11833080</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485716</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485691</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485824</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485800</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485760</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标异议申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ETROL">
+	<enterprise:有申请日期>12-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>ETROL</enterprise:有商标名称>
+	<enterprise:有注册号>11485944</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ECH FLEXE">
+	<enterprise:有申请日期>12-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>ECH FLEXE</enterprise:有商标名称>
+	<enterprise:有注册号>10538515</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：DICOME">
+	<enterprise:有申请日期>11-1-25</enterprise:有申请日期>
+	<enterprise:有商标名称>DICOME</enterprise:有商标名称>
+	<enterprise:有注册号>9087908</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPER 32">
+	<enterprise:有申请日期>11-1-25</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPER 32</enterprise:有商标名称>
+	<enterprise:有注册号>9089888</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ROCKE">
+	<enterprise:有申请日期>11-1-20</enterprise:有申请日期>
+	<enterprise:有商标名称>ROCKE</enterprise:有商标名称>
+	<enterprise:有注册号>9075607</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE">
+	<enterprise:有申请日期>11-1-20</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE</enterprise:有商标名称>
+	<enterprise:有注册号>9075615</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ECHO">
+	<enterprise:有申请日期>07-5-29</enterprise:有申请日期>
+	<enterprise:有商标名称>ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>6076344</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ECHO">
+	<enterprise:有申请日期>01-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>1918254</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>撤销连续三年停止使用注册商标中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：RTU">
+	<enterprise:有申请日期>01-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>RTU</enterprise:有商标名称>
+	<enterprise:有注册号>1918256</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>撤销连续三年停止使用注册商标申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：安控">
+	<enterprise:有申请日期>01-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>安控</enterprise:有商标名称>
+	<enterprise:有注册号>1802516</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：SUPERE RTU">
+	<enterprise:有申请日期>01-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SUPERE RTU</enterprise:有商标名称>
+	<enterprise:有注册号>1918255</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京安控科技股份有限公司的商标信息：ECHO">
+	<enterprise:有申请日期>99-9-3</enterprise:有申请日期>
+	<enterprise:有商标名称>ECHO</enterprise:有商标名称>
+	<enterprise:有注册号>1518038</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种嵌入式计算机固件程序的下载方法">
+	<enterprise:有申请公布日>17-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种嵌入式计算机固件程序的下载方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710287514.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107066301A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种抽油机智能空抽控制装置">
+	<enterprise:有申请公布日>17-5-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抽油机智能空抽控制装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621177442.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206175192U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种抽油机智能间抽控制装置">
+	<enterprise:有申请公布日>17-5-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抽油机智能间抽控制装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621129334.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206174931U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种RS485和RS232通讯自适应的硬件电路">
+	<enterprise:有申请公布日>17-5-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种RS485和RS232通讯自适应的硬件电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620935747.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206178799U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种网络芯片自适应通讯的装置">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网络芯片自适应通讯的装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620736596.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205983443U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种高精度多路电源监控电路">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高精度多路电源监控电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620606829.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205986327U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种无线电量采集传输装置">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种无线电量采集传输装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620937682.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205983806U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种有杆抽油系统冲次的调节装置及其方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种有杆抽油系统冲次的调节装置及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610972444.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106382214A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种抽油机井动液面连续测量方法及装置">
+	<enterprise:有申请公布日>17-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抽油机井动液面连续测量方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610941837.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106351645A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种具有视频传输和分析的RTU模块">
+	<enterprise:有申请公布日>17-1-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有视频传输和分析的RTU模块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620851264.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205901962U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种ZigBee和Modbus RTU协议实现数据交互的方法和装置">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种ZigBee和Modbus RTU协议实现数据交互的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610730051.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106330397A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种一取一加诊断的功能安全数字量输入模块">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种一取一加诊断的功能安全数字量输入模块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610596582.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106291167A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种抽油机智能间抽控制装置及其控制方法">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抽油机智能间抽控制装置及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610902576.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106285572A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种抽油机智能空抽控制装置及其控制方法">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抽油机智能空抽控制装置及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610954654.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106286255A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种基于软件标定精度的方法和装置">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于软件标定精度的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610561085.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106227150A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种网络芯片自适应通讯的装置和方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网络芯片自适应通讯的装置和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610550289.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106227516A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种工业用通信装置">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业用通信装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620116159.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205792710U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种在RTU上实现图像与数字信号叠加显示的装置">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种在RTU上实现图像与数字信号叠加显示的装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620572200.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205792953U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种功能安全电源模块">
+	<enterprise:有申请公布日>16-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种功能安全电源模块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610202582.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106160461A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种1OO2D功能安全数字量输出电路">
+	<enterprise:有申请公布日>16-11-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种1OO2D功能安全数字量输出电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610444025.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106130537A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种具有HART通讯功能的RTU设计装置">
+	<enterprise:有申请公布日>16-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有HART通讯功能的RTU设计装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610444218.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106100857A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种二取一架构的功能安全控制器">
+	<enterprise:有申请公布日>16-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种二取一架构的功能安全控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610487426.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106094629A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种HART多通道切换电路及方法">
+	<enterprise:有申请公布日>16-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种HART多通道切换电路及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610080817.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106094605A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种一取一加诊断的功能安全模拟量输入电路">
+	<enterprise:有申请公布日>16-10-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种一取一加诊断的功能安全模拟量输入电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610630665.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106020074A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种兼容多类型串行存储器的硬件电路">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种兼容多类型串行存储器的硬件电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620116996.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205540703U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种电源热插拔冗余电路">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电源热插拔冗余电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620269197.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205544570U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种有线转无线的数据传输装置">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种有线转无线的数据传输装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620115693.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205540108U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种HART多通道切换电路">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种HART多通道切换电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620115793.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205540109U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种输入接口设备">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输入接口设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620116156.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205540110U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种输出接口设备">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输出接口设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620115508.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205540107U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：带有过载保护功能的开口型大横向刚度剪切式载荷传感器">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>带有过载保护功能的开口型大横向刚度剪切式载荷传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610285514.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105823580A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种含有分体式工字形弹性元件的载荷传感器">
+	<enterprise:有申请公布日>16-7-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种含有分体式工字形弹性元件的载荷传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610284252.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105758560A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种输出接口设备">
+	<enterprise:有申请公布日>16-5-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输出接口设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610081920.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105607542A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：基于Modbus RTU通信协议的从智能模块入网的方法">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于Modbus RTU通信协议的从智能模块入网的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610080548.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105577482A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种基于Modbus RTU通信协议的从站入网方法">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于Modbus RTU通信协议的从站入网方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610081317.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105577483A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种兼容多类型串行存储器的硬件电路及自适应方法">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种兼容多类型串行存储器的硬件电路及自适应方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610080904.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105573928A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种输入接口设备">
+	<enterprise:有申请公布日>16-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输入接口设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610080901.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105549492A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种基于Zigbee传输的无线PDA">
+	<enterprise:有申请公布日>16-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于Zigbee传输的无线PDA</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520584882.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205104010U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种基于ZigBee的角位移仪表">
+	<enterprise:有申请公布日>16-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于ZigBee的角位移仪表</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520586271.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204944471U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种无线功图传感器">
+	<enterprise:有申请公布日>16-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种无线功图传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520582941.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204944717U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：远程控制终端单元（SuperE32系列RTU）">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>远程控制终端单元（SuperE32系列RTU）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330169766.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302612440S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：远程控制终端单元（SuperE32系列RTU）">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>远程控制终端单元（SuperE32系列RTU）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330169924.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302612441S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：基于视频分析的烟火检测装置">
+	<enterprise:有申请公布日>13-6-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于视频分析的烟火检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110335578.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102509078B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种扩展I/O装置">
+	<enterprise:有申请公布日>13-3-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扩展I/O装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220443484.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202797501U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：烟气连续在线监测系统机箱">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>烟气连续在线监测系统机箱</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230417233.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302253282S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：基于视频分析的烟火检测装置">
+	<enterprise:有申请公布日>12-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于视频分析的烟火检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110335578.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102509078A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：无线压力传感器">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线压力传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120348940.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202255744U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：环保在线监测仪器机箱">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>环保在线监测仪器机箱</enterprise:有专利名称>
+	<enterprise:有申请号>CN201130477657.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN301936412S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种电梯能耗监控方法">
+	<enterprise:有申请公布日>11-12-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电梯能耗监控方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810090631.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101551658B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：智能抽油机控制器">
+	<enterprise:有申请公布日>11-12-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能抽油机控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120033353.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202093367U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：用于COD在线自动监测仪的控制系统">
+	<enterprise:有申请公布日>11-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于COD在线自动监测仪的控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235527.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101692049B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：无线压力变送器">
+	<enterprise:有申请公布日>11-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线压力变送器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201130002706.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN301616644S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：生物需氧量检测方法及检测装置">
+	<enterprise:有申请公布日>10-12-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>生物需氧量检测方法及检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119026.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329253B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种计量阀">
+	<enterprise:有申请公布日>10-12-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种计量阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810172393.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101393086B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量检测方法">
+	<enterprise:有申请公布日>10-9-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119006.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329252B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量检测装置">
+	<enterprise:有申请公布日>10-9-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119027.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329254B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量、生物需氧量检测装置">
+	<enterprise:有申请公布日>10-9-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量、生物需氧量检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119005.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329251B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：COD的快速消解气动计量进样反应装置">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>COD的快速消解气动计量进样反应装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920223163.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548440U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：无线载荷传感器">
+	<enterprise:有申请公布日>10-8-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线载荷传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200930268938.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN301299866S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种封装电路板的外壳">
+	<enterprise:有申请公布日>10-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种封装电路板的外壳</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710111175.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101056506B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：用于COD在线自动监测仪的控制系统">
+	<enterprise:有申请公布日>10-4-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于COD在线自动监测仪的控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235527.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101692049A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：用于总有机碳在线监测仪的控制系统">
+	<enterprise:有申请公布日>10-3-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于总有机碳在线监测仪的控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235526.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101673098A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种电梯能耗监控方法及装置">
+	<enterprise:有申请公布日>09-10-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电梯能耗监控方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810090631.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101551658A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种水质总有机碳的监测仪">
+	<enterprise:有申请公布日>09-9-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种水质总有机碳的监测仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820178633.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201307110Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种计量阀">
+	<enterprise:有申请公布日>09-3-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种计量阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810172393.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101393086A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种电梯能耗监控装置">
+	<enterprise:有申请公布日>09-1-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电梯能耗监控装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820107460.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201184972Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量、生物需氧量检测装置">
+	<enterprise:有申请公布日>08-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量、生物需氧量检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119005.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329251A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量检测方法">
+	<enterprise:有申请公布日>08-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119006.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329252A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：生物需氧量检测方法及检测装置">
+	<enterprise:有申请公布日>08-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>生物需氧量检测方法及检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119026.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329253A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：化学需氧量检测装置">
+	<enterprise:有申请公布日>08-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>化学需氧量检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119027.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101329254A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种可编程控制器的核心单元">
+	<enterprise:有申请公布日>08-9-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可编程控制器的核心单元</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720194421.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201116981Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京安控科技股份有限公司的专利信息：一种封装电路板的外壳">
+	<enterprise:有申请公布日>08-9-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种封装电路板的外壳</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720152316.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201115061Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：智能粮库集成管理系统">
+	<enterprise:有批准日期>17-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>智能粮库集成管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能粮库系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR058983</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SuperE50系列产品嵌入式软件">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>SuperE50系列产品嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR282868</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：RPCSet软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>RPCSet软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265897</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ系列通信模块嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ系列通信模块嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265902</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ903D无线数字压力表嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ903D无线数字压力表嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265892</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ907无线角位移传感器嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ907无线角位移传感器嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265823</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ908无线载荷传感器嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ908无线载荷传感器嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265603</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：E5303抽油机控制器嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>E5303抽油机控制器嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265764</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ905D无线数字温度表嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ905D无线数字温度表嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265909</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SL304模块嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SL304模块嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265605</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SZ909K无线死点开关传感器嵌入式软件">
+	<enterprise:有批准日期>16-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>SZ909K无线死点开关传感器嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR265821</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：油田智能注水优化专家系统">
+	<enterprise:有批准日期>16-11-18</enterprise:有批准日期>
+	<enterprise:有软件全称>油田智能注水优化专家系统</enterprise:有软件全称>
+	<enterprise:有软件简称>智能配注</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR336008</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：FlexE31X系列产品嵌入式软件">
+	<enterprise:有批准日期>16-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>FlexE31X系列产品嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR201893</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：Super32系列产品嵌入式软件">
+	<enterprise:有批准日期>16-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>Super32系列产品嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR201382</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SuperE40系列产品嵌入式软件">
+	<enterprise:有批准日期>16-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>SuperE40系列产品嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR201377</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：安控粮库经营管理系统软件">
+	<enterprise:有批准日期>16-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>安控粮库经营管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR077332</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：安控粮库多功能粮情联控平台软件">
+	<enterprise:有批准日期>16-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>安控粮库多功能粮情联控平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR077330</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：安控粮库智能出入库系统">
+	<enterprise:有批准日期>16-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>安控粮库智能出入库系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR077331</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：WGESet无线网关配置软件">
+	<enterprise:有批准日期>16-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>WGESet无线网关配置软件</enterprise:有软件全称>
+	<enterprise:有软件简称>WGESet</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR009219</enterprise:有登记号>
+	<enterprise:有分类号>30208-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：FlexESet 软件">
+	<enterprise:有批准日期>16-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>FlexESet 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>FlexESet</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR009143</enterprise:有登记号>
+	<enterprise:有分类号>30208-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：SuperESet 软件">
+	<enterprise:有批准日期>16-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>SuperESet 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>SuperESet</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR009509</enterprise:有登记号>
+	<enterprise:有分类号>30208-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO COD在线监测系统软件">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO COD在线监测系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR091135</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：Eserver 软件">
+	<enterprise:有批准日期>10-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>Eserver 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014658</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO Scan 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO Scan 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013591</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO 等比例采样系统软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO 等比例采样系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013571</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：DS Dnp3 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>DS Dnp3 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013533</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO SCADA 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO SCADA 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013568</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO环保在线监测系统软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO环保在线监测系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013566</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：DS Settings 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>DS Settings 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013532</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：DS Flowconfig 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>DS Flowconfig 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013570</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO Analisys 软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO Analisys 软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013590</enterprise:有登记号>
+	<enterprise:有分类号>65500-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO COD在线监测系统软件">
+	<enterprise:有批准日期>10-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO COD在线监测系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR013539</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：热网平衡调度管理软件">
+	<enterprise:有批准日期>10-8-9</enterprise:有批准日期>
+	<enterprise:有软件全称>热网平衡调度管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>EHOMS</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR040152</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：总有机碳在线监测系统控制软件 V1.0 [简称: TOC控制软件]">
+	<enterprise:有批准日期>08-5-9</enterprise:有批准日期>
+	<enterprise:有软件全称>总有机碳在线监测系统控制软件 V1.0 [简称: TOC控制软件]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR08918</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：编程软件">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>编程软件</enterprise:有软件全称>
+	<enterprise:有软件简称>编程</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069083</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：组态软件">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>组态软件</enterprise:有软件全称>
+	<enterprise:有软件简称>组态</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069080</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：电蜘蛛ESpider组态软件 [简称: 电蜘蛛ESpider] V7.0">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>电蜘蛛ESpider组态软件 [简称: 电蜘蛛ESpider] V7.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01006</enterprise:有登记号>
+	<enterprise:有分类号>67500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：Eopen软件 V1.0 [简称: Eopen]">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>Eopen软件 V1.0 [简称: Eopen]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01007</enterprise:有登记号>
+	<enterprise:有分类号>31000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：抽油机控制器示功图分析软件">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>抽油机控制器示功图分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>功图分析软件</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069082</enterprise:有登记号>
+	<enterprise:有分类号>62500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：远程测控终端控制软件">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>远程测控终端控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>RTU控制软件</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069081</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：抽油机智能诊断分析软件 [简称: 功图诊断软件] V1.0">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>抽油机智能诊断分析软件 [简称: 功图诊断软件] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01002</enterprise:有登记号>
+	<enterprise:有分类号>66000-0900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：EMC C平台开发软件 V1.0 [简称: EMC]">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>EMC C平台开发软件 V1.0 [简称: EMC]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01004</enterprise:有登记号>
+	<enterprise:有分类号>31000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO SCADA系统软件 V6.5 [简称: SCADA系统]">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO SCADA系统软件 V6.5 [简称: SCADA系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01008</enterprise:有登记号>
+	<enterprise:有分类号>66000-0900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：ECHO DCS系统软件 V6.5 [简称: DCS系统]">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>ECHO DCS系统软件 V6.5 [简称: DCS系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01009</enterprise:有登记号>
+	<enterprise:有分类号>66000-0900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：电蜘蛛ESpider组态软件 [简称: 电蜘蛛ESpider] V6.0">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>电蜘蛛ESpider组态软件 [简称: 电蜘蛛ESpider] V6.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01003</enterprise:有登记号>
+	<enterprise:有分类号>31000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：Eladder控制器开发平台软件 [简称: Eladder] V1.0">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>Eladder控制器开发平台软件 [简称: Eladder] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01005</enterprise:有登记号>
+	<enterprise:有分类号>31000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京安控科技股份有限公司的软件著作：E16I系统软件 V2.0 [简称: E16I]">
+	<enterprise:有批准日期>08-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>E16I系统软件 V2.0 [简称: E16I]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01010</enterprise:有登记号>
+	<enterprise:有分类号>66000-0900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京安控科技股份有限公司的网站备案：北京安控科技股份有限公司">
+	<enterprise:有审核时间>16-8-19</enterprise:有审核时间>
+	<enterprise:有网站全称>北京安控科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.etrol.com</enterprise:有网站首页>
+	<enterprise:有域名>etrol.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16042615号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京安控科技股份有限公司的网站备案：北京安控科技股份有限公司">
+	<enterprise:有审核时间>16-8-19</enterprise:有审核时间>
+	<enterprise:有网站全称>北京安控科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.etrol.com</enterprise:有网站首页>
+	<enterprise:有域名>echocontrol.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16042615号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京安控科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京安控科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京安控科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京安控科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京安控科技股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京安控科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京安控科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京安控科技股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京安控科技股份有限公司的税务信息">
+	<enterprise:有国税机关>北京市西城区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市西城区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现公司欠税信息</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（13%、6%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>66万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>61万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京安控科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>主要采购图书和支付稿费等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>图书经销商及出版社、作者等</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>一般</enterprise:有延期支付>
+	<enterprise:有上年度发生额>3644万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>3695万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>减少51万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>235万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京安控科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京安控科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京安控科技股份有限公司的专利数量">
+	<enterprise:专利总计>4</enterprise:专利总计>
+	<enterprise:专利数量2013>4</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京安控科技股份有限公司的商标数量">
+	<enterprise:商标总计>53</enterprise:商标总计>
+	<enterprise:商标数量2013>9</enterprise:商标数量2013>
+	<enterprise:商标数量2014>44</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京安控科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

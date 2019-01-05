@@ -1,0 +1,1373 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京尚精光电技术有限公司的企业概况">
+    <enterprise:有名称>北京尚精光电技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101088013930941</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局大兴分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国光大银行股份有限公司北京首体支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>28</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2001年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2021年</enterprise:有营业执照到期日>
+    <enterprise:有股本>210.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务、技术培训；计算机系统服务；数据处理；基础软件服务、应用软件服务；销售电子产品、通讯设备、计算机、软件及辅助设备、机械设备、家用电器、化工产品（不含危险化学品及一类易制毒化学品）、医疗器械（限Ⅰ类）；批发医疗器械II类（经营范围以第二类医疗器械经营备案凭证为准）；生产医疗器械II类（经营范围以医疗器械生产许可证为准）（医疗器械生产许可证有效期至2021年04月26日）（环保主管部门批文有效期至2020年11月10日）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术转让、技术咨询、技术服务、技术培训；计算机系统服务；数据处理；基础软件服务、应用软件服务；销售电子产品、通讯设备、计算机、软件及辅助设备、机械设备、家用电器、化工产品（不含危险化学品及一类易制毒化学品）、医疗器械（限Ⅰ类）；批发医疗器械II类（经营范围以第二类医疗器械经营备案凭证为准）；生产医疗器械II类（经营范围...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>临床检验分析仪器和诊断试剂的研发、生产和销售</enterprise:有主营业务>
+    <enterprise:有行业分类>专用设备制造业下的医疗仪器设备及器械制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市大兴区中关村科技园区大兴生物医药产业基地永兴路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市大兴区中关村科技园区大兴生物医药产业基地永兴路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102600</enterprise:有邮政编码>
+    <enterprise:有联系人>赵秀东</enterprise:有联系人>
+    <enterprise:有联系电话>13910530381</enterprise:有联系电话>
+    <enterprise:有传真电话>010-88468908-8005</enterprise:有传真电话>
+    <enterprise:有E-mail>Zhaoxd1128@sina.com</enterprise:有E-mail>
+    <enterprise:有网址>www.sjoet.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京尚精光电技术有限公司（以下简称“公
+司”）于 2001年 4月 29日在北京市工商行政
+管理局海淀分局注册成立，后由于注册地址变
+更，工商登记机关变更为北京市工商行政管理
+局大兴分局。截至评级时点，公司注册资本
+1000.00 万元，实收资本 210.00 万元，股东认
+缴出资金额及持股比例情况分别为：自然人股
+东杜伟亭以货币出资 469.49 万元，持股
+46.95%；自然人股东赵维宇以货币出资 292.12
+万元，持股 29.21%；自然人股东赵秀东以货币
+出资 138.39万元，持股 13.84%；自然人股东许
+维波以货币出资 100.00万元，持股 10.00%。 
+公司经营范围：“技术开发、技术推广、
+技术转让、技术咨询、技术服务、技术培训；
+计算机系统服务；数据处理；基础软件服务、
+应用软件服务；销售电子产品、通讯设备、计
+算机、软件及辅助设备、机械设备、家用电器、
+化工产品（不含危险化学品及一类易制毒化学
+品）、医疗器械（限 I 类）；批发医疗器械 II
+类（经营范围以第二类医疗器械经营备案凭证
+为准）；生产医疗器械 II类（经营范围以医疗
+器械生产许可证为准）（医疗器械生产许可证
+有效期至 2021年 4月 26日）（环保主管部门
+批文有效期至 2020年 11月 10日）。”目前，
+公司主营业务为临床检验分析仪器和诊断试剂
+的研发、生产和销售。 
+截至 2016年 7月底，公司资产总额 1283.41
+万元，固定资产净额 74.24 万元，所有者权益
+203.20万元；2015年，公司实现主营业务收入
+1261.52 万元，利润总额 30.97 万元；2016 年
+1~7月，公司实现主营业务收入 526.37万元，
+利润总额 3.74 万元；公司现有员工 28 人，在
+北京市属于小型企业。 
+公司注册及办公地址：北京市大兴区中关
+村科技园区大兴生物医药产业基地永兴路 25
+号 1号楼 B1门 206室；法定代表人：杜伟亭；
+统一社会信用代码：911101088013930941；经
+营期限：自 2001 年 4 月 29 日至 2021年 4 月
+28日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京尚精光电技术有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、执行董事兼总经理杜伟
+亭，49岁，毕业于北京大学，硕士研究生学历，
+曾任职于山东大学浪潮信息技术研究所、北京
+燕山科技有限公司、北京贝斯特医用仪器有限
+公司、济南泛华时代电子工程有限公司，2001
+年 4月创办公司，行业及管理经验丰富。 
+公司副总经理赵维宇，43岁，本科学历，
+曾任北京精彩家园广告有限公司总经理，2007
+年加入公司，负责公司产品销售及品牌推广工
+作，行业及管理经验丰富。 
+公司财务总监赵秀东，45岁，本科学历，
+曾为北京正仁律师事务所合伙人，2008年加入
+公司，财务管理经验丰富。 
+总体看，公司高管团队学历水平较高，从
+业经验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 28人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 32.14%；专科学历者占比 53.57%；
+高中及以下学历者占比 14.29%。 
+从年龄构成看，公司员工中年龄在 45岁及
+以下者占比 92.86%，员工以中青年为主，年龄
+结构呈现年轻化。 
+从岗位构成看，公司员工中管理人员占比
+25.00%；技术人员占比 42.86%；作业人员占比
+32.14%，岗位结构符合公司的经营特点。 
+总体看，公司员工学历水平较低，年龄结
+构呈现年轻化，岗位结构符合公司的经营特点，
+人员构成合理。 
+3．研发人员素质 
+公司现有专职研发人员 5人，其中：研究
+生学历者 1人，本科学历者 3人，专科学历者
+1人，研发人员学历水平高。 
+公司主要研发人员杜伟亭， 1997 年主持
+并作为主要设计者完成了意大利 SCOUT-Ⅱ生
+化分析仪的操作系统汉化项目；1998年主持了
+与意大利 AMS公司对 SABA-18全自动生化分
+析仪的系统改造工作，主要负责软件及光路部
+分；2000年独立完成了对进口生化分析仪输出
+部分的汉化改造工作；2001 年主持 OET 系列
+生化分析仪的设计、研制，同时主持开发和研
+制了医院废弃液体检测监视仪、高敏 CRP分析
+仪等医用设备；2006 年 4 月主持 OET 特种蛋
+白分析仪系列生化分析仪的各项软件和硬件的
+设计、开发工作，并于 2006年取得了 3项半自
+动生化分析仪自主知识产权的实用新型专利证
+书，并带领团队用 4年时间开发出运用于各种
+医疗设备的自动控制软件 10项，于 2009年获
+得了软件著作权 10项。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富，专业素质较高。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设仪器技术开发部、试剂技术开发部，
+根据市场需求，分别负责相关产品的研发工作。 
+近三年，公司研发投入分别为 105.00万元、
+130.00万元、123.00万元，分别占当年主营业
+务收入的 14.91%、15.52%、9.75%，研发投入
+力度较大，主要用于发放研发人员工资、购置
+研发设备等。 
+公司除自主研发外，还与北京邮电大学、
+中国电子研究院等外部机构开展研发合作。 
+总体看，公司研发投入力度较大，能够满
+足现阶段研发需要，科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>105.00万元,130.00万元,123.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京尚精光电技术有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地位于北京市大兴区中关村科技
+园区大兴生物医药产业基地永兴路25号1号楼
+B1 门 206 室，使用面积 842.38 平方米，使用
+方式为租赁，该地办公设施齐全，周围高新技
+术企业云集。 
+公司成立至今已有 15年，主要产品处于成
+熟期，拥有 “尚精光电”、“OET” 2项注册
+商标，业内知名度较高。 
+公司已取得《国家高新技术企业证书》（证
+书编号：GF201511003629，有效期至 2018 年
+11 月 23 日）、《医疗器械生产企业许可证》
+（编号：京食药监械生产许 20030081号，有效
+期至 2021年 4月 26日）、《第二类医疗器械
+经营备案凭证》，多项产品获得《CE认证证书》
+（有效期至 2018年 4月 14日），公司自主研
+发的 12项产品已取得《中华人民共和国医疗器
+械注册证》，公司资质水平能够满足现阶段经
+营需求。 
+总体看，公司资质水平能够满足现阶段经
+营需求，业内知名度较高，经营条件较好。 
+目前，公司主要产品包括生化分析仪、蛋
+白分析仪、特定蛋白试剂，产品适用于临床检
+验部门和科研单位进行日常检测及科学研究。
+从收入构成看，2015年，公司生化分析仪的销
+售收入约占总收入的 15%，蛋白分析仪的销售
+收入约占总收入的 30%，特定蛋白试剂的销售
+收入约占总收入的 55%。 
+公司自主研发的生化及蛋白分析仪采用国
+际先进的动态散射比浊法，不用做标准曲线、
+空白对照，能够对取得的人体体液样本和检验
+用试剂进行自动旋转搅拌，适用于临床常规生
+化、凝血时间、免疫化学、特定蛋白等检测分
+析。其中：OET-N400 蛋白分析仪可以同时测
+量一个或四个不同项目，配有全触摸 7 寸彩色
+屏幕、24个内置温预位，能够做到对人体血液
+中的红细胞压积值进行实时测量；OET-200 生
+化分析仪可以一机多用，替代单通道凝血分析
+仪进行 PT、TT、APTT、FIB 等凝血项目的检
+测，可长期保存 96个分析项目。 
+公司自主研发的 C反应蛋白、超敏 C反应
+蛋白、糖化血红蛋白、抗链球菌溶血素、类风
+湿因子、尿微量白蛋白、胱抑素等特定蛋白试
+剂，用于检测细菌感染、血清升高、血糖、恶
+性肿瘤、组织损伤、风湿性关节炎、心脑血管
+疾病，以及糖尿病、肾功能损害等疾病。 
+公司主要采购物为电路板、机加工件、试
+剂原料等，主要采购地为北京、上海，主要供
+货商为北京万龙精益电子技术有限公司、北京
+龙安祥机械加工厂、拜尔威贸易（上海）有限
+公司。公司每个月会根据生产计划和安全库存
+制定采购计划。结算方面，长期合作的供应商
+给予公司 1~3个月的账期，新供应商要求公司
+预付一定金额的货款或货到付款。 
+生产方面，公司根据销售订单和销售计划
+进行批量生产，生产不受季节性因素的影响，
+产能为 1500~2000台/年，目前产能充足。由于
+公司产品的特殊性，公司建有无尘车间，生产
+环境符合医疗器械的生产作业要求。产品质量
+方面，公司内部有专业质检人员负责产品质量
+检查。 
+销售方面，公司采用代理商销售和直销两
+种方式进行销售，代理商销售约占销售收入的
+70%，销售区域覆盖全国三十个省、自治区、
+直辖市及部分国外区域，代理商中有 30%的国
+外代理商，公司与代理商结算方式多数为款到
+发货，仅与个别有多年合作关系的代理商结算
+采用货到付款的方式。公司直销方式约占销售
+收入的 30%，主要是向全国的二甲及以下医院
+进行销售，项目一般需要投标，由于公立医疗
+机构的结算流程长，费用审批严格，回款较慢，
+公司一般需给予客户 3~6个月的账期。公司的
+仪器产品设有 1年保修期，客户如在保修期之
+后进行维修，公司会按照更换配件的价格进行
+收费。 
+总体看，公司上下游渠道畅通，业务模式
+清晰，经营状况较好。 
+4．经营效率 
+表 2公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 102.04 100.16 97.94 
+管理费用率(%) 33.46 31.46 26.39 
+应收账款周转次数(次) 10.34 11.58 6.02 
+存货周转次数(次) 2.09 1.56 1.36 
+总资产周转次数(次) 0.62 0.64 1.00 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率呈下降趋势，但始终
+处于行业高水平，主要由于人工成本、研发费
+用和无形资产摊销额较高；同期，公司管理费
+用率呈下降趋势，主要是由于主营业务成本增
+长较快，而管理费用增长相对较慢所致，但管
+理费用在总成本中占比较高，管理费用控制力
+度有待加强。 
+近三年，公司存货周转次数呈下降趋势，
+处于行业较低水平，主要是由于公司定期采购
+原材料，且需要保证一定的安全库存，导致公
+司存货较多；同期，公司应收账款周转次数整
+体呈下降趋势，处于行业一般水平；同期，公
+司总资产周转次数呈上升趋势，处于行业一般
+平。 
+总体看，公司经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会是公司的权力机构，行使决定公司
+的经营方针和投资计划等职权。公司不设董事
+会，设执行董事 1 名，执行董事行使执行股东
+会的决议等职权，执行董事为公司的法定代表
+人，现由杜伟亭担任；公司不设监事会，设监
+事 1 名，监事行使检查公司财务等职权。公司
+实行总经理负责制，设总经理 1名，由执行董
+事聘任或者解聘，现由杜伟亭兼任，总经理行
+使主持公司日常经营、管理工作等职权。公司
+股东杜伟亭与赵秀东为夫妻关系，为公司实际
+控制人。 
+公司现设仪器厂（下辖仪器生产部、仪器
+质量控制部、仪器技术开发部）、试剂厂（下
+辖试剂生产部、试剂质量控制部、试剂技术开
+发部）、供销部（下设销售、采购、售后服务、
+库房）、综合办公室（下辖行政、人事），各
+部门分工明确，内部协作有序。 
+公司拥有 1家全资子公司——北京迈维康
+生物技术有限公司（公司投资金额 55.00万元），
+该子公司从事产品销售业务，公司在人员、资
+金、对外担保等方面对子公司统一管理。 
+总体看，公司法人治理结构简单，组织架
+构清晰。 
+2．制度建设及执行 
+公司制定了《体外诊断试剂文件系统管理
+制度》、《体外诊断试剂质量否决制度》、《体
+外诊断试剂采购管理制度》、《体外诊断试剂
+销售管理制度》等一系列管理制度，为各岗位
+的工作提供了操作标准。 
+公司已通过 ISO 9001:2008《质量管理体系
+标准》认证（有效期至 2017 年 2 月）、ISO 
+13485:2003《医疗器械质量管理体系标准》认
+证（有效期至 2018年 4月），各部门在实际工
+作中严格执行各项管理制度。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016 年将实现主营业务收入
+1500.00 万元，净利润 32.00 万元；预计 2016
+年底公司资产总额 1343.59 万元，负债总额
+1110.00 万元，所有者权益 233.59 万元。相比
+2015 年，联合信用预计公司 2016 年主营业务
+收入增长 18.90%，负债率变动幅度为 0.40%，
+净资产收益率变动幅度为 10.20%。 
+总体看，公司未来一年内发展较好。 
+2．融资需求 
+公司有 1000.00 万元左右的融资需求，主
+要用于加大研发投入及补充流动资金，计划通
+过银行贷款的方式获取资金，可用股东房产进
+行抵押，其销售收入可以作为还款来源。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京尚精光电技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>-</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 7月底，公司
+流动比率和速动比率分别为 119.49%和
+51.92%，均处于行业低水平；2015年，公司现
+金流动负债比为 9.35，经营活动获取的现金流
+量净额对流动负债的保障程度较低，公司短期</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 21.38%、
+30.94%、82.21%，呈上升趋势，2015年，公司
+减资造成资产负债率大幅上升。2016年 7月底，
+公司资产负债率为 84.17%，负债水平高，无有
+息债务。 
+近三年，公司负债总额分别为 261.52万元、
+432.55 万元、931.72 万元，复合增长率为
+88.75%，主要是随着业务规模的扩大，应付账
+款、预收账款等经营性负债的增长所致。 
+截至 2016年 7月底，公司负债总额 1080.21
+万元，全部为流动负债，其中：应付账款 500.68
+万元，占比 46.35%，主要为应付济南拜伦斯医
+疗科技有限公司、北京金雕伟业模型科技有限
+公司、北京博大创兴电子科技有限公司等供应
+商的货款，账龄均在 1年以内；预收账款 349.01
+万元，占比 32.31%，主要为预收北京华美安康
+医疗科技有限公司、印度 Tulip、印度 Orbit、
+菲律宾Mal等代理商的货款，账龄均在 1年以
+内；其他应付款 161.21万元，占比 14.92%，主
+要为与北京环国置业房地产经纪有限公司、杜
+伟亭、北京迈维康生物技术有限公司、北京斯
+睿美医疗科技有限公司的往来款，账龄均在 1
+年以内。 
+图 2  公司 2016年 7月底流动负债构成图 
+近三年，公司所有者权益分别为 961.42万
+元、965.27万元、201.59万元，复合变动率为
+-54.21%，2015年，公司将无形资产出资 790.00
+万元全部做了减资处理，造成公司所有者权益
+大幅下降。近三年，公司未进行利润分配。 
+截至 2016 年 7 月底，公司所有者权益
+203.20万元，其中：实收资本 210.00万元；资
+本公积 8.17万元；未分配利润-14.97万元。 
+总体看，公司负债水平高，无有息债务，
+所有者权益对债务的保障能力较弱。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司主营业务收入分别为 704.25
+万元、837.81万元、1261.52万元，复合增长率
+为 33.84%，增长较快；同期，公司利润总额分
+别为-9.85 万元、4.54 万元、30.97 万元，随着
+收入的增长而增长。 
+近三年，公司主营业务利润率分别为
+41.99%、 39.98%、 42.48%，加权平均值为
+41.63%，处于行业一般水平；同期，公司净资
+产收益率分别为-1.08%、0.42%、4.51%，总资
+产报酬率分别为-0.49%、1.07%、3.08%，均逐
+渐好转，但仍处于行业低水平。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司现金收入比分别为 99.44%、
+100.49%、78.61%，加权平均值为 89.34%，处
+于行业较低水平。 
+总体看，公司盈利能力较弱，收入实现质
+量较差。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京尚精光电技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在中国执行
+信息公开网查询，未发现公司近五年存在被执
+行记录；通过在北京市企业信用信息网查询，
+未发现公司存在行政处罚信息。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等事项；未发
+现公司在银行存在不良信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策和行业风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司存货较多，周转较慢，影响了公
+司的资产流动性和经营效率。 
+（2）2015年，公司将无形资产出资 790.00
+万元全部做了减资处理，造成公司所有者权益
+大幅下降，负债水平大幅上升。 
+（3）公司盈利能力较弱，收入实现质量
+较差。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京尚精光电技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>1222094.00 </enterprise:资产总额>
+    <enterprise:所有者权益>54.91 </enterprise:所有者权益>
+    <enterprise:负债总额>168.88 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>704.25 </enterprise:营业收入>
+    <enterprise:EBITDA>78.65 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京尚精光电技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>1397082.00 </enterprise:资产总额>
+    <enterprise:所有者权益>51.07 </enterprise:所有者权益>
+    <enterprise:负债总额>277.34 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>837.81 </enterprise:营业收入>
+    <enterprise:EBITDA>89.09 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京尚精光电技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>1133031.00 </enterprise:资产总额>
+    <enterprise:所有者权益>24.75 </enterprise:所有者权益>
+    <enterprise:负债总额>644.14 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1261.52 </enterprise:营业收入>
+    <enterprise:EBITDA>60.85 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京尚精光电技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.62 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>15.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>6984.41 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京尚精光电技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.64 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.09 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5647.47 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京尚精光电技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.70 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3535.56 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚精光电技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1278.84 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚精光电技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1639.57 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚精光电技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>5113.70 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚精光电技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>239.74 </enterprise:流动比率>
+    <enterprise:速动比率>105.54 </enterprise:速动比率>
+    <enterprise:资产负债率>21.38 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>18.29 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚精光电技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>228.47 </enterprise:流动比率>
+    <enterprise:速动比率>79.56 </enterprise:速动比率>
+    <enterprise:资产负债率>30.94 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>9.38 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚精光电技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>175.09 </enterprise:流动比率>
+    <enterprise:速动比率>74.96 </enterprise:速动比率>
+    <enterprise:资产负债率>82.21 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>7.61 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京尚精光电技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>35465.15 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.99 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>45.91 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京尚精光电技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>186073.33 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>8.77 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京尚精光电技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>156251.85 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.79 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>18.34 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京尚精光电技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>75.60 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>70.08 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>-20.21 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>37.11 </enterprise:其他应收款>
+    <enterprise:存货>226.63 </enterprise:存货>
+    <enterprise:待摊费用>15.66 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>404.87 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>55.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>88.66 </enterprise:固定资产原价>
+    <enterprise:累计折旧>39.76 </enterprise:累计折旧>
+    <enterprise:固定资产净额>48.90 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>710.50 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>3.67 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>946.49 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1222094.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京尚精光电技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>46.13 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>74.63 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>39.71 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>37.40 </enterprise:其他应收款>
+    <enterprise:存货>413.01 </enterprise:存货>
+    <enterprise:待摊费用>22.77 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>633.65 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>55.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>109.81 </enterprise:固定资产原价>
+    <enterprise:累计折旧>54.69 </enterprise:累计折旧>
+    <enterprise:固定资产净额>55.12 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>651.18 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>2.87 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>928.67 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1397082.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京尚精光电技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>82.35 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>344.48 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>16.19 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>18.02 </enterprise:其他应收款>
+    <enterprise:存货>645.00 </enterprise:存货>
+    <enterprise:待摊费用>21.80 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1127.84 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>55.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>160.73 </enterprise:固定资产原价>
+    <enterprise:累计折旧>73.69 </enterprise:累计折旧>
+    <enterprise:固定资产净额>87.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>-136.56 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>239.90 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1133031.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚精光电技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>193.83 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>83.51 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>277.34 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>277.34 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.17 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>42.90 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>51.07 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>51.07 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>328.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚精光电技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>193.83 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>83.51 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>277.34 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>277.34 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.17 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>42.90 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>51.07 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>51.07 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>328.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚精光电技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>443.67 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>136.36 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>64.11 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>644.14 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>644.14 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.17 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>16.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>24.75 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>24.75 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>668.89 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京尚精光电技术有限公司2013年利润表">
+    <enterprise:营业收入>704.25 </enterprise:营业收入>
+    <enterprise:主营业务收入>704.25 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>240.43 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1.98 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>702.27 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>4.48 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.06 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>702.21 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>702.21 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>702.21 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京尚精光电技术有限公司2014年利润表">
+    <enterprise:营业收入>837.81 </enterprise:营业收入>
+    <enterprise:主营业务收入>837.81 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>264.04 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.45 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>837.36 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>5.92 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.03 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>837.33 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>837.33 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>837.33 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京尚精光电技术有限公司2015年利润表">
+    <enterprise:营业收入>1261.52 </enterprise:营业收入>
+    <enterprise:主营业务收入>1261.52 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>326.09 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.81 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1260.71 </enterprise:营业利润>
+    <enterprise:营业外收入>4.93 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1265.64 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1265.64 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1265.64 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京尚精光电技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>700.30 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>89.56 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>789.86 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>340.12  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>146.73 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>225.48 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>712.33 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>77.53 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>33.11 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>225.48 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>258.59 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-258.59 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-181.06 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京尚精光电技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>841.92 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>56.90 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>898.82 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>312.99  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>166.78 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>394.73 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>874.50 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>24.32 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>21.15 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>394.73 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>415.88 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-415.88 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-391.56 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京尚精光电技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>991.67 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>98.68 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1090.35 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>488.62  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>198.97 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>284.64 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>972.23 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>118.12 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>50.92 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>284.64 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>335.56 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-335.56 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-217.44 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京尚精光电技术有限公司被投资单位：北京迈维康生物技术有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京迈维康生物技术有限公司</enterprise:名称>
+	<enterprise:单位代码>56746424-4</enterprise:单位代码>
+	<enterprise:被投资金额>55.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京尚精光电技术有限公司股东：格致（北京）医疗投资管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>格致（北京）医疗投资管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>707.88万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>70.79%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京尚精光电技术有限公司股东：杜伟亭 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杜伟亭 </enterprise:股东名称>
+	 <enterprise:货币>150.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>15.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京尚精光电技术有限公司股东：赵维宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵维宇 </enterprise:股东名称>
+	 <enterprise:货币>142.12万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>14.21%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京尚精光电技术有限公司的商标信息：尚精光电">
+	<enterprise:有申请日期>02-1-23</enterprise:有申请日期>
+	<enterprise:有商标名称>尚精光电</enterprise:有商标名称>
+	<enterprise:有注册号>3077280</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京尚精光电技术有限公司的商标信息：OET">
+	<enterprise:有申请日期>02-1-23</enterprise:有申请日期>
+	<enterprise:有商标名称>OET</enterprise:有商标名称>
+	<enterprise:有注册号>3077279</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种微量加样针">
+	<enterprise:有申请公布日>17-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种微量加样针</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621408380.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206270355U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种液体搅拌混匀装置">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液体搅拌混匀装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420859529.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204352821U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种干式温育器">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种干式温育器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420860654.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204358946U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种液体吸光度测量装置">
+	<enterprise:有申请公布日>15-5-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液体吸光度测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420859547.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204330583U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种数字化分光光度计">
+	<enterprise:有申请公布日>13-3-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数字化分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220031628.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202837168U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种多波长复合光源的产生装置">
+	<enterprise:有申请公布日>13-3-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多波长复合光源的产生装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220285766.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202794014U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：搅拌混匀装置">
+	<enterprise:有申请公布日>13-2-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>搅拌混匀装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220402446.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202725091U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：比色杯">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>比色杯</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020123161.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628676U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：可编程增益值的线性对数信号转换电路">
+	<enterprise:有申请公布日>07-5-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>可编程增益值的线性对数信号转换电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620019107.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2901699Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：温度控制电路">
+	<enterprise:有申请公布日>07-5-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>温度控制电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620019110.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2901388Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：一种分光光度计">
+	<enterprise:有申请公布日>07-5-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620018372.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2901298Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京尚精光电技术有限公司的专利信息：分光光度计机箱">
+	<enterprise:有申请公布日>07-1-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>分光光度计机箱</enterprise:有专利名称>
+	<enterprise:有申请号>CN200630008446.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN3599789D</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电自动特定蛋白分析仪机械臂控制软件">
+	<enterprise:有批准日期>16-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电自动特定蛋白分析仪机械臂控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>机械臂控制软件</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR390374</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电用户键盘输入软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电用户键盘输入软件</enterprise:有软件全称>
+	<enterprise:有软件简称>用户输入</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060502</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪传感输入和转换软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪传感输入和转换软件</enterprise:有软件全称>
+	<enterprise:有软件简称>输入和转换软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060493</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪打印（专用）软件">
+	<enterprise:有批准日期>12-7-10</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪打印（专用）软件</enterprise:有软件全称>
+	<enterprise:有软件简称>打印（专用）软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR061559</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪打印（通用）软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪打印（通用）软件</enterprise:有软件全称>
+	<enterprise:有软件简称>打印(通用)软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060501</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪运行测试软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪运行测试软件</enterprise:有软件全称>
+	<enterprise:有软件简称>自检</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060496</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪显示软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪显示软件</enterprise:有软件全称>
+	<enterprise:有软件简称>显示软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060462</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪数据管理软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪数据管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060340</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪定标统计软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪定标统计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>定标统计</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060362</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪质控统计管理软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪质控统计管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>QC管理程序</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060526</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪IC卡加密软件">
+	<enterprise:有批准日期>12-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪IC卡加密软件</enterprise:有软件全称>
+	<enterprise:有软件简称>IC卡加密软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060503</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪数据管理软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪数据管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6137</enterprise:有登记号>
+	<enterprise:有分类号>62000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪显示软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪显示软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6136</enterprise:有登记号>
+	<enterprise:有分类号>63000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电用户键盘输入软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电用户键盘输入软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6138</enterprise:有登记号>
+	<enterprise:有分类号>65500-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪质控统计管理软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪质控统计管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6135</enterprise:有登记号>
+	<enterprise:有分类号>65000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪传感输入和转换软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪传感输入和转换软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6134</enterprise:有登记号>
+	<enterprise:有分类号>62000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪打印（专用）软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪打印（专用）软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6129</enterprise:有登记号>
+	<enterprise:有分类号>62000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪打印（通用）软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪打印（通用）软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6133</enterprise:有登记号>
+	<enterprise:有分类号>62000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪定标统计软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪定标统计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6132</enterprise:有登记号>
+	<enterprise:有分类号>62000-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪运行测试软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪运行测试软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6130</enterprise:有登记号>
+	<enterprise:有分类号>65500-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚精光电技术有限公司的软件著作：尚精光电特定蛋白分析仪IC卡加密软件">
+	<enterprise:有批准日期>09-9-17</enterprise:有批准日期>
+	<enterprise:有软件全称>尚精光电特定蛋白分析仪IC卡加密软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6131</enterprise:有登记号>
+	<enterprise:有分类号>65500-3800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京尚精光电技术有限公司的网站备案：北京尚精光电技术有限公司">
+	<enterprise:有审核时间>13-11-25</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚精光电技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sjoet.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>sjoet.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10218834号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京尚精光电技术有限公司的网站备案：北京尚精光电技术有限公司">
+	<enterprise:有审核时间>13-11-25</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚精光电技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sjoet.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>sjoet.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10218834号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京尚精光电技术有限公司的员工基本信息">
+	<enterprise:有从业人数>28</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:20,25岁以下:6,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:9,高中及以下:4,专科:15</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:7,技术人员:12,作业人员:9</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:27人,未参加:1人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京尚精光电技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京尚精光电技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>天津美科源科技有限公司、武汉尚精盛泰光电医学有限公司、重庆忠县第二人
+民医院</enterprise:现有主要客户>
+	<enterprise:目前经营状况>较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京尚精光电技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京尚精光电技术有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京尚精光电技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>随着我国国民经济的健康发展与建设和谐社会的深入推进，医疗卫生领域的投
+入资金将大幅增长。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京尚精光电技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京尚精光电技术有限公司的企业法人代表：杜伟亭">
+	<enterprise:名称>杜伟亭</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>49</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>1967年</enterprise:出生年月>
+	<enterprise:身份证号码>370121196711177434</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>实用新型专利：一种分光光度计、温度控制电路等</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>—</enterprise:奖惩情况>
+	<enterprise:经历>2001年 4月至今 公司 执行董事兼总经理 
+1999年 3月至 2001年 4月 济南泛华时代电子工程有限公司 开发部经理 
+1997年 4月至 1999年 3月 北京贝斯特医用仪器有限公司 工程部经理 
+1994年 7月至 1997年 4月 北京燕山科技有限公司 开发部经理 
+1989年 9月至 1991年 9月 山东大学浪潮信息技术研究所 — 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京尚精光电技术有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京尚精光电技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110108673841672N</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>未提供</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（销售</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>-67.30</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>-23.87</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京尚精光电技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-574.68</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>1214.10</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京尚精光电技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>未提供</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京尚精光电技术有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1500.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚精光电技术有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>32.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚精光电技术有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚精光电技术有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京尚精光电技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京尚精光电技术有限公司的专利数量">
+	<enterprise:专利总计>6</enterprise:专利总计>
+	<enterprise:专利数量2013>3</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>3</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京尚精光电技术有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京尚精光电技术有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>2</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

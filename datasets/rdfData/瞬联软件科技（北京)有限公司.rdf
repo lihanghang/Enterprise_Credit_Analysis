@@ -1,0 +1,1401 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="瞬联软件科技（北京)有限公司的企业概况">
+    <enterprise:有名称>瞬联软件科技（北京)有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010871774578X3</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>—</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中信银行北京望京支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>1249</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2000-5-18</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2020-5-17</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>开发计算机软件硬件、网络产品；承接计算机网络系统集成项目；承接集成电路项目设计；提供上述产品的技术服务、技术培训、技术咨询；销售自产产品。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）开发计算机软件硬件、网络产品；承接计算机网络系统集成项目；承接集成电路项目设计；提供上述产品的技术服务、技术培训、技术咨询；销售自产产品。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>电信、石油和邮政等行业应用软件的开发</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区科学院南路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区望京利泽中园</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100102</enterprise:有邮政编码>
+    <enterprise:有联系人>刘宝清</enterprise:有联系人>
+    <enterprise:有联系电话>010-84170198</enterprise:有联系电话>
+    <enterprise:有传真电话>010-67850080</enterprise:有传真电话>
+    <enterprise:有E-mail>—</enterprise:有E-mail>
+    <enterprise:有网址>www.cienet.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>瞬联软件科技（北京）有限公司（以下简
+称“公司”）是由 CIENET 国际有限责任公司
+创办的全资子公司，于 2000年 5月 18日在北
+京市工商行政管理局注册成立，初始注册资本
+15.00万美元，后经股东两次增资，目前注册资
+本为 150.00万美元，股权结构稳定。 
+公司经营范围：“开发计算机软件硬件、网
+络产品；承接计算机网络系统集成项目；承接
+集成电路项目设计；提供上述产品的技术服务、
+技术培训、技术咨询；销售自产产品。”目前，
+公司主要从事电信、石油和邮政等行业应用软
+件的开发业务。 
+截至 2016 年 8 月底，公司资产总额
+14084.44万元，固定资产净额 575.79万元，所
+有者权益 5401.66万元；2015年，公司实现营
+业收入 36713.79万元，利润总额 4415.13万元；
+2016 年 1~8 月，公司实现营业收入 17989.25
+万元，利润总额-3734.33 万元。公司现有员工
+1249人，在北京市属于大型企业。 
+公司注册地址：北京市海淀区科学院南路2
+号C座5层507；办公地址：北京市朝阳区望京
+利泽中园101号启明国际大厦东侧12层；统一社
+会信用代码：9111010871774578X3；法定代表
+人：方光亚；经营期限：自2000年5月18日至2020
+年5月17日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="瞬联软件科技（北京)有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、总经理方光亚，博士研
+究生学历，曾在芝加哥伊利诺伊大学计算机科
+学系担任教授，2000年加入公司，管理经验和
+行业经验丰富。 
+公司副总经理杨守中，博士研究生学历，
+曾先后任职于 AT&T、贝尔实验室（担任贝尔
+实验室中国区研发总监，负责在北京建立通信
+软件开发中心）、朗讯科技有限公司，2001年 2
+月加入公司，管理经验和行业经验丰富。 
+公司副总经理陈令宏，博士研究生学历，
+曾任职于朗讯科技有限公司、AT&T、贝尔实
+验室，现主要负责公司移动终端软件开发项目
+团队的管理和扩建工作，管理经验和行业经验
+丰富。 
+总体看，公司高管学历水平高，从业和管
+理经验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 1249人。 
+从岗位构成看，公司现有管理人员 100人，
+占比 8.01%；技术人员 1149人，占比 91.99%，
+岗位构成能够满足公司目前经营需要。 
+从学历构成看，公司本科及以上学历者
+1160人，占比 92.87%，专科学历者 89人，占
+比 7.13%，员工学历水平高。 
+从年龄构成看，公司 45 岁以下员工 1239
+人，占比 99.20%，员工年龄结构呈年轻化。 
+总体看，公司员工学历水平高，岗位设置
+符合高新技术企业的人员结构特点。 
+3．研发人员素质 
+公司现有研发人员 163人，全部为本科及
+以上学历。 
+公司研发总监万以循，硕士研究生学历，
+曾先后任职于 AT&T、Lucent Technologies、贝
+尔实验室，研发经验丰富，专业能力强。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司内部设有研发部，研发部负责公司产
+品开发和测试工作。近三年，公司研发投入分
+别为 3545.09 万元、4744.63 万元、3451.49 万
+元，分别占当年营业收入的 10.03%、12.71%、
+9.40%，主要用于发放研发人员工资和产品测
+试。 
+公司还与北京邮电大学、北京林业大学开
+展产学研合作。 
+总体看，公司研发投入力度较大，科研条
+件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>3545.09万元,4744.63万元,3451.49万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>10.03%,12.71%,9.40%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="瞬联软件科技（北京)有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地位于北京市朝阳区望京利泽中
+园 101号启明国际大厦东侧 12层，使用面积共
+计 2385.24 平方米，使用方式为租用。该地交
+通便利，经营环境良好，办公设施齐全。 
+公司已成立 16 年，为国家高新技术企业
+（证书编号：GR201411001750，有效期至 2017
+年 10月）、中关村高新技术企业（证书编号：
+20152010002201，有效期至 2018年 7月）。公
+司拥有“CI@NET”注册商标，2014年被北京
+市商务委员会认定为“北京市重点总部企业”，
+并纳入《北京市重点总部企业名录》，同年荣获
+“2014中国（国际）服务贸易品牌企业百强单
+位”称号，并获得入编《2014中国（国际）服
+务贸易品牌企业竞争力》发展报告资格；2015
+年，公司产品——圈儿里（应用程序）荣获“2015
+年度中国行业信息化最佳产品奖”。 
+总体看，公司具备经营所需资质，业内知
+名度较高。 
+2．业务运作 
+公司软件外包业务分为服务外包和项目外
+包两部分，两部分业务在公司营业收入中分别
+占比 70%、30%。 
+在服务外包业务上，公司的客户主要有高
+通中国、通用汽车公司、索尼爱立信、诺基亚
+等。服务外包业务的运营模式为公司将员工外
+派到客户处从事软件研发，按照工作时间向客
+户收取技术服务费。在长期合作中，公司与客
+户建立了稳定的合作关系，双方结算方式较为
+灵活，一般采取月结或季结方式。 
+在项目外包业务上，公司与美国必能宝公
+司于 2007年签订了为期十年的框架协议，承接
+了输油管道监测项目的软件开发。此外，公司
+通过母公司——CIENET国际有限责任公司，
+获得了美国电信综合计费系统的研发合同，这
+有助于公司扩展业务领域，提升市场竞争力。
+公司项目外包业务盈利水平不高，前期会有一
+定垫资，项目执行之后一般根据进度与客户进
+行结算。 
+公司采购业务较少，目前采购物主要为软
+件、测试设备、充值卡，供应商包括戴尔（中
+国）有限公司、中国电信股份有限公司、北京
+雷泰兴管道装备有限公司、九州荣泰（北京）
+科技有限公司等，结算以预付全款为主。 
+公司客户目前大多是境外大型企业，由母
+公司推荐，客户信誉良好，保障了应收账款的
+回收质量。公司项目大多为 2~3年，项目周期
+长，影响了公司项目回款速度。 
+2014年，公司接管了全资子公司——瞬联
+讯通科技（北京）有限公司境外软件开发业务，
+使得公司业务规模和在境外市场的竞争力得到
+总体看，公司上下游渠道畅通，整体经营
+状况良好。 
+3．经营效率 
+表 2  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 94.95 90.53 90.00 
+管理费用率(%) 20.28 24.80 23.93 
+存货周转次数(次) - - - 
+应收账款周转次数(次) 4.68 6.27 7.22 
+总资产周转次数(次) 2.03 1.85 1.64 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率一直处于高水平，主
+要是公司人力成本高所致；同期，管理费用率
+整体呈增长趋势，主要是公司研发投入增加及
+人工成本的升高所致，公司宜加强对管理费用
+的控制力度。 
+公司属软件外包服务企业，无存货；同期，
+应收账款周转次数呈上升趋势，整体处于行业
+较低水平，主要是受公司项目周期长影响；同
+期，总资产周转次数呈下降趋势，整体处于行
+业较高水平。 
+总体看，公司整体经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+公司为外国法人独资企业，不设董事会，
+实行总经理负责制，总经理是公司的法定代表
+人，组织领导公司的日常经营管理工作；对外
+代表公司处理业务，对内任免下属、管理人员。 
+公司内设财务部、人事与行政部、研发部、
+技术支持部、质量保障部、市场部、法务部。
+公司在上海设有分公司，主要负责当地周边业
+务拓展。 
+公司拥有1家全资子公司和1家参股公司，
+分别为：瞬联讯通科技（北京）有限公司（成
+立于 2006年，投资金额 1675.45万元，主要从
+有限公司（成立于 2011年，投资金额 1000.00
+万元，持股 45.45%）。公司均委派高管对旗下
+全资子公司和参股公司进行直接管理。 
+总体看，公司法人治理结构简单，组织架
+构清晰。 
+2．制度建设及执行 
+公司根据各部门职责，制定了《研发投入
+核算制度》、《绩效考核制度》、《科研项目管理
+制度》、《财务报销制度》、《HSE制度》等相关
+的制度。公司已通过 ISO 9001:2008《质量管理
+体系标准》认证（有效期至 2017 年 2 月）、
+ISO/IEC27001：2005《信息安全管理体系标准》
+认证（有效期至 2017年 6月），并在实际工作
+中严格执行各项操作流程。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测方法，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016年将实现营业收入 38000.00万元，
+净利润 4000.00万元；预计 2016年底资产总额
+29267.64万元，负债总额 10000.00万元，所有
+者权益 19267.64万元。相比 2015年，预计 2016
+年营业收入增长 3.50%，负债率变动幅度为
+1.70%，净资产收益率变动幅度为-5.33%。 
+总体看，公司未来短期内发展较稳定。 
+2．融资需求 
+公司短期内暂无新增融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="瞬联软件科技（北京)有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 18286.32万
+元、22176.55万元、22606.85万元，复合增长
+率为 11.19%，主要是公司货币资金、其他应收
+款科目的增长所致。 
+截至 2016 年 8 月底，公司资产总额
+14084.44万元，其中：流动资产占比 74.74%，
+非流动资产占比 25.26%。 
+图 1  公司 2016年 8月底流动资产构成图 
+截至 2016 年 8 月底，公司流动资产
+10526.25万元，其中：货币资金 4450.54万元，
+占比 42.28%；应收账款 4637.11 万元，占比
+44.05%，主要为应收爱立信（中国）通信有限
+公司、索尼移动通信产品（中国）有限公司等
+客户的项目款，账龄均在 1年以内；其他应收
+款 844.57万元，占比 8.02%，为房租押金和员
+工个人借款；其他流动资产 578.08万元，占比
+5.49%，为待摊费用。 
+截至 2016 年 8 月底，公司非流动资产
+3558.19万元，其中：长期股权投资 2675.45万
+元，占比 75.19%，为对子公司的投资；固定资
+产净额 575.79万元，占比 16.18%，办公设备、
+电子设备等；无形资产 52.40万元，占比 1.47%；
+长期待摊费用 254.55万元，占比 7.15%。 
+总体看，公司资产流动性较强，资产质量
+较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 8月底，公司
+流动比率和速动比率均为 121.23%，均处行业
+较低水平。2015 年，公司现金流动负债比为
+39.53%，经营活动产生的净现金流对流动负债
+保障能力一般。公司短期偿债能力一般。 
+从长期偿债能力看，2015年，公司EBITDA
+利息倍数为 68.46倍，长期偿债能力较强。 
+总体看，公司未来一年内整体偿债能力较
+强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 56.78%、
+48.24%、32.46%，负债水平逐年下降；2013
+年、2014 年公司全部债务资本化比率分别为
+19.75%、4.54%。2016年 8月底，公司资产负
+债率为 61.65%，全部债务资本化比率为 8.47%，
+负债水平偏高，有息债务压力较小。 
+近三年，公司负债总额分别为 10382.97万
+元、10697.29万元、7339.21万元，复合变动率
+为-15.93%，负债规模有所下降。 
+图 2  公司 2016年 8月底流动负债构成图 
+截至2016年8月底，公司负债总额8682.78
+万元，全部为流动负债，主要为：短期借款
+500.00 万元，占比 5.76%，为取得的北京银行
+1年期信用贷款；应付职工薪酬 1816.06万元，
+占比 20.92%；应付股利 5684.20 万元，占比
+65.47%。 
+近三年，公司所有者权益分别为 7903.34
+万元、11479.26万元、15267.64万元，复合增
+长率为 38.99%，主要为留存收益积累。近三年，
+公司未进行利润分配。 
+截至 2016 年 8 月底，公司所有者权益
+5401.66万元，其中：实收资本 1198.85万元，
+占比 22.19%；资本公积 0.61万元，占比 0.01%；
+盈余公积 561.57 万元，占比 10.40%；未分配
+利润 3640.63万元，占比 67.40%。 
+总体看，公司负债水平偏高，有息债务压
+力较小，所有者权益对债务的保障能力一般。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 35347.53万
+元、37329.97万元、36713.79万元，复合增长
+率为 1.91%，收入较稳定；同期，利润总额分
+别为 2119.06 万元、4186.44 万元、4415.13 万
+元，复合增长率为 44.34%，呈较快增长趋势，
+毛利率提升，营业外收入的增长是公司利润总
+额快速增长的主要原因。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司主营业务利润率分别为
+26.53%、33.56%、31.92%，整体呈增长趋势，
+处于行业一般水平；同期，总资产报酬率分别
+为 12.93%、21.02%、20.06%，净资产收益率分
+别为 26.86%、36.86%、28.50%，均呈上升趋势，
+均处行业较高水平。 
+近三年公司现金收入比分别为 108.97%、
+112.96%、97.53%，加权平均值为 104.45%，处
+于行业较高水平，收入实现质量较好。 
+总体看，公司整体盈利能力较强，收入实
+现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="瞬联软件科技（北京)有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、对外担保等或有负债；未发现公司
+在银行有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>联合信用未发现公司有政策、行业及市场
+风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司负债水平偏高，所有者权益对
+债务的保障能力一般。 
+（2）公司业务模式为服务外包，核心竞
+争力为技术研发人员，因此人员稳定性对公司
+影响较大，关注公司人员流动情况。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="瞬联软件科技（北京)有限公司2013年基本财务指标">
+    <enterprise:资产总额>18286.31 </enterprise:资产总额>
+    <enterprise:所有者权益>7903.34 </enterprise:所有者权益>
+    <enterprise:负债总额>10382.99 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>3223.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="瞬联软件科技（北京)有限公司2014年基本财务指标">
+    <enterprise:资产总额>22176.55 </enterprise:资产总额>
+    <enterprise:所有者权益>11479.26 </enterprise:所有者权益>
+    <enterprise:负债总额>10697.29 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>5195.56 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="瞬联软件科技（北京)有限公司2015年基本财务指标">
+    <enterprise:资产总额>22606.86 </enterprise:资产总额>
+    <enterprise:所有者权益>15267.64 </enterprise:所有者权益>
+    <enterprise:负债总额>7339.22 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>5279.12 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="瞬联软件科技（北京)有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.78 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>15.87 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="瞬联软件科技（北京)有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.70 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.27 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>36.69 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="瞬联软件科技（北京)有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.54 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.22 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="瞬联软件科技（北京)有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-337.57 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="瞬联软件科技（北京)有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-221.05 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="瞬联软件科技（北京)有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-168.84 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="瞬联软件科技（北京)有限公司2013年偿债能力指标">
+    <enterprise:流动比率>129.18 </enterprise:流动比率>
+    <enterprise:速动比率>129.18 </enterprise:速动比率>
+    <enterprise:资产负债率>56.78 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>25.45 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="瞬联软件科技（北京)有限公司2014年偿债能力指标">
+    <enterprise:流动比率>166.71 </enterprise:流动比率>
+    <enterprise:速动比率>166.71 </enterprise:速动比率>
+    <enterprise:资产负债率>48.24 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>78.46 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="瞬联软件科技（北京)有限公司2015年偿债能力指标">
+    <enterprise:流动比率>257.32 </enterprise:流动比率>
+    <enterprise:速动比率>257.32 </enterprise:速动比率>
+    <enterprise:资产负债率>32.46 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>68.46 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="瞬联软件科技（北京)有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-98.75 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>43.19 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>19.75 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="瞬联软件科技（北京)有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-97.42 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>62.34 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>4.54 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="瞬联软件科技（北京)有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-97.14 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>39.53 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="瞬联软件科技（北京)有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>5999.39 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6479.97 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>27.44 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>649.16 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>256.59 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>13412.55 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2675.45 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1223.25 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>133.52 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>841.54 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>4873.76 </enterprise:非流动资产合计>
+    <enterprise:资产总计>18286.31 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="瞬联软件科技（北京)有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>10746.41 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>5421.58 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>106.95 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1262.91 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>295.08 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>17832.93 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2675.45 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>958.72 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>96.65 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>612.80 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>4343.62 </enterprise:非流动资产合计>
+    <enterprise:资产总计>22176.55 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="瞬联软件科技（北京)有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>12921.45 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4743.03 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>23.80 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>834.32 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>362.82 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>18885.42 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2675.45 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>691.92 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>69.15 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>284.92 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3721.44 </enterprise:非流动资产合计>
+    <enterprise:资产总计>22606.86 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="瞬联软件科技（北京)有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>545.41 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>2483.24 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1430.56 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>353.06 </enterprise:应交税费>
+    <enterprise:应付利息>46.18 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>2634.20 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2943.15 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>261.49 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>10697.29 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10697.29 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1198.85 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.61 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>561.57 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9718.23 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11479.26 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11479.26 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>22176.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="瞬联软件科技（北京)有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>545.41 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>2483.24 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1430.56 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>353.06 </enterprise:应交税费>
+    <enterprise:应付利息>46.18 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>2634.20 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2943.15 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>261.49 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>10697.29 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10697.29 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1198.85 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.61 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>561.57 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9718.23 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11479.26 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11479.26 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>22176.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="瞬联软件科技（北京)有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>82.06 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1608.01 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>854.81 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>2374.20 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2194.55 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>225.59 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>7339.22 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>7339.22 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1198.85 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.61 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>561.57 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>13506.61 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15267.64 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15267.64 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>22606.86 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="瞬联软件科技（北京)有限公司2013年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>25792.66 </enterprise:营业成本>
+    <enterprise:主营业务成本>25792.66 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>170.62 </enterprise:营业税金及附加>
+    <enterprise:销售费用>502.59 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>6806.64 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>289.46 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-26755.33 </enterprise:营业利润>
+    <enterprise:营业外收入>356.54 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>23.03 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-26421.82 </enterprise:利润总额>
+    <enterprise:所得税费用>257.80 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-26679.62 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-26679.62 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="瞬联软件科技（北京)有限公司2014年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>24645.05 </enterprise:营业成本>
+    <enterprise:主营业务成本>24645.05 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>157.26 </enterprise:营业税金及附加>
+    <enterprise:销售费用>520.73 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>8381.95 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>95.50 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>5.65 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-25412.89 </enterprise:营业利润>
+    <enterprise:营业外收入>689.47 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>38.14 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-24761.56 </enterprise:利润总额>
+    <enterprise:所得税费用>613.77 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-25375.33 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-25375.33 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="瞬联软件科技（北京)有限公司2015年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>24837.40 </enterprise:营业成本>
+    <enterprise:主营业务成本>24837.40 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>157.33 </enterprise:营业税金及附加>
+    <enterprise:销售费用>530.78 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>7905.29 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>389.97 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-25915.48 </enterprise:营业利润>
+    <enterprise:营业外收入>771.32 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>29.15 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-25173.31 </enterprise:利润总额>
+    <enterprise:所得税费用>604.12 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-25777.43 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-25777.43 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年瞬联软件科技（北京)有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>38505.39 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>204.36 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2644.43 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>41354.18 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>23764.82 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3535.93 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>9569.46 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>36870.21 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>4483.97 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>17.34 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>17.34 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>252.16 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>9569.46 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>9821.62 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-9804.28 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>136.78 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1636.78 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-136.78 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>116.24 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-5340.85 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年瞬联软件科技（北京)有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>42169.39 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>29.92 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2483.98 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>44683.29 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>24536.43 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3612.37 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>9865.48 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>38014.28 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>6669.01 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>700.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>5.65 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>3.45 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>709.10 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>451.05 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>700.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>9865.48 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>11016.53 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-10307.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>100.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>48.25 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1548.25 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1448.25 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>31.79 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-5054.88 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年瞬联软件科技（北京)有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>35808.58 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>144.54 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1573.93 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>37527.05 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>25670.83 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3346.52 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5608.78 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>34626.13 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>2900.92 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>1.27 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.27 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>175.66 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>5608.78 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5784.44 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5783.17 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>545.39 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>459.14 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1004.53 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1004.53 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>453.04 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3433.74 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="瞬联软件科技（北京)有限公司被投资单位：瞬联讯通科技（北京）有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>瞬联讯通科技（北京）有限公司</enterprise:名称>
+	<enterprise:单位代码>78480067-0</enterprise:单位代码>
+	<enterprise:被投资金额>1675.45万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="瞬联软件科技（北京)有限公司被投资单位：瞬联软件科技（成都）有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>瞬联软件科技（成都）有限公司</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>1000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>45.45%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="瞬联软件科技（北京)有限公司股东：CIENET有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>CIENET有限公司 </enterprise:股东名称>
+	 <enterprise:货币>150 万元 美元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS BOX">
+	<enterprise:有申请日期>16-11-11</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS BOX</enterprise:有商标名称>
+	<enterprise:有注册号>21882078</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS AUTO">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS AUTO</enterprise:有商标名称>
+	<enterprise:有注册号>21369550</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS MOBILE">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS MOBILE</enterprise:有商标名称>
+	<enterprise:有注册号>21369085</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS BOX">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS BOX</enterprise:有商标名称>
+	<enterprise:有注册号>21369184</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS MOBILE">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS MOBILE</enterprise:有商标名称>
+	<enterprise:有注册号>21369494</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：C-ATS ATUO">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>C-ATS ATUO</enterprise:有商标名称>
+	<enterprise:有注册号>21368927</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：藏友圈">
+	<enterprise:有申请日期>15-10-16</enterprise:有申请日期>
+	<enterprise:有商标名称>藏友圈</enterprise:有商标名称>
+	<enterprise:有注册号>18068896</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：藏友圈">
+	<enterprise:有申请日期>15-10-15</enterprise:有申请日期>
+	<enterprise:有商标名称>藏友圈</enterprise:有商标名称>
+	<enterprise:有注册号>18063760</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：圈儿里">
+	<enterprise:有申请日期>15-3-11</enterprise:有申请日期>
+	<enterprise:有商标名称>圈儿里</enterprise:有商标名称>
+	<enterprise:有注册号>16473902</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：ONLYLINKU">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>ONLYLINKU</enterprise:有商标名称>
+	<enterprise:有注册号>16397785</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：WELINKU">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>WELINKU</enterprise:有商标名称>
+	<enterprise:有注册号>16397844</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：ONLYLINKU">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>ONLYLINKU</enterprise:有商标名称>
+	<enterprise:有注册号>16397606</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：WELINKU">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>WELINKU</enterprise:有商标名称>
+	<enterprise:有注册号>16397678</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：微联友">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>微联友</enterprise:有商标名称>
+	<enterprise:有注册号>16397718</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：唯联友">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唯联友</enterprise:有商标名称>
+	<enterprise:有注册号>16397748</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：唯联友">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唯联友</enterprise:有商标名称>
+	<enterprise:有注册号>16397581</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：微联友">
+	<enterprise:有申请日期>15-2-15</enterprise:有申请日期>
+	<enterprise:有商标名称>微联友</enterprise:有商标名称>
+	<enterprise:有注册号>16397722</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：我在爱谱">
+	<enterprise:有申请日期>14-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>我在爱谱</enterprise:有商标名称>
+	<enterprise:有注册号>15938997</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：我在爱谱">
+	<enterprise:有申请日期>14-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>我在爱谱</enterprise:有商标名称>
+	<enterprise:有注册号>15939026</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：我在爱谱">
+	<enterprise:有申请日期>14-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>我在爱谱</enterprise:有商标名称>
+	<enterprise:有注册号>15939214</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：WOOZAI">
+	<enterprise:有申请日期>14-9-22</enterprise:有申请日期>
+	<enterprise:有商标名称>WOOZAI</enterprise:有商标名称>
+	<enterprise:有注册号>15393003</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：WOOZAI">
+	<enterprise:有申请日期>14-9-22</enterprise:有申请日期>
+	<enterprise:有商标名称>WOOZAI</enterprise:有商标名称>
+	<enterprise:有注册号>15393162</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：WOOZAI">
+	<enterprise:有申请日期>14-9-22</enterprise:有申请日期>
+	<enterprise:有商标名称>WOOZAI</enterprise:有商标名称>
+	<enterprise:有注册号>15393119</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：MTS">
+	<enterprise:有申请日期>14-9-3</enterprise:有申请日期>
+	<enterprise:有商标名称>MTS</enterprise:有商标名称>
+	<enterprise:有注册号>15285317</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：MTS">
+	<enterprise:有申请日期>14-9-3</enterprise:有申请日期>
+	<enterprise:有商标名称>MTS</enterprise:有商标名称>
+	<enterprise:有注册号>15285497</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：图格">
+	<enterprise:有申请日期>14-7-22</enterprise:有申请日期>
+	<enterprise:有商标名称>图格</enterprise:有商标名称>
+	<enterprise:有注册号>14856746</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：图格">
+	<enterprise:有申请日期>14-7-22</enterprise:有申请日期>
+	<enterprise:有商标名称>图格</enterprise:有商标名称>
+	<enterprise:有注册号>14856889</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="瞬联软件科技（北京)有限公司的商标信息：CIENET">
+	<enterprise:有申请日期>03-9-1</enterprise:有申请日期>
+	<enterprise:有商标名称>CIENET</enterprise:有商标名称>
+	<enterprise:有注册号>3697803</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种测温手机">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测温手机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620526845.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205792849U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：室内照明智能控制系统及控制方法">
+	<enterprise:有申请公布日>16-11-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>室内照明智能控制系统及控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610511121.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106132044A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：基于动态图格的即时通信方法、客户端及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于动态图格的即时通信方法、客户端及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410818004.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105791079A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种基于图格的即时通信方法、客户端及系统">
+	<enterprise:有申请公布日>16-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于图格的即时通信方法、客户端及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410523278.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105530161A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：基于语音输入的表情曲线生成方法">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于语音输入的表情曲线生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510282863.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104850335A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种文字曲线生成方法">
+	<enterprise:有申请公布日>15-8-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种文字曲线生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510282624.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104834750A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：基于机械手的移动设备远程测试系统">
+	<enterprise:有申请公布日>13-5-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于机械手的移动设备远程测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210518472.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103076770A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种自适应即时消息系统及其实现方法">
+	<enterprise:有申请公布日>12-6-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自适应即时消息系统及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810118627.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101656683B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：基于区域限制的电子文件传播控制方法及其系统">
+	<enterprise:有申请公布日>10-9-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于区域限制的电子文件传播控制方法及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710111174.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101290642B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种自适应即时消息系统及其实现方法">
+	<enterprise:有申请公布日>10-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自适应即时消息系统及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810118627.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101656683A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：面向移动应用的信息自适应交互系统及其实现方法">
+	<enterprise:有申请公布日>09-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>面向移动应用的信息自适应交互系统及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810114637.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101600167A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：一种符合人体工学的鼠标">
+	<enterprise:有申请公布日>09-6-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种符合人体工学的鼠标</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820110099.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201259661Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="瞬联软件科技（北京)有限公司的专利信息：基于区域限制的电子文件传播控制方法及其系统">
+	<enterprise:有申请公布日>08-10-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于区域限制的电子文件传播控制方法及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710111174.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101290642A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="瞬联软件科技（北京)有限公司的软件著作：车载音频娱乐系统(MOST版)">
+	<enterprise:有批准日期>17-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>车载音频娱乐系统(MOST版)</enterprise:有软件全称>
+	<enterprise:有软件简称>车载音频</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR094287</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="瞬联软件科技（北京)有限公司的软件著作：CATS节点服务器设备控制软件(安卓系统)">
+	<enterprise:有批准日期>17-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>CATS节点服务器设备控制软件(安卓系统)</enterprise:有软件全称>
+	<enterprise:有软件简称>CATS AUTO</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR094536</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="瞬联软件科技（北京)有限公司的软件著作：自动化脚本生成系统">
+	<enterprise:有批准日期>16-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>自动化脚本生成系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MATS-SRPT</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR082203</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="瞬联软件科技（北京)有限公司的软件著作：移动互联网社交平台系统">
+	<enterprise:有批准日期>16-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>移动互联网社交平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>圈儿里</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR082103</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="瞬联软件科技（北京)有限公司的软件著作：企业营运智能管理平台系统">
+	<enterprise:有批准日期>16-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>企业营运智能管理平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR082095</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="瞬联软件科技（北京)有限公司的网站备案：瞬联软件科技（北京）有限公司">
+	<enterprise:有审核时间>16-6-13</enterprise:有审核时间>
+	<enterprise:有网站全称>瞬联软件科技（北京）有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gmbjdc.com</enterprise:有网站首页>
+	<enterprise:有域名>gmbjdc.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16029828号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="瞬联软件科技（北京)有限公司的网站备案：瞬联软件科技（北京）有限公司">
+	<enterprise:有审核时间>15-4-28</enterprise:有审核时间>
+	<enterprise:有网站全称>瞬联软件科技（北京）有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cienet.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>dellbjdc.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备07502530号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="瞬联软件科技（北京)有限公司的网站备案：瞬联软件科技（北京）有限公司">
+	<enterprise:有审核时间>15-4-28</enterprise:有审核时间>
+	<enterprise:有网站全称>瞬联软件科技（北京）有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cienet.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>cienets.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备07502530号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="瞬联软件科技（北京)有限公司的网站备案：瞬联软件科技（北京）有限公司">
+	<enterprise:有审核时间>15-4-28</enterprise:有审核时间>
+	<enterprise:有网站全称>瞬联软件科技（北京）有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cienet.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>cienet.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备07502530号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="瞬联软件科技（北京)有限公司的员工基本信息">
+	<enterprise:有从业人数>1249</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:1002,25岁以下:237,45岁以上:10</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:1160,高中及以下:0,专科:89</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:100,技术人员:1149,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:1249人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="瞬联软件科技（北京)有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="瞬联软件科技（北京)有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>CIENET 国际有限责任公司、爱立信（中国）通信有限公司、诺基亚通信系统
+技术（北京）有限公司、高通中国等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="瞬联软件科技（北京)有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="瞬联软件科技（北京)有限公司的企业类型">
+	<enterprise:企业类型>软件外包企业  中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="瞬联软件科技（北京)有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>当前是软件产业升级的关键时期，产业在市场需求、政策推动、技术变革等多
+重因素推动下面临较好的发展机遇。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="瞬联软件科技（北京)有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="瞬联软件科技（北京)有限公司的企业法人代表：方光亚">
+	<enterprise:名称>方光亚</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>—</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>—</enterprise:出生年月>
+	<enterprise:身份证号码>—</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>博士研究生</enterprise:学历>
+	<enterprise:学位>博士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2000年至今 瞬联软件科技（北京）有限公司 总经理 
+1983年~1988年 芝加哥伊利诺伊大学计算机科学系 教授</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="瞬联软件科技（北京)有限公司的下属单位：瞬联软件科技（北京）有限公司上海分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>瞬联软件科技（北京）有限公司上海分公司</enterprise:名称>
+	<enterprise:主要职能>负责当地周边业务拓展</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="瞬联软件科技（北京)有限公司的税务信息">
+	<enterprise:有国税机关>北京市海淀区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市海淀区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110108799028230Q</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>是</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现公司欠税信息</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（6%、3%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>4015万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>1553万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="瞬联软件科技（北京)有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>场地租赁、房屋租赁等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>相关服务提供商</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>一般</enterprise:有延期支付>
+	<enterprise:有上年度发生额>1406万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>1406万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>无变动</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="瞬联软件科技（北京)有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度为纳税信用A级企业</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="瞬联软件科技（北京)有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>38000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="瞬联软件科技（北京)有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="瞬联软件科技（北京)有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="瞬联软件科技（北京)有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="瞬联软件科技（北京)有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="瞬联软件科技（北京)有限公司的专利数量">
+	<enterprise:专利总计>3</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>2</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="瞬联软件科技（北京)有限公司的商标数量">
+	<enterprise:商标总计>21</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>10</enterprise:商标数量2014>
+	<enterprise:商标数量2015>11</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="瞬联软件科技（北京)有限公司的网站备案数量">
+	<enterprise:网站备案总计>3</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>3</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

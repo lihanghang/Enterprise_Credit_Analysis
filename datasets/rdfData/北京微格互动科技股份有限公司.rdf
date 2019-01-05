@@ -1,0 +1,1807 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京微格互动科技股份有限公司的企业概况">
+    <enterprise:有名称>北京微格互动科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>码</enterprise:有中征码>
+    <enterprise:有基本账户开户行>支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>19</enterprise:有从业人数>
+    <enterprise:有注册登记日期>元）</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务；计算机系统服务；基础软件服务；应用软件服务；软件开发；软件咨询；产品设计；模型设计；包装装潢设计；工艺美术设计；电脑动画设计；教育咨询（中介服务除外）；经济贸易咨询；文化咨询；体育咨询；公共关系服务；会议服务；企业策划；设计、制作、代理、发布广告；市场调查；企业管理咨询；组织文化艺术交流活动（不含营业性演出）；文艺创作；承办展览展示活动；影视策划；翻译服务；销售自行开发的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术转让、技术咨询、技术服务；计算机系统服务；基础软件服务；应用软件服务；软件开发；软件咨询；产品设计；模型设计；包装装潢设计；工艺美术设计；电脑动画设计；教育咨询（中介服务除外）；经济贸易咨询；文化咨询；体育咨询；公共关系服务；会议服务；企业策划；设计、制作、代理、发布广告；市场调查；企业管理咨询；组织文化艺术交流活...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>软件服务、智能硬件产品研发销售等</enterprise:有主营业务>
+    <enterprise:有行业分类>其他未列明信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区北四环西路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区融科望京中心</enterprise:有通讯地址>
+    <enterprise:有邮政编码>110000</enterprise:有邮政编码>
+    <enterprise:有联系人>赵斌</enterprise:有联系人>
+    <enterprise:有联系电话>15810995788</enterprise:有联系电话>
+    <enterprise:有传真电话>Email</enterprise:有传真电话>
+    <enterprise:有E-mail>zhaobin@vgoapp.com</enterprise:有E-mail>
+    <enterprise:有网址>表</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京微格互动科技股份有限公司（以下简
+称“微格互动”或“公司”）前身为北京微格
+互动科技有限公司，成立于2011年5月26日，由
+自然人郝亚伟、蔡亮和企业法人经纬（杭州）
+创业投资合伙企业（有限合伙）共同出资设立，
+初始注册资本70万元，后经多次增资及股权变
+更，2016年3月31日变更为股份有限公司，最新
+注册资本1000万元，最新的股权结构如表2所示。
+法定代表人郝亚伟，注册地址为北京市海淀区
+高里掌路1号院6号楼102-15
+表1：公司成立时股权情况
+金额 股权比例
+姓名 出资方式
+(万元) (%)
+郝亚伟 26.25 现金 37.5
+蔡亮 26.25 现金 37.5
+经纬（杭
+州）创业
+投资合伙 17.5 现金 25
+企业（有
+限合伙）
+合计     70 - 100
+数据来源：公司提供，东方金诚整理
+表 2：公司最新股权结构
+金额 股权比例
+姓名 出资方式
+(万元) (%)
+郝亚伟 248.62 现金 24.86
+蔡亮 248.62 现金 24.86
+经纬（杭
+州）创业
+投资合伙 170.87 现金 17.09
+企业（有
+限合伙）
+北京微梦
+创新创业
+投资中心 99.83 现金 9.98
+（有限合
+伙）
+戈壁盈智
+（上海）
+创业投资
+116.03 现金 11.60
+合伙企业
+（有限合
+伙）
+苏州亚商
+创业投资
+116.03 现金 11.60
+中心（有
+限合伙）
+合计 1000 - 100
+数据来源：公司提供，东方金诚整理
+公司围绕车联网行业，主要从事车载智能
+设备研发、生产。公司主要产品为智能行车记
+录仪和车载手机支架，产品全部以OEM方式生产，
+主要通过网络渠道商销售。
+公司现拥有1家全资子公司：深圳市前海车
+车智能科技有限公司（以下简称“车车智能”）
+，车车智能成立于2015年3月，注册资本
+1000万元，注册地址为深圳市前海深港合作区
+前湾一路1号A栋201室，法定代表人同为郝亚伟，
+主要负责车载智能设备的外协生产管理、产品
+质控和后期销售工作。
+公司是经北京市科学技术委员会、北京市
+财政局、北京市国家税务局、北京市地方税务
+局共同认定的高新技术企业（证书编号：GR201
+411000644）。
+截至2015年末，公司资产总额1609.94万元，
+负债总额142.59万元，资产负债率8.86%。当年
+公司实现营业收入767.69万元，利润总额-
+503.63万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京微格互动科技股份有限公司的基础素质">
+    <enterprise:有管理素质>公司核心管理人员具有较强的专业技术能
+力和一定的从业经验，能够满足现阶段的发展
+要求
+郝亚伟，男，1987年出生，毕业于河南大
+学应用数学系，本科学历。2009—2010年，就
+职于阿里巴巴（中国）有限公司，任高级软件
+研发工程师。2011年创办微格互动科技有限公
+司，现任公司董事长兼总经理；在此之前曾创
+办Leadcamp、Car371等网站及微格客户端，有
+过多次创业经历。
+蔡亮，微格互动联合创始人，男，1984年
+出生，毕业于北理工大学设计艺术学专业，硕
+士学历。2010-2011年，就职于阿里巴巴（中国）
+有限公司，任高级UI设计师。2011年至今，就
+职于微格互动，先后担任公司董事、总经理，
+现担公司董事兼副总经理。
+欧超，男，1982年出生，硕士学历。2008-
+2009年，就职于升东网络科技发展（上海）有
+限公司，任开发工程师。2009-2012年，就职于
+阿里巴巴（中国）中国有限公司，任高级开发
+工程师，负责阿里金融大数据模型计算。
+2012年至今，就职于微格互动，担任公司董事
+兼副总经理。
+程月，女，1982年出生，研究生学历。
+2004-
+2006年,就职于德国宝马和奔驰公司，担任市场
+运营；2007-2010年，创办286studio；2011-
+2012年，就职于北京奥美公关公司，担任媒体
+公关；2012-2015年，就职于微格互动，担任本
+公司运营总监。
+吴姗姗，女，1982年出生，本科学历。
+2009-2014年，就职于北京康比特科技股份有限
+公司，任总账会计。2015年7月至今，就职于微
+格互动，担任财务经理。
+公司主要管理人员均具有较强的专业技术
+能力和一定的的从业经验，能够满足现阶段公
+司的发展和要求。</enterprise:有管理素质>
+    <enterprise:有人员素质>目前公司共有员工32人，其中研发人员8人，
+占公司总人数的25.00%。公司核心技术人员为
+郝亚伟、蔡亮、欧超，均毕业于全国重点大学，
+具有本科以上学历以及阿里巴巴集团等世界
+500强或上市公司工作经历。除此之外，公司核
+心技术人员曾获红点设计大奖。
+公司主要核心技术人员均直接持有公司股
+份或担任公司董事、高级管理人员等职务，有
+利于保证公司核心技术团队的稳定性和公司技
+术研发的持续性。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以技术起家，自成立以来便注重自主
+研发和创新，并有意识将公司更多资源配置到
+产品研发方面。
+部门设置方面，公司设有研发部和硬件部，
+分别负责公司软硬件开发工作。公司研发部以
+自主研发为主，通过关注行业发展动态、跟踪
+客户需求、收集现有用户反馈等，围绕车联网
+行业不断进行产品开发和工艺改进。研发流程
+方面，公司研发工作严格按照项目管理流程进
+行，遵循将监控贯穿于研发工作的项目启动、
+项目规划、项目实施、项目收尾四个阶段。研
+发投入方面，公司成立以来，在研发领域持续
+投入，为公司自主研发奠定稳定的基础。近年
+公司研发投入情况如下：
+表5：公司研发投入情况
+2016年
+项  目 2014年 2015年
+1月
+研发投入
+44.74 162.97 18.45
+（万元）
+研发投入占
+营业收入比 147.79% 21.23% 13.4%
+例
+资料来源：公司提供，东方金诚整理</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京微格互动科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司尚处于创业阶段，近年来业务不断调
+整、转型，收入规模呈现大幅波动
+公司成立之初主要为客户提供互联网软件
+开发、设计等技术服务，2014年下半年开始进
+行业务转型，主营业务开始从技术服务转向车
+载智能硬件研发、销售，转型之初仅销售OBD智
+驾设备，销售规模有限，公司2014年收入大幅
+下滑；2015年随着公司研发成果相继投放市场，
+收入规模较去年大幅上升。2013年-2015年，公
+司营业收入分别为：956.63万元、30.28万元、
+767.69万元，收入规模呈现大幅波动。
+图3：公司近三年主营业务收入（万元）
+数据来源：公司提供经审计财务报表
+2015年公司主要收入来源于智能行车记录
+仪、车载手机支架、魔棒车充三款产品，其中
+智能行车记录仪是主要收入来源。
+表9：近年来公司产品/服务收入结构
+2015年度 2014年度
+金额 金额
+产品名称
+（万元） 比例 （万元） 比例
+智能行车记录
+501.07 65.27
+仪
+车载手机支架 145.25 18.92
+OBD智驾设备 117.07 15.25 20.18 66.63
+技术服务 4.31 0.56 10.10 33.37
+合计 767.69 100.00 30.28 100.00
+数据来源：公司提供，东方金诚整理
+公司智能行车记录仪产品拥有有较高的技
+术含量，新一代行车记录仪将于2016年下半年
+投入市场，市场销售状况存在一定的不确定性
+公司生产的智能行车记录仪能够记录车辆
+行驶途中的影像及声音等相关资讯以及驾驶时
+间、速度、所在位置，同时具有提供交通事故
+证据、进行停车监控、记录驾驶经历以及家用
+DV或家用监控器等功能，该产品具有较高的技
+术含量，具有一定的市场竞争力。
+此外，公司正与清华大学、上海安霸合作
+研发新一代智能行车记录仪，不同与传统行车
+记录仪，新研发的ADAS智能行车记录仪能够自
+动识别车辆与前车及道路距离，从而实现辅助
+驾驶的功能。目前ADAS行车记录仪前后车识别
+率已经达到较高水平，产品已经进入小批量试
+产阶段，预计今年9月份投放市场，新产品市场
+认可度未知，其销售状况存在一定的不确定性。
+公司产品采用OEM方式进行生产，公司与上
+下游客户形成比较稳定的合作关系，有利于企
+业现阶段成本控制和业务稳定
+公司产品全部通过OEM方式生产，由全资子
+公司深圳市前海车车智能科技有限公司负责外
+协厂商的筛选、管理以及产品的质量控制。智
+能行车记录仪的外协厂商为：鸿福泰电子科技
+（深圳）有限公司；车载支架的生产厂商为：
+深圳市友宏科技有限公司、深圳易事关怀智能
+科技有限公司；OBD智驾设备生产厂商为：深圳
+市友宏科技有限公司、深圳速锐得科技有限公
+司。
+公司的上游行业由各原材料生产厂商构成，
+主要包括蓝牙模块、电子组件等。其中，蓝牙
+模块、电子组件等领域的发展对本行业的技术、
+成本等因素影响较大。近几年，蓝牙模块、电
+子组件产业技术发展迅速且市场竞争充分、供
+应充足，有利于本行业技术进步与价格相对稳
+定。企业下游面对的客户主要为个人消费者、
+分销商等。消费者的偏好和价格敏感度对该行
+业产生较大的影响的同时，该行业也在一定程
+度上引导消费者需求和偏好的转变。
+从企业供销情况来看，公司硬件产品所需
+的原材料，一部分由公司直接采购后交由外协
+厂商，一部分由外协厂商根据公司要求直接采
+购。目前公司确定了比较稳定的供应商体系，
+近来供应商采购情况如下表所示：
+表10：近年供应商采购情况
+采购额
+年度 供应商名称 占比%
+（万元）
+深圳市阿达视高新技术有
+496.02 54.28
+限公司
+深圳市友宏科技有限公司 240.91 26.36
+深圳速锐得科技有限公司 67.54 7.39
+2015 鸿福泰电子科技（深圳）
+41.91 4.59
+有限公司
+深圳市嘉钦精工科技有限
+23.36 2.56
+公司
+合计 804.48 95.18
+深圳速锐得科技有限公司 10.61 17.43
+深圳市友宏科技有限公司 30.08 49.45
+2014 深圳市富广华电子科技有
+4.32 7.10
+限公司
+合计 45.01 73.98
+数据来源：公司提供，东方金诚整理
+公司硬件设备销售包括线上、线下两种渠
+道。线上主要通过淘宝众筹、点名时间等线上
+众筹平台和第三方平台天猫商城、淘宝企业店
+等电商销售渠道进行销售。公司线下渠道主要
+分为买断式和非买断式模式，目前公司线下买
+断式模式的主要客户包括深圳市仁清科技有限
+公司（行车记录仪）、上海珈硕实业有限公司
+等；公司线下非买断式模式的主要客户包括北
+京京东世纪贸易有限公司和深圳市仁清科技有
+限公司（金刚支架、魔棒车充）。
+公司线上众筹平台销售采用预收款的结算
+方式；电商销售通过支付宝等第三方支付平台
+结算，确认收货后款项自动从第三方平台划转
+到公司支付宝账户；线下非买断式模式销售，
+公司交付商品并收到开具的结算清单时，结算
+款项；通过线下买断式模式销售时，公司交付
+商品后一般三个月内会收到客户回款。公司销
+售商品回款及时。
+总体来看，公司已经转型定位于智能行车
+记录仪制造商，形成了较稳定的上下游合作伙
+伴和生产协作厂商，公司智能行车记录仪全系
+列产品将于2016年下半年投入市场，市场销售
+状况存在一定的不确定性。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司部门设置合理，分工明确，公司治理
+制度较为完善，能够保证现阶段公司的基本运
+营
+法人治理结构方面，公司依照《公司法》
+建立了股东大会、董事会、监事会，制订了
+《公司章程》，约定其各自的权力、义务以及
+工作程序，并根据《公司章程》制订了《股东
+大会议事规则》、《董事会议事规则》、《监
+事会议事规则》等各项规章制度和管理办法，
+以规范公司的管理和运作。股东大会是公司的
+权力机构，现有股东6人，4人为合伙企业，2人
+为自然人；公司董事会由5名董事组成，设董事
+长1名，董事会负责审议日常事项，对董事长的
+选举、高级管理人员的聘任等事项做出效决议；
+公司监事会负责监督检查公司的财务状况以及
+董事、总经理及其他高级管理人员的职务执行
+情况，维护公司和股东利益，公司监事会由3名
+监事组成，其中职工代表监事1名，监事会主席
+1名。
+部门设置方面，公司设有综合部负责公司
+日常事务、人力资源、信息管理、上市融资项
+目管理方面的工作；设计部负责公司产品、外
+观、UI、平面、工业设计等方面工作；研发部
+负责公司相关产品的软件研发等方面的工作；
+硬件部负责公司硬件采购、硬件研发等方面的
+工作；运营部负责公司品牌建设、市场推广等
+方面的工作；电商部负责公司线上渠道拓展、
+销售和客服等方面的工作；财务部负责完成公
+司财务管理、会计核算等方面的工作；销售部
+负责公司线下渠道拓展和销售等方面的工作。
+公司部门设置如图3所示：
+图4：公司部门设置情况
+资料来源：公司提供，东方金诚整理 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来，公司将在车载智能硬件设备与配套
+软件的基础上，发挥公司在产品技术、工业设
+计、软件开发等优势，围绕车载影像类产品、
+车载配件类产品、未来出行类产品三大产品线，
+进一步优化消费者行车生活和出行方式，增加
+公司收入来源。
+车载配件类产品方面，公司将继续推出，
+磁吸支架、充电支架车载空气净化器、智能音
+乐车充等更多车载电子产品，并通过公司所有
+车载配件类产品与公司App软件相连，提升公司
+产品覆盖率和消费者重复购买率。车载影像类
+产品方面，公司将在二代行车记录仪上加入
+ADAS、LDWS等主动安全技术，智能化与图像识
+别将是公司车载影像类产品未来发展方向。此
+外，随着公司车载智能硬件设备销售量的不断
+提高，以及线上APP平台用户的不断积累，未来
+互联网增值服务收入也将成为公司营业收入的
+重要部分。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京微格互动科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-2015年，公司总资产分别为621.33万
+元、118.50万元、1609.94万元，近两年增长幅
+度分别为-80.93%、1258.60%，公司分别于
+2013年、2015年进行增资，资产规模出现大幅
+增加。
+图5：公司近三年资产构成
+      数据来源：公司提供审计报告
+从资产结构的变化看，2013-2015年，公司
+流动资产分别为611.20万元、106.91万元、
+1569.45万元，增长幅度近两年分别为-
+82.51%、1368.01%，公司2015年进行增资，使
+得公司流动资产大幅增加；非流动资产分别为
+10.13万元、11.59万元、40.49万元，增长幅度
+近两年分别为14.41%、249.35%。截至2015年底，
+公司流动资产为1569.45万元，非流动资产为
+40.49万元，分别占资产总额的97.48%和
+2.52%，流动资产占比较大。公司核心竞争力体
+现在硬件产品的设计、研发以及配套软件产品
+的开发，故公司采用重技术轻资产的运营模式，
+硬件产品生产主要采用外协加工模式，在公司
+完成产品设计和开发后，交由外协厂商进行加
+工，因此公司非流动资产规模较低。
+图6：公司近三年流动资产构成
+       数据来源：公司提供审计报告
+图7：公司最近一年流动资产构成
+数据来源：公司提供审计报告
+2015年末，公司货币资金、应收账款、其
+他应收款、预付账款、存货分别占流动资产的
+53.74%、17.85%、2.47%、3.86%、18.67%，公
+司2015年货币资金明显增长；同时，随着
+2015年公司业务规模大幅增长，存货和应收账
+款出现明显增长。
+截至2015年末，公司存货的期末余额为
+293.04万元，主要为公司采购的交与外协厂商
+的原材料及库存商品，二者规模相当。
+截至2015年末，公司应收账款账面净额
+280.10万元，其中99.99%账龄在3个月以内，应
+收账款账龄较短，但前五大应收客户占比99.53%，
+详见表12。
+表11：截至2015年末主要应收客户情况
+期末 占应收
+客户名称 账龄 账款总
+余额 额比例
+深圳市仁清科技有 3 个月以
+194.26 69.28%
+限公司 内
+北京京东世纪贸易 3 个月以
+71.02 25.33%
+有限公司 内
+深圳市龙浩睿智科 3 个月以
+7.85 2.80%
+技有限公司 内
+深圳市维尔尚商贸 3 个月以
+3.6 1.28%
+有限公司 内
+北京智感生活科技 3 个月以
+2.35 0.84%
+有限公司 内
+3 个月以
+合计 279.08 99.53%
+内
+数据来源：公司提供，东方金诚整理
+2015年，公司固定资产、无形资产、其他
+分别占非流动资产的82.17%、2.86%、14.97%，
+其中固定资产占有较大比重，公司固定资产主
+要为电脑、家具等办公用品。
+表12：公司近两年资产运营状况
+2014 2015 2015 年
+项  目
+年 年 行业均值
+应收账款周转率 0.23 5.47 5.80
+存货周转率 0.84 3.53 14.50
+流动资产周转率 0.08 0.92 2.50
+总资产周转率 0.08 0.89 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，2015年公司运营效率各
+指标较2014年均有所上升，公司2014年完成业
+务模式转变后业务规模明显增长，应收账款和
+存货周转效率明显上升，资产运营效率的到大
+幅提升，但仍低于行业平均水平，整体来看，
+公司运营效率一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，公司总负债分别为72.15万元、149.02
+万元、142.59万元，最近两年的增长幅度分别
+为106.54%、-4.31%，公司负债规模较小。
+表15：公司近三年负债结构
+2015
+2013 2014 2015
+项  目 年
+年 年 年
+行业
+均值
+资产负债率
+11.61 125.76 8.86 65.00
+（%）
+全部资本化比率
+0.00 0.00 0.00 0
+（%）
+总负债（万元） 72.15 149.02 142.59 -
+短期借款（万
+0.00 0.00 0.00 -
+元）
+长期借款（万
+0.00 0.00 0.00 -
+元）
+数据来源：根据公司提供经审计财务报表计算
+图 8：公司近三年负债结构
+数据来源：公司提供
+从债务结构看，截至2015年年底，公司流
+动负债、长期负债分别为138.27万元、4.32万
+元，分别占总负债的96.97%、3.03%，公司目前
+的债务结构主要以流动负债为主；流动负债中，
+应付账款、其他应付款、预收款项所占的比例
+分别为38.04%、3.53%、14.74%，应付账款占比
+较高。
+2013-2015年，公司流动比率分别为8.47、
+0.72、11.35，速动比率分别为8.47、0.48、
+9.23，同期，公司经营现金净流量与流动负债
+的比例分别为48.57%、-29.77%、-791.21%，公
+司经营性现金流对流动负债覆盖保障程度较差。
+综合考虑到公司目前虽无有息债务，且短期负
+债总规模较低，但公司现金流情况不佳，总体
+来看公司短期偿债能力一般。
+表 16：公司近三年主要偿债指标
+2015
+2013 2014
+项  目 2015 年 年
+年 年
+行业
+流动比率 8.47 0.72 11.35 均-值
+速动比率 8.47 0.48 9.23 87.50
+经营活动产生
+的现金净流量
+48.57 -29.77 -791.21 -
+/流动负债（%）
+利息保障倍数 -505.27 -28.25 70.18 -
+EBITDA利息倍数 -505.27 -28.25 70.18 -
+总债务
+0.00 0.00 0.00 -
+/EBITDA
+经营活动产生
+的现金净流量 0.00 0.00 0.00 -
+/总债务（%）
+经营活动产生
+的现金净流量 48.57 -29.77 -767.24 -
+/总负债（%）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司资产负债率分别为11.61%、125.7
+6%、8.86%，呈现较大波动。主要是因为2014年
+公司业务转型、收入规模大幅下降导致亏损，
+所有者权益减少；2015年公司增资至1000万元，
+导致净资产大幅提升、负债水平快速回落，但
+目前公司盈利能力较弱，总体来看公司长期偿
+债能力一般。
+截至报告期，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司目前在产品研发及市场开拓等方面费
+用主要依靠自有资金和股东的支持，公司成立
+以来先后进行了3次增资，目前公司账面资金较
+为充裕，资产规模及业务范围不断扩大为公司
+的发展奠定了良好的基础；公司于2016年5月提
+交新三板申报材料，未来若企业能够在新三板
+挂牌，将有利于企业从资本市场上以较低的成
+本获得资金支持。
+此外，2014年，公司获得北京市科技技术
+委员会政府创新基金补助21万元，以及北京望
+京科技孵化服务有限公司的雏鹰人才创业计划
+补助30万元。鉴于公司所处行业前景和公司自
+身优势，未来公司有望取得更多的科研经费资
+助。</enterprise:财务弹性>
+    <enterprise:盈利能力>表13：公司盈利能力主要指标（一）
+2013 2014 2015
+项  目
+年 年 年
+营业收入（万元） 956.63 30.28 767.69
+营业成本（万元） 102.62 15.05 580.84
+利润总额（万元） 243.01 -104.41 -503.63
+净利润（万元） 234.80 -104.41 -502.12
+数据来源：公司提供，东方金诚整理
+目前公司的收入来自于公司车载智能硬件
+产品的销售和技术服务收入，其中车载智能硬
+件销售是主要收入来源。
+2013-2015年公司营业收入分别为956.63万
+元、30.28万元、767.69万元，最近两年的增长
+幅度分别为-96.83%、2435.30%，波动较为明显。
+公司自2014年下半年开始进行业务转型，主营
+业务收入来源开始从技术服务转向销售车载智
+能硬件销售，技术服务收入占比逐年下降，
+2015年随着智驾助手、行车安全助手、车载生
+活助手等一系列产品推出，收入规模快速提升。
+近三年，公司营业成本分别为102.62万元、
+15.05万元、580.84万元，增长幅度分别为-
+85.33%、3759.40%，基本与主营业务收入变化
+趋势一致，其波动幅度高于营业成本；2015年
+公司主营业务收入结构中销售产品收入占99.44%，
+技术服务收入占0.56%，智能硬件产品销售业务
+比重大幅增加导致营业成本增长幅度较高，公
+司当年获取毛利能力也有所降低，近三年公司
+毛利率分别为89.27%、50.30%、24.34%。
+2013-2015年末，包括营业费用、管理费用、
+财务费用在内的公司期间费用分别为605.54万
+元、170.49万元、694.21万元，占营业收入的
+比重分别为63.30%、563.04%、90.43%，期间费
+用占比较高。主要原因是公司仍处于创业阶段，
+研发投入较大所致。
+从资产获利的角度，公司近两年总资产报
+酬率分别为-27.26%、-59.12%，净资产收益率
+分别为-40.26%、-69.89%，公司资产获利能力
+较差。
+表14：公司盈利能力主要指标（二）
+2013 2014 2015 2015 年
+项  目
+年 年 年
+行业均值
+毛利率（%） 89.27 50.30 24.34 -
+-
+营业利润率（%）
+25.39 513.6 -65.06 15.50
+7
+净资产收益率
+58.04 -40.26 -69.89 5.00
+（%）
+总资产报酬率
+54.98 -27.26 -59.12 3.50
+（%）
+数据来源：公司提供，东方金诚整理</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京微格互动科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京微格互动科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>621.33 </enterprise:资产总额>
+    <enterprise:所有者权益>549.18 </enterprise:所有者权益>
+    <enterprise:负债总额>72.15 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>956.63 </enterprise:营业收入>
+    <enterprise:EBITDA>242.53 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京微格互动科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>118.50 </enterprise:资产总额>
+    <enterprise:所有者权益>-30.52 </enterprise:所有者权益>
+    <enterprise:负债总额>149.02 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>30.28 </enterprise:营业收入>
+    <enterprise:EBITDA>-100.84 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京微格互动科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>1609.94 </enterprise:资产总额>
+    <enterprise:所有者权益>1467.35 </enterprise:所有者权益>
+    <enterprise:负债总额>142.59 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>767.69 </enterprise:营业收入>
+    <enterprise:EBITDA>-510.91 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京微格互动科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>2.17 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.23 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京微格互动科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.08 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.23 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.84 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京微格互动科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.89 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.47 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.53 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京微格互动科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>54.98 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>114.22 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京微格互动科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-27.26 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-42.23 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京微格互动科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-59.12 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>2.91 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京微格互动科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>847.12 </enterprise:流动比率>
+    <enterprise:速动比率>847.12 </enterprise:速动比率>
+    <enterprise:资产负债率>11.61 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-505.27 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京微格互动科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>71.74 </enterprise:流动比率>
+    <enterprise:速动比率>47.58 </enterprise:速动比率>
+    <enterprise:资产负债率>125.76 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-28.25 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京微格互动科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>1135.06 </enterprise:流动比率>
+    <enterprise:速动比率>923.13 </enterprise:速动比率>
+    <enterprise:资产负债率>8.86 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>70.18 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京微格互动科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>2.23 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>89.27 </enterprise:毛利率>
+    <enterprise:成本费用利润率>197.80 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.89 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>48.57 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京微格互动科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.08 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>50.30 </enterprise:毛利率>
+    <enterprise:成本费用利润率>18.77 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.52 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-29.77 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京微格互动科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.92 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>24.34 </enterprise:毛利率>
+    <enterprise:成本费用利润率>5.60 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.85 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-791.21 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京微格互动科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>269.09 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>264.68 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>69.20 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>8.23 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>611.20 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>9.52 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.61 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>10.13 </enterprise:非流动资产合计>
+    <enterprise:资产总计>621.33 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京微格互动科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>10.45 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.49 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>4.25 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>50.71 </enterprise:其他应收款>
+    <enterprise:存货>36.01 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>5.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>106.91 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>11.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.55 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>11.59 </enterprise:非流动资产合计>
+    <enterprise:资产总计>118.50 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京微格互动科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>843.50 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>280.10 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>60.65 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>38.79 </enterprise:其他应收款>
+    <enterprise:存货>293.04 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>2.89 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>50.48 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1569.45 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>33.27 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1.16 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>4.55 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.51 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>40.49 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1609.94 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京微格互动科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>16.64 </enterprise:应付账款>
+    <enterprise:预收款项>0.16 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>20.58 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>5.06 </enterprise:应交税费>
+    <enterprise:应付利息>3.91 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>102.67 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>149.02 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>149.02 </enterprise:负债合计>
+    <enterprise:实收资本或股本>524.55 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-555.07 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-30.52 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-30.52 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>118.50 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京微格互动科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>16.64 </enterprise:应付账款>
+    <enterprise:预收款项>0.16 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>20.58 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>5.06 </enterprise:应交税费>
+    <enterprise:应付利息>3.91 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>102.67 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>149.02 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>149.02 </enterprise:负债合计>
+    <enterprise:实收资本或股本>524.55 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-555.07 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-30.52 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-30.52 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>118.50 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京微格互动科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>52.60 </enterprise:应付账款>
+    <enterprise:预收款项>20.38 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>26.77 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>33.64 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>4.88 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>138.27 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>4.32 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>4.32 </enterprise:非流动负债合计>
+    <enterprise:负债合计>142.59 </enterprise:负债合计>
+    <enterprise:实收资本或股本>683.07 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1841.48 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1057.20 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1467.35 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1467.35 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1609.94 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京微格互动科技股份有限公司2013年利润表">
+    <enterprise:营业收入>956.63 </enterprise:营业收入>
+    <enterprise:主营业务收入>956.63 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>102.62 </enterprise:营业成本>
+    <enterprise:主营业务成本>102.62 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.61 </enterprise:营业税金及附加>
+    <enterprise:销售费用>213.53 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>392.49 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.48 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>635.35 </enterprise:营业利润>
+    <enterprise:营业外收入>0.15 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>635.50 </enterprise:利润总额>
+    <enterprise:所得税费用>8.21 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>627.29 </enterprise:净利润>
+    <enterprise:少数股东损益>234.80 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>392.49 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京微格互动科技股份有限公司2014年利润表">
+    <enterprise:营业收入>30.28 </enterprise:营业收入>
+    <enterprise:主营业务收入>30.28 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>15.05 </enterprise:营业成本>
+    <enterprise:主营业务成本>15.05 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.45 </enterprise:营业税金及附加>
+    <enterprise:销售费用>49.62 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>117.30 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>3.57 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.17 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-38.24 </enterprise:营业利润>
+    <enterprise:营业外收入>51.13 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>12.89 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>12.89 </enterprise:净利润>
+    <enterprise:少数股东损益>-104.41 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>117.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京微格互动科技股份有限公司2015年利润表">
+    <enterprise:营业收入>767.69 </enterprise:营业收入>
+    <enterprise:主营业务收入>767.69 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>580.84 </enterprise:营业成本>
+    <enterprise:主营业务成本>580.84 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>4.54 </enterprise:营业税金及附加>
+    <enterprise:销售费用>156.69 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>544.80 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-7.28 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>1.71 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>14.12 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>45.31 </enterprise:营业利润>
+    <enterprise:营业外收入>0.18 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>4.32 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>41.17 </enterprise:利润总额>
+    <enterprise:所得税费用>-1.51 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>42.68 </enterprise:净利润>
+    <enterprise:少数股东损益>-502.12 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>544.80 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京微格互动科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>855.77 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>124.96 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>980.73 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>181.67  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>150.53 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>613.49 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>945.69 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>35.04 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>-5.77 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>-5.77 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>5.77 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>-0.48 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>-0.48 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.48 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>41.29 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京微格互动科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>15.78 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>156.66 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>172.44 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>26.74  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>82.96 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.48 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>106.62 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>216.80 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-44.36 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.17 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.17 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>7.93 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>5.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>12.93 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-12.76 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-57.12 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京微格互动科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>655.12 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>70.59 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>725.71 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>999.13  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>379.74 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2.18 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>438.67 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1819.72 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1094.01 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>3219.12 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>3219.12 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>42.06 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3250.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3292.06 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-72.94 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>2000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>2000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>2000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>833.05 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京微格互动科技股份有限公司被投资单位：深圳市前海车车智能科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>深圳市前海车车智能科技有限公司</enterprise:名称>
+	<enterprise:单位代码>326658195</enterprise:单位代码>
+	<enterprise:被投资金额>1000万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：蔡亮 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>蔡亮 </enterprise:股东名称>
+	 <enterprise:货币>248.6184万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>24.86%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：郝亚伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郝亚伟 </enterprise:股东名称>
+	 <enterprise:货币>248.6184万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>24.86%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：经纬（杭州）创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>经纬（杭州）创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>170.8651万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>17.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：戈壁盈智（上海）创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>戈壁盈智（上海）创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>116.0334万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>11.60%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：苏州亚商创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苏州亚商创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>116.0334万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>11.60%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京微格互动科技股份有限公司股东：北京微梦创新创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京微梦创新创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>99.8313万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.98%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24122530</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24126940</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24128134</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24128173</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24122537</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24129779</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24125437</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769566</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769571</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769545</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769619</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769601</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：简销">
+	<enterprise:有申请日期>16-11-2</enterprise:有申请日期>
+	<enterprise:有商标名称>简销</enterprise:有商标名称>
+	<enterprise:有注册号>21769623</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：博派出行">
+	<enterprise:有申请日期>16-3-23</enterprise:有申请日期>
+	<enterprise:有商标名称>博派出行</enterprise:有商标名称>
+	<enterprise:有注册号>19399247</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>核准通知打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT GORILLA">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT GORILLA</enterprise:有商标名称>
+	<enterprise:有注册号>17437916</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>不予核准通知打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT MAGIC">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT MAGIC</enterprise:有商标名称>
+	<enterprise:有注册号>17438029</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>核准证明打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT PRO">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT PRO</enterprise:有商标名称>
+	<enterprise:有注册号>17437950A</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT GORILLA">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT GORILLA</enterprise:有商标名称>
+	<enterprise:有注册号>17437916A</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT</enterprise:有商标名称>
+	<enterprise:有注册号>17437865</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>不予核准通知打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT PRO">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT PRO</enterprise:有商标名称>
+	<enterprise:有注册号>17437950</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>不予核准通知打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT AUTO">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT AUTO</enterprise:有商标名称>
+	<enterprise:有注册号>17438124</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT">
+	<enterprise:有申请日期>15-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT</enterprise:有商标名称>
+	<enterprise:有注册号>17437865A</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：车车智能">
+	<enterprise:有申请日期>15-1-14</enterprise:有申请日期>
+	<enterprise:有商标名称>车车智能</enterprise:有商标名称>
+	<enterprise:有注册号>16155898</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>核准证明打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT MINI">
+	<enterprise:有申请日期>15-1-6</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT MINI</enterprise:有商标名称>
+	<enterprise:有注册号>16092960</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTO BOT">
+	<enterprise:有申请日期>14-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTO BOT</enterprise:有商标名称>
+	<enterprise:有注册号>15210040</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT">
+	<enterprise:有申请日期>14-5-9</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT</enterprise:有商标名称>
+	<enterprise:有注册号>14520204</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：AUTOBOT">
+	<enterprise:有申请日期>14-5-9</enterprise:有申请日期>
+	<enterprise:有商标名称>AUTOBOT</enterprise:有商标名称>
+	<enterprise:有注册号>14520204</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标部分驳回通知书)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：微格">
+	<enterprise:有申请日期>11-10-11</enterprise:有申请日期>
+	<enterprise:有商标名称>微格</enterprise:有商标名称>
+	<enterprise:有注册号>10048342</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京微格互动科技股份有限公司的商标信息：微格">
+	<enterprise:有申请日期>11-10-11</enterprise:有申请日期>
+	<enterprise:有商标名称>微格</enterprise:有商标名称>
+	<enterprise:有注册号>10048341</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：一种手机支架">
+	<enterprise:有申请公布日>17-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720274126.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206547130U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：一种移动终端支架">
+	<enterprise:有申请公布日>17-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种移动终端支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720274197.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206547131U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载手机支架">
+	<enterprise:有申请公布日>17-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201730062982.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304216385S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：行车记录仪（Auto Bot Eye）">
+	<enterprise:有申请公布日>17-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>行车记录仪（Auto Bot Eye）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630193439.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304168902S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：磁吸支架（AutoBot)">
+	<enterprise:有申请公布日>17-4-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>磁吸支架（AutoBot)</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630249270.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304104547S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：一种车载安全坐垫及含其的车载儿童座椅">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种车载安全坐垫及含其的车载儿童座椅</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621057776.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206012381U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载智能车充">
+	<enterprise:有申请公布日>17-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载智能车充</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630193450.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304018667S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：一种ISOFIX转接装置及含其的儿童安全座椅">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种ISOFIX转接装置及含其的儿童安全座椅</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620846424.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205871794U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：手机支架">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630047946.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303841988S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：一种手机支架">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620131508.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205566432U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：行车记录仪支架（AutoBot Eye）">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>行车记录仪支架（AutoBot Eye）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530540196.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303775763S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：滑板车折叠组件">
+	<enterprise:有申请公布日>16-7-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>滑板车折叠组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530540198.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303737810S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：行车记录仪(AutoBot Eye)">
+	<enterprise:有申请公布日>16-3-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>行车记录仪(AutoBot Eye)</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530374796.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303612720S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载智能手机支架">
+	<enterprise:有申请公布日>15-12-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载智能手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530308469.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303508948S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载智能车充">
+	<enterprise:有申请公布日>15-12-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载智能车充</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530308703.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303507812S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载智能手机支架">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载智能手机支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520620544.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204859272U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：车载智能点烟器充电接头">
+	<enterprise:有申请公布日>15-12-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载智能点烟器充电接头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520620541.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204835643U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：智驾迹录仪 （AutoBot mini)">
+	<enterprise:有申请公布日>15-7-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>智驾迹录仪 （AutoBot mini)</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530066632.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303309441S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：智驾记录仪 （AutoBot Pro)">
+	<enterprise:有申请公布日>15-7-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>智驾记录仪 （AutoBot Pro)</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530092764.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303309031S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京微格互动科技股份有限公司的专利信息：智驾迹录仪">
+	<enterprise:有申请公布日>15-6-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>智驾迹录仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510114164.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104702692A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：车载空气净化器控制系统">
+	<enterprise:有批准日期>17-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>车载空气净化器控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR076802</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：数字式行车记录仪系统">
+	<enterprise:有批准日期>17-2-7</enterprise:有批准日期>
+	<enterprise:有软件全称>数字式行车记录仪系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR033108</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：智能安全行车助手软件">
+	<enterprise:有批准日期>17-2-7</enterprise:有批准日期>
+	<enterprise:有软件全称>智能安全行车助手软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR033392</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：苹果版旅行说语音图片游记软件">
+	<enterprise:有批准日期>14-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>苹果版旅行说语音图片游记软件</enterprise:有软件全称>
+	<enterprise:有软件简称>苹果版旅行说</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR040850</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：安卓版旅行说语音图片游记软件">
+	<enterprise:有批准日期>14-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>安卓版旅行说语音图片游记软件</enterprise:有软件全称>
+	<enterprise:有软件简称>安卓版旅行说</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR040491</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：路书卫星轨迹记录软件">
+	<enterprise:有批准日期>14-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>路书卫星轨迹记录软件</enterprise:有软件全称>
+	<enterprise:有软件简称>路书软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR040547</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：象素旅行酒店机票预订专家软件">
+	<enterprise:有批准日期>14-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>象素旅行酒店机票预订专家软件</enterprise:有软件全称>
+	<enterprise:有软件简称>象素旅行</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR040503</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：微格新浪微博客户端软件">
+	<enterprise:有批准日期>14-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>微格新浪微博客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>微格</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR041981</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京微格互动科技股份有限公司的软件著作：睡睡酒店攻略软件">
+	<enterprise:有批准日期>14-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>睡睡酒店攻略软件</enterprise:有软件全称>
+	<enterprise:有软件简称>睡睡酒店攻略</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR040834</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：北京微格互动科技有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京微格互动科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vgoapp.com</enterprise:有网站首页>
+	<enterprise:有域名>vgoread.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12009296号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：北京微格互动科技有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京微格互动科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vgoapp.com</enterprise:有网站首页>
+	<enterprise:有域名>vgoapp.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12009296号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：微格简销进销存">
+	<enterprise:有审核时间>17-4-27</enterprise:有审核时间>
+	<enterprise:有网站全称>微格简销进销存</enterprise:有网站全称>
+	<enterprise:有网站首页>www.easysalescloud.com</enterprise:有网站首页>
+	<enterprise:有域名>easysalescloud.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16051389号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：微格互动">
+	<enterprise:有审核时间>17-4-27</enterprise:有审核时间>
+	<enterprise:有网站全称>微格互动</enterprise:有网站全称>
+	<enterprise:有网站首页>www.haochezhidemai.com</enterprise:有网站首页>
+	<enterprise:有域名>haochezhidemai.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16051389号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：微格互动">
+	<enterprise:有审核时间>17-4-27</enterprise:有审核时间>
+	<enterprise:有网站全称>微格互动</enterprise:有网站全称>
+	<enterprise:有网站首页>www.chezdm.com</enterprise:有网站首页>
+	<enterprise:有域名>chezdm.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16051389号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京微格互动科技股份有限公司的网站备案：微格互动">
+	<enterprise:有审核时间>17-4-27</enterprise:有审核时间>
+	<enterprise:有网站全称>微格互动</enterprise:有网站全称>
+	<enterprise:有网站首页>www.maliangai.com</enterprise:有网站首页>
+	<enterprise:有域名>maliangai.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备16051389号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京微格互动科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京微格互动科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>是</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>15年公司主营业务由软件服务转型为智能硬件研发销售，随着公司智能车载
+硬件产品销售量的不断提高，以及线上 APP平台用户的不断积累，未来公司来自于互联网
+增值服务收入也将成为公司营业收入的重要部分</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京微格互动科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>深圳市仁清科技有限公司  北京京东世纪贸易有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京微格互动科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京微格互动科技股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京微格互动科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>起步期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                                             
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京微格互动科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京微格互动科技股份有限公司的企业法人代表：郝亚伟">
+	<enterprise:名称>郝亚伟</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉族</enterprise:民族>
+	<enterprise:年龄>28</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1987年</enterprise:出生年月>
+	<enterprise:身份证号码>412825198706168274</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>无</enterprise:学位>
+	<enterprise:职称>无</enterprise:职称>
+	<enterprise:现任职务>事</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2004年-2008 年 河南大学应用数学系
+起止日期 在何地区何部门 任何职务
+2009年~2010 年 阿里巴巴（中国）有限公司 高级软件研
+发工程师
+P36
+ecpa
+东方金诚国际信用评估有限公司　　　　　　                中关村科技园区企业信用评级
+姓    名 蔡亮 性别 男 民族 汉族 年龄 31
+国    籍 中国 出生年月 1984年 2月
+家庭住址 北京市大兴区西红门镇兴海家园小区月苑 11号楼
+邮政编码 100162
+5单元 601
+身份证号码 610528198402173611 政治面目 群众
+副
+总
+学    历 研究生 学位 硕士 职称 无 现任职务
+经
+理
+联系电话 传真 E-mail
+蔡亮为本公司以下专利的第一发明人。智驾迹录仪(AutoBot Pro) 外观专利，智驾
+发明创造、科研成 迹录仪(AutoBot mini) 外观专利，行车记录仪(AutoBot Eye) 外观专利，车载智能手机
+果和著作 支架外观专利，车载智能车充外观专利，车载智能手机支架实用新型，车载智能点烟器
+充电接头实用新型。
+何时何地因何原因
+受到过何种重要奖 无
+惩
+学习及工作简历
+获何学位、
+起止日期 在何地区、何学校、何部门
+任何职务
+2002年-2006 年 北京航天航空大学 学士
+2008年-2010 年 北京理工大学 硕士
+起止日期 在何地区何部门 任何职务
+2010年-2011 年 阿里巴巴（中国）有限公司 高级 UI设
+计师
+P37
+ecpa
+东方金诚国际信用评估有限公司　　　　　　                中关村科技园区企业信用评级</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京微格互动科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>-</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>-</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>-</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>-</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京微格互动科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>-</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>-</enterprise:有供应商类型>
+	<enterprise:有交易地位>-</enterprise:有交易地位>
+	<enterprise:有议价能力>-</enterprise:有议价能力>
+	<enterprise:有延期支付>-</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>-</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>-</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京微格互动科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经查，暂无涉诉信息</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经查，暂无违规信息</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>-</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经查，暂无负面信息</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京微格互动科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京微格互动科技股份有限公司的专利数量">
+	<enterprise:专利总计>7</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>7</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京微格互动科技股份有限公司的商标数量">
+	<enterprise:商标总计>13</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>3</enterprise:商标数量2014>
+	<enterprise:商标数量2015>10</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京微格互动科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

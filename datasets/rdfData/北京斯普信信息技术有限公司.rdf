@@ -1,0 +1,1181 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京斯普信信息技术有限公司的企业概况">
+    <enterprise:有名称>北京斯普信信息技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087990092086</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行双秀支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>202</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2007-3-1</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2027-2-28</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000.00</enterprise:有股本>
+    <enterprise:有经营范围>施工总承包、专业承包、劳务分包；技术开发、技术转让、技术咨询、技术服务、技术推广；销售计算机、软件及辅助设备、电子产品、机械设备、通讯设备；计算机系统服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）施工总承包、专业承包、劳务分包；技术开发、技术转让、技术咨询、技术服务、技术推广；销售计算机、软件及辅助设备、电子产品、机械设备、通讯设备；计算机系统服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>通信行业大型计算机代理维护</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区万泉河路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区万泉河路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100086</enterprise:有邮政编码>
+    <enterprise:有联系人>李春玲</enterprise:有联系人>
+    <enterprise:有联系电话>010-82657520</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82657529</enterprise:有传真电话>
+    <enterprise:有E-mail>lichunling@sup-info.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.sup-info.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京斯普信信息技术有限公司（以下简称
+“公司”）于 2007年 3月 1日在北京市工商行
+政管理局海淀分局注册成立，初始注册资本为
+600.00万元，由李继源和西安鲁纳信息科技有
+限公司共同出资组建，后经多次增资及股权变
+更，现注册资本为 5000.00 万元，实收资本为
+2000.00万元，公司股东出资和持股情况详见附
+录二之表 13。 
+公司经营范围：“施工总承包、专业承包、
+劳务分包；技术开发、技术转让、技术咨询、
+技术服务、技术推广；销售计算机、软件及辅
+助设备、电子产品、机械设备、通讯设备；计
+算机系统服务。(企业依法自主选择经营项目，
+开展经营活动；依法须经批准的项目，经相关
+部门批准后依批准的内容开展经营活动；不得
+从事本市产业政策禁止和限制类项目的经营活
+动。)”目前，公司主营业务为通信行业大型计
+算机代理维护（简称“代维”），所谓代维主要
+是指运营商将网络的运营维护外包给专业服务
+公司，以节省运营成本。 
+截至2016年9月底，公司资产总额4274.48
+万元，固定资产净额 264.89万元，所有者权益
+2997.08 万元；2015 年，公司实现营业收入
+3523.62 万元，利润总额 23.05 万元；2016 年
+1~9 月，公司实现营业收入 3695.47 万元，利
+润总额 12.84 万元。公司现有员工 202 人，在
+北京市属于小型企业。 
+公司注册地址：北京市海淀区万泉河路 68
+号紫金大厦 707室；经营地址：北京市海淀区
+万泉河路 68号紫金大厦 707、708室；法定代
+表 人 ： 李 彬 ； 统 一 社 会 信 用 代 码 ：
+911101087990092086；经营期限：自 2007年 3
+月 1日至 2027年 2月 28日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京斯普信信息技术有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司总经理李彬，43岁，本科学历，曾就
+职于浪潮产业信息技术有限公司、神州数码系
+统集成有限公司，2008年加入公司，管理经验
+和从业经验丰富。 
+公司副总经理葛荟，37岁，本科学历，曾
+担任得实集团维护业务中心经理、北京得实系
+统集成有限公司运作管理部经理，2010年 8月
+加入公司，管理经验和从业经验丰富。 
+公司财务总监钱伟东，50岁，本科学历，
+曾就职于北京市电机总厂、北京市住宅总公司、
+中远集团工业公司、北京北企会计师事务所，
+管理经验和从业经验丰富。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司共有员工 202人。 
+从年龄构成看，公司员工年龄在 45岁及以
+下者占比 91.09%，员工以中青年为主。 
+从学历构成看，公司员工中本科及以上学
+历者 177人，占比 87.62%，员工整体学历水平
+高。 
+从岗位构成看，公司现有管理人员 23人，
+占比 11.39%；技术人员 167人，占比 82.67%；
+作业人员 12人，占比 5.94%，员工岗位构成符
+合公司业务特点。 
+总体看，公司员工学历水平高，岗位结构
+合理。 
+3．研发人员素质 
+公司现有研发人员 5人，全部为本科及以
+上学历，研发人员学历水平高。 
+公司技术总监柴娟伟，42岁，硕士研究生
+学历，曾担任香港科生公司天津办软件开发经
+理、北京华夏新达软件股份有限公司项目经理、
+北京摩登领域软件有限公司 ERP部经理，2011
+年加入公司。柴先生曾参与“山西晋辽矿业有
+限公司管理系统项目”、“中国海洋石油总公司
+SAP系统与 Hyperion预算系统接口项目”、“云
+南华联锌铟股份有限公司 ERP 项目”等多个
+ERP项目，担任项目经理，具有丰富的项目开
+发经验。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设有代维工程师部（含一部、二部），
+负责代维业务的技术和执行。 
+近三年，公司研发投入分别为 80.00万元、
+95.00万元、98.00万元，分别占当年营业收入
+的 4.67%、4.07%、2.78%，研发投入主要用于
+发放研发人员工资、购置研发设备等。 
+总体看，公司科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>80.00万元,95.00万元,98.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>4.67%,4.07%,2.78%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京斯普信信息技术有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地位于北京市海淀区万泉河路
+68号紫金大厦 707、708室，建筑面积为 347.99
+平方米，使用方式为租赁，该地交通方便，环
+境整洁。 
+公司拥有资质详见表 2。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+信息系统集成及服务叁级资质 
+1 
+编号：XZ3110020160033，有效期至 2020年 3月 
+国家高新技术企业 
+2 
+编号：GF201511000619，有效期至：2018年 9月 
+中关村高新技术企业 
+3 
+编号：20152010009701，有效期至：2018年 7月 
+资料来源：公司提供，联合信用整理 
+总体看，公司资质齐全，经营条件较好。 
+2．业务运作 
+公司成立以来一直从事通信行业大型计算
+机代理维护业务，代维服务主要分为硬件服务
+和软件服务。硬件服务主要包括：服务器和存
+储产品的安装、调试、动态分区、划分路径，
+服务器的虚拟化、微分区服务，服务器和存储
+产品的巡检、单次叫修服务，存储产品的逻辑
+配置服务，服务器和存储产品的维保服务等。
+软件服务包括：软件系统、软件、中间件、数
+据库的安装、调试、补丁升级、备份等项目的
+设计和实施；紧急问题诊断和修复服务；相关
+培训和技术交流服务以及系统整体（软件、硬
+件）的单点故障排查服务等。 
+采购方面，公司主要采购机房零配件，根
+据机房现场实际需要向客户报备后由公司进行
+垫付，结算方式一般为现款现货或货到付款。 
+销售方面，公司主要面向通信行业客户提
+供服务，其中联通系统集成有限公司为主要服
+务对象，业务区域以北京为主。公司主要通过
+投标的方式获得项目。回款方面，客户要求公
+司每年参与投标，签订一年期的服务合同，合
+同期末客户支付服务费和公司采购垫付款。公
+司代维业务的回款方式给公司造成了一定的资
+金压力。 
+总体看，公司目前已拥有较为稳定的客户
+渠道，但客户集中度高，回款较慢，公司面临
+一定的垫资压力。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 99.42 99.46 99.35 
+管理费用率(%) 32.22 24.35 25.68 
+应收账款周转次数(次) 1.50 2.12 3.14 
+存货周转次数(次) 0.23 4.37 17.34 
+总资产周转次数(次) 0.52 0.71 1.09 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率波动较小，始终处于
+行业高水平，主要是代维业务市场竞争激烈，
+服务收费较低，且人工成本较高所致；同期，
+管理费用率整体呈下降趋势，管理费用控制较
+好。 
+近三年，公司应收账款周转次数呈上升趋
+势，但仍处于行业低水平，主要是由于客户付
+款政策导致回款周期较长；同期，存货周转次
+数呈上升趋势，处于行业一般水平；同期，总
+资产周转次数呈上升趋势，处于行业较低水平。 
+总体看，公司整体经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会由全体股东组成，是公司的权力机
+构，行使决定公司的经营方针和投资计划、审
+议批准执行董事和监事的报告、审议批准公司
+不设董事会，设执行董事 1人，行使召集股东
+会并向股东会报告工作、执行股东会决议、决
+定公司的经营计划和投资方案等职权；公司不
+设监事会，设监事 1人，行使检查公司财务、
+对执行董事和高级管理人员执行公司职务的行
+为进行监督等职权。 
+公司设总经理 1名，行使主持公司的生产
+经营管理工作、组织实施公司年度经营计划和
+投资方案等职权。 
+公司内设行政管理财务部、人力资源培训
+部、市场招聘部、代维工程师部（含一部、二
+部）、节能产品研发部、节能产品技术支持部、
+节能产品市场部。各部门职责明确，协作有序。 
+总体看，公司法人治理结构简单，组织架
+构清晰，部门设置合理。 
+2．制度建设及执行 
+根据内部管理需求，公司制定了《财务管
+理制度》、《考勤管理制度》、《出差管理制度》、
+《固定资产管理制度》、《车辆管理制度》等制
+度，并通过了 ISO 9001：2008质量管理体系认
+证（有效期至 2018年 7月），进一步规范了公
+司内部运作流程。在实际经营中，公司严格按
+照相关管理制度及操作规程执行。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016年将实现营业收入 4000.00
+万元，净利润 20.00万元；预计 2016年底公司
+资产总额 3408.27万元，负债总额 400.00万元，
+所有者权益 3008.27万元。相比 2015年，联合
+信用预计公司 2016年营业收入增长 13.52%，
+负债率变动幅度为 1.13%，净资产收益率变动
+幅度为 0.10%。 
+总体看，联合信用预测公司短期内业务发
+展较好。 
+2．融资需求 
+截至评级时点，公司暂无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京斯普信信息技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 3450.26 万
+元、3138.45万元、3342.70万元，复合变动率
+为-1.57%。 
+截至2016年9月底，公司资产总额4274.48
+万元，其中：流动资产占比 90.16%，非流动资
+产占比 9.84%。 
+截至2016年9月底，公司流动资产3854.05
+万元，其中：货币资金 2910.36 万元，占比
+75.51%；应收账款 862.73万元，占比 22.38%，
+主要为应收联通系统集成有限公司、中网威信
+电子安全服务有限公司等的服务款，账龄全部
+在 1年以内。 
+图 1  公司 2016年 9月底流动资产构成图 
+截至 2016 年 9 月底，公司非流动资产
+420.43万元，其中：固定资产净额 264.89万元，
+占比 63.00%，主要为运输工具、办公设备等；
+无形资产 155.54 万元，占比 37.00%，为购买
+的办公软件。 
+总体看，公司资产流动性较好，资产质量
+较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，2016年 9月底，
+公司流动比率和速动比率均为 301.71%，均处
+于行业较高水平，2015 年现金流动负债比为
+-108.13%，经营活动产生的现金流不能对流动
+负债提供保障，公司短期偿债能力一般。 
+从长期偿债能力指标看，近三年，公司
+EBITDA值分别为 9.97万元、86.81万元、75.11
+万元，公司长期偿债能力一般。 
+总体看，公司未来一年内整体偿债能力一
+般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 9.64%、
+0.38%、10.60%，呈上升趋势；同期，全部债
+务资本化比率分别为 8.78%、0.00%、0.00%。
+2016 年 9 月底，公司资产负债率为 29.88%，
+公司负债水平一般，无有息债务。 
+近三年，公司负债总额分别为332.58万元、
+11.92万元、354.43万元，复合增长率为 3.23%，
+整体呈上升趋势。 
+截至2016年9月底，公司负债总额1277.40
+万元，全部为流动负债，其中：应付账款 124.98
+万元，占比 9.78%，主要为应付北京裕宁博通
+科技有限公司、大连金鹰有限公司等的采购款；
+其他应付款 159.80 万元，占比 12.51%，为与
+北京胜昔嘉业科技有限公司的往来款；其他流
+动负债 980.00 万元，占比 76.72%，为预提费
+用。 
+图 2  公司 2016年 9月底流动负债构成图 
+近三年，公司所有者权益分别为 3117.68
+万元、3126.54万元、2988.27万元，复合变动
+率为-2.10%。近三年，公司有过利润分配。 
+截至 2016 年 9 月底，公司所有者权益为
+2997.08万元，其中：实收资本 2000.00万元，
+占比 66.73%；未分配利润 997.08 万元，占比
+33.27%。公司所有者权益对债务保障能力强。 
+总体看，公司负债水平一般，无有息债务，
+所有者权益对债务保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 1711.29 万
+元、2334.00万元、3523.62万元，复合增长率
+为 43.49%，增长较快；同期，利润总额分别为
+9.87万元、12.40万元、23.05万元，复合增长
+率为 52.77%，期间费用相对下降是其增长较快
+的主要原因。 
+近三年，公司主营业务利润率分别为
+92.71%、30.59%、28.40%，呈下降趋势，目前
+已降至行业较低水平；同期，总资产报酬率分
+别为 0.30%、1.41%、0.71%，加权平均值为
+0.84%，处于行业低水平；同期，净资产收益
+率分别为 0.24%、0.28%、0.57%，加权平均值
+为 0.41%，处于行业较低水平。公司盈利能力
+较弱。 
+图 3  公司近三年盈利能力指标变动趋势图 
+从收入实现质量看，近三年，公司现金收
+入比分别为 133.90%、108.33%、93.38%，加权
+平均值为 105.97%，处于行业较高水平。 
+总体看，公司盈利能力较弱，收入实现质
+量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京斯普信信息技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司存在行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司所处行业竞争激烈，盈利空间较
+小，且人工成本高，公司盈利能力较弱。 
+（2）公司代维业务客户以联通为主，客户
+集中度高。 
+（3）公司代维业务需前期垫资，下游客户
+比较强势，回款较慢，存在一定的垫资压力。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京斯普信信息技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>3450.26 </enterprise:资产总额>
+    <enterprise:所有者权益>3117.68 </enterprise:所有者权益>
+    <enterprise:负债总额>332.58 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>9.97 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京斯普信信息技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>3138.44 </enterprise:资产总额>
+    <enterprise:所有者权益>3126.54 </enterprise:所有者权益>
+    <enterprise:负债总额>62.08 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>86.81 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京斯普信信息技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>3342.70 </enterprise:资产总额>
+    <enterprise:所有者权益>2988.27 </enterprise:所有者权益>
+    <enterprise:负债总额>354.44 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>75.11 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京斯普信信息技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.52 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.50 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.23 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京斯普信信息技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.71 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.37 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京斯普信信息技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.09 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.14 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>17.34 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京斯普信信息技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-37.08 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京斯普信信息技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-56.29 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京斯普信信息技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-87.29 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京斯普信信息技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>937.82 </enterprise:流动比率>
+    <enterprise:速动比率>790.71 </enterprise:速动比率>
+    <enterprise:资产负债率>9.64 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京斯普信信息技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>6452.46 </enterprise:流动比率>
+    <enterprise:速动比率>5771.74 </enterprise:速动比率>
+    <enterprise:资产负债率>1.98 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>2.56 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京斯普信信息技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>857.61 </enterprise:流动比率>
+    <enterprise:速动比率>854.67 </enterprise:速动比率>
+    <enterprise:资产负债率>10.60 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京斯普信信息技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-100.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>133.90 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>227.24 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>8.78 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京斯普信信息技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-100.01 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>108.33 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>117.45 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京斯普信信息技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-100.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>93.38 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-108.13 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京斯普信信息技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>447.25 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>997.33 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>392.57 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>626.53 </enterprise:其他应收款>
+    <enterprise:存货>458.37 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2922.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>478.21 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>50.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>528.21 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3450.26 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京斯普信信息技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>195.49 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1199.66 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>293.68 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>660.72 </enterprise:其他应收款>
+    <enterprise:存货>279.64 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>21.48 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2650.67 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>437.77 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>50.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>487.77 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3138.44 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京斯普信信息技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1374.15 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1043.18 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>587.97 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>24.00 </enterprise:其他应收款>
+    <enterprise:存货>10.43 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3039.73 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>268.79 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>34.18 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>302.97 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3342.70 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京斯普信信息技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>16.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>25.08 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>41.08 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>21.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>21.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>62.08 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1126.54 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3126.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3126.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3188.62 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京斯普信信息技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>16.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>25.08 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>41.08 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>21.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>21.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>62.08 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1126.54 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3126.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3126.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3188.62 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京斯普信信息技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>175.50 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>19.14 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>159.80 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>354.44 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>354.44 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>988.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2988.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2988.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3342.71 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京斯普信信息技术有限公司2013年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>118.07 </enterprise:营业成本>
+    <enterprise:主营业务成本>118.07 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>6.72 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1028.55 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>548.15 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.08 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-1153.42 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-1153.42 </enterprise:利润总额>
+    <enterprise:所得税费用>2.54 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-1155.96 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-1155.96 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京斯普信信息技术有限公司2014年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1612.81 </enterprise:营业成本>
+    <enterprise:主营业务成本>1612.81 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>7.32 </enterprise:营业税金及附加>
+    <enterprise:销售费用>102.21 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>565.23 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>33.94 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-1756.28 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.09 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-1756.37 </enterprise:利润总额>
+    <enterprise:所得税费用>3.54 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-1759.91 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-1759.91 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京斯普信信息技术有限公司2015年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2514.51 </enterprise:营业成本>
+    <enterprise:主营业务成本>2514.51 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>8.40 </enterprise:营业税金及附加>
+    <enterprise:销售费用>79.26 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>898.88 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.46 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-2602.63 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-2602.63 </enterprise:利润总额>
+    <enterprise:所得税费用>5.76 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-2608.39 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-2608.39 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京斯普信信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2291.41 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>171.87 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2463.28 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>343.64  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1176.45 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>235.17 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1755.26 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>708.02 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>307.53 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>307.53 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-307.53 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>321.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>321.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>321.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>721.49 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京斯普信信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2528.46 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2528.46 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1573.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>410.77 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>96.79 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>399.65 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2480.21 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>48.25 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>399.65 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>399.65 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-399.65 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>300.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>300.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-300.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-651.40 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京斯普信信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3290.21 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3290.21 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2572.53  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>140.19 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>57.18 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>903.55 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3673.45 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-383.24 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.77 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>903.55 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>904.32 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-904.32 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>70.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>70.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-70.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1357.56 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京斯普信信息技术有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京斯普信信息技术有限公司股东：北京斯普信节能技术有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京斯普信节能技术有限公司 </enterprise:股东名称>
+	 <enterprise:货币>1,800.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>90.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京斯普信信息技术有限公司股东：李彬 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李彬 </enterprise:股东名称>
+	 <enterprise:货币>200.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京斯普信信息技术有限公司的商标信息：斯普信">
+	<enterprise:有申请日期>11-4-2</enterprise:有申请日期>
+	<enterprise:有商标名称>斯普信</enterprise:有商标名称>
+	<enterprise:有注册号>9299337</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京斯普信信息技术有限公司的商标信息：斯普信">
+	<enterprise:有申请日期>11-4-2</enterprise:有申请日期>
+	<enterprise:有商标名称>斯普信</enterprise:有商标名称>
+	<enterprise:有注册号>9299300</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京斯普信信息技术有限公司的商标信息：斯普信">
+	<enterprise:有申请日期>11-4-2</enterprise:有申请日期>
+	<enterprise:有商标名称>斯普信</enterprise:有商标名称>
+	<enterprise:有注册号>9299322</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京斯普信信息技术有限公司的商标信息：斯普信">
+	<enterprise:有申请日期>11-4-2</enterprise:有申请日期>
+	<enterprise:有商标名称>斯普信</enterprise:有商标名称>
+	<enterprise:有注册号>9299349</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：智能物业集中监控系统">
+	<enterprise:有批准日期>17-9-1</enterprise:有批准日期>
+	<enterprise:有软件全称>智能物业集中监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR484258</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：能耗综合管理系统">
+	<enterprise:有批准日期>16-4-28</enterprise:有批准日期>
+	<enterprise:有软件全称>能耗综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR089655</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：基因检测管理系统">
+	<enterprise:有批准日期>15-1-21</enterprise:有批准日期>
+	<enterprise:有软件全称>基因检测管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR011932</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：翻译公司管理系统">
+	<enterprise:有批准日期>15-1-21</enterprise:有批准日期>
+	<enterprise:有软件全称>翻译公司管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR011878</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：能耗综合管理系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>能耗综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008753</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：公交服务质量监督管理系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>公交服务质量监督管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008717</enterprise:有登记号>
+	<enterprise:有分类号>30211-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：称重管理系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>称重管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008748</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：车载体积测量管理系统">
+	<enterprise:有批准日期>15-1-21</enterprise:有批准日期>
+	<enterprise:有软件全称>车载体积测量管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR011862</enterprise:有登记号>
+	<enterprise:有分类号>30200-3700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：基站新风节能监控系统">
+	<enterprise:有批准日期>11-12-29</enterprise:有批准日期>
+	<enterprise:有软件全称>基站新风节能监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ5018</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：基站热管节能监控系统">
+	<enterprise:有批准日期>11-12-29</enterprise:有批准日期>
+	<enterprise:有软件全称>基站热管节能监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ5016</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京斯普信信息技术有限公司的软件著作：空调制冷设备云管理系统">
+	<enterprise:有批准日期>11-12-29</enterprise:有批准日期>
+	<enterprise:有软件全称>空调制冷设备云管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ5017</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京斯普信信息技术有限公司的网站备案：北京斯普信信息技术有限公司">
+	<enterprise:有审核时间>14-11-4</enterprise:有审核时间>
+	<enterprise:有网站全称>北京斯普信信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sup-info.cn</enterprise:有网站首页>
+	<enterprise:有域名>sup-info.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14022647号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京斯普信信息技术有限公司的网站备案：北京斯普信信息技术有限公司">
+	<enterprise:有审核时间>14-11-4</enterprise:有审核时间>
+	<enterprise:有网站全称>北京斯普信信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sup-info.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>sup-info.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14022647号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京斯普信信息技术有限公司的员工基本信息">
+	<enterprise:有从业人数>202</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:155,25岁以下:29,45岁以上:18</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:177,高中及以下:0,专科:25</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:23,技术人员:167,作业人员:12</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:201人,未参加:1人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京斯普信信息技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未发生变化</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京斯普信信息技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>联通系统集成有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>近三年，公司营业收入呈上升趋势</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京斯普信信息技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>竞争激烈</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京斯普信信息技术有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京斯普信信息技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 市场需求较大。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京斯普信信息技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京斯普信信息技术有限公司的企业法人代表：李彬">
+	<enterprise:名称>李彬</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>43岁</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1973.2</enterprise:出生年月>
+	<enterprise:身份证号码>372425197302210019</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2008.5至今 公司 总经理 
+2005.5至 2008.5 神州数码系统集成有限公司 销售总监 
+— 浪潮产业信息技术有限公司 — 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京斯普信信息技术有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京斯普信信息技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京斯普信信息技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京斯普信信息技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京斯普信信息技术有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京斯普信信息技术有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>20.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京斯普信信息技术有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京斯普信信息技术有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京斯普信信息技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>6</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京斯普信信息技术有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京斯普信信息技术有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>2</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

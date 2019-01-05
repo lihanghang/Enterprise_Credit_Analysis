@@ -1,0 +1,1065 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京金良安科技有限公司的企业概况">
+    <enterprise:有名称>北京金良安科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行阜裕支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>68</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004.01.12</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2034.01.11</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务、技术推广；计算机系统服务；销售计算机、软件及辅助设备、通讯设备、机械设备、电子产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务、技术推广；计算机系统服务；销售计算机、软件及辅助设备、通讯设备、机械设备、电子产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>、粮食数量监测系统</enterprise:有主营业务>
+    <enterprise:有行业分类>粮食信息化行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地信息路1号金远见大厦510室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地信息路1号金远见大厦510室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>王利清</enterprise:有联系人>
+    <enterprise:有联系电话>010-88152706</enterprise:有联系电话>
+    <enterprise:有传真电话>010-88152709-8011</enterprise:有传真电话>
+    <enterprise:有E-mail>wanglq@bjggs.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>http://www.bjggs.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>基本情况
+良安科技成立于2004年01月，注册机关为
+北京市工商行政管理局海淀分局，注册地址及
+办公地址均位于北京市海淀区上地信息路1号金
+远见大厦510室，公司注册资本1,000万元，法
+定代表人余汉印，经营性质为私营企业。公司
+主营业务为提供绿色智能储粮技术产品及服务
+。
+公司目前拥有的资质及通过的认证包括：
+国家高新技术企业认证、ISO9001质量管理体系
+认证等。
+截至2015年12月31日，公司资产总额935.1
+5万元，负债总额535.26万元，净资产399.89万
+元，固定资产净额15.63万元。2015年，公司实
+现营业收入1,277.44万元，利润总额19.24万元
+，净利润17.32万元，经营性净现金流124.21万
+元。
+截至2016年6月30日，公司资产总额4,216.
+87万元，负债总额3,410.96万元，净资产805.9
+1万元，固定资产净额17.38万元。2016年1至6
+月，公司实现营业收入2,996.81万元，利润总
+额554.64万元，净利润414.64万元。
+股权结构
+截至2016年6月30日，公司股权结构为余汉
+印持股85%、王邦珍持股8.55%、罗正啟持股6.4
+5%，出资形式均为货币出资。
+历史沿革
+公司成立于2004年1月，由自然人王邦珍和
+罗正啟共同出资组建，初始注册资本400万元。
+2015年8月,公司引入新股东自然人余汉印,注册
+资本增至1,000万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京金良安科技有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>公司在职员工合计68人，具体人员构成情
+况如表2所示。
+表2从业人员情况
+岗位构成 学历构成
+岗位 人数 学历 人数
+管理人员 10 本科及以上 15
+技术人员 33 专科 33
+作业人员 25 高中及以下 20
+资料来源：公司提供
+公司人员构成符合经营特征，员工规模和
+素质能够满足目前经营需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>与研发成果
+公司成立至今，一直服务于粮食及战略物
+资行业，员工40%以上人员来自粮食院校相关行
+业，积累了较丰富的科技储粮经验和技术人才
+。
+公司是国家高新技术企业，已取得三项中
+储粮入围资质、十余项自主软件产品、两项实
+用新型专利产品。
+公司重视研发投入，拥有一定数量的自主
+知识产权产品，研发能力尚可。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京金良安科技有限公司的经营管理">
+    <enterprise:其经营分析为>1、产品
+公司主营业务为提供绿色智能储粮技术产
+品及服务。公司产品以测温技术为核心，智能
+化温控为手段，结合粮食质量和粮食安全检测
+体系，已经形成了具有自主技术和符合行业标
+准的八大科技储粮系列产品，分为：粮情检测
+系统、内环流控温系统、智能通风系统、智能
+出入库系统、气体浓度检测系统、虫害检测系
+统、智能安防监控系统、智能仓房一体化系统
+。
+公司可依据各地粮库级别分为中央、省、
+地市、县以及乡镇为客户提供因地制宜的定制
+化粮库信息化管理解决方案，并向客户提供一
+定的运维服务。
+公司收入主要来源于粮情检测系统及内环
+流控温系统两种产品，近三年营业收入分别是5
+85.46万元、988.73万元、1,277.44万元，业务
+发展速度较快。
+2、供应
+公司采购材料原则为以销定产，销售计划
+则依托于甲方需求安排。公司与主要供应商均
+为长期合作关系，能够保证稳定供货，且有质
+量保障。公司与供应商的主要结算方式为签订
+采购合同后先支付一定比例的预付款，到货以
+后付款至60%-
+80%，余下尾款项目验收完毕后结清，多数供应
+商可为公司提供45-90天期限的账期。
+近几年，公司所采购设备价格变动涨幅不
+大，采购数量也相对稳定，基本可以保证存货
+的需求。由于公司所采购设备为常用电子设备
+，市场供应量较为充足，所以公司对供应商的
+依赖程度不高，同时具有较强的议价能力。
+3、销售
+公司的主要销售方式为参与招投标和直销
+，销售区域为全国。公司已入围中储粮服务网
+协议采购供应商名单，并多次在粮库信息化管
+理政府采购项目中标，产品具备一定的竞争实
+力，主要终端客户为中粮集团和中储粮等大型
+央企在各省市的各个粮库。
+公司产品平均售价在2-
+5万元，平均回款周期在6个月左右，与客户的
+结算方式一般分为预付款30%、验收款50%-
+60%和10%-
+20%的1年质保金。公司客户质量较好，对回款
+有一定的保障作用，但多数需要公司先行垫资
+，如遇单笔订单金额较大或项目周期较长，会
+造成公司短期资金周转存在一定压力。
+总体而言，公司进入粮库信息化行业时间
+较长，供销渠道稳定，技术研发水平尚可。但
+公司项目回款时间较长，若有大额订单或将导
+致一段时间内公司收支不平衡，对短期现金流
+产生一定的影响。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1.治理机制
+公司根据《中华人民共和国公司法》及有
+关法律规定制定公司章程，公司设置股东会，
+股东
+由全体股东组成是公司的权力机构；公司不设
+董事会，设执行董事一人，为公司的法定代表
+人，由股东会选举产生；公司设经理，由执行
+董事决定聘任或解聘；公司不设监事会，设监
+事一人。
+公司实行董事会领导下的总经理负责制的
+管理方式，下设行政中心、财务中心、产品中
+心、研发中心、营销中心和商务中心，各部门
+分工明确、协作有序。
+总体看，公司机构设置合理，部门分工明
+确，治理机制能够满足公司现阶段正常运营和 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>需要。
+2.内控制度
+公司建立了较完善规范的制度管理体系，
+公司制订了一系列内部管理制度，包括《发票
+管理制度》、《投标保证金管理办法》、《人
+事管理制度（试行）办法》、《加班管理实施
+细则》、《外出工作人员考勤细则》、《工资
+管理条例》等，均具有较好的可操作性。
+总体而言，公司内控制度涉及运营的各个
+方面，具有较强的可执行性，能够保障公司现
+阶段正常运营。
+经营效率
+公司2013-
+2015年的总资产增长率、总资产周转率、流动
+资产周转率、应收账款周转率和存货周转率如
+下表所示。
+表3 公司资产运营效率衡量指标
+　 2013年 2014年 2015年
+总资产增长率 - 24.86% 30.16%
+总资产周转率 101.75% 152.84% 154.50%
+流动资产周转率 104.93% 157.01% 157.61%
+应收账款周转率 619.32% 406.25% 334.37%
+存货周转率 - 1956.42% 9343.93%
+公司2015年资产运营效率衡量指标整体较2
+014年有所提升，处于行业内平均水平，其中总
+资产增长率、存货周转率处于行业较好水平；
+总资产周转率、流动资产周转率及应收账款周
+转率处于行业平均水平。
+公司经营效率尚可，有一定成长性。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京金良安科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-2015年末，公司
+资产规模分别是575.38万元、718.44万元
+和935.15万元，同期流动资产分别为557.97万
+元、701.51万元和919.52万元，占资产总额的9
+6.97%、97.64%、98.33%，占比较稳定。公司20
+13-2015年末资产结构变化情况如图1所示。
+图1 2013-2015年末公司资产结构变化
+2015年末公司流动资产主要由货币资金及
+应收账款构成。2015年末公司流动资产构成如
+图2所示。
+图2 2015年末公司流动资产构成图
+其中货币资金404.10万元，主要为银行存
+款及现金；应收账款371.86万元，账龄均在一
+年以内，但公司未计提坏账准备，存在一定坏
+账风险。
+截至2016年6月底，公司资产总额4,216.87
+万元，其中应收账款3,226.40万元，由于业务
+量增长，导致应收账款大幅增长。
+总体看，公司应收账款占比较高，整体资
+产质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>表6公司偿债能力衡量指标
+时间 2013年 2014年 2015年
+流动比率 2.82 2.09 1.72 
+速动比率 2.46 2.03 1.72 
+现金流动负债比 22.56% -4.39% 23.21%
+资产负债率 34.37% 46.62% 57.24%
+EBITDA利息保障倍数 -5.09 -40.71 -92.79 
+债务保障倍数 - - -
+现金负债总额比 22.56% -4.39% 23.21%
+2015年，公司速动比率、资产负债率均处于行
+业良好水平。公司无有息负债。从短期看，公
+司速动比率高于行业优秀值，对短期债务构成
+一定支撑，但现金流动负债比指标表现一般，
+经营活动产生的现金对流动负债的保障程度一
+般；从长期看，EBITDA利息保障倍数、现金负
+债总额比表现尚可。
+总体而言，公司偿债能力尚可。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年末，公司负债规模分别是197.73万元、3
+34.95万元和535.26万元。公司2013-
+2015年末负债结构变化如图3所示。
+图3 2013-2015年末公司负债结构变化图
+截至2015年末，公司负债全部为流动负债
+，流动负债主要由预收款项、应付账款和其他
+应付款构成。公司2015年末流动负债构成情况
+图4所示。
+图4 2015年末公司流动负债构成图
+其中预收账款284.98万元，主要是预收客
+户货款；应付账款123.90万元，主要为应付供
+应商货款；其他应付款117.67万元，主要为与
+股东之间往来款。
+截至2016年6月，公司负债总额3,410.96万
+元，业务量增长导致公司资金周转压力增大，
+公司通过向银行借款500万元，缓解资金周转压
+力。
+近三年，公司未分配利润分别为-
+22.35万元、-16.51万元、-
+0.11万元，利润积累能力较差，权益结构对债
+权人债务的保护程度较低。
+公司目前无对外担保情况。
+总体来看，公司财务构成基本合理，财务
+弹性一般。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-2015年公司盈利情况如图5所示。
+图5 2013-2015年末公司盈利情况分布图
+公司盈利能力衡量指标如表5所示
+表5 公司盈利能力衡量指标
+　 2013年 2014年 2015年
+营业收入增长率 - 68.88% 29.20%
+营业利润率 0.18% 0.68% 1.51%
+总资产报酬率 0.19% 1.13% 2.33%
+净资产收益率 0.21% 1.73% 4.42%
+2015年，除营业收入增长率外，公司各项</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京金良安科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>目前公司无信用风险与合规性风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>目前粮食信息化行业无政策和市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司应收账款回款周期较长，存在一定资
+金压力。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司开展业务多数需先行垫资，如遇单笔
+订单金额较大或项目周期较长，会造成公司短
+期资金周转存在一定压力。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京金良安科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>575.38 </enterprise:资产总额>
+    <enterprise:所有者权益>377.65 </enterprise:所有者权益>
+    <enterprise:负债总额>197.74 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>585.46 </enterprise:营业收入>
+    <enterprise:EBITDA>1.08 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金良安科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>718.44 </enterprise:资产总额>
+    <enterprise:所有者权益>383.49 </enterprise:所有者权益>
+    <enterprise:负债总额>334.94 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>988.73 </enterprise:营业收入>
+    <enterprise:EBITDA>7.30 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金良安科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>935.15 </enterprise:资产总额>
+    <enterprise:所有者权益>399.89 </enterprise:所有者权益>
+    <enterprise:负债总额>535.26 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1277.44 </enterprise:营业收入>
+    <enterprise:EBITDA>19.24 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京金良安科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.02 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.19 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>-</enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金良安科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.53 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.06 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>19.56 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金良安科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.54 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.34 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>93.44 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金良安科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>12.41 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金良安科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>12.22 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金良安科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>64.41 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金良安科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>282.17 </enterprise:流动比率>
+    <enterprise:速动比率>246.34 </enterprise:速动比率>
+    <enterprise:资产负债率>34.37 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金良安科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>209.44 </enterprise:流动比率>
+    <enterprise:速动比率>203.44 </enterprise:速动比率>
+    <enterprise:资产负债率>46.62 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金良安科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>171.79 </enterprise:流动比率>
+    <enterprise:速动比率>171.79 </enterprise:速动比率>
+    <enterprise:资产负债率>57.24 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京金良安科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>1.05 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>15.37 </enterprise:毛利率>
+    <enterprise:成本费用利润率>8.76 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.99 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>22.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金良安科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.57 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>10.01 </enterprise:毛利率>
+    <enterprise:成本费用利润率>5.05 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.66 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-4.39 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>4.60 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金良安科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>1.58 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>26.45 </enterprise:毛利率>
+    <enterprise:成本费用利润率>25.49 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.13 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>23.21 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>22.74 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京金良安科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>301.05 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>94.53 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>83.20 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4.83 </enterprise:其他应收款>
+    <enterprise:存货>70.84 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>3.51 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>557.96 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>17.42 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>17.42 </enterprise:非流动资产合计>
+    <enterprise:资产总计>575.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金良安科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>282.32 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>392.22 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.20 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>3.40 </enterprise:其他应收款>
+    <enterprise:存货>20.11 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>3.26 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>701.51 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>16.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>16.93 </enterprise:非流动资产合计>
+    <enterprise:资产总计>718.44 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金良安科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>404.10 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>371.86 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1.05 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>128.63 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>13.88 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>919.52 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>15.63 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>15.63 </enterprise:非流动资产合计>
+    <enterprise:资产总计>935.15 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金良安科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>174.65 </enterprise:应付账款>
+    <enterprise:预收款项>136.76 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>5.03 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>18.50 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>334.94 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>334.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-16.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>383.49 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>383.49 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>718.43 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金良安科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>174.65 </enterprise:应付账款>
+    <enterprise:预收款项>136.76 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>5.03 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>18.50 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>334.94 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>334.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-16.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>383.49 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>383.49 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>718.43 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金良安科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>123.90 </enterprise:应付账款>
+    <enterprise:预收款项>284.98 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>8.71 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>117.67 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>535.26 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>535.26 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-0.11 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>399.89 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>399.89 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>935.15 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京金良安科技有限公司2013年利润表">
+    <enterprise:营业收入>585.46 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>495.49 </enterprise:营业成本>
+    <enterprise:主营业务成本>495.49 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>7.22 </enterprise:营业税金及附加>
+    <enterprise:销售费用>35.82 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>46.06 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.21 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>47.14 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>47.14 </enterprise:利润总额>
+    <enterprise:所得税费用>0.27 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>46.87 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>46.87 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京金良安科技有限公司2014年利润表">
+    <enterprise:营业收入>988.73 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>889.72 </enterprise:营业成本>
+    <enterprise:主营业务成本>889.72 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>2.44 </enterprise:营业税金及附加>
+    <enterprise:销售费用>49.77 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>40.28 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.18 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>46.98 </enterprise:营业利润>
+    <enterprise:营业外收入>0.60 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>47.58 </enterprise:利润总额>
+    <enterprise:所得税费用>0.73 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>46.85 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>46.85 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京金良安科技有限公司2015年利润表">
+    <enterprise:营业收入>1277.44 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>939.53 </enterprise:营业成本>
+    <enterprise:主营业务成本>939.53 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.69 </enterprise:营业税金及附加>
+    <enterprise:销售费用>72.92 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>240.26 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.21 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>259.51 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>259.50 </enterprise:利润总额>
+    <enterprise:所得税费用>1.92 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>257.58 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>257.58 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京金良安科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>580.04 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>580.04 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>453.50  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>47.23 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>6.69 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>28.01 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>535.43 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>44.61 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>11.85 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>11.85 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-11.85 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>32.76 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京金良安科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>653.21 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>38.08 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>691.29 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>602.36  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>29.52 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>21.34 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>52.76 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>705.98 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-14.69 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.04 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.04 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.04 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-18.73 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京金良安科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1446.01 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>83.61 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1529.62 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>971.02  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>158.20 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2.01 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>274.18 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1405.41 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>124.21 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.43 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.43 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>121.78 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京金良安科技有限公司股东：余汉印 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>余汉印 </enterprise:股东名称>
+	 <enterprise:货币>2,550.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>85.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金良安科技有限公司股东：王邦珍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王邦珍 </enterprise:股东名称>
+	 <enterprise:货币>256.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>8.55%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金良安科技有限公司股东：罗正啟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>罗正啟 </enterprise:股东名称>
+	 <enterprise:货币>193.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>6.45%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京金良安科技有限公司的商标信息：良安">
+	<enterprise:有申请日期>17-4-13</enterprise:有申请日期>
+	<enterprise:有商标名称>良安</enterprise:有商标名称>
+	<enterprise:有注册号>23570387</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金良安科技有限公司的商标信息：良安">
+	<enterprise:有申请日期>17-1-20</enterprise:有申请日期>
+	<enterprise:有商标名称>良安</enterprise:有商标名称>
+	<enterprise:有注册号>22694662</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金良安科技有限公司的商标信息：金良安">
+	<enterprise:有申请日期>15-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>金良安</enterprise:有商标名称>
+	<enterprise:有注册号>18238236</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金良安科技有限公司的商标信息：GGS">
+	<enterprise:有申请日期>15-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>GGS</enterprise:有商标名称>
+	<enterprise:有注册号>18238234</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金良安科技有限公司的商标信息：良安">
+	<enterprise:有申请日期>15-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>良安</enterprise:有商标名称>
+	<enterprise:有注册号>18238235</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京金良安科技有限公司的专利信息：一种门窗的电动和手动可分离执行机构">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种门窗的电动和手动可分离执行机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620644290.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205805279U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金良安科技有限公司的专利信息：一种储粮仓自动控制装置及其自动控制方法">
+	<enterprise:有申请公布日>16-10-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种储粮仓自动控制装置及其自动控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610389555.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106034579A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金良安科技有限公司的专利信息：智能仓储控制系统">
+	<enterprise:有申请公布日>16-8-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能仓储控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620238992.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205485413U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金良安科技有限公司的专利信息：基于ARM控制器的仓储用测控装置">
+	<enterprise:有申请公布日>16-8-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于ARM控制器的仓储用测控装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620224630.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205485594U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京金良安科技有限公司的专利信息：一种手持测温仪">
+	<enterprise:有申请公布日>16-7-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种手持测温仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620155782.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205403970U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:员工基本信息 rdf:ID="北京金良安科技有限公司的员工基本信息">
+	<enterprise:有从业人数>68</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:55,25岁以下:10,45岁以上:3</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:15,高中及以下:20,专科:33</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:10,技术人员:33,作业人员:25</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:45人,未参加:15人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京金良安科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>业务量增长，产品种类不断丰富</enterprise:主营业务具体情况>
+</enterprise:外部经营环境 >
+<enterprise:主要客户及经营情况    rdf:ID="北京金良安科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中央储备粮东营直属库、中央储备粮呼和浩特直属库等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>正常经营</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京金良安科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>行业内竞争日趋激烈，市场不断成熟，行业利润率有所降低</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京金良安科技有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京金良安科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>
+我国粮食仓储信息化产业将在政策推动、企业需求和技术发展的带动下，呈现快速发展的趋
+势，市场前景比较乐观。   
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京金良安科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京金良安科技有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京金良安科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税17%、6%企业所得税15%，城建税7%</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>上年末应交额</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2.经营性负债偿付情况</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京金良安科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>额</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京金良安科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>信用网查询记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>正常</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>互联网查询情况</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>正常</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京金良安科技有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金良安科技有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金良安科技有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>8,000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2,000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>6,000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额></enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额></enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京金良安科技有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额></enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+</rdf:RDF>

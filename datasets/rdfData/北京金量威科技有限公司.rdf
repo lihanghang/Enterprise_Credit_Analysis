@@ -1,0 +1,1279 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京金量威科技有限公司的企业概况">
+    <enterprise:有名称>北京金量威科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局石景山分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国民生银行北京万寿路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2002年4月22日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>专业承包；工程设计（工程设计与施工资质证书有效期至2018年10月18日）；技术开发；家居装饰；计算机系统服务；销售通讯设备、计算机、软件及辅助设备、电子产品、日用品、五金；经济贸易咨询；计算机系统集成。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)专业承包；工程设计（工程设计与施工资质证书有效期至2018年10月18日）；技术开发；家居装饰；计算机系统服务；销售通讯设备、计算机、软件及辅助设备、电子产品、日用品、五金；经济贸易咨询；计算机系统集成。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>安防系统工程设计与施工、电信运营商体验中心设计与承建、软件开发</enterprise:有主营业务>
+    <enterprise:有行业分类>计算机软件</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市石景山区古城西街19号研发生产楼B座七层708室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市石景山区古城西街19号研发生产楼B座七层东侧</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100043</enterprise:有邮政编码>
+    <enterprise:有联系人>联系电话</enterprise:有联系人>
+    <enterprise:有联系电话>01059420019</enterprise:有联系电话>
+    <enterprise:有传真电话>Email</enterprise:有传真电话>
+    <enterprise:有E-mail>网址</enterprise:有E-mail>
+    <enterprise:有网址>北京金量威科技有限公司</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京金量威科技有限公司（以下简称“
+金量威”或“公司”）注册成立于2002年4月
+22日，初始注册资金50万元，分别由汪萍、
+陆守光等两位自然人股东出资设立，后经过
+多次增资以及股权变更，目前公司注册资本
+为2000万元，注册地址为北京市石景山区古
+城西街19号研发生产楼B座七层708室，详细
+股东信息如下表所示：
+表1：目前公司股东信息
+出资比例（%
+股东名称 出资金额（万元）
+）
+陆守光 800.00 40.00
+陆守兵 800.00 40.00
+王  磊 400.00 20.00
+合  计 2000.00 100.00
+数据来源：公司提供，东方金诚整理
+公司是一家致力于软件信息服务行业的高
+新技术企业，主要为市场上各类企业提供全面
+的信息系统集成解决方案，同时也提供相关的
+信息类增值服务。目前，公司具体的服务项目
+为智能化解决方案软件平台的建设，以及各类
+信息智能化硬件设施的建设，其主要服务对象
+包括电信运营商、地产开发商、物业公司等。
+截至2015年末，公司资产总额2553.59万元
+，负债总额626.4万元，资产负债率24.53%。当
+年公司实现营业收入918.29万元，利润总额3.9
+2万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京金量威科技有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理人员具备良好的专业素养以
+及丰富的管理经验，为公司持续健康发展提供
+有力保障
+公司主要管理人员简介如下：
+陆守光先生，出生于1970年4月。毕业于中
+国人民大学国际贸易专业，研究生学历。1997-
+2003年，就职于北京华海讯通信设备有限公司
+，任通信事业部经理；2003-
+2008年，就职于日本京瓷--
+振华通信设备有限公司（KZC），任营业部部长
+，负责国内及南亚地区的市场和销售工作；200
+8年6月至今，担任公司法定代表人。
+柳运德先生，出生于1979年7月。毕业于北
+京军地专修学院，本科学历。2003-
+2006年，就职于北京金山股份有限公司网站组
+，担任网站编辑；2006-
+2008年，就职于盛大网络北京分公司，任产品
+经理；2008-
+2010年，就职于豆丁世纪（北京）网络技术有
+限公司，任高级产品经理；2010-
+2012年，就职于北京网元圣唐娱乐科技有限公
+司，任产品总监；2012-
+2014年，就职于金华长风信息技术有限公司北
+京分公司，任部门经理；2015年7月至今，在公
+司担任产品总监职务。
+贾学专先生，出生于1977年5月。毕业于北
+京大学计算机科学与应用系，研究生学历。200
+1-
+2002年，就职于美国冠远科技股份有限公司北
+京代表处软件开发部，任高级软件工程师；200
+2-
+2006年，就职于京瓷振华通信设备有限公司，
+任高级软件工程师、开发一课课长；2006-
+2008年，就职于SJC（中国）有限公司，在第四
+开发部（嵌入式软件部）担任副部长；2008-
+2015年，就职于日电（中国）有限公司，在流
+通服务开发事业部担任课长；2015年2月至今，
+在公司担任首席技术官（CTO）。
+林跃海先生，出生于1986年，毕业于福建
+莆田学院电子信息工程系，本科学历。2009-
+2012年，就职于上海盛大网络集团，任硬件工
+程师；2012年8月至今，在公司担任项目经理职
+务，主要负责参与运营商智慧城市体验厅统集
+成项目、地产商智慧小区弱电项目。
+总体来看，公司目前管理团队综合实力尚
+可，具备较好的行业经验和管理经验，为公司
+现有业务的开展提供了有力保障。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司研发人员多为同时掌握软件研发核心
+技术以及客户所处行业知识背景的复合型技术
+人才，能够满足公司现阶段研发需要
+经过多年的发展，公司组建了自己的研发
+团队，其中核心人员行业经验丰富、人才结构
+合理，详细信息如下所示：
+裴浩，2015年6月加入公司，担任JAVA 
+开发经理,BMS产品经理，JAVA方面，熟悉JAVA
+各种框架Struts、Spring、Hibernate、Web 
+Service、EJB等等。数据库方面熟悉Sybase、O
+racle、SQL Server、MySQL。J2EE 
+Server方面，熟悉Weblogic、Jboss、Tomcat、
+Jetty。客户端程序方面，熟悉Flex和Swing。
+管理方面，熟悉整个项目管理流程，包括CMMI
+敏捷开发，Scrum开发管理经验五年，行业经验
+十分丰富。
+任友，2011年6月进入公司，担任软件工程
+师职务，熟悉JAVA主流框架Struts、Spring、H
+ibernate、Seam、richface等，熟悉Linux平台
+的应用部署，做过Android、IOS原生开发，目
+前作为开发经理，负责需求分析，实现设计，
+主要开发与上线支持等。
+帅科，2012年2月进入公司，担任软件工程
+师职务，熟悉Oracle系统，了解SQL 
+Server、MySQL、JAVA以及主流框架Struts、Sp
+ring、Hibernate，同时熟悉Linux常用命令、
+熟习flex前端开发语言等，目前主要从事物流
+行业仓储系统的开发。
+陈凯，2013年5月加入公司，担任软件工程
+师职务，熟悉JAVA主流框架Struts、Spring、H
+ibernate，熟悉Linux平台tomcat部署、了解ne
+gix、sso等，使用过VB、PHP语言等，目前正在
+上海通用WMS系统开发及部分上线进行支持工作
+。
+公司核心研发人员同时具备软件研发核心
+技术以及客户所处行业知识，可以根据客户的
+特定化需求提供信息化服务，能够满足公司现
+阶段技术研发的需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，研发设备主要包括
+高频电机GPH3000、充电器CPH3000/2-
+12V、充电器CPH3000/480V/50A、放电机QL480V
+/100A、负载设备H2200C、稳压电源10060108-
+3等，目前基本能够满足现阶段公司科研发展的
+需求。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京金量威科技有限公司的经营管理">
+    <enterprise:其经营分析为>公司经营时间较长，在电信类软件开发及
+系统集成方面具有一定的竞争优势，同时也在
+积极拓展新的市场
+公司属于软件和信息技术服务业，目前核
+心业务是基于互联网和物联网应用的智慧社区
+的建设和运营。公司成立于2002年，自成立以
+来，重点围绕电信行业的通讯业务提供软件开
+发及系统集成服务。从技术服务角度看，该类
+业务的相关技术相对成熟，项目经验相对较多
+，以往与中国联通等通信运营商及其各地分公
+司的合作过程中，公司可以提供从项目方案设
+计到最后系统集成建设所有环节的服务。
+但是伴随着通讯业务的相对饱和，其增长
+潜力有限，同时公司开始积极开拓新市场，目
+前公司的战略方案是基于其相对成熟的软件开
+发、系统集成技术与行业经验，逐渐在智能建
+筑、物业智能化、O2O社区商业服务等领域展开
+业务，且未来计划将社区智能化服务作为公司
+发展的方向。目前，公司已经完成了相关的硬
+件设计以及各种软件平台、手机客户端的开发
+，业务正处于逐步推广的阶段。随着公司多元
+化战略的发展，其营业收入水平也有明显增长
+。
+图2：公司近三年主营业务收入（万元
+）
+数据来源：公司提供，东方金诚整理
+公司主营业务可以分为两类：智慧城市解
+决方案软件平台建设服务、智慧城市工程建设
+服务。其中，软件平台建设服务包括：一卡通
+（支付）平台、展厅业务管理平台、智慧物业
+管理平台等；而智慧工程建设包括：园区、社
+区楼宇智能化工程建设，以及智慧城市体验馆
+、展厅的建设。其下游客户主要为电信运营商
+、地产开发商等，公司与全国各地的电信运营
+商合作年限较长，而地产开发为新拓展板块，
+目前业务规模正在逐步扩大。
+表4：公司前五大客户销售情况
+销售额（万元
+客户名称 占比（%）
+）
+宁夏中卫联通 279.49 30.44
+滨州联通 146.33 15.94
+潍坊中卫联通 146.20 15.92
+山东省联通 98.98 10.78
+榆林联通 63.00 6.86
+合计 734.00 79.93
+数据来源：公司提供，东方金诚整理
+公司上游采购原材料主要包括：服务器、
+拼接显示屏等电子元器件，其市场供应充足，
+采购范围较广。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司根据《公司法》制定了公司章程，设
+立了股东会，为公司的权利机。公司设总经理
+，经理对董事会执行董事负责，主持公司生产
+经营管理工作。
+图3：公司组织架构图
+数据来源：公司提供，东方金诚整理
+公司设有行政及人力资源、市场及策划、
+财务、商务策划、产品技术开发、工程建设、
+市场运营等职能部门，各部门职责明确，各司
+其职，能够满足公司经营管理需要。目前公司
+业务规模不大，组织结构的扁平化，有利于提
+升公司决策效率，降低人力成本。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>自成立以来，公司一直专注于智能化系统
+业务及管理软件的开发和系统集成业务，其项
+目经验丰富，人才建设完善。且随着公司的不
+断发展，在新的领域也不断拓展，未来公司将
+继续在智能物业、智能楼宇等方面不断拓展新
+市场，利用“互联网+”的管理便捷、成本较低
+等优势，在北京及其周边地区，不断开展新的
+市场。
+财务分析
+公司提供了2013-
+2015年末的财务报表，但均未经审计。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京金量威科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-
+2015年末，公司总资产分别为2203.33万元、26
+96万元、2553.59万元，增长幅度近两年分别为
+22.36%、-
+5.28%，公司处于业务转型发展阶段，其资产规
+模有一定波动性。
+图4：公司近三年资产构成（万元）
+数据来源：公司提供，东方金诚整理
+从资产结构的变化看，2013-
+2015年末，公司流动资产分别为269.48万元、5
+63.63万元、606.05万元，增长幅度近两年分别
+为109.15%、7.53%；非流动资产分别为1933.85
+万元、2132.37万元、1947.54万元，增长幅度
+近两年分别为10.27%、-
+8.67%。截至2015年末，公司流动资产为606.05
+万元，非流动资产为1947.54万元，分别占资产
+总额的23.73%和76.27%，非流动资产占有比重
+较大。
+图5：公司近三年流动资产构成（万元
+）
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司货币资金、其他应收
+款、存货分别占流动资产的15.79%、56.28%、2
+7.94%，其中公司其他应收款占有较大比重。
+截至2015年末，公司其他应收款账面余额
+为341.07万元，较去年同期基本持平，产生其
+他应收款的原因在于，公司业务通常在项目竣
+工且验收合格之后，仍存在一定比例的质保金
+，待质保期完结后方可取得。
+图6：公司最近一年流动资产构成
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司固定资产、无形资产
+、其他分别占非流动资产的31.20%、64.70%、4
+.11%。其中固定资产与无形资产占有较大比重
+。
+截至2015年末，公司固定资产的账面余额
+为607.54万元，其中在建工程账面余额为599.7
+1万元，占比为98.71%，在建工程项目主要为公
+司在全国各地未完工的项目工程，其前五大明
+细为：威海龙泽府智慧社区项目、枣庄智慧社
+区项目、沈阳联通体验厅项目、枣庄联通体验
+厅项目、青岛联通体验厅项目等，当项目完工
+后将按照合同收取相应项目款，具有一定应收
+性质，其潜在客户方主要为当地开发商、联通
+运营商分公司等，风险较低，资产质量相对较
+好。
+截至2015年末，公司无形资产账面净额为1
+260万元，较去年同期减少了140万元，公司无
+形资产主要为公司所取得的软件著作权等。
+表5：公司近两年资产运营状况
+2015年
+项  目 2014年 2015年
+行业均值
+应收账款周转率 0.00 0.00 5.80
+存货周转率 0.12 2.93 14.50
+流动资产周转率 0.49 1.57 2.50
+总资产周转率 0.08 0.35 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，2015年公司资产周转速
+度较2014年有较大提高，但各项指标均低于行
+业平均水平。总体来看，公司资产运营效率尚
+可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年末，公司总负债分别275.35万元、767.5
+4万元、626.4万元，最近两年的增长幅度分别
+为178.75%、-
+18.39%，其负债规模总体上有所下降。
+表8：公司近三年负债结构
+2015年
+项  目 2013年 2014年 2015年 行业均
+值
+资产负债率（%
+12.50 28.47 24.53 65.00
+）
+全部资本化比率
+0.00 0.00 0.00 0
+（%）
+总负债（万元
+275.35 767.54 626.40 -
+）
+短期借款（万
+0.00 0.00 0.00 -
+元）
+长期借款（万
+0.00 0.00 0.00 -
+元）
+数据来源：公司提供，东方金诚整理
+从负债结构看，截至2015年末，公司主要
+为流动负债。在流动负债中，应付账款、预收
+款项所占的比例分别为98.66%、0.06%，其中应
+付账款所占比例较大。
+截至2015年末，公司应付账款账面余额为6
+18.02万元，较去年同期减少141.14万元，仍是
+流动负债的主要部分，公司应付账款主要为公
+司采购原材料的未付款。
+2013-
+2015年末，公司流动比率分别为0.98、0.73、0
+.97，速动比率分别为0.36、0.51、0.7，公司
+最新年度的速动比率处于行业一般水平。目前
+公司营业状况正常，而货币资金持有量一般，
+同时，不存在有息债务，短期内公司偿债压力
+一般。
+表9：公司近三年主要偿债指标
+2013 2014 2015 2015年
+项  目
+年 年 年 行业均值
+流动比率 0.98 0.73 0.97 -
+速动比率 0.36 0.51 0.70 87.50
+经营活动产生
+-
+的现金净流量/ 86.55 26.91 -
+21.85
+流动负债（%）
+利息保障倍数 1.30 1.01 1.16 -
+EBITDA利息倍数 1.30 1.01 1.16 -
+总债务/EBITDA 0.00 0.00 0.00 -
+经营活动产生
+的现金净流量/ 0.00 0.00 0.00 -
+总债务（%）
+经营活动产生
+-
+的现金净流量/ 86.55 26.91 -
+21.85
+总负债（%）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司资产负债率分别为12.5%、28.4
+7%、24.53%，总体负债水平相对较低，同时不
+存在有息债务。综合考虑到公司经营与营运能
+力正常，营业收入增长明显，公司长期偿债压
+力一般。
+截至报告期，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>近年国家出台了针对中小企业、四技企业
+的税收和融资扶持政策。同时中关村科技园区
+对区内企业的融资也出台了相应的管理办法，
+在补贴利息及担保费方面均制订了优惠政策，
+公司在获得外部融资及补贴方面具有有利条件
+。
+公司目前正在积极策划登陆全国中小企业
+股份转让系统（新三板）事项，未来公司可通
+过资本市场进行股权或债券融资。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年末，公司分别实现营业收入56.33万元、
+202.98万元、918.29万元，最近两年的增长幅
+度分别为260.34%、352.4%，总体来看，公司营
+业收入呈高速增长的态势，公司的主营业务收
+入来源于电信行业体验厅的建设服务，其中包
+含了软件的开发以及硬件工程的实施等服务，
+随着技术的成熟，以及项目经验的不断积累，
+公司与中国联通等电信运营商的合作越来越频
+繁，使得公司可以持续取得相关的建设项目，
+同时，公司通过积极拓展地产、社区等其他方
+面的市场，使得公司收入进一步增加。
+2013-
+2015年末，公司营业成本分别为20万元、495.8
+4万元，增长幅度分别为-
+30.8%、2379.2%，最近年度，公司营业成本的
+波动性较大，使得公司毛利率有所下降。近两
+年，公司毛利率分别为90.15%、46%，主要原因
+在于电信营业厅类项目市场相对成熟，竞争有
+所增加，且智慧社区等新业务市场正处于拓展
+阶段，为了获取市场认可，需要维持相对较低
+的利润率。
+表6：公司盈利能力主要指标（一）
+项  目 2013年 2014年 2015年
+营业收入（万元
+56.33 202.98 918.29
+）
+营业成本（万元
+0.00 20.00 495.84
+）
+利润总额（万元
+11.47 0.48 3.92
+）
+净利润（万元） 11.47 0.48 -1.26
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司期间费用分别为323.44万元、3
+86.84万元、408.83万元，占营业收入的比重分
+别为574.19%、190.58%、44.52%，整体呈下降
+趋势，近年公司期间费用控制能力有所增强，
+但相对于其收入而言，期间费用总体规模依然
+较高，对利润的侵蚀程度较大，对公司盈利能
+力削弱程度较大较大。 
+表7：公司盈利能力主要指标（二）
+2014 2015 2015年
+项  目 2013年
+年 年 行业均值
+毛利率（%） 100.00 90.15 46.00 -
+-
+营业利润率（% -
+103.1 0.46 15.50
+） 475.38
+3
+净资产收益率（
+0.59 0.02 -0.07 5.00
+%）
+总资产报酬率（
+2.28 1.66 1.06 3.50
+%）
+数据来源：公司提供，东方金诚整理
+从资产获利角度看，近两年公司总资产报
+酬率分别为1.66%、1.06%，净资产收益率分别
+为0.02%、-
+0.07%，总体来看，除营业利润率外，公司其他
+盈利指标均较去年同期有所下降，且均低于行
+业均值，公司盈利能力尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京金量威科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>近年来，公司涉足智能社区新市场，该市
+场本质上为智能楼宇行业细分市场，目前，我
+国智能化市场正处于瓶颈期，各大智能楼宇解
+决方案提供商都在积极进行横向发展，未来在
+智慧社区行业内，竞争程度可能会有所加剧。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京金量威科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>2203.33 </enterprise:资产总额>
+    <enterprise:所有者权益>1927.99 </enterprise:所有者权益>
+    <enterprise:负债总额>275.35 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>56.33 </enterprise:营业收入>
+    <enterprise:EBITDA>50.23 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金量威科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>2696.00 </enterprise:资产总额>
+    <enterprise:所有者权益>1928.48 </enterprise:所有者权益>
+    <enterprise:负债总额>767.54 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>202.98 </enterprise:营业收入>
+    <enterprise:EBITDA>40.78 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金量威科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>2553.59 </enterprise:资产总额>
+    <enterprise:所有者权益>1927.20 </enterprise:所有者权益>
+    <enterprise:负债总额>626.40 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>918.29 </enterprise:营业收入>
+    <enterprise:EBITDA>27.94 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京金量威科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.08 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.12 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金量威科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.35 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.93 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金量威科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.20 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>14.50 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金量威科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>2.61 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>2.28 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>13.28 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金量威科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>2.11 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>1.66 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>16.14 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金量威科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>1.45 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>1.06 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>18.82 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金量威科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>97.87 </enterprise:流动比率>
+    <enterprise:速动比率>36.38 </enterprise:速动比率>
+    <enterprise:资产负债率>12.50 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.30 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金量威科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>73.43 </enterprise:流动比率>
+    <enterprise:速动比率>51.37 </enterprise:速动比率>
+    <enterprise:资产负债率>28.47 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.01 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金量威科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>96.75 </enterprise:流动比率>
+    <enterprise:速动比率>69.72 </enterprise:速动比率>
+    <enterprise:资产负债率>24.53 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.16 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京金量威科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.49 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>321.79 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>6.48 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>86.55 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金量威科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.57 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>90.15 </enterprise:毛利率>
+    <enterprise:成本费用利润率>306.42 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>3.13 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>26.91 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金量威科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>2.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>46.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>66.90 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.76 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-21.85 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京金量威科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>46.20 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>45.11 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>8.86 </enterprise:其他应收款>
+    <enterprise:存货>169.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>269.48 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>7.83 </enterprise:固定资产净额>
+    <enterprise:在建工程>446.02 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1400.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>80.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1933.85 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2203.33 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金量威科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>47.51 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>346.81 </enterprise:其他应收款>
+    <enterprise:存货>169.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>563.63 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>7.83 </enterprise:固定资产净额>
+    <enterprise:在建工程>644.54 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1400.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>80.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2132.37 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2696.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金量威科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>95.67 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>341.07 </enterprise:其他应收款>
+    <enterprise:存货>169.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>606.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>7.83 </enterprise:固定资产净额>
+    <enterprise:在建工程>599.71 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1260.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>80.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1947.54 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2553.59 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金量威科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>775.91 </enterprise:应付账款>
+    <enterprise:预收款项>0.38 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-8.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>767.54 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>767.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-71.52 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1928.48 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1928.48 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2696.02 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金量威科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>775.91 </enterprise:应付账款>
+    <enterprise:预收款项>0.38 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-8.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>767.54 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>767.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-71.52 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1928.48 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1928.48 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2696.02 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金量威科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>618.02 </enterprise:应付账款>
+    <enterprise:预收款项>0.38 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>8.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>626.40 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>626.40 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-72.80 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1927.20 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1927.20 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2553.60 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京金量威科技有限公司2013年利润表">
+    <enterprise:营业收入>56.33 </enterprise:营业收入>
+    <enterprise:主营业务收入>56.33 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.67 </enterprise:营业税金及附加>
+    <enterprise:销售费用>40.13 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>244.55 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>38.76 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-23.23 </enterprise:营业利润>
+    <enterprise:营业外收入>279.25 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>256.02 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>256.02 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>256.02 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京金量威科技有限公司2014年利润表">
+    <enterprise:营业收入>202.98 </enterprise:营业收入>
+    <enterprise:主营业务收入>202.98 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>20.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>20.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.48 </enterprise:营业税金及附加>
+    <enterprise:销售费用>35.79 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>310.75 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>40.30 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>101.41 </enterprise:营业利润>
+    <enterprise:营业外收入>209.82 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>311.23 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>311.23 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>311.23 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京金量威科技有限公司2015年利润表">
+    <enterprise:营业收入>918.29 </enterprise:营业收入>
+    <enterprise:主营业务收入>918.29 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>495.84 </enterprise:营业成本>
+    <enterprise:主营业务成本>495.84 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>9.44 </enterprise:营业税金及附加>
+    <enterprise:销售费用>20.76 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>364.05 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>24.02 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>368.23 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.26 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>367.97 </enterprise:利润总额>
+    <enterprise:所得税费用>5.18 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>362.79 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>362.79 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京金量威科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>364.84 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>270.40 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>635.24 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>124.15  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>8.24 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>264.54 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>396.93 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>238.31 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1703.92 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1703.92 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1703.92 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>1400.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1400.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1.89 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1.89 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1398.11 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-67.50 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京金量威科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>636.31 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>209.12 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>845.43 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>32.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.91 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>605.94 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>638.85 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>206.58 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>198.52 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>198.52 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-198.52 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>6.74 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>6.74 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-6.74 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1.32 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京金量威科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>699.60 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>699.60 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>435.04  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>-16.75 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>418.16 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>836.45 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-136.85 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>-184.83 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>-184.83 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>184.83 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>-0.18 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>-0.18 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.18 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>48.16 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京金量威科技有限公司股东：陆守光 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陆守光 </enterprise:股东名称>
+	 <enterprise:货币>800.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>40.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金量威科技有限公司股东：陆守兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陆守兵 </enterprise:股东名称>
+	 <enterprise:货币>800.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>40.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金量威科技有限公司股东：王磊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王磊 </enterprise:股东名称>
+	 <enterprise:货币>400.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：优U生活">
+	<enterprise:有申请日期>15-11-19</enterprise:有申请日期>
+	<enterprise:有商标名称>优U生活</enterprise:有商标名称>
+	<enterprise:有注册号>18376109</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：优U生活">
+	<enterprise:有申请日期>15-11-19</enterprise:有申请日期>
+	<enterprise:有商标名称>优U生活</enterprise:有商标名称>
+	<enterprise:有注册号>18376099</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：U 生活">
+	<enterprise:有申请日期>15-11-19</enterprise:有申请日期>
+	<enterprise:有商标名称>U 生活</enterprise:有商标名称>
+	<enterprise:有注册号>18376002</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：U 生活">
+	<enterprise:有申请日期>15-11-19</enterprise:有申请日期>
+	<enterprise:有商标名称>U 生活</enterprise:有商标名称>
+	<enterprise:有注册号>18376121</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：优生活">
+	<enterprise:有申请日期>15-11-19</enterprise:有申请日期>
+	<enterprise:有商标名称>优生活</enterprise:有商标名称>
+	<enterprise:有注册号>18375995</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：U4">
+	<enterprise:有申请日期>14-3-24</enterprise:有申请日期>
+	<enterprise:有商标名称>U4</enterprise:有商标名称>
+	<enterprise:有注册号>14233640</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：U4">
+	<enterprise:有申请日期>14-3-24</enterprise:有申请日期>
+	<enterprise:有商标名称>U4</enterprise:有商标名称>
+	<enterprise:有注册号>14233700</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金量威科技有限公司的商标信息：金量威">
+	<enterprise:有申请日期>02-6-21</enterprise:有申请日期>
+	<enterprise:有商标名称>金量威</enterprise:有商标名称>
+	<enterprise:有注册号>3217457</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：金量威展厅web管理系统软件">
+	<enterprise:有批准日期>16-4-29</enterprise:有批准日期>
+	<enterprise:有软件全称>金量威展厅web管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>展厅web管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR090564</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：B2B2HOME电子商务系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>B2B2HOME电子商务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200305</enterprise:有登记号>
+	<enterprise:有分类号>30205-6500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：一卡通电子支付管理系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>一卡通电子支付管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200309</enterprise:有登记号>
+	<enterprise:有分类号>30204-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：可视对讲与智能家居系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>可视对讲与智能家居系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200300</enterprise:有登记号>
+	<enterprise:有分类号>30206-8200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：智慧社区管理系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧社区管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200296</enterprise:有登记号>
+	<enterprise:有分类号>30106-8200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：金量威预约挂号系统软件">
+	<enterprise:有批准日期>16-5-13</enterprise:有批准日期>
+	<enterprise:有软件全称>金量威预约挂号系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>预约挂号系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR103481</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：金量威展厅web管理系统软件">
+	<enterprise:有批准日期>12-7-12</enterprise:有批准日期>
+	<enterprise:有软件全称>金量威展厅web管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>展厅web管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR062707</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：金量威预约挂号系统软件">
+	<enterprise:有批准日期>12-7-10</enterprise:有批准日期>
+	<enterprise:有软件全称>金量威预约挂号系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>预约挂号系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR061492</enterprise:有登记号>
+	<enterprise:有分类号>30106-8500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金量威科技有限公司的软件著作：金量威可定制的功能展示软件">
+	<enterprise:有批准日期>12-7-9</enterprise:有批准日期>
+	<enterprise:有软件全称>金量威可定制的功能展示软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR060757</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京金量威科技有限公司的网站备案：金量威官网">
+	<enterprise:有审核时间>17-10-26</enterprise:有审核时间>
+	<enterprise:有网站全称>金量威官网</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jinliangwei.com</enterprise:有网站首页>
+	<enterprise:有域名>jinliangwei.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12009379号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京金量威科技有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京金量威科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京金量威科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京金量威科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京金量威科技有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京金量威科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                                             
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京金量威科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京金量威科技有限公司的企业法人代表：陆守光">
+	<enterprise:名称>陆守光</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>45</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1970-04-16</enterprise:出生年月>
+	<enterprise:身份证号码>320722197004167776</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>法人</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京金量威科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>-</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>上年末应交额（万元）</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2.经营性负债偿付情况</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京金量威科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>种子</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>私营企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>较好</enterprise:有交易地位>
+	<enterprise:有议价能力>强</enterprise:有议价能力>
+	<enterprise:有延期支付>有账期</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>-</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>-</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京金量威科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>有玉米品种维权记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经查，无违规信息</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>-</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无负面信息</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京金量威科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>4</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>4</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京金量威科技有限公司的商标数量">
+	<enterprise:商标总计>7</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>2</enterprise:商标数量2014>
+	<enterprise:商标数量2015>5</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京金量威科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

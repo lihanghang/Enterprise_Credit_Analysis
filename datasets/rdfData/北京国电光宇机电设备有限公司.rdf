@@ -1,0 +1,1523 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京国电光宇机电设备有限公司的企业概况">
+    <enterprise:有名称>北京国电光宇机电设备有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局昌平分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020001603441</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京农村商业银行沙河支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>118</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2006年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>21599.99万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2056年</enterprise:有营业执照到期日>
+    <enterprise:有股本>6000.00万元</enterprise:有股本>
+    <enterprise:有经营范围>从事UPS电源、EPS一体化电源、高频开关电源、通电电源、试验电源柜、事故照明柜、智能教练柜、低压开关柜、电力成套设备的生产；施工总承包、专业承包、劳务分包；销售通讯器材、计算机软硬件及外围设备；信息咨询（不含中介服务）；技术服务、技术咨询、技术开发、技术转让、技术培训；组织文化艺术交流活动；承办展览展示；销售电力设备、UPS电源、EPS一体化电源、高频开关电源、通电电源、试验电源柜、事故照明柜、智能教练柜、低压开关柜、电子产品、机械设备、仪器仪表；数据处理；工程和技术研究与试验发展；基础软件服务；应用软件服务（不含医用软件）；货物进出口、技术进出口、代理进出口。（领取本执照后，应到区住建委取得行政许可，应到区商务委备案。）(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)从事UPS电源、EPS一体化电源、高频开关电源、通电电源、试验电源柜、事故照明柜、智能教练柜、低压开关柜、电力成套设备的生产；施工总承包、专业承包、劳务分包；销售通讯器材、计算机软硬件及外围设备；信息咨询（不含中介服务）；技术服务、技术咨询、技术开发、技术转让、技术培训；组织文化艺术交流活动；承办展览展示；销售电力设备、UPS电源、EPS...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>主要从事智能化电源设备的研发、生产、销售及相关技术服务</enterprise:有主营业务>
+    <enterprise:有行业分类>电气机械和器材制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市昌平区科技园区振新路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市通州区宋庄镇佰富苑工业区</enterprise:有通讯地址>
+    <enterprise:有邮政编码>101118</enterprise:有邮政编码>
+    <enterprise:有联系人>王燕霞</enterprise:有联系人>
+    <enterprise:有联系电话>13466525274</enterprise:有联系电话>
+    <enterprise:有传真电话>010-89579427</enterprise:有传真电话>
+    <enterprise:有E-mail>Maomao3920@126.com</enterprise:有E-mail>
+    <enterprise:有网址>www.gdgy_power.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京国电光宇机电设备有限公司（以下
+简称“公司”），于 2006年 11 月 07 日在
+北京市工商行政管理局昌平分局注册成立。
+截至评级时点，公司注册资本 21599.99 万
+元，实收资本 6000.00万元，股东出资及持
+股比例为：自然人魏合宇出资 20499.99 万
+元，持股 94.90%，其中以货币出资 16499.99，
+以知识产权出资 4000.00万元；自然人魏合
+民以货币出资 530.00万元，持股 2.45%；自
+然人冯莉以货币出资 570.00 万元，持股
+2.65%。
+公司经营范围：“从事 UPS电源、EPS
+一体化电源、高频开关电源、通电电源、试
+验电源柜、事故照明柜、智能教练柜、低压
+开关柜、电力成套设备的生产；施工总承包、
+专业承包、劳务分包；销售通讯器材、计算
+机软硬件及外围设备；信息咨询（不含中介
+服务）；技术服务、技术咨询、技术开发、
+技术转让、技术培训；组织文化艺术交流活
+动；承办展览展示；销售电力设备、UPS电
+源、EPS一体化电源、高频开关电源、通电
+电源、试验电源柜、事故照明柜、智能教练
+柜、低压开关柜、电子产品、机械设备、仪
+器仪表；数据处理；工程和技术研究与试验
+发展；基础软件服务；应用软件服务（不含
+医用软件）；货物进出口、技术进出口、代
+理进出口。（领取本执照后，应到区住建委
+取得行政许可，应到区商务委备案。）”目
+前，公司主要从事智能化电源设备的研发、
+生产、销售及相关技术服务。
+截至 2016 年 7 月底，公司资产总额为
+7854.95万元，所有者权益为 6030.50万元；
+2015年，公司实现营业收入 3495.60万元，
+利润总额 28.01万元；2016年 1~7月，公司
+实现营业收入 2009.26万元，利润总额 5.06
+万元。公司现有员工 118人，在北京市属于
+中型企业。
+公司注册地址：北京市昌平区科技园区
+振新路 28 号 2 号楼 302 室，经营地址：北
+京市通州区宋庄镇佰富苑工业区；工商注册
+号：110114001034920；税务登记证号：
+110114795111598；组织机构代码证号：
+79511159-8；公司开户银行：北京农村商业
+银 行 沙 河 支 行 ， 开 户 账 号 ：
+0609000103000022298；法定代表人：魏合
+宇；营业期限：自 2006年 11月 07日至 2056
+年 11月 06日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京国电光宇机电设备有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、总经理魏合宇，38
+岁，大专学历，工程师，1999年~2002年任
+北京中科院黎霞科技服务中心助理工程师，
+期间曾研发出科普型科技产品---永磁发电
+展示仪；2002年~2004年任北京瑞讯通宇科
+技发展有限公司销售经理；2004年~2006年
+任北京中电科技有限公司营销总监；2006
+年 6月至今任公司总经理，同时兼任中国电
+源工业协会副理事长，同业从业经验和管理
+经验丰富。
+公司销售总监包永辉，53岁，本科学历，
+高级工程师，1987年~1999年任吉林江北机
+械厂技术人员，期间曾先后获得中国兵器工
+业部颁发的“科技进步奖三等奖”、东北电
+网公司颁发的“科技三等奖”、机械厂颁发
+的“科技创新奖”；1999年~2011年历任北
+京瑞讯通宇科技发展有限公司销售经理、西
+安办事处经理、市场总监，期间曾参与国家
+电网公司智能站的电源标准化审核工作，并
+跟踪国家电网公司智能化程度的进展和研
+发方向；2012年至今任公司销售总监，全面
+负责公司销售工作。
+公司技术总监李伟杰，29岁，本科学历，
+工程师，2010年~2012年任卧龙电气输变电
+本部技术中心系统集成研发员；2012 年
+~2013年任北京捷诚科技发展有限公司研发
+经理；2013年至今任公司技术总监，曾主导
+完成了主站服务器机房智能 UPS 成套电源
+系统、微机绝缘综合检测仪、在线核对智能
+充放电直流电源系统及远程自动叫修服务
+系统等系统项目研发工作，研发经验丰富。
+公司财务总监张灵，大专学历，会计师，
+现任公司财务总监，全面负责公司财务工
+作。拥有 8年的财务从业经验。
+总体看，公司高管学历水平较高，从业
+及管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 118人。
+从学历构成看，员工中本科及以上学历者占
+比 48.31%，员工学历水平较高；从年龄构
+成看，员工年龄在 45岁以下者占比 79.66%，
+员工以中青年为主，团队富有活力；从岗位
+构成看，管理人员占比 7.63%，技术人员占
+比 54.24%，其他人员占比 37.14%，符合高
+新技术企业特点。
+总体看，公司员工学历水平较高，年龄
+构成以中青年为主，岗位构成符合高新技术
+企业特点。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，下设技术研发
+部，同时，公司与西安交大等国内一流院校
+建立了联合实验室，共同负责产品研发及测
+试工作。
+近三年，公司研发投入分别为 165.00
+万元、185.80万元、244.00万元，分别占当
+年营业收入的 7.15%、7.70%、6.98%，研发
+投入主要用于发放人员工资及购置研发设
+备和材料等，公司研发投入力度较大。
+总体看，公司研发投入力度较大，科研
+条件好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>165.00万元,185.80万元,244.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>7.15%,7.70%,6.98%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京国电光宇机电设备有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址为北京市通州区宋庄镇
+佰富苑工业区，办公面积 3000.00平方米，
+使用方式为租赁，该经营地办公设施齐全，
+交通便利。
+公司已成立 10 年，为国家高新技术企
+业、中关村高新技术企业、中关村企业信用
+促进会会员、中国电源工业协会和北京电源
+行业协会副理事单位。公司已取得中国华电
+集团公司招标与采购网颁发的“集团级供应
+商会员”证书，2014年公司获得“北京市诚
+信创建企业”荣誉称号，表 2罗列了公司历
+年取得的主要资质和荣誉。
+表 2 公司主要资质、荣誉汇总
+序号 名 称
+国家高新技术企业
+1
+（证书编号：GR201311000998，有效期至 2016年）
+中关村高新技术企业
+2
+（证书编号：20132030225801，有效期至 2016年）
+3 中关村企业信用促进会会员
+质量管理体系认证 GB/T 19001-2008/ISO9001：2008
+4
+(注册号：02615Q20004R0M)
+职业健康安全管理体系认 GB/T28001-2011/OHSAS
+5 18001：2007
+(注册号：02615S20002R0M)
+环境管理体系认证 GB/T24001-2004/ISO 14001：2004
+6
+(注册号：02615E20004R0M)
+中国电源工业协会副理事单位
+7
+（证书编号：京源协证 1212 号）
+北京电源行业协会副理事单位
+8
+（证书编号：中电源协证 1220 号）
+集团级供应商会员
+9
+（证书编号：ZS157603）
+资料来源：公司提供，中企信用整理。
+总体看，公司经营资质齐全，获得荣誉
+较多，经营条件好。
+（二）业务运营
+公司主要从事智能化电源设备的研发、
+生产、销售及相关技术服务，成立至今一直
+致力于 GYE 系列电力专用 UPS 电源、
+Z-GYDW 系列直流屏、EPS 电源的研发、
+生产和销售。目前，公司在智能化电源设备
+整体解决方案、新能源新技术开发推广应
+用、智能高低压电气成套设备生产、节能环
+保产品研发等领域均取得了卓越的成果。
+1.主要产品和服务
+公司收入来源于 5大类产品：智能一体
+化电源系统、智能直流电源系统、微机绝缘
+监测仪、智能通信电源系统、UPS 电源系统。
+2015年，公司 5大类产品收入分别占当年总
+收入的 33.00%、26.00%、7.00%、18.00%、
+16.00%。
+2.采购模式
+采购方面，公司根据项目需要进行采
+购，采购周期一般为 7~20 个工作日，采购
+的产品主要是蓄电池、仪表/断路器、开关、
+模块、电源屏等。公司供应商集中度较高，
+2015 年度前五大供应商分别是山东圣阳电
+源股份有限公司、北京北元电器有限公司、
+中航太克（厦门）电子有限公司、青岛海汇
+德电气有限公司、北京国电远通电气有限公
+司，五家采购额合计占比为 63.40%，公司
+与供应商合作时间较长，供货稳定。结算方
+面，按合同约定主要通过电汇和汇票付款。
+3.销售模式
+销售方面，公司采用以投标、仪标为主，
+分部代理销售为辅的销售模式。主要面向国
+家电网旗下的各地电网公司，目前公司主要
+客户有国网内蒙古东部电力有限公司物资
+分公司、国网吉林省电力有限公司（物资公
+司）、甘肃省电力公司、西藏电力有限公司、
+国网河北省电力公司物资分公司等。结算方
+面，公司与客户主要按合同约定电汇收款。
+表 3 公司 2015年度前五大销售客户
+销售金额 销售占 合作年
+客户名称
+（万元） 比（%） 限
+国网内蒙古东部电力有
+454.00 11.00 9年
+限公司物资分公司
+国网吉林省电力有限公
+208.00 5.00 3年
+司（物资公司）
+甘肃省电力公司 207.00 5.00 5年
+西藏电力有限公司 158.00 4.00 6年
+国网河北省电力公司物
+147.00 3.50 6年
+资分公司
+资料来源：公司提供，中企信用整理。
+总体看，公司主营业务清晰，主要产品
+种类较丰富，上下游渠道较畅通，业务运作
+情况良好。
+（三）经营效率
+表 4 公司近三年主要经营指标
+财务指标 2013 年 2014年 2015年
+成本率（%） 98.66 99.07 99.22
+管理费用率（%） 10.11 11.10 9.86
+应收账款周转次数(次) 1.63 1.32 1.55
+存货周转次数(次) 7.68 4.48 4.04
+总资产周转次数(次) 0.58 0.41 0.45
+资料来源：公司提供，中企信用整理
+近三年，公司成本率分别为 98.66%、
+99.07%、99.22%，加权平均值为 99.06%，
+处于行业高水平；同期，管理费用率分别为
+10.11%、11.10%、9.86%，加权平均值为
+10.28%，处于行业低水平，公司对管理费用
+的控制力度较好。
+近三年，公司应收账款周转次数分别为
+1.63次、1.32次、1.55次，加权平均值为 1.50
+次，处于行业低水平，主要是公司下游客户
+以大型国有电力公司为主，客户付款审批流
+程繁琐所致；存货周转次数分别为 7.68次、
+4.48次、4.04次，虽呈下降趋势，但仍处于
+行业较高水平；同期，公司总资产周转次数
+分别为 0.58次、0.41次、0.45次，加权平均
+值为 0.46次，处于行业较低水平。
+总体看，公司经营效率尚可。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中华人民共和国公司法》及
+其他有关规定，制订了《北京国电光宇机电
+设备有限公司章程》。
+股东会是公司的权力机构，行使决定公
+司的经营方针和投资计划、审议批准执行董
+事的报告等职权。
+公司不设董事会，设执行董事 1人，执
+行董事行使召集股东会，并向股东会报告工
+作等职权。
+公司不设监事会，设监事 1名，监事行
+使检查公司财务、对执行董事、高级管理人
+员执行公司职务的行为进行监督等职权。
+公司设总经理 1人，总经理对执行董事
+负责，主持公司的生产经营管理工作，组织
+实施执行董事决议，并向执行董事报告工作
+等。
+公司内设行政人事部、销售部、采购部、
+技术研发部、质量部、财务部、生产部等，
+部门设置清晰。
+总体看，公司法人治理结构较完善，组
+织架构清晰。
+（二）内控制度及执行
+公司根据经营需要制定了《人力资源制
+度》、《质量管理手册》、《行政管理制度》、
+《财务管理制度》、《技术管理制度》、《员
+工手册》、《采购管理制度》、《工程项目
+管理制度》等制度规范，同时公司先后通过
+了质量管理体系认证、环境管理体系认证、
+职业健康安全管理体系认证，实际业务操作
+中严格按标准执行。
+总体看，公司内部管理制度完善，制度
+执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据中企信用数据预测规则，结合公司
+提供的财务数据，按照谨慎性原则，中企信
+用预测公司 2016年将实现营业收入 4200.00
+万元，净利润 55.00万元；预计 2016年底资
+产总额 9000.00 万元，负债总额 2000.00 万
+元，所有者权益 7000.00 万元。相比 2015
+年，预计 2016年营业收入增长 20.15%，负
+债率变动幅度-2.21%，净资产收益率变动幅
+度 0.46%。
+总体看，公司未来一年发展前景较好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京国电光宇机电设备有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 7 月底，公司资产总额
+7854.95万元，其中流动资产占比 53.67%，
+非流动资产占比 46.33%。
+1.流动资产
+截至 2016 年 7 月底，公司流动资产
+1530.53 万元，主要为：应收账款 2654.31
+万元，占比 62.96%，主要为应收国网青海
+省电力公司、国网内蒙古东部电力有限公司
+物资分公司、国网河北省电力公司物资分公
+司、国网辽宁省电力有限公司、内蒙古电力
+（集团）有限责任公司锡林郭勒电业局的货
+款，账龄在 1年之内的占比 70.00%，1~2年
+的占比 20.00%，2 年以上的占比 10.00%，
+公司已按账龄分析法计提了坏账准备；存货
+1216.51万元，占比 28.86%，主要为库存的
+蓄电池、断路器、直流配电柜。
+2.非流动资产
+截至 2016 年 7 月底，公司非流动资产
+3639.25 万元，主要为无形资产 3600.00 万
+元，占比 98.92%。
+总体看，公司资产流动性压力较大，资
+产质量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 7 月底，公司资产负债率
+为 23.23%，负债水平较低，有有息债务。
+截至 2016 年 7 月底，公司负债总额为
+1824.46万元，全部为流动负债，主要为：
+短期借款 152.71万元，占比 8.37%，系公司
+分别从渣打银行、北京银行芳草地支行取得
+的信用贷款、担保贷款；应付账款 1572.87
+万元，主要为应付北京爱威瑞科技有限公
+司、风帐有限责任公司徐水工业电池分公
+司、山东圣阳电源股份有限公司、北京金慧
+航电气有限公司、北京北元电器有限公司的
+货款，截至评级时点，应付账款均在正常账
+期之内。
+总体看，公司负债全部为流动负债，负
+债水平较低，有有息债务，但还款压力较小。
+2.所有者权益
+近三年，公司所有者权益分别为1981.66
+万元、6000.27万元、6025.43万元，复合增
+长率为74.37%，公司所有者权益增长较快，
+对债务的保障能力强。
+截至2016年7月底，公司所有者权益
+6030.50万元，其中实收资本6000.00万元，
+占比99.49%；未分配利润30.50万元，占比
+0.51%。
+总体看，公司所有者权益增长较快，净
+资产对债务的保障能力强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 7
+月底，公司流动比率和速动比率分别为
+231.07%、164.39%，均处于行业正常水平；
+2015年，公司现金流动负债比-44.21%，经
+营活动产生的净现金流对流动负债的保障
+能力较弱。
+从长期偿债能力指标看，近三年，公司
+EBITDA值分别为 25.86万元、223.23万元、
+242.71万元，公司长期偿债能力较强。
+结合公司业务发展及债务构成看，公司
+整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 2307.83
+万元、2411.97万元、3495.60万元，复合增
+长率 23.07%，公司营业收入稳步增长；同
+期，公司净利润分别为 20.66 万元、18.82
+万元、23.19万元，复合增长率 5.93%。
+近三年，公司主营业务利润率分别为
+16.01%、22.14%、19.77%，加权平均值为
+19.73%，处于行业一般水平；同期，净资产
+收益率分别为 1.05%、0.47%、0.39%，加权
+平均值为 0.54%，处于行业低水平。
+近三年，公司现金收入比加权平均值为
+99.57%，收入实现质量较好。
+总体看，公司盈利能力需要进一步提
+高，收入实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京国电光宇机电设备有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司资产中应收账款、无形资产占比
+较大，资产流动性压力较大。
+2.公司客户付款审批程序烦琐，应收账
+款占比较高，且应收账款周转速度慢，影响
+营运资金周转效率。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京国电光宇机电设备有限公司2013年基本财务指标">
+    <enterprise:资产总额>4389.82 </enterprise:资产总额>
+    <enterprise:所有者权益>1981.66 </enterprise:所有者权益>
+    <enterprise:负债总额>2408.16 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2307.83 </enterprise:营业收入>
+    <enterprise:EBITDA>25.86 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京国电光宇机电设备有限公司2014年基本财务指标">
+    <enterprise:资产总额>7460.56 </enterprise:资产总额>
+    <enterprise:所有者权益>6000.27 </enterprise:所有者权益>
+    <enterprise:负债总额>1460.36 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2411.97 </enterprise:营业收入>
+    <enterprise:EBITDA>223.23 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京国电光宇机电设备有限公司2015年基本财务指标">
+    <enterprise:资产总额>7973.47 </enterprise:资产总额>
+    <enterprise:所有者权益>6025.43 </enterprise:所有者权益>
+    <enterprise:负债总额>1948.03 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3495.60 </enterprise:营业收入>
+    <enterprise:EBITDA>242.71 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京国电光宇机电设备有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>58.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>163.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>768.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京国电光宇机电设备有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>41.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>132.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>448.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京国电光宇机电设备有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>45.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>155.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>404.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京国电光宇机电设备有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1.04 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京国电光宇机电设备有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.31 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京国电光宇机电设备有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.38 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京国电光宇机电设备有限公司2013年偿债能力指标">
+    <enterprise:流动比率>101.77 </enterprise:流动比率>
+    <enterprise:速动比率>89.47 </enterprise:速动比率>
+    <enterprise:资产负债率>54.86 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京国电光宇机电设备有限公司2014年偿债能力指标">
+    <enterprise:流动比率>240.56 </enterprise:流动比率>
+    <enterprise:速动比率>203.61 </enterprise:速动比率>
+    <enterprise:资产负债率>19.57 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京国电光宇机电设备有限公司2015年偿债能力指标">
+    <enterprise:流动比率>216.23 </enterprise:流动比率>
+    <enterprise:速动比率>172.77 </enterprise:速动比率>
+    <enterprise:资产负债率>24.43 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>34.18 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京国电光宇机电设备有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>16.22 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.98 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.83 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-5.52 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京国电光宇机电设备有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>22.32 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1.18 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.83 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-0.42 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>1.64 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京国电光宇机电设备有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>19.93 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.90 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.16 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>2.81 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>1.17 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京国电光宇机电设备有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>128.74 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1414.24 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>82.12 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>529.51 </enterprise:其他应收款>
+    <enterprise:存货>296.19 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2450.80 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>36.94 </enterprise:固定资产净额>
+    <enterprise:在建工程>1900.21 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1.87 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1939.02 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4389.82 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京国电光宇机电设备有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>220.20 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2241.21 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>100.98 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>411.01 </enterprise:其他应收款>
+    <enterprise:存货>539.69 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3513.09 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>30.80 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3916.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3947.47 </enterprise:非流动资产合计>
+    <enterprise:资产总计>7460.56 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京国电光宇机电设备有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>221.31 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2262.41 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>139.86 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>742.05 </enterprise:其他应收款>
+    <enterprise:存货>846.54 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4212.17 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>44.63 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3716.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3761.30 </enterprise:非流动资产合计>
+    <enterprise:资产总计>7973.47 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京国电光宇机电设备有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>100.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1249.52 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>32.02 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>78.82 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1460.36 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1460.36 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6000.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6000.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>7460.63 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京国电光宇机电设备有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>100.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1249.52 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>32.02 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>78.82 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1460.36 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1460.36 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6000.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6000.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>7460.63 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京国电光宇机电设备有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>71.49 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1654.65 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>18.29 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>103.60 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1948.03 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1948.03 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>25.43 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6025.43 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6025.43 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>7973.46 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京国电光宇机电设备有限公司2013年利润表">
+    <enterprise:营业收入>2307.83 </enterprise:营业收入>
+    <enterprise:主营业务收入>2307.83 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1933.56 </enterprise:营业成本>
+    <enterprise:主营业务成本>1933.56 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>108.50 </enterprise:营业税金及附加>
+    <enterprise:销售费用>108.50 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>230.21 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.05 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>30.86 </enterprise:营业利润>
+    <enterprise:营业外收入>0.01 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>9.76 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>21.11 </enterprise:利润总额>
+    <enterprise:所得税费用>0.45 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>20.66 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>20.66 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京国电光宇机电设备有限公司2014年利润表">
+    <enterprise:营业收入>2411.97 </enterprise:营业收入>
+    <enterprise:主营业务收入>2411.97 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1873.60 </enterprise:营业成本>
+    <enterprise:主营业务成本>1873.60 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>4.41 </enterprise:营业税金及附加>
+    <enterprise:销售费用>246.13 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>265.24 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.25 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>22.37 </enterprise:营业利润>
+    <enterprise:营业外收入>3.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.24 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>25.13 </enterprise:利润总额>
+    <enterprise:所得税费用>6.31 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>18.82 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>18.82 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京国电光宇机电设备有限公司2015年利润表">
+    <enterprise:营业收入>3495.60 </enterprise:营业收入>
+    <enterprise:主营业务收入>3495.60 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2798.96 </enterprise:营业成本>
+    <enterprise:主营业务成本>2798.96 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.67 </enterprise:营业税金及附加>
+    <enterprise:销售费用>313.65 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>342.06 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>7.89 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>27.43 </enterprise:营业利润>
+    <enterprise:营业外收入>0.62 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.04 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>28.01 </enterprise:利润总额>
+    <enterprise:所得税费用>4.83 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>23.18 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>23.18 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京国电光宇机电设备有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1910.46 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>370.10 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2280.56 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2023.37  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>95.95 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>49.92 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>244.27 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2413.51 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-132.95 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.87 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.87 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.87 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-137.82 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京国电光宇机电设备有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1995.04 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>518.16 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2513.20 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1875.26  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>172.23 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>54.52 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>417.37 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2519.38 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-6.18 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.37 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.37 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.37 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>100.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>100.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>91.45 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京国电光宇机电设备有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4068.65 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>228.09 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4296.74 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3240.66  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>190.40 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>83.64 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>727.30 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4242.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>54.74 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>25.12 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>25.12 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-25.12 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>74.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>74.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>102.51 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>102.51 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-28.51 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1.11 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京国电光宇机电设备有限公司股东：魏合宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>魏合宇 </enterprise:股东名称>
+	 <enterprise:货币>5,400.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>90.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京国电光宇机电设备有限公司股东：冯莉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>冯莉 </enterprise:股东名称>
+	 <enterprise:货币>570.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京国电光宇机电设备有限公司股东：魏合民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>魏合民 </enterprise:股东名称>
+	 <enterprise:货币>30.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京国电光宇机电设备有限公司的商标信息：国电光宇 GD GY">
+	<enterprise:有申请日期>14-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>国电光宇 GD GY</enterprise:有商标名称>
+	<enterprise:有注册号>14577140</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种节能式智能核对全在线直流充放电系统">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种节能式智能核对全在线直流充放电系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610866842.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106655488A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种具备内部检测的智能无线传输电池巡检系统">
+	<enterprise:有申请公布日>17-4-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具备内部检测的智能无线传输电池巡检系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610867940.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106569134A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：智能无线传输微型开口自校零漂微机绝缘综合检测系统">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能无线传输微型开口自校零漂微机绝缘综合检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610867939.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106546825A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种试验电源控制系统">
+	<enterprise:有申请公布日>15-8-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种试验电源控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520149956.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204557113U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种新型直流电源系统">
+	<enterprise:有申请公布日>15-8-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型直流电源系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520149958.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204559217U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种智能化通信电源系统">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能化通信电源系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520152862.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204425022U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种智能化交流窜入直流检测仪">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能化交流窜入直流检测仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520149976.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204422684U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种事故照明自动切换系统">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种事故照明自动切换系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520152861.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204425033U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种智能化交流电源系统">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能化交流电源系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520152863.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204423066U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京国电光宇机电设备有限公司的专利信息：一种智能化UPS电源系统">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能化UPS电源系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520149944.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204425027U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：具备多方案配置及多运行模式的交流互投控制系统">
+	<enterprise:有批准日期>16-10-19</enterprise:有批准日期>
+	<enterprise:有软件全称>具备多方案配置及多运行模式的交流互投控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称>交流互投控制系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR298931</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：配电设备自动化生产管控一体化平台系统">
+	<enterprise:有批准日期>16-10-19</enterprise:有批准日期>
+	<enterprise:有软件全称>配电设备自动化生产管控一体化平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>配电设备管控一体化生产平台</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR298682</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：基于核对放电及内阻测算的蓄电池寿命预判系统">
+	<enterprise:有批准日期>16-10-19</enterprise:有批准日期>
+	<enterprise:有软件全称>基于核对放电及内阻测算的蓄电池寿命预判系统</enterprise:有软件全称>
+	<enterprise:有软件简称>蓄电池寿命预判系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR298246</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：面向电站运行与监控的SCADA综合自动化系统">
+	<enterprise:有批准日期>16-10-19</enterprise:有批准日期>
+	<enterprise:有软件全称>面向电站运行与监控的SCADA综合自动化系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电站SCADA系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR298680</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：面向主调及通信机房的3D虚拟现实动环监测系统">
+	<enterprise:有批准日期>16-10-19</enterprise:有批准日期>
+	<enterprise:有软件全称>面向主调及通信机房的3D虚拟现实动环监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>动环3D检测平台</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR298502</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：分布式能源GY云管理平台系统">
+	<enterprise:有批准日期>16-10-18</enterprise:有批准日期>
+	<enterprise:有软件全称>分布式能源GY云管理平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>能源云管理平台</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR296881</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：基于VxWorks多规约映射及自动配置的IEC61850标准实现平台系统">
+	<enterprise:有批准日期>16-10-18</enterprise:有批准日期>
+	<enterprise:有软件全称>基于VxWorks多规约映射及自动配置的IEC61850标准实现平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR296935</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能蓄电池组远程充放电系统">
+	<enterprise:有批准日期>15-4-28</enterprise:有批准日期>
+	<enterprise:有软件全称>智能蓄电池组远程充放电系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR070835</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能通信电源屏系统">
+	<enterprise:有批准日期>15-4-24</enterprise:有批准日期>
+	<enterprise:有软件全称>智能通信电源屏系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR068256</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能交流窜入直流监测系统">
+	<enterprise:有批准日期>15-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>智能交流窜入直流监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR051583</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能远程自动叫修系统">
+	<enterprise:有批准日期>15-3-23</enterprise:有批准日期>
+	<enterprise:有软件全称>智能远程自动叫修系统</enterprise:有软件全称>
+	<enterprise:有软件简称>叫修卡</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR050843</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能直流电源屏系统">
+	<enterprise:有批准日期>15-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>智能直流电源屏系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR050154</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：机房智能UPS成套系统">
+	<enterprise:有批准日期>15-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>机房智能UPS成套系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR049923</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能事故照明屏系统">
+	<enterprise:有批准日期>15-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>智能事故照明屏系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR049258</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能试验电源屏系统">
+	<enterprise:有批准日期>15-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>智能试验电源屏系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR049222</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：电力专用智能UPS电源系统">
+	<enterprise:有批准日期>15-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>电力专用智能UPS电源系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR048766</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能交流电源屏系统">
+	<enterprise:有批准日期>15-3-18</enterprise:有批准日期>
+	<enterprise:有软件全称>智能交流电源屏系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR048033</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：基于IEC61850智能一体化电源控制系统">
+	<enterprise:有批准日期>15-3-18</enterprise:有批准日期>
+	<enterprise:有软件全称>基于IEC61850智能一体化电源控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR047947</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：智能污水处理系统">
+	<enterprise:有批准日期>15-3-18</enterprise:有批准日期>
+	<enterprise:有软件全称>智能污水处理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR047940</enterprise:有登记号>
+	<enterprise:有分类号>30200-7900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：电网规划及设计软件">
+	<enterprise:有批准日期>13-6-5</enterprise:有批准日期>
+	<enterprise:有软件全称>电网规划及设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055084</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：机电产品设计软件">
+	<enterprise:有批准日期>13-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>机电产品设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055419</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：变电站规划设计软件">
+	<enterprise:有批准日期>13-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>变电站规划设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055669</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：输电线路临界档距计算及受力分析软件">
+	<enterprise:有批准日期>13-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>输电线路临界档距计算及受力分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055674</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：直流操作电源系统">
+	<enterprise:有批准日期>13-6-5</enterprise:有批准日期>
+	<enterprise:有软件全称>直流操作电源系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055143</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京国电光宇机电设备有限公司的软件著作：电机节能装置控制软件">
+	<enterprise:有批准日期>13-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>电机节能装置控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055721</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京国电光宇机电设备有限公司的网站备案：北京国电光宇机电设备有限公司">
+	<enterprise:有审核时间>13-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京国电光宇机电设备有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gdgy-power.com</enterprise:有网站首页>
+	<enterprise:有域名>gdgy-power.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042815号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京国电光宇机电设备有限公司的网站备案：北京国电光宇机电设备有限公司">
+	<enterprise:有审核时间>13-5-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京国电光宇机电设备有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gdgy-power.com</enterprise:有网站首页>
+	<enterprise:有域名>gdgypower.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042815号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京国电光宇机电设备有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京国电光宇机电设备有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京国电光宇机电设备有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>国网内蒙古东部电力有限公司物资分公司、国网吉林省电力有限公司（物
+资公司、甘肃省电力公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京国电光宇机电设备有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京国电光宇机电设备有限公司的企业类型">
+	<enterprise:企业类型>中关村百家创新型企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京国电光宇机电设备有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励□限制□扶持□整合□调控 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期□成熟期□衰退期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京国电光宇机电设备有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争□寡头垄断□垄断竞争□完全垄断 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争☑产品差异化竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京国电光宇机电设备有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京国电光宇机电设备有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京国电光宇机电设备有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>防火粉、防火胶、可发性聚苯乙烯等材料</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>厂商</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京国电光宇机电设备有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京国电光宇机电设备有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京国电光宇机电设备有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京国电光宇机电设备有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>55.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4145.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4120.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4145.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-25.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：筹资性流入">
+	<enterprise:预测项目名称>筹资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>153.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>47.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：投资性流入">
+	<enterprise:预测项目名称>投资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2016年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>22.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5040.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>155.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4885.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4956.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4885.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>71.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：筹资性流入">
+	<enterprise:预测项目名称>筹资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>150.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-50.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：投资性流入">
+	<enterprise:预测项目名称>投资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京国电光宇机电设备有限公司2017年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>21.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京国电光宇机电设备有限公司的软件著作数量">
+	<enterprise:软件著作总计>18</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>12</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京国电光宇机电设备有限公司的专利数量">
+	<enterprise:专利总计>7</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>7</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京国电光宇机电设备有限公司的商标数量">
+	<enterprise:商标总计>1</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>1</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京国电光宇机电设备有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>2</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

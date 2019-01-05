@@ -1,0 +1,2535 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="酒仙网电子商务股份有限公司的企业概况">
+    <enterprise:有名称>酒仙网电子商务股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020005149455</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国农业银行北京经济技术开发区支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>1761</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>20412.1648</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>20412.1648</enterprise:有股本>
+    <enterprise:有经营范围>因特网信息服务业务（除新闻、出版、教育、医疗保健、药品、医疗器械以外的内容）；批发兼零售预包装食品；出版物批发；出版物零售；销售（含网上销售）五金交电、建筑材料、钢材、日用品、计算机软硬件及外围设备、汽车配件、机械设备（小汽车除外）、电子产品、通讯设备（不含无线电发射设备）、工艺品（需行政许可项目除外）、化工产品（不含危险化学品及一类易制毒品）；设计、制作、代理、发布广告；电脑图文设计；货物进出口、技术进出口、代理进出口；技术开发、技术咨询、技术服务、技术转让；企业管理、品牌管理。（企业依法自主选择经营项目，开展经营活动；出版物批发、出版物零售以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）因特网信息服务业务（除新闻、出版、教育、医疗保健、药品、医疗器械以外的内容）；批发兼零售预包装食品；出版物批发；出版物零售；销售（含网上销售）五金交电、建筑材料、钢材、日用品、计算机软硬件及外围设备、汽车配件、机械设备（小汽车除外）、电子产品、通讯设备（不含无线电发射设备）、工艺品（需行政许可项目除外）、化工产品（不含危险化学品及一类易制...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>专业从事酒类商品的线上零售、线上批发、即时服务及品牌运营综合服务等</enterprise:有主营业务>
+    <enterprise:有行业分类>互联网零售业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市北京经济技术开发区经海五路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市北京经济技术开发区经海五路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100083</enterprise:有邮政编码>
+    <enterprise:有联系人>陈吉鑫</enterprise:有联系人>
+    <enterprise:有联系电话>13611158809</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>chenjixin@jiuxian.com</enterprise:有E-mail>
+    <enterprise:有网址>http://www.jiuxian.com/</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>酒仙网电子商务股份有限公司（以下简
+称“公司”），于 2010 年 05 月 17 日在北
+京市工商行政管理局开发区分局注册成立。
+2013年 9月 17日，公司进行了股份制改造，
+整体变更为股份公司。2015年 10月 29日，
+公司在新三板正式挂牌，证券简称：“酒仙
+网”，证券代码：“833919”。
+截 至 评 级 时 点 ， 公 司 注 册 资 本
+20412.1648 万元，实收资本 20412.1648 万
+元，前五大股东持股数量及持股比例为：自
+然人郝鸿峰持 70786500 股，持股比例
+34.68%；法人北京沃衍投资中心（有限合伙）
+持 16483500 股，持股比例 8.08%；法人天
+津红杉聚业股权投资合伙企业（有限合伙）
+持 14839278 股，持股比例 7.27%；法人珠
+海普罗久仙股权投资合伙企业（有限合伙）
+持 11774518 股，持股比例 5.77%；法人北
+京沃衍电子商务投资管理中心（有限合伙）
+持 9174310股，持股比例 4.49%。
+公司经营范围：“因特网信息服务业务
+（除新闻、出版、教育、医疗保健、药品、
+医疗器械以外的内容）；批发兼零售预包装
+食品；出版物批发；出版物零售；销售（含
+网上销售）五金交电、建筑材料、钢材、日
+用品、计算机软硬件及外围设备、汽车配件、
+机械设备（小汽车除外）、电子产品、通讯
+设备（不含无线电发射设备）、工艺品（需
+行政许可项目除外）、化工产品（不含危险
+化学品及一类易制毒品）；设计、制作、代
+理、发布广告；电脑图文设计；货物进出口、
+技术进出口、代理进出口；技术开发、技术
+咨询、技术服务、技术转让；企业管理、品
+牌管理。（企业依法自主选择经营项目，开
+展经营活动；出版物批发、出版物零售以及
+依法须经批准的项目，经相关部门批准后依
+批准的内容开展经营活动；不得从事本市产
+业政策禁止和限制类项目的经营活动。）”
+目前，公司专业从事酒类商品的线上零售、
+线上批发、即时服务及品牌运营综合服务
+等。
+截至 2016 年 6 月底，公司资产总额为
+109128.72万元，所有者权益为 65472.69万
+元；2015年，公司实现营业收入 149010.16
+万元，利润总额-20613.77万元；2016年 1~6
+月，公司实现营业收入 80412.92万元，利润
+总额-9642.71万元。公司现有员工 1761人，
+在北京市属于大型企业。
+公司注册及经营地址：北京市北京经济
+技术开发区经海五路 58 号院 8 号楼 1 至 6
+层 ； 统 一 社 会 信 用 代 码 ：
+91110302554833311D；公司开户银行：中国
+农业银行北京经济技术开发区支行，开户账
+号：11220101040029498；法定代表人：郝
+鸿峰；营业期限：自 2010 年 05 月 17 日至
+长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="酒仙网电子商务股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、董事长郝鸿峰，39
+岁，硕士研究生学历，中国国籍，无境外永
+久居留权。历任山西百世恒基经贸有限公司
+总裁，酒仙有限董事长、总裁，2013 年 9
+月至今任公司董事长、总裁。
+公司董事、副总裁杨国锋，41岁，大专
+学历，中国国籍，无境外永久居留权。历任
+河南思达软件工程有限公司市场主管、山西
+仙竹酒业有限公司总经理、酒仙有限副总
+裁，2013年 9月至今任公司董事兼副总裁。
+公司财务总监兼董事会秘书冯文洁，47
+岁，大专学历，中国国籍，无境外永久居留
+权。曾先后就职于太原制药厂、山西八同纸
+业有限公司，历任山西北方君威实业集团公
+司任集团财务部副总经理、山西百世恒基经
+贸有限公司财务总监、山西酒仙网络科技有
+限公司总经理；2013年 9月至今历任公司董
+事、副总裁、财务总监兼董事会秘书。
+总体看，公司高管学历水平较高，从业
+及管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 1761人。
+从学历构成看，员工中本科及以上学历者占
+比 68.00%，员工学历水平较高；从年龄构
+成看，员工年龄在 25 岁~45 岁之间者占比
+90.00%，员工以中青年为主，团队富有活力；
+从岗位构成看，管理人员占比 18.00%，技
+术人员占比 10.00%，其他人员占比 72.00%，
+岗位构成能够满足经营需要。
+总体看，公司员工学历水平较高，年龄
+构成以中青年为主，岗位构成能够满足经营
+需要。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，下设技术部，由
+其负责技术架构的完善和运维工作。
+公司一直加大对客户数据分析的技术
+研发力度，建立了综合的客户数据搜集、分
+析体系。同时，公司建立了完善的注册客户
+信息管理系统，详细记录公司注册用户的每
+次浏览、购买酒品的信息，记录每位注册客
+户发生购酒行为的所在区域、时间等购酒行
+为数据，随时掌握客户最新购酒动态，掌握
+每类酒品的消费及浏览数据等。
+总体看，公司研发投入力度较大，研发
+方向紧贴公司实际经营需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="酒仙网电子商务股份有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址为北京市北京经济技术
+开发区经海五路 58 号院 8 号楼 1 至 6 层，
+该经营地办公设施齐全，交通便利。
+公司自成立以来，股权融资规模累计
+14.3亿元，截至 2015 年底，获得银行授信
+额度 4亿元，其中 2.04亿元授信额度尚未使
+用。目前，公司资金充裕，较强的融资能力
+为公司持续经营提供了保障。
+公司为中关村企业信用促进会会员单
+位。先后取得了“电信与信息服务业务经营
+许可证”、“酒类流通备案登记表”、“食
+品卫生许可证”、“食品流通许可证”等多
+项经营所需资质。
+截至评级时点，公司共取得注册商标 83
+项、网络域名 54 项，表 2 罗列了公司历年
+取得的主要资质。
+表 2 公司主要资质汇总
+序号 名 称
+电信与信息服务业务经营许可证
+1
+(证书编号：京 ICP 证 110141 号)
+酒类流通备案登记表
+2
+（证书编号:110013100236 ）
+食品卫生许可证
+3 （证书编号:（京食药）卫食证字（2014）第
+110115-JXK010 号 ）
+食品流通许可证
+4
+（证书编号:SP1103021310005747 ）
+资料来源：公司提供，中企信用整理。
+总体看，公司经营资质齐全，融资能力
+较强，经营条件好。
+（二）业务运营
+公司是国内最早开展酒类电子商务运
+营的公司之一，具有行业先发优势，专业从
+事酒类商品的线上零售---酒仙网（B2C）、
+线上特卖---中酿酒团购（B2B）、即时服
+务---酒快到（O2O）及品牌运营综合服务，
+成立至今一直专注于利用公司的平台优势、
+人才优势、仓储优势、数据优势，为酒类生
+产企业和品牌商提供电子商务的整体解决
+方案，包括协助客户开设和运营网络旗舰店
+/精品店，进行网络推广及互联网产品的研
+发等，通过品牌运营综合服务，公司帮助客
+户建设和拓展线上销售渠道，进行营销策划
+和品牌推广，提升客户在互联网上的品牌影
+响力，扩大消费群体范围和销售规模。
+同时，公司借助于电子信息技术，突破
+传统的酒品销售路径，将销售过程电子化、
+网络化、信息化、透明化，实现合作生产厂
+商、合作品牌商、合作经销商、合作商户、
+终端消费者共同的最大化利益。
+目前，公司已经和国内 500多家酒企建
+立深度合作关系；与天猫、京东、苏宁易购
+等十余家国内知名电商平台实现深度合作。
+1.主要产品和服务
+公司收入主要来源于酒水销售、技术服
+务等。业务形式主要有：基于互联网、移动
+互联网技术的线上酒类零售业务（酒仙网
+B2C）、基于互联网、移动互联网技术的线
+上酒类批发业务（酒仙团 B2B）、基于 LBS
+技术和 O2O 模式的酒类即时服务业务（酒
+快到 O2O）、品牌运营综合服务等。公司通
+过开展以上业务，取得酒水销售和技术服务
+收入。2015年，公司酒水销售收入、技术服
+务收入分别占当年总收入的 93.69%、
+6.31%。
+2.采购模式
+采购方面，公司采购商品主要为各类酒
+品。公司通常会与酒类供应商签订一定期限
+内的采购框架协议，然后根据需要以订单形
+式向供应商批量采购。公司根据各销售部门
+确定的下阶段销售计划向采购部门下达酒
+品采购需求，各采购部门根据各自负责的酒
+品市场情况制定具体的采购计划。同时，公
+司建立了酒品库存预警机制，当酒品存量低
+于预警量后，公司将通过 ERP 系统向相关
+采购人员发出预警，及时做出相应采购计
+划。
+3.销售模式
+销售方面，公司目前的酒水销售主要分
+为零售业务及特卖业务。公司酒水零售业务
+主要依托公司官网平台、移动客户端（酒仙
+网 APP）进行销售以及在天猫、京东等国
+内领先的第三方网络购物平台开设店铺进
+行销售。公司将海量酒类商品的展销信息从
+消费者角度，根据消费行为特点在销售平台
+分门别类展示，同时根据酒品热点、促销热
+点等开辟专门版块满足消费者的个性化需
+求。
+公司特卖业务（中酿酒团购 B2B）主
+要通过中酿酒团购网站进行销售。与零售业
+务不同，公司特卖业务并非针对个人消费
+者，而是针对选择与公司合作的会员单位
+（烟酒店、便利店、商超、餐饮店、企业及
+商会等），向其提供性价比高的酒类商品，
+通过会员单位辐射终端消费者。公司特卖业
+务实行团购的模式，即销售时以整箱进行销
+售，同时每单满足一定金额，可享受免费配
+送的服务。
+公司客户较分散，2015年公司前五大销
+售客户合计销售占比仅为 3.56%，详见表 3。
+表 3 公司 2015年度前五大销售客户
+销售金额 销售占
+客户名称 合作年限
+（万元） 比（%）
+阳泉市郊区心宽商行 2111.94 0.96 1年
+太原市杏花岭区大信
+2001.53 0.91 1年
+商店
+太原市小店区飞扬商
+1506.34 0.69 2年
+贸行
+太原市万柏林区同兴
+1270.22 0.58 1年
+酒业批发部
+清徐县大唐副食商店 924.08 0.42 3年
+资料来源：公司提供，中企信用整理。
+总体看，公司主营业务清晰，主要产品
+种类较丰富，上下游渠道较畅通，业务运作
+情况良好。
+（三）经营效率
+表 4 公司近三年主要经营指标
+财务指标 2013年 2014 年 2015年
+成本率（%） 129.32 118.05 114.20
+管理费用率（%） 6.84 5.72 4.91
+应收账款周转次数(次) 7.73 14.70 25.47
+存货周转次数(次) 1.82 2.77 3.49
+总资产周转次数(次) 0.89 1.30 1.32
+资料来源：公司提供，中企信用整理
+近三年，公司成本率分别为 129.32%、
+118.05%、114.20%，加权平均值为 118.38%，
+处于行业高水平；同期，管理费用率分别为
+6.84%、5.72%、4.91%，呈下降趋势，加权
+平均值为 5.54%，处于行业低水平，公司对
+管理费用的控制力度较好。
+近三年，公司应收账款周转次数分别为
+7.73次、14.70次、25.47次，呈大幅上升趋
+势，加权平均值为 18.69次，处于行业高水
+平；存货周转次数加权平均值为 2.94次，虽
+呈上升趋势，但依然处于行业较低水平；同
+期，总资产周转次数分别为 0.89 次、1.30
+次、1.32次，加权平均值为 1.23次，处于行
+业一般水平。
+总体看，公司经营效率较高。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中华人民共和国公司法》及
+其他有关规定，制订了《酒仙网电子商务股
+份有限公司章程》。
+股东大会是公司的权力机构，行使决定
+公司的经营方针和投资计划、审议批准董事
+会的报告等职权。
+公司设董事会，对股东大会负责，董事
+会由 9名董事组成，设董事长 1人，董事会
+行使召集股东大会，并向股东大会报告工作
+等职权。
+公司设监事会，监事会由3名监事组成，
+设监事会主席 1名，监事会行使检查公司财
+务、对董事、高级管理人员执行公司职务的
+行为进行监督等职权。
+公司设总经理 1人，总经理对董事会负
+责，主持公司的生产经营管理工作，组织实
+施董事会决议，并向董事会报告工作。
+公司内设行政人事部、运营部、产品部、
+研发部、设计部、市场部、财务部，部门设
+置清晰。
+总体看，公司法人治理结构完善，组织
+架构清晰。
+（二）内控制度及执行
+公司根据经营需要制定了《人事管理制
+度》、《薪酬管理制度》、《奖惩和晋升制
+度》、《财务管理制度》、《保密制度》、
+《员工守则》等制度规范，实际业务操作中
+严格按标准执行。
+总体看，公司内部管理制度完善，制度
+执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据中企信用数据预测规则，结合公司
+提供的财务数据，按照谨慎性原则，中企信
+用 预 测 公 司 2016 年 将 实 现 营 业 收 入
+160000.00万元，净利润-15000.00万元；预
+计 2016年底资产总额 130000.00万元，负债
+总额 52000.00 万元，所有者权益 78000.00
+万元。相比 2015年，预计 2016年营业收入
+增长 7.38%，负债率变动幅度 3.47%，净资
+产收益率变动幅度 14.72%。
+总体看，公司未来一年发展前景较好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="酒仙网电子商务股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 6 月底，公司资产总额
+109128.72万元，其中流动资产占比 85.96%，
+非流动资产占比 14.04%。
+1.流动资产
+截至 2016 年 6 月底，公司流动资产
+93810.03万元，主要为：货币资金 11942.91
+万元，占比 12.73%；应收账款 3463.97万元，
+占比 3.69%，主要为应收支付宝（中国）网
+络技术有限公司、江苏京东信息技术有限公
+司、北京星辰急便速递有限公司、北京当当
+科文电子商务有限公司、北京乐捷递物流有
+限公司的货款，公司已按账龄分析法计提了
+坏账准备；预付款项 13310.72 万元，占比
+14.19%，主要为预付酒水款项等；其他应收
+款 32236.76 万元，占比 34.36%，主要为公
+司与北京中酿国际酒业有限公司、酒 仙 网
+电 子 商 务（广东）有限公司、北京酒快
+到网络科技有限公司、酒 仙 网 电 子 商
+务（天津）有限公司、北京酒仙团电子商务
+有限公司的往来款；存货 32365.08万元，占
+比 34.50%，主要为库存商品、周转材料、
+发出商品等。
+2.非流动资产
+截至 2016 年 6 月底，公司非流动资产
+15318.69万元，主要为：可供出售金融资产
+2008.00万元，占比 13.11%，为可供出售权
+益工具，详见表 5。
+表 5 可供出售权益工具（截至评级时点）
+持股比例 投资金额（万
+公司名称
+（%） 元）
+黑龙江省华龙酒直达供应
+3.04 1000.00
+链管理股份有限公司
+名品世家（北京）酒业连锁
+1.73 1008.00
+股份有限公司
+资料来源：2016年公司半年报，中企信用整理
+长期股权投资 9705.52 万元，占比
+63.36%，系公司对子公司的股权投资，详见
+表 6。
+表 6 子公司汇总（截至评级时点）
+持股比例 投资金额
+子公司名称
+（%） （万元）
+上海酒仙电子商
+100.00 200.00
+务有限公司
+广州酒仙网商贸
+100.00 200.00
+有限公司
+北京中酿国际酒
+100.00 200.00
+业有限公司
+山西酒仙网络科
+100.00 58.82
+技有限公司
+上海百世国际酒
+100.00 200.00
+业有限公司
+酒仙网电子商务
+100.00 200.00
+（武汉）有限公司
+酒仙网电子商务
+100.00 200.00
+（天津）有限公司
+天津百世仓储有
+100.00 6596.70
+限公司
+酒仙网电子商务
+100.00 300.00
+（广东）有限公司
+北京酒快到网络
+100.00 200.00
+科技有限公司
+临漳县百世电子商务
+100.00 200.00
+服务有限公司
+北京酒仙团电子
+100.00 200.00
+商务有限公司
+中酿德澳电子商务
+100.00 50.00
+（天津）有限公司
+酒仙供应链发展
+100.00 200.00
+（天津）有限公司
+上海达奇尚品生物
+100.00 700.00
+科技有限公司
+资料来源：2016年公司半年报，中企信用整理
+固定资产净额 1818.94 万元，占比
+11.87%，主要是运输设备、研发设备、电子
+设备、办公设备、仓储设备等；长期待摊费
+用 1397.16 万元，占比 9.12%，主要为工程
+装修支出。
+总体看，公司资产流动性较强，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 6 月底，公司负债总额为
+43656.03万元，其中，流动负债占比 89.58%，
+非流动负债占比 10.42%，公司资产负债率
+为 40.00%，负债水平一般，有有息债务。
+（1）流动负债
+截至 2016 年 6 月底，公司流动负债为
+39381.03 万元，主要为：短期借款 6000.00
+万元，占比 15.24%，系公司取得的 3 笔银
+行贷款，详见表 7；
+表 7 公司短期借款情况（截至评级时点）
+借款 贷款余额
+贷款银行 利率
+类型 （万元）
+借款利率
+北京银行股份有
+为基准利
+限公司国兴家园 信用借款 2000.00
+率上浮
+支行
+15%
+借款利率
+华夏银行股份有
+为基准利
+限公司北京魏公 信用借款 2500.00
+率上浮
+村支行
+10%
+借款利率
+招商银行股份有
+为基准利
+限公司北京分行 信用借款 1500.00
+率上浮
+太阳宫支行
+20%
+资料来源：2016年公司半年报，中企信用整理
+应付票据 14522.67万元，占比 36.88%，
+系公司应付的银行承兑汇票；应付账款
+10497.19 万元，占比 26.66%，主要为应付
+上游客户的货款；其他应付款 6468.68万元，
+占比 16.43%，主要为运费、押金及保证金、
+其他费用等。
+（2）非流动负债
+截至 2016 年 6 月底，公司非流动负债
+为 4275.00万元，全部为长期借款，系公司
+从锦州银行北京阜成门支行取得的抵押借
+款（固定年利率为 7.20% ，全 资 子 公 司
+天津百世仓储有限公司以其持有的土地作
+为质押物）。
+总体看，公司负债以流动负债为主，负
+债水平一般，有有息债务。
+2.所有者权益
+近三年，公司所有者权益分别为
+12831.30万元、45742.04万元、75016.62万元，
+复合增长率为141.79%，公司所有者权益增
+长快，主要系公司股东增资和留存收益增加
+较快所致，对债务的保障能力较强。
+截至2016年6月底，公司所有者权益
+65472.69万元，其中实收资本20412.16万元；
+资本公积 121272.29万元；未分配利润
+-76211.77万元。
+总体看，公司所有者权益增长快，对债
+务的保障能力较强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 6
+月底，公司流动比率和速动比率分别为
+238.21%、156.03%，均处于行业较高水平；
+2015年，公司现金流动负债比-90.07%，经
+营活动产生的净现金流对流动负债的保障
+能力弱。
+从长期偿债能力指标看，近三年，公司
+EBITDA 利息倍数、债务保护倍数均为负
+值，公司长期偿债能力较弱。
+结合公司业务发展及债务构成看，公司
+整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 82007.07
+万元、130082.14万元、149010.16万元，复
+合增长率 34.80%，公司营业收入增长较快；
+同期，公司净利润分别为 -26350.56万元、
+-23089.26万元、-20725.42万元，虽然公司
+营业收入快速增长，但受电商行业特性及公
+司发展策略的影响，导致公司尚未实现盈
+利。
+近三年，公司主营业务利润率分别为
+12.06%、14.36%、6.93%，加权平均值为
+10.18%，处于行业较低水平；同期，由于公
+司处于亏损阶段，净资产收益率、总资产报
+酬率均为负值，处于行业低水平。
+近三年，公司现金收入比分别为
+155.41%、112.13%、78.77%，加权平均值为
+104.11%，2015年公司收入实现质量较差。
+总体看，公司盈利能力偏弱，2015年收
+入实现质量较差。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="酒仙网电子商务股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司目前处于亏损阶段，盈利能力偏
+弱。
+2.公司银行贷款金额较大，关注后期还
+款情况。
+3.公司经营活动获取现金的能力较弱，
+整体现金流对筹资活动的依赖性较大。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+        <enterprise:预测项目名称></enterprise:预测项目名称>
+        <enterprise:预测项目金额></enterprise:预测项目金额>
+        <enterprise:预测项目年限></enterprise:预测项目年限>
+    </enterprise:预测项目>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="酒仙网电子商务股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>92507.47 </enterprise:资产总额>
+    <enterprise:所有者权益>58346.54 </enterprise:所有者权益>
+    <enterprise:负债总额>79676.17 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>82007.07 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="酒仙网电子商务股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>106956.29 </enterprise:资产总额>
+    <enterprise:所有者权益>137435.80 </enterprise:所有者权益>
+    <enterprise:负债总额>61214.26 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>130082.14 </enterprise:营业收入>
+    <enterprise:EBITDA>-66.23 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="酒仙网电子商务股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>118187.58 </enterprise:资产总额>
+    <enterprise:所有者权益>208161.22 </enterprise:所有者权益>
+    <enterprise:负债总额>43170.95 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>149010.16 </enterprise:营业收入>
+    <enterprise:EBITDA>-29.21 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="酒仙网电子商务股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.89 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.61 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.70 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="酒仙网电子商务股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.30 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.96 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.82 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="酒仙网电子商务股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.32 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.69 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="酒仙网电子商务股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-32.73 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="酒仙网电子商务股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-10.75 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="酒仙网电子商务股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-5.94 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="酒仙网电子商务股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>107.03 </enterprise:流动比率>
+    <enterprise:速动比率>57.61 </enterprise:速动比率>
+    <enterprise:资产负债率>86.13 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-66.23 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="酒仙网电子商务股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>152.15 </enterprise:流动比率>
+    <enterprise:速动比率>85.58 </enterprise:速动比率>
+    <enterprise:资产负债率>57.23 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-29.21 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="酒仙网电子商务股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>271.79 </enterprise:流动比率>
+    <enterprise:速动比率>172.14 </enterprise:速动比率>
+    <enterprise:资产负债率>36.53 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-17.07 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="酒仙网电子商务股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>12.40 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-16.94 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.55 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-18.80 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.17 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="酒仙网电子商务股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>14.73 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-10.07 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.12 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-81.09 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.87 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="酒仙网电子商务股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>7.20 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-7.56 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.79 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-90.07 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.64 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="酒仙网电子商务股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1943.81 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>10612.95 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>24918.78 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4478.68 </enterprise:其他应收款>
+    <enterprise:存货>39376.67 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>3945.42 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>85276.31 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>5256.82 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1629.44 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>183.81 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>92.41 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>68.68 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>7231.16 </enterprise:非流动资产合计>
+    <enterprise:资产总计>92507.47 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="酒仙网电子商务股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>9246.69 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>7087.70 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>12481.21 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>21973.93 </enterprise:其他应收款>
+    <enterprise:存货>40754.96 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>1594.73 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>93139.22 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>8755.52 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2968.58 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>432.90 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>1152.40 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>160.67 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>347.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>13817.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>106956.29 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="酒仙网电子商务股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>23055.92 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4613.85 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>10046.31 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>28852.54 </enterprise:其他应收款>
+    <enterprise:存货>38533.87 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>105102.49 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>8755.52 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2280.22 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>365.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>1625.24 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>58.44 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>13085.09 </enterprise:非流动资产合计>
+    <enterprise:资产总计>118187.58 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="酒仙网电子商务股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>15050.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>17765.83 </enterprise:应付账款>
+    <enterprise:预收款项>17569.66 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1011.39 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>256.35 </enterprise:应交税费>
+    <enterprise:应付利息>22.90 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>9538.13 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>61214.26 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>61214.26 </enterprise:负债合计>
+    <enterprise:实收资本或股本>12559.49 </enterprise:实收资本或股本>
+    <enterprise:资本公积>79029.43 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>45846.88 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>137435.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>137435.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>198650.06 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="酒仙网电子商务股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>15050.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>17765.83 </enterprise:应付账款>
+    <enterprise:预收款项>17569.66 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1011.39 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>256.35 </enterprise:应交税费>
+    <enterprise:应付利息>22.90 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>9538.13 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>61214.26 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>61214.26 </enterprise:负债合计>
+    <enterprise:实收资本或股本>12559.49 </enterprise:实收资本或股本>
+    <enterprise:资本公积>79029.43 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>45846.88 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>137435.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>137435.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>198650.06 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="酒仙网电子商务股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>10124.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>7580.98 </enterprise:应付票据>
+    <enterprise:应付账款>12561.29 </enterprise:应付账款>
+    <enterprise:预收款项>4615.71 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>834.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>53.70 </enterprise:应交税费>
+    <enterprise:应付利息>27.93 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2873.34 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>38670.95 </enterprise:流动负债合计>
+    <enterprise:长期借款>4500.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>4500.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>43170.95 </enterprise:负债合计>
+    <enterprise:实收资本或股本>13606.11 </enterprise:实收资本或股本>
+    <enterprise:资本公积>127982.81 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>66572.30 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>208161.22 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>208161.22 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>251332.17 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="酒仙网电子商务股份有限公司2013年利润表">
+    <enterprise:营业收入>82007.07 </enterprise:营业收入>
+    <enterprise:主营业务收入>82007.07 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>71838.07 </enterprise:营业成本>
+    <enterprise:主营业务成本>71838.07 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>282.53 </enterprise:营业税金及附加>
+    <enterprise:销售费用>26151.74 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>7255.02 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>358.71 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>161.97 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-16785.95 </enterprise:营业利润>
+    <enterprise:营业外收入>83.63 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>3.73 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-16706.05 </enterprise:利润总额>
+    <enterprise:所得税费用>2389.50 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-19095.55 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-19095.55 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="酒仙网电子商务股份有限公司2014年利润表">
+    <enterprise:营业收入>130082.14 </enterprise:营业收入>
+    <enterprise:主营业务收入>130082.14 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>110916.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>110916.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>492.41 </enterprise:营业税金及附加>
+    <enterprise:销售费用>32501.58 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>8777.39 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>503.61 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>367.97 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-14699.87 </enterprise:营业利润>
+    <enterprise:营业外收入>224.14 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>70.69 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-14546.42 </enterprise:利润总额>
+    <enterprise:所得税费用>234.55 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-14780.97 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-14780.97 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="酒仙网电子商务股份有限公司2015年利润表">
+    <enterprise:营业收入>149010.16 </enterprise:营业收入>
+    <enterprise:主营业务收入>149010.16 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>138276.28 </enterprise:营业成本>
+    <enterprise:主营业务成本>138276.28 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>406.86 </enterprise:营业税金及附加>
+    <enterprise:销售费用>22470.16 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>8364.08 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>930.61 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-271.08 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-12802.67 </enterprise:营业利润>
+    <enterprise:营业外收入>786.95 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>233.96 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-12249.68 </enterprise:利润总额>
+    <enterprise:所得税费用>111.65 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-12361.33 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-12361.33 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年酒仙网电子商务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>127450.29 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>6042.58 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>133492.87 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>108527.72  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4823.02 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1940.87 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>33176.63 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>148468.24 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-14975.37 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>574.19 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>4598.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5172.19 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5172.19 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>9639.65 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>9639.65 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>5133.91 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>346.60 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>5480.51 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>4159.14 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-15988.42 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年酒仙网电子商务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>145865.61 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>3.06 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>22244.59 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>168113.26 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>151272.77  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>11546.38 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>7877.48 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>47056.91 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>217753.54 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-49640.28 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4205.35 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>3498.70 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>7704.05 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-7704.05 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>18050.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>18050.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>8889.65 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>513.15 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>9402.80 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>8647.20 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-48697.13 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年酒仙网电子商务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>117373.81 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>1613.75 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>39930.53 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>158918.09 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>132757.16  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>11659.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3935.43 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>45395.68 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>193747.27 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-34829.18 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>43.22 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>43.22 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>805.64 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>2038.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2843.64 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2800.42 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>22624.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>22624.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>23050.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1068.99 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>24118.99 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1494.99 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-39124.59 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：郝鸿峰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郝鸿峰 </enterprise:股东名称>
+	 <enterprise:货币>4,717.1万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>47.17%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：北京沃衍投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京沃衍投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>1,098.9万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.99%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：天津红杉聚股权投资合伙企企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津红杉聚股权投资合伙企企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>871.54万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>8.72%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：东方富海（芜湖）股权投资基金（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>东方富海（芜湖）股权投资基金（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>592.65万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：贺松春 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>贺松春 </enterprise:股东名称>
+	 <enterprise:货币>543.7万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：广东粤强实业集团有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>广东粤强实业集团有限公司 </enterprise:股东名称>
+	 <enterprise:货币>483.13万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.83%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：上海玖樽投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>上海玖樽投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>450.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：东方富海（芜湖）二号股权投资基金（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>东方富海（芜湖）二号股权投资基金（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>278.89万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.79%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：上海玖通投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>上海玖通投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>200.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：闫海军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>闫海军 </enterprise:股东名称>
+	 <enterprise:货币>200.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：海南华兴合创创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>海南华兴合创创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>109.89万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.10%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：王力川 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王力川 </enterprise:股东名称>
+	 <enterprise:货币>87.91万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：王清 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王清 </enterprise:股东名称>
+	 <enterprise:货币>87.91万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：习晓剑 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>习晓剑 </enterprise:股东名称>
+	 <enterprise:货币>87.91万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：徐家昌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐家昌 </enterprise:股东名称>
+	 <enterprise:货币>87.91万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：许磊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许磊 </enterprise:股东名称>
+	 <enterprise:货币>73.26万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="酒仙网电子商务股份有限公司股东：徐志文 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐志文 </enterprise:股东名称>
+	 <enterprise:货币>29.3万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.29%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-4-27</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>23831160</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>23726940</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>23726732</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>16-11-3</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>21784679</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙金钻">
+	<enterprise:有申请日期>16-9-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙金钻</enterprise:有商标名称>
+	<enterprise:有注册号>21351513</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙钻石">
+	<enterprise:有申请日期>16-9-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙钻石</enterprise:有商标名称>
+	<enterprise:有注册号>21351867</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>16-4-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>19692623</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：蓝玛龙">
+	<enterprise:有申请日期>16-3-30</enterprise:有申请日期>
+	<enterprise:有商标名称>蓝玛龙</enterprise:有商标名称>
+	<enterprise:有注册号>19471752</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：蓝梦庄园">
+	<enterprise:有申请日期>16-3-30</enterprise:有申请日期>
+	<enterprise:有商标名称>蓝梦庄园</enterprise:有商标名称>
+	<enterprise:有注册号>19471750</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：蓝玛瑙">
+	<enterprise:有申请日期>16-3-30</enterprise:有申请日期>
+	<enterprise:有商标名称>蓝玛瑙</enterprise:有商标名称>
+	<enterprise:有注册号>19471751</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙新通路">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙新通路</enterprise:有商标名称>
+	<enterprise:有注册号>19292528</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙新通路">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙新通路</enterprise:有商标名称>
+	<enterprise:有注册号>19292530</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙新通路">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙新通路</enterprise:有商标名称>
+	<enterprise:有注册号>19292529</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙直供">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙直供</enterprise:有商标名称>
+	<enterprise:有注册号>19292531</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>19292532</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙供应链">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙供应链</enterprise:有商标名称>
+	<enterprise:有注册号>19292527</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙时尚">
+	<enterprise:有申请日期>16-1-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙时尚</enterprise:有商标名称>
+	<enterprise:有注册号>18881915</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网智能酒行">
+	<enterprise:有申请日期>15-12-7</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网智能酒行</enterprise:有商标名称>
+	<enterprise:有注册号>18525430</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙 9.19">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙 9.19</enterprise:有商标名称>
+	<enterprise:有注册号>18388268</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>评审分案</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙9.9狂欢节">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙9.9狂欢节</enterprise:有商标名称>
+	<enterprise:有注册号>18388269</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒约酒">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>酒约酒</enterprise:有商标名称>
+	<enterprise:有注册号>18388270</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：67 度男人">
+	<enterprise:有申请日期>15-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>67 度男人</enterprise:有商标名称>
+	<enterprise:有注册号>18237397</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒团购">
+	<enterprise:有申请日期>15-9-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒团购</enterprise:有商标名称>
+	<enterprise:有注册号>17917244</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿  WWW.ZHONGNIANG.COM">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿  WWW.ZHONGNIANG.COM</enterprise:有商标名称>
+	<enterprise:有注册号>16421874</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>14-12-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>15919435</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：九仙网">
+	<enterprise:有申请日期>14-12-5</enterprise:有申请日期>
+	<enterprise:有商标名称>九仙网</enterprise:有商标名称>
+	<enterprise:有注册号>15866873</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙汇">
+	<enterprise:有申请日期>14-11-15</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙汇</enterprise:有商标名称>
+	<enterprise:有注册号>15709120</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙汇">
+	<enterprise:有申请日期>14-11-15</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙汇</enterprise:有商标名称>
+	<enterprise:有注册号>15709121</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙汇">
+	<enterprise:有申请日期>14-11-15</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙汇</enterprise:有商标名称>
+	<enterprise:有注册号>15709122</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网  WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网  WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659120</enterprise:有注册号>
+	<enterprise:有类别>22-绳、网及包装物</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659119</enterprise:有注册号>
+	<enterprise:有类别>25-服装鞋帽</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659124</enterprise:有注册号>
+	<enterprise:有类别>17-绝缘材料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659128</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网  WWWJIUXIANCOM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网  WWWJIUXIANCOM</enterprise:有商标名称>
+	<enterprise:有注册号>15659121</enterprise:有注册号>
+	<enterprise:有类别>21-厨房器皿洁具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659122</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659127</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659126</enterprise:有注册号>
+	<enterprise:有类别>08-手动机械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659117</enterprise:有注册号>
+	<enterprise:有类别>30-糖、茶、糕点、调味品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659118</enterprise:有注册号>
+	<enterprise:有类别>29-肉、蛋、奶、食用油</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659114</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659115</enterprise:有注册号>
+	<enterprise:有类别>34-烟草烟具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659116</enterprise:有注册号>
+	<enterprise:有类别>31-新鲜蔬果</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659123</enterprise:有注册号>
+	<enterprise:有类别>18-皮革、雨伞</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659125</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>15659129</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：美街网">
+	<enterprise:有申请日期>14-9-19</enterprise:有申请日期>
+	<enterprise:有商标名称>美街网</enterprise:有商标名称>
+	<enterprise:有注册号>15376078</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：美街网">
+	<enterprise:有申请日期>14-9-19</enterprise:有申请日期>
+	<enterprise:有商标名称>美街网</enterprise:有商标名称>
+	<enterprise:有注册号>15376079</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：美街网">
+	<enterprise:有申请日期>14-9-19</enterprise:有申请日期>
+	<enterprise:有商标名称>美街网</enterprise:有商标名称>
+	<enterprise:有注册号>15376080</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>14766085</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿酒团购">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿酒团购</enterprise:有商标名称>
+	<enterprise:有注册号>14766074</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网  WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网  WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>14766086</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：好酒团">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>好酒团</enterprise:有商标名称>
+	<enterprise:有注册号>14766076</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿</enterprise:有商标名称>
+	<enterprise:有注册号>14766079</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>14766081</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿</enterprise:有商标名称>
+	<enterprise:有注册号>14766078</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>14766083</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>14766084</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿酒团网">
+	<enterprise:有申请日期>14-7-17</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿酒团网</enterprise:有商标名称>
+	<enterprise:有注册号>14766075</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>14-6-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>14854313</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙到">
+	<enterprise:有申请日期>14-5-22</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙到</enterprise:有商标名称>
+	<enterprise:有注册号>14744345</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙到">
+	<enterprise:有申请日期>14-5-22</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙到</enterprise:有商标名称>
+	<enterprise:有注册号>14744421</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙到">
+	<enterprise:有申请日期>14-3-21</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙到</enterprise:有商标名称>
+	<enterprise:有注册号>14223599</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙团">
+	<enterprise:有申请日期>14-3-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙团</enterprise:有商标名称>
+	<enterprise:有注册号>14189075</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>12-5-28</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>10984773</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(异议决定书)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>12-5-11</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>10908233</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标异议申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：GALANTMAN 歌浪夫">
+	<enterprise:有申请日期>12-3-16</enterprise:有申请日期>
+	<enterprise:有商标名称>GALANTMAN 歌浪夫</enterprise:有商标名称>
+	<enterprise:有注册号>10631208</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：爱丽斯丹 ALICE DAN">
+	<enterprise:有申请日期>12-3-16</enterprise:有申请日期>
+	<enterprise:有商标名称>爱丽斯丹 ALICE DAN</enterprise:有商标名称>
+	<enterprise:有注册号>10630946</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：FABRIZIO 菲比诺">
+	<enterprise:有申请日期>12-3-16</enterprise:有申请日期>
+	<enterprise:有商标名称>FABRIZIO 菲比诺</enterprise:有商标名称>
+	<enterprise:有注册号>10631184</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：慕思">
+	<enterprise:有申请日期>12-2-13</enterprise:有申请日期>
+	<enterprise:有商标名称>慕思</enterprise:有商标名称>
+	<enterprise:有注册号>10483467</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>商标异议申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：飞图">
+	<enterprise:有申请日期>11-10-24</enterprise:有申请日期>
+	<enterprise:有商标名称>飞图</enterprise:有商标名称>
+	<enterprise:有注册号>10102277</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：波尔丽舍">
+	<enterprise:有申请日期>11-10-24</enterprise:有申请日期>
+	<enterprise:有商标名称>波尔丽舍</enterprise:有商标名称>
+	<enterprise:有注册号>10102281</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：红戈">
+	<enterprise:有申请日期>11-10-24</enterprise:有申请日期>
+	<enterprise:有商标名称>红戈</enterprise:有商标名称>
+	<enterprise:有注册号>10102284</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网酒快递">
+	<enterprise:有申请日期>11-6-1</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网酒快递</enterprise:有商标名称>
+	<enterprise:有注册号>9546230</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网酒速递">
+	<enterprise:有申请日期>11-6-1</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网酒速递</enterprise:有商标名称>
+	<enterprise:有注册号>9546243</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网酒便利">
+	<enterprise:有申请日期>11-6-1</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网酒便利</enterprise:有商标名称>
+	<enterprise:有注册号>9546262</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9456528</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9456568</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9456804</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9456829</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9456862</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：洒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>洒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9421968</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：洒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>洒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9421983</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：洒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>洒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9422010</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9422047</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：洒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>洒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9422001</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>11-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>9422024</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>11-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>9312465</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>11-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>9312423</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>11-3-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>9226248</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW.JIUXIAN.COM">
+	<enterprise:有申请日期>11-3-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW.JIUXIAN.COM</enterprise:有商标名称>
+	<enterprise:有注册号>9226273</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网 WWW JIUXIAN COM">
+	<enterprise:有申请日期>11-3-17</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网 WWW JIUXIAN COM</enterprise:有商标名称>
+	<enterprise:有注册号>9226077</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：百世">
+	<enterprise:有申请日期>11-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>百世</enterprise:有商标名称>
+	<enterprise:有注册号>9209415</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙">
+	<enterprise:有申请日期>11-3-11</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙</enterprise:有商标名称>
+	<enterprise:有注册号>9202305</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：莱圣堡 LASINFORT">
+	<enterprise:有申请日期>10-11-16</enterprise:有申请日期>
+	<enterprise:有商标名称>莱圣堡 LASINFORT</enterprise:有商标名称>
+	<enterprise:有注册号>8848433</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：伊菲堡 EFARBOW">
+	<enterprise:有申请日期>10-11-16</enterprise:有申请日期>
+	<enterprise:有商标名称>伊菲堡 EFARBOW</enterprise:有商标名称>
+	<enterprise:有注册号>8848435</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：玖仙网 JIUXIANWANG.COM">
+	<enterprise:有申请日期>09-11-11</enterprise:有申请日期>
+	<enterprise:有商标名称>玖仙网 JIUXIANWANG.COM</enterprise:有商标名称>
+	<enterprise:有注册号>7826732</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒圣在线">
+	<enterprise:有申请日期>09-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>酒圣在线</enterprise:有商标名称>
+	<enterprise:有注册号>7748458</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：久仙">
+	<enterprise:有申请日期>09-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>久仙</enterprise:有商标名称>
+	<enterprise:有注册号>7748442</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙网">
+	<enterprise:有申请日期>09-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙网</enterprise:有商标名称>
+	<enterprise:有注册号>7748478</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：酒仙在线">
+	<enterprise:有申请日期>09-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>酒仙在线</enterprise:有商标名称>
+	<enterprise:有注册号>7748438</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：七景">
+	<enterprise:有申请日期>09-9-22</enterprise:有申请日期>
+	<enterprise:有商标名称>七景</enterprise:有商标名称>
+	<enterprise:有注册号>7717577</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：天贵酒行">
+	<enterprise:有申请日期>09-8-17</enterprise:有申请日期>
+	<enterprise:有商标名称>天贵酒行</enterprise:有商标名称>
+	<enterprise:有注册号>7626744</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：天贵">
+	<enterprise:有申请日期>09-8-17</enterprise:有申请日期>
+	<enterprise:有商标名称>天贵</enterprise:有商标名称>
+	<enterprise:有注册号>7626739</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：天贵国际酒行">
+	<enterprise:有申请日期>09-8-17</enterprise:有申请日期>
+	<enterprise:有商标名称>天贵国际酒行</enterprise:有商标名称>
+	<enterprise:有注册号>7626746</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：拉玛特雄狮堡 CHATEAU LIONS LAMARTINE">
+	<enterprise:有申请日期>09-7-3</enterprise:有申请日期>
+	<enterprise:有商标名称>拉玛特雄狮堡 CHATEAU LIONS LAMARTINE</enterprise:有商标名称>
+	<enterprise:有注册号>7519689</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：艾力">
+	<enterprise:有申请日期>09-3-4</enterprise:有申请日期>
+	<enterprise:有商标名称>艾力</enterprise:有商标名称>
+	<enterprise:有注册号>7232465</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：艾丽">
+	<enterprise:有申请日期>09-3-4</enterprise:有申请日期>
+	<enterprise:有商标名称>艾丽</enterprise:有商标名称>
+	<enterprise:有注册号>7232468</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-12-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7142579</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-12-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7142572</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐玉宴">
+	<enterprise:有申请日期>08-12-25</enterprise:有申请日期>
+	<enterprise:有商标名称>唐玉宴</enterprise:有商标名称>
+	<enterprise:有注册号>7133242</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐主宴">
+	<enterprise:有申请日期>08-12-25</enterprise:有申请日期>
+	<enterprise:有商标名称>唐主宴</enterprise:有商标名称>
+	<enterprise:有注册号>7133243</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：富豪">
+	<enterprise:有申请日期>08-12-12</enterprise:有申请日期>
+	<enterprise:有商标名称>富豪</enterprise:有商标名称>
+	<enterprise:有注册号>7110589</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王酒行">
+	<enterprise:有申请日期>08-11-21</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王酒行</enterprise:有商标名称>
+	<enterprise:有注册号>7070624</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王">
+	<enterprise:有申请日期>08-11-21</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王</enterprise:有商标名称>
+	<enterprise:有注册号>7070596</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王国际酒行">
+	<enterprise:有申请日期>08-11-21</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王国际酒行</enterprise:有商标名称>
+	<enterprise:有注册号>7070625</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王国际">
+	<enterprise:有申请日期>08-11-21</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王国际</enterprise:有商标名称>
+	<enterprise:有注册号>7070628</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7061910</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7061908</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7061909</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7061911</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：德尔菲娜;LA DELPHINALE">
+	<enterprise:有申请日期>08-8-4</enterprise:有申请日期>
+	<enterprise:有商标名称>德尔菲娜;LA DELPHINALE</enterprise:有商标名称>
+	<enterprise:有注册号>6876163</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王宴宴天下">
+	<enterprise:有申请日期>07-12-10</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王宴宴天下</enterprise:有商标名称>
+	<enterprise:有注册号>6428622</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：中酿">
+	<enterprise:有申请日期>07-6-11</enterprise:有申请日期>
+	<enterprise:有商标名称>中酿</enterprise:有商标名称>
+	<enterprise:有注册号>6100516</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：绿色魅惑">
+	<enterprise:有申请日期>07-5-28</enterprise:有申请日期>
+	<enterprise:有商标名称>绿色魅惑</enterprise:有商标名称>
+	<enterprise:有注册号>6075918</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：思慕">
+	<enterprise:有申请日期>07-3-23</enterprise:有申请日期>
+	<enterprise:有商标名称>思慕</enterprise:有商标名称>
+	<enterprise:有注册号>5957423</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：竹板">
+	<enterprise:有申请日期>07-2-25</enterprise:有申请日期>
+	<enterprise:有商标名称>竹板</enterprise:有商标名称>
+	<enterprise:有注册号>5924850</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王府">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王府</enterprise:有商标名称>
+	<enterprise:有注册号>5847929</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王</enterprise:有商标名称>
+	<enterprise:有注册号>5847930</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王御">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王御</enterprise:有商标名称>
+	<enterprise:有注册号>5847931</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王贡">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王贡</enterprise:有商标名称>
+	<enterprise:有注册号>5847933</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王宴">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王宴</enterprise:有商标名称>
+	<enterprise:有注册号>5847928</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐高祖">
+	<enterprise:有申请日期>07-1-15</enterprise:有申请日期>
+	<enterprise:有商标名称>唐高祖</enterprise:有商标名称>
+	<enterprise:有注册号>5847932</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：仙竹">
+	<enterprise:有申请日期>06-7-14</enterprise:有申请日期>
+	<enterprise:有商标名称>仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>5479666</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：仙竹">
+	<enterprise:有申请日期>06-7-14</enterprise:有申请日期>
+	<enterprise:有商标名称>仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>5479664</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：仙竹">
+	<enterprise:有申请日期>06-7-14</enterprise:有申请日期>
+	<enterprise:有商标名称>仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>5479665</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：上品仙竹">
+	<enterprise:有申请日期>06-6-15</enterprise:有申请日期>
+	<enterprise:有商标名称>上品仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>5421132</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：极品仙竹">
+	<enterprise:有申请日期>06-6-15</enterprise:有申请日期>
+	<enterprise:有商标名称>极品仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>5421133</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：一品仙竹">
+	<enterprise:有申请日期>05-11-7</enterprise:有申请日期>
+	<enterprise:有商标名称>一品仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>4988017</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：仙竹">
+	<enterprise:有申请日期>98-7-14</enterprise:有申请日期>
+	<enterprise:有商标名称>仙竹</enterprise:有商标名称>
+	<enterprise:有注册号>1387900</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="酒仙网电子商务股份有限公司的商标信息：唐王宴">
+	<enterprise:有申请日期>95-2-24</enterprise:有申请日期>
+	<enterprise:有商标名称>唐王宴</enterprise:有商标名称>
+	<enterprise:有注册号>907204</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(商标注册证明)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：九章酒类电商流量分析系统">
+	<enterprise:有批准日期>15-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>九章酒类电商流量分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>九章</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR154859</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：虫洞管理系统">
+	<enterprise:有批准日期>15-8-10</enterprise:有批准日期>
+	<enterprise:有软件全称>虫洞管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR153498</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒类外包装订制系统">
+	<enterprise:有批准日期>15-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>酒类外包装订制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR154736</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网iOS客户端软件">
+	<enterprise:有批准日期>14-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网iOS客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR115111</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网android客户端软件">
+	<enterprise:有批准日期>14-8-5</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网android客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR112890</enterprise:有登记号>
+	<enterprise:有分类号>30202-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网B2C酒类电子商务购物综合服务平台">
+	<enterprise:有批准日期>14-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网B2C酒类电子商务购物综合服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212278</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网数据分析系统">
+	<enterprise:有批准日期>14-8-8</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网数据分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>BI系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR116472</enterprise:有登记号>
+	<enterprise:有分类号>30202-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网客服系统">
+	<enterprise:有批准日期>14-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网客服系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CSM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR114951</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网网销业务管理系统">
+	<enterprise:有批准日期>12-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网网销业务管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113484</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网仓储管理系统">
+	<enterprise:有批准日期>12-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网仓储管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>WMS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113192</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网数据统计分析系统">
+	<enterprise:有批准日期>12-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网数据统计分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113556</enterprise:有登记号>
+	<enterprise:有分类号>30213-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网采购管理系统">
+	<enterprise:有批准日期>12-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网采购管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113443</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网WAP版系统">
+	<enterprise:有批准日期>12-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网WAP版系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113705</enterprise:有登记号>
+	<enterprise:有分类号>30202-7400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="酒仙网电子商务股份有限公司的软件著作：酒仙网官网系统">
+	<enterprise:有批准日期>12-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>酒仙网官网系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113703</enterprise:有登记号>
+	<enterprise:有分类号>30205-7400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:作品著作权 rdf:ID="酒仙网电子商务股份有限公司的作品著作：酒仙团手机应用程序图标">
+	<enterprise:有登记号>国作登字-2016-F-00344606</enterprise:有登记号>
+	<enterprise:有作品名称>酒仙团手机应用程序图标</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>2016-05-01</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2016-12-29</enterprise:有登记日期>
+	<enterprise:有首次发布日期><enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:网站备案 rdf:ID="酒仙网电子商务股份有限公司的网站备案：酒仙网电子商务股份有限公司">
+	<enterprise:有审核时间>15-11-16</enterprise:有审核时间>
+	<enterprise:有网站全称>酒仙网电子商务股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jxwmanage.com</enterprise:有网站首页>
+	<enterprise:有域名>jxwmanage.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11007961号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="酒仙网电子商务股份有限公司的网站备案：酒仙网静态文件根域">
+	<enterprise:有审核时间>15-11-16</enterprise:有审核时间>
+	<enterprise:有网站全称>酒仙网静态文件根域</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jxstatic.com</enterprise:有网站首页>
+	<enterprise:有域名>jxstatic.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11007961号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="酒仙网电子商务股份有限公司的网站备案：酒仙网图片根域">
+	<enterprise:有审核时间>15-11-16</enterprise:有审核时间>
+	<enterprise:有网站全称>酒仙网图片根域</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jximage.com</enterprise:有网站首页>
+	<enterprise:有域名>jximage.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11007961号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="酒仙网电子商务股份有限公司的网站备案：酒仙网">
+	<enterprise:有审核时间>15-11-16</enterprise:有审核时间>
+	<enterprise:有网站全称>酒仙网</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jiuxian.com</enterprise:有网站首页>
+	<enterprise:有域名>jiuxian.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11007961号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="酒仙网电子商务股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="酒仙网电子商务股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="酒仙网电子商务股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>支付宝（中国）网络技术有限公司、江苏京东信息技术有限公司、北京
+星辰急便速递有限公司、北京当当科文电子商务有限公司、北京乐捷递物流有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="酒仙网电子商务股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="酒仙网电子商务股份有限公司的企业类型">
+	<enterprise:企业类型>“瞪羚计划”重点培育企业 新三板 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="酒仙网电子商务股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="酒仙网电子商务股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="酒仙网电子商务股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="酒仙网电子商务股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110000743314895B</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>企业所得税、增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>未提供</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>未提供</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="酒仙网电子商务股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>光模块、双工器、中频滤波器、电桥、散热器、射频功放管等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>6102.51</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>27203.29</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="酒仙网电子商务股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现不良</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现不良</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="酒仙网电子商务股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="酒仙网电子商务股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="酒仙网电子商务股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="酒仙网电子商务股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>160000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="酒仙网电子商务股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-15000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="酒仙网电子商务股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="酒仙网电子商务股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="酒仙网电子商务股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>8</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>5</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>3</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="酒仙网电子商务股份有限公司的商标数量">
+	<enterprise:商标总计>46</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>39</enterprise:商标数量2014>
+	<enterprise:商标数量2015>7</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:著作作品数量 rdf:ID="酒仙网电子商务股份有限公司的著作作品数量">
+	<enterprise:著作作品总计>0</enterprise:著作作品总计>
+	<enterprise:著作作品数量2013>0</enterprise:著作作品数量2013>
+	<enterprise:著作作品数量2014>0</enterprise:著作作品数量2014>
+	<enterprise:著作作品数量2015>0</enterprise:著作作品数量2015>
+</enterprise:著作作品数量>
+<enterprise:网站备案数量 rdf:ID="酒仙网电子商务股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>4</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>4</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

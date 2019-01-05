@@ -1,0 +1,1384 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京呈天网络科技股份有限公司的企业概况">
+    <enterprise:有名称>北京呈天网络科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局朝阳分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>从业人数（人）</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>28</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>2000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000.00</enterprise:有股本>
+    <enterprise:有经营范围>信息服务业务（不含固定网电话信息服务和互联网信息服务）（增值电信业务经营许可证有效期至2017年05月17日）；利用信息网络经营游戏产品（含网络游戏虚拟货币发行）（网络文化经营许可证有效期至2018年12月31日）；第二类增值电信业务中的信息服务业务（仅限互联网信息服务）互联网信息服务不含新闻、出版、教育、医疗保健、药品和医疗器械、电子公告服务（电信与信息服务业务经营许可证有效期至2021年1月11日）；游戏软件开发、技术开发、技术推广、技术服务、技术咨询、技术测试服务；计算机技术培训；销售计算机软件及辅助设备；货物进出口、技术进出口、代理进出口；广告设计、制作、代理、发布；承办展览展示活动。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）信息服务业务（不含固定网电话信息服务和互联网信息服务）（增值电信业务经营许可证有效期至2017年05月17日）；利用信息网络经营游戏产品（含网络游戏虚拟货币发行）（网络文化经营许可证有效期至2018年12月31日）；第二类增值电信业务中的信息服务业务（仅限互联网信息服务）互联网信息服务不含新闻、出版、教育、医疗保健、药品和医疗器械、电子公...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>网络游戏的研发与运营</enterprise:有主营业务>
+    <enterprise:有行业分类>互联网和相关服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市石景山区实兴大街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区八里庄东里</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100025</enterprise:有邮政编码>
+    <enterprise:有联系人>周娇</enterprise:有联系人>
+    <enterprise:有联系电话>13810897344</enterprise:有联系电话>
+    <enterprise:有传真电话>—</enterprise:有传真电话>
+    <enterprise:有E-mail>zhoujiao@t4game.com</enterprise:有E-mail>
+    <enterprise:有网址>www.t4game.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京呈天网络科技股份有限公司（以下
+简称“公司”）原身为北京呈天时空信息技
+术有限公司，于 2008 年 8 月 7 日在北京市
+工 商 行 政 管 理 局 石 景 山
+分局注册成立。2015年 9月，公司进行了股
+份制改造，整体变更为现用名；2016 年 1
+月，公司在在全国中小企业股份转让系统挂
+牌公开转让股票，股票简称“呈天网络”，
+股票代码：835471。
+公司初始注册资本 1000.00万元，由自
+然人齐海、韩静共同出资，经数次股东增资
+及股权变更，截至评级时点，公司注册资本
+2000.00万元，实收资本 2000.00万元，公司
+以净资产折合 2000.00万股，前十名股东认
+购及持股比例为：自然人齐海持股 672.95
+万股，占比 33.65%；自然人邓博持股 265.73
+万股，占比 13.29%；自然人沈斌持股 209.95
+万股，占比 10.50%；自然人张光明持股 98.95
+万股，占比 4.95%；自然人李晓光持股 98.95
+万股，占比 4.95%；法人天津海银股权投资
+基金合伙企业（有限合伙）持股 96.27万股，
+占比 4.81%；法人苏州启明创智股权投资合
+伙企业（有限合伙）持股 96.27万股，占比
+4.81%；自然人曾李青持股 94.20 万股，占
+比 4.71%；法人北京伯乐纵横股权投资基金
+管理中心（有限合伙）持股 89.89万股，占
+比 4.49%；自然人霍殿岩持股 75.36万股，
+占比 3.77%。
+公司经营范围：“信息服务业务（不含
+固定网电话信息服务和互联网信息服务（增
+值电信业务经营许可证有效期至 2017年 05
+月 17日）；利用信息网络经营游戏产品（含
+网络游戏虚拟货币发行）（文化经营许可证
+有效期至 2015 年 12 月 31日）；游戏软件
+开发、技术开发、技术推广、技术服务、技
+术咨询、技术测试服务；计算机技术培训；
+销售计算机软件及辅助设备；货物进出口、
+技术进出口、代理进出口。（企业依法自主
+选择经营项目，开展经营活动；依法须经批
+准的项目，经相关部门批准后依批准的内容
+开展经营活动；不得从事本市产业政策禁止
+和限制类项目的经营活动。）”目前，公司
+主要业务为网络游戏的研发与运营。
+截至 2016 年 6 月底，公司资产总额为
+3562.77万元，所有者权益为 2423.04万元；
+2015年，公司实现营业收入 1772.33万元，
+利润总额 82.35万元；2016年 1~6月，公司
+实现营业收入 305.35万元，利润总额-114.58
+万元。公司现有员工 28 人，在北京市属于
+小型企业。
+公司注册地址：北京市石景山区实兴大
+街 30号院 3号楼 2层 A-0037房间；经营地
+址：北京市朝阳区八里庄东里 1号莱锦文化
+创 意 园 CF21； 统 一 社 会 信 用 代 码 ：
+91110107678763415A；法定代表人：齐海；
+营业期限：自 2008年 8月 7日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京呈天网络科技股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、总经理齐海，43岁，
+本科学历，1994年 7月~1997年 8月，在天
+津国际贸易经济展览中心任销售总监；1997
+年 8月~2000年 3月，在天津伊利萨尔客车
+有限公司任销售总监；2000年 3月~2002年
+2月，在上海英斯克计算机技术有限公司北
+京办事处任首席代表；2002年 2月~2004年
+10月，在卓望数码信息技术有限公司北京办
+事处任首席代表；2004 年 10 月~2008 年 2
+月，在北京空中信使信息技术有限公司任副
+总裁；2008年 2月至今任公司总经理。
+公司副总经理沈斌，35岁，本科学历，
+2005 年 9 月~2006 年 12 月，在美国安钛克
+有限公司北京代表处任市场经理；2007年 2
+月~2008年 5月，在上海博瑞恒通商贸有限
+公司任销售总监；2008 年 7 月~2010 年 10
+月，在北京古栈道科技有限公司任市场总
+监，2010年 10月至今，历任公司市场总监、
+副总经理等职。
+公司财务总监张俊红，42岁，本科学历，
+2006年 7月~2007年 8月，在北京天中互动
+网科技有限公司任会计主管；2007 年 9 月
+~2012 年 12 月，在大华会计师事务所任高
+级项目经理；2013年 1月~2013年 5月，在
+北京超图软件股份有限公司任财务经理；
+2013年 7月至今，任公司财务总监。
+总体看，公司高管学历水平高，从业及
+管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 28 人。
+从学历构成看，员工中本科及以上学历者占
+比 64.29%，员工学历水平较高；从年龄构
+成看，员工年龄在 25岁以下占比 53.57%，
+25~45岁之间占比 28.57%，员工年龄结构偏
+年轻化；从岗位构成看，员工中管理人员占
+比 17.86%、技术人员占比 71.43%、其他人
+员占比 10.71%，岗位构成符合高新技术企
+业特点。
+总体看，公司员工学历水平较高，员工
+年龄结构偏年轻化，岗位构成符合高新技术
+企业特点。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，以外协研发为
+辅，由项目部和系统运维部协同合作，负责
+公司产品开发、策划、制作、测试等工作。
+近三年，公司研发投入分别为 3087.33
+万元、1951.10 万元、489.16 万元，占当年
+营业收入的 89.55%、102.28%、17.64%，主
+要为公司同时开展多款游戏项目的研发，但
+产品投入市场未取得预期收益，2015年公司
+转变经营策略，控制了研发费用，研发投入
+力度大。
+总体看，公司科研条件较好，研发投入
+力度大。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>3087.33万元,1951.10万元,489.16万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>89.55%,102.28%,17.64%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京呈天网络科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址位于北京市朝阳区八里
+庄东里 1 号莱锦文化创意园 CF21，租赁面
+积 245.29平方米，用于办公用途，该经营地
+办公设施齐全，交通便利。
+公司 2008 年成立，是国家高新技术企
+业（证书编号：GR201311000940，有效期
+至 2016年 12月）、中关村高新技术企业（证
+书编号：20152080007701，有效期至 2018
+年 5月），已注册“神游记”、“神魔仙尊”、
+“真仙”、“醉江湖”等 60 余项商标，行
+业知名度较高。同时，公司拥有“互联网出
+版许可证”、“对外贸易经营者备案登记表”
+等资质。
+总体看，公司经营条件较好，行业知名
+度较高，资质较为齐全。
+（二）业务运营
+1.主要业务
+公司是集游戏开发、运营服务以及销售
+推广为一体的网络游戏综合服务商。公司的
+主营业务为网络游戏的研发和运营，利用自
+身研发团队、自有技术和自有资金进行游戏
+研发，包括对引擎开发、功能玩法设计，数
+值策划、计费点设计、活动策划、美术设计、
+等多个环节进行开发。公司通过联合运营、
+授权运营、代理运营的方式与其他游戏运营
+商或开发商合作，通过用户充值或运营分成
+来获取收益。公司的游戏产品运营模式均为
+“游戏免费，道具收费”。
+2015年，公司销售收入来源主要为联运
+收入、自运营收入、版权金收入，分别占比
+当年营业收入的 62.13%、20.41%、17.46%。
+2.采购模式
+从采购方面看，公司的采购主要为购买
+用于网络游戏开发、运营及相关服务的电脑
+等硬件设备和办公家具设备，以及广告投放
+等服务采购。公司采购原则为“多方比价、
+择优选择”，采购区域在北京、上海、广东
+等地。结算方式为按照合同规定进行付款，
+通过银行转账方式进行。
+3.运营模式
+目前公司的销售模式主要以联合运营
+为主、自主运营为辅。公司消费群体为广大
+的游戏客户；主要结算客户为支付宝、神州
+付等第三方支付服务商和360移动、当乐网、
+豌豆荚、联想等渠道商。运营模式为：（1）
+联合运营：公司的产品与渠道商合作，由渠
+道商通过自有渠道、运营商渠道、线下渠道
+等不同渠道对公司产品进行推广，产品收益
+结算到渠道商，渠道商根据合作协议约定的
+分成比例，把归属于公司的分成收入结算给
+公司；（2）公司通过在公司自有平台、运
+营商渠道、线下渠道等不同渠道对产品进行
+推广，产品收益直接结算到公司，公司再根
+据与渠道商的分成约定，把渠道的分成款结
+算给渠道商。
+4.盈利模式
+公司的游戏产品采取“游戏免费，道具
+收费”的运营模式。玩家可享受免费的游戏
+下载、注册及体验，但在游戏过程中公司会
+提供虚拟增值服务（如游戏虚拟道具、装备、
+功能等）供玩家自主选择是否付费购买，提
+升玩家用户体验的同时，也可增强玩家的游
+戏粘性程度。
+玩家可以通过网银转账、第三方支付等
+多种方式将人民币充值到游戏账户中，兑换
+成虚拟货币，然后用虚拟货币在游戏中购买
+虚拟增值服务来进行消费，形成游戏产品收
+益。
+总体看，公司主营业务突出，上下游渠
+道通畅，业务运营情况较好。
+（三）经营效率
+表 3 公司近三年主要经营指标
+经营指标 2013年 2014年 2015年
+成本率(%) 152.51 185.74 95.65
+管理费用率(%) 86.43 88.16 94.31
+应收账款周转次数(次) 12.61 8.66 13.53
+存货周转次数(次) — — —
+总资产周转次数(次) 1.27 0.78 0.69
+资料来源：公司提供，中企信用整理。
+近三年，公司成本率整体呈下降趋势，
+仍处于行业较高水平，成本费用控制水平有
+所加强；同期，管理费用率处于行业高水平，
+主要为公司研发投入大，管理费用控制水平
+弱。
+近三年，公司应收账款周转次数加权平
+均值为 11.88次，处于行业较高水平；总资
+产周转次数加权平均值为 0.83次，处于行业
+较低水平；由于公司业务特点，暂无存货。
+总体看，公司经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中华人民共和国公司法》及
+其他有关规定，制订了《北京呈天网络科技
+股份有限公司章程》。
+股东大会是公司的权力机构，行使决定
+公司的经营方针和投资计划、审议批准董事
+会的报告等职权。
+公司设董事会，对股东大会负责，董事
+会由 5名董事组成，设董事长 1人，董事会
+行使召集股东大会，并向股东大会报告工作
+等职权。
+公司设监事会，监事会由3名监事组成，
+设监事会主席 1名，监事会行使检查公司财
+务、对董事、高级管理人员执行公司职务的
+行为进行监督等职权。
+公司设总经理 1人，总经理对董事会负
+责，主持公司的生产经营管理工作，组织实
+施董事会决议，并向董事会报告工作。
+截至评级时点，公司内设财务部、系统
+运维部、综合管理部、项目部、商务部，部
+门设置清晰，分工明确。
+公司共有 1家分公司、2家全资子公司、
+1家参股子公司，详见表 2。
+表 2 公司旗下分公司及子公司
+注册资 持股
+公司名称 主要业务
+本 比例
+北京呈天网络科技股份 网络游戏的
+— —
+有限公司朝阳分公司 研发与运营
+25万元 游戏海外发
+黑石互动科技有限公司 100%
+港币 行业务
+电脑动画设
+天津呈天信息技术有限 1000万
+100% 计、游戏软
+公司 元
+件开发
+网络游戏的
+北京庞际网络科技有限 1000万
+35% 研发（尚未
+公司 元
+实现收益）
+资料来源：公司提供，中企信用整理
+总体看，公司法人治理结构完善，部门
+构架清晰。
+（二）内控制度及执行
+公司根据经营管理需要，制定了较为完
+善的财务管理、研发费用管理、费用报销、
+考勤、项目管理、技术管理、采购管理、销
+售管理等制度，实际业务操作中严格按标准
+执行。
+总体看，公司内部管理制度完善，制度
+执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司结合市场和企业自身的状况，制定
+了 2016 年的经营计划。经营计划涉及资金
+将以融资为主、自筹资金为辅，从市场开发、
+新产品开发等方面着手，严格控制成本，科
+学使用资金，以实现营业收入和净利润稳健
+增长。
+海外市场开发方面公司将充分发挥海
+外市场拓展、结合大数据的精准营销和类型
+产品深度运营的优势，大力挖掘海外细分市
+场和多语言市场的潜力；通过加大产品签约
+力度、拓宽产品线等方式扩大运营规模及销
+售收入，进一步加大主营业务的收入，努力
+将公司塑造成为海外发行行业的领军企业
+之一，并加速进入全球化发行的快速发展阶
+段。
+国内市场方面，公司将继续基于移动互
+联网长尾流量及大数据精准营销，对国内发
+行线业务进行积极拓展。随着 2015 年技术
+和人才储备的逐步完善，公司将加强长尾流
+量游戏运营业务的投入，以其结合海外发行
+业务，实现较好的协同效应、规模效应提高
+公司发行业务、品牌的市场影响能力。公司
+也将积极运用资本力量，寻求适当的并购机
+会对该部分能力进行积极建设和补充。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京呈天网络科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 6 月底，公司资产总额
+3562.77万元，其中流动资产占比 35.58%，
+非流动资产占比 64.42%。
+1.流动资产
+截至 2016 年 6 月底，公司流动资产
+1267.69万元，主要为：货币资金 844.16万
+元，占比 66.59%，为现金、银行存款；预
+付款项 175.68 万元，占比 13.86%，为版权
+使用费、游戏定制费、预付房租物业费等；
+其他应收款 196.10 万元，占比 15.47%，为
+北京国棉文化创意发展有限公司往来款、第
+一太平戴维斯物业顾问（北京）有限公司等
+物业费、备用金等。
+2.非流动资产
+截至 2016 年 6 月底，公司非流动资产
+2295.09万元，主要为：长期股权投资2161.95
+万元，占比 94.20%，为黑石互动科技有限
+公司、天津呈天信息技术有限公司、北京庞
+际网络科技有限公司投资款。
+总体看，公司资产流动性一般，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 6 月底，公司资产负债率
+为 31.99%，负债水平较低，无有息债务。
+公司负债总额为 1139.74万元，全部为流动
+负债，主要为：其他应付款 1093.14万元，
+占比 95.91%，为北京汉诺睿雅公关顾问有
+限公司、北京盛世光年广告有限公司等押
+金，往来款等。
+总体看，公司负债负债水平较低，无有
+息债务。
+2.所有者权益
+近三年，公司所有者权益分别为1686.10
+万元、161.23万元、1751.91万元，主要系2014
+年公司游戏产品未达到预期收益，利润亏
+损，所有者权益大幅下降；2015年公司进行
+转型，实现转亏为盈。
+截至2016年6月底，公司所有者权益
+2423.04万元，其中实收资本2000.00万元，
+占比82.54%；资本公积514.15万元，占比
+21.22%；未分配利润 -91.11万元，占比
+-3.76%。
+总体看，公司所有者权益对负债的保障
+能力强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 6
+月底，公司流动比率、速动比率均为
+111.23%，处于行业低水平。2015年，公司
+现金流动负债比为-37.64%，经营活动产生
+的净现金流对流动负债保障能力较弱。
+从长期偿债能力指标看，近三年，公司
+EBITDA 值分别为-1491.94 万元、-1524.86
+万元、82.35万元。
+结合公司业务发展及规模看，公司整体</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 3447.60
+万元、1907.67万元、1772.33万元，复合变
+动率为 -28.30%；同期，净利润分别为
+-1491.94万元、-1524.86万元、82.35万元，
+公司收入大幅下降，主要是由于公司多项新
+款游戏产品未达市场预期以及老款游戏产
+品用户逐年流失所致，2015年公司调整发展
+战略、转变经营策略，实现转亏为盈。
+近三年，公司主营业务利润率分别为
+93.47%、88.93%、96.87%，加权平均值为
+93.81%，处于行业高水平；同期，净资产收
+益率分别为-88.48%、-165.09%、8.61%，处
+于行业低水平；同期，总资产报酬率分别为
+-55.11%、-62.11%、3.21%，处于行业低水
+平；公司整体盈利能力较弱。
+近三年，公司现金收入比分别为
+105.01%、109.97%、98.56%，加权平均值
+103.27%，处于行业较高水平，公司收入实
+现质量较好。
+总体看，公司盈利能力较弱，公司收入
+实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京呈天网络科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司成本费用高，关注未来成本费用
+的控制情况。
+2.公司近三年经营活动获取现金的能力
+弱，整体现金流状况不稳定。
+3.公司多项新款游戏产品未达市场预期
+以及老款游戏产品用户逐年流失，盈利能力
+较弱，关注公司未来转型情况。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京呈天网络科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>2707.22 </enterprise:资产总额>
+    <enterprise:所有者权益>1686.10 </enterprise:所有者权益>
+    <enterprise:负债总额>1021.12 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3447.60 </enterprise:营业收入>
+    <enterprise:EBITDA>-1491.94 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京呈天网络科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>2202.82 </enterprise:资产总额>
+    <enterprise:所有者权益>2446.74 </enterprise:所有者权益>
+    <enterprise:负债总额>2041.57 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1907.67 </enterprise:营业收入>
+    <enterprise:EBITDA>-1524.86 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京呈天网络科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>2925.61 </enterprise:资产总额>
+    <enterprise:所有者权益>1751.91 </enterprise:所有者权益>
+    <enterprise:负债总额>1173.68 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1772.33 </enterprise:营业收入>
+    <enterprise:EBITDA>82.35 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京呈天网络科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>127.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1261.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京呈天网络科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>78.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>866.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京呈天网络科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>69.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1353.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京呈天网络科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-55.11 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>181.03 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京呈天网络科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-62.11 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>65.35 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京呈天网络科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.21 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>95.96 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京呈天网络科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>112.68 </enterprise:流动比率>
+    <enterprise:速动比率>112.68 </enterprise:速动比率>
+    <enterprise:资产负债率>37.72 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京呈天网络科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>44.18 </enterprise:流动比率>
+    <enterprise:速动比率>44.18 </enterprise:速动比率>
+    <enterprise:资产负债率>92.68 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京呈天网络科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>52.57 </enterprise:流动比率>
+    <enterprise:速动比率>52.57 </enterprise:速动比率>
+    <enterprise:资产负债率>40.12 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京呈天网络科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>94.18 </enterprise:毛利率>
+    <enterprise:成本费用利润率>420.94 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.05 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-327.17 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京呈天网络科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>89.36 </enterprise:毛利率>
+    <enterprise:成本费用利润率>376.32 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-0.27 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京呈天网络科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>97.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1486.55 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.99 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-37.64 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京呈天网络科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>323.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>273.31 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>150.82 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>217.98 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>965.11 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1000.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>576.27 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>30.96 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>134.88 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1742.11 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2707.22 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京呈天网络科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>349.43 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>167.40 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>47.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>282.13 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>845.96 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1000.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>266.50 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>15.34 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>75.02 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1356.86 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2202.82 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京呈天网络科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>80.77 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>94.64 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>79.70 </enterprise:预付款项>
+    <enterprise:应收股利>217.83 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>144.12 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>617.06 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2205.98 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>82.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3.24 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>17.33 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2308.55 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2925.61 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京呈天网络科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>9.78 </enterprise:应付账款>
+    <enterprise:预收款项>116.89 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>159.26 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.22 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1628.67 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1914.82 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>126.75 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>126.75 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2041.57 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1111.11 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>192.88 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1142.75 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2446.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2446.74 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4488.31 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京呈天网络科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>9.78 </enterprise:应付账款>
+    <enterprise:预收款项>116.89 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>159.26 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.22 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1628.67 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1914.82 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>126.75 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>126.75 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2041.57 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1111.11 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>192.88 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1142.75 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2446.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2446.74 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4488.31 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京呈天网络科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4.51 </enterprise:应付账款>
+    <enterprise:预收款项>48.02 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>22.91 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>6.26 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1091.98 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1173.68 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1173.68 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1600.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>128.44 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>23.47 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1751.91 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1751.91 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2925.59 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京呈天网络科技股份有限公司2013年利润表">
+    <enterprise:营业收入>3447.60 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>200.52 </enterprise:营业成本>
+    <enterprise:主营业务成本>200.52 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>24.78 </enterprise:营业税金及附加>
+    <enterprise:销售费用>533.59 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4544.30 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-33.77 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-11.45 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2733.93 </enterprise:营业利润>
+    <enterprise:营业外收入>321.84 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>3.42 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3052.35 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3052.35 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3052.35 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京呈天网络科技股份有限公司2014年利润表">
+    <enterprise:营业收入>1907.67 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>203.01 </enterprise:营业成本>
+    <enterprise:主营业务成本>203.01 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>8.19 </enterprise:营业税金及附加>
+    <enterprise:销售费用>214.96 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3123.90 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-1.24 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-5.57 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1488.32 </enterprise:营业利润>
+    <enterprise:营业外收入>189.03 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>78.30 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1599.05 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1599.05 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1599.05 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京呈天网络科技股份有限公司2015年利润表">
+    <enterprise:营业收入>1772.33 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>44.20 </enterprise:营业成本>
+    <enterprise:主营业务成本>44.20 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>11.27 </enterprise:营业税金及附加>
+    <enterprise:销售费用>58.79 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1598.79 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-1.17 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-2.52 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>14.16 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1675.92 </enterprise:营业利润>
+    <enterprise:营业外收入>5.32 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.10 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1681.14 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1681.14 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1681.14 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京呈天网络科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3620.17 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>105.79 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>460.04 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4186.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1084.12  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>3803.29 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>351.60 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1749.20 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6988.21 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-2802.21 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.86 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>1462.38 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1463.24 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>414.35 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1450.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1864.35 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-401.11 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>111.11 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>111.11 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>111.11 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3092.21 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京呈天网络科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2097.79 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>31.86 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1753.15 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3882.80 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>530.19  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2657.54 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>80.24 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>619.94 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3887.91 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-5.11 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>31.53 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>31.53 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>31.53 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>26.42 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京呈天网络科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1746.86 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1144.18 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2891.04 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>294.26  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>715.22 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>118.33 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2204.95 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3332.76 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-441.72 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>74.38 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>74.38 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>800.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>609.65 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1409.65 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1335.27 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>1508.33 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1508.33 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1508.33 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-268.66 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：齐海 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>齐海 </enterprise:股东名称>
+	 <enterprise:货币>672.9472万元时间：2016-02-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>33.65%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：邓博 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>邓博 </enterprise:股东名称>
+	 <enterprise:货币>265.7296万元时间：2016-02-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.29%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：沈斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>沈斌 </enterprise:股东名称>
+	 <enterprise:货币>209.9456万元时间：2016-02-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：李晓光 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李晓光 </enterprise:股东名称>
+	 <enterprise:货币>98.9488万元时间：2015-09-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.95%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：张光明 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张光明 </enterprise:股东名称>
+	 <enterprise:货币>98.9488万元时间：2015-09-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.95%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：曾李青 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>曾李青 </enterprise:股东名称>
+	 <enterprise:货币>94.2016万元时间：2015-09-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.71%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：霍殿岩 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>霍殿岩 </enterprise:股东名称>
+	 <enterprise:货币>75.3616万元时间：2015-09-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.77%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：韩静 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>韩静 </enterprise:股东名称>
+	 <enterprise:货币>44.7104万元时间：2015-09-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.24%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：张俊红 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张俊红 </enterprise:股东名称>
+	 <enterprise:货币>19.2048万元时间：2016-02-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.96%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：苏州启明创智股权投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苏州启明创智股权投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>0.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例><0.01%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：天津海银股权投资基金合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津海银股权投资基金合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>0.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例><0.01%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：天津华成智讯创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津华成智讯创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京呈天网络科技股份有限公司股东：北京伯乐纵横股权投资基金管理中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京伯乐纵横股权投资基金管理中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>0.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例><0.01%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：诛神封神古阵游戏软件">
+	<enterprise:有批准日期>16-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>诛神封神古阵游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称>诛神</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR233794</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：剑胆琴心醉江湖游戏软件">
+	<enterprise:有批准日期>16-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>剑胆琴心醉江湖游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称>醉江湖</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR234555</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：江湖客栈游戏软件">
+	<enterprise:有批准日期>16-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>江湖客栈游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR233803</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：梦幻传奇游戏软件">
+	<enterprise:有批准日期>16-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>梦幻传奇游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR233787</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：刀客无双游戏软件">
+	<enterprise:有批准日期>16-8-24</enterprise:有批准日期>
+	<enterprise:有软件全称>刀客无双游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR231852</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京呈天网络科技股份有限公司的软件著作：战国之风云争霸游戏软件">
+	<enterprise:有批准日期>16-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>战国之风云争霸游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR233799</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhgame.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhgame.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4GAME呈天游网站">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4GAME呈天游网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.t4game.com</enterprise:有网站首页>
+	<enterprise:有域名>t4game.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4GAME呈天游官方网站">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4GAME呈天游官方网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.t4game.cn</enterprise:有网站首页>
+	<enterprise:有域名>t4game.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4GAME呈天游官方网站">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4GAME呈天游官方网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.t4game.cn</enterprise:有网站首页>
+	<enterprise:有域名>t4game.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhgame.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhh5.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhh5.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmhh5.com</enterprise:有网站首页>
+	<enterprise:有域名>bmhh5.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.t4happy.com</enterprise:有网站首页>
+	<enterprise:有域名>t4happy.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.popoh5.com</enterprise:有网站首页>
+	<enterprise:有域名>popoh5.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.popoh5.com</enterprise:有网站首页>
+	<enterprise:有域名>popoh5.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京呈天网络科技股份有限公司的网站备案：T4game呈天网络">
+	<enterprise:有审核时间>17-7-25</enterprise:有审核时间>
+	<enterprise:有网站全称>T4game呈天网络</enterprise:有网站全称>
+	<enterprise:有网站首页>www.popoh5.com</enterprise:有网站首页>
+	<enterprise:有域名>popoh5.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备08103297号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京呈天网络科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京呈天网络科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未提供</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京呈天网络科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>360移动、UC、豌豆荚、联想、支付宝等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京呈天网络科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>未提供</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京呈天网络科技股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京呈天网络科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>未提供。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京呈天网络科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京呈天网络科技股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京呈天网络科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京呈天网络科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京呈天网络科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京呈天网络科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京呈天网络科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京呈天网络科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京呈天网络科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京呈天网络科技股份有限公司的专利数量">
+
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+
+<enterprise:网站备案数量 rdf:ID="北京呈天网络科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+
+</rdf:RDF>

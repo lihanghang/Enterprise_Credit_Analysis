@@ -1,0 +1,1390 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京宇信科技集团股份有限公司的企业概况">
+    <enterprise:有名称>北京宇信科技集团股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>AAAzc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>基本开户行</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招行银行北京北三环支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2006-10-19</enterprise:有注册登记日期>
+    <enterprise:有注册资本>36,000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术推广、技术服务、技术咨询；设计、制作、发布、代理广告；接受金融机构委托从事金融业务流程外包服务；接受金融机构委托从事金融信息技术外包服务；接受金融机构委托从事金融知识流程外包服务；企业征信服务；计算机系统服务；销售服装、鞋帽、箱包、工艺品、文化用品、玩具、化妆品、建筑材料、针纺织品、家用电器、计算机、软件及辅助设备、电子产品、机械设备、通讯设备、汽车零配件。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术推广、技术服务、技术咨询；设计、制作、发布、代理广告；接受金融机构委托从事金融业务流程外包服务；接受金融机构委托从事金融信息技术外包服务；接受金融机构委托从事金融知识流程外包服务；企业征信服务；计算机系统服务；销售服装、鞋帽、箱包、工艺品、文化用品、玩具、化妆品、建筑材料、针纺织品、家用电器、计算机、软件及辅助设备、电子产品、机械设备...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>信息服务</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区中关村南大街甲</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区酒仙桥东路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100013</enterprise:有邮政编码>
+    <enterprise:有联系人>张红颖</enterprise:有联系人>
+    <enterprise:有联系电话>010-59137700-789</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.yuchengtech.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>公司原名为“北京宇信易诚科技有限公司”
+，于2006年10月19日在北京市工商行政管理局
+注册成立，初始注册资本为400万美元,经多次
+增资及股权变更后，截至2016年6月末，公司注
+册资本为36,000万元，员工总数1,467人，法定
+代表人为洪卫东。截至2016年6月末，公司最新
+前十大股东持股情况如下表所示： 
+表 1：公司前十大股东            单位：股、
+%
+股东
+股东名称 持股数量 持股比例
+性质
+珠海宇琴鸿泰资
+法人 123,910,550.00 34.42
+产管理有限公司 
+远创基因投资有
+法人 34,990,200.00 9.72
+限公司
+茗峰开发有限公
+法人 27,877,320.00 7.74
+司
+尚远有限公司 法人 22,021,920.00 6.12
+杭州海富恒歆股
+权投资合伙企业 法人 21,733,920.00 6.04
+（有限合伙）
+珠海爱康佳华资
+产管理合伙企业 法人 19,872,000.00 5.52
+（有限合伙）
+华侨星城（上海）
+股权投资基金合
+法人 18,473,760.00 5.13
+伙企业（有限合
+伙）
+巨富中国投资有
+法人 16,949,880.00 4.71
+限公司
+光控基投资有限
+法人 16,908,840.00 4.70
+公司
+珠海宇琴广源资
+产管理合伙企业 法人 8,726,040.00 2.42
+（有限合伙）
+合计 - 311,464,430.00 86.52
+资料来源：公司提供，中国诚信整理
+公司第一大法人股东珠海宇琴鸿泰信息咨
+询有限公司，持股比例
+34.42%，公司于 2014年 11月 28日注册成立，
+法定代表人洪卫东，经营范围：“社会经济信
+息咨询、对外投资（以自有资金对外投资）”
+。
+股东之间的关联关系如下：远创基因投资
+有限公司和光控基因投资有限公司通过层层控
+股，同时受控于中国光大控股有限公司；珠海
+宇琴鸿泰信息咨询有限公司的控股股东为洪卫
+东，洪卫东同时为宇信科技的董事长。
+公司经营范围为：“研究、开发计算机软
+件、硬件及互联网技术；提供技术咨询、技术
+服务、技术转让、计算机技术培训；销售自行
+开发的产品。（依法须经批准的项目，经相关
+部门批准后依批准的内容开展经营活动。）”
+。
+公司以为银行业客户提供业务类、渠道类、
+管理类等方面的 IT解决方案为主营业务。
+截至 2015年末，公司共有 21家控股及参
+股子公司。具体情况如下表所示：
+表 2：公司控股公司情况         
+注册资本 持股比例
+子公司名称
+（万元） (%)
+北京宇信鸿泰科技发展有限公司 10,000 100.00
+北京易诚世纪科技有限公司 400 100.00
+广州宇信易诚信息科技有限公司 5,000 100.00
+北京宇信易初科技有限公司 3,000 100.00
+北京宇信恒升信息技术股份有限
+2,000 51.00
+公司
+浙江宇信班克信息技术有限公司 2,000 100.00
+北京合众思壮导航技术有限公司 5,000 100.00
+无锡宇信易诚科技有限公司 3,000 100.00
+无锡宇信易诚培训有限公司 100 100.00
+珠海宇诚信科技有限公司 10,000 70.00
+珠海宇信鸿泰科技有限公司 1,000 100.00
+珠海宇信易诚科技有限公司 1,000 100.00
+北京宇信启融科技有限公司 1,500 60.00
+北京宇信易诚信息技术有限公司 5,000 74.25
+北京优迪信息技术有限公司 500 70.00
+上海宇壹信息技术有限公司 - 60.50
+天津宇信易诚科技有限公司 20,000 100.00
+天津宇诚信信息安全科技有限公
+3,000 100.00
+司
+北京宇信鸿泰软件技术有限公司 1,200 100.00
+厦门宇诚科技有限公司 1,000 100.00
+上海宇信易诚软件技术有限公司 500 100.00
+资料来源：公司提供，中国诚信整理
+截至 2015年末，公司共有 6家合营和联营
+公司。具体情况如下表所示：
+表 3：合营和联营企业情况         
+注册资本 与本公司
+子公司名称
+（万元） 关系
+宇信数据科技有限公司 6,000 联营企业
+北京宇信金实科技有限公司 1,000 联营企业
+铜根源（北京）信息咨询有限
+400 联营企业
+公司
+北京宇信易诚网络技术有限公
+1,750 联营企业
+司
+珠海数通天下科技有限公司 5,000 联营企业
+北京宇信华智科技有限公司 - 联营企业
+2014年至
+上海宇壹信息科技有限公司 500 2015年 6月
+为联营企业
+2013年至
+北京宇信易诚信息技术有限公
+5,000 2015年 6月
+司
+为联营企业
+资料来源：公司提供，中国诚信整理
+截至 2015年 12月 31日，公司的资产总额
+为 186,915.33万元，负债为 110,208.14万元，
+所有者权益合计为 76,707.19万元。2015 年度，
+公司实现营业收入 126,257.42万元，利润总额
+为 14,524.65万元，净利润 13,900.84万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京宇信科技集团股份有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理人员简介如下：
+公司法定代表人、总经理洪卫东，男，
+1966年 9月出生，2004 年毕业于清华大学，
+EMBA学历。主要工作经历如下：1993 年至
+1999年于西科姆（中国）有限公司任副总经理；
+1999年至今于北京宇信科技集团股份有限公司
+任董事长兼 CEO。2016 年 2月获商业伙伴授予
+的“2016 中国方案商领袖人物”荣誉称号。
+公司财务总监戴士平，男，1967 年 1月生，
+1991年毕业于迈阿密大学电子和计算机工程专
+业，硕士学历。主要工作经历如下：2004 至
+2007年于北京泰鸿投资集团任 CFO；2007 至
+2009年于北京博彦科技集团任 CFO；2009 年至
+今于北京宇信科技集团任 CFO。
+公司网络金融部副总裁梁强，男，1977 年
+1月生，1999 年 7月毕业于南京理工大学，本
+科学历。主要工作经历如下：1999 年 7月至
+2002年 2月于南天电子信息产业股份有限公司
+金融开发部任软件工程师；2002 年 3月至
+2005年 12月于北京易诚世纪科技有限公司网银
+事业部任系统分析员；2006 年 1月至 2008年
+12月于北京宇信易诚科技有限公司网银事业部
+任资深架构师；2009 年 1月至 2009年 12月于
+北京宇信易诚科技有限公司网银产品部任技术
+总监；2010 年 1月至 2012年 12月于北京宇信
+易诚科技有限公司网银产品部任总经理；
+2013年 1月至今于北京宇信科技集团股份有限
+公司网络金融部任副总裁。
+综合来看，公司管理层均具备多年管理经
+验，拥有一定相关专业背景。公司管理者的综
+合素质可以满足现有业务的开发与管理需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司办公区域位于北京市海淀区中关村南
+大街甲 8号威地科技大厦。公司设立研发部，
+研发人员学历背景良好，且拥有多年研发经验，
+能够满足公司研发需要。
+公司作为拥有多项自主品牌研发的企业，
+目前已获得的资质如下表所示：
+表 4：公司部分资质、荣誉情况
+资质名称 等级
+高新技术企业证书 -
+计算机系统集成资质 一级
+质量管理体系认证证书 ISO9001：2008 -
+IT服务管理体系认证证书 ISO20000 -
+CMMI认证证书 三级
+信息安全体系认证证书 ISO27001 -
+荣誉名称 获奖时间
+北京软件造价评估技术创新联盟会员单位 2016-07
+2016年中国方案商品牌影响力 TOP10 -
+2015年度中国智慧金融优秀创新实践奖 2015-10
+2015中国金软件金服务•十大杰出企业 2015-05
+2015年中关村高成长企业 TOP100 -
+2014年软件收入百强企业 2014-06
+2013年北京市产品评价中心产品质量创新贡献
+2013-11
+奖——创新成果奖
+资料来源：公司提供，中国诚信整理</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京宇信科技集团股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司以为银行业客户提供业务类、渠道类、
+管理类等方面的IT解决方案为主营业务；具体
+业务类型涵盖咨询服务、运营外包服务、系统
+集成及增值服务等多个领域。
+原材料采购及产品（服务）销售
+公司主要从事提供IT解决方案服务，一般
+需采购部分基础软件或硬件设备。
+公司的采购周期一般为3至4周；公司与供
+应商结算方式分两种，一种为现付；一种是在
+账期内付款。截至2015年末，公司前五大供应
+商情况如下表所示：
+表 6：2015 年度公司前五大供应商情况        
+采购金额 占采购成本比
+供应商名称
+（万元） （%）
+华为技术有限公司 10,000 40.00
+联强科技发展有限公司 2,000 8.00
+IBM 900 4.00
+中建材信息技术股份有限
+700 3.00
+公司
+上海科软久鸿科技发展有
+500 2.00
+限公司
+合计 14,100 57.00
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大供应商采购金额合
+计占总采购成本比重为57.00%，客户集中度较
+高，公司对供应商的议价能力较弱，且供应商
+经营情况变化对公司产生影响较大；同时，单
+一供应商的采购金额占比较高，公司存在对单
+一供应商过分依赖的情形，单一供应商经营情
+况变动将给公司稳定经营带来较大冲击。
+公司主要通过投标的方式取得业务，其客
+户涵盖中央银行、政策性银行、国有商业银行
+和股份制银行等。公司已为中国人民银行、三
+大政策性银行、五大国有商业银行、13家股份
+制银行、十余家外资银行、以及100多家区域性
+商业银行提供了安全灵活高效且符合行业发展
+特点的软件产品及行业解决方案。截至2015年
+末，公司前五大客户销售收入情况如下表所示：
+表 7：2015 年度公司前五大客户销售情况 （万元、
+%）
+占营业收
+客户名称 销售收入
+入比重
+中国建设银行股份有限公司 17,485.88 19.10
+中信银行股份有限公司 17,038.69 18.60
+广发银行股份有限公司 6,554.31 7.10
+交通银行股份有限公司 3,654.05 4.10
+中国银行股份有限公司 3,206.07 3.50
+合计 47,939.00 52.40
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大客户销售收入占主
+营业务收入比重为52.40%，集中度较高，公司
+对下游客户的议价能力较弱，下游客户经营情
+况变化将对公司产生较大影响。
+综合来看，近年来随着业务的开展，市场
+开拓力度有所加强，并与主要客户建立了良好
+的合作关系，经营情况良好。公司采购比较集
+中，供应商较少，对供应商议价能力较弱。公
+司的销售客户集中度较高，对下游客户有较大
+依赖，公司对客户的议价能力较弱。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>截至2016年6月末，公司共有员工1,467人。
+按学历划分，其中本科及以上学历者1,238人，
+占员工总人数的84.39%，专科227人，占员工总
+人数的15.47%，高中及以下2人，占员工总人数
+的0.14%。
+公司按照《公司法》的一般规定和公司章
+程的规定，并结合公司的实际情况，建立了由
+股东会、董事会、监事和总经理领导的高级管
+理层组成的治理架构，形成了决策机构、监督
+机构和管理层之间的协调制衡机制。股东会由
+全体股东组成，是公司的权力机构；公司设立
+董事会，设董事长1名，董事会对股东大会负责，
+是公司的经营决策机构；公司设监事会，监事
+会由3名监事组成，设监事会主席1人，监事会
+负责监督董事会的决策行为及其落实；公司设
+总经理1名，由董事会聘任或解聘，总经理负责
+公司的日常生产经营管理工作。
+在多年经营发展中，公司逐步形成了符合
+公司发展的管理模式、规章制度以及业务流程；
+同时为满足日常经营要求，公司设立了技术开
+发部、销售部、市场部、人事部和财务部等部
+门。目前，公司各部门协调性较好，能够满足
+经营要求。
+综合来看，公司的治理结构体现了各权力
+层次之间相互制衡的结构模式，有利于提高公
+司决策的科学性，符合公司目前发展阶段的需
+要。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>为加强企业的核心竞争力，保持在银行业
+IT解决方案市场的领先地位，公司根据外部环
+境变化，结合自身资源和能力，力争在保持服
+务收入增长的同时强化产品理念和体系，对整
+个产品体系做出一定调整，提高现有产品的标
+准化程度；在现有产品的每条产品线上，利用
+新技术、新业务方向，开发市场领先的下一代
+产品系列，进一步扩大产品的优势。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京宇信科技集团股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至2015年末，公司资产情况如下表所示：
+表 8：公司资产情况             单位：万
+元
+数据/指标 2013年 2014年 2015年
+货币资金 14,743.17 13,919.72 10,886.87 
+应收账款 32,522.50 45,220.23 41,353.15 
+其他应收款 10,729.37 15,734.45 29,087.31
+存货 29,241.31 28,059.87 28,811.65 
+预付账款 2,225.32 4,055.86 1,218.92 
+流动资产 99,461.67 121,990.13 120,441.49 
+长期股权投
+26,720.67 31,813.56 63,800.30
+资
+固定资产合
+216.87 712.72 1,765.29
+计
+无形资产 164.58 517.67 307.54
+资产总计 126,772.92 155,441.20 186,915.33 
+资产总计增长
+- 22.61 20.25 
+率（%）
+资料来源：公司提供，中国诚信整理
+伴随经营规模快速扩张、固定资产投资加
+大，公司总资产规模逐年增加。从资产结构来
+看，公司流动资产一直保持在较高比重，分别
+为78.46%、78.48%和64.44%。
+公司流动资产主要由货币资金、应收账款、
+其他应收款、存货和预付账款构成。2015年末，
+公司货币资金为10,886.87万元，相较于年初有
+所降低，主要是由于公司其他货币资金大幅降
+低所致；公司应收账款为41,353.15万元，较年
+初降低8.55%，公司应收账款账龄在1年以内的
+占比80.12%，1至2年的占比13.69%，2年及以上
+的占比6.19%。公司的应收账款客户主要为国内
+各大商业银行，应收账款质量良好。
+2015年末，公司其他应收款为29,087.31万
+元。从账龄上看，账龄在1年以内的其他应收款
+占比73.98%，1至2年的占比7.82%，2年及以上
+的占比18.10%；此外，公司存货为28,811.65万
+元，与年初基本持平，构成主要为库存商品和
+项目成本；公司预付账款为1,218.92万元，账
+龄在1年以内的占比95.34%，1年及以上的占比
+4.64%，构成主要为预付供应商款项。
+公司非流动资产主要由长期股权投资、固
+定资产和无形资产构成。2015年末，公司长期
+股权投资为63,800.30万元，相较于年初增加
+100.54%，构成主要为对北京宇信鸿泰等公司的
+投资；同期，公司固定资产为1,765.29万元，
+相较于年初大幅增加，主要是由于公司购置较
+多办公设备和电子设备导致；公司无形资产为
+307.54万元，构成为软件和非专利技术，占无
+形资产总额比重分别为78.84%和22.16%。
+综合来看，伴随经营规模逐年扩大，公司
+总资产规模快速增长，构成以流动资产为主，</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013至2015年公司主要偿债能力指标如下
+表所示：
+表 14：公司偿债能力指标情况          
+数据/指标 2013年 2014年 2015年
+流动比率（%） 115.27 113.20 109.29 
+速动比率（%） 81.38 87.16 83.14 
+现金流动负债比率（%） 14.48 6.86 -14.71 
+现金负债总额比率（%） 14.48 6.86 -14.71 
+资料来源：公司提供，中国诚信整理
+2013至2015年末，公司流动比率逐年下降，
+速动比率呈先升后降的态势，公司流动资产对
+流动负债保障情况有待继续提升。
+公司2013至2015年度公司现金流情况如下
+表所示：
+表 15：公司现金流情况            单位：万
+元
+数据/指标 2013年 2014年 2015年
+经营活动产生
+12,496.41 7,391.05 -16,216.76
+现金净流量
+投资活动产生的
+-15,791.42 -13,634.62 -18,029.47</enterprise:偿债能力>
+    <enterprise:财务弹性>公司2013至2015年末偿债能力指标，如下
+表所示：
+表 10：公司负债情况             单位：万元、
+%
+数据/指标 2013年 2014年 2015年
+流动负债总额 86,283.86 107,765.29 110,208.14 
+负债总额 86,283.86 107,765.29 110,208.14 
+资产负债率 68.06 69.33 58.96 
+资本化比率 27.24 28.41 33.07 
+资料来源：公司提供，中国诚信整理
+近三年来，随着业务规模的扩大，公司负
+债规模逐年提升，构成全部为流动负债；同期，
+公司资产负债率呈现先上升后下降的变动态势，
+整体处于较好水平；但公司短期有息债务规模
+有所提升，短期偿债压力有所加大。
+公司的流动负债主要由短期借款、应付账
+款、预收账款和其他应付款构成。2015年末公
+司短期借款为37,900.00万元，截至2016年6月
+末，公司短期借款为45,900万元，构成情况如
+下表所示：
+表 11：2016 年 6末公司短期借款情况 
+单位：万元
+借款人 金额 借款期限
+北京银行中关村科
+10,00.00 2015.10.13-2016.10.13
+技园区支行
+北京银行中关村科
+100,00.00 2015.12.15-2016.12.15
+技园区支行
+北京银行中关村科
+30,00.00 2016.03.29-2016.03.29
+技园区支行
+北京银行中关村科
+30,00.00 2016.04.29-2017.04.29
+技园区支行
+北京银行中关村科
+50,00.00 2016.05.27-2016.05.27
+技园区支行
+北京银行中关村科
+60,00.00 2016.06.22-2017.06.22
+技园区支行
+招商银行北三环支
+40,00.00 2016.04.27-2016.10.29
+行
+中国民生银行北京
+39,00.00 2015.08.20-2016.08.20
+朝阳门支行
+中国民生银行北京
+40,00.00 2015.09.25-2016.09.25
+朝阳门支行
+中信银行总行营业
+60,00.00 2016.06.21-2017.06.20
+部
+合计 45,900 -
+资料来源：公司提供，中国诚信整理
+2015年末，公司应付账款为37,457.56万元，
+相较于年初增加3.76%，构成主要为应付供应商
+款项；此外，公司其他应付款为12,824.50万元，
+相较于年初降低42.77%。
+综合来看，近三年来，公司负债规模随业
+务的增加而逐年增长，构成全部为流动负债。
+资产负债率先上升后下降，整体处于较好水平；
+短期有息债务比重有所提升，短期偿债压力有
+所增长。</enterprise:财务弹性>
+    <enterprise:盈利能力>公司2013至2015年度盈利指标情况如下表
+所示： 
+表 12：公司盈利指标情况         单位：万元
+数据/指标 2013年 2014年 2015年
+营业收入 97,158.29 133,388.76 126,257.42 
+毛利润 25,358.74 29,082.36 30,864.75
+利润总额 4,527.73 -1,575.87 14,524.65 
+净利润 3,655.98 -2,170.38 13,900.84 
+毛利率（%） 26.10 21.80 24.45 
+净利润率（%） 3.76 -1.63 11.01 
+净资产收益率
+9.03 -4.92 22.35 
+（%）
+成本费用利润率
+5.18 -1.18 12.13 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，公司营业收入分别为
+97,158.29万元、133,388.76万元、
+126,257.42万元，呈先增后减的变化态势；公
+司毛利润分别为25,358.74万元、29,082.36万
+元和30,864.75万元，呈现逐年上升的变化态势；
+同期，公司毛利率分别为26.10%、21.80%和
+24.45%，呈现先减后增的变化态势；同时，公
+司产品技术含量较高，毛利率整体处于行业内
+较好水平。
+公司2013至2015年度期间费用情况，如下
+表所示：
+表 13：公司期间费用情况       单位：万元、%
+数据/指标 2013年 2014年 2015 年
+营业费用 2,089.28 3,159.80 4,498.74 
+管理费用 12,940.45 25,593.48 18,797.98 
+财务费用 639.20 773.62 1,063.80 
+期间费用合计 15,668.93 29,526.90 24,360.52 
+期间费用增长率
+- 88.44 -17.50 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，公司期间费用规模呈先
+增后减的变化态势。同期，公司三费合计占营
+业收入比重分别为16.13%、22.14%和19.29%，
+有所波动，2015年度，公司加强对期间费用的
+控制力度，有效降低了公司期间费用占营业收
+入比重。
+2013至2015年度，公司利润总额分别为
+4,527.73万元、-1,575.87万元和14,524.65万
+元，净利润分别为3,655.98万元、-2,170.38万
+元和 13,900.84万元，随着业务规模的拓展以
+及客户数量的增加，公司盈利能力有所增强。
+综合来看，近年来，随着业务规模的拓展
+以及整体客户数量的增加，公司盈利能力有所
+增强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京宇信科技集团股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>2013至2015年，经查未发现公司不良贷款
+记录，公司合同履约记录良好，无对外担保记
+录。
+截至2016年6月末，经查公司无不良诉讼案
+件、无违反国家法律法规的经营行为、无工商、
+环保、质监等行政处罚记录、无不良纳税记录，
+社会声誉良好。
+政策、行业风险
+目前，我国各经济领域信息化水平与国际
+其他国家相比还有较大的差距，我国政府部门
+对信息化服务业的支持力度较大，行业发展前
+景广阔，尤其是公司所在的金融信息化行业未
+来成长空间较大，因此，公司面临的政策风险
+和行业风险较小。
+随着我国计算机硬件技术和网络安全技术
+进一步增强，网络的带宽和规模不断扩大，网
+络将无处不在。金融业务高度网络化，电子商
+务、电子银行将越来越普遍。在信息时代，每
+个银行都被迫面对不断增长的信息量，银行必
+须有效地管理已有的信息，并使用各种新的技
+术和方法对信息进行加工，通过个性化服务来
+满足市场需求。因此，金融电子化行业发展前
+景广阔，市场需求情况良好，公司面临的行业
+风险较小。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>-</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>我国银行业信息化建设和风险管理能力与
+行业进一步创新发展、深化改革、转型升级之
+间还存在一些不适应、不匹配的问题，如信息
+科技风险评估仍然缺乏系统性的方法和工具、
+数据的管理和服务能力还比较欠缺以及对科技
+创新的认识和重视程度有待提高等。以上银行
+业信息化建设等方面所面临的问题都为金融信
+息化服务企业提出更高的要求，公司应在满足
+市场需求的同时加强自身经营管理能力。
+随着公司经营规模逐年扩大，公司总资产
+规模快速增长，公司盈利能力有所增强；但同
+时，公司各运营效率指标处于较差水平，运营
+效率较低；公司资产负债率较低，债务风险较
+小。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>暂无。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京宇信科技集团股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>89461.67 </enterprise:资产总额>
+    <enterprise:所有者权益>40489.06 </enterprise:所有者权益>
+    <enterprise:负债总额>41365.69 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>97158.29 </enterprise:营业收入>
+    <enterprise:EBITDA>5166.93 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京宇信科技集团股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>106990.13 </enterprise:资产总额>
+    <enterprise:所有者权益>47675.92 </enterprise:所有者权益>
+    <enterprise:负债总额>76509.77 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>133388.76 </enterprise:营业收入>
+    <enterprise:EBITDA>-474.78 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京宇信科技集团股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>111357.90 </enterprise:资产总额>
+    <enterprise:所有者权益>76707.19 </enterprise:所有者权益>
+    <enterprise:负债总额>88182.06 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>126257.42 </enterprise:营业收入>
+    <enterprise:EBITDA>16141.21 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京宇信科技集团股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>153.28 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>597.48 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>491.08 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京宇信科技集团股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>94.53 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>343.15 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>364.06 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京宇信科技集团股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>73.76 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>291.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>335.47 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宇信科技集团股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>4.08 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.08 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>9.03 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宇信科技集团股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-0.57 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-0.57 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-4.92 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京宇信科技集团股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>9.11 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.11 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>22.35 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宇信科技集团股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>216.27 </enterprise:流动比率>
+    <enterprise:速动比率>145.58 </enterprise:速动比率>
+    <enterprise:资产负债率>46.24 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宇信科技集团股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>139.84 </enterprise:流动比率>
+    <enterprise:速动比率>103.16 </enterprise:速动比率>
+    <enterprise:资产负债率>71.51 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京宇信科技集团股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>126.28 </enterprise:流动比率>
+    <enterprise:速动比率>93.61 </enterprise:速动比率>
+    <enterprise:资产负债率>79.19 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京宇信科技集团股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>195.37 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>5.18 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.64 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>30.21 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>25.69 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京宇信科技集团股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>120.47 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-1.18 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.88 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>9.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>27.41 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京宇信科技集团股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>104.16 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>12.13 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-18.39 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>33.07 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京宇信科技集团股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>14743.17 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>32522.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2225.32 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>10729.37 </enterprise:其他应收款>
+    <enterprise:存货>29241.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>89461.67 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>89461.67 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京宇信科技集团股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>13919.72 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>45220.23 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>4055.86 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>15734.45 </enterprise:其他应收款>
+    <enterprise:存货>28059.87 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>106990.13 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>106990.13 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京宇信科技集团股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>10886.87 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>41353.15 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1218.92 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>29087.31 </enterprise:其他应收款>
+    <enterprise:存货>28811.65 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>111357.90 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>111357.90 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宇信科技集团股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>18000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>36101.52 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>22408.25 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>76509.77 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>76509.77 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>47675.92 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>124185.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宇信科技集团股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>18000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>36101.52 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>22408.25 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>76509.77 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>76509.77 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>47675.92 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>124185.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京宇信科技集团股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>37900.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>37457.56 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>12824.50 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>88182.06 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>88182.06 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>76707.19 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>164889.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京宇信科技集团股份有限公司2013年利润表">
+    <enterprise:营业收入>97158.29 </enterprise:营业收入>
+    <enterprise:主营业务收入>97158.29 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>24950.27 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>4527.73 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3655.98 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3655.98 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京宇信科技集团股份有限公司2014年利润表">
+    <enterprise:营业收入>133388.76 </enterprise:营业收入>
+    <enterprise:主营业务收入>133388.76 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>28879.91 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-1575.87 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-2170.38 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-2170.38 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京宇信科技集团股份有限公司2015年利润表">
+    <enterprise:营业收入>126257.42 </enterprise:营业收入>
+    <enterprise:主营业务收入>126257.42 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>30699.63 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>14524.65 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>13900.84 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>13900.84 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京宇信科技集团股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>12496.41 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-15791.42 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1327.23 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1967.78 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京宇信科技集团股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>7391.05 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-13634.62 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>2481.40 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3762.17 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京宇信科技集团股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-16216.76 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-18029.47 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>34438.95 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>192.72 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：井家斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>井家斌 </enterprise:股东名称>
+	 <enterprise:货币>262.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：许长忠 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许长忠 </enterprise:股东名称>
+	 <enterprise:货币>250.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：张昱 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张昱 </enterprise:股东名称>
+	 <enterprise:货币>134.375万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.69%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：李楠 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李楠 </enterprise:股东名称>
+	 <enterprise:货币>100.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：王晓飞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王晓飞 </enterprise:股东名称>
+	 <enterprise:货币>100.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：白剑 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>白剑 </enterprise:股东名称>
+	 <enterprise:货币>50.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：孙振华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>孙振华 </enterprise:股东名称>
+	 <enterprise:货币>25.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：冯刚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>冯刚 </enterprise:股东名称>
+	 <enterprise:货币>25.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：贺欢 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>贺欢 </enterprise:股东名称>
+	 <enterprise:货币>25.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：吴从建 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴从建 </enterprise:股东名称>
+	 <enterprise:货币>18.75万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：赵国良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵国良 </enterprise:股东名称>
+	 <enterprise:货币>12.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：郑三磊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郑三磊 </enterprise:股东名称>
+	 <enterprise:货币>12.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：张晓峰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张晓峰 </enterprise:股东名称>
+	 <enterprise:货币>9.375万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.19%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：杨家祥 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨家祥 </enterprise:股东名称>
+	 <enterprise:货币>6.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：许加桢 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许加桢 </enterprise:股东名称>
+	 <enterprise:货币>6.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：李昀城 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李昀城 </enterprise:股东名称>
+	 <enterprise:货币>6.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：吴迪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴迪 </enterprise:股东名称>
+	 <enterprise:货币>6.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：周添 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周添 </enterprise:股东名称>
+	 <enterprise:货币>6.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：李冬梅 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李冬梅 </enterprise:股东名称>
+	 <enterprise:货币>3.125万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.06%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京宇信科技集团股份有限公司股东：刘晓辉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘晓辉 </enterprise:股东名称>
+	 <enterprise:货币>3.125万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.06%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="北京宇信科技集团股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京宇信科技集团股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司主营业务稳定，营业收入呈波动增加的变动态势</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京宇信科技集团股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>各大商业银行等金融机构</enterprise:现有主要客户>
+	<enterprise:目前经营状况>稳定</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京宇信科技集团股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>加强服务的多样化和专业化，增强公司综合竞争力</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京宇信科技集团股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京宇信科技集团股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>银行业等金融行业信息化进程加快，行业政策和市场需求情况较好     。                   
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京宇信科技集团股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京宇信科技集团股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京宇信科技集团股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>其他信息</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>上年度缴税额</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>上年末应交额</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2.经营性负债偿付情况</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京宇信科技集团股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>供应商类型</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>额</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京宇信科技集团股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>信用网查询记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>纳税信用等级</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>互联网查询情况</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+</rdf:RDF>

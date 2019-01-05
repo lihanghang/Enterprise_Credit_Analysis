@@ -1,0 +1,1434 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京韵盛发科技有限公司的企业概况">
+    <enterprise:有名称>北京韵盛发科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局朝阳分局</enterprise:有登记机关>
+    <enterprise:有中征码>—</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国工商银行北京望京科技园区支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>100</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3047.70万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2028年</enterprise:有营业执照到期日>
+    <enterprise:有股本>2781.00万元</enterprise:有股本>
+    <enterprise:有经营范围>技术推广服务；计算机系统服务；应用软件服务；基础软件服务；销售通讯设备、电子产品、计算机、软件及辅助设备；货物进出口；技术进出口；代理进出口；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术推广服务；计算机系统服务；应用软件服务；基础软件服务；销售通讯设备、电子产品、计算机、软件及辅助设备；货物进出口；技术进出口；代理进出口；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>主要从事无线接入服务、虚拟共享管理服务、大数据相关设备和技术服务等</enterprise:有主营业务>
+    <enterprise:有行业分类>互联网和相关服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市朝阳区北沙滩甲</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区北沙滩甲</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100083</enterprise:有邮政编码>
+    <enterprise:有联系人>周静</enterprise:有联系人>
+    <enterprise:有联系电话>18600729161</enterprise:有联系电话>
+    <enterprise:有传真电话>010-64840899</enterprise:有传真电话>
+    <enterprise:有E-mail>grace.zhou@abloomy.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.abloomy.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京韵盛发科技有限公司（以下简称
+“公司”），于 2008 年 05 月 07 日在北京
+市工商行政管理局朝阳分局注册成立。截至
+评级时点，公司注册资本 3047.70万元，实
+收资本 2781.00万元，股东出资及持股比例
+为：自然人陈方出资 1357.16 万元，持股
+44.53%；自然人赵锦明出资 135.39 万元，
+持股 4.44%；自然人吴荣出资 141.15万元，
+持股 4.63%；法人新疆虎童瑞雪股权投资有
+限合伙企业出资 271.47万元，持股 8.91%；
+法人北京韵盛发投资中心（有限合伙）出资
+266.70万元，持股 8.75%；法人盈富泰克创
+业投资有限公司出资 166.75 万元，持股
+5.47%；法人深圳市诚兴和投资有限公司出
+资 121.91万元，持股 4.00%；法人北京厚持
+创业投资中心（有限合伙）出资 116.16万元，
+持股 3.81%；法人天津融智德投资有限公司
+出资 76.20万元，持股 2.50%；法人北京华
+睿互联创业投资中心（有限合伙）出资 57.15
+万元，持股 1.86%；自然人李新乔、路杨鹏、
+苏阳、徐子涵、水向东合计出资 337.31万元，
+合计持股 11.08%，各股东均以货币形式出
+资。
+公司经营范围：“技术推广服务；计算
+机系统服务；应用软件服务；基础软件服务；
+销售通讯设备、电子产品、计算机、软件及
+辅助设备；货物进出口；技术进出口；代理
+进出口。（依法须经批准的项目，经相关部
+门批准后依批准的内容开展经营活动。）”
+目前，公司主要从事无线接入服务、虚拟共
+享管理服务、大数据相关设备和技术服务
+等。
+截至 2016 年 6 月底，公司资产总额为
+2895.70万元，所有者权益为 2459.64万元；
+2015年，公司实现营业收入 1919.48万元，
+利润总额 -848.86万元；2016年 1~6月，公
+司实现营业收入 1816.65 万元，利润总额
+6.82万元。公司现有员工 100人，在北京市
+属于小型企业。
+公司注册地址：北京市朝阳区北沙滩甲
+1号 1号楼 6层 708室，经营地址：北京市
+朝阳区北沙滩甲 1号中科电大厦 306室；统
+一社会信用代码：91110105675061063J；公
+司开户银行：中国工商银行北京望京科技园
+区支行，开户账号：0200296709000030488；
+法定代表人：杨卫忠；营业期限：自 2008
+年 05月 07日至 2028年 05月 06日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京韵盛发科技有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司董事长兼总经理杨卫忠，47岁，硕
+士研究生学历，美国国籍，1994年~1996年
+任联想集团研发工程师；1996年~2003年任
+Intel高级研发工程师；2003年~2013年先后
+在美国硅谷创立 VineSys、Green10 两家公
+司；2013 年至今任公司 CEO，同业从业经
+验和管理经验丰富。
+公司市场副总裁马春晨，47岁，本科学
+历，2005年~2010任网御神州科技(北京)有
+限公司副总裁；2010年~2015年曾先后就职
+于联想集团、北京联合绿动科技有限公司、
+北京摩开科技有限公司任总经理；2015年至
+今任公司副总裁；管理经验丰富。
+公司销售总监曹岳，39岁，本科学历，
+2001年~2004年任加拿大运通市场部经理；
+2004 年~2007 年任摩托罗拉北区中心项目
+总监；2009年~2011年任安富利中国运营总
+监；现任公司销售总监，拥有 15 年的销售
+从业经验。
+公司财务经理王旭宇，38岁，本科学历，
+曾就职于天津海量信息技术有限公司任主
+管会计，现任公司财务经理。
+总体看，公司高管学历水平高，从业及
+管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 100人。
+从学历构成看，员工中本科及以上学历者占
+比 68.00%，员工学历水平高；从年龄构成
+看，员工年龄在 25 岁~45 岁之间者占比
+88.00%，员工以中青年为主，团队富有活力；
+从岗位构成看，管理人员占比 9.00%，技术
+人员占比 60.00%，其他人员占比 31.00%，
+符合高新技术企业特点。
+总体看，公司员工学历水平高，年龄构
+成以中青年为主，岗位构成符合高新技术企
+业特点。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，下设研发部、测
+控部、技术部，共同负责产品研发及测试工
+作。
+近三年，公司研发投入分别为 233.00
+万元、476.00万元、902.00万元，分别占当
+年营业收入的 124.52%、73.30%、46.99%，
+研发投入主要用于发放人员工资及购置研
+发设备和材料等，公司研发投入力度巨大。
+总体看，公司研发投入力度巨大，科研
+条件好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>233.00万元,476.00万元,902.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>124.52%,73.30%,46.99%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京韵盛发科技有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址为北京市朝阳区北沙滩
+甲 1号中科电大厦 708室，办公面积 600.00
+平方米，使用方式为租赁，该经营地办公设
+施齐全，交通便利。
+公司已成立 8年，为中关村高新技术企
+业（证书编号：F20132040195101，有效期
+至 2016 年 9 月）。公司已通过软件企业和
+软件产品的“双软”认定；公司已先后取得
+“计算机信息系统安全专用产品销售许可
+证”、“电信设备进网许可证”；公司主要
+产品服务处于成长期，业务发展稳定，表 2
+罗列了公司历年取得的资质。
+表 2 公司资质汇总
+序号 名 称
+中关村高新技术企业
+1
+（证书编号：20152010831001，有效期至 2018 年）
+软件产品登记证书
+2
+（证书编号：京 DGY-2012-0974）
+3 计算机信息系统安全专用产品销售许可证
+（证书编号：XKC38538)
+电信设备进网许可证
+4
+（许可证编号：12-B896-160375）
+资料来源：公司提供，中企信用整理。
+总体看，公司经营资质齐全，经营条件
+较好。
+（二）业务运营
+公司主要从事无线接入服务、虚拟共享
+管理服务、大数据相关设备和技术服务等，
+成立至今一直专注于打造面向未来的新一
+代无线网络，开创了基于云服务及网络虚拟
+化技术为基础的全新无线网络架构。公司是
+国内第一个，也是唯一一个基于虚拟云服务
+的WIFI平台服务。凭借独有的二层云架构技
+术，以本地化云服务的方式实现百万数量级
+AP的跨地域组网，降低遍布全国的分散方
+式WIFI网络的运营成本，保证质量服务。
+1.主要产品和服务
+公司提供的主要产品和服务划分为三
+大类：控制接入管理器、虚拟共享管理器、
+无线接入点。公司依托自有的硬件产品，提
+供开放式的 SaaS 服务：为企业客户提供即
+插即用的无线组网；集中的、全局可视的线
+上 IT运维管理；手段丰富的流量运营工具；
+完整的线下商业大数据采集和变现准备服
+务；灵活、完善的网络和数据安全防护。2015
+年，公司控制接入管理器、虚拟共享管理器、
+无线接入点三大类收入分别占当年总收入
+的 15.26%、25.00%、59.74%。
+2.采购模式
+采购方面，公司根据项目需要进行采
+购，采购周期一般为 15~45天，采购的产品
+主要是无线接入点、虚拟共享管理器硬件、
+服务器等。公司供应商相对集中，2015年度
+前五大供应商分别是深圳市荣鑫胜科技有
+限公司、深圳市荣鑫胜科技有限公司、启基
+永昌通讯（昆山）有限公司、深圳市首达电
+子有限公司、北京乐研科技有限公司，五家
+采购额合计占比达 77.44%，公司与供应商
+合作时间较长，供货稳定。结算方面，按合
+同约定通过银行转账付款。
+3.销售模式
+销售方面，公司采用直销、分销、代理
+等多种销售方式，主要面向全国的企业客户
+分布在金融、教育、连锁、酒店、医疗、旅
+游、地产等众多领域，目前公司主要客户有
+鹏博士电信传媒集团股份有限公司、深圳市
+华讯方舟软件信息有限公司、任子行网络技
+术股份有限公司、无限城市（北京）科技有
+限公司、中国普天信息产业股份有限公司
+等。公司项目实施一般分为项目可行性分
+析、方案配置、需求和货期确认、签订合同、
+发货签收、安装调试等。结算方面，公司与
+客户主要按货到付款，回款周期一般在 1~3
+个月。
+表 3 公司 2015年度前五大销售客户
+销售金额 销售占
+客户名称 合作年限
+（万元） 比（%）
+鹏博士电信传媒集团
+270.18 14.00 3年
+股份有限公司
+深圳市华讯方舟软件
+111.68 6.00 2年
+信息有限公司
+任子行网络技术股份
+327.39 17.00 3年
+有限公司
+无限城市（北京）科
+131.10 7.00 2年
+技有限公司
+中国普天信息产业股
+184.47 10.00 2年
+份有限公司
+资料来源：公司提供，中企信用整理。
+总体看，公司主营业务清晰，主要产品
+种类较丰富，上下游渠道畅通，业务运作情
+况良好。
+（三）经营效率
+表 4 公司近三年主要经营指标
+财务指标 2013 年 2014年 2015年
+成本率（%） 251.12 190.77 145.95
+管理费用率（%） 82.42 65.44 46.80
+应收账款周转次数(次) 6.91 6.43 7.37
+存货周转次数(次) 5.13 1.21 2.27
+总资产周转次数(次) 0.70 0.75 0.92
+资料来源：公司提供，中企信用整理
+近三年，公司成本率分别为 251.12%、
+190.77%、145.94%，加权平均值为 180.43%，
+虽呈下降趋势，但仍处于行业高水平；同期，
+管理费用率分别为 82.42%、 65.44%、
+46.80%，加权平均值为 59.52%，呈快速下
+降趋势，公司对管理费用的控制力度明显改
+善。
+近三年，公司应收账款周转次数分别为
+6.91次、6.43次、7.37次，加权平均值为 7.00
+次，呈波动上升趋势，处于行业较高水平；
+存货周转次数呈波动下降趋势，加权平均值
+为 2.52次，处于行业较低水平；同期，总资
+产周转次数分别为 0.70 次、0.75 次、0.92
+次，加权平均值为 0.83次，处于行业一般水
+平。
+总体看，公司经营效率偏低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中华人民共和国公司法》及
+其他有关规定，制订了《北京韵盛发科技有
+限公司章程》。
+股东会是公司的权力机构，行使决定公
+司的经营方针和投资计划、审议批准执行董
+事的报告等职权。
+公司设董事会，成员 3人，设董事长 1
+人，董事长行使召集股东会，并向股东会报
+告工作等职权。
+公司不设监事会，设监事 1名，监事行
+使检查公司财务、对董事长、高级管理人员
+执行公司职务的行为进行监督等职权。
+公司设总经理 1人，总经理对董事长负
+责，主持公司的生产经营管理工作，组织实
+施董事会决议，并向董事长报告工作等。
+公司内设人事行政部、销售部、技术部、
+研发部、测试部、财务部、商务部、供应链
+管理部、产品&市场部，部门设置清晰。
+截至评级时点，公司在美国硅谷、北京、
+武汉、深圳设有研发中心。
+总体看，公司法人治理结构较完善，组
+织架构清晰。
+（二）内控制度及执行
+公司根据经营需要制定了《员工考勤与
+休假管理制度》、《仓库管理制度》、《生
+产部收发货管理制度》、《财务管理制度》、
+《保密制度》、《费用管理办法》等制度规
+范，实际业务操作中严格按制度执行。
+总体看，公司内部管理制度完善，制度
+执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据中企信用数据预测规则，结合公司
+提供的财务数据，按照谨慎性原则，中企信
+用预测公司 2016年将实现营业收入 5400.00
+万元，净利润 800.00万元；预计 2016年底
+资产总额 3513.00万元，负债总额 260.00万
+元，所有者权益 3253.00 万元。相比 2015
+年，预计 2016 年营业收入增长 181.33%，
+负债率变动幅度 1.03%，净资产收益率变动
+幅度 73.26%。
+总体看，公司未来一年发展前景良好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京韵盛发科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 6 月底，公司资产总额
+2895.70万元，其中流动资产占比 86.01%，
+非流动资产占比 13.99%。
+1.流动资产
+截至 2016 年 6 月底，公司流动资产
+2490.57万元，主要为：货币资金 489.19万
+元，占比 19.64%；应收账款 1013.31万元，
+占比 40.69%，主要为应收北京云领科技有
+限公司、北京卓越天成信息技术有限公司、
+无限城市（北京）科技有限公司、深圳市华
+讯方舟软件信息有限公司、宁波华强文化科
+技有限公司的货款，账龄在 1年之内的占比
+91.80%，1~2 年的占比 7.34%，2 年以上的
+占比 0.86%，公司已按账龄分析法计提了坏
+账准备；预付款项464.93万元，占比18.67%，
+主要为预付启基永昌通讯（昆山）有限公司、
+深圳市荣鑫胜科技有限公司、光宝网络通讯
+（东莞）有限公司、深圳市韵鸿科技有限公
+司、深圳市新雪电子科技有限公司的采购
+款；存货 442.54 万元，占比 17.77%，主要
+为库存的无线接入点 、虚拟共享管理器 、
+云服务平台 、配件等；
+2.非流动资产
+截至 2016 年 6 月底，公司非流动资产
+405.13 万元，主要为：长期股权投资 31.08
+万元，占比 7.67%，系公司对在美国投资设
+立的子公司 ABLOOMY TECHNOLOGIES，
+INC.的股权投资；固定资产净额 95.60万元，
+占比 23.60%，主要是运输设备、研发设备、
+电子设备、办公设备等；无形资产 225.02
+万元，占比 55.54%，主要为公司知识产权；
+长期待摊费用 53.43万元，占比 13.19%，主
+要为待摊的装修费等。
+总体看，公司资产流动性较强，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 6 月底，公司资产负债率
+为 15.06%，负债水平低，无有息债务。
+截至 2016 年 6 月底，公司负债总额为
+436.06万元，全部为流动负债，主要为：应
+付账款 337.29万元，主要为应付启基永昌通
+讯（昆山）有限公司、光宝网络通讯（东莞）
+有限公司、深圳市首达电子有限公司、深圳
+市荣鑫胜科技有限公司、深圳市万网博通科
+技有限公司的货款，账龄全部在 1年以内，
+截至评级时点，应付账款均在正常账期之
+内；应交税费 77.10万元，占比 17.68%。
+总体看，公司负债全部为流动负债，负
+债水平较低，无有息债务。
+2.所有者权益
+近三年，公司所有者权益分别为82.41
+万元、1302.02万元、2452.82万元，复合增
+长率为445.55%，公司所有者权益大幅增加，
+主要系股东增资所致。
+截至2016年6月底，公司所有者权益
+2459.64万元，其中实收资本2781.00万元，
+占比113.07%；资本公积1623.08万元，占比
+65.99%；未分配利润 -1944.44万元，占比
+-79.05%。
+总体看，公司所有者权益大幅增加，对
+债务的保障能力强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 6
+月底，公司流动比率和速动比率分别为
+571.15%、469.67%，均处于行业高水平，公
+司短期偿债能力强。
+结合公司业务发展及债务构成看，公司
+整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 187.12
+万元、649.37 万元、1919.48 万元，复合增
+长率 220.28%，公司营业收入大幅增长，主
+要系业务的迅速扩张所致；同期，公司净利
+润分别为-275.30万元、-580.39万元、-848.86
+万元，处于持续亏损状态，主要是公司近三
+年研发费用大幅增加所致。截至 2016 年 6
+月底，公司实现营业收入 1816.65万元，净
+利润 6.82万元，已经扭亏为盈。
+近三年，公司主营业务利润率分别为
+55.68%、54.83%、41.48%，加权平均值为
+48.33%，处于行业较高水平。
+近三年，公司现金收入比分别为
+109.59%、104.53%、104.85%，加权平均值
+为 105.70%，收入实现质量较好。
+总体看，公司盈利能力较弱，收入实现
+质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京韵盛发科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司目前营业成本偏高，盈利能力较
+弱，关注后期期间费用控制和业务的开拓情
+况。
+2.公司经营活动获取现金的能力弱，整
+体现金流对筹资活动的依赖性较大。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京韵盛发科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>177.20 </enterprise:资产总额>
+    <enterprise:所有者权益>82.41 </enterprise:所有者权益>
+    <enterprise:负债总额>94.79 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>187.12 </enterprise:营业收入>
+    <enterprise:EBITDA>-266.47 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京韵盛发科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>1545.25 </enterprise:资产总额>
+    <enterprise:所有者权益>1302.02 </enterprise:所有者权益>
+    <enterprise:负债总额>245.89 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>649.37 </enterprise:营业收入>
+    <enterprise:EBITDA>-565.73 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京韵盛发科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>2619.74 </enterprise:资产总额>
+    <enterprise:所有者权益>2452.82 </enterprise:所有者权益>
+    <enterprise:负债总额>166.90 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1919.48 </enterprise:营业收入>
+    <enterprise:EBITDA>-808.26 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京韵盛发科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.70 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.91 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.13 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京韵盛发科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.75 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.43 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.21 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京韵盛发科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.92 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.37 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.27 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京韵盛发科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.00 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京韵盛发科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.00 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京韵盛发科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.00 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京韵盛发科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>164.46 </enterprise:流动比率>
+    <enterprise:速动比率>148.77 </enterprise:速动比率>
+    <enterprise:资产负债率>53.49 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京韵盛发科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>594.08 </enterprise:流动比率>
+    <enterprise:速动比率>404.83 </enterprise:速动比率>
+    <enterprise:资产负债率>15.91 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京韵盛发科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>1448.20 </enterprise:流动比率>
+    <enterprise:速动比率>1140.14 </enterprise:速动比率>
+    <enterprise:资产负债率>6.37 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京韵盛发科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>56.56 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-187.67 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京韵盛发科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>55.35 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.05 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-496.73 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京韵盛发科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>42.01 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.05 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-745.01 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京韵盛发科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>75.99 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>41.35 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>7.56 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>16.12 </enterprise:其他应收款>
+    <enterprise:存货>14.87 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>155.89 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>21.31 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>21.31 </enterprise:非流动资产合计>
+    <enterprise:资产总计>177.20 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京韵盛发科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>621.82 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>160.55 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>182.40 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>30.67 </enterprise:其他应收款>
+    <enterprise:存货>465.34 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1460.78 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>53.77 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>30.70 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>84.47 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1545.25 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京韵盛发科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>708.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>360.57 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>154.23 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>80.10 </enterprise:其他应收款>
+    <enterprise:存货>514.14 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>600.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2417.04 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>31.08 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>78.03 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>33.72 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>59.87 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>202.70 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2619.74 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京韵盛发科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>175.68 </enterprise:应付账款>
+    <enterprise:预收款项>53.46 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.31 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1.33 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>15.11 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>245.89 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>245.89 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>4.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1102.06 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1302.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1302.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1547.91 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京韵盛发科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>175.68 </enterprise:应付账款>
+    <enterprise:预收款项>53.46 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.31 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1.33 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>15.11 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>245.89 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>245.89 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>4.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1102.06 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1302.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1302.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1547.91 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京韵盛发科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>67.81 </enterprise:应付账款>
+    <enterprise:预收款项>22.42 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>43.48 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>33.19 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>166.90 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>166.90 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2781.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1623.08 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1951.26 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2452.82 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2452.82 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2619.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京韵盛发科技有限公司2013年利润表">
+    <enterprise:营业收入>187.12 </enterprise:营业收入>
+    <enterprise:主营业务收入>187.12 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>81.29 </enterprise:营业成本>
+    <enterprise:主营业务成本>81.29 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.64 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>387.30 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.33 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>104.52 </enterprise:营业利润>
+    <enterprise:营业外收入>7.47 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>111.99 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>111.99 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>111.99 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京韵盛发科技有限公司2014年利润表">
+    <enterprise:营业收入>649.37 </enterprise:营业收入>
+    <enterprise:主营业务收入>649.37 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>289.97 </enterprise:营业成本>
+    <enterprise:主营业务成本>289.97 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.33 </enterprise:营业税金及附加>
+    <enterprise:销售费用>141.87 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>810.70 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-7.04 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>221.24 </enterprise:营业利润>
+    <enterprise:营业外收入>9.06 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>230.30 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>230.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>230.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京韵盛发科技有限公司2015年利润表">
+    <enterprise:营业收入>1919.48 </enterprise:营业收入>
+    <enterprise:主营业务收入>1919.48 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1113.17 </enterprise:营业成本>
+    <enterprise:主营业务成本>1113.17 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>10.10 </enterprise:营业税金及附加>
+    <enterprise:销售费用>384.73 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1311.15 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-1.07 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>16.51 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>429.06 </enterprise:营业利润>
+    <enterprise:营业外收入>33.23 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>462.29 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>462.29 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>462.29 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京韵盛发科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>205.05 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>7.47 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>80.17 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>292.69 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>89.99  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>247.34 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>21.69 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>111.56 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>470.58 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-177.89 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>16.59 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>16.59 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-16.59 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>2000+EN1788:ES1789</enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京韵盛发科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>678.77 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>9.03 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>11.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>698.80 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>947.34  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>606.18 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>21.11 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>345.57 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1920.20 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1221.40 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>32.78 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>32.78 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-32.78 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>1800.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1800.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1800.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>545.82 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京韵盛发科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2012.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>33.23 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>28.94 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2074.73 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1413.75  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1191.01 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>88.54 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>624.86 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3318.16 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1243.43 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>39.31 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>31.08 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>70.39 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-70.39 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>2000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>2000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>2000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>686.18 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：陈方 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈方 </enterprise:股东名称>
+	 <enterprise:货币>1,357.158962万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>44.53%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：新疆虎童瑞雪股权投资有限合伙企业 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>新疆虎童瑞雪股权投资有限合伙企业 </enterprise:股东名称>
+	 <enterprise:货币>271.470002万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>8.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：盈富泰克创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>盈富泰克创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>166.750017万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.47%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：吴荣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴荣 </enterprise:股东名称>
+	 <enterprise:货币>141.148423万元时间：2015-12-09</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.63%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：赵锦明 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵锦明 </enterprise:股东名称>
+	 <enterprise:货币>135.385228万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：深圳市诚兴和投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>深圳市诚兴和投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>121.91万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：北京厚持创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京厚持创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>116.159985万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.81%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：李新乔 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李新乔 </enterprise:股东名称>
+	 <enterprise:货币>107.040012万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.51%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：水向东 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>水向东 </enterprise:股东名称>
+	 <enterprise:货币>85.679985万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.81%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：天津融智德投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津融智德投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>76.2万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：苏阳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苏阳 </enterprise:股东名称>
+	 <enterprise:货币>64.320009万元时间：2015-12-09</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.11%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：徐子涵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐子涵 </enterprise:股东名称>
+	 <enterprise:货币>64.320008万元时间：2015-12-09</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.11%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：北京华睿互联创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京华睿互联创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>57.15万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：路杨鹏 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>路杨鹏 </enterprise:股东名称>
+	 <enterprise:货币>16.307369万元时间：2015-07-28</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.54%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：天津佳韵盛信企业管理咨询中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津佳韵盛信企业管理咨询中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：天津佳韵盛盈企业管理咨询中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津佳韵盛盈企业管理咨询中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：天津韵泽盛兴企业管理咨询中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津韵泽盛兴企业管理咨询中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：北京虎童股权投资企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京虎童股权投资企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京韵盛发科技有限公司股东：梁振文 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>梁振文 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京韵盛发科技有限公司的商标信息：韵盛发">
+	<enterprise:有申请日期>10-12-31</enterprise:有申请日期>
+	<enterprise:有商标名称>韵盛发</enterprise:有商标名称>
+	<enterprise:有注册号>9012134</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京韵盛发科技有限公司的商标信息：ABLOOMY">
+	<enterprise:有申请日期>10-12-31</enterprise:有申请日期>
+	<enterprise:有商标名称>ABLOOMY</enterprise:有商标名称>
+	<enterprise:有注册号>9012135</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京韵盛发科技有限公司的专利信息：无线接入点路由器（一）">
+	<enterprise:有申请公布日>16-9-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线接入点路由器（一）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630066743.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303870745S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京韵盛发科技有限公司的专利信息：无线接入点路由器（三）">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线接入点路由器（三）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630066745.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303826132S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京韵盛发科技有限公司的专利信息：无线接入点路由器（二）">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>无线接入点路由器（二）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630066744.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303826131S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京韵盛发科技有限公司的专利信息：虚拟共享WiFi无线接入点方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>虚拟共享WiFi无线接入点方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110197123.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102883327B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京韵盛发科技有限公司的专利信息：虚拟共享WiFi无线接入点方法">
+	<enterprise:有申请公布日>13-1-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>虚拟共享WiFi无线接入点方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110197123.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102883327A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：大容量终端接入分析系统">
+	<enterprise:有批准日期>16-9-27</enterprise:有批准日期>
+	<enterprise:有软件全称>大容量终端接入分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>VDS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR276910</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：网格化云账号管理平台">
+	<enterprise:有批准日期>16-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>网格化云账号管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR064001</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：第三方无线接入设备管控系统">
+	<enterprise:有批准日期>16-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>第三方无线接入设备管控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR064033</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：分布式智能内容缓存与分发系统">
+	<enterprise:有批准日期>16-8-30</enterprise:有批准日期>
+	<enterprise:有软件全称>分布式智能内容缓存与分发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>VCDN</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR239393</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：基于网络侦测的高可靠性实现软件">
+	<enterprise:有批准日期>16-8-30</enterprise:有批准日期>
+	<enterprise:有软件全称>基于网络侦测的高可靠性实现软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR239405</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：数据服务平台">
+	<enterprise:有批准日期>16-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>数据服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR063997</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：自学习网络设备管理软件">
+	<enterprise:有批准日期>16-8-30</enterprise:有批准日期>
+	<enterprise:有软件全称>自学习网络设备管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR240142</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：大规模网络智能升级功能软件">
+	<enterprise:有批准日期>16-8-30</enterprise:有批准日期>
+	<enterprise:有软件全称>大规模网络智能升级功能软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR239374</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：高并发消息系统">
+	<enterprise:有批准日期>16-8-30</enterprise:有批准日期>
+	<enterprise:有软件全称>高并发消息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR239386</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：广告运营平台">
+	<enterprise:有批准日期>16-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>广告运营平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR064225</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：韵盛发无线接入点系统">
+	<enterprise:有批准日期>13-2-22</enterprise:有批准日期>
+	<enterprise:有软件全称>韵盛发无线接入点系统</enterprise:有软件全称>
+	<enterprise:有软件简称>VAPOS</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR016196</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：韵盛发无线接入控制管理系统">
+	<enterprise:有批准日期>11-4-14</enterprise:有批准日期>
+	<enterprise:有软件全称>韵盛发无线接入控制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>NetView</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR020488</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京韵盛发科技有限公司的软件著作：韵盛发网络安全加速系统">
+	<enterprise:有批准日期>10-6-23</enterprise:有批准日期>
+	<enterprise:有软件全称>韵盛发网络安全加速系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Flowview</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR030530</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京韵盛发科技有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京韵盛发科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司是国内领先的以云服务形式，提供无线接入、物联网、大数据相关设备
+和服务的供应商。依托自有的硬件产品，提供开放式的 SaaS服务：能够为企业客户提供即
+插即用的无线组网；集中的、全局可视的线上 IT运维管理；手段丰富的流量运营工具；完
+整的线下商业大数据采集和变现准备服务；以及灵活、完善的网络和数据安全防护</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京韵盛发科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>目前有超过 5个国家 20个无线运营商的客户，同时还服务于金融、教
+育、连锁、酒店、医疗、旅游、地产等众多企业客户</enterprise:现有主要客户>
+	<enterprise:目前经营状况>服务的主要客户均处于健康、良性的经营状态，通过 ABLOOMY提供
+的服务应用得到业务的持续性发展，并且帮助一些从传统的公司向互联网方向运营进行扩
+展，帮助线下资源向线上资源进行过渡，线上资源向线下资源提供运营服务，实现资源的整
+合与贯通，实现效能的最大价值转换。</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京韵盛发科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>智慧城市、互联网+、村村通等都是政府大力倡导和扶持项目，ABLOOMY
+的作为这些惠民利民项目的基础业务承载也得到快速的发展；ABLOOMY 凭借技术创新为
+立身之本被认证为北京市"高新技术企业”</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京韵盛发科技有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京韵盛发科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励□限制☑扶持□整合□调控 扶持□整合□调控 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期□成熟期□衰退期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>国内目前WIFI行业涨势迅猛，公司以软件产品迎合市场需求，在业绩
+上也证明了受到市场的认可，以每年 200%以上的销售业绩高速增长。海外市场也是项目产
+品市场化不可或缺的一部分， 2019年，在世界范围网络虚拟化相关产品的市场可以达到 40
+亿美元。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京韵盛发科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争□寡头垄断□垄断竞争□完全垄断 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京韵盛发科技有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京韵盛发科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>--</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>6,971.00万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2,246.00万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京韵盛发科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京韵盛发科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京韵盛发科技有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京韵盛发科技有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京韵盛发科技有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京韵盛发科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5400.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京韵盛发科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>800.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京韵盛发科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京韵盛发科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京韵盛发科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>1</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京韵盛发科技有限公司的专利数量">
+	<enterprise:专利总计>2</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>1</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京韵盛发科技有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

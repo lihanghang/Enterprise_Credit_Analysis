@@ -1,0 +1,1440 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京牡丹联友环保科技股份有限公司的企业概况">
+    <enterprise:有名称>北京牡丹联友环保科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>91110302600006270W</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>支行营业部</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1992年10月19日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>6900万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>生产、制造智能化设备、自动机械手、工业用自动单机、自动测试仪器、专用测试仪器、环保测试仪器、机械电子产品、环保设备；设计自动联装系统、各种工业用生产线和工艺、工装、环保测试系统；承接技术安全防范工程设计、施工（土木工程除外）；销售自产产品；技术咨询与技术服务；软件开发与销售。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）生产、制造智能化设备、自动机械手、工业用自动单机、自动测试仪器、专用测试仪器、环保测试仪器、机械电子产品、环保设备；设计自动联装系统、各种工业用生产线和工艺、工装、环保测试系统；承接技术安全防范工程设计、施工（土木工程除外）；销售自产产品；技术咨询与技术服务；软件开发与销售。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>节能环保</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市经济技术开发区科创14街99号17栋</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市经济技术开发区科创14街99号17栋</enterprise:有通讯地址>
+    <enterprise:有邮政编码>101111</enterprise:有邮政编码>
+    <enterprise:有联系人>孟雨</enterprise:有联系人>
+    <enterprise:有联系电话>51262896-211</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.pafer.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京牡丹联友环保科技股份有限公司成立
+于1992年10月19日，注册地址为北京市北京经
+济技术开发区科创14街99号17栋，法定代表人
+杨森。公司原名为北京牡丹联友电子工程有限
+公司，是由北京牡丹电子集团有限责任公司与
+日本联友企业（华侨商贸公司）共同投资51万
+美元成立的中外合资企业，其中中方出资51%，
+外方出资49%。2011年11月，公司进行了股份制
+改造。2015年8月12日，公司在全国中小企业股
+份转让系统正式挂牌（证券简称：牡丹联友；
+证券代码：832987）。成立至今，公司经过多
+次增资扩股，目前注册资本为人民币6900万元
+，股东及出资情况如表一所示。
+表一：牡丹联友股权结构
+股东名称 股权比例 出资额（元）
+北京日新益科技发展有
+24.91% 17,185,490.00
+限公司
+日本联友企业株式会社 23.55% 16,250,103.00
+王东民 13.87% 9,573,329.00
+北京银河鼎发创业投资
+10.43% 7,193,556.00
+有限公司
+王齐鸣 3.98% 2,745,135.00
+李  强 3.32% 2,291,190.00
+王嘉民 3.11% 2,145,834.00
+北京鸿皓投资管理有限
+2.90% 2,000,000.00
+公司
+北京金科同盛创业投资
+2.76% 1,902,083.00
+有限公司
+上海立溢股权投资中心
+2.74% 1,891,895.00
+（有限合伙）
+黄  飞 2.29% 1,577,189.00
+北京创导世纪科技发展
+2.09% 1,441,442.00
+有限公司
+万联证券有限责任公司 1.30% 900,000.00
+刘世法 0.89%   613,524.00
+张迎潮 0.53%   368,119.00
+连  杰 0.46%   314,354.00
+天风证券股份有限公司 0.43% 300,000.00
+黄清海 0.18%   122,704.00
+刘志勇 0.09%   61,351.00
+王  彦 0.09%   61,351.00
+周伯虎 0.09%    61,351.00
+牡丹联友自成立以来专注于环保产业，主
+要从事环保在线监测设备和专用检测设备的研
+发、生产、销售及后期运营服务。2011年公司
+取得由国家环境保护局颁发的“环境污染治理
+设施运营资质”证书；2012年5月，公司被北京
+市科学技术委员会认定为“北京科技研究开发
+机构”；2013年8月，公司通过ISO9001:2008质
+量管理体系认证、ISO14001:2004环境管理体系
+认证和OHSAS18001：2007职业健康安全管理体
+系认证复核；2014年10月，公司通过北京市科
+学技术委员会等四部门组织的“高新技术企业
+”资格复核；2015年8月，通过“中关村高新技
+术企业”认证复核；2015年11月，公司被评为
+“2014-
+2015年度中关村信用培育双百工程百家最具发
+展潜力信用企业”。
+截至2015年底，牡丹联友资产总额为16562
+.12万元，净资产为11216.96万元；2015年公司
+累计实现主营业务收入5557.73万元，利润总额
+805.37万元；2015年公司经营活动产生的现金
+流量净额为835.44万元，投资活动产生的现金
+流量净额为-
+391.96万元，筹资活动产生的现金流量净额为1
+02.48万元，现金及现金等价物净增加额为578.
+33万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京牡丹联友环保科技股份有限公司的基础素质">
+    <enterprise:有管理素质>牡丹联友董事长兼法定代表人杨森先生，
+毕业于加拿大新不伦瑞克大学，2006年起担任
+北京日新益科技发展有限公司副总经理兼投资
+主管，2008年至今担任牡丹联友董事长。
+公司总经理王东民先生，1981年起担任北
+京牡丹电子集团公司仪表处处长，1996年至今
+担任牡丹联友总经理一职。副总经理王齐鸣，1
+993年起担任北京JVC电子产业有限公司技术部
+长；2000年起任职于牡丹联友，2004年至今担
+任牡丹联友副总经理。副总经理李强，1981年
+起担任牡丹集团仪表处工程师；1996年担任牡
+丹联友工程部部长，1999年担任美国FLUKE公司
+北京办事处售后服务工程师；2000年任牡丹联
+友研究所所长；2004年至今担任牡丹联友副总
+经理。
+财务总监张佩珠，1971年起先后担任北京
+计算机五厂财务科长、北京新艺裘皮厂财务科
+长、北京皮革公司副总会计师、中国轻工业原
+材料总公司财务处处长、中轻投资公司财务部
+经理和投资部经理；2007年至今担任牡丹联友
+财务总监。
+总体看，牡丹联友管理者素质较高，具有
+较为丰富的行业经验，在多年的工作中管理团
+队的协作状况较好，满足公司目前经营发展的
+需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>牡丹联友现有技术人员33人，其中研发人
+员24人。研发人员中硕士2人，本科18人，专科
+4人；拥有高级职称的2人，拥有中级职称的2人
+，拥有初级职称的1人，公司技术人员专业素质
+较高。
+公司总经理王东民，曾获十三项部级科技
+成果奖项；北京市优秀科技工作者；国家“九
+五”科技攻关项目负责人兼总体设计；国家高
+技术产业化示范工程项目负责人；北京市成果
+转化项目负责人；中小企业科技创新基金项目
+负责人。
+公司总工程师张世谦，拥有教授级高级工
+程师职称，1980年起担任牡丹集团总工程师，
+曾参与国家“九五”科技攻关项目数学模型设
+计和国家高技术产业化示范工程项目商品化设
+计。
+公司计测仪器工厂厂长李小兵，高级工程
+师职称，1998年起先后担任北京电视设备厂工
+程师、北京JVC电子产业有限公司技术部长；20
+09年至今担任牡丹联友计测仪器工厂厂长。
+公司软件工程师郑明，曾参与过国家“九
+五”科技攻关项目数学模型设计和国家高技术
+产业化示范工程项目商品化设计。
+总体看，牡丹联友核心技术人员具备较为
+丰富的科研实力和经验，为公司的研发活动提
+供了较好的专业技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>2013-
+2015年，公司投入的研发经费分别为359万元、
+310万元和448万元，分别占当年总收入的5.76%
+、4.68%和6.90%，公司每年的研发经费均按当
+期的需要进行投入，较好的保障了公司研发工
+作的正常运转。公司拥有分光光度计、光谱分
+析仪、质量流量计、亮度计、信号采集控制卡
+、等速采样仪、精密天平、β快速测尘仪等设
+备。主要设备及专用设备自成体系，能够满足
+公司产品设计、开发及检验的需要。
+公司曾承担由国家环保部主持的国家重点
+科技攻关项目《HP5000型烟气在线监测系统》
+的研制，研发成果和系统样机通过了国家环境
+保护部主持的科技攻关成果鉴定，并获国家发
+改委批准立项，将HP5000型烟气在线监测系统
+的产业化列入国家高技术产业化示范工程。
+HP5000型烟气在线监测设备主要用于对各
+种工业、民用锅炉燃煤过程中排放的二氧化硫
+、氮氧化物、烟尘等污染物量进行连续不断的
+实时在线监测，是国家节能减排、环保三大体
+系建设、控制污染排放、实施排污交易、执行
+排污收费及脱硫电价补贴等环境政策所需的相
+关设备，也是全国各级环保局强化环境监管能
+力建设的重要技术装备。
+HP5000是公司自主研制的烟气在线监测设
+备，拥有完全自主知识产权和专有技术，其只
+需将一个宽光谱光束照射在流动的烟气上，以
+每秒100次的检测频率，直接测量出各种气态污
+染物和烟尘的排放浓度，并具有网络、无线、
+有线联网传送检测数据的功能。
+公司产品基于国家环保总局主持的国家“
+九五”重点科技攻关项目成果，并且是由国家
+环保总局申报、国家计委立项的国家高技术产
+业化示范工程产品，被中关村高技术产业开发
+区列入国家首批自主创新产品及产品目录。截
+至目前，公司共获有一项发明专利、两项软件
+著作权、七项实用新型专利。发明专利“一种
+高湿度低浓度烟气污染物光学测量探头系统”
+于2014年5月取得。
+总体看，牡丹联友较注重技术研发，技术
+储备较为充分，研发成果的市场转化效果较好
+。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京牡丹联友环保科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>牡丹联友主要从事污染源自动监测系统的
+研发、生产和销售，同时也为客户提供污染源
+监测运营维护服务。公司已成为国内少数拥有
+烟尘烟气连续自动监测系统自主知识产权和专
+有技术的高新技术企业之一，先后开发出应对
+二氧化硫、氮氧化物等气体污染因子的连续自
+动监测设备，其中顺应高排放标准的HP5000L/S
+L型低浓度/超低浓度烟尘烟气连续自动监测系
+统填补了国内在高端烟尘烟气监测领域生产研
+制方面的空白。公司依托多年环境监测仪器生
+产经验，在掌握核心技术和自主知识产权的基
+础上，逐步成为国内中、高端烟尘烟气连续自
+动监测系统和污染源监测系统运营服务市场的
+供应商。公司现有业务开展以及所形成的核心
+竞争力主要体现为公司的技术研发能力和生产
+技术。产品主要应用于电力、钢铁、水泥、化
+工、垃圾焚烧等国家重点工业行业。
+公司目前主要销售的自主产品为HP5000型
+在线式烟气连续排放监测系统，产品系列众多
+。2015年，牡丹联友实现主营业务收入5557.73
+万元，按收入构成划分，主要分为销售环保设
+备和提供运营服务，其中，销售环保设备实现
+的收入占总收入的68.49%，提供运营服务实现
+的收入占总收入的31.38%。因2015年公司新老
+产品进行适用性检测认证耗时4个月及推进销售
+模式的创新，致使公司2015年环保设备销售收
+入同比下降1380.72万元。同时，因运营服务收
+入较为稳定，在营业收入总体下降的情况下，
+运营收入增加251.74万元。
+因各地环境监管部门以统一招标方式采购
+烟尘烟气连续自动监测系统，对中标企业的交
+货时间有严格要求，通常要求在2-
+3个月内完成产品交付，故公司需要对生产所需
+要的原材料数量进行预估，提前向合格供应商
+发出订单，以便及时补充库存，保证产品的生
+产效率。通过与各地环境监管部门、下游客户
+保持长期良好的合作关系和密切的沟通，公司
+能够合理预估各地对监测系统的需求情况。目
+前公司生产所需的特殊元器件、集成电路等主
+要从国外进口，主要供货厂商为日本明治产业
+，一般进口件采购占全部采购的20%左右，付款
+主要为预付全款；一般元器件和零部件在国内
+采购，主要供货商为青岛海纳光电环保有限公
+司和优胜光分析仪器南京有限公司等，公司与
+供货厂商保持长期合作关系，采购付款一般有1
+-
+3个月的账期。产品所需结构件一般采用外协的
+方式进行生产，主要外协厂商位于河北青县，
+与外协厂商的结算方式一般为货到付款，公司
+根据上一季度签订的合同量制定采购计划，不
+易造成产品囤积及资源浪费问题。
+为满足不同地区、不同行业客户的多样化
+需求，公司采用模块化生产与订单生产相结合
+的生产模式。在模块化生产模式下，公司根据
+产品的性能，将整套产品划分为相对独立的单
+元模块；根据历史的销售记录和对未来市场的
+预测，结合库存情况编制生产计划，并按研发
+中心产品配置清单进行小批次生产，建立自制
+半成品库，保持合理的库存量以满足市场需求
+的多品种、小批量的特点。在订单生产模式下
+，公司根据客户要求，将各相对独立的单元模
+块重新组合，并针对客户的特殊要求组织生产
+，最终满足客户的订单需求。通过有效结合两
+种生产模式，公司既能及时满足客户的订单需
+求，又能有效降低库存积压的风险，从而提升
+了生产效率和客户响应速度。
+公司以直销为主、代销为辅，通过独立竞
+标、联合竞标和非竞标直接销售等方式开展销
+售活动。目前公司在全国18个省、直辖市、自
+治区拥有24家营销服务中心和18家代理商，逐
+步形成了深度覆盖全国重点省市的销售服务网
+络。各营销中心均配备高素质专家式营销人员
+，通过与客户及环境监管部门的有效沟通，深
+挖各行业客户需求、了解各地市场发展趋势，
+并向公司研发创新、产品设计等部门及时反馈
+市场信息，提升了公司在产品创新、品牌形象
+、质量控制、市场开发和运营服务等诸多方面
+的竞争优势。公司销售地区辐射全国多地，主
+要行业客户有燃煤、燃气锅炉和工业窑炉行业
+，以及电厂、造纸厂、水泥厂等各排污厂。回
+款方面，大部分客户采用3-3-3-
+1的方式付款，电厂主要采用1-6-
+3的形式付款。公司主要以承接项目的形式为客
+户服务，面对的客户类型众多，且各个项目周
+期存在差异，当前其收款模式不利于账款回收
+，形成的应收账款较多。
+公司产品销售过程中涉及前期咨询、方案
+设计、安装调试、保修服务等众多服务工作。
+公司在销售过程中采用现场服务与远程服务相
+结合的服务模式。对于重要服务事项，公司派
+专业人员进行现场服务，确保监测系统稳定有
+效运行；对于其他服务事项，公司通过信息系
+统进行远程服务，及时解决用户面临的问题。
+在长期实践中，公司不断优化该双重服务模式
+，保证了服务质量和及时性，切实解决了企业
+产品使用过程中的多方面问题，有利于提升客
+户忠诚度，同时也得以成功控制服务成本。
+2015年，公司与美国TML公司签订了超声波
+流速仪和稀释法超低浓度监测设备（超净排放
+监测设备）独家代理协议，两种产品均实现了
+销售，产品的技术先进性和产品质量获得用户
+好评。该合作不仅实现了公司由设计制造商向
+设计制造+系统集成商的转变，且有利于公司吸
+收和引进先进技术，拓展产品线，满足客户的
+不同需求。公司代理的超声波流速仪具有一定
+的市场需求，但现阶段该部分业务形成的利润
+仍相对较低。
+图一：近三年牡丹联友总资产、净资产、主营业务收入
+和利润总额发展趋势图（单位：万元）
+从经营情况看，2015年公司收益水平较201
+4年有所下滑，主要因当年公司耗时4个月对新
+老产品进行适用性检测认证，从而对产品销售
+造成较大影响。同时，由于公司为满足老客户
+需求，对部分地区产品升级改造，致使当期运
+营服务成本同比大幅上升，利润水平降幅较大
+。
+总体看，牡丹联友专业技术实力较强，具
+备一定市场竞争力，未来随着公司业务的逐步
+推广，其发展前景总体向好。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>牡丹联友实行董事会领导下的总经理负责
+制，设有研发副总经理、产品副总经理、行政
+副总经理、运行总监、财务总监、总经理助理
+和董事会秘书，负责相应部门的管理，公司设
+有研究所、制造部、技术服务部、人力资源部
+、财务部、销售部和市场部等职能部门，整体
+管理组织结构较为清晰。内部制度上，公司建
+立了相对完善的体系制度，通过《人力资源管
+理程序》、《营销战略》、《环境管理方案》
+等文件以规范内部各个经营环节，确保其业务
+的稳定运营。
+从管理效率看，牡丹联友近三年的成本率
+分别为81.01%、79.11%和92.73%，由于公司201
+5年对部分地区产品升级改造，当年多发生运营
+成本596.14万元；同期管理费用率分别为18.29
+%、15.63%和11.88%，公司管理费用控制能力有
+所增强。
+从运营效率看，公司近三年的应收账款周
+转率分别为0.64次、0.75次和0.74次，账款回
+收相对较慢，致使该部分资产运营效率处于较
+低水平；同期存货周转率分别为1.24次、1.37
+次和1.22次，存货周转效率尚可；总资产周转
+率分别为0.34次、0.38次和0.34次，公司资产
+运营效率较低。
+总体看，牡丹联友组织机构设置较为合理
+，管理效率尚可，整体运营效率偏低。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>随着中国经济的快速发展，人民群众对环
+境质量的要求越来越高，环境问题成为了亟待
+解决的民生问题，也成为了影响中国大国形象
+的关键问题之一、环保问题已逐步上升为国家
+战略角度，环保产业成为政府投资的重要领域
+。 
+随着新的环保法的执行，环保违法成本的
+不断提高，环保部将继续加强环境监测，实行
+省以下环保机构监测监察执法垂直管理制度，
+建立全国统一的实时在线环境监控系统，建立
+覆盖所有固定污染源的企业排放许可制，健全
+生态环境保护市场体系。生态环境监测网络的
+建设将带来监测行业的规模进一步增长。 
+国家发改委、环保部、国家能源局联合印
+发文件《全面实施燃煤电厂超低排放和节能改
+造工作》，规定了全国各地区完成超低排放的
+期限。全国各地区也陆续发布相关燃煤电厂超
+低排放政策，在“十三五”期间里，推广“超
+净排放”是煤电行业生存和发展的必由之路，
+火电超净排放改造将成为未来煤电行业发展的
+大趋势，与之配套的超低浓度监测设备市场空
+间较大。 
+“十三五”期间，空气质量的改善尤为值
+得关注，为实现空气质量改善，需要二氧化硫
+、氮氧化物、一次颗粒物(工业烟粉尘)、挥发
+性有机物等的共同减排，污染源监测从单一指
+标向多指标发展，污染源监测领域将出现火电
+脱硝监测的新建、脱硫监测的更新换代、燃煤
+电厂超低排放的全面推广、锅炉煤改气的推进
+以及VOCs监测等新品类的增加，环境监测设备
+行业将继续保持较快增速。 
+总体看，随着经济与环境的协调发展，国
+家对环保产业的投入力度不断加大，并有望逐
+渐成为多数国家的支柱产业，发展前景较好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京牡丹联友环保科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，公司资产总额分别为18557.64万元、1
+5923.54万元和16562.12万元，其中，流动资产
+分别占84.81%、80.23%和75.63%；长期投资分
+别占2.47%、5.13%和7.44%，主要是对联营企业
+上海丹联环保科技有限公司的股权投资；固定
+资产分别占9.33%、10.78%和10.87%，为房屋及
+建筑物、机器设备、运输工具和电子设备；无
+形资产及其他资产分别占3.38%、3.86%和6.06%
+，无形资产为专利技术，其他资产为递延所得
+税资产和开发支出。
+截至2016年6月底，牡丹联友资产总额为16
+425.52万元，其中流动资产12371.29万元，由
+货币资金、应收票据、应收账款、其他应收款
+、预付账款和存货构成。其中，货币资金占2.0
+9%；应收票据占2.21%；应收账款占55.35%，账
+龄在1年以内的占比51.12%，1-
+2年占比22.55%，2-
+3年占比14.22%，3年以上占比12.10%，主要债
+务人为郑州市郑东新区热电有限公司、永清环
+保股份有限公司、河南能信热电有限公司、郑
+州荣奇热电能源有限公司和中海格瑞（北京）
+环保技术发展有限公司，公司与债务人合作时
+间较长，且往年履约情况较好，对其债权保障
+程度较高；其他应收款占7.05%，主要为公司各
+办事处周转使用的款项；预付账款占11.62%，
+主要为预付材料款；存货占21.68%，主要为原
+材料和在产品，公司根据订单情况进行材料采
+购和产品生产，结合其存货周转率来看，该部
+分资产质量尚可。
+总体看，牡丹联友资产质量尚可，资产流
+动性一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，牡丹联友速动比率分别为2.08倍、2.1
+0倍和2.45倍；同期流动比率分别为2.40倍、2.
+56倍和3.02倍，公司短期支付能力较强。
+2013-
+2015年，牡丹联友息税折旧摊销前盈余EBITDA
+分别为1785.11万元、2147.16万元和1268.37万
+元，主营业务获取自由现金的能力有所降低，
+不利于其长期偿债能力的提升。
+截至2016年6月底，牡丹联友尚有有息债务
+2400万元，详见表二。
+  表二：牡丹联友贷款情况（单位：万元）
+  贷款行 贷款日期 还款日期 贷款余额
+北京银行中关
+2016.5.6 2017.5.6   1000
+村海淀园支行
+北京银行中关
+2016.4.22 2017.4.22    500
+村海淀园支行
+招商银行北京
+2014.8.14 2017.8.13    900
+世纪城支行
+公司贷款主要用于补充流动资金，后续贷
+款计划将根据其实际需求制定。2016年牡丹联
+友预计实现主营业务收入1亿元，利润总额2500
+万元。若该经营计划得以实现，根据2015年底
+的财务数据测算，其EBITDA将可形成约3000万
+元，盈余对其现有有息债务的保障程度尚可。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，牡丹联友负债总额分别为6552.57万元
+、6482.53万元和5345.16万元，其中，2013年
+均为流动负债，2014年和2015年的负债由流动
+负债和长期负债构成，主要是公司为补充流动
+资金，增加了长期债务融资；同期资产负债率
+分别为35.31%、40.71%和32.27%，依照公司目
+前的收入和资本实力状况看，其负债压力一般
+；同期资本化比率分别为23.56%、30.79%和20.
+51%，公司债务融资规模逐步缩减，目前其财务
+弹性尚可。
+截至2016年6月底，牡丹联友负债总额为50
+79.31万元，由流动负债和长期负债构成，流动
+负债4179.31万元，主要由短期借款、应付账款
+、预收账款、应付股利和其他应付款构成，其
+中，短期借款占35.89%，为抵押借款；应付账
+款占23.03%，为尚未偿付的货款；预收账款占9
+.90%；应付股利占4.37%；其他应付款占28.04%
+，主要是入资款和与联营企业上海丹联环保科
+技有限公司的往来款。长期负债为招商银行北
+京世纪城支行提供的三年期长期借款1500万元
+，目前余额900万元，还款日期为2017年8月。
+结合公司目前的经营状况看，其财务构成
+符合现阶段的发展状况，财务弹性尚可，具有
+一定外部债务融资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，牡丹联友实现主营业务收入分别为623
+5.45万元、6624.74万元和5557.73万元，2015
+年因新老产品进行适用性检测认证耗时较长，
+对公司产品销售造成较大影响；同期主营业务
+利润率分别为54.81%、53.69%和47.95%，公司
+主营业务获利能力较强。
+2013-
+2015年，牡丹联友总资产报酬率分别为8.63%、
+12.57%和6.59%；同期净资产收益率分别为9.60
+%、15.90%和5.44%，公司利用资产获利能力有
+所降低。
+2013-
+2015年，公司现金收入比分别为0.85倍、0.75
+倍和0.80倍，收入实现质量一般；同期经营现
+金流入流出比分别为1.01倍、1.02倍和1.14倍
+，公司经营活动获取净现金流量的能力较强。 
+  图二：近三年牡丹联友盈利能力状况图（万元，%）
+总体看，牡丹联友主营业务获利能力较强
+，但收入实现质量一般。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京牡丹联友环保科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司对湖南广播电视台卫视频道的销
+售收入占营业收入的比例为 99.05%，存在
+对单一客户的重大依赖。
+2.公司所处行业对于知识产权的保护要
+求很高，关注后期公司栏目版权的保护问
+题。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>20289.98 </enterprise:资产总额>
+    <enterprise:所有者权益>12005.07 </enterprise:所有者权益>
+    <enterprise:负债总额>6378.09 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6235.45 </enterprise:营业收入>
+    <enterprise:EBITDA>1785.11 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>17640.75 </enterprise:资产总额>
+    <enterprise:所有者权益>9441.00 </enterprise:所有者权益>
+    <enterprise:负债总额>6380.65 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6624.74 </enterprise:营业收入>
+    <enterprise:EBITDA>2147.16 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>18362.24 </enterprise:资产总额>
+    <enterprise:所有者权益>11216.96 </enterprise:所有者权益>
+    <enterprise:负债总额>5111.21 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5557.73 </enterprise:营业收入>
+    <enterprise:EBITDA>1268.37 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.34 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.64 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.24 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.38 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.75 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.37 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.34 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.74 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.22 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>10.20 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>8.63 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>17.15 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>14.68 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>12.57 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>24.16 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>7.73 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>6.59 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>10.55 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>246.77 </enterprise:流动比率>
+    <enterprise:速动比率>213.44 </enterprise:速动比率>
+    <enterprise:资产负债率>31.43 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>261.75 </enterprise:流动比率>
+    <enterprise:速动比率>214.60 </enterprise:速动比率>
+    <enterprise:资产负债率>36.17 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京牡丹联友环保科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>320.26 </enterprise:流动比率>
+    <enterprise:速动比率>259.78 </enterprise:速动比率>
+    <enterprise:资产负债率>27.84 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>55.43 </enterprise:毛利率>
+    <enterprise:成本费用利润率>54.60 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.85 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>1.11 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>23.56 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>37.70 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>406.36 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>54.19 </enterprise:毛利率>
+    <enterprise:成本费用利润率>58.70 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.75 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>3.48 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>30.79 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>6.24 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>29.08 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京牡丹联友环保科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>48.81 </enterprise:毛利率>
+    <enterprise:成本费用利润率>32.08 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.80 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>21.36 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>20.51 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-16.11 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-52.88 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京牡丹联友环保科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>722.18 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>250.38 </enterprise:应收票据>
+    <enterprise:应收账款>10208.04 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>602.08 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1830.89 </enterprise:其他应收款>
+    <enterprise:存货>2125.36 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>15738.93 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>459.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>1732.34 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1732.34 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>487.28 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>140.09 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>4551.05 </enterprise:非流动资产合计>
+    <enterprise:资产总计>20289.98 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京牡丹联友环保科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1002.16 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>769.36 </enterprise:应收票据>
+    <enterprise:应收账款>7433.06 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>269.56 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>999.96 </enterprise:其他应收款>
+    <enterprise:存货>2300.86 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12774.96 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>817.16 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>1717.20 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1717.20 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>426.37 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>187.86 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>4865.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>17640.75 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京牡丹联友环保科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1580.49 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>354.26 </enterprise:应收票据>
+    <enterprise:应收账款>7553.86 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>501.93 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>115.36 </enterprise:其他应收款>
+    <enterprise:存货>2365.65 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>54.50 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12526.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>130.15 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1102.36 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>1800.13 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1800.13 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>365.46 </enterprise:无形资产>
+    <enterprise:开发支出>407.23 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>230.73 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>5836.19 </enterprise:非流动资产合计>
+    <enterprise:资产总计>18362.24 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京牡丹联友环保科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2700.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1013.38 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>24.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>159.05 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>957.46 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>26.42 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>4880.65 </enterprise:流动负债合计>
+    <enterprise:长期借款>1500.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1500.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6380.65 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1588.34 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>212.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1140.66 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9441.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9441.00 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>15821.65 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京牡丹联友环保科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2700.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1013.38 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>24.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>159.05 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>957.46 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>26.42 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>4880.65 </enterprise:流动负债合计>
+    <enterprise:长期借款>1500.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1500.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6380.65 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1588.34 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>212.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1140.66 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9441.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9441.00 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>15821.65 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京牡丹联友环保科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1694.81 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>531.01 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>23.38 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>388.19 </enterprise:应交税费>
+    <enterprise:应付利息>2.22 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>182.49 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1089.11 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>3911.21 </enterprise:流动负债合计>
+    <enterprise:长期借款>1200.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1200.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>5111.21 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6900.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2353.80 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>273.05 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1690.11 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11216.96 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11216.96 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16328.17 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京牡丹联友环保科技股份有限公司2013年利润表">
+    <enterprise:营业收入>6235.45 </enterprise:营业收入>
+    <enterprise:主营业务收入>6235.45 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2778.93 </enterprise:营业成本>
+    <enterprise:主营业务成本>2778.93 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>39.04 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1023.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>905.46 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>242.36 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>62.81 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2089.31 </enterprise:营业利润>
+    <enterprise:营业外收入>140.26 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2229.57 </enterprise:利润总额>
+    <enterprise:所得税费用>171.22 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2058.35 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2058.35 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京牡丹联友环保科技股份有限公司2014年利润表">
+    <enterprise:营业收入>6624.74 </enterprise:营业收入>
+    <enterprise:主营业务收入>6624.74 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3034.64 </enterprise:营业成本>
+    <enterprise:主营业务成本>3034.64 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>33.45 </enterprise:营业税金及附加>
+    <enterprise:销售费用>898.33 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>779.48 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>273.05 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>222.15 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>198.06 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2361.18 </enterprise:营业利润>
+    <enterprise:营业外收入>127.45 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2488.63 </enterprise:利润总额>
+    <enterprise:所得税费用>208.13 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2280.50 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2280.50 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京牡丹联友环保科技股份有限公司2015年利润表">
+    <enterprise:营业收入>5557.73 </enterprise:营业收入>
+    <enterprise:主营业务收入>5557.73 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2845.18 </enterprise:营业成本>
+    <enterprise:主营业务成本>2845.18 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>47.62 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1173.56 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>572.68 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>228.82 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>285.77 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>285.20 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1261.98 </enterprise:营业利润>
+    <enterprise:营业外收入>121.69 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>5.63 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1378.04 </enterprise:利润总额>
+    <enterprise:所得税费用>194.87 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1183.17 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1183.17 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京牡丹联友环保科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>5295.69 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>89.88 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1138.71 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6524.28 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2347.56  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1231.49 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>615.56 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2258.93 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6453.54 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>70.74 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>39.80 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>39.80 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-39.80 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>3500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>4200.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>678.50 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4878.50 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1378.50 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>-0.13 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1347.69 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京牡丹联友环保科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4971.51 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>112.64 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1926.30 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7010.45 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1751.86  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1241.32 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>683.62 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3163.99 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6840.79 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>169.66 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>5.71 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>5.71 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>27.71 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>27.71 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-22.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>4200.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>300.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>4500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>3700.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>394.81 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>300.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4394.81 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>105.19 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>27.13 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>279.98 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京牡丹联友环保科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4428.01 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>75.88 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2494.19 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6998.08 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2188.83  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>842.81 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>606.79 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2524.20 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6162.63 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>835.45 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.02 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.02 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>391.98 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>391.98 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-391.96 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>2010.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1690.69 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3700.69 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>2700.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>863.51 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>34.70 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3598.21 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>102.48 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>32.37 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>578.34 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：北京日新益科技发展有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京日新益科技发展有限公司 </enterprise:股东名称>
+	 <enterprise:货币>1,718.549万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>26.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：日本联友企业株式会社 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>日本联友企业株式会社 </enterprise:股东名称>
+	 <enterprise:货币>1,625.0103万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>25.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：王东民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王东民 </enterprise:股东名称>
+	 <enterprise:货币>957.3329万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>14.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：北京银河鼎发创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京银河鼎发创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>639.3556万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.84%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：王齐鸣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王齐鸣 </enterprise:股东名称>
+	 <enterprise:货币>274.5135万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.22%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：李强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李强 </enterprise:股东名称>
+	 <enterprise:货币>229.119万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.52%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：王嘉民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王嘉民 </enterprise:股东名称>
+	 <enterprise:货币>214.5834万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：北京金科同盛创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京金科同盛创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>190.2083万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：上海立溢股权投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>上海立溢股权投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>189.1895万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：黄飞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄飞 </enterprise:股东名称>
+	 <enterprise:货币>157.7189万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.43%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：颜岩 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>颜岩 </enterprise:股东名称>
+	 <enterprise:货币>79.2793万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.22%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：王小强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王小强 </enterprise:股东名称>
+	 <enterprise:货币>64.8649万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：刘世法 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘世法 </enterprise:股东名称>
+	 <enterprise:货币>61.3524万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.94%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：张迎潮 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张迎潮 </enterprise:股东名称>
+	 <enterprise:货币>36.8119万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.57%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：连杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>连杰 </enterprise:股东名称>
+	 <enterprise:货币>31.4354万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.48%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：黄清海 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄清海 </enterprise:股东名称>
+	 <enterprise:货币>12.2704万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.19%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：王彦 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王彦 </enterprise:股东名称>
+	 <enterprise:货币>6.1351万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：刘志勇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘志勇 </enterprise:股东名称>
+	 <enterprise:货币>6.1351万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京牡丹联友环保科技股份有限公司股东：周伯虎 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周伯虎 </enterprise:股东名称>
+	 <enterprise:货币>6.1351万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京牡丹联友环保科技股份有限公司的商标信息：PAFER">
+	<enterprise:有申请日期>99-11-8</enterprise:有申请日期>
+	<enterprise:有商标名称>PAFER</enterprise:有商标名称>
+	<enterprise:有注册号>1534077</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京牡丹联友环保科技股份有限公司的商标信息：佩福尔">
+	<enterprise:有申请日期>99-11-8</enterprise:有申请日期>
+	<enterprise:有商标名称>佩福尔</enterprise:有商标名称>
+	<enterprise:有注册号>1534076</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：烟气测量光学探头的保护结构">
+	<enterprise:有申请公布日>17-9-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>烟气测量光学探头的保护结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720225509.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206515221U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：烟气干湿氧测量装置">
+	<enterprise:有申请公布日>17-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>烟气干湿氧测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720036510.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206362774U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种高湿度低浓度烟气污染物光学测量探头系统">
+	<enterprise:有申请公布日>14-5-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高湿度低浓度烟气污染物光学测量探头系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010582805.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419304B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种氨吸收器结构">
+	<enterprise:有申请公布日>14-2-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种氨吸收器结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320537978.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203437018U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种储气罐自动排水装置">
+	<enterprise:有申请公布日>14-1-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种储气罐自动排水装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320512392.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203404604U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种高湿度低浓度烟气污染物光学测量探头系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高湿度低浓度烟气污染物光学测量探头系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010582805.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419304A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种光学测量探头的校准结构">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学测量探头的校准结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020652859.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201926617U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种光学测量探头的清洁结构">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学测量探头的清洁结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020654664.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201926620U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种高湿度低浓度烟气污染物光学测量探头系统">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高湿度低浓度烟气污染物光学测量探头系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020654673.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201926618U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京牡丹联友环保科技股份有限公司的专利信息：一种光学测量探头的过滤结构">
+	<enterprise:有申请公布日>11-5-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学测量探头的过滤结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020539959.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201844967U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京牡丹联友环保科技股份有限公司的软件著作：PF_EnviManager 烟气连续排放监测系统软件(用户版)[简称：烟气连续排放监测系统软件(用户版)]V1.74">
+	<enterprise:有批准日期>09-4-1</enterprise:有批准日期>
+	<enterprise:有软件全称>PF_EnviManager 烟气连续排放监测系统软件(用户版)[简称：烟气连续排放监测系统软件(用户版)]V1.74</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ1518</enterprise:有登记号>
+	<enterprise:有分类号>62000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京牡丹联友环保科技股份有限公司的软件著作：PF_EnviMonitor烟气连续排放监测系统软件(下位机版)[简称：烟气连续排放监测系统软件(下位机版)]V2.00">
+	<enterprise:有批准日期>09-4-1</enterprise:有批准日期>
+	<enterprise:有软件全称>PF_EnviMonitor烟气连续排放监测系统软件(下位机版)[简称：烟气连续排放监测系统软件(下位机版)]V2.00</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ1512</enterprise:有登记号>
+	<enterprise:有分类号>62000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京牡丹联友环保科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京牡丹联友环保科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京牡丹联友环保科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京牡丹联友环保科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京牡丹联友环保科技股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京牡丹联友环保科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京牡丹联友环保科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京牡丹联友环保科技股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京牡丹联友环保科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>企业所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>594.22万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>261.60万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京牡丹联友环保科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京牡丹联友环保科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京牡丹联友环保科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京牡丹联友环保科技股份有限公司的专利数量">
+	<enterprise:专利总计>3</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>3</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京牡丹联友环保科技股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

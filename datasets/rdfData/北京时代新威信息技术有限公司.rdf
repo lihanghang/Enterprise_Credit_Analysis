@@ -1,0 +1,1325 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京时代新威信息技术有限公司的企业概况">
+    <enterprise:有名称>北京时代新威信息技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108756739358F</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行友谊支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003年11月18日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>100.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务；货物进出口、技术进出口、代理进出口；计算机技术培训；计算机系统服务；销售计算机、软件及辅助设备、电子产品；销售商用密码产品。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)技术开发、技术推广、技术转让、技术咨询、技术服务；货物进出口、技术进出口、代理进出口；计算机技术培训；计算机系统服务；销售计算机、软件及辅助设备、电子产品；销售商用密码产品。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>软件与信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区知春路甲48号3号楼2单元17D室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区知春路甲48号3号楼2单元17D室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100089</enterprise:有邮政编码>
+    <enterprise:有联系人>吴怡</enterprise:有联系人>
+    <enterprise:有联系电话>010-58732083-807</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.powertime.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京时代新威信息技术有限公司成立于20
+03年11月18日，法定代表人王新杰，注册地址
+为北京市海淀区知春路甲48号3号楼2单元17D
+室。目前，公司注册资本为1000万元，实缴注
+册资本为100万元，公司股东及持股比例如表
+一所示。
+   表一：时代新威股东及股权比例
+出资金额
+股东名称 股权比例 出资形式
+（万元）
+617.50 货币
+王新杰 65.00%
+32.50 知识产权
+332.50 货币
+王连强 35.00%
+17.50 知识产权
+合计 100.00% 1000.00 -
+时代新威是一家主要从事信息系统审计服
+务、审计工具研发及信息系统审计师培训为核
+心业务的高新技术企业。2009年6月，公司被
+认定为“中关村高新技术企业”，并于2015年
+7月通过再次复核认证；同月，公司被中关村
+海淀园管理委员会认定为“海淀区创新企业”
+；2013年12月，公司通过北京市科学技术委员
+会等四部门组织的“高新技术企业”资格认定
+。
+截至2015年底，时代新威资产总额为527.
+45万元，净资产为189.24万元；2015年累计实
+现主营业务收入910.88万元，利润总额0.37万
+元；2015年公司经营活动产生的现金流量净额
+为70.35万元，投资活动产生的现金流量净额
+为-
+62.37万元，现金及现金等价物净增加额为7.9
+8万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京时代新威信息技术有限公司的基础素质">
+    <enterprise:有管理素质>时代新威法定代表人兼总经理王新杰先生
+，毕业于中国农业大学，本科学历，自1999年
+始在信息安全行业从业十余年，2003年创办时
+代新威并任总经理至今。王先生曾参与制定“
+GB/T22080-
+2008信息安全管理体系要求”等多项信息安全
+相关国际标准和国家标准，先后于2007年和20
+09年两次获得全国信息安全标准化工作先进个
+人称号；参与完成的主要出版物包括《国家注
+册信息安全管理体系审核员培训教程》（ISBN
+978-7-5066-4431-
+0），《国际关键信息基础设施保护手册2008/
+2009》(国防统一书号:15118.736)和《医疗卫
+士行业信息安全等级保护实施指南》（ISBN97
+8-7-118-06936-
+5）。目前，王先生还担任中国合格评定国家
+认可委员会（CNAS）信息安全专业和IT服务专
+业评审员、全国金融标准化技术委员会专家委
+员、亚洲信息安全论坛（RAISE 
+Forum）成员等。
+公司副总经理王连强先生，毕业于南开大
+学网络与信息安全专业，博士学位，拥有信息
+系统审计师、RAISE 
+Forum（亚洲信息安全论坛）成员、ISMS国家
+标准工作组核心成员、ISMS审核员授权培训教
+师、CISP授权培训讲师、CNAS评审员培训讲师
+等职称。2000年9月-
+2002年12月，就读于山东大学计算机科学与技
+术学院，攻读工学硕士学位，研究方向为网络
+安全。2004年9月-
+2009年4月，王先生任北京知识安全工程中心
+总经理助理、副总经理职务，具体负责中心的
+日常管理、业务开展以及项目研发等工作；20
+09年5月至今，任时代新威副总经理职务，具
+体负责公司的业务运营、产品交付、系统研发
+等工作。
+总体看，时代新威主要管理者在企业管理
+、产品研发等方面经验丰富，整体素质较高，
+为公司稳定经营奠定了较好的基础。</enterprise:有管理素质>
+    <enterprise:有人员素质>时代新威现有研发人员8人，占员工总数
+的17%。从学历构成来看，研发人员中博士1人
+，硕士1人，其余为本科学历；从技术职称来
+看，拥有高级职称的3人、中级职称的5人。公
+司的研发人员的学历及资质构成，对保证新产
+品的推出和技术的稳定性具有积极作用。
+公司技术总监陶冬明先生，毕业于北京联
+合大学信息学院电子工程专业，本科学历。陶
+先生曾先后担任中国网络通信集团公司互联网
+数据中心技术工程师/集团网络调度部资源管
+理主管、乐视移动传媒科技有限公司技术经理
+、建银科技发展中心技术经理、北京华胜天成
+信息技术发展有限公司信息服务部经理、中国
+电信集团系统集成有限责任公司产品经理，20
+15年11月加入公司，现担任公司技术总监职务
+。
+总体看，时代新威核心研发人员拥有较为
+丰富的软件开发与应用专业经验，对公司产品
+市场竞争力的增强起到促进作用。</enterprise:有人员素质>
+    <enterprise:有科研条件>时代新威近三年的科研经费投入分别占当
+的研发投入，能够较好的满足公司日常研发活
+动的需要。时代新威以自主研发为主，合作开
+发为辅，与清华大学、北京理工大学建立了良
+好的“产、学、研”合作关系。公司参与制订
+了GB/T22080、GB/T22081、GB/Z20985、GB/T2
+5067-
+2010等相关国家标准；参与《国际关键信息基
+础设施保护2004》、《国际关键信息基础设施
+保护2006》、《国际关键信息基础设施保护20
+08》、《信息安全管理体系教程》、《信息安
+全风险评估》、《信息安全管理体系审核指南
+》、《医疗卫生信息安全等级保护实施指南》
+等著作的翻译编制；研制了信息系统审计工具
+箱、POWERTIME数据库安全检测与评估系统、
+等保测评管理平台、合规性审计系统、数据库
+渗透检测系统、数据库安全审计系统、信息安
+全知识库管理平台系统等产品。 
+截至目前，时代新威共获得计算机软件著
+作权12项，包括“数据库安全检测评估系统”
+、“数据库渗透检测系统”、“等保测评管理
+平台”、“数据库安全审计系统”、“合规性
+审计系统”、“信息安全知识库管理平台系统
+”、“POWERTIME安全配置核查系统”、“POW
+ERTIME企业风险管控与内审系统”、“POWERT
+IME信息系统审计实验室教学平台”、“POWER
+TIME云安全审计系统”、“POWERTIME运维安
+全审计系统”和“飞达FIDA金融大数据审计平
+台”。其中，“数据库安全审计系统软件”、
+“数据库安全检测评估系统软件”等产品取得
+了软件产品登记证书。上述技术已取得了一定
+的市场收益，技术成果转化效果逐步显现。
+线服务平台，通过对信息系统的实时审计和监
+控，可以很好的预防/记录/追踪完整的操作，
+帮助管理员及时发现越权使用、权限滥用、权
+限盗用等内部安全问题，以及SQL注入等外部
+攻击。该审计系统可支持直连、旁路两种模式
+灵活地部署到网络中，在无需更改现有网络体
+系结构、不占用服务器任何资源、不影响性能
+的情况下几分钟内即可完成部署，从而满足企
+业的大容量、高性能、高可靠性需求。目前，
+该系统平台正处于后期测试阶段，未来如能成
+功面市，对丰富公司产品的类型、业务范围的
+拓宽以及收入规模的扩大，或将起到一定积极
+作用。
+总体看，时代新威具备一定的自主创新能
+力，公司针对市场需求开发技术产品，研发成
+果的市场转化效果逐步显现。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京时代新威信息技术有限公司的经营管理">
+    <enterprise:其经营分析为>时代新威是一家主要从事信息系统审计服
+务、审计工具研发及信息系统审计师培训为核
+心业务的高新技术企业。目前，公司业务主要
+分为产品销售、技术服务及培训服务三大业务
+板块。2015年，公司实现主营业务收入910.88
+万元，其中约90%来自技术服务收入，其余来
+自产品销售和培训服务收入。
+公司的主导产品包括信息系统审计工具箱
+、智能终端取证工具箱、业务数据审计系统、
+数据库安全审计系统等；培训业务包括国家注
+册信息安全审计师、国家注册信息安全管理体
+系审核员、国际信息系统审计师、国际注册信
+息安全专家等培训服务等。目前，公司这两项
+业务的开展与技术服务项目相互结合，不仅能
+够提升客户信息系统的有效性、安全性以发挥
+其应有作用，而且有利于公司树立品牌形象、
+提升客户粘合度，该种业务模式能够使公司三
+大业务之间形成良性循环。
+公司主要通过客户的延续及推荐、审计师
+培训、网络信息等方式取得项目信息，然后通
+过开展商务谈判的方式获取业务。公司开展的
+信息系统审计项目主要以信息安全、业务数据
+、源代码安全、数据库安全等专项审计项目为
+主，为多个项目提供了专业化信息系统审计服
+务。公司业务主要集中在电力和金融行业，主
+要客户包括中国电力科学研究院、国家开发银
+行、中国农业银行、国家电网、中国信息安全
+测评中心等。
+项目承接方面，公司曾参与过中国石油、
+中国联通、三峡集团总公司等多个央企的外部
+信息系统审计，中国工商银行、中国农业银行
+等银行信息系统的内外部审计工作。2015年，
+公司与中国电力科学研究院签订了两份金额分
+别为183万元和95万元的信息安全检测服务项
+目，此外，公司还与国家开发银行、中国银行
+、青海银行、长江银行、长城资产签署了一系
+列审计增值服务类项目，重大项目的签订，不
+仅保障了公司稳定的收入来源，而且有助于公
+司行业内品牌知名度的提升，为未来进一步发
+展打下了坚实的基础。
+销售回款方面，公司按照合同规定的方式
+进行，多为3-6-1或2-7-
+1的收款模式。结合公司的应收账款及其账龄
+情况来看，公司回款状况较好，能够基本满足
+目前其运营资金的周转。
+2015年总资产、净资产、主营业务收入、
+利润总额趋势图（万元）
+从经营成果看，公司近三年总资产、净资
+产规模保持相对平稳，主营业务收入呈稳定上
+升趋势，但获利能力持续处于较低水平，整体
+经营状况尚属稳定。公司所处的信息系统审计
+行业在市场上认知度不高，目前信息系统审计
+业务仍以大型国企为主要客户，市场化效果只
+得到初步显现，未来随着国内电子信息化建设
+的飞速发展，在政府部门的大力支持下，行业
+认知度将会逐步提升，市场前景广阔。但君维
+诚也同时关注到，公司业务仍处于市场培育期
+，不断发展的业务又与较为缓慢的专业人才培
+养之间形成一定矛盾，加之受到人员成本不断
+增加的影响，这些均在一定程度上限制了公司
+业务的进一步扩张与利润获取；与此同时，目
+前公司的营收规模仍有限，在一定程度上限制
+了公司的销售能力和市场布局，且盈利水平较
+低，使得目前其抵御市场风险的能力仍有待观
+察。
+总体来看，时代新威提供的产品和服务市
+场定位明确，未来随着信息系统审计行业社会
+认知度的提高及公司业务的逐步推广，其未来
+发展前景向好。
+时代新威实行董事会领导下的总经理负责
+制，设有人力资源部、行政部、财务部、市场
+营销部技术部、培训中心等多个职能部门。在
+多年经营发展中，公司逐步形成的管理模式、
+规章制度、业务流程等，与其目前的经营状况
+基本适应。
+从管理效果来看，2013-
+2015年时代新威成本率分别为97.12%、96.91%
+和100.69%，呈波动上升的趋势，且整体处于
+较高值水平，对公司利润水平的实现产生一定
+阻碍；同期，公司管理费用率分别为67.68%、
+77.65%和91.68%，呈快速上升的趋势，随着公
+司研发投入及人力资源成本的增长，管理费用
+不断增多，公司管理费用控制能力有待加强。
+从运营效果来看，2013-
+2015年时代新威应收账款周转率分别为10.90
+次、21.66次和30.40次，公司账款回收效果较
+好；同期，公司存货周转率为1.49次、1.41次
+和0.19次，公司存货主要为材料及软件，历年
+来看均保有一定量，鉴于公司产品销量较少，
+主要提供技术服务为主，该指标较低对其运营
+影响较小；同期，公司总资产周转率分别为1.
+49次、1.42次和1.75次，公司整体运营效率较
+好。
+总体看，时代新威部门设置符合其目前发
+展需要，管理制度逐渐完善，公司目前的管理
+效率有待加强，但整体运营效率较好。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>- </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一段时间，时代新威将在现有信息系
+统审计业务的基础上，完善多款信息系统审计
+工具，拓展不同行业的信息系统在线审计平台
+研究工作；逐步加强技术团队建设，建立有效
+的能力提升机制，同时有计划地引进中、高级
+技术人员，来充实公司的研发队伍。
+时代新威预计2016年实现主营业务收入15
+00万元，利润总额30万元。结合公司以往的经
+营业绩和目前的市场推广，以及截至2016年6
+月底公司已实现的主营业务收入和利润总额情
+况来看，时代新威2016年销售预期的实现存在
+一定可能性。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京时代新威信息技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，时代新威总资产分别为424.25万元、
+512.64万元和527.45万元，其中，流动资产分
+别占当年总资产的75.09%、83.01%和77.70%；
+长期投资分别占当年总资产的7.07%、5.85%和
+15.17%，为对其他公司的投资款；固定资产分
+别占当年总资产的17.44%、11.11%和7.13%，
+主要为电子设备及办公用品。整体看，公司资
+产构成较为合理，符合其经营状况。
+截至2015年底，公司流动资产为409.82万
+元，主要由货币资金、应收账款、其他应收款
+、预付账款和存货构成。其中，货币资金占69
+.32%，货币资金保有量较多，有利于公司日常
+经营资金的周转；应收账款占5.07%，账龄均
+在三年以内；其他应收款占10.96%，主要为投
+标保证金、押金及公司之间的往来款；预付账
+款占1.97%；存货占12.68%。
+截至2016年6月底，公司资产总额为465.9
+6万元，流动资产减至359.28万元，其资产结
+构与年初相比，变化主要体现为货币资金的减
+少，公司目前仍处于市场拓展期，其变化符合
+其经营现状。
+总体看，时代新威资产配置符合其经营特
+性，目前其资产质量和资产流动性尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，时代新威流动比率分别为1.29倍、1.
+34倍和1.21倍；同期，公司速动比率分别为1.
+06倍、1.15倍和1.06倍，公司具备一定短期支
+付能力。
+2013-
+2015年，时代新威经营活动产生的现金净流量
+分别为99.26万元、164.55万元和70.35万元，
+公司经营活动产生净现金流的能力尚不稳定；
+同期，公司息税折旧摊销前盈余EBITDA分别为
+19.44万元、44.75万元和32.21万元，公司获
+取自由现金的能力有所波动，不利于其长期偿
+债能力的提升。
+截至目前，时代新威尚无有息债务，且短
+期内也无借款计划，自有资金能够较好的满足
+公司日常经营需要。
+综合考虑时代新威的经营状况、资产构成
+、盈利状况及财务结构等因素，君维诚认为公
+司未来一个时期内存在发生信用风险的可能性
+。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，时代新威负债总额全部由流动负债构
+成，分别为246.96万元、317.14万元和338.21
+万元。
+截至2015年底，公司流动负债为338.21万
+元，主要由应付账款、预收账款、应付福利费
+、应交税金和其他应付款构成。其中，应付账
+款占32.59%，账龄均在三年以内，目前看支付
+压力不大；预收账款占0.06%；应付福利费占1
+.44%；应交税金占0.30%；其他应付款占65.61
+%，主要为公司之间的往来款。
+截至2016年6月底，公司负债总额增至444
+.35万元，全部由流动负债构成，其负债结构
+与年初相比，变化主要体现为应付账款的增加
+，其他科目变化不大，符合其经营现状。
+2015年，公司资产负债率分别为58.21%、61.8
+6%和64.12%，公司负债程度趋重，但目前尚处
+于合理区间。从公司近几年的发展状况看，其
+账款回收情况较好，资金相对充裕，经营过程
+中的资金压力不大。
+总体看，时代新威的财务策略较为符合现
+阶段发展状况，结合其发展趋势和当前经营状
+况看，公司存在一定的外部债务融资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，时代新威实现主营业务收入分别为55
+5.01万元、664.88万元和910.88万元，得益于
+公司提供的技术服务与老客户的粘合度较强，
+加之拓展了新的客户，致使收入规模呈逐年上
+升的趋势；同期，公司主营业务利润率分别为
+86.82%、86.82%和98.23%，由于公司以提供技
+术服务为主，该类业务毛利较高，随着该类业
+务额的快速增长，其主营业务获利能力相应得
+到提升，整体看，公司主营业务的获利能力保
+持在行业较好水平。
+图二：近三年公司盈利能力状况（万元，%）
+2013-
+、4.59%和0.07%；同期，公司净资产收益率分
+别为7.19%、9.02%和0.13%，两项指标均呈波
+动下降的趋势，由于管理费用的大幅增加导致
+获利能力的降低，反映出公司整体利用资产获
+利的能力尚不稳定，目前该指标值处于行业较
+差水平。
+2013-
+2015年，时代新威现金收入比分别为1.27倍、
+1.14倍和1.19倍，收入实现质量较好；同期，
+公司经营现金流入流出比分别为1.15倍、1.27
+倍和1.01倍，经营活动产生净现金的能力尚可
+。
+总体看，时代新威业务发展态势向好，其
+主营业务获利能力较强，但整体盈利能力较弱
+，收入实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京时代新威信息技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，齐平有孚通过在北京市企
+业信用信息网查询，未发现公司存在行政处罚
+记录；通过在中国执行信息公开网查询，未发
+现公司存在被执行记录。
+截至评级时点，齐平有孚未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司未发现公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，齐平有孚未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司负债水平高，所有者权益对有
+息债务保障能力弱。
+（2）公司整体盈利能力弱。
+（3）公司经营活动获取现金的能力有所
+减弱，筹资活动对现金流影响较大，整体现金
+流状况有待加强。
+本次评级过程中，齐平有孚未发现公司存</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京时代新威信息技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>613.66 </enterprise:资产总额>
+    <enterprise:所有者权益>177.29 </enterprise:所有者权益>
+    <enterprise:负债总额>240.41 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>555.01 </enterprise:营业收入>
+    <enterprise:EBITDA>19.44 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京时代新威信息技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>721.58 </enterprise:资产总额>
+    <enterprise:所有者权益>195.51 </enterprise:所有者权益>
+    <enterprise:负债总额>298.71 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>664.88 </enterprise:营业收入>
+    <enterprise:EBITDA>44.75 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京时代新威信息技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>774.73 </enterprise:资产总额>
+    <enterprise:所有者权益>189.24 </enterprise:所有者权益>
+    <enterprise:负债总额>332.11 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>910.88 </enterprise:营业收入>
+    <enterprise:EBITDA>32.21 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京时代新威信息技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.49 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>10.90 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.49 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京时代新威信息技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.42 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>21.66 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.41 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京时代新威信息技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.75 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>30.40 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.19 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京时代新威信息技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>21.98 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>211.77 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京时代新威信息技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>12.03 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.59 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>262.97 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京时代新威信息技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.20 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.07 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>441.42 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京时代新威信息技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>132.52 </enterprise:流动比率>
+    <enterprise:速动比率>108.58 </enterprise:速动比率>
+    <enterprise:资产负债率>39.18 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京时代新威信息技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>142.47 </enterprise:流动比率>
+    <enterprise:速动比率>122.09 </enterprise:速动比率>
+    <enterprise:资产负债率>41.40 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京时代新威信息技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>125.36 </enterprise:流动比率>
+    <enterprise:速动比率>109.71 </enterprise:速动比率>
+    <enterprise:资产负债率>42.87 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京时代新威信息技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>87.23 </enterprise:毛利率>
+    <enterprise:成本费用利润率>215.33 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.26 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>41.28 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>17.01 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>1055.57 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京时代新威信息技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>87.46 </enterprise:毛利率>
+    <enterprise:成本费用利润率>351.84 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.14 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>55.08 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>19.80 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>38.44 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京时代新威信息技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>98.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1017.50 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.19 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>21.18 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>37.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-98.42 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京时代新威信息技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>112.52 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>22.24 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>5.02 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>114.74 </enterprise:其他应收款>
+    <enterprise:存货>57.56 </enterprise:存货>
+    <enterprise:待摊费用>6.51 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>318.59 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>30.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>189.40 </enterprise:累计折旧>
+    <enterprise:固定资产净额>74.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>295.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>613.66 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京时代新威信息技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>276.12 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>39.14 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>5.75 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>37.18 </enterprise:其他应收款>
+    <enterprise:存货>60.86 </enterprise:存货>
+    <enterprise:待摊费用>6.51 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>425.56 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>30.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>208.93 </enterprise:累计折旧>
+    <enterprise:固定资产净额>56.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.16 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>296.02 </enterprise:非流动资产合计>
+    <enterprise:资产总计>721.58 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京时代新威信息技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>284.10 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>20.78 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>8.06 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>44.92 </enterprise:其他应收款>
+    <enterprise:存货>51.97 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>416.34 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>80.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>240.76 </enterprise:累计折旧>
+    <enterprise:固定资产净额>37.63 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>358.39 </enterprise:非流动资产合计>
+    <enterprise:资产总计>774.73 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京时代新威信息技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>102.82 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>195.89 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>298.71 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>298.71 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>75.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>20.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>195.51 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>195.51 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>494.22 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京时代新威信息技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>102.82 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>195.89 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>298.71 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>298.71 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>75.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>20.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>195.51 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>195.51 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>494.22 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京时代新威信息技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>110.23 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>221.88 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>332.11 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>332.11 </enterprise:负债合计>
+    <enterprise:实收资本或股本>100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>75.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>14.24 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>189.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>189.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>521.35 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京时代新威信息技术有限公司2013年利润表">
+    <enterprise:营业收入>555.01 </enterprise:营业收入>
+    <enterprise:主营业务收入>555.01 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>70.87 </enterprise:营业成本>
+    <enterprise:主营业务成本>70.87 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>2.29 </enterprise:营业税金及附加>
+    <enterprise:销售费用>103.17 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>363.25 </enterprise:管理费用>   
+    <enterprise:研究与开发费>-0.53 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>378.68 </enterprise:营业利润>
+    <enterprise:营业外收入>1.03 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>379.70 </enterprise:利润总额>
+    <enterprise:所得税费用>4.25 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>375.45 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>375.45 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京时代新威信息技术有限公司2014年利润表">
+    <enterprise:营业收入>664.88 </enterprise:营业收入>
+    <enterprise:主营业务收入>664.88 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>83.37 </enterprise:营业成本>
+    <enterprise:主营业务成本>83.37 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>4.29 </enterprise:营业税金及附加>
+    <enterprise:销售费用>60.14 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>496.99 </enterprise:管理费用>   
+    <enterprise:研究与开发费>-0.48 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>517.08 </enterprise:营业利润>
+    <enterprise:营业外收入>2.94 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>520.02 </enterprise:利润总额>
+    <enterprise:所得税费用>5.88 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>514.14 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>514.14 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京时代新威信息技术有限公司2015年利润表">
+    <enterprise:营业收入>910.88 </enterprise:营业收入>
+    <enterprise:主营业务收入>910.88 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10.45 </enterprise:营业成本>
+    <enterprise:主营业务成本>10.45 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.68 </enterprise:营业税金及附加>
+    <enterprise:销售费用>65.98 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>835.69 </enterprise:管理费用>   
+    <enterprise:研究与开发费>-0.59 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>828.77 </enterprise:营业利润>
+    <enterprise:营业外收入>6.70 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>835.47 </enterprise:利润总额>
+    <enterprise:所得税费用>0.12 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>835.35 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>835.35 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京时代新威信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>702.08 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>55.53 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>757.61 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>33.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>169.44 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>17.39 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>438.53 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>658.36 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>99.25 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>63.43 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>63.43 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-63.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>35.82 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京时代新威信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>761.01 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>12.78 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>773.79 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>132.42  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>262.37 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>16.70 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>197.76 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>609.25 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>164.54 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.95 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.95 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-0.95 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>163.59 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京时代新威信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1084.29 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>5038.53 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6122.82 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1.72  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>507.47 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>172.91 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5370.37 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6052.47 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>70.35 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>12.37 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>50.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>62.37 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-62.37 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>7.98 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京时代新威信息技术有限公司股东：王新杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王新杰 </enterprise:股东名称>
+	 <enterprise:货币>40.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>57.14%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京时代新威信息技术有限公司股东：王连强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王连强 </enterprise:股东名称>
+	 <enterprise:货币>30.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>42.86%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：数易轩">
+	<enterprise:有申请日期>17-3-3</enterprise:有申请日期>
+	<enterprise:有商标名称>数易轩</enterprise:有商标名称>
+	<enterprise:有注册号>23015836</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：晋唐书法">
+	<enterprise:有申请日期>17-3-3</enterprise:有申请日期>
+	<enterprise:有商标名称>晋唐书法</enterprise:有商标名称>
+	<enterprise:有注册号>23015936</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：BIGDATAWAY">
+	<enterprise:有申请日期>17-3-3</enterprise:有申请日期>
+	<enterprise:有商标名称>BIGDATAWAY</enterprise:有商标名称>
+	<enterprise:有注册号>23015967</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：AUDIT LION">
+	<enterprise:有申请日期>16-8-29</enterprise:有申请日期>
+	<enterprise:有商标名称>AUDIT LION</enterprise:有商标名称>
+	<enterprise:有注册号>21136136</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：审计狮">
+	<enterprise:有申请日期>16-8-29</enterprise:有申请日期>
+	<enterprise:有商标名称>审计狮</enterprise:有商标名称>
+	<enterprise:有注册号>21135900</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：飞达思">
+	<enterprise:有申请日期>15-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>飞达思</enterprise:有商标名称>
+	<enterprise:有注册号>18349841</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：飞达思">
+	<enterprise:有申请日期>15-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>飞达思</enterprise:有商标名称>
+	<enterprise:有注册号>18349840</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：FIDAS">
+	<enterprise:有申请日期>15-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>FIDAS</enterprise:有商标名称>
+	<enterprise:有注册号>18349842</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：FIDAS">
+	<enterprise:有申请日期>15-11-17</enterprise:有申请日期>
+	<enterprise:有商标名称>FIDAS</enterprise:有商标名称>
+	<enterprise:有注册号>18349843</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：通审">
+	<enterprise:有申请日期>15-5-15</enterprise:有申请日期>
+	<enterprise:有商标名称>通审</enterprise:有商标名称>
+	<enterprise:有注册号>16965244</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>核准证明打印发送</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：POWERTIME">
+	<enterprise:有申请日期>15-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>POWERTIME</enterprise:有商标名称>
+	<enterprise:有注册号>16902953</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：时代新威 POWERTIME">
+	<enterprise:有申请日期>15-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>时代新威 POWERTIME</enterprise:有商标名称>
+	<enterprise:有注册号>16903011</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：时代新威">
+	<enterprise:有申请日期>15-5-7</enterprise:有申请日期>
+	<enterprise:有商标名称>时代新威</enterprise:有商标名称>
+	<enterprise:有注册号>16891851</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京时代新威信息技术有限公司的商标信息：爱萨卡">
+	<enterprise:有申请日期>15-4-8</enterprise:有申请日期>
+	<enterprise:有商标名称>爱萨卡</enterprise:有商标名称>
+	<enterprise:有注册号>16665596</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME金融行业信息系统审计在线服务平台">
+	<enterprise:有批准日期>15-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME金融行业信息系统审计在线服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>金融行业信息系统审计在线服务平台</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR184723</enterprise:有登记号>
+	<enterprise:有分类号>30212-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIEM能源行业信息系统审计在线服务平台">
+	<enterprise:有批准日期>15-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIEM能源行业信息系统审计在线服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>能源行业信息系统审计在线服务平台</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR176259</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME云安全审计系统">
+	<enterprise:有批准日期>15-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME云安全审计系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR232950</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME企业风险管控与内审系统">
+	<enterprise:有批准日期>15-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME企业风险管控与内审系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR234308</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME安全配置核查系统">
+	<enterprise:有批准日期>15-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME安全配置核查系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR234250</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME运维安全审计系统">
+	<enterprise:有批准日期>15-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME运维安全审计系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR234255</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME信息系统审计实验室教学平台">
+	<enterprise:有批准日期>15-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME信息系统审计实验室教学平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR232956</enterprise:有登记号>
+	<enterprise:有分类号>30109-8300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：飞达FIDA金融大数据审计平台">
+	<enterprise:有批准日期>15-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>飞达FIDA金融大数据审计平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR232953</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME信息安全知识库管理平台系统">
+	<enterprise:有批准日期>13-7-20</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME信息安全知识库管理平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR069445</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME数据库渗透检测系统">
+	<enterprise:有批准日期>13-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME数据库渗透检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数据库渗透测试</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR002436</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME等保测评管理平台">
+	<enterprise:有批准日期>12-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME等保测评管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>等保测评管理平台</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR137306</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME合规性审计系统">
+	<enterprise:有批准日期>12-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME合规性审计系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR137311</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME数据库安全审计系统">
+	<enterprise:有批准日期>12-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME数据库安全审计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>POWERTIME DB Audit</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR137314</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：POWERTIME数据库安全检测评估系统">
+	<enterprise:有批准日期>12-8-20</enterprise:有批准日期>
+	<enterprise:有软件全称>POWERTIME数据库安全检测评估系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数据库安全检测评估系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR076372</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京时代新威信息技术有限公司的软件著作：信息安全风险评估与管理系统(RiskAM) V2.1 [简称: TimeBoat风险评估与管理系统]">
+	<enterprise:有批准日期>05-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>信息安全风险评估与管理系统(RiskAM) V2.1 [简称: TimeBoat风险评估与管理系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR11693</enterprise:有登记号>
+	<enterprise:有分类号>66500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京时代新威信息技术有限公司的网站备案：北京时代新威信息技术有限公司">
+	<enterprise:有审核时间>17-10-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京时代新威信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.powertime.cn</enterprise:有网站首页>
+	<enterprise:有域名>powertime.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备13008575号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京时代新威信息技术有限公司的网站备案：信息系统审计工具">
+	<enterprise:有审核时间>17-10-23</enterprise:有审核时间>
+	<enterprise:有网站全称>信息系统审计工具</enterprise:有网站全称>
+	<enterprise:有网站首页>www.auditsoftware.cn</enterprise:有网站首页>
+	<enterprise:有域名>auditsoftware.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备13008575号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京时代新威信息技术有限公司的网站备案：北京时代新威信息技术有限公司">
+	<enterprise:有审核时间>17-10-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京时代新威信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.powertime.cn</enterprise:有网站首页>
+	<enterprise:有域名>powertime.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备13008575号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京时代新威信息技术有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京时代新威信息技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京时代新威信息技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京时代新威信息技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京时代新威信息技术有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京时代新威信息技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京时代新威信息技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京时代新威信息技术有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京时代新威信息技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>9111030258773757XQ</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>—</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>8.68</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京时代新威信息技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>换热器、吸收塔、活性碳纤维等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>152.20</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>276.08</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京时代新威信息技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京时代新威信息技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>10</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>2</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>8</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京时代新威信息技术有限公司的商标数量">
+	<enterprise:商标总计>9</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>9</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京时代新威信息技术有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

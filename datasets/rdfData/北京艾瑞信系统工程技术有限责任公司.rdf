@@ -1,0 +1,1353 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京艾瑞信系统工程技术有限责任公司的企业概况">
+    <enterprise:有名称>北京艾瑞信系统工程技术有限责任公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>—</enterprise:有中征码>
+    <enterprise:有基本账户开户行>交通银行股份有限公司北京海淀支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>60</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003-7-10</enterprise:有注册登记日期>
+    <enterprise:有注册资本>2000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2023-7-9</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000.00</enterprise:有股本>
+    <enterprise:有经营范围>专业承包；技术服务、技术开发、技术咨询；软件开发；计算机系统服务；工程管理服务；工程勘察设计；销售自主研发的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）专业承包；技术服务、技术开发、技术咨询；软件开发；计算机系统服务；工程管理服务；工程勘察设计；销售自主研发的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>机房系统集成工程及相关软件研发</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区苏州街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区苏州街</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100080</enterprise:有邮政编码>
+    <enterprise:有联系人>杜会秋</enterprise:有联系人>
+    <enterprise:有联系电话>010-51296688-877</enterprise:有联系电话>
+    <enterprise:有传真电话>010-51294866</enterprise:有传真电话>
+    <enterprise:有E-mail>duhuiqiu@arisen.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.arisen.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京艾瑞信系统工程技术有限责任公司
+（以下简称“公司”）于 2003年 7月 10日在北
+京市工商行政管理局海淀分局注册成立，公司
+初始注册资本 50.00 万元，后经过多次增资和
+股权变更，截至评级时点，公司注册资本
+2000.00 万元。股东出资金额及持股比例情况
+为：果小巍以货币出资 1940.00 万元，持股
+97.00%；路雷兵以货币出资 60.00 万元，持股
+3.00%。 
+公司经营范围：“专业承包；技术服务、技
+术开发、技术咨询；软件开发；计算机系统服
+务；工程管理服务；工程勘察设计；销售自主
+研发的产品”。目前，公司主营业务为机房系统
+集成工程及相关软件研发。 
+截至2016年6月底，公司资产总额8242.74
+万元，固定资产净额 17.67 万元，所有者权益
+2235.89 万元；2015 年，公司实现营业收入
+13919.47万元，利润总额 21.55万元；2016年
+1~6 月，公司实现营业收入 1959.41 万元，利
+润总额-6.97万元。公司现有员工 60人，在北
+京市属于小型企业。 
+公司注册及经营地址：北京市海淀区苏州
+街 18号院 -1楼 1302室；组织机构代码：
+75215766-8；法定代表人：果小巍；经营期限：
+自2003年7月10日至2023年7月9日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京艾瑞信系统工程技术有限责任公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、执行董事兼总经理果小
+巍，44岁，本科学历，曾任北京轩洋迅雷科贸
+有限公司销售部经理、北京普华浩天技术有限
+公司副总经理，2003年加入公司，曾被评为“北
+京电源行业杰出企业家”，拥有丰富的专业知识
+和行业经验。 
+公司销售总监路雷兵，39岁，本科学历，
+毕业于吉林大学，2003年加入公司，主要负责
+制定销售计划和拓展客户等工作，从业经验丰
+富。 
+公司人事行政总监张丽丽，32岁，本科学
+历，曾任北京前沿顾问企业管理顾问有限公司</enterprise:有管理素质>
+    <enterprise:有人员素质>经理、北京华拓信通科技股份有限公
+司人力资源经理，2015年 5月加入公司。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 60人。 
+从岗位构成看，公司现有管理人员 11人，
+占比 18.33%；技术人员 29人，占比 48.33%；
+作业人员 20 人，占比 33.34%，岗位构成满足
+公司目前经营需要。 
+从学历构成看，公司本科及以上学历者 30
+人，占比 50.00%，专科学历者 19 人，占比
+31.67%，高中及以下人员 11人，占比 18.33%，
+员工学历水平一般。 
+从年龄构成看，公司 45岁以下员工 59人，
+占比 98.33%，员工以中青年为主。 
+总体看，公司员工学历水平一般，但岗位
+设置符合公司经营特点。 
+3．研发人员素质 
+公司现有研发人员 28人，均为本科及以上
+学历，研发人员学历水平高。 
+公司研发总监于海洋，曾任青岛海信数码
+北京分公司技术支持工程师、北京兆维科技有
+限公司研发部经理，在监控项目技术研发、测
+试与支持领域具有丰富经验，曾参与移动通信
+公司动力、环境集中监控工程，研发经验丰富。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有人员素质>
+    <enterprise:有科研条件>目前，公司研发工作主要由研发中心负责，
+研发方向主要包括机房系统集成工程配套的监
+控软件及系统集成方案的设计。近三年，公司
+研发投入分别为 652.00 万元、312.00 万元、
+228.00 万元，分别占当年营业收入的 5.60%、
+4.86%、1.64%，主要用于发放研发人员工资、
+购置研发材料。 
+总体看，公司科研条件能够满足现阶段经
+营需求。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>652.00万元,312.00万元,228.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>5.60%,4.86%,1.64%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京艾瑞信系统工程技术有限责任公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地位于北京市海淀区苏州街 18
+号院-1楼 1302室，建筑面积 256.62万平方米，
+使用方式为租赁。该地办公设施齐全，经营环
+境较好。 
+公司已成立 13年，为国家高新技术企业、
+中关村高新技术企业，产品在细分市场具有一
+定的市场占有率。 
+表 2  公司所获资质列表 
+序号 资质名称 
+表 2  公司所获资质列表 
+序号 资质名称 
+国家高新技术企业 
+1 
+（证书编号：GF201411000355，有效期至 2017年 7月） 
+中关村高新技术企业 
+2 
+（证书编号：20152010757101，有效期至 2018年 8月） 
+音视频集成工程企业 
+3 
+（等级：壹级，有效期至 2018年 8月） 
+软件企业认定证书 
+4 
+（证书编号：京 R-2007-0706，发证时间：2007年 11月） 
+建筑机电安装工程专业承包 
+5 
+（等级：叁级，有效期至 2020年 11月） 
+计算机信息系统集成企业 
+6 
+（等级：叁级，有效期至 2018年 5月） 
+资料来源：公司提供，联合信用整理 
+总体看，公司具备经营所需资质。 
+2．业务运作 
+公司成立之初主要从事小型机房改造工
+程，之后继续立足于机房改造领域，随着行业
+经验积累及人员扩充，公司业务逐渐转变为承
+接大型的系统集成项目及相关监控软件的研
+发，为机房改造提供信息化的解决方案，公司
+收入来源主要为系统集成工程设备的销售收
+入。 
+采购方面，公司需采购的工程用商品主要
+为空调类产品和 UPS类产品、线材等，采购区
+域集中在北京、深圳等地区，目前公司的供应
+商主要有艾默生网络能源有限公司、英迈电子
+商务（上海）有限公司、北京长虹佳华智能系
+统有限公司、北京京大发空调配件有限公司、
+北京昆大伟业电线电缆有限公司，公司与供应
+商合作稳定，供应商能保证公司对于原材料的
+需求。公司与供应商的结算方式一般为预付
+30%货款，货到验收合格后付清余款。 
+工程实施方面，一般由公司自有施工队进
+行项目实施，小型项目周期在 1~3个月，大型
+项目周期在 6~12 个月，当公司自有施工队不
+项目施工；与外协单位的结算方面，公司主要
+是根据下游客户的回款进度，采取背靠背的结
+算方式。 
+销售方面，公司建立了较为完善的销售渠
+道和服务网络，公司主要客户群体是政府部门、
+银行、企业等，以北京地区居多，入围方式主
+要为投标和协议供货。公司根据项目进行投标，
+中标后签订协议。协议供货主要是公司与政府
+部门每年签订一次供货协议，经政府部门测评
+合格后入围其采购商名单。公司与客户结算方
+式较为灵活，大部分项目通常预收 30%款项、
+设备安装调试合格后收款至 90%，留有 10%质
+保金，质保期为 1年。 
+公司客户以政府部门为主，受大环境影响，
+2014 年政府部门机房系统集成工程项目招标
+大幅减少，公司当年收入规模下滑明显。随着
+外部环境开始好转，政府部门订单增多，2015
+年公司收入大幅回升。 
+总体看，公司业务模式清晰，上下游渠道
+畅通，合作时间长，整体经营状况良好。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 100.39 99.78 99.85 
+管理费用率(%) 6.58 11.46 6.20 
+存货周转次数(次) 4.58 1.62 4.88 
+应收账款周转次数(次) 8.41 3.99 8.43 
+总资产周转次数(次) 1.17 0.53 1.36 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率一直处于高水平，主
+要为采购成本和劳务成本过高所致；同期，管
+理费用率存在波动，但总体处于行业较低水平，
+管理费用的控制情况较好。 
+近三年，公司存货周转次数呈现波动，2014
+年末存货较多，主要是公司为意向订单大量备
+货所致，整体处于行业较低水平；同期，应收
+账款周转次数也呈现波动，2014年公司订单大
+幅减少，指标下滑，整体处于行业一般水平，
+同期，总资产周转次数呈现波动，整体处于行
+业一般水平，受 2014年公司订单大幅减少的影
+响，三项指标均出现不同程度的下滑； 
+总体看，公司整体经营效率尚可。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会是公司的权力机构，行使决定公司
+的经营方针和投资计划等职权。公司不设董事
+会，设执行董事1人，执行董事为公司法定代表
+人，行使负责召集股东会，并向股东会报告工
+作，执行股东会决议等职权。公司不设监事会，
+设监事1人，监事行使检查公司财务及对执行董
+事、高管人员执行公司职务的行为进行监督等
+职权。公司设总经理1人，总经理行使负责公司
+日常经营管理工作等职权。目前，公司执行董
+事、总经理均由股东果小巍担任。 
+公司设销售一部、销售二部、销售三部、
+售前技术部、工程实施部（下设项目管理部、
+设备安装部）、监控事业部、维保事业部、研发
+中心、人力与资源中心、财务与资产管理中心、
+资质中心、商务与采购中心等职能部门。 
+公司在西安设立了一个办事处，负责当地
+的项目支持。 
+总体看，公司法人治理结构简单，组织架
+构清晰。 
+2．制度建设及执行 
+公司根据经营管理需要，制定了《员工手
+册》、《人员聘用管理制度》、《员工档案管理规
+定》、《培训管理制度》、《财务管理制度》等相
+关的制度，并通过了 ISO 9001:2008《质量管理
+体系标准》认证（有效期至 2017年 12月 4日）
+和 ISO14001:2004《环境管理体系标准》认证
+中严格执行各项操作流程。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测方法，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016年将实现营业收入 10500.00万元，
+净利润 18.50 万元；预计 2016 年底资产总额
+10761.37 万元，负债总额 8500.00 万元，所有
+者权益 2261.37万元。相比 2015年，预计 2016
+年营业收入下降 24.57%，负债率变动幅度为
+6.18%，净资产收益率变动幅度为-0.15%。 
+总体看，公司未来短期内发展一般。 
+2．融资需求 
+公司目前暂无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京艾瑞信系统工程技术有限责任公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 11915.88万
+元、12296.51万元、8246.76万元，复合变动率
+为-16.81%，呈下降趋势，主要是预付款项、其
+他应收款、存货等科目的减少所致。 
+截至2016年6月底，公司资产总额8242.74
+万元，其中：流动资产占比 96.40%，非流动资
+产占比 3.60%。 
+图 1  公司 2016年 6月底流动资产构成图 
+截至2016年6月底，公司流动资产7945.70
+万元，其中：货币资金 408.44万元，占比 5.14%；
+应收账款 1483.48万元，占比 18.67%，主要为
+应收中华人民共和国公安部、中国农业银行股
+份有限公司、中国国际广播电台等客户的项目
+款，账龄在 1年以内的占比 53.79%，1~2年的
+占比 43.32%，2年以上占比 2.89%，公司已按
+账龄分析法计提坏账准备；预付款项 690.17万
+元，占比 8.69%，为预付艾默生网络能源有限
+公司、英迈电子商务（上海）有限公司、北京
+长虹佳华智能系统有限公司等供应商的采购
+款；其他应收款 1157.57万元，占比 14.57%，
+为保证金、企业及个人往来款；存货 4206.04
+万元，占比 52.93%，为工程用商品。 
+截至 2016 年 6 月底，公司非流动资产
+297.04 万元，其中：可供出售金融资产 10.00
+万元，占比 3.37%，为公司持有的北京农商行
+股份；固定资产净额 17.67万元，占比 5.95%，
+主要为办公设备；无形资产 269.37万元，占比
+90.68%，为公司购买的应用软件。 
+总体看，公司资产流动性偏弱，资产质量
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 6月底，公司
+流动比率为 132.28%，处于行业较低水平，速
+动比率为 62.26%，处于行业低水平。2015年，
+公司现金流动负债比为 25.54%，经营活动产生
+的净现金流能对流动负债提供一定保障。公司
+短期偿债能力一般。 
+从长期偿债能力看，近三年，公司 EBITDA
+值分别为 231.92 万元、154.16 万元、30.47 万
+元。2015年公司债务保护倍数为 15.23倍，长
+期偿债能力尚可。 
+结合公司整体经营情况来看，公司未来一
+年内整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 80.71%、
+82.07%、72.80%，负债水平变化幅度不大，同
+期，全部债务资本化比率分别为 56.62%、
+0.05%、0.09%。2016年 6月底，公司资产负债
+率为 72.87%，负债水平较高，剔除预收账款因
+素影响，公司实际负债水平仍较高，但无有息
+债务。 
+近三年，公司负债总额分别为 9617.11 万
+元、10091.65万元、6003.89万元，复合变动率
+为-20.99%，主要是短期借款及其他应付款的减
+少所致。 
+图 2  公司 2016年 6月底流动负债构成图 
+截至2016年6月底，公司负债总额6006.84
+万元，全部为流动负债，其中：应付账款 2262.75
+万元，占比 37.67%，主要为应付四川长虹佳华
+数字技术有限公司、北京汇新通源科技有限公
+司、北京伟景数字城市科技有限公司等客户的
+采购款，账龄在 1年以内的占比 39.66%，1~2
+年的占比 49.28%，2年以上的占比 11.06%；预
+收款项 2232.20万元，占比 37.16%，为预收中
+国科学院研究生院、国家气象中心、国家广播
+电影电视总局等客户的合同款；其他应付款
+1473.65万元，占比 24.53%，主要为与景晓慧、
+中金鼎信（北京）科技有限公司及股东的往来
+款。 
+近三年，公司所有者权益分别为 2298.77
+万元、2204.87万元、2242.87万元，复合变动
+利润分配。 
+截至 2016 年 6 月底，公司所有者权益
+2235.89万元，其中：实收资本 2000.00万元，
+占比 89.45%；未分配利润 235.89 万元，占比
+10.55%。 
+总体看，公司负债水平较高，无有息债务，
+所有者权益对债务有一定的保障能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 11645.61万
+元、6418.50万元、13919.47万元，复合增长率
+为 9.33%，2014年客户订单减少导致公司营业
+收入降幅较大；同期，利润总额分别为 12.77
+万元、14.28 万元、21.55 万元，复合增长率
+29.93%，2015 年利润总额相较前两年有所增
+长。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司主营业务利润率分别为
+9.20%、15.69%、7.26%，有所波动，整体处于
+行业较低水平；同期，总资产报酬率分别为
+2.28%、1.20%、0.21%，净资产收益率分别为
+0.44%、0.54%、0.97%，均呈下降趋势，且 2015
+年均已降至行业低水平。 
+近三年公司现金收入比分别为 100.22%、
+146.00%、93.64%，收入实现质量有所下降。 
+总体看，公司整体盈利能力弱，收入实现
+质量有所下降。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京艾瑞信系统工程技术有限责任公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、对外担保等或有负债；未发现公司
+在银行有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司资产中存货占比较大，资产流
+动性偏弱。 
+（2）公司成本率始终保持高水平，未来
+宜加强成本控制。 
+（3）公司整体盈利能力弱，收入实现质
+量有所下降。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年基本财务指标">
+    <enterprise:资产总额>11915.87 </enterprise:资产总额>
+    <enterprise:所有者权益>2298.77 </enterprise:所有者权益>
+    <enterprise:负债总额>9617.11 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>11645.61 </enterprise:营业收入>
+    <enterprise:EBITDA>231.92 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年基本财务指标">
+    <enterprise:资产总额>12296.51 </enterprise:资产总额>
+    <enterprise:所有者权益>2204.87 </enterprise:所有者权益>
+    <enterprise:负债总额>10091.65 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6418.50 </enterprise:营业收入>
+    <enterprise:EBITDA>154.16 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年基本财务指标">
+    <enterprise:资产总额>8246.76 </enterprise:资产总额>
+    <enterprise:所有者权益>2242.87 </enterprise:所有者权益>
+    <enterprise:负债总额>6003.88 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>13919.47 </enterprise:营业收入>
+    <enterprise:EBITDA>30.47 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.17 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.41 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.58 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.53 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.99 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.62 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.36 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.43 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.88 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>33.88 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>33.85 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>39.38 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年偿债能力指标">
+    <enterprise:流动比率>123.75 </enterprise:流动比率>
+    <enterprise:速动比率>100.14 </enterprise:速动比率>
+    <enterprise:资产负债率>80.71 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.09 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年偿债能力指标">
+    <enterprise:流动比率>118.51 </enterprise:流动比率>
+    <enterprise:速动比率>75.00 </enterprise:速动比率>
+    <enterprise:资产负债率>82.07 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.18 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年偿债能力指标">
+    <enterprise:流动比率>132.17 </enterprise:流动比率>
+    <enterprise:速动比率>117.43 </enterprise:速动比率>
+    <enterprise:资产负债率>72.80 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>9.59 </enterprise:毛利率>
+    <enterprise:成本费用利润率>7.16 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-17.15 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>56.62 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>15.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>13.20 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.46 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>35.87 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.05 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>7.46 </enterprise:毛利率>
+    <enterprise:成本费用利润率>6.78 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.94 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>25.54 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.09 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年资产负债表（资产）">
+    <enterprise:货币资金>946.26 </enterprise:货币资金>
+    <enterprise:交易性金融资产>10.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1497.08 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>4624.42 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2552.83 </enterprise:其他应收款>
+    <enterprise:存货>2270.87 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11901.46 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>14.41 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14.41 </enterprise:非流动资产合计>
+    <enterprise:资产总计>11915.87 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1115.17 </enterprise:货币资金>
+    <enterprise:交易性金融资产>10.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1721.82 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2985.89 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1735.42 </enterprise:其他应收款>
+    <enterprise:存货>4391.26 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11959.56 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>21.60 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>315.35 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>336.95 </enterprise:非流动资产合计>
+    <enterprise:资产总计>12296.51 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2644.69 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1579.64 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1701.57 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1131.83 </enterprise:其他应收款>
+    <enterprise:存货>884.97 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>-7.16 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>7935.54 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>10.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>17.67 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>283.55 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>311.22 </enterprise:非流动资产合计>
+    <enterprise:资产总计>8246.76 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2423.92 </enterprise:应付账款>
+    <enterprise:预收款项>4487.62 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>6.45 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-225.37 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>3398.03 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>10091.65 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10091.65 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>204.87 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2204.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2204.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>12296.52 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2423.92 </enterprise:应付账款>
+    <enterprise:预收款项>4487.62 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>6.45 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-225.37 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>3398.03 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>10091.65 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10091.65 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>204.87 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2204.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2204.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>12296.52 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1310.12 </enterprise:应付账款>
+    <enterprise:预收款项>2412.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>47.38 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>35.27 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2196.61 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6003.88 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6003.88 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>242.87 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2242.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2242.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>8246.75 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京艾瑞信系统工程技术有限责任公司2013年利润表">
+    <enterprise:营业收入>11645.61 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10528.50 </enterprise:营业成本>
+    <enterprise:主营业务成本>10528.50 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>46.13 </enterprise:营业税金及附加>
+    <enterprise:销售费用>134.22 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>768.78 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>213.55 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.70 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>723.91 </enterprise:营业利润>
+    <enterprise:营业外收入>57.63 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>781.54 </enterprise:利润总额>
+    <enterprise:所得税费用>2.80 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>778.74 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>778.74 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京艾瑞信系统工程技术有限责任公司2014年利润表">
+    <enterprise:营业收入>6418.50 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5401.24 </enterprise:营业成本>
+    <enterprise:主营业务成本>5401.24 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>10.03 </enterprise:营业税金及附加>
+    <enterprise:销售费用>138.60 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>734.24 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>121.51 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>1.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>748.12 </enterprise:营业利润>
+    <enterprise:营业外收入>0.40 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>748.52 </enterprise:利润总额>
+    <enterprise:所得税费用>2.14 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>746.38 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>746.38 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京艾瑞信系统工程技术有限责任公司2015年利润表">
+    <enterprise:营业收入>13919.47 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>12880.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>12880.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>28.73 </enterprise:营业税金及附加>
+    <enterprise:销售费用>131.83 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>861.78 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-4.25 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>882.72 </enterprise:营业利润>
+    <enterprise:营业外收入>0.61 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>883.33 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>883.33 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>883.33 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京艾瑞信系统工程技术有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>11670.98 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>57.63 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2733.57 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>14462.18 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>15038.93  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>509.32 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>563.24 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>16111.49 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1649.31 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.70 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.70 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>13.45 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>13.45 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-12.75 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>5000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>5000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>4500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>213.39 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4713.39 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>286.61 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1375.45 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京艾瑞信系统工程技术有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>9371.24 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>6149.07 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>15520.31 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>4574.32  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>119.36 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>31.22 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>7175.87 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>11900.77 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>3619.54 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>1.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>331.81 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>331.81 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-330.81 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1033.95 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1033.95 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>4032.95 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>120.82 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4153.77 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-3119.82 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>168.91 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京艾瑞信系统工程技术有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>13033.98 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>7394.90 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>20428.88 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>11078.73  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>475.15 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>6838.12 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>503.37 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>18895.37 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1533.51 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.99 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.99 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.99 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1529.52 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京艾瑞信系统工程技术有限责任公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京艾瑞信系统工程技术有限责任公司股东：果小巍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>果小巍 </enterprise:股东名称>
+	 <enterprise:货币>1,463.720932万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>60.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京艾瑞信系统工程技术有限责任公司股东：天津瑞智精英企业管理咨询中心 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津瑞智精英企业管理咨询中心 </enterprise:股东名称>
+	 <enterprise:货币>707.465116万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>29.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京艾瑞信系统工程技术有限责任公司股东：宋凌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宋凌 </enterprise:股东名称>
+	 <enterprise:货币>121.976744万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京艾瑞信系统工程技术有限责任公司股东：路红兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>路红兵 </enterprise:股东名称>
+	 <enterprise:货币>73.186046万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京艾瑞信系统工程技术有限责任公司股东：路雷兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>路雷兵 </enterprise:股东名称>
+	 <enterprise:货币>73.186046万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京艾瑞信系统工程技术有限责任公司的商标信息：艾瑞信">
+	<enterprise:有申请日期>13-3-13</enterprise:有申请日期>
+	<enterprise:有商标名称>艾瑞信</enterprise:有商标名称>
+	<enterprise:有注册号>12254301</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京艾瑞信系统工程技术有限责任公司的商标信息：北京艾瑞信系统工程技术有限责任公司 BEIJING ARISEN SYSTEM ENGINEERING TECHNOLOGY CO.">
+	<enterprise:有申请日期>13-3-13</enterprise:有申请日期>
+	<enterprise:有商标名称>北京艾瑞信系统工程技术有限责任公司 BEIJING ARISEN SYSTEM ENGINEERING TECHNOLOGY CO.</enterprise:有商标名称>
+	<enterprise:有注册号>LTD</enterprise:有注册号>
+	<enterprise:有类别>12254304</enterprise:有类别>
+	<enterprise:有流程状态>37-安装修理、建筑装潢服务</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京艾瑞信系统工程技术有限责任公司的商标信息：艾瑞信">
+	<enterprise:有申请日期>13-3-13</enterprise:有申请日期>
+	<enterprise:有商标名称>艾瑞信</enterprise:有商标名称>
+	<enterprise:有注册号>12254302</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京艾瑞信系统工程技术有限责任公司的商标信息：北京艾瑞信系统工程技术有限责任公司 BEIJING ARISEN SYSTEM ENGINEERING TECHNOLOGY CO.">
+	<enterprise:有申请日期>13-3-13</enterprise:有申请日期>
+	<enterprise:有商标名称>北京艾瑞信系统工程技术有限责任公司 BEIJING ARISEN SYSTEM ENGINEERING TECHNOLOGY CO.</enterprise:有商标名称>
+	<enterprise:有注册号>LTD</enterprise:有注册号>
+	<enterprise:有类别>12254303</enterprise:有类别>
+	<enterprise:有流程状态>42-科研服务</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：分布式光纤振动预警控制系统">
+	<enterprise:有批准日期>17-8-3</enterprise:有批准日期>
+	<enterprise:有软件全称>分布式光纤振动预警控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR421923</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen综合布线工程管理软件">
+	<enterprise:有批准日期>17-3-9</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen综合布线工程管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR072486</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen机房动力环境集中监控系统软件">
+	<enterprise:有批准日期>17-3-9</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen机房动力环境集中监控系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR072463</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen工业系统智能通讯软件">
+	<enterprise:有批准日期>17-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen工业系统智能通讯软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR068808</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen模块化并联UPS软件">
+	<enterprise:有批准日期>17-3-9</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen模块化并联UPS软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR072491</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen电源监控系统后台软件">
+	<enterprise:有批准日期>16-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen电源监控系统后台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR309980</enterprise:有登记号>
+	<enterprise:有分类号>10400-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen智能人脸识别系统软件">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen智能人脸识别系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR304589</enterprise:有登记号>
+	<enterprise:有分类号>30100-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen电视电话会议通知传达系统软件">
+	<enterprise:有批准日期>17-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen电视电话会议通知传达系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR069124</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen智能化项目MIS系统软件">
+	<enterprise:有批准日期>16-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen智能化项目MIS系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR310250</enterprise:有登记号>
+	<enterprise:有分类号>30100-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen无人值守机房综合监控系统软件">
+	<enterprise:有批准日期>17-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen无人值守机房综合监控系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR068975</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 资产管理系统软件">
+	<enterprise:有批准日期>15-6-25</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 资产管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR115786</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 数据中心管理系统软件">
+	<enterprise:有批准日期>15-6-27</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 数据中心管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR116936</enterprise:有登记号>
+	<enterprise:有分类号>30106-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 智能社区及楼宇控制管理系统软件">
+	<enterprise:有批准日期>15-6-27</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 智能社区及楼宇控制管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR116933</enterprise:有登记号>
+	<enterprise:有分类号>30208-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：艾瑞信综合安全管理系统软件">
+	<enterprise:有批准日期>13-10-17</enterprise:有批准日期>
+	<enterprise:有软件全称>艾瑞信综合安全管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR109616</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：ARISEN 机房监控系统">
+	<enterprise:有批准日期>13-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>ARISEN 机房监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称>机房监控系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR133398</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：ARISEN 空调智能控制管理系统">
+	<enterprise:有批准日期>13-10-17</enterprise:有批准日期>
+	<enterprise:有软件全称>ARISEN 空调智能控制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>空调智能控制管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR109992</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 入侵检测系统">
+	<enterprise:有批准日期>13-10-17</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 入侵检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR109638</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：艾瑞信IT运维系统软件">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>艾瑞信IT运维系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040778</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：艾瑞信门禁管理系统软件">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>艾瑞信门禁管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040768</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：艾瑞信视频会议系统">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>艾瑞信视频会议系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040517</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 综合业务安全分管平台系统">
+	<enterprise:有批准日期>11-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 综合业务安全分管平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ0851</enterprise:有登记号>
+	<enterprise:有分类号>30201-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 单点权限管理系统">
+	<enterprise:有批准日期>11-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 单点权限管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ0847</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen 访问控制强制管理平台系统">
+	<enterprise:有批准日期>11-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen 访问控制强制管理平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ0848</enterprise:有登记号>
+	<enterprise:有分类号>30109-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：Arisen CDN综合业务分发中心系统">
+	<enterprise:有批准日期>11-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>Arisen CDN综合业务分发中心系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ0893</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：ARISEN 机房监控系统">
+	<enterprise:有批准日期>11-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>ARISEN 机房监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称>机房监控系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR070863</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：ARISEN UPS节能调度系统">
+	<enterprise:有批准日期>11-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>ARISEN UPS节能调度系统</enterprise:有软件全称>
+	<enterprise:有软件简称>UPS节能调度系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR070862</enterprise:有登记号>
+	<enterprise:有分类号>30104-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：ARISEN 空调智能控制管理系统">
+	<enterprise:有批准日期>11-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>ARISEN 空调智能控制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>空调智能控制管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR070864</enterprise:有登记号>
+	<enterprise:有分类号>40000-3600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作：内容管理系统 V1.0 [简称: UFCMS]">
+	<enterprise:有批准日期>07-10-12</enterprise:有批准日期>
+	<enterprise:有软件全称>内容管理系统 V1.0 [简称: UFCMS]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR15692</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京艾瑞信系统工程技术有限责任公司的网站备案：艾瑞信">
+	<enterprise:有审核时间>14-4-4</enterprise:有审核时间>
+	<enterprise:有网站全称>艾瑞信</enterprise:有网站全称>
+	<enterprise:有网站首页>www.arisen.cn</enterprise:有网站首页>
+	<enterprise:有域名>arisen.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06009383号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京艾瑞信系统工程技术有限责任公司的员工基本信息">
+	<enterprise:有从业人数>60</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:54,25岁以下:5,45岁以上:1</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:30,高中及以下:11,专科:19</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:11,技术人员:29,作业人员:20</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:60人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京艾瑞信系统工程技术有限责任公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京艾瑞信系统工程技术有限责任公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>北京格赛技术有限公司、浩德科技股份有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京艾瑞信系统工程技术有限责任公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京艾瑞信系统工程技术有限责任公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京艾瑞信系统工程技术有限责任公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>当前是软件产业升级的关键时期，产业在市场需求、政策推动、技术变革等多
+重因素推动下面临较好的发展机遇。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京艾瑞信系统工程技术有限责任公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京艾瑞信系统工程技术有限责任公司的企业法人代表：果小巍">
+	<enterprise:名称>果小巍</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>44</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1972年</enterprise:出生年月>
+	<enterprise:身份证号码>110105197207078716</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>执行董事兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1996.7至 2000.4 北京轩洋迅雷科贸有限公司 销售部经理 
+2000.5至 2003.6 北京普华浩天技术有限公司 副总经理 
+2003.7至今 公司 执行董事兼总经理</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京艾瑞信系统工程技术有限责任公司的下属单位：西安办事处">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>西安办事处</enterprise:名称>
+	<enterprise:主要职能>负责当地的项目支持</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京艾瑞信系统工程技术有限责任公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京艾瑞信系统工程技术有限责任公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京艾瑞信系统工程技术有限责任公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京艾瑞信系统工程技术有限责任公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10500.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京艾瑞信系统工程技术有限责任公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>18.50</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京艾瑞信系统工程技术有限责任公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京艾瑞信系统工程技术有限责任公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京艾瑞信系统工程技术有限责任公司的软件著作数量">
+	<enterprise:软件著作总计>10</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>7</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>3</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京艾瑞信系统工程技术有限责任公司的商标数量">
+	<enterprise:商标总计>4</enterprise:商标总计>
+	<enterprise:商标数量2013>4</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京艾瑞信系统工程技术有限责任公司的网站备案数量">
+	<enterprise:网站备案总计>1</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>1</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

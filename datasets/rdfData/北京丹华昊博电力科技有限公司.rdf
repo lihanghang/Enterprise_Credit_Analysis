@@ -1,0 +1,1576 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京丹华昊博电力科技有限公司的企业概况">
+    <enterprise:有名称>北京丹华昊博电力科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010875467591XH</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行清华园支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003年9月17日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>1,000.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务、技术推广；计算机技术培训（不得面向全国招生）；计算机系统服务；销售自行开发的产品、机械设备、电子产品、计算机、软件及辅助设备、通讯设备；机械设备租赁（不含汽车租赁）；软件开发；软件咨询；货物进出口、代理进出口、技术进出口；生产组装输配电及控制设备、继电保护装置、配电系统电气安全检测与分析装置（限分支机构经营）；普通货运（道路运输经营许可证有效期至2021年01月21日）。（企业依法自主选择经营项目，开展经营活动；普通货运以及依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务、技术推广；计算机技术培训（不得面向全国招生）；计算机系统服务；销售自行开发的产品、机械设备、电子产品、计算机、软件及辅助设备、通讯设备；机械设备租赁（不含汽车租赁）；软件开发；软件咨询；货物进出口、代理进出口、技术进出口；生产组装输配电及控制设备、继电保护装置、配电系统电气安全检测与分析装置（限分支...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地东路9号六层中区</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地东路9号六层中区</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>李叶</enterprise:有联系人>
+    <enterprise:有联系电话>13720093598</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.dhhb.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京丹华昊博电力科技有限公司成立于20
+03年9月17日，法定代表人为李砚，注册地址
+为北京市海淀区上地东路9号六层中区。丹华
+昊博初始注册资本为100万元人民币，后经200
+7年、2009年和2015年三次增资及股权变更，
+目前公司注册资本3000万元，股东及持股比例
+如表一所示：
+表一：股东及持股比例情况表
+出资金额
+股东名称 股权比例 出资方式
+（万元）
+北京拓山电力 2675.00 货币
+90%
+科技有限公司
+25.00 知识产权
+北京丹华隆电
+290.00 货币
+力科技发展中
+10%
+心（有限合伙
+10.00 知识产权
+）
+丹华昊博主要从事小电流接地系统单相接
+地故障定位选线装置、微机消谐装置、小电流
+接地电网故障定位装置、消弧线圈装置、在线
+式定位装置、零序电流互感器等产品的研发、
+生产及销售。2014年10月，公司通过北京市科
+学技术委员会等四部门组织的“高新技术企业
+”认证；2015年7月，公司通过由中关村科技
+园区管理委员会组织的“中关村高新技术企业
+”认证。
+截至2015年底，丹华昊博资产总额为3596
+.24万元，净资产为2310.99万元；2015年累计
+实现主营业务收入2198.86万元，利润总额403
+.41万元；2015年经营活动产生的现金净流量
+为227.50万元，投资活动产生的现金净流量为
+-
+412.741万元，筹资活动产生的现金净流量为2
+50.00万元，现金及现金等价物净增加额为64.
+76万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京丹华昊博电力科技有限公司的基础素质">
+    <enterprise:有管理素质>丹华昊博法定代表人、总经理李砚女士，
+硕士学位，曾任辽宁省丹东电业局技术负责人
+，2003年至今任丹华昊博总经理。李女士2001
+-
+2003年连续两次被评为优秀科技工作者和先进
+科技工作者，2001年参与研发“KZ-
+2000集控站计算机监控系统”获得辽宁省科技
+进步二等奖，曾参与研发KA2003-
+2003型一体化工控机选线装置，KA2003-
+XK型二次消弧装置等。
+销售总监聂海宾先生，本科学历，曾任北
+京飞雅奥电力科技有限公司销售副总经理，20
+07年加入丹华昊博任销售总监；人力资源总监
+邓湘女士，硕士学位，2015年至今任丹华昊博</enterprise:有管理素质>
+    <enterprise:有人员素质>总监；财务总监张昕先生，本科学历
+，2015年至今任丹华昊博财务总监。公司其他
+管理人员均具备一定的专业素质修养与管理经
+验，能够为公司经营管理活动提供一定助益。
+总体看，丹华昊博核心管理人员在相关行
+业工作多年，具有较丰富的工作和管理经验，
+经过多年发展，公司管理层协调性逐步提高，
+满足公司目前经营和管理的需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>2013-
+2015年，丹华昊博投入的研发经费分别约为21
+0.61万元、246.37万元和275.26万元，分别约
+占当年总收入的9.99%、9.45%和12.52%，持续
+的科研经费投入，使得公司技术升级和产品创
+新得到较好的资金保障。
+丹华昊博核心研发团队拥有一定的技术研
+发实力，专注于非有效接地（小电流）系统和
+变电站保护等电力系统自动化相关技术研究和
+产品开发，并在该领域已拥有一定的技术及经
+验积累。丹华昊博以华北电力大学为依托，拥
+有专门的研发团队和专属的高压物理实验室，
+并和清华大学一直保持紧密的科研合作，为公
+司研发工作的展开提供了良好的条件。
+公司产品“KA2003系列小电流接地电网单
+相接地故障选线装置”克服了第一代小电流选
+线产品存在的选线判据不充分，选线手段单一
+，不能适应各种复杂的接地故障类型和测量信
+号数据处理手段简单，不能从微弱的信号中准
+确提取出有用信息等诸多影响选线准确率的问
+题，将各种选线判据有机地集成为充分判据，
+并与多种数据处理算法和各种选线方法融为一
+体，构成了各种判据有效域优势互补，能适应
+的智能化选线系统。
+公司与华北电力大学合作开发研制了新型
+的KA2003-
+XH型消弧线圈自动调谐及接地选线成套装置，
+具有以下特点：运行方式灵活，补偿范围大，
+保证可靠熄灭电弧；消弧线圈控制器可以控制
+调匝式消弧线圈、8421并联电抗器组合式消弧
+线圈；消弧线圈的投入不会对系统造成谐波污
+染；成套装置具有调节速度快、调节方式灵活
+，选线快速、准确的特点；调匝式消弧线圈既
+可以采用“随调”的运行方式（不使用阻尼电
+阻），也可以采用“预调”的运行方式（串、
+并联阻尼电阻），工作安全、可靠；8421并联
+电抗器组合式消弧线圈不需要有载分接开关，
+通过电抗器投切，组合成16(或32)档均匀分布
+的电抗器容量；控制器选用性能稳定的专业嵌
+入式工控机，大屏幕液晶全汉化显示，具有完
+善的功能和极高的可靠性；采用Windows 
+CE操作系统，用户操作简单直观，支持鼠标、
+键盘、以太网、USB；成套装置具有零序录波
+功能，以便进一步分析和处理数据，同时配备
+管理信息系统，具有远方监视成套装置运行状
+况和接收远方数据等功能；输出的补偿电流在
+0-
+100%额定电流范围内调节；一方面能够及时的
+进行补偿，另一方面适应配电网扩容需要，有
+良好的经济性。
+此外，公司研发的产品还有3-
+XK型消谐装置、离线式故障定位装置、煤矿供
+电事故应急处置智能系统、中性点接地电阻、
+丹华昊博-
+SZ型数字化变电站小电流接地选线装置(基于I
+EC61850)、KA2003-
+DH型数字化变电站小电流接地选线装置（上下
+位机）和故障指示器及指示器定位系统等。
+2011年3月，公司获得中关村科技园区管
+理委员会组织的“中关村科技园区小企业创新
+支持资金无偿资助”30万元；2012年7月，公
+司获得由科技部科技型中小企业技术创新基金
+管理中心和中关村科技园区管委会共同牵头的
+“科技型中小企业技术创新基金无偿资助”70
+万元。2009年12月，公司获得了河北省人民政
+府颁发的“河北省科学技术奖”证书；2011年
+11月，获得由国家能源局颁发的“国家能源科
+技进步奖”证书。丹华昊博作为国家支持发展
+的科技型中小企业，其技术创新能力较强，技
+术的市场化程度较高。
+截至报告日，丹华昊博共获得计算机软件
+著作权登记证书6项，发明专利7项，实用新型
+专利19项，具体明细如附表二所示。
+总体看，丹华昊博持续投入的研发经费有
+力地支撑了科研活动的顺利开展，技术开发能
+力较好，能满足其业务需求，技术的市场化程
+度较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京丹华昊博电力科技有限公司的经营管理">
+    <enterprise:其经营分析为>丹华昊博是一家专业从事电力设备研发设
+计、生产制造业务的高新技术企业。公司产品
+主要应用领域为电网、钢铁、煤矿、新能源、
+学校和科研院所等。2015年，公司实现主营业
+务收入2198.86万元，其中，电网领域销售收
+入占总收入的60%左右，其余为其他领域形成
+采购方面，丹华昊博采购的原材料主要为
+故障指示器、断路器、接地变压器、消弧线圈
+柜体、主板背板等，主要供货商为沧州惠国金
+属制品有限公司、保定市安特变压器厂、北京
+华清益众科技有限公司、德信东源智能科技（
+北京）有限公司、北京中科信通电子有限公司
+、南洋电缆（北京）有限公司，均与公司有较
+为良好的合作关系，原材料成本价格变化不大
+，质量有所保障。良好的合作关系也使得公司
+付款会得到一定账期，一般在3个月左右，按3-
+6-1的模式分期付款。
+生产方面，公司在上地三街中国彩虹电子
+集团大厦租赁有约400平方米的场地，负责产品
+生产。此外，部分产品的加工及焊接，公司则
+交由北京的一些外协厂商协助生产。公司与外
+协厂商一般按批结款，有3个月左右的账期。
+销售方面，公司主要通过直销和代理的方
+式获取订单，主要销售地域有河南、河北、安
+徽、北京、辽宁和山西等，主要客户有天津泰
+达电力公司、国网辽宁省电力有限公司、国网
+山东省电力有限公司、国网河南省电力有限公
+司、国网北京电力公司、淮南矿业有限责任公
+司等。
+公司目前主要靠软件销售、硬件销售和承
+建实验室项目获得收入，其中搭建实验室的客
+户群体主要为大学和科研院所，可用于电力课
+题的研究。目前，公司与华北电力大学合作的
+仿真平台即实验室已经成功应用，正在洽谈的
+还有天津大学、南方电力高校、中国电科院、
+吉林省电科院、江苏电科院等项目。
+回款方面，公司主要采取款到发货和按3-
+1的方式分期回款两种方法，近期公司客户项
+目验收及回款周期有延长的趋势，回款效率有
+所下降。
+从经营情况看，2013-
+2015年，丹华昊博所有者权益呈波动上升趋势
+，抗风险能力和市场竞争力得到一定程度增强
+。2015年，公司主营业务收入较上年度略有下
+降，主要受钢铁、煤矿等行业客户经营不景气
+影响，因此公司在未来一个时期将大力发展电
+力行业客户和科研院所客户。
+图一：公司近三年总资产、净资产、主营业务收入、
+利润总额增长趋势图（万元）
+总体看，丹华昊博整体处于良性发展阶段
+，生产、经营状况较为稳定。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>丹华昊博实行董事会领导下的总经理负责
+制，由总经理负责企业日常经营管理工作，下
+设总经理办公室、财务部、人资行政部、客户
+服务中心、市场销售中心（包括电网一部、电
+网二部、企业一部、企业二部）、生产中心（
+包括生产车间、计划组）、技术中心（包括产
+品一部、产品二部、技术部）、企业管理中心
+（包括销售内勤组、采购组、应收账款组）等
+多个部门，2016年年初公司按产品条线细分了
+部门管理职责，更加适应于目前的发展状况，
+丹华昊博根据业务需要，在产品生产、市
+场营销、内部管理、财务管理等各方面都制定
+有明确的规章制度，一定程度上规范公司经营
+管理，随着公司的不断发展，公司制度的制定
+还将进一步完善。
+从管理效率看，2013-
+2015年丹华昊博管理费用率分别为33.88%、35
+.50%和36.55%，呈小幅度上升趋势，主要由于
+公司人员成本和租金持续增长，管理费用有所
+增加所致，目前处于行业中等水平，公司管理
+费用控制能力一般；同期成本率分别为99.32%
+、110.82%和95.33%，公司成本费用支出较大
+，成本率一直保持在较高值。
+从运营效率看，2013-
+2015年，丹华昊博应收账款周转率分别为1.87
+次、1.74次和1.50次，呈下降趋势；存货周转
+率分别为2.38次、3.87次和1.45次，有所波动
+，结合同期存货情况来看，2015年存货增长较
+多，周转速度有所下降，不利于公司资金使用
+效率的提升，目前该指标值处于一般水平；同
+期，总资产周转率分别为0.82次、0.95次和0.
+68次，公司资产运营效率一般。
+整体看，丹华昊博资产运营效率一般，成
+本费用控制能力一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>《中国制造2025》中强调海洋工程装备、
+高档数控机床和机器人、航空航天装备、轨道
+交通装备等多个高端装备制造领域要进行技术
+突破，并提出了装备制造业向智能化、绿色化
+转变的重要趋势，全方位描绘了我国高端装备
+制造产业发展的路线。规划同时强调了要提升
+制造业基础能力。由此可见，我国装备制造业
+将在传统和高端两个领域共同发展。
+随着研发投入的加大，尖端技术的不断突
+破，现有企业的转型升级，两化融合的加强，
+以及一批落后产能的整改淘汰，将会提升我国
+装备制造业的技术水平，尤其是传统装备制造
+业的转型升级速度追上高端装备制造业的发展
+速度，分化现象也应该会越来越不明显，从而
+实现我国从“制造大国”向“制造强国”的转
+变。
+总体看，在国家一系列鼓励政策的支持下
+，装备制造行业将获得较好的发展，传统装备
+制造业和高端装备制造业的分化也将逐步缩小
+。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京丹华昊博电力科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，丹华昊博资产总额分别为2646.52万
+元、2831.56万元和3596.24万元，其中流动资
+产分别占当年总资产的97.49%、98.10%和87.7
+2%；长期投资分别占当年总资产的0.00%、0.3
+5%和11.12%，为对子公司的股权投资和购买的
+理财产品；固定资产分别占当年总资产的2.42
+%、1.48%和0.98%，为办公设备、交通工具、
+电子设备等；无形资产及其他资产分别占当年
+总资产的0.10%、0.07%和0.18%。公司资产中
+流动资产占比较大，与其实际经营状况相符。
+截至2015年底，公司流动资产为3154.50
+万元，主要由货币资金、应收票据、应收账款
+、其他应收款、预付账款和存货构成。其中，
+货币资金占流动资产的13.28%；应收票据占流
+动资产的8.79%，为银行承兑汇票；应收占款
+占流动资产的44.39%，主要债务人为西山煤电
+（集团）有限责任公司、淮矿现代物流有限责
+任公司、河南森源电器股份有限公司、山西西
+公司，53.63%的账龄为一年期内，20.81%的账
+龄为1-
+2年期，其余为两年期以上，公司应收账款账
+龄偏长，回款效率一般；其他应收款占流动资
+产的4.39%，主要债务人为京泰尔联电气（北
+京）有限公司、咸阳中电彩虹集团控股有限公
+司北京分公司、北京得实电子有限公司和个人
+；预付账款占流动资产的2.61%，主要为预付
+的采购款；存货占流动资产的26.55%，为原材
+料、低值易耗品、库存商品、在途物资、生产
+成本、发出商品和委托加工物资，结合存货周
+转率来看，此部分资产流动性一般。
+截至2016年8月底，丹华昊博资产总额为3
+929.18万元，较年初有所上升，其中，长期投
+资、固定资产、无形资产及其他资产合计无明
+显变化，流动资产增加至3497.50万元，主要
+为存货的增加。
+整体看，公司资产质量尚可，资产流动性
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，丹华昊博流动比率分别为3.44倍、2.
+48倍和2.45倍；同期，速动比率分别为2.90倍
+、2.14倍和1.80倍，均呈下降趋势，公司短期
+支付能力较好。
+近三年，公司息税折旧摊销前盈余EBITDA
+分别为194.22万元、-
+150.10万元和431.36万元，2015年公司获取盈
+余的能力较好，对其偿债能力的提升具有积极
+影响。
+公司目前无有息债务，并且短期内没有债
+务融资计划。
+综合考虑丹华昊博目前的经营状况、资本
+实力、盈利预期及财务结构等因素，君维诚认
+为丹华昊博未来一个时期发生信用风险的可能
+性一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为750.98万元
+、1119.36万元和1285.24万元，均由流动负债
+构成。公司负债以应付账款和预收账款为主，
+与其经营情况相适应。
+截至2016年8月底，公司负债总额为1619.2
+3万元，较年初有所上升，均为流动负债。其中
+，应付账款占流动负债的53.78%，主要债权人
+为天津泉山电力技术有限公司、保定市安特变
+压器厂、德信东源智能科技（北京）有限公司
+、北京汇通诺尔机电有限公司、保定利达电力
+结构有限公司等；预收账款占流动负债的42.14
+%，预收账款占比较大，在一定程度上可以减轻
+公司的资金周转压力；应付工资占流动负债的0
+.03%；应交税费占流动负债的1.11%；其他应付
+款占流动负债的2.94%，主要为企业往来款、员
+工垫付款和社会保险。
+2013-
+2015年公司资产负债率分别为28.38%、39.53%
+和35.74%，当前负债压力一般，均为经营性负
+债，财务策略较为稳健。
+总体看，公司财务弹性较好，结合其发展
+趋势和当前经营状况看，具备一定外部债务融
+资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013年至2015年，丹华昊博主营业务收入
+分别为2108.51万元、2607.59万元和2198.86万
+元，有所波动，2015年收入下降，主要受钢铁
+、煤矿客户经营不景气影响，市场订单有所减
+少，销售收入随之下降。同期，公司主营业务
+利润率分别为48.35%、40.86%和58.87%，主营
+业务获利能力较好。
+近三年，丹华昊博总资产报酬率分别为6.0
+4%、-
+6.25%和11.22%；同期，净资产收益率分别为7.
+00%、-
+。
+2013年至2015年，丹华昊博经营现金流入
+流出比分别为0.95倍、0.98倍和1.06倍，公司
+经营活动产生净现金流量的能力尚可；同期现
+金收入比分别为0.65倍、1.07倍和1.31倍，公
+司收入实现质量尚可。
+总体看，公司主营业务获利能力较好，整
+体盈利性尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京丹华昊博电力科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司在北京市工商
+行政管理局、税务局有行政处罚记录；通过在
+中国执行信息公开网查询，未发现公司有被执
+行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、对外担保、票据贴现等或有负债；
+未发现公司在银行有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现相关政
+策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司数字博物馆业务处于发展期，产
+品和服务的市场认可度存在不确定性，公司新
+业务发展有待进一步跟踪观察。 
+（2）公司经营活动获取现金的能力不稳
+定，筹资活动对现金流有一定影响，整体现金
+流状况仍有待改善。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京丹华昊博电力科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>2646.52 </enterprise:资产总额>
+    <enterprise:所有者权益>1895.54 </enterprise:所有者权益>
+    <enterprise:负债总额>750.98 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2163.91 </enterprise:营业收入>
+    <enterprise:EBITDA>194.22 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京丹华昊博电力科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>2831.57 </enterprise:资产总额>
+    <enterprise:所有者权益>1712.20 </enterprise:所有者权益>
+    <enterprise:负债总额>1119.36 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2607.59 </enterprise:营业收入>
+    <enterprise:EBITDA>-150.10 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京丹华昊博电力科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>3596.25 </enterprise:资产总额>
+    <enterprise:所有者权益>2310.99 </enterprise:所有者权益>
+    <enterprise:负债总额>1285.25 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2198.86 </enterprise:营业收入>
+    <enterprise:EBITDA>431.36 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京丹华昊博电力科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.82 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.38 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京丹华昊博电力科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.95 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.74 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.87 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京丹华昊博电力科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.68 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.45 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京丹华昊博电力科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>8.43 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>6.04 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>37.63 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京丹华昊博电力科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-10.34 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-6.25 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>48.66 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京丹华昊博电力科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>17.46 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>11.22 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>47.65 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京丹华昊博电力科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>343.56 </enterprise:流动比率>
+    <enterprise:速动比率>290.26 </enterprise:速动比率>
+    <enterprise:资产负债率>28.38 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京丹华昊博电力科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>248.16 </enterprise:流动比率>
+    <enterprise:速动比率>214.03 </enterprise:速动比率>
+    <enterprise:资产负债率>39.53 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京丹华昊博电力科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>245.44 </enterprise:流动比率>
+    <enterprise:速动比率>180.28 </enterprise:速动比率>
+    <enterprise:资产负债率>35.74 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京丹华昊博电力科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>50.77 </enterprise:毛利率>
+    <enterprise:成本费用利润率>51.55 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.64 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-13.12 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>10.90 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>45.22 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京丹华昊博电力科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>41.97 </enterprise:毛利率>
+    <enterprise:成本费用利润率>44.74 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.07 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-4.59 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>22.41 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>23.67 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-213.33 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京丹华昊博电力科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>59.90 </enterprise:毛利率>
+    <enterprise:成本费用利润率>86.78 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.31 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>17.70 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-15.67 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>327.96 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京丹华昊博电力科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>419.56 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>227.00 </enterprise:应收票据>
+    <enterprise:应收账款>1470.70 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>15.39 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>47.16 </enterprise:其他应收款>
+    <enterprise:存货>400.25 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2580.06 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>63.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>2.53 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>66.46 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2646.52 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京丹华昊博电力科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>354.04 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>391.72 </enterprise:应收票据>
+    <enterprise:应收账款>1531.41 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>22.50 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>96.13 </enterprise:其他应收款>
+    <enterprise:存货>382.04 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2777.84 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>10.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>41.88 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1.85 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>53.73 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2831.57 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京丹华昊博电力科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>418.80 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>277.22 </enterprise:应收票据>
+    <enterprise:应收账款>1400.27 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>82.20 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>138.59 </enterprise:其他应收款>
+    <enterprise:存货>837.43 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3154.51 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>300.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>100.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>35.27 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>6.47 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>441.74 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3596.25 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京丹华昊博电力科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>494.46 </enterprise:应付票据>
+    <enterprise:应付账款>227.79 </enterprise:应付账款>
+    <enterprise:预收款项>225.30 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>57.67 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>114.14 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1119.36 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1119.36 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>38.52 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>273.54 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>400.14 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1712.20 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1712.20 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2831.56 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京丹华昊博电力科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>494.46 </enterprise:应付票据>
+    <enterprise:应付账款>227.79 </enterprise:应付账款>
+    <enterprise:预收款项>225.30 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>57.67 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>114.14 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1119.36 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1119.36 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>38.52 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>273.54 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>400.14 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1712.20 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1712.20 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2831.56 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京丹华昊博电力科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>830.26 </enterprise:应付账款>
+    <enterprise:预收款项>377.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>-3.15 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>63.90 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>17.19 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1285.25 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1285.25 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1250.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>38.52 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>321.61 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>700.86 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2310.99 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2310.99 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3596.24 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京丹华昊博电力科技有限公司2013年利润表">
+    <enterprise:营业收入>2163.91 </enterprise:营业收入>
+    <enterprise:主营业务收入>2108.51 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>55.40 </enterprise:其他业务收入>
+    <enterprise:营业成本>1065.39 </enterprise:营业成本>
+    <enterprise:主营业务成本>1065.39 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>23.58 </enterprise:营业税金及附加>
+    <enterprise:销售费用>337.62 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>720.20 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>2.81 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>734.51 </enterprise:营业利润>
+    <enterprise:营业外收入>2.28 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>139.57 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>736.79 </enterprise:利润总额>
+    <enterprise:所得税费用>23.42 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>713.37 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>713.37 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京丹华昊博电力科技有限公司2014年利润表">
+    <enterprise:营业收入>2607.59 </enterprise:营业收入>
+    <enterprise:主营业务收入>2607.59 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1513.24 </enterprise:营业成本>
+    <enterprise:主营业务成本>1513.24 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>28.83 </enterprise:营业税金及附加>
+    <enterprise:销售费用>331.87 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1015.54 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.28 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>733.37 </enterprise:营业利润>
+    <enterprise:营业外收入>105.22 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>838.59 </enterprise:利润总额>
+    <enterprise:所得税费用>5.47 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>833.12 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>833.12 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京丹华昊博电力科技有限公司2015年利润表">
+    <enterprise:营业收入>2198.86 </enterprise:营业收入>
+    <enterprise:主营业务收入>2198.86 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>881.71 </enterprise:营业成本>
+    <enterprise:主营业务成本>881.71 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>22.72 </enterprise:营业税金及附加>
+    <enterprise:销售费用>433.30 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>757.93 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.52 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>860.61 </enterprise:营业利润>
+    <enterprise:营业外收入>300.74 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1161.35 </enterprise:利润总额>
+    <enterprise:所得税费用>60.10 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1101.25 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1101.25 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京丹华昊博电力科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1375.53 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>139.57 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>396.41 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1911.51 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>799.08  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>590.56 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>66.99 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>553.41 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2010.04 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-98.53 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>100.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>2.28 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>102.28 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>13.74 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>13.74 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>88.54 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>200.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3.62 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>203.62 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-203.62 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-213.61 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京丹华昊博电力科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2791.99 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>564.27 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3356.26 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1556.63  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>775.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>738.01 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>338.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3407.64 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-51.38 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.13 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>10.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>14.13 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-14.13 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-65.51 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京丹华昊博电力科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2873.46 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>204.10 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>767.45 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3845.01 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>794.32  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>706.28 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>655.39 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1461.53 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3617.52 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>227.49 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>3.22 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>3.22 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>25.96 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>390.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>415.96 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-412.74 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>250.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>250.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>250.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>64.75 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京丹华昊博电力科技有限公司股东：北京拓山电力科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京拓山电力科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>2700.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>90.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京丹华昊博电力科技有限公司股东：北京丹华隆电力科技发展中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京丹华隆电力科技发展中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>300.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京丹华昊博电力科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>12-8-15</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>11352501</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京丹华昊博电力科技有限公司的商标信息：DHHB">
+	<enterprise:有申请日期>12-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>DHHB</enterprise:有商标名称>
+	<enterprise:有注册号>11270020</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京丹华昊博电力科技有限公司的商标信息：丹华昊博">
+	<enterprise:有申请日期>12-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>丹华昊博</enterprise:有商标名称>
+	<enterprise:有注册号>11270081</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京丹华昊博电力科技有限公司的商标信息：杨以涵">
+	<enterprise:有申请日期>12-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>杨以涵</enterprise:有商标名称>
+	<enterprise:有注册号>11270152</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种基于数学形态学的新型噪声提取方法">
+	<enterprise:有申请公布日>2017-06-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于数学形态学的新型噪声提取方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611071514.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845334A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种配电网故障行波波头的辨识方法">
+	<enterprise:有申请公布日>2017-05-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种配电网故障行波波头的辨识方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611070835.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106646121A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网合环检测装置及检测方法">
+	<enterprise:有申请公布日>2017-01-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网合环检测装置及检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410188882.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941160B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于多支路电流幅值相位比较的直流故障定位方法及装置">
+	<enterprise:有申请公布日>2017-01-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于多支路电流幅值相位比较的直流故障定位方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610726507.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106338675A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种交流串入直流系统的故障定位方法和定位装置">
+	<enterprise:有申请公布日>2016-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交流串入直流系统的故障定位方法和定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610729570.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106249108A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种基于扩展相分量法的OPGW系统接地短路电流分析方法">
+	<enterprise:有申请公布日>2016-12-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于扩展相分量法的OPGW系统接地短路电流分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610493609.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106202637A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网PT在线监测及故障诊断系统">
+	<enterprise:有申请公布日>2016-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网PT在线监测及故障诊断系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152634.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941079B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：OPGW线全线监测诊断系统及监测诊断方法">
+	<enterprise:有申请公布日>2016-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>OPGW线全线监测诊断系统及监测诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152017.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941138B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于极限学习机的多信息融合区段定位方法">
+	<enterprise:有申请公布日>2016-06-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于极限学习机的多信息融合区段定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152641.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941156B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障网络重构方法">
+	<enterprise:有申请公布日>2015-05-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障网络重构方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310122707.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103199512B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：便携式小电流接地系统故障诊断装置">
+	<enterprise:有申请公布日>2014-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>便携式小电流接地系统故障诊断装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420228808.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204044287U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：OPGW线在线监测装置">
+	<enterprise:有申请公布日>2014-11-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>OPGW线在线监测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420183551.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203965059U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种电压互感器二次消谐控制器">
+	<enterprise:有申请公布日>2014-09-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电压互感器二次消谐控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420230424.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203839183U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网PT电流在线监测装置">
+	<enterprise:有申请公布日>2014-09-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网PT电流在线监测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420228927.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203837748U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网PT在线监测及故障诊断系统">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网PT在线监测及故障诊断系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152634.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941079A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：OPGW线全线监测诊断系统及监测诊断方法">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>OPGW线全线监测诊断系统及监测诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152017.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941138A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网合环检测装置及检测方法">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网合环检测装置及检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410188882.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941160A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于极限学习机的多信息融合区段定位方法">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于极限学习机的多信息融合区段定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410152641.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103941156A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于嵌入式主板的电缆故障定位装置">
+	<enterprise:有申请公布日>2013-08-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于嵌入式主板的电缆故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320101218.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203164356U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：小电流接地故障在线定位装置">
+	<enterprise:有申请公布日>2013-08-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>小电流接地故障在线定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110066090.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102221660B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种基于直流信号检测器的配电网单相接地故障定位装置">
+	<enterprise:有申请公布日>2013-07-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于直流信号检测器的配电网单相接地故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220652365.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203054156U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于零序电流同步测量的配电网故障定位装置">
+	<enterprise:有申请公布日>2013-07-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于零序电流同步测量的配电网故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320004864.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203054159U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障网络重构方法">
+	<enterprise:有申请公布日>2013-07-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障网络重构方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310122707.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103199512A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种数字信号锁定型空间磁场检测系统">
+	<enterprise:有申请公布日>2013-07-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数字信号锁定型空间磁场检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110413005.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102495380B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于光纤通信的分布式消弧线圈控制器装置">
+	<enterprise:有申请公布日>2013-06-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于光纤通信的分布式消弧线圈控制器装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220647550.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203014374U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于分布式结构的煤矿供电事故应急处置智能系统">
+	<enterprise:有申请公布日>2013-05-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于分布式结构的煤矿供电事故应急处置智能系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220650769.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202949284U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于套接式架空线路CT的配电网故障定位装置">
+	<enterprise:有申请公布日>2013-02-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于套接式架空线路CT的配电网故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220378989.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202720306U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：嵌入式小电流接地故障选线及电能质量综合分析装置">
+	<enterprise:有申请公布日>2012-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>嵌入式小电流接地故障选线及电能质量综合分析装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220226685.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202631675U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于分层分布的小电流接地选线装置">
+	<enterprise:有申请公布日>2012-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于分层分布的小电流接地选线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220225997.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202563049U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种空间磁场检测器">
+	<enterprise:有申请公布日>2012-07-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种空间磁场检测器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120516874.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202339402U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：一种数字信号锁定型空间磁场检测系统">
+	<enterprise:有申请公布日>2012-06-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数字信号锁定型空间磁场检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110413005.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102495380A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障带电定位装置">
+	<enterprise:有申请公布日>2012-02-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障带电定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010158319.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839958B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于嵌入式技术的消弧线圈控制器装置">
+	<enterprise:有申请公布日>2011-11-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于嵌入式技术的消弧线圈控制器装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120072535.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202042901U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：小电流接地故障在线定位装置">
+	<enterprise:有申请公布日>2011-11-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>小电流接地故障在线定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120072764.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202033449U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于嵌入式技术的小电流接地故障选线装置">
+	<enterprise:有申请公布日>2011-11-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于嵌入式技术的小电流接地故障选线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120071934.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202033448U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：小电流接地故障在线定位装置">
+	<enterprise:有申请公布日>2011-10-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>小电流接地故障在线定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110066090.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102221660A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：电缆及架空线混合系统单相接地故障定位装置">
+	<enterprise:有申请公布日>2011-03-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>电缆及架空线混合系统单相接地故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020524715.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201765290U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障带电定位装置">
+	<enterprise:有申请公布日>2011-01-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障带电定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020173084.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201697993U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障定位装置">
+	<enterprise:有申请公布日>2010-12-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810224885.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101382577B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于FT3传输协议的小电流接地选线装置">
+	<enterprise:有申请公布日>2010-11-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于FT3传输协议的小电流接地选线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246442.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201656455U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障带电定位装置">
+	<enterprise:有申请公布日>2010-09-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障带电定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010158319.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839958A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于分布式测量技术的小电流接地选线装置">
+	<enterprise:有申请公布日>2010-09-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于分布式测量技术的小电流接地选线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246441.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201570857U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：消弧装置">
+	<enterprise:有申请公布日>2010-03-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>消弧装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920106867.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201430438Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障定位装置">
+	<enterprise:有申请公布日>2010-02-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820123303.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201397372Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：配电网单相接地故障定位装置">
+	<enterprise:有申请公布日>2009-03-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>配电网单相接地故障定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810224885.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101382577A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：主从式消弧线圈自动调谐及小电流接地故障选线系统">
+	<enterprise:有申请公布日>2008-07-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>主从式消弧线圈自动调谐及小电流接地故障选线系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200510130051.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100403041C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：8421并联电抗器组合式消弧线圈自动调谐及小电流接地故障选线系统">
+	<enterprise:有申请公布日>2008-05-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>8421并联电抗器组合式消弧线圈自动调谐及小电流接地故障选线系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200510130052.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100390552C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：基于变量控制器的小电流接地故障选线装置">
+	<enterprise:有申请公布日>2007-01-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于变量控制器的小电流接地故障选线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520142991.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2865104Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：主从式消弧线圈自动调谐及小电流接地故障选线系统">
+	<enterprise:有申请公布日>2006-06-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>主从式消弧线圈自动调谐及小电流接地故障选线系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200510130051.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1793996A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：8421并联电抗器组合式消弧线圈自动调谐及小电流接地故障选线系统">
+	<enterprise:有申请公布日>2006-06-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>8421并联电抗器组合式消弧线圈自动调谐及小电流接地故障选线系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200510130052.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1793997A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京丹华昊博电力科技有限公司的专利信息：小电流接地电网单相接地故障选线方法与装置">
+	<enterprise:有申请公布日>2004-11-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>小电流接地电网单相接地故障选线方法与装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200310119119.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1547307A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博高速采集装置上位机软件">
+	<enterprise:有批准日期>17-7-3</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博高速采集装置上位机软件</enterprise:有软件全称>
+	<enterprise:有软件简称>高速采集装置上位机软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR336500</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博高速采集装置软件">
+	<enterprise:有批准日期>17-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博高速采集装置软件</enterprise:有软件全称>
+	<enterprise:有软件简称>高速采集软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR271937</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博选线装置出口插件软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博选线装置出口插件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-DO</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR195389</enterprise:有登记号>
+	<enterprise:有分类号>20100-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博选线装置电源插件软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博选线装置电源插件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-DY</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR195384</enterprise:有登记号>
+	<enterprise:有分类号>20100-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博选线装置显示单元软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博选线装置显示单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-XS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR195346</enterprise:有登记号>
+	<enterprise:有分类号>20100-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博选线装置保护插件软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博选线装置保护插件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-BH</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR195398</enterprise:有登记号>
+	<enterprise:有分类号>20100-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博配电网物理仿真平台控制器软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博配电网物理仿真平台控制器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-FZPT</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR195340</enterprise:有登记号>
+	<enterprise:有分类号>20100-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博录波装置数据处理单元软件">
+	<enterprise:有批准日期>17-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博录波装置数据处理单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>录波装置处理单元软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR271924</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博DO装置嵌入式软件">
+	<enterprise:有批准日期>17-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博DO装置嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DO装置软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR272207</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博录波装置显示单元软件">
+	<enterprise:有批准日期>17-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博录波装置显示单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>录波装置显示软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR271914</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博DI装置嵌入式软件">
+	<enterprise:有批准日期>17-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博DI装置嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DI装置软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR272216</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博录波数据采集单元软件">
+	<enterprise:有批准日期>17-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博录波数据采集单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>录波数据采集单元软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR202412</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：丹华昊博煤矿供电事故应急处置智能系统软件">
+	<enterprise:有批准日期>16-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>丹华昊博煤矿供电事故应急处置智能系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR032082</enterprise:有登记号>
+	<enterprise:有分类号>30208-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：SE-GRM接地短路故障指示系统软件">
+	<enterprise:有批准日期>14-10-31</enterprise:有批准日期>
+	<enterprise:有软件全称>SE-GRM接地短路故障指示系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>SE-GRM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR164824</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：KA2003-XK型二次消谐装置嵌入应用软件">
+	<enterprise:有批准日期>10-8-13</enterprise:有批准日期>
+	<enterprise:有软件全称>KA2003-XK型二次消谐装置嵌入应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-XK应用软件</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR041146</enterprise:有登记号>
+	<enterprise:有分类号>66000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：KA2003-DW小电流接地故障定位检测软件">
+	<enterprise:有批准日期>09-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>KA2003-DW小电流接地故障定位检测软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KA2003-DW故障定位检测软件</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR014496</enterprise:有登记号>
+	<enterprise:有分类号>61000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：10KV主从式自动调谐消弧线圈控制及选线软件 V1.0 [简称: KA2003-XH自动调谐消弧线圈]">
+	<enterprise:有批准日期>05-4-15</enterprise:有批准日期>
+	<enterprise:有软件全称>10KV主从式自动调谐消弧线圈控制及选线软件 V1.0 [简称: KA2003-XH自动调谐消弧线圈]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR03629</enterprise:有登记号>
+	<enterprise:有分类号>66000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京丹华昊博电力科技有限公司的软件著作：小电流接地系统单相接地故障选线软件 V1.0 [简称: 选线软件]">
+	<enterprise:有批准日期>04-3-22</enterprise:有批准日期>
+	<enterprise:有软件全称>小电流接地系统单相接地故障选线软件 V1.0 [简称: 选线软件]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR02488</enterprise:有登记号>
+	<enterprise:有分类号>67500-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京丹华昊博电力科技有限公司的网站备案：北京丹华昊博电力科技有限公司">
+	<enterprise:有审核时间>15-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>北京丹华昊博电力科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.dhhb.com</enterprise:有网站首页>
+	<enterprise:有域名>dhhb.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06011752号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京丹华昊博电力科技有限公司的网站备案：北京丹华昊博电力科技有限公司">
+	<enterprise:有审核时间>15-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>北京丹华昊博电力科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.dhhb.com</enterprise:有网站首页>
+	<enterprise:有域名>dhhb.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06011752号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京丹华昊博电力科技有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京丹华昊博电力科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京丹华昊博电力科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京丹华昊博电力科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京丹华昊博电力科技有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京丹华昊博电力科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京丹华昊博电力科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京丹华昊博电力科技有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京丹华昊博电力科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税、企业所得税、印花税、营业税、城建税、教育附加费、地方教育附加费</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>-5.93</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京丹华昊博电力科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>高拍仪、手写板、自动终端等设备</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>设备生产商</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>7.80</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>26.71</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京丹华昊博电力科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>未提供</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京丹华昊博电力科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>1</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>1</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京丹华昊博电力科技有限公司的专利数量">
+	<enterprise:专利总计>18</enterprise:专利总计>
+	<enterprise:专利数量2013>9</enterprise:专利数量2013>
+	<enterprise:专利数量2014>8</enterprise:专利数量2014>
+	<enterprise:专利数量2015>1</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京丹华昊博电力科技有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京丹华昊博电力科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>2</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京和合医学诊断技术股份有限公司的企业概况">
+    <enterprise:有名称>北京和合医学诊断技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020006655765</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司北京北三环支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>141</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>6300.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>6300.00</enterprise:有股本>
+    <enterprise:有经营范围>医学检验科医疗服务；技术推广服务；市场调查；营销策划；质量检测；货物进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）医学检验科医疗服务；技术推广服务；市场调查；营销策划；质量检测；货物进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>第三方医疗检测服务</enterprise:有主营业务>
+    <enterprise:有行业分类>专业技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京经济技术开发区经海六路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京经济技术开发区亦庄经海六路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>101111</enterprise:有邮政编码>
+    <enterprise:有联系人>王晶</enterprise:有联系人>
+    <enterprise:有联系电话>64261530</enterprise:有联系电话>
+    <enterprise:有传真电话>64246613</enterprise:有传真电话>
+    <enterprise:有E-mail>wangjing@obmtmed.com</enterprise:有E-mail>
+    <enterprise:有网址>www.labhh.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京和合医学诊断技术股份有限公司
+（以下简称“和合医学”或“公司”）于 2010
+年 12 月 3 日在北京市工商行政管理局注册
+成立，前身为北京和合医学检验所有限公
+司，2015年 8月 26日，公司进行了股份制
+改造，变更为现用名。
+公司初始注册资本 500.00万元，全部由
+法人北京国立柏林医学科技发展有限公司
+出资。经数次股东增资及股权变更，截至评
+级时点，公司注册资本 6300.00万元，股东
+出资及持股比例为：自然人李龙江出资
+1245.00万元，持股 19.76%；自然人李玮出
+资 693.00 万元，持股 11.00%；自然人刘志
+刚出资 557.00%，持股 8.84%；自然人杨志
+诚 625.00万元，持股 9.92%；法人北京国立
+柏林医学科技发展有限公司出资 560.00 万
+元，持股 7.94%；法人宁波道夫清股权投资
+合伙企业（有限合伙）出资 1000.00万元，
+持股 15.87%；共青城尼克领军投资管理合
+伙企业（有限合伙）、北京水木创融信诚投
+资中心（有限合伙）、北京水木创融投资管
+理有限公司等 8 名法人股东共同出资
+1180.00万元，持股 18.73%；乔广来、田野、
+方基胜等 9 名自然人股东共同出资 500.00
+万元，持股 7.94%，以上出资方式均为净资
+产折股。
+公司经营范围：“医学检验科医疗服务；
+技术推广服务；市场调查；营销策划；质量
+检测；货物进出口。（企业依法自主选择经
+营项目，开展经营活动；依法须经批准的项
+目，经相关部门批准后依批准的内容开展经
+营活动；不得从事本市产业政策禁止和限制
+类项目的经营活动。）”目前，公司主营业
+务为第三方医疗检测服务。
+截至 2016 年 3 月底，公司资产总额为
+14269.98 万元，所有者权益为 13629.00 万
+元； 2015 年，公司实现营业收入 5201.72
+万元，利润总额 1034.56万元；2016年 1~3
+月，公司实现营业收入 2119.17万元，利润
+总额 739.04万元。公司现有员工 141人，在
+北京市属于中型企业。
+公司注册地址：北京经济技术开发区经
+海六路 5 号院 14号楼 1 层、2 层、3 层、5
+层、6 层、7层；经营地址：北京经济技术
+开发区亦庄经海六路 5号东尚 E园 14号楼；
+统一社会信用代码：91110302565797010A；
+法定代表人：李龙江；营业期限：自 2010
+年 12月 3日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京和合医学诊断技术股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、董事长李龙江，男，
+MBA。2000 年成立药品销售公司，负责领
+域市场策划工作，成功为多个企业进行品种
+筛选；2004年至今创办北京国立柏林医学科
+技发展有限公司，专注发展第三方医学检验
+行业，并同国家卫生部创立了第三方医学检
+验行业标准，形成了中国目前最大的质谱色
+谱检测中心，有 20 年以上医药行业高管经
+验，拥有丰厚医疗市场及政府资源。
+公司总经理李玮，女，大学毕业，中级
+职称。1989年~1994年，任北京顺鑫药业车
+间主任，负责药品车间质量、生产管理；1994
+年~1999年，任首都儿科研究所药剂科主任，
+负责科室日常工作管理；1999年~2006年，
+任北京维达健公司总经理，负责代理药品的
+在京销售；目前任公司总经理，负责公司各
+部门进行全面管理，主持公司架构建设等工
+作，药品行业从业 18 年，熟悉医、药产业
+整体情况，有着敏锐的市场定位能力，多年
+从事企业管理工作。
+公司副总经理刘志刚，男，MBA。1989
+年~2001年，任北京顺鑫祥云药业副总经理，
+负责公司产品在全国各地区目标市场的全
+面拓展；2002年~2006年，任辽宁华源本溪
+三药副总经理，负责目标市场销售方案的制
+定、审核、监督；2007年~2011年，历任北
+药集团北贸天然药物经营有限责任公司副
+总经理、总经理，全面负责公司日常业务管
+理，分管营销管理工作；2012年至今，任北
+京国立柏林医学科技发展有限公司、和合医
+学副总经理，负责公司外地分公司筹建、营
+销管理工作，有 20 多年医疗行业营销管理
+工作经验和丰富的医疗行业营销资源。
+公司技术总监兼实验室经理倪军军，
+女，硕士研究生学历。2003年~2004年，任
+哈尔滨制药总厂高级技术员，负责车间发酵
+菌生产和产品出厂质检工作；2004年~2006
+年，在读沈阳医科大学天然药物化学专业研
+究生，期间在核心期刊上发表了 2篇中英文
+文章；2006年~2007年，任天津药明康德新
+药研发公司高级技术工程师，负责新药火星
+成分筛选及分析鉴定工作；2007 年 9 月至
+今，任北京国立柏林医学科技发展有限公
+司、和合医学技术总监，创建检测项目技术
+方法 100余项。
+总体看，公司高管学历水平高，专业素
+质高，从业及管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 141人。
+从学历构成看，员工中本科及以上学历者占
+比 56.03%，员工学历水平较高；从年龄构
+成看，员工年龄在 25~45岁者占比 79.43%，
+员工年龄以中青年为主；从岗位构成看，员
+工中管理人员占比 14.89%，技术人员占比
+36.17%，作业人员 48.94%，岗位构成符合
+高新企业特点。
+总体看，公司员工学历水平较高，员工
+年龄以中青年为主，岗位构成符合高新企业
+特点。
+（二）技术水平与研发
+1.技术人员素质
+公司现有技术人员 51 名，主要为本科
+以上学历，技术人员学历较高。
+公司核心技术人员倪军军，详见“高管
+素质”，负责新检测项目的研发和临检项目
+的技术改进；临检项目技术指导；技术人员
+的技术培训和考核；负责专利申报、试剂盒
+标准申报、专业期刊论文发表；参与国家课
+题申报。任职期间，建设专业实验室 2所，
+申报国家专利 7项，发表核心期刊专业文章
+4篇，申请企业试剂盒生产标准 10项，并申
+报成功 2项国家十一五、十二五的科技支撑
+计划课题。
+总体看，公司技术人员学历水平较高，
+主要技术人员专业经验丰富。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，内设中心实验
+室，下设临床化学检测组、分子生物免疫组、
+质量组、样本报告组，主要负责产品的研发、
+检测及测试工作。
+总体看，公司科研条件好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京和合医学诊断技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址为北京经济技术开发区
+亦庄经海六路 5号东尚 E园 14号楼，面积
+2846.81平方米，用途为部分面积用于办公
+部分面积用于医学检测，使用方式为租赁，
+该经营地办公设施齐全，交通便利。
+公司 2010 年成立，处于成长期，是国
+家高新技术企业（编号：GR201411002759，
+有效期至 2017年 10月），中关村高新技术
+企业（编号：20162050084502，有效期至 2019
+年 4月），公司资质较为齐全。
+总体看，公司资质较为齐全，经营条件
+较好。
+（二）业务运营
+1.主要业务
+北京和合医学诊断技术股份有限公司
+成立于 2010 年，是国家卫生部 2009 年 12
+月印发《医学检验所基本标准（试行）》以
+来，北京市卫生局批准的第一家专业从事第
+三方检验的医学检验机构（与医院并行，同
+属于医疗机构的一种）。公司主营业务是第
+三方医疗检测服务，与全国各大医院合作，
+力争为患者提供专业化、高水平的第三方检
+验服务和临床科研支持。
+2.采购模式
+从采购方面看，公司主要采购产品为色
+谱质谱仪等检测仪器，采购周期为半年，主
+要供货商为安捷伦科技有限公司。结算方
+面，一般为现款现结，通过电汇方式进行付
+款。
+3.销售模式
+从销售方面看，公司主要检测服务包括
+维生素 D的相关检测、儿科相关检测、产科
+相关检测等，合作方均为全国二、三级以上
+医院医疗机构，公司与各大医院达成长期合
+作协议，客户来源渠道稳定。结算上，公司
+根据合同规定进行收款，一般采取电汇方式
+进行。
+总体看，公司主营业务突出，上下游渠
+道通畅，业务运营情况较好。
+（三）经营效率
+表 2 公司近三年主要经营指标
+经营指标 2013年 2014 年 2015 年
+成本率(%) 99.79 52.06 80.09
+管理费用率(%) 29.75 50.04 31.25
+应收账款周转次数(次) 6.38 4.07 3.63
+存货周转次数(次) 0.55 4.47 27.65
+总资产周转次数(次) 0.83 0.59 0.64
+资料来源：公司提供，中企信用整理。
+近三年，公司成本率呈波动下降趋势，
+仍处于行业较高水平，主要为人工成本、采
+购成本，成本控制有待加强；同期，管理费
+用率偏高，管理费用控制水平有待加强。
+近三年，公司存货周转次数分别为 0.55
+次、4.47次、27.65次，加权平均值为 15.27
+次，处于行业高水平；同期，应收账款周转
+次数分别为 6.38次、4.07次、3.63次，加权
+平均值为 4.31次，处于行业一般水平，公司
+业务增加，回款有一定滞后；同期，总资产
+周转次数分别为 0.83次、0.59次、0.64次，
+加权平均值为 0.66次，处于行业较低水平。
+总体看，公司经营效率较高。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中国人民共和国公司法》及
+其他有关规定，制订了《北京和合医学诊断
+技术股份有限公司章程》。
+股东大会是公司的权力机构，依法行使
+决定公司的经营方针和投资计划、审议批准
+公司的年度财务预算方案、决算方案等职
+权。
+公司设董事会，董事 5名，董事会设董
+事长 1名。董事会行使召集股东大会并向股
+东大会报告工作、执行股东大会的决议等职
+权。
+公司设监事会，由 3名监事组成，设监
+事会主席 1名，监事会行使检查公司财务、
+对董事、高级管理人员执行公司职务的行为
+进行监督等职权。
+公司设总经理 1名，由董事会聘任或解
+聘，总经理负责主持公司的生产经营管理工
+作，组织实施董事会决议等事宜。公司设副
+总经理若干名，由总经理提名，董事会聘任
+或解聘。
+公司内设行政人事部（法务部、行政部、
+人事部、后勤部）、财务部、市场部、中心
+实验室（临床化学检测组、分子生物免疫组、
+质量组、样本报告组）、销售部（普检部、
+特检部、商务部、物流部），部门设置齐全，
+组织架构清晰。
+公司总部设在北京，同时在黑龙江、吉
+林、辽宁、陕西、江苏、浙江、四川、昆明、
+山东、山西、河北、河南、天津、内蒙、安
+徽等地均设有分公司或子公司。
+总体看，公司法人治理结构完善，部门
+设置齐全，组织架构清晰。
+（二）内控制度及执行
+公司根据经营管理需要，制定了较为完
+善的财务管理、人事管理、项目管理、技术
+管理、采购管理、销售管理等制度，公司制
+度建设完善，执行情况较好。
+总体看，公司内部管理制度完善，制度
+执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司计划 2017 年在中国境内上市，未
+来一年发展情况良好，结合公司提供的财务
+数据，按照谨慎性原则，中企信用预测公司
+2016 年将实现营业收入 10000.00万元，净
+利润 2000.00万元；预计 2016年底公司资产
+总额 15000.81万元，负债总额 1500.00万元，
+所有者权益 13500.81万元。相比 2015年，
+预计 2016年营业收入增长 92.24%，负债率
+变动幅度为 4.62%，预计净资产收益率变动
+幅度 3.76%。
+总体看，公司未来一年业务发展良好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京和合医学诊断技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 3 月底，公司资产总额
+14269.98万元，其中流动资产占比 48.82%，
+非流动资产占比 51.18%。
+1.流动资产
+截至 2016 年 3 月底，公司流动资产
+6966.66 万元，主要为：货币资金 1188.05
+万元，占比 17.05%，为银行存款和库存现
+金；应收账款 3198.82万元，占比 45.92%，
+为石家庄市妇幼保健院、成都市妇女儿童中
+心医院、北京市通州区妇幼保健院、北京妇
+产医院、朝阳区妇幼保健院等应收服务费，
+账龄均在 1年以内；其他应收款 2108.64万
+元，占比 30.27%，为北京国立柏林医学科
+技发展有限公司、吉林佳普信医学检验所有
+限责任公司、沈阳佳普信医学检验所等关联
+公司间往来款，账龄均在 1年以内。
+2.非流动资产
+截至 2016 年 3 月底，公司非流动资产
+7303.32万元，主要为：长期股权投资4100.00
+万元，占比 56.14%，详见下表 3；固定资产
+2476.13万元，占比 33.90%，为运输设备、
+电子设备及其他；无形资产 676.36万元，占
+比 9.26%。
+表 3 公司长期股权投资明细
+序号 子公司名称 股权占比（%）
+1 黑龙江和合医学检验所有限公司 50.00
+2 吉林和合医学检验所有限公司 50.50
+3 沈阳和合医学检验所有限公司 58.00
+4 西安和合医学检验所有限公司 53.64
+5 昆明和合医学检验所有限公司 50.00
+6 合肥和合医学检验所有限公司 60.00
+7 杭州合医学检验所有限公司 60.00
+8 江苏和合医学检验有限公司 60.00
+深圳和合医学检验所有限公司（工
+9 60.00
+商核名中）
+10 成都和合医学检验所有限公司 62.50
+11 济南和合医学检验有限公司 65.00
+资料来源：公司提供
+总体看，公司资产流动性一般，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 3 月底，公司资产负债率
+为 4.49%，负债水平低，无有息债务。
+截至 2016 年 3 月底，公司负债总额为
+640.98 万元，其中流动负债占比 40.64%，
+非流动负债占比 59.36%。
+（1）流动负债
+截至 2016 年 3 月底，公司流动负债
+253.05万元，主要为：应付账款 105.69万元，
+占比 41.77%，为安捷伦科技贸易（上海）
+有限公司、北京江胜鹏达科技有限责任公
+司、北京精信达生物科技有限公司、热耳科
+技(上海)有限公司、北京鸿博智翔实验器材
+有限公司等应付采购款，账龄均在1年以内；
+应付职工薪酬 189.61万元，占比 74.93%；
+应交税费 129.85 万元，占比 51.31%；其他
+应付款-180.07万元，占比-71.16%，为深圳
+市中深建装饰设计工程有限公司北京第二
+分公司、北京东尚泰和科技有限公司、安捷
+伦科技（中国）有限公司等结算款项，账龄
+均在 1年以内。
+（2）非流动负债
+截至 2016 年 3 月底，公司非流动负债
+387.93万元，为公司递延收益。
+2.所有者权益
+近三年，公司所有者权益分别为-113.60
+万元、3398.74万元、11500.81万元，呈快速
+增长趋势，为股东增资和利润累积所致，公
+司所有者权益对负债保障强。
+截至2016年3月底，公司所有者权益
+13629.00万元，其中实收资本6300.00万元，
+占比46.22%；资本公积6002.97万元，占比
+44.05%；盈余公积69.78万元，占比0.51%；
+未分配利润1256.24万元，占比9.22%。
+总体看，公司所有者权益对负债的保障
+能力强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 3
+月底，公司流动比率、速动比率分别为
+2753.12%、2731.01%，处于行业高水平，公
+司短期偿债能力强。
+从长期偿债能力指标看，2014年、2015
+年，公司 EBITDA利息倍数分别为 30.34倍、
+718.36倍，2014年债务保护倍数为 4.14倍，
+均处于行业高水平，公司长期偿债能力强。
+结合公司业务发展及规模看，公司整体</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 855.85
+万元、1620.94万元、5201.72万元，复合增
+长率为 146.53%；同期，营业利润分别为 1.78
+万元、777.06 万元、1035.65 万元，复合增
+长率为 2311.34%；净利润分别为 1.80万元、
+735.94 万元、911.51 万元，复合增长率为
+2148.37%。
+近三年，公司主营业务利润率分别为
+80.17%、94.24%、78.35%，加权平均值为
+83.48%，处于行业高水平；同期，净资产收
+益率分别为-3.17%、44.80%、12.24%，加权
+平均值为 18.92%，处于行业较高水平；同
+期，总资产报酬率分别为 0.26%、29.92%、
+12.72%，加权平均值为 15.39%，处于行业
+较高水平；公司整体盈利能力较强。
+2014 年、2015 年，公司现金收入比分
+别为 78.00%、 59.73%，加权平均值为
+67.04%，处于行业低水平，下游客户的审批
+流程烦琐等因素导致回款慢，公司 2014年、
+2015年收入实现质量尚可。
+总体看，公司盈利能力较强，2014年、
+2015年收入实现质量尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京和合医学诊断技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司 2014 年、2015 年经营活动获取
+现金的能力弱，整体现金流对筹资活动的依
+赖性大。
+2.公司成本费用较高，关注未来成本控
+制情况。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>1363.12 </enterprise:资产总额>
+    <enterprise:所有者权益>-113.60 </enterprise:所有者权益>
+    <enterprise:负债总额>1476.74 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>855.85 </enterprise:营业收入>
+    <enterprise:EBITDA>1.80 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>4141.75 </enterprise:资产总额>
+    <enterprise:所有者权益>3398.74 </enterprise:所有者权益>
+    <enterprise:负债总额>743.02 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1620.94 </enterprise:营业收入>
+    <enterprise:EBITDA>864.39 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>12154.33 </enterprise:资产总额>
+    <enterprise:所有者权益>11500.80 </enterprise:所有者权益>
+    <enterprise:负债总额>653.49 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5201.72 </enterprise:营业收入>
+    <enterprise:EBITDA>1296.41 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>83.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>638.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>55.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>59.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>407.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>447.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>64.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>363.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2765.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.26 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-1.78 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>29.92 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>44.80 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>12.72 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>12.24 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>20.89 </enterprise:流动比率>
+    <enterprise:速动比率>19.98 </enterprise:速动比率>
+    <enterprise:资产负债率>108.34 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>302.70 </enterprise:流动比率>
+    <enterprise:速动比率>298.87 </enterprise:速动比率>
+    <enterprise:资产负债率>17.94 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>30.34 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京和合医学诊断技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>1882.54 </enterprise:流动比率>
+    <enterprise:速动比率>1862.63 </enterprise:速动比率>
+    <enterprise:资产负债率>5.38 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>718.36 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>80.17 </enterprise:毛利率>
+    <enterprise:成本费用利润率>42.66 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>94.24 </enterprise:毛利率>
+    <enterprise:成本费用利润率>288.70 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.78 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-499.63 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>5.23 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京和合医学诊断技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>78.41 </enterprise:毛利率>
+    <enterprise:成本费用利润率>82.89 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.60 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-402.94 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京和合医学诊断技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>29.55 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>220.49 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>45.03 </enterprise:其他应收款>
+    <enterprise:存货>13.41 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>308.48 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>946.87 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7.77 </enterprise:无形资产>
+    <enterprise:开发支出>100.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1054.64 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1363.12 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京和合医学诊断技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>58.14 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>575.10 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>4.48 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1582.98 </enterprise:其他应收款>
+    <enterprise:存货>28.40 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2249.10 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>438.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>934.98 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5.77 </enterprise:无形资产>
+    <enterprise:开发支出>513.90 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1892.65 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4141.75 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京和合医学诊断技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>230.64 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2290.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>556.84 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1868.43 </enterprise:其他应收款>
+    <enterprise:存货>52.85 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4999.26 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>3900.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2542.43 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>695.17 </enterprise:无形资产>
+    <enterprise:开发支出>17.47 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>7155.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>12154.33 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京和合医学诊断技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>187.44 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>23.40 </enterprise:应付账款>
+    <enterprise:预收款项>0.99 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>59.66 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>62.32 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>409.21 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>743.02 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>743.02 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3276.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.80 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>121.94 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3398.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3398.74 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4141.76 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京和合医学诊断技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>187.44 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>23.40 </enterprise:应付账款>
+    <enterprise:预收款项>0.99 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>59.66 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>62.32 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>409.21 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>743.02 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>743.02 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3276.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.80 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>121.94 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3398.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3398.74 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4141.76 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京和合医学诊断技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>72.29 </enterprise:应付账款>
+    <enterprise:预收款项>12.59 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>112.70 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>123.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>-55.02 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>265.56 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>387.93 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>387.93 </enterprise:非流动负债合计>
+    <enterprise:负债合计>653.49 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>5002.97 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>69.78 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>628.05 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11500.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11500.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>12154.29 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京和合医学诊断技术股份有限公司2013年利润表">
+    <enterprise:营业收入>855.85 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>169.71 </enterprise:营业成本>
+    <enterprise:主营业务成本>169.71 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>430.05 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>254.12 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.19 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>255.90 </enterprise:营业利润>
+    <enterprise:营业外收入>0.02 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>255.92 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>255.92 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>255.92 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京和合医学诊断技术股份有限公司2014年利润表">
+    <enterprise:营业收入>1620.94 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>93.36 </enterprise:营业成本>
+    <enterprise:主营业务成本>93.36 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>289.39 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>422.24 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>38.89 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1199.30 </enterprise:营业利润>
+    <enterprise:营业外收入>18.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.02 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1217.28 </enterprise:利润总额>
+    <enterprise:所得税费用>59.11 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1158.17 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1158.17 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京和合医学诊断技术股份有限公司2015年利润表">
+    <enterprise:营业收入>5201.72 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1123.08 </enterprise:营业成本>
+    <enterprise:主营业务成本>1123.08 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.07 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1697.04 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1302.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-4.40 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>45.29 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2337.64 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.08 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2336.56 </enterprise:利润总额>
+    <enterprise:所得税费用>123.06 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2213.50 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2213.50 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京和合医学诊断技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京和合医学诊断技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1264.27 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>687.43 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1951.70 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>42.18  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>506.74 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>43.79 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5071.37 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>5664.08 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-3712.38 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>375.98 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>438.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>813.98 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-813.98 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>2776.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>2720.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>5496.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>912.56 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>28.49 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>941.05 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>4554.95 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>28.59 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京和合医学诊断技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3106.92 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>12.24 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3119.16 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>255.99  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1477.87 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>165.82 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2289.54 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4189.22 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1070.06 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2289.88 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>3462.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5751.88 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5751.88 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>10404.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>119.68 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>10523.68 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>3527.44 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1.80 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3529.24 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>6994.44 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>172.50 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：李龙江 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李龙江 </enterprise:股东名称>
+	 <enterprise:货币>1,245.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>23.36%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：宁波道夫清股权投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宁波道夫清股权投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>1,000.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>18.76%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：李玮 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李玮 </enterprise:股东名称>
+	 <enterprise:货币>693.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：杨志诚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨志诚 </enterprise:股东名称>
+	 <enterprise:货币>625.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>11.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：刘志刚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘志刚 </enterprise:股东名称>
+	 <enterprise:货币>557.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.45%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：北京国立柏林医学科技发展有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京国立柏林医学科技发展有限公司 </enterprise:股东名称>
+	 <enterprise:货币>500.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：北京水木创融信诚投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京水木创融信诚投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>200.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：共青城尼克优先投资管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>共青城尼克优先投资管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>150.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.81%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：乔广来 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>乔广来 </enterprise:股东名称>
+	 <enterprise:货币>130.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.44%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：田野 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>田野 </enterprise:股东名称>
+	 <enterprise:货币>100.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：共青城尼克领军投资管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>共青城尼克领军投资管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>100.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京和合医学诊断技术股份有限公司股东：北京水木创融投资管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京水木创融投资管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>30.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.56%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京和合医学诊断技术股份有限公司的商标信息：和合诊断">
+	<enterprise:有申请日期>17-4-14</enterprise:有申请日期>
+	<enterprise:有商标名称>和合诊断</enterprise:有商标名称>
+	<enterprise:有注册号>23588312</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京和合医学诊断技术股份有限公司的商标信息：和合诊断">
+	<enterprise:有申请日期>16-5-20</enterprise:有申请日期>
+	<enterprise:有商标名称>和合诊断</enterprise:有商标名称>
+	<enterprise:有注册号>20025966</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京和合医学诊断技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>18400275</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>评审分案</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京和合医学诊断技术股份有限公司的商标信息：和合佳">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>和合佳</enterprise:有商标名称>
+	<enterprise:有注册号>18400714</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京和合医学诊断技术股份有限公司的商标信息：和合佳">
+	<enterprise:有申请日期>15-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>和合佳</enterprise:有商标名称>
+	<enterprise:有注册号>18400714A</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京和合医学诊断技术股份有限公司的专利信息：同时检测血液中维生素A和25‑羟基维生素D的方法">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>同时检测血液中维生素A和25‑羟基维生素D的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610786650.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106442761A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京和合医学诊断技术股份有限公司的专利信息：一种同时检测血液中维生素A和维生素E含量的方法">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种同时检测血液中维生素A和维生素E含量的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610772145.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106442754A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：检验报告审核状态标记管理系统">
+	<enterprise:有批准日期>17-6-26</enterprise:有批准日期>
+	<enterprise:有软件全称>检验报告审核状态标记管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR307528</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：检验样本状态标识管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>检验样本状态标识管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR332851</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：药物等效性结果评价分析管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>药物等效性结果评价分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR334615</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：生物样本采集信息管理系统">
+	<enterprise:有批准日期>17-6-29</enterprise:有批准日期>
+	<enterprise:有软件全称>生物样本采集信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR327053</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：微量化样本检验信息管理系统">
+	<enterprise:有批准日期>17-6-29</enterprise:有批准日期>
+	<enterprise:有软件全称>微量化样本检验信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR327048</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：健康档案管理系统">
+	<enterprise:有批准日期>17-6-26</enterprise:有批准日期>
+	<enterprise:有软件全称>健康档案管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR307773</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：肿瘤基因信息库分析管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>肿瘤基因信息库分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR332841</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：个性化健康服务定制管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>个性化健康服务定制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR332546</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：生物样本物流托运管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>生物样本物流托运管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR332861</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：检验结果复核分析管理系统">
+	<enterprise:有批准日期>16-9-7</enterprise:有批准日期>
+	<enterprise:有软件全称>检验结果复核分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR252282</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：产物分析软件">
+	<enterprise:有批准日期>16-9-7</enterprise:有批准日期>
+	<enterprise:有软件全称>产物分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR252245</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：病例信息分析管理系统">
+	<enterprise:有批准日期>16-9-6</enterprise:有批准日期>
+	<enterprise:有软件全称>病例信息分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR249720</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：检验结果分析管理系统">
+	<enterprise:有批准日期>16-9-6</enterprise:有批准日期>
+	<enterprise:有软件全称>检验结果分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR249714</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：机器人样本前处理管理系统">
+	<enterprise:有批准日期>16-9-7</enterprise:有批准日期>
+	<enterprise:有软件全称>机器人样本前处理管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR252283</enterprise:有登记号>
+	<enterprise:有分类号>30900-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：荧光定量PCR分析软件">
+	<enterprise:有批准日期>16-9-6</enterprise:有批准日期>
+	<enterprise:有软件全称>荧光定量PCR分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR248782</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：实验室仓库标准品管理系统">
+	<enterprise:有批准日期>13-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>实验室仓库标准品管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR158960</enterprise:有登记号>
+	<enterprise:有分类号>30200-5800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：实验室仪器使用及维护管理系统">
+	<enterprise:有批准日期>13-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>实验室仪器使用及维护管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR161286</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：实验室检验人员管理系统">
+	<enterprise:有批准日期>13-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>实验室检验人员管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR161347</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：全自动数据处理及分析管理系统">
+	<enterprise:有批准日期>13-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>全自动数据处理及分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR161346</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：实验室后勤保障管理系统">
+	<enterprise:有批准日期>13-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>实验室后勤保障管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR161150</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京和合医学诊断技术股份有限公司的软件著作：实验室仓库试剂管理系统">
+	<enterprise:有批准日期>13-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>实验室仓库试剂管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR161370</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:作品著作权 rdf:ID="北京和合医学诊断技术股份有限公司的作品著作：《和合诊断》">
+	<enterprise:有登记号>国作登字-2016-F-00340504</enterprise:有登记号>
+	<enterprise:有作品名称>《和合诊断》</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>2010-12-03</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2016-12-08</enterprise:有登记日期>
+	<enterprise:有首次发布日期>2010-12-10<enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:网站备案 rdf:ID="北京和合医学诊断技术股份有限公司的网站备案：和合医学检验所官方主页">
+	<enterprise:有审核时间>15-9-24</enterprise:有审核时间>
+	<enterprise:有网站全称>和合医学检验所官方主页</enterprise:有网站全称>
+	<enterprise:有网站首页>www.labhh.com</enterprise:有网站首页>
+	<enterprise:有域名>labhh.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备15023276号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京和合医学诊断技术股份有限公司的网站备案：维生素A、E水平与儿童呼吸道感染及孕期子痫前期相关性研究官方网站">
+	<enterprise:有审核时间>15-9-24</enterprise:有审核时间>
+	<enterprise:有网站全称>维生素A、E水平与儿童呼吸道感染及孕期子痫前期相关性研究官方网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vitaminae.cn</enterprise:有网站首页>
+	<enterprise:有域名>vitaminae.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备15023276号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京和合医学诊断技术股份有限公司的网站备案：和合医学">
+	<enterprise:有审核时间>17-8-25</enterprise:有审核时间>
+	<enterprise:有网站全称>和合医学</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pchiq.org.cn</enterprise:有网站首页>
+	<enterprise:有域名>pchiq.org.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17004101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京和合医学诊断技术股份有限公司的网站备案：北京和合医学诊断技术股份有限公司">
+	<enterprise:有审核时间>17-8-25</enterprise:有审核时间>
+	<enterprise:有网站全称>北京和合医学诊断技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.vae2.com</enterprise:有网站首页>
+	<enterprise:有域名>vae2.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17004101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京和合医学诊断技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京和合医学诊断技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未提供</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京和合医学诊断技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>全国二、三级以上医院医疗机构</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京和合医学诊断技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>未提供</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京和合医学诊断技术股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 境内上市（拟） </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京和合医学诊断技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>未提供。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京和合医学诊断技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京和合医学诊断技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京和合医学诊断技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>-</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>-</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京和合医学诊断技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>采购</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>私营企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>尚可</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>-</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>-</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>-</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京和合医学诊断技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>-</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京和合医学诊断技术股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京和合医学诊断技术股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京和合医学诊断技术股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:关联方资金流入情况  rdf:ID="北京和合医学诊断技术股份有限公司的关联方信息">
+	<enterprise:关联方名称>安徽和合</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>-10.00</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息>—</enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间>—</enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:关联方资金流入情况  rdf:ID="北京和合医学诊断技术股份有限公司的关联方信息">
+	<enterprise:关联方名称>国立柏林</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>-54.10</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息>—</enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间>—</enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:关联方资金流入情况  rdf:ID="北京和合医学诊断技术股份有限公司的关联方信息">
+	<enterprise:关联方名称>佳信和合</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>0.05</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息>—</enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间>—</enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:关联方资金流入情况  rdf:ID="北京和合医学诊断技术股份有限公司的关联方信息">
+	<enterprise:关联方名称>山东和合</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>-551.02</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息>—</enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间>—</enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:关联方资金流入情况  rdf:ID="北京和合医学诊断技术股份有限公司的关联方信息">
+	<enterprise:关联方名称>浙江和合</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>-15.00</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息>—</enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间>—</enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:预测项目  rdf:ID="北京和合医学诊断技术股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京和合医学诊断技术股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京和合医学诊断技术股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京和合医学诊断技术股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京和合医学诊断技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京和合医学诊断技术股份有限公司的商标数量">
+	<enterprise:商标总计>3</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>3</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:著作作品数量 rdf:ID="北京和合医学诊断技术股份有限公司的著作作品数量">
+	<enterprise:著作作品总计>0</enterprise:著作作品总计>
+	<enterprise:著作作品数量2013>0</enterprise:著作作品数量2013>
+	<enterprise:著作作品数量2014>0</enterprise:著作作品数量2014>
+	<enterprise:著作作品数量2015>0</enterprise:著作作品数量2015>
+</enterprise:著作作品数量>
+<enterprise:网站备案数量 rdf:ID="北京和合医学诊断技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>2</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

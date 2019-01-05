@@ -1,0 +1,1413 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="毅新兴业（北京)科技有限公司的企业概况">
+    <enterprise:有名称>毅新兴业（北京)科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020002913966</enterprise:有中征码>
+    <enterprise:有基本账户开户行>交通银行股份有限公司北京海淀支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>130</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008.02.13</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000万</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2028.02.12</enterprise:有营业执照到期日>
+    <enterprise:有股本>1000万</enterprise:有股本>
+    <enterprise:有经营范围></enterprise:有经营范围>
+    <enterprise:有主营业务>技术开发、技术转让、技术服务、技术咨询；销售电子产品。</enterprise:有主营业务>
+    <enterprise:有行业分类>生物医药</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区苏州街18号院1号楼2-901室（高新技术研发区）</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市昌平区中关村生命科学园28号博达高科技大厦5层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102206</enterprise:有邮政编码>
+    <enterprise:有联系人>马庆伟</enterprise:有联系人>
+    <enterprise:有联系电话>13911197301</enterprise:有联系电话>
+    <enterprise:有传真电话>010-53223598</enterprise:有传真电话>
+    <enterprise:有E-mail>maqw@bioyong.com</enterprise:有E-mail>
+    <enterprise:有网址>www.bioyong.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>毅新兴业（北京）科技有限公司是国内首
+家专注于临床飞行时间质谱系统研发、生产的
+企业。公司管理团队由“中关村高端领军人才
+”、教授级高级工程师及8名海归人才领军，员
+工规模超过130人，其中研发人员数量占比超过
+60%。公司总部位于中关村生命科学园，在亦庄
+设有符合GMP标准的生产厂房，并在上海、广州
+、哈尔滨、美国设有办事处。
+截止目前，软银赛富、北京崇德弘信等著
+名投资公司已对毅新累计投资过亿元。2012年
+，毅新自主研发的Clin-
+TOF飞行时间质谱系统通过欧盟CE 
+IVD认证；2014年6月，Clin-
+TOF飞行时间质谱系统通过国家食品药品监督管
+理总局（CFDA）医疗器械认证，是国内第一个
+获得 CFDA 注册证书的国产质谱产品。
+公司先后与北京协和肿瘤医院、中国人民
+解放军总医院，北京大学口腔医院等单位合作
+开展基于Clin-
+TOF质谱技术的研究，合作发表SCI论文累计超
+过20篇。同时，毅新受邀为美国贝勒医学院的
+《Biomarker》学术论著编写部分重要章节。截
+止目前，公司已申请专利40余项，已授权29项
+；多项已申请国际PCT专利，软件著作权6项，
+获得商标注册2项。
+2014年，公司作为牵头单位主持2014年科
+技部国家高技术研究发展计划（863计划）“激
+光解析基体辅助离子源-
+蛋白测序仪器”及“人体微量元素分析系统的
+研制”两项课题，并承担2012年科技部国家重
+大科学仪器设备开发专项“生物安全专用基质
+辅助激光解析仪”产业化子课题项目。同年，
+毅新与美国斯坦福大学医学院、美国约翰·霍
+普金斯大学医学院、中国人民解放军总医院（3
+01医院）联合申报北京市临床质谱国际科研合
+作示范基地，获得北京市科委批准。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="毅新兴业（北京)科技有限公司的基础素质">
+    <enterprise:有管理素质>毅新兴业（北京）科技有限公司法人代表
+马庆伟，男，1977年出生，中国社会科学院金
+融学博士。2005年开始在生物质谱临床应用领
+域组织技术骨干开展工作，致力于生物质谱在
+肿瘤早期诊断领域的研究。2006年参与国家食
+品药品监督管理局组织的肿瘤早期诊断标准研
+讨会，发表多篇相关论文：《 MALDI-TOF 
+MS引领分子诊断新时代》、《基于质谱的蛋白
+质组学技术在微生物鉴定中的应用》、《液体
+芯片-
+飞行时间质谱技术在肿瘤早期诊断中的研究进
+展》、《液体芯片飞行时间质谱技术在分子诊
+断研究中的应用》。2008年成立毅新兴业（北
+京）科技有限公司，2009年荣获北京民营科技
+实业家协会会员，成为北大PE投资联盟常务理
+事，2010年荣获中国优秀创新企业家荣誉称号
+，获海淀园创新基金资助一项：多肽指纹图谱
+检测试剂盒（纳米磁珠）；同年，《Nature（
+自然）》杂志采访了毅新兴业的领导团队并刊
+登于《Nature Biotechnologies（自然 
+生物技术）》的文章。2011年获得北京市产品
+质量创新人物贡献奖；援助西藏发展基金会理
+事；北京市科学技术奖评选专家等荣誉。2011
+年在美国贝勒医学院主编，美国著名InTech出
+版社的Biomarker书稿中发表《Serum 
+Peptidomics》论文。2012年4月鉴于在生物质
+谱及多肽组学领域的科研成就，收到美国斯担
+福大学的访问学者邀请函，具有十分丰富的专
+业知识和管理经验，有利于公司的进一步发展
+。
+公司的其他几位高管均具备较为丰富的专
+业技术和从业经验，有利于公司的稳定发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>毅新兴业（北京）科技有限公司十分注重
+产品的研发，公司设有研发部门，部门总负责
+人是研发中心主任，研发中心主任直接对总工
+程师负责，部门下设三个组，即基因组、多肽
+组、测序组，各小组设一名小组长，三个小组
+设置一名研发主管，负责三小组具体工作的分
+配与执行监督工作，研发中心主任承担部门总
+规划设计与任务部署，承担部门内、外部的协
+调工作。
+公司目前拥有研发人员76人，其中硕士45
+，本科25人，专科6人。公司的专家是来自医学
+及生命科学各领域的权威。研发团队在生物质
+谱技术开发及技术服务领域都有着非常丰富的
+经验。技术团队由澳大利亚Edith Cowen 
+大学的王嵬教授、美国康内尔大学胡继凡博士
+领军；另外，公司还拥有强大的技术顾问团队
+，如中国人民解放军总医院的田亚平教授、国
+家蛋白质组学中心的张学敏教授、魏开华主任
+等。
+公司董事长、首席科学家张学记博士，中
+国科学院基因研究中心博士、英国Sanger研究
+中心博士后、参与水稻基因组测序、千人基因
+组计划及人类基因组结构变化等研究，1994年
+于武汉大学获博士学位，并于1995年至 
+1999年分别在斯洛文尼亚国家化学研究所（ETH
+，苏黎世）和新墨西哥州立大学从事博士后研
+究。他在传感器领域有18年的研究经验及产业
+化经验。现任美国World Precision 
+Instruments公司的高级副总裁及南佛罗里达大
+学的名誉教授，“Frontiers in 
+Bioscience”杂志副主编。发表论文70余篇，
+授权发明专利12项，并有多项传感器及装置实
+现了产业化。在国际会议及20多个国家的大学
+做了50 余次大会报告及特邀报告。
+公司技术总监冯立平，毕业于日本熊本大
+学，获医学院肿瘤遗传学和生物学博士学位，
+后到美国约翰·霍普金斯大学医学院做博士后2
+年。2006-
+2013年在美国BD公司担任资深科学家，主要进
+行体外诊断产品进行开发，并专长于布鲁克的M
+ALDI-
+TOF微生物鉴定技术。自行开发了利用MALDI_TO
+F对纯微生物培养和血培养的快速鉴定技术，并
+申请专利二项。</enterprise:有人员素质>
+    <enterprise:有科研条件>毅新兴业（北京）科技有限公司具有一定
+的研发条件。具有一定的研发条件，拥有Hiseq 
+2000高通量测序仪，SequenomMassarray核酸质
+谱仪，飞行时间质谱仪等价值4000万的高端仪
+器设备。公司是国内唯一进行Clin-
+TOF生物质谱仪研发和生产的企业，在亦庄建有
+近800平米、符合GMP标准的厂房，通过ISO9000
+生产管理体系认证。
+公司与中国人民解放军总医院、美国约翰
+霍普金斯大学、美国斯坦福大学共建“北京市
+临床质谱国际科技合作基地”，主要基于生物
+质谱技术在肿瘤分子标志物发现、微生物快速
+鉴定及基因检测等方面的应用，在临床检验领
+域实现快速、准确无创体外检测。
+公司与中国人民解放军总医院合作，建立
+血清多肽谱技术，并进行了大量的调研，进行
+多种病例的样本检测，对临床质谱仪及配套磁
+珠试剂盒检测结果的灵敏度、分辨率和重复性
+进行了比较，积累了丰富的实验数据和临床病
+例，为进一步进行质谱检测的临床验证与评价
+打下了良好的基础。
+公司与协和医院和北大口腔医院建立联合
+实验室，进行微生物鉴定的研究和应用、
+公司与湘雅医检所共建临床质谱实验室，
+双方就质谱在药物代谢基因检测，药物性耳聋
+基因检测，宫颈癌检测，肿瘤基因检测等各方
+面的科研及应用展开全面且深入的合作。
+2015年公司研发费用1015.46万元，有效保
+障了研发工作的顺利进行。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="毅新兴业（北京)科技有限公司的经营管理">
+    <enterprise:其经营分析为>毅新兴业（北京）科技有限公司成立于200
+3年（原名为博扬通），是一家坐落于中关村高
+科技园区的北京市高新技术企业，后在引入新
+的投资伙伴的基础上，于2008年重组，注册资
+金1000万元。2009年，由公司自主研发的SPE-
+C磁珠试剂盒、RT-qPCR试剂盒、MIPCR 
+DNA扩增仪、MiDrop 100和MS-100/ MSC-
+100恒温混匀仪也陆续上市，目前均处于市场开
+拓期。主要产品SPE-
+C磁珠试剂盒已有试用装，现在正在进行医疗器
+械生产许可证和临床实验的报批。2010年1月，
+公司自主研发的第一台质谱仪样机落户北京蛋
+白组中心，成为毅新兴业MALDI-
+TOF的第一个示范基地。2010年3月，公司购买
+的Polonator高通量测序仪落户北京基因组所与
+毅新兴业联合实验室。2011年2月，公司与北京
+计算中心建成生物信息联合实验室，应用100万
+亿次高性能计算平台，可以支持包括从头测序
+在内的所有高通量测序数据分析，为目前国内
+仅有的几个高通量测序中心之一。2011年10月
+，公司在亦庄的厂房顺利通过北京市药监局的
+验收。2012年11月，公司获得中关村科技产品
+创新和产业化促进中心颁发的液体芯片飞行时
+间质谱，被评为政府采购中关村新技术新产品-
+首台（套）重大技术装备示范项目。2013年9月
+，公司获得卫生部颁发的“全国KRAS突变检测
+室间质凭证书”。 
+2014年6月，北京市科委批准由公司与301医院
+、斯坦福大学医学院、约翰霍普金斯大学医学
+院合作基地为北京市临床质谱国际科技合作基
+地。2014年6月，公司自主研发的飞行时间质谱
+系统Clin-
+TOF获得国家药监局颁发的CFDA认证，成为国内
+唯一、全球第二个获得此项认证的企业。2014
+年7月，基于公司Clin-
+TOF飞行时间质谱仪进行开发的研究工作，获得
+了美国临床化学协会颁发的“优秀论文摘要奖
+”。2014年9月，中关村管的委会批准公司的实
+验室为中关村生物质谱转化医学开放实验室。2
+014年10月，Clin-
+TOF飞行时间质谱仪荣获国际著名咨询公司Fros
+t & 
+Sullivan颁发的“年度最佳产品创新奖”。201
+4年12月，北京大学口腔医院应用Clin-
+TOF质谱发表的论文被SCIENTIFIC 
+REPORTS（IF>5）接收，近三年来累计应用国产
+Clin-
+TOF平台发表SCI论文突破15篇。2015年2月，公
+司与北京市农林科学院玉米研究中心进行合作
+，利用基因质谱检测平台，开发质谱鉴定玉米D
+NA数据库。2015年2月，公司与中国农业大学国
+家奶牛体系中心合作建立了国家奶牛基因数据
+库。2015年3月，公司获得软银赛富VC投资，成
+功实现A轮融资。
+公司致力于临床质谱的转化医学应用的高
+新技术企业，在优生优育，感染与传染疾病控
+制，以及个体化诊疗领域，利用更灵敏，更准
+确的飞行时间质谱技术，提高对复杂疾病的早
+期预防和治疗，改善患者的生命质量，实现预
+防医学和个体化医学的突破。
+随着市场的不断拓展和竞争实力的不断增
+强，公司2015年的营业收入呈大幅上升态势。
+公司2015年营业收入4212.92万元，较上一年增
+幅为286.57%，变现出了良好的发展势头。
+图1：公司近三年营业收入（万元）
+数据来源：公司提供财务报表
+公司产品主要包括血清多肽谱/SNP/SHOT 
+GUN检测、CGI检测等，目前采购物品主要是
+美国Sequenom公司的质谱仪。公司供应商供货
+效果良好。付款方式主要是现款现货与账期结
+合。
+公司客户集中于北京、上海、长沙等地区
+，包括中国农业大学、瑞金医院、湘雅医院等
+，主要产品大量供应为高科研医学机构。公司
+客户行业性质相对集中。鉴于公司的技术服务
+以及研发的产品之间结合紧密，在前期提供技
+术服务的阶段，已经为后续产品的临床试验以
+及销售做好了铺垫。例如，前期公司为全国各
+大知名医院和科研院所研究课题提供的技术服
+务中，已经进行了基于公司产品核心技术的临
+床检测试验，已累计了数千例的数据资料，建
+立了属于毅新兴业的微生物谱库。并且这些医
+院和科研院所都是国内最顶尖的研究机构，如
+中国人民解放军总医院（301）、协和医院、北
+大医学部等，在行业内有着非常强的影响力，
+有利于公司技术及产品在全国范围内的推广。
+总体来看，目前，公司具有一定技术优势
+和客户基础，有利于公司业务的持续发展。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>毅新兴业（北京）科技有限公司组织结构
+基本完整，建立了较为健全的法人治理结构。
+公司设执行董事一人，负责执行股东会决议，
+负责对公司的战略规划、经营方针、财务法律
+、安全生产、技术革新、对外交易等内部管理
+工作提供总体规划和合理建议。公司设执行监
+事一人，依法对公司的财务、业务状况，董事
+、总经理及其他高管人员是否履行职责情况和
+股东会决议执行等情况进行合理、合法的监督
+。公司无董事、经理兼任监事现象。
+目前公司按照现代企业制度的要求建立起
+较为规范的管理体系，有比较完善的组织架构
+及高管团队，生产经营各方面运转情况良好。
+公司建立了完善的现代管理制度，明确职能部
+门的划分和岗位职责，定岗定责，各职能部门
+间各司其责联系紧密。
+公司根据经营目标和员工个人状况，量才
+使用，人尽其才，发挥个人特长，体现个人价
+值。在一定程度上促使员工将公司的成功当成
+自己的义务，鼓励其创造性，营造和谐向上的
+工作氛围，培养了员工积极向上的作风。
+在员工权益保障方面，公司按照国家规定
+保障员工各项福利待遇，并按期为员工提供身
+体健康检查，有利于调动员工工作积极性，确
+保了公司整体经营管理的稳定性和长远性。
+在合同管理方面，公司在对外交易时，做
+到所有交易均通过书面合同形式来确定双方权
+责，在一定程度上积极有效的杜绝和减少交易
+的风险隐患。公司有较严格的合同管理制度，
+并严格按照制度执行，体现了公司良好的商业
+信誉。
+总体来说，公司信用管理体系流程基本建
+立，合同管理状况总体情况良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据普华永道的报告“个体化用药的科学
+化：将承诺变成实践”，美国个体化用药市场
+现今已经达到2320亿美元，并将以11%的年增长
+率增长。个体化用药11%的增长率将带来诸多变
+化。据了解，个体化医疗市场的核心部分为诊
+断和治疗，其价值估计会达到240亿美元，并预
+计将会以10%的年增长率增长。
+目前国内现有诊断试剂产品，有非常大的
+市场潜力，国内诊断试剂行业年增长率15%～20
+%。其中国内对于基因诊断的市场容量达200亿/
+年以上，市场需求量巨大。基因诊断和产前诊
+断逐步开展起来，使得新生儿遗传性代谢病筛
+查的覆盖率，近6年每年递增45.5％，市场容量
+过百亿。
+公司专注于生物质谱技术用于基因检测（2
+1-3体检测—
+唐筛、KRAS检测、耳聋基因检测、HPV检测等）
+、微生物鉴定和肿瘤早诊领域，争取在3年内实
+现国内顶尖的技术服务公司；在基因检测（21-
+3体检测—
+唐筛、KRAS检测、耳聋基因检测、HPV检测等）
+、微生物鉴定和肿瘤早诊相关产品上市后的2年
+内成为国内具实力的基于生物质谱技术的诊断
+试剂、诊断仪器及数据分析的综合服务商，未
+来发展空间广阔。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="毅新兴业（北京)科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>图2：公司资产质量及流动性指标图
+表1:公司资产质量及流动性指标表
+  项　目 2013年 2014年 2015年
+资产总额(万元) 3921.52 4078.41 6111.08 
+应收账款(万元) 411.06 637.23 466.80 
+存货(万元) 424.83 645.48 421.24 
+流动资产(万元) 2477.29 3018.19 2796.00 
+固定资产(万元) 1152.04 989.04 1519.55 
+无形资产(万元) 292.18 71.17 0.00 
+应收账款周转率(次) 5.80 2.08 7.63 
+总资产周转率(次) 0.62 0.27 0.83 
+数据来源：公司提供财务报表
+近三年公司资产规模呈增大态势，以流动
+资产为主。2013年至2015年资产总额分别是392
+1.52万元、4078.41万元和6111.08万元，近三
+年持续增长，增幅分别为4.00%和49.84%，说明
+公司经营规模持续扩张。
+截止2015年末，公司资产总计为6111.08万
+元，由流动资产和非流动资产构成。其中流动
+资产占总资产的45.75%，主要由货币资金、应
+收账款、预付账款、存货和其他应收款构成；
+其中预付账款占比最大，主要是对供应商北京
+思睿世通科技有限公司等单位支付的购置仪器
+设备的采购款，可能会对企业运营资金产生一
+定占压，从而影响到企业的资金周转速度。公
+司货币资金占流动资产的比重约为2%，主要是
+现金及银行存款，这部分资产的变现能力很强
+，但公司所占比重不大。
+公司非流动资产占总资产的54.25%，主要
+由长期股权投资、固定资产和开发支出构成，
+其中固定资产占比较大，主要包括一些办公设
+备和仪器设备等。
+从公司总资产周转率来看，2015年数值为0
+.83次，较2014年的0.27次相比有所增加，主要
+是营业收入大幅增长所致，且增幅大于近两年
+资产总额的平均增幅，说明公司运用总资产获
+取利润的能力在增强。
+2015年末，公司的应收账款占流动资产比
+重为16.70%，较2014年的21.11%相比有所下降
+。说明公司加强了的对应收账款的管理。欠款
+数额较大的单位主要包括北京市心肺血管疾病
+研究所、北京思睿世通科技有限公司、北京林
+业大学等，均为非关联方，均属于正常合同往
+来款项。从欠款单位性质来看，形成坏账的风
+险不大。公司对应收账款的管理能力尚可。
+综合来看，公司基本不存在不良资产。但
+预付账款占流动资产比重较大，资金流动性尚
+有进一步提升的空间。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>图4：公司偿债能力指标图
+表3：公司偿债能力指标表
+项　目 2013年 2014年 2015年
+负债总额(万元) 2268.04 3561.30 4068.14 
+资产负债率(%) 57.84 87.32 66.57 
+预收账款(万元) 0.00 326.06 412.64 
+速动比率(倍) 1.92 0.67 0.85 
+现金流动负债比(%) 44.14 -8.51 27.30 
+数据来源：公司提供财务报表
+公司2015年末负债总额4068.14万元。从负
+债结构来看，由流动负债和非流动负债构成，
+其中流动负债主要由短期借款、应付账款、预
+收账款、应付职工薪酬、应交税费和其他应付
+款构成。其中应付账款占比最大，主要是对供
+应商应支付的款项。
+公司长期偿债能力一般，目前没有负债压
+力，有一定的融资空间。公司2013年至2015年
+的资产负债率分别是57.84%、87.32%和66.57%
+，三年数值呈波动态势，2015年数值较上一年
+度有所减小，且数值基本处于行业正常范围内
+，说明公司长期偿债压力不大，长期偿债能力
+尚可，有一定的融资空间。
+公司短期偿债压力一般，运用现金流来保
+障企业按期偿还到期债务的能力较强。从短
+期偿债能力指标中最重要的速动比率指标来看
+，2013年到2015年，公司速动比率分别1.92、0
+.67和0.85，三年数值呈波动态势，且2015年数
+值基本保持在行业正常水平，说明公司目前短
+期偿债压力尚可。结合现金流动负债比来看，
+数值较好，主要得益于经营情况良好。且公司
+尚有一定的筹资能力，用于短期债务的支付能
+力基本可以得到保障。
+2015年末，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司成立以来，业务规模不断扩大，对资
+金需求也在不断增加。截止2015年末，公司短
+期借款共计507.33万元，为中关村科技租赁（
+北京）有限公司的融资租赁贷款，利率为6.15
+%。
+公司有968.02万元的应付账款，主要是对
+供应商首都医科大学、SAI公司等单位应支付
+的货款。公司还有412.64万元的预收账款，主
+要是客户无锡华质铂马生物、上海华质生物技
+术等单位提前支付的合同款等。
+一般来说，一个企业如果完全通过权益资
+本筹集资金显然是不明智的，因为其筹集方式
+使之不能得到负债经营的好处。公司如果能够
+通过投资、外部借款、获得上下游企业账期等
+途径增加资金融通渠道，会进一步扩大经营规
+模，有利于公司的进一步发展。</enterprise:财务弹性>
+    <enterprise:盈利能力>图3：公司盈利能力指标图
+表2：公司盈利状况分析
+项　目 2013年 2014年 2015年
+主营业务收入(万元) 1985.34 1089.81 4212.92 
+主营业务利润(万元) 1366.34 1079.98 2072.58 
+营业利润(万元) 286.70 -232.06 1518.04 
+净利润(万元) 215.02 -232.14 1366.37 
+主营业务利润率(%) 68.82 99.10 49.20 
+净资产收益率(%) 11.91 -21.39 106.75 
+总资产报酬率(%) 11.97 -3.26 37.09 
+成本费用利润率(%) 16.88 -17.89 67.60 
+数据来源：公司提供财务报表
+随着公司业务的不断拓展，2015年营业收
+入呈大幅增长态势，2013年至2015年营业收入
+分别为1985.34万元、1089.81万元和4212.92
+万元，2015年较上一年度的增幅为286.57%，
+说明公司经营效果显著。
+2015年公司主营业务利润为2072.58万元
+，也较上一年度的1079.98万元有所增长。但
+公司主营业务利润率却由2014年的99.10%减小
+至2015年的49.20%，说明公司的主营业务成本
+在上升。 
+公司对成本费用的控制能力在增强。从公
+司的成本费用利润率来看，2015年成本费用利
+润率为67.60%，较2014年的-
+17.89%相比有所增加，说明公司在经营过程中
+关注了对各项费用的控制。
+公司运用全部资产的盈利能力在增强。从
+资产的综合利用效率指标分析，2015年的总资
+产报酬率为37.09%，数值较2014年的-
+3.26%相比有所增加，说明公司经营期间全部资
+产从投入到产出的流转速度加快，全部资产的
+管理质量和利用效率有所提高。
+综合分析，随着公司营业收入的增长，加
+之各项费用控制得当，整体盈利能力在增强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="毅新兴业（北京)科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司经营状况受行业政策和主要客户变动影响
+。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司预付账款占流动资产比重较大，资金流动
+性尚有进一步提升的空间。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="毅新兴业（北京)科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>39215153.15 </enterprise:资产总额>
+    <enterprise:所有者权益>16534734.02 </enterprise:所有者权益>
+    <enterprise:负债总额>22680419.13 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>19853356.82 </enterprise:营业收入>
+    <enterprise:EBITDA>892.86 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="毅新兴业（北京)科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>40784059.38 </enterprise:资产总额>
+    <enterprise:所有者权益>14828953.56 </enterprise:所有者权益>
+    <enterprise:负债总额>35613012.94 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>10898124.08 </enterprise:营业收入>
+    <enterprise:EBITDA>791.86 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="毅新兴业（北京)科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>61110760.87 </enterprise:资产总额>
+    <enterprise:所有者权益>20429358.98 </enterprise:所有者权益>
+    <enterprise:负债总额>40764269.50 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>42129213.90 </enterprise:营业收入>
+    <enterprise:EBITDA>3109.22 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="毅新兴业（北京)科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.44 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="毅新兴业（北京)科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.08 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.02 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="毅新兴业（北京)科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.63 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.01 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="毅新兴业（北京)科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>11.97 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>11.97 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>11.91 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="毅新兴业（北京)科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-3.26 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-3.26 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-21.39 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="毅新兴业（北京)科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>37.09 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>37.09 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>106.75 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="毅新兴业（北京)科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>231.95 </enterprise:流动比率>
+    <enterprise:速动比率>192.17 </enterprise:速动比率>
+    <enterprise:资产负债率>57.84 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>2.54 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="毅新兴业（北京)科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>84.75 </enterprise:流动比率>
+    <enterprise:速动比率>66.62 </enterprise:速动比率>
+    <enterprise:资产负债率>87.32 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>4.50 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="毅新兴业（北京)科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>99.76 </enterprise:流动比率>
+    <enterprise:速动比率>84.73 </enterprise:速动比率>
+    <enterprise:资产负债率>66.71 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.31 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="毅新兴业（北京)科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>69.18 </enterprise:毛利率>
+    <enterprise:成本费用利润率>174.26 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.06 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>44.14 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-31.71 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="毅新兴业（北京)科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>99.13 </enterprise:毛利率>
+    <enterprise:成本费用利润率>622.69 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>2.27 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-8.51 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-45.11 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-20.96 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="毅新兴业（北京)科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>49.27 </enterprise:毛利率>
+    <enterprise:成本费用利润率>100.56 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.23 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>27.22 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>286.57 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>91.91 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="毅新兴业（北京)科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>4218315.70 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4110604.90 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>10870750.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1324911.10 </enterprise:其他应收款>
+    <enterprise:存货>4248348.69 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>24772930.39 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>11520417.80 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>2921804.96 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14442222.76 </enterprise:非流动资产合计>
+    <enterprise:资产总计>39215153.15 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="毅新兴业（北京)科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1293778.56 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6372342.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>13877245.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2183741.00 </enterprise:其他应收款>
+    <enterprise:存货>6454828.73 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>30181935.29 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>9890402.41 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>711721.68 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>10602124.09 </enterprise:非流动资产合计>
+    <enterprise:资产总计>40784059.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="毅新兴业（北京)科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>644819.08 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4667986.30 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>11175073.48 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>7259725.91 </enterprise:其他应收款>
+    <enterprise:存货>4212372.85 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>27959977.62 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>6250000.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>15195462.65 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>11705320.60 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>33150783.25 </enterprise:非流动资产合计>
+    <enterprise:资产总计>61110760.87 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="毅新兴业（北京)科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>14319913.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>10626885.60 </enterprise:应付账款>
+    <enterprise:预收款项>3260610.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-558395.66 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7964000.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>35613012.94 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>35613012.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>4828953.56 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>14828953.56 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>14828953.56 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>50441966.50 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="毅新兴业（北京)科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>14319913.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>10626885.60 </enterprise:应付账款>
+    <enterprise:预收款项>3260610.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-558395.66 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7964000.00 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>35613012.94 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>35613012.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>4828953.56 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>14828953.56 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>14828953.56 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>50441966.50 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="毅新兴业（北京)科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>5073308.43 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>9680167.12 </enterprise:应付账款>
+    <enterprise:预收款项>4126431.73 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>4680119.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>4467242.47 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>28027269.50 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>12737000.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>40764269.50 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>10429358.98 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>20429358.98 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>20429358.98 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>61193628.48 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="毅新兴业（北京)科技有限公司2013年利润表">
+    <enterprise:营业收入>19853356.82 </enterprise:营业收入>
+    <enterprise:主营业务收入>19853356.82 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>6118367.28 </enterprise:营业成本>
+    <enterprise:主营业务成本>6118367.28 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>71613.29 </enterprise:营业税金及附加>
+    <enterprise:销售费用>101044.96 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>9747596.50 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>947781.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>12614550.17 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>12614550.17 </enterprise:利润总额>
+    <enterprise:所得税费用>716738.42 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>11897811.75 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>11897811.75 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="毅新兴业（北京)科技有限公司2014年利润表">
+    <enterprise:营业收入>10898124.08 </enterprise:营业收入>
+    <enterprise:主营业务收入>10898124.08 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>94955.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>94955.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3326.69 </enterprise:营业税金及附加>
+    <enterprise:销售费用>391958.57 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>11470760.69 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1017628.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>9390255.70 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>860.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>9389395.70 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>9389395.70 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>9389395.70 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="毅新兴业（北京)科技有限公司2015年利润表">
+    <enterprise:营业收入>42129213.90 </enterprise:营业收入>
+    <enterprise:主营业务收入>42129213.90 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>21372008.20 </enterprise:营业成本>
+    <enterprise:主营业务成本>21372008.20 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>31389.08 </enterprise:营业税金及附加>
+    <enterprise:销售费用>438233.31 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4428513.87 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>678683.63 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>19608899.68 </enterprise:营业利润>
+    <enterprise:营业外收入>1110533.50 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>-1927318.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>22646751.18 </enterprise:利润总额>
+    <enterprise:所得税费用>4554559.33 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>18092191.85 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>18092191.85 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年毅新兴业（北京)科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>21032449.55 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>21032449.55 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>4714704.62 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5688499.94 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>4400000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>3426204.68 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年毅新兴业（北京)科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>24709044.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>24709044.56 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-3030977.18 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0</enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3030977.18 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年毅新兴业（北京)科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>51861357.69 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>51861357.69 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>7628987.52 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-8277947.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-648959.48 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：马庆伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>马庆伟 </enterprise:股东名称>
+	 <enterprise:货币>630.00万元时间：2028-02-02</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>63.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：何永利 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>何永利 </enterprise:股东名称>
+	 <enterprise:货币>200.00万元时间：2028-02-02</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：董凯 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>董凯 </enterprise:股东名称>
+	 <enterprise:货币>50.00万元时间：2028-05-02</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：马代琼 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>马代琼 </enterprise:股东名称>
+	 <enterprise:货币>50.00万元时间：2028-05-06</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：蒋惠珍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>蒋惠珍 </enterprise:股东名称>
+	 <enterprise:货币>20.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="毅新兴业（北京)科技有限公司股东：朱海霞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱海霞 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="毅新兴业（北京)科技有限公司的员工基本信息">
+	<enterprise:有从业人数>130</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:97,25岁以下:28,45岁以上:5</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:110,高中及以下:0,专科:20</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:30,技术人员:40,作业人员:60</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:130人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="毅新兴业（北京)科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="毅新兴业（北京)科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>是</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>目前经营状况：   良好                  
+ (4)经营趋势分析
+项目 2014年 2015年 2016年
+签约量（可分类）
+履约量（实际完成 (含未确认收入部分)
+）
+在执行量
+收入
+利润
+四、企业信用状况
+1.税务信息
+（国税） 登记证号 110108672350935
+税务机关
+（地税） 纳税信用A级企业 ■是     □否
+欠税信息
+其他信息
+主要税种及税率
+上年度缴税额
+上年末应交额
+2.经营性负债偿付情况
+采购业务（接受劳务）
+供应商类型
+付款方式 交易地位
+议价能力 延期支付
+上年度发生额 上年度支付额
+上年度应付账款变动额 上年末应付账款余额
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 无
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+-
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额 5000 8000
+预测收入 4500 7500
+预测净利润 500 1000
+预测成本、费用支出 2500 4000
+经营性流入 12000 18000
+经营性流出 10000 15000
+经营性净流量 2000 3000
+筹资性流入 0 0
+筹资性流出 0 0
+筹资性净流量 0 0
+投资性流入 0 0
+投资性流出 0 0
+投资性净流量 0 0
+净现金流 2000 3000
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 毅新兴业（北京）科技有限公司 组织机构代码 67235093-5
+登记机关 北京市工商行政管理局海淀分局 登记注册号 110000010808287
+贷款卡编码 1101020002913966 税务登记证号码 110108672350935
+基本账户行 交通银行股份有限公司北京海淀支行 从业人数（人） 130
+注册登记日期 2008.02.13 注册资本（万元） 1000万
+营业执照到期日 2028.02.12 实收资本（万元） 1000万
+经营范围 技术开发、技术转让、技术服务、技术咨询；销售电子产品</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="毅新兴业（北京)科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="毅新兴业（北京)科技有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="毅新兴业（北京)科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>起步期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                                    
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="毅新兴业（北京)科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="毅新兴业（北京)科技有限公司的企业法人代表：马庆伟">
+	<enterprise:名称>马庆伟</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>36</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1977.09</enterprise:出生年月>
+	<enterprise:身份证号码>120106197709297036</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位>博士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>总经理</enterprise:现任职务>
+	<enterprise:联系电话>18001038515</enterprise:联系电话>
+	<enterprise:传真>010-82608397</enterprise:传真>
+	<enterprise:E-mail>Madq@bioyong.com</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2001.10-2002.12 香港天美科技公司 销售经理
+2000.09-2001.09 中国联星实业公司 项目经理</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="毅新兴业（北京)科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>育附加税：2.00%。</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>(万元)</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>19.04</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="毅新兴业（北京)科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>贸易供应商、外协加工单位</enterprise:有供应商类型>
+	<enterprise:有交易地位>一般</enterprise:有交易地位>
+	<enterprise:有议价能力>一般</enterprise:有议价能力>
+	<enterprise:有延期支付>付</enterprise:有延期支付>
+	<enterprise:有上年度发生额>--</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>--</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>72.71万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>318.29万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="毅新兴业（北京)科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无不良记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无不良记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="毅新兴业（北京)科技有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="毅新兴业（北京)科技有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="毅新兴业（北京)科技有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4500</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>500</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2500</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>12000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：筹资性流入">
+	<enterprise:预测项目名称>筹资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：投资性流入">
+	<enterprise:预测项目名称>投资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2016年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>7500</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>18000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>15000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：筹资性流入">
+	<enterprise:预测项目名称>筹资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：投资性流入">
+	<enterprise:预测项目名称>投资性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>0</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="毅新兴业（北京)科技有限公司2017年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="毅新兴业（北京)科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="毅新兴业（北京)科技有限公司的专利数量">
+
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+
+<enterprise:专利数量 rdf:ID="毅新兴业（北京)科技有限公司的专利数量">
+	<enterprise:专利总计>5</enterprise:专利总计>
+	<enterprise:专利数量2013>4</enterprise:专利数量2013>
+	<enterprise:专利数量2014>1</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+</rdf:RDF>

@@ -1,0 +1,1265 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京金至科技股份有限公司的企业概况">
+    <enterprise:有名称>北京金至科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>-</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1998年12月8日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>计算机软硬件的技术开发、技术咨询、技术服务、技术推广、技术转让；软件服务；数据处理（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；计算机系统服务；计算机技术培训（不得面向全国招生）；销售自行开发后的产品、五金交电、计算机、软件及辅助设备、电子元器件、机械设备；租赁计算机；货物进出口、技术进出口、代理进出口。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动）计算机软硬件的技术开发、技术咨询、技术服务、技术推广、技术转让；软件服务；数据处理（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；计算机系统服务；计算机技术培训（不得面向全国招生）；销售自行开发后的产品、五金交电、计算机、软件及辅助设备、电子元器件、机械设备；租赁计算机；货物进出口、技术进出口、代理进出口。（依法须经...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>计算机软硬件的技术开发、技术咨询、技术服务</enterprise:有主营业务>
+    <enterprise:有行业分类>信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区农大南路1号院2号楼B708室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区农大南路1号院2号楼B708室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>联系人</enterprise:有邮政编码>
+    <enterprise:有联系人>张欢</enterprise:有联系人>
+    <enterprise:有联系电话>18500041200</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82561500</enterprise:有传真电话>
+    <enterprise:有E-mail>zhanghuan@gttss.com</enterprise:有E-mail>
+    <enterprise:有网址>表2截至2016年6月公司股东构成</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京金至科技股份有限公司（以下简称“
+金至科技”或“公司”）成立于1998年12月8日
+，初始注册资本50万元，由自然人魏战良和徐
+萍萍共同出资成立，后经多次增资及股权变更
+，最新注册资本2000万元，实际控制人魏战良1
+1公司参股股东北京天恒至信投资有限公司（
+以下简称“天恒至信”）成立于2011年11月9
+日，魏战良持天恒至信90.08%的股份。魏战
+良先生通过持有公司79.20%股份，并通过天
+，持股比例97.94%。公司于2016年4月22日在新
+三板挂牌上市，代码为836882。公司注册地址
+为北京市海淀区农大南路1号院2号楼B708室，
+法定代表人魏战良。
+表1：公司最新股权结构
+股东名称 持股数量 持股比例（%）
+（万股）
+魏战良 1584 79.20
+天恒至信 416 20.8
+合计 2000 100
+资料来源：公司提供，东方金诚整理
+公司为IT基础设施服务整体解决方案提供
+商，主要业务包括运维服务和为IT基础设施提
+供产品，包括软硬件产品销售、系统集成以及
+相关技术支持与维护服务。公司在广州和上海
+分别设有一家分公司。
+业务资质方面，公司拥有信息技术服务管
+理体系认证证书、信息安全管理体系认证证书
+、H3C渠道认证授权书、质量管理体系认证证书
+、报关单位注册登记证书、高新技术企业证书
+、中关村高新技术企业证书。
+截至2015年底，公司资产总额3922.38万元
+，负债总额1404.82万元，资产负债率35.82%。
+当年公司实现营业收入4454.99万元，利润总额
+571.27万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京金至科技股份有限公司的基础素质">
+    <enterprise:有管理素质>公司现有核心管理人员3人，日常管理主要
+由公司法人魏战良负责，三位核心管理人员均
+拥有一定的管理经验。
+董事长兼总经理魏战良，45岁，研究生学
+历。1997年至1998年11月，就职于香港自动系
+统科技公司，任销售经理；1998年12月至2015
+年10月，就职于北京金至泰克科技有限公司，
+任执行董事兼总经理；2015年11月至今，就职
+于股份公司，任董事长兼总经理。
+董事会秘书兼总经理助理张欢，35岁，本
+科学历。2004年6月，毕业于辽宁师范大学；20
+04年9月至2005年2月，任大连一灯礼仪广告有
+限公司策划文案；2005年3月至2006年3月，任
+大连交通国际旅行社导游；2006年4月至2006年
+12月，任大连半岛晨报经理；2007年1月至今，
+任公司总经理助理。
+财务总监李艳丽，44岁，本科学历。2005
+年8月至2008年9月，任加拿大海外集团公司财
+务总监；2008年10月至2010年2月，任立信会计
+师事务所（特殊普通合伙）审计高级经理；201
+0年3月至2014年7月，任北京永拓会计师事务所
+（特殊普通合伙）总审核；2014年8月至2015年
+4月，任北京新恒兆丰投资公司审计总监；2015
+年5月至今，任公司财务总监。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司设有软件部和技术部负责技术研发。
+现有核心技术研发人员2人，公司通过天恒至信
+对核心技术研发人员予以股权激励，核心研发
+人员的稳定性较高。
+白玉强，38岁，大专学历，毕业于西安航
+空联合职工大学。1999年10月至2000年6月，任
+北京东方基业科技发展有限公司维护工程师；2
+000年7月至2007年4月，任北京华胜天成科技股
+份有限公司高级工程师；2007年5月至2011年4
+月，任现代设备有限公司售后技术支持主管；2
+011年5月至今任公司技术总监。
+张志远，33岁，毕业于东北大学，本科学
+历。2004年7月至2005年6月，任北京亿诺通数
+据通信科技有限公司技术支持工程师；2005年7
+月至2007年6月，任北京融网科技有限公司Sun
+售后工程师；2007年7月至今任公司售后工程师
+。
+总体看，公司重视技术研发，核心研发人
+员的稳定性较高，为公司研发工作的开展提供
+了保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>-</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>177.52万元,278.31万元,276.26万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京金至科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司是国内IT基础设施服务整体解决方案
+的提供商，主要业务集中于运维服务
+公司是国内IT基础设施服务整体解决方案
+的提供商，主营业务是致力于运维服务和为IT
+基础设施（数据库、服务器、存储设备及网络
+设备等）提供产品，包括软硬件产品销售、系
+统集成以及相关技术支持与维护服务三大业务
+。
+软硬件产品销售方面，公司主要销售代理
+以下软硬件产品：ORACLESUN全系列服务器/存
+储/备份产品；IBMP系列服务器/存储/备份产品
+，IBM软件系统；HP企业级服务器/存储/备份产
+品，HPOpenVeiw软件系统；联想服务器/存储全
+系列；曙光服务器/存储全系列；浪潮服务器/
+存储全系列；NetScreen防火墙产品/RadWare网
+络负载均衡业务；ORACLE/DB2/SYBASE数据库系
+统；VeriTas/Legato/ROSE双机/群集高可用性
+系列产品。
+系统集成业务方面，公司系统集成业务包
+括网络及安全系统、主机及存储系统等方面的
+设计和实施等，以及以数据集中、应用集成为
+特点的信息资源整合服务。
+运维服务方面，公司技术支持与维护服务
+的内容涉及大型主机及外设、中小型机、服务
+器、存储设备、网络设备、数据库、中间件和
+应用软件等方面，为客户提供包括网络维护、
+系统平台维护、应用软件维护、数据维护管理
+、技术咨询等方面的全面技术服务。具体可包
+括：硬件支持和服务、系统软件支持和服务、
+设备搬迁、应用数据迁移和系统设计和咨询等
+服务。
+公司通过直销方式开拓业务，收入来源于
+产品销售、服务收费。2015年前在收入来源方
+面发生了较大的变化，2015之前公司业务收入
+主要包括系统集成业务收入、软件产品销售业
+务收入、硬件产品销售收入和运维服务收入；
+从2015年起，公司业务收入主要为硬件产品销
+售收入和运维服务收入，并且业务主要集中于
+运维服务。
+图2：公司近三年主营业务收入（万元
+）
+数据来源：公司提供，东方金诚整理
+公司销售模式为终端直销，在北方城市中
+有一定知名度，但整体规模较小，在全国行业
+内的竞争能力不强
+销售模式方面，公司销售采取“终端直销
+”的方式，通过销售团队，对行业、行业协会
+及最终客户在IT服务上的需求进行了解和梳理
+，在业务覆盖区域直接为客户提供销售服务，
+主要采取的直销方式为公开招标、市场开发和
+参加展会等，为大中型企业提供IT基础设施的
+产品或服务。
+公司主要客户包括国际商业机器(中国）有
+限公司、壳牌统一（北京）石油化工有限公司
+、广东铭鸿数据处理有限公司、中铁信弘兴（
+北京）信息工程有限责任公司、广州市地下铁
+道总公司等。单笔金额200万元以下的合同数量
+较多，公司单项金额200万元以上的销售合同为
+重大业务合同。
+从市场竞争方面看，公司当前业务市场竞
+争较为充分，市场集中度低，尚未形成全行业
+的龙头企业。主要竞争对手包括神州数码控股
+有限公司、北京华胜天成科技股份有限公司（6
+00410）、上海天玑科技股份有限公司（300245
+）、北京银信长远科技股份有限公司(300231)
+、安图特北京科技有限公司等企业。公司主要
+竞争区域集中在北方城市，竞争对手的整体实
+力、生产销售规模、研发技术水平参差不齐，
+公司凭借多年行业经营经验和资源优势，在北
+方城市中有一定知名度。但与以上竞争对手相
+比，公司规模较小，在全国行业内的竞争能力
+不强。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司部门设置较齐全，职能较健全，能够
+满足目前公司日常运营
+公司设股东大会，由2名股东组成，股东大
+会根据《公司法》和《公司章程》的规定，履
+行了相应的职责，关于章程的制定、修改、董
+事和监事选举、公司主要制度的制订、申请进
+入全国中小企业股份转让系统挂牌、申请挂牌
+后采取协议方式转让等重大事项进行了审议并
+作出了有效决议。公司设董事会，董事会由5名
+董事组成，设董事长1名。设监事会，由3名监
+事构成，其中2名为股东大会选举的股东代表监
+事，1名为职工代表大会选举的职工监事。
+在部门设置方面，公司设立了人事部、销
+售部、技术部、软件部、采购部、财务部、法
+务部、客服部。公司部门设置较为齐全，职能
+较为健全，能够满足目前公司日常运营需要。
+公司建立了股东大会、董事会、监事会和
+管理层的“三会一层”的法人治理结构，并制
+定了“三会”议事规则、《董事会秘书工作制
+度》以及《总经理工作制度》对“三会一层”
+的决策、执行、监督活动予以规范，形成科学
+有效的职责分工和制衡机制。
+综上，公司组织结构较健全，部门设置合
+理，现有规章制度执行到位，保障公司稳定运
+营。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>我国国内IT服务市场目前仍处于较低的水
+平，未来几年将继续处在高速成长的阶段
+云计算、物联网、移动互联网等新技术驱
+动与“十三五”、战略性新兴产业政策为IT服
+务业未来发展创造良好条件。我国国内IT服务
+市场目前仍处于较低的水平，未来几年将继续
+处在高速成长的阶段。
+首先，金融等重点行业及跨国服务投资将
+高速发展。未来IT软硬件系统的投资增长，将
+持续带动咨询、系统集成及支持服务等IT服务
+市场的需求快速成长。行业用户需求在未来会
+有多方面的突出表现，如股市的火爆极大推动
+证券业IT系统投资，在咨询、集成和外包方面
+，预计证券业的IT服务需求在未来会有较大释
+放。跨国IT服务商及投资资本，对中国IT服务
+业的新进投资会继续扩大。尤其在外包领域，
+中国品牌在日韩外包市场的影响力逐步增强。
+其次，市场仍较分散，部分领域竞争压力加大
+有望首先出现整合。未来支持服务随软硬件产
+品的消费品化趋势，增长更多来自个人和家庭
+用户，企业用户逐渐将传统支持服务购买转向
+外包方式获取。系统集成市场走向成熟，集成
+服务商竞争压力加大。市场将出现分化，一部
+分服务商通过业务拓展进入其他服务领域，另
+一部分通过并购逐渐在这个市场中加大份额。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京金至科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-
+2015年公司总资产分别为3121.38万元、3698.2
+4万元、3922.38万元，增长幅度近两年分别为1
+8.48%、6.06%，呈增长趋势。
+图3：公司近三年资产构成（万元）
+数据来源：公司提供，东方金诚整理
+从资产结构的变化看，2013-
+2015年公司流动资产分别为3070.47万元、3664
+.63万元、3804.31万元，增长幅度近两年分别
+为19.35%、3.81%；非流动资产分别为50.91万
+元、33.61万元、118.07万元。截至2015年底，
+公司流动资产为3804.31万元，非流动资产为11
+8.07万元，分别占资产总额的96.99%和3.01%，
+流动资产占有较高比重。
+图4：公司近三年流动资产构成（万元
+）
+数据来源：公司提供，东方金诚整理
+图5：公司最近一年流动资产构成
+数据来源：公司提供，东方金诚整理
+2015年末，公司货币资金、短期投资、应
+收账款、其他应收款、预付账款、存货分别占
+流动资产的22.73%、25.81%、45.19%、4.50%、
+0.47%、1.24%，其中应收账款和短期投资占有
+较高比重。
+至2015年末，公司应收账款净额1719.07万
+元，账龄一年以内的占比99.92%，应收账款账
+龄较短。从应收对象来看，应收国际商业机器
+（中国）有限公司1131.83万元，东软集团股份
+有限公司113.79万元，广州市地下铁道总公司8
+6.55万元，公司与以上客户合作时间较长，合
+作关系较为稳定。且从历史回款情况看，销售
+回款较好，预计坏账风险较低。
+截至2015年末，公司短期投资982万元，主
+要为公司购买的理财产品。同期，公司其他应
+收账款171.05万元，其中应收张伟杰诈骗款119
+.57万元，该款项现已收回。
+表4：公司近两年资产运营状况
+2015年
+项  目 2014年 2015年
+行业均值
+应收账款周转率 4.46 2.87 5.80
+存货周转率 13.12 24.69 14.50
+流动资产周转率 1.35 1.19 2.50
+总资产周转率 1.33 1.17 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，除存货周转率外，2015
+年公司其他运营效率指标均有所下降。由于公
+司应收账款规模较高，其回款较大程度影响公
+司的资产运营效率。公司存货周转率水平较高
+，原因为公司的存货一般按销售订单采购，采
+取现销现采模式，期末库存存货结余较少，从
+而导致存货周转率保持在较高水平。综合来看
+，公司资产质量尚可，但应收账款规模较高，
+对流动资产形成一定占压，整体运营效率一般
+。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年公司总负债分别为1405.34万元、1680.4
+2万元、1404.82万元，负债水平相对稳定。
+表7：公司近三年负债结构
+2015
+年
+项  目 2013年 2014年 2015年
+行业
+均值
+资产负债率（%
+45.02 45.44 35.82 65.00
+）
+全部资本化比率
+13.16 3.77 0.00 0
+（%）
+总负债（万元 1405.3
+1680.42 1404.82 -
+） 4
+短期借款（万
+260.00 79.00 0.00 -
+元）
+长期借款（万
+0.00 0.00 0.00 -
+元）
+数据来源：公司提供，东方金诚整理
+从负债结构看，截至2015年末，公司负债
+总额1404.82万元，全部为流动负债；流动负债
+中，应付账款和预收账款分别占比73.39%、12.
+80%，应付账款占比较高。截至2015年末，公司
+应付账款1031.05万元，主要为应付供应商的货
+款。
+截至2015年末，公司无长短期有息债务。
+2013-
+2015年末，公司流动比率分别为2.18、2.18、2
+.71，速动比率分别为1.95、2.07、2.67，公司
+最新年度的速动比率处于行业一般水平。同期
+，公司经营现金净流量与流动负债的比例分别
+为-
+35.03%、1.74%、104.65%，经营性净现金流对
+流动负债的覆盖程度较高。公司目前尚无短期
+有息债务，账面货币类资产相对充裕，短期偿
+债能力尚可。
+表8：公司近三年主要偿债指标
+2015
+年
+项  目 2013年 2014年 2015年
+行业
+均值
+流动比率 2.18 2.18 2.71 -
+速动比率 1.95 2.07 2.67 87.50
+经营活动产生
+的现金净流量/ -35.03 1.74 104.65 -
+流动负债（%）
+利息保障倍数 51.91 30.43 28.56 -
+EBITDA利息倍数 51.91 30.43 28.56 -
+总债务/EBITDA 1.12 0.21 0.00 -
+经营活动产生
+-
+的现金净流量/ 37.11 0.00 -
+189.37
+总债务（%）
+经营活动产生
+的现金净流量/ -35.03 1.74 104.65 -
+总负债（%）
+数据来源：公司提供，东方金诚整理
+近三年公司资产负债率分别为45.02%、45.
+44%、35.82%，负债水平一般。同期公司利息保
+障倍数分别为51.91、30.43、28.56，对利息偿</enterprise:偿债能力>
+    <enterprise:财务弹性>1、近年国家出台了针对中小企业融资的扶
+持政策，同时中关村科技园区对区内企业的融
+资也出台了相应的管理办法，为公司获得外部
+融资提供了有利条件。
+2、股东资金注入，近两年公司连续两次增
+资，股东可为公司提供较大的资金支持。
+3.公司已完成新三板挂牌上市，未来资金
+渠道将进一步拓宽。</enterprise:财务弹性>
+    <enterprise:盈利能力>表5：公司盈利能力主要指标（一）
+项  目 2013年 2014年 2015年
+营业收入（万元） 2466.48 4550.66 4454.99
+营业成本（万元） 1714.48 3357.71 2848.88
+利润总额（万元） 227.55 358.16 571.27
+净利润（万元） 215.33 301.80 499.72
+数据来源：公司提供，东方金诚整理
+2013-
+2015年公司营业收入分别为2466.48万元、4550
+.66万元、4454.99万元，近两年公司营业收入
+规模相对稳定，但收入结构发生较大变化。201
+5年公司进行了业务调整，未再开展系统集成服
+务。2013年度、2014年度的系统集成服务收入
+分别为963.70万元、878.12万元，2014年度的
+系统集成服务收入较2013年度有所下降，主要
+是受业务调整的影响，公司未再开发新的系统
+集成服务项目，仅维持了原有业务。目前公司
+核心收入来源为运维服务，2013-
+2015年年，公司运维收入占总收入的比重分别
+为22.43%、28.57%、74.44%，收入呈增长趋势
+且占比较大。
+公司业务结构的调整引起盈利水平的变化
+，近三年公司毛利率分别为30.49%、26.21%、3
+6.05%，营业利润率分别为9.22%、7.70%、12.8
+6%。
+从期间费用角度看，近三年公司期间费用
+率分别为24.64%、17.74%、25.35%，2015年在
+营业收入未增加的情况下，公司销售费用和管
+理费用均呈增长态势，期间费用控制水平有待
+进一步提升。
+从资产获利角度看，近两年公司总资产报
+酬率分别为10.86%、15.54%，净资产收益率分
+别为16.17%、22.04%，公司资产获利能力较强
+，且呈增长趋势。
+表6：公司盈利能力主要指标（二）
+2013 2014 2015 2015年
+项  目
+年 年 年 行业均值
+毛利率（%） 30.49 26.21 36.05 -
+营业利润率（%
+9.22 7.70 12.86 15.50
+）
+净资产收益率（%
+12.55 16.17 22.04 5.00
+）
+总资产报酬率（%
+7.43 10.86 15.54 3.50
+）
+数据来源：公司提供，东方金诚整理
+综上，近年公司收入规模整体呈增长态势
+，但收入结构发生较大变化，毛利水平相对较
+高的运维服务收入已成为公司主要收入来源，
+整体盈利能力尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京金至科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>-。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>-</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>-</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>-</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京金至科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>3121.38 </enterprise:资产总额>
+    <enterprise:所有者权益>1716.04 </enterprise:所有者权益>
+    <enterprise:负债总额>1405.34 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2466.48 </enterprise:营业收入>
+    <enterprise:EBITDA>232.02 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金至科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>3698.24 </enterprise:资产总额>
+    <enterprise:所有者权益>2017.83 </enterprise:所有者权益>
+    <enterprise:负债总额>1680.42 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4550.66 </enterprise:营业收入>
+    <enterprise:EBITDA>370.33 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京金至科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>3922.38 </enterprise:资产总额>
+    <enterprise:所有者权益>2517.56 </enterprise:所有者权益>
+    <enterprise:负债总额>1404.82 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4454.99 </enterprise:营业收入>
+    <enterprise:EBITDA>592.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京金至科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.33 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.46 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>13.12 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金至科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.17 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>24.69 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京金至科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.20 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>14.50 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金至科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>11.74 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>7.43 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>37.72 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金至科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>17.66 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.86 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>41.90 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京金至科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>23.51 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>15.54 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>44.02 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金至科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>218.49 </enterprise:流动比率>
+    <enterprise:速动比率>195.14 </enterprise:速动比率>
+    <enterprise:资产负债率>45.02 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>51.91 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金至科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>218.08 </enterprise:流动比率>
+    <enterprise:速动比率>207.15 </enterprise:速动比率>
+    <enterprise:资产负债率>45.44 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>30.43 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京金至科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>270.80 </enterprise:流动比率>
+    <enterprise:速动比率>267.44 </enterprise:速动比率>
+    <enterprise:资产负债率>35.82 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>28.56 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京金至科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>1.35 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.49 </enterprise:毛利率>
+    <enterprise:成本费用利润率>34.75 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.23 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-35.03 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>13.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金至科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.19 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>26.21 </enterprise:毛利率>
+    <enterprise:成本费用利润率>24.75 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.95 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>1.74 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>3.77 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京金至科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>2.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>36.05 </enterprise:毛利率>
+    <enterprise:成本费用利润率>35.43 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.02 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>104.65 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京金至科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>402.97 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>653.91 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>93.29 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1342.19 </enterprise:其他应收款>
+    <enterprise:存货>328.11 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>250.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3070.47 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>32.15 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>18.76 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>50.91 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3121.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金至科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>503.61 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1386.20 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>9.38 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1571.02 </enterprise:其他应收款>
+    <enterprise:存货>183.56 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>10.86 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3664.63 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>22.38 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>11.23 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>33.61 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3698.24 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京金至科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>864.84 </enterprise:货币资金>
+    <enterprise:交易性金融资产>982.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1719.07 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>17.80 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>171.05 </enterprise:其他应收款>
+    <enterprise:存货>47.21 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>2.34 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3804.31 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>109.85 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>8.08 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.14 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>118.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3922.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金至科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>79.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1062.99 </enterprise:应付账款>
+    <enterprise:预收款项>218.94 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>27.94 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>74.31 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>217.24 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1680.42 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1680.42 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1.74 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>516.09 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2017.83 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2017.83 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3698.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金至科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>79.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1062.99 </enterprise:应付账款>
+    <enterprise:预收款项>218.94 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>27.94 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>74.31 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>217.24 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1680.42 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1680.42 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1.74 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>516.09 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2017.83 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2017.83 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3698.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京金至科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1031.05 </enterprise:应付账款>
+    <enterprise:预收款项>179.82 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>44.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>98.17 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>51.44 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1404.82 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1404.82 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>210.64 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>30.69 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>276.23 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2517.56 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2517.56 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3922.38 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京金至科技股份有限公司2013年利润表">
+    <enterprise:营业收入>2466.48 </enterprise:营业收入>
+    <enterprise:主营业务收入>2466.48 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1714.48 </enterprise:营业成本>
+    <enterprise:主营业务成本>1714.48 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>7.31 </enterprise:营业税金及附加>
+    <enterprise:销售费用>171.27 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>431.92 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4.47 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-87.45 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>2.81 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>659.21 </enterprise:营业利润>
+    <enterprise:营业外收入>0.26 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>659.47 </enterprise:利润总额>
+    <enterprise:所得税费用>12.22 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>647.25 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>647.25 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京金至科技股份有限公司2014年利润表">
+    <enterprise:营业收入>4550.66 </enterprise:营业收入>
+    <enterprise:主营业务收入>4550.66 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3357.71 </enterprise:营业成本>
+    <enterprise:主营业务成本>3357.71 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>22.72 </enterprise:营业税金及附加>
+    <enterprise:销售费用>251.25 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>543.64 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>12.17 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>26.71 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>13.83 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>893.93 </enterprise:营业利润>
+    <enterprise:营业外收入>7.87 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>901.80 </enterprise:利润总额>
+    <enterprise:所得税费用>56.36 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>845.44 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>845.44 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京金至科技股份有限公司2015年利润表">
+    <enterprise:营业收入>4454.99 </enterprise:营业收入>
+    <enterprise:主营业务收入>4454.99 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2848.88 </enterprise:营业成本>
+    <enterprise:主营业务成本>2848.88 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>24.31 </enterprise:营业税金及附加>
+    <enterprise:销售费用>436.24 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>672.58 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>20.73 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-73.96 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>14.86 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>32.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1181.65 </enterprise:营业利润>
+    <enterprise:营业外收入>6.55 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>8.35 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1179.85 </enterprise:利润总额>
+    <enterprise:所得税费用>71.55 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1108.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1108.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京金至科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3044.79 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>143.85 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3188.64 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2558.78  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>256.75 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>52.60 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>812.86 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3680.99 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-492.35 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>5.84 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>4000.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>4005.84 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>4250.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4250.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-244.16 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>260.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>260.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>7.44 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>7.44 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>252.56 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-483.95 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京金至科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4301.69 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>257.75 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4559.44 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2839.77  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>149.23 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>260.63 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1280.49 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4530.12 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>29.32 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>13.84 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>1505.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1518.84 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1.29 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1255.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1256.29 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>262.55 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>79.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>79.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>260.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>10.22 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>270.22 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-191.22 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>100.65 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京金至科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4560.50 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2089.31 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6649.81 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2847.25  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>701.01 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>293.87 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1337.57 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>5179.70 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1470.11 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>14.73 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>11.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>1720.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1745.73 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>83.06 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>2670.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2753.06 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1007.33 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>604.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>604.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>683.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>22.54 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>705.54 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-101.54 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>361.24 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京金至科技股份有限公司股东：魏战良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>魏战良 </enterprise:股东名称>
+	 <enterprise:货币>1,584.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>79.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京金至科技股份有限公司股东：北京天恒至信投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京天恒至信投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>416.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>18606316</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：金至科技 GOLDTECHSOFT">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>金至科技 GOLDTECHSOFT</enterprise:有商标名称>
+	<enterprise:有注册号>18606364</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>18606479</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：金至科技 GOLDTECHSOFT">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>金至科技 GOLDTECHSOFT</enterprise:有商标名称>
+	<enterprise:有注册号>18606232</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：金至科技 GOLDTECHSOFT">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>金至科技 GOLDTECHSOFT</enterprise:有商标名称>
+	<enterprise:有注册号>18606455</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京金至科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-12-15</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>18606228</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京金至科技股份有限公司的专利信息：硬币充值机">
+	<enterprise:有申请公布日>10-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>硬币充值机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920106769.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201378338Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京金至科技股份有限公司的软件著作：辐射安全监控系统">
+	<enterprise:有批准日期>17-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>辐射安全监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR125123</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金至科技股份有限公司的软件著作：顾客喜好系统">
+	<enterprise:有批准日期>17-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>顾客喜好系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR238977</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金至科技股份有限公司的软件著作：至优系统监控管理平台软件">
+	<enterprise:有批准日期>16-11-11</enterprise:有批准日期>
+	<enterprise:有软件全称>至优系统监控管理平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>U-Site</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR326732</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金至科技股份有限公司的软件著作：零售业大数据推广系统">
+	<enterprise:有批准日期>17-7-4</enterprise:有批准日期>
+	<enterprise:有软件全称>零售业大数据推广系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR341068</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京金至科技股份有限公司的软件著作：贵重资产监控管理系统">
+	<enterprise:有批准日期>17-4-17</enterprise:有批准日期>
+	<enterprise:有软件全称>贵重资产监控管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR119912</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京金至科技股份有限公司的网站备案：金至科技">
+	<enterprise:有审核时间>17-12-1</enterprise:有审核时间>
+	<enterprise:有网站全称>金至科技</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gttss.com</enterprise:有网站首页>
+	<enterprise:有域名>gttss.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09078606号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金至科技股份有限公司的网站备案：金至云配件平台">
+	<enterprise:有审核时间>17-12-1</enterprise:有审核时间>
+	<enterprise:有网站全称>金至云配件平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pths.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>pths.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09078606号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金至科技股份有限公司的网站备案：金至科技云平台">
+	<enterprise:有审核时间>17-12-1</enterprise:有审核时间>
+	<enterprise:有网站全称>金至科技云平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gttsscloud.com</enterprise:有网站首页>
+	<enterprise:有域名>gttsscloud.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09078606号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京金至科技股份有限公司的网站备案：移动测试">
+	<enterprise:有审核时间>17-12-1</enterprise:有审核时间>
+	<enterprise:有网站全称>移动测试</enterprise:有网站全称>
+	<enterprise:有网站首页>www.mforjtest.com</enterprise:有网站首页>
+	<enterprise:有域名>mforjtest.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09078606号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京金至科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数>51</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:38,25岁以下:4,45岁以上:9</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:37,高中及以下:0,专科:14</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:3,技术人员:30,作业人员:18</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:51人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京金至科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京金至科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京金至科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京金至科技股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京金至科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京金至科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京金至科技股份有限公司的企业法人代表：魏战良">
+	<enterprise:名称>魏战良</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>45</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1971</enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京金至科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京金至科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京金至科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京金至科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金至科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京金至科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京金至科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京金至科技股份有限公司的专利数量">
+	<enterprise:专利总计>0</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京金至科技股份有限公司的商标数量">
+	<enterprise:商标总计>6</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>6</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京金至科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

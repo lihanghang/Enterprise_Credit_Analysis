@@ -1,0 +1,1967 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="中持水务股份有限公司的企业概况">
+    <enterprise:有名称>中持水务股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020004916553</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行学院路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>106</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2009-12-31</enterprise:有注册登记日期>
+    <enterprise:有注册资本>7682.85</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>7682.85</enterprise:有股本>
+    <enterprise:有经营范围>研究、开发污水处理及污泥处置相关技术；环保设施运营管理；环保工程承包；提供环保技术咨询、技术服务、技术开发、技术支持；销售自行研发产品、环保设备、仪器成套；货物进出口、技术进出口、代理进出口。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）研究、开发污水处理及污泥处置相关技术；环保设施运营管理；环保工程承包；提供环保技术咨询、技术服务、技术开发、技术支持；销售自行研发产品、环保设备、仪器成套；货物进出口、技术进出口、代理进出口。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>污水处理运营、污水处理</enterprise:有主营业务>
+    <enterprise:有行业分类>水的生产和供应业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区西小口路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区西小口路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100192</enterprise:有邮政编码>
+    <enterprise:有联系人>姜亚林</enterprise:有联系人>
+    <enterprise:有联系电话>010-82800999</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82800399</enterprise:有传真电话>
+    <enterprise:有E-mail>jiangyalin@zchb.net</enterprise:有E-mail>
+    <enterprise:有网址>www.zchb-water.net/</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>中持水务股份有限公司（以下简称“公司”）
+原名为中持（北京）水务运营有限公司，于 2009
+年 12月 31日在北京市工商行政管理局注册成
+立，初始注册资本 1000.00 万元，由法人中持
+（北京）环保发展有限公司、自然人许国栋共
+同出资组建，为内资有限责任公司。公司后经
+多次增资及股权变更，于 2011年 4月 2日变更
+为中外合资企业，于 2014年 6月完成股份制改
+造。截至评级时点，公司注册资本为 7682.85
+万元，全部为货币出资，股东出资及持股情况
+分别为：中持（北京）环保发展有限公司（以
+下简称“中持环保”）出资 2413.83万元，持股
+31.42%；启明创富投资有限公司出资 900.00万
+元，持股 11.71%；苏州纪源科星股权投资合伙
+企业（有限合伙）出资 711.375 万元，持股
+9.26%；SCC Venture 2010 (HK) Limited出资
+600.00 万元，持股 7.81%；上海联新二期股权
+投资中心（有限合伙）出资 471.38万元，持股
+6.14%；自然人许国栋出资 450.00 万元，持股
+5.86%；苏州启明创智股权投资合伙企业（有
+限合伙）出资 304.88万元，持股 3.97%；北极
+光早期创业投资企业出资 277.61 万元，持股
+3.61%；启明亚洲投资有限公司出资 216.88 万
+元，持股 2.82%；北极光创业投资企业出资
+208.21 万元，持股 2.71%；自然人邵凯出资
+180.00 万元，持股 2.34%；越超有限公司出资
+164.83 万元，持股 2.15%；自然人张翼飞出资
+135.00 万元，持股 1.76%；自然人陈德清出资
+120.00 万元，持股 1.56%；自然人李彩斌出资
+112.50 万元，持股 1.46%；上海联新行毅创业
+投资中心（有限合伙）出资 92.03 万元，持股
+1.20%；自然人李根柱出资 90.00 万元，持股
+1.17%；自然人朱向东出资 67.50 万元，持股
+0.88%；自然人孙召强出资 45.00 万元，持股
+0.59%；自然人王志立出资 45.00 万元，持股
+0.59%；自然人王洪臣出资 35.57 万元，持股
+0.46%；自然人王凯军出资 35.57 万元，持股
+0.46%；上海联元股权投资管理中心（有限合
+伙）出资 5.69万元，持股 0.07%。 
+公司经营范围：“研究、开发污水处理及
+污泥处置相关技术；环保设施运营管理；环保
+工程承包；提供环保技术咨询、技术服务、技
+术开发、技术支持；销售自行研发产品、环保
+设备、仪器成套；货物进出口、技术进出口、
+代理进出口”。目前，公司主营业务为污水处
+理运营、污水处理 EPC及技术产品销售、污泥
+处理 EPC及技术产品销售和其他综合服务。 
+截至 2016 年 6 月底，公司资产总额
+59105.81万元，固定资产净额 101.12万元，所
+有者权益 39531.25万元；2015年，公司实现营
+业收入 17685.32万元，利润总额 4708.41万元；
+2016年 1~6月，公司实现营业收入 9050.76万
+元，利润总额 4735.09万元；公司现有员工 106
+人，在北京市属于中型企业。 
+公司注册地址：北京市海淀区西小口路 66
+号 D区 2号楼四层 402室；经营地址：北京市
+海淀区西小口路 66 号中关村东升科技园北领
+地 D-2号楼四层；法定代表人：许国栋；组织
+机构代码： 69961655-3；贷款卡编码：
+1101020004916553；经营期限：自 2011 年 4
+月 2日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="中持水务股份有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长许国栋，51岁，
+硕士研究生学历，高级工程师，曾担任北京建
+筑工程学院讲师、北京市华晖环境保护公司总
+经理、北京建工金源环保发展有限公司总经理，
+2008年 1月至今担任中持（北京）环保发展有
+限公司董事长，2009 年 12 月至今任公司董事
+长。许国栋曾在多家媒体上发表《BOT：为污
+染治理加速》、《纵论今年市场走势》、《环保治
+污谁买单》、《分忧中求发展》、《市场化是必由
+之路》等文章，曾在 2012年和 2013年分别获
+“中关村高端领军人才”、“海英人才”称号，
+2012年 8月至今担任全联环境服务业商会第三
+届理事会监事长。 
+公司总经理邵凯，53岁，本科学历，曾担
+任北京晓清环保技术设计院院长、北京美华博
+大环境工程有限公司执行总经理、北京建工金
+源环保发展有限公司副总工程师、中持（北京）
+环保发展有限公司副总经理、北京中持绿色能
+源环境技术有限公司总经理，2014年 1月加入
+公司，管理经验丰富。 
+公司副总经理、董事会秘书张翼飞，46岁，
+本科学历，曾担任北京市华晖环境保护公司工
+程部经理、北京建工金源环保发展有限公司总
+经理助理/技术总监/副总经理、中持（北京）
+环保发展有限公司副总经理，2014年 1月至今
+担任公司副总经理、董事会秘书，管理经验丰
+富。 
+公司副总经理朱向东，46岁，硕士研究生
+学历，教授级高级工程师，曾担任北京城市排
+水集团有限责任公司高碑店污水处理厂技术
+员、运行科长、副厂长、厂长及酒仙桥污水处
+理厂厂长，2010 年 10 月至今担任公司副总经
+理，管理经验丰富。 
+公司副总经理王志立，45岁，硕士研究生
+学历，曾担任邢台机械轧辊（集团）动力厂办
+公室主任、北京桑德环境工程有限公司副总经
+理/总经理、北京中持绿色能源环境技术有限公
+司副总经理，2014年 1月至今担任公司副总经
+理，管理经验丰富。 
+公司副总经理孙召强，44岁，硕士研究生
+学历，曾担任北京晓清环保技术有限公司主任、
+北京永新环保有限公司经理、北京建工金源环
+保发展有限公司经理、中持盈佰利（北京）环
+境工程有限公司总经理，2012年 1月至今担任
+公司副总经理，管理经验丰富。 
+公司副总经理喻正昕，硕士研究生学历，
+曾担任北京建工金源环保发展有限公司运营事
+业部经理，2008年加入公司。 
+公司财务总监王海云，37岁，硕士研究生
+学历，曾担任德勤华永会计师事务所有限公司
+审计员/高级审计员/审计经理、中国化工集团
+公司财务部会计处副处长，2014 年 11 月至今
+担任公司财务总监，财务管理经验丰富。 
+总体看，公司高管人员学历水平较高，同
+业从业经验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 106人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 87.74%，员工学历水平高；从年龄构
+成看，公司员工年龄在 45 岁及以下者占比
+97.17%，员工以中青年为主；从岗位构成看，
+公司管理人员占比 23.58%、技术人员占比
+51.89%、作业人员占比 24.53%。 
+总体看，公司员工学历水平高，年龄呈年
+轻化，岗位构成以技术人员为主，符合公司现
+阶段经营特点。 
+3．研发人员素质 
+公司现有专职研发人员 49人，其中博士研
+究生学历者 1人，硕士研究生学历者 30人，本
+科学历者 18人，研发人员学历水平高。 
+公司主要研发人员、副总经理朱向东，负
+责主持公司的技术研发工作。朱向东曾参与北
+京高碑店污水处理厂（处理能力 100万立方米/
+日）、清河污水处理厂（处理能力 55万立方米/
+日）等数座大中型污水处理厂的建设和运营管
+理工作，具有十余年大型城市污水处理厂的运
+营管理经验；曾组织中小城市和工业园区污水
+处理厂的集中调研工作，参与国内数十个大中
+型污水处理及水环境治理项目的评估咨询工
+作，负责“江西省工业园区污水 BOT项目”的
+编制；参与了污水处理行业减免税政策、排水
+条例、污水处理特许经营协议示范文本等行业
+政策研究活动；曾参与“ABF”新型水处理工
+艺、再生水地下回灌、数学模拟、污水水源热
+泵等多项科研开发工作；负责“污水处理全过
+程监控的智能传感器系统研制”863 课题；参
+与了“工业集聚区生态化建设决策支持机制研
+究”课题的研究，负责的“再生水回用景观水
+体水质及景观效果研究”课题于 2008年获建设
+部华夏奖科技进步三等奖，项目经验丰富，在
+业内具有较高知名度。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设有研发部，研发部负责已有产品的
+升级和新产品的研发事宜。公司除自主研发外，
+还与清华大学开展研发合作，以提高其研发实
+力。 
+近三年，公司研发投入分别为720.49万元、
+1337.36万元、963.91万元，主要用于支付研发
+人员薪酬、购置研发材料和设备、支付专利费
+和课题研究费，分别占当年营业收入的 5.45%、
+7.38%、5.45%，研发投入能够满足公司目前研
+发需求。 
+总体看，公司科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>720.49万元,1337.36万元,963.91万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>5.45%,7.38%,5.45%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="中持水务股份有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地位于北京市海淀区西小口路
+66号中关村东升科技园北领地 D-2号楼四层，
+建筑面积 1384.99 平方米，使用方式为租赁。
+公司经营场所稳定，地理交通便利，办公设施
+齐全。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业证书 
+1 
+（编号：GF201511000314；有效期至：2018年 9月） 
+中关村高新技术企业证书 
+2 
+（编号：220152010011108；有效期至 2018年 7月） 
+建筑业企业资质证书 
+3 （编号：DW211088307；等级：市政公用工程施工总承
+包贰级；有效期至：2021年 2月） 
+建筑业企业资质证书 
+4 （编号：DW311089125；等级：环保工程专业承包叁级；
+有效期至：2021年 2月） 
+安全生产许可证 
+5 （编号：京 JZ安许证字 2016{137393}；有效期至：2019
+年 8月） 
+污染治理设施运行服务能力评价证书 
+6 （编号：国运评 1-1-010；等级：生活污水处理一级；有
+效期至：2018年 4月） 
+污染治理设施运行服务能力评价证书 
+7 （编号：国运评 1-2-043；等级：工业废水处理一级；有
+效期至：2019年 3月） 
+资料来源：公司提供，联合信用整理 
+公司成立 7年，拥有“IES”及“ROT”两
+项注册商标，所获荣誉较多，先后被评为“中
+国水业优秀服务机构”、“2012年中国环境保护
+产业协会骨干企业”、“2014年度最具成长性的
+新兴企业”、“2013~2014 年中国水业十大影响
+力品牌评选——十大国内品牌”、“2013年度中
+小城镇水环境服务年度标杆企业”、“2013年环
+境企业竞争力大奖”、“2014年度中国水业中小
+城镇水处理领域领先企业”。 
+总体看，公司经营条件较好，经营资质齐
+全，业内知名度较高。 
+2．业务运作 
+公司主营业务为污水处理运营、污水处理
+EPC及技术产品销售、污泥处理 EPC及技术产
+品销售和其他综合服务，其业务主要分为：长
+期客户板块和解决方案板块。 
+（1）长期客户板块 
+主要业务包括污水处理运营和其他综合服
+务。 
+污水处理运营是指由拥有污水处理设施所
+有权的政府部门或工业企业通过专门合同，将
+设施的运营和维护工作交给公司，由公司负责
+完成污水废水净化达到指标的服务过程，项目
+具体的服务模式包括托管运营（OM）、投资改
+造-运营-移交（BOT）、工业园区综合环境服务
+（IES）等。 
+其他综合服务是指公司依托污水处理运营
+业务，为长期客户提供其他与水环境改善相关
+的技术服务及环境应急服务。 
+（2）解决方案板块 
+主要业务包括污水处理 EPC 及技术产品
+销售和污泥处理 EPC及技术产品销售。 
+污水处理 EPC 是指基于水环境解决方案
+的建造业务，公司按照与客户的合同约定，对
+工程项目提供技术方案并进行采购、建造等全
+过程的实施，公司就工程项目的质量、工期、
+造价、性能等向客户负责。 
+污泥处理 EPC 是指基于污水处理伴生污
+泥处理设施的建造业务，污泥处理 EPC的业务
+为公司自 2014年起新推出的业务，开展方式与
+污水处理 EPC类似。 
+采购方面，公司采购物有建筑材料、设备
+等，在全国范围内采购。公司采购周期不固定，
+采购原则为“以销定采”，同时会保有一定安全
+库存，在项目所需原材料低于安全库存标准时
+会安排采购以补充。公司一般选择与信誉高、
+产品质量好的供应商进行合作，近几年采购物
+价格波动不大。公司主要供货商有中国化学工
+程第四建设有限公司、上海同臣环保有限公司、
+秦皇岛市政建设集团有限公司、睢县钜丰亮化
+照明工程有限公司、青岛嘉德滤料有限公司等，
+供货商比较分散，供货情况良好，公司对单一
+供应商的依赖性小。公司与供货商的结算方式
+为：公司预付合同总价的 30%，货到后再支付
+30%，待项目验收合格后支付 30%，最后留 10%
+作为质保金，于缺陷责任期满后 15日内支付。
+运输设备由供货商负责，产生的运费已包含在
+合同总价中。 
+销售方面，公司主要面向市政污水处理厂、
+各工业园区承接污水处理项目，提供园区综合
+服务，客户开拓方式为：在地方政府污水处理
+厂项目立项后，公司进行前期跟踪、预案设计、
+参与投标。 
+对于 EPC业务模式，公司中标后，一般是
+与当地承接污水处理项目的施工方签订污水处
+理厂 EPC工程分包合同，根据分包协议负责污
+水处理厂的设计、设备采购及污水处理厂的建
+设或仅负责设备采购安装。公司每个 EPC项目
+配备 4~6名项目人员，并从工程所在地招收项
+目所需劳务人员，劳务人员根据工作量按月结
+算工资。根据项目大小不同，项目建设周期为
+4~8个月不等。公司与总承包方的结算方式为：
+分包合同签订后预收 10%的分包工程款，然后
+根据工程进度分三次收取进度款，待工程竣工
+验收后收至 95%，剩余 5%作为质保金，待工
+程总体验收合格两年后收回。 
+总体看，公司上下游渠道畅通，经营情况
+良好。 
+4．经营效率 
+表 3 公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 84.11 94.05 77.49 
+管理费用率(%) 12.90 14.89 22.22 
+存货周转次数(次) 4.39 3.09 2.16 
+应收账款周转次数(次) 3.76 2.94 1.80 
+总资产周转次数(次) 0.52 0.47 0.35 
+近三年，公司成本率整体呈下降趋势，但
+始终处于行业高水平，主要因为公司人工费用
+较高所致；同期，公司管理费用率呈上升趋势，
+处于行业一般水平，管理费用控制力度尚可。 
+近三年，公司存货周转次数呈下降趋势，
+已经降至行业低水平，2014年存货周转次数明
+显下降，主要由于公司 2014年起承接项目显著
+增加，备货增多所致；同期，公司应收账款周
+转次数呈下降趋势，处于行业低水平；同期，
+公司总资产周转次数呈下降趋势，处于行业较
+低水平。 
+总体看，公司整体经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+公司股东大会是公司的权力机构，依法行
+使决定公司的经营方针和投资计划等职权。公
+司设董事会，对股东大会负责，董事会由 9名
+董事组成，其中独立董事 3名，董事会行使执
+行股东大会的决议等职权，董事会设董事长 1
+名，现由许国栋担任，董事长为公司的法定代
+表人。公司设监事会，监事会由 3名监事组成，
+设监事会主席 1名，由全体监事过半数选举产
+生，监事会行使检查公司财务等职权。公司实
+行总经理负责制，设总经理 1名，由董事会决
+定聘任或者解聘，总经理行使主持公司的生产、
+经营、管理工作等职权，现由邵凯担任。 
+公司设有总经办、财务部、人力资源部、
+投资管理部、市场部、研发部、运营管理中心、
+工程运营事业部、污泥事业部、审计部、董事
+会秘书办公室，各部门均由相关负责人带领工
+作，部门间协作情况较好。 
+公司下设中持水务股份有限公司河南分公
+司，主要负责河南省内已有项目的技术支持与
+新业务的营销拓展工作。 
+公司拥有 8家全资子公司以及 4家控股
+子公司，各子公司业务与公司业务类似。公司
+委派高管人员对子公司进行管理，各子公司财
+务独立核算。 
+总体看，公司法人治理结构完善，组织架
+构清晰。 
+2．制度建设及执行 
+公司制定了《财务管理制度》《、员工手册》、
+《采购管理制度》、《人力资源管理制度》、《销
+售管理制度》、《技术管理制度》、《行政管理制
+度》等基本制度，各部门、各岗位的业务操作
+有章可循。 
+公司于 2014年 5月通过了 ISO 9001:2008
+《质量管理体系标准》认证、ISO 14001:2004
+《环境管理体系标准》认证、 OHSAS 
+18001:2007《职业健康安全管理体系标准》认
+证，上述认证有效期均至 2017年 5月。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+公司将继续面向中小城市，持续服务工业
+客户，计划今后不断研发、升级具有自主知识
+产权的核心技术产品，逐步将企业打造成为行
+业内具有一定影响力的污水处理综合解决方案
+提供商。 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司2016年将实现营业收入20000.00
+万元，净利润5200.00万元；预计2016年底资产
+总额60005.26万元，负债总额20000.00万元，所
+有者权益40005.26万元。相比2015年，联合信
+用预计公司2016年营业收入增长13.09%，负债
+率变动幅度-4.22%，净资产收益率增长幅度
+-2.45%。 
+总体看，联合信用预测公司未来短期内经
+营稳定。 
+2．融资需求 
+公司目前有新增融资需求，具体融资额度
+当前难以准确判定，计划通过银行借款渠道融
+资，所融资金将主要用于项目拓展及资金周转。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="中持水务股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为31396.77万
+元、45017.78万元、55730.63万元，复合增长率
+为33.23%，增长速度较快，主要增资及业务发
+展带来的货币资金、应收账款、其他应收款的
+增长。 
+截至 2016 年 6 月底，公司资产总额
+59105.81万元，其中：流动资产占比 71.92%，
+非流动资产占比 28.08%。 
+截至 2016 年 6 月底，公司流动资产
+42505.97 万元，主要为：货币资金 5843.66 万
+元，占比 13.75%；应收账款 10382.20 万元，
+占比 24.43%，主要为应收武陟县润天污水处理
+有限公司、秦皇岛市绿港污泥处理厂、西峡县
+污水处理厂、涞水县滨河城市污水处理中心、
+华电水务工程有限公司的工程款，账龄在 1年
+年以上的占比 3.96%，公司已按账龄分析法计
+提坏账准备；其他应收款 18615.40万元，占比
+43.79%，主要为与子公司焦作中持水务有限公
+司、三门峡中持水务有限公司、沧州中持环保
+设施运营有限公司、清河县中持水务有限公司、
+常山中持环保设施运营有限公司的往来款，账
+龄多在 1 年以内；存货 5029.60 万元，占比
+11.83%，为污水处理所用药剂等工程所需材料
+以及未结转项目成本。 
+图 1  公司 2016年 6月底流动资产构成 
+截至 2016 年 6 月底，公司非流动资产
+16599.83 万元，其中：长期应收款 3114.88 万
+元，占比 18.76%；长期股权投资 12382.78 万
+元，占比 74.60%，为公司对下属子公司的投资；
+固定资产净额 101.12万元，占比 0.61%，为公
+司的办公设备、电子设备、运输设备；无形资
+产 836.78万元，占比 5.04%，为公司的专利权、
+软件、计算机软件著作权、特许经营权等；递
+延所得税资产 164.27万元，占比 0.99%。 
+总体看，公司资产流动性一般，整体资产
+质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 6月底，公司
+流动比率和速动比率分别为 223.57%和
+197.11%，均处于行业一般水平；2015 年，公
+司现金流动负债比为-45.35%，经营活动获取的
+现金对流动负债保障能力弱。公司短期偿债能
+力较弱。 
+利息倍数为 13.44倍，债务保护倍数为 0.53倍，
+均处于一般水平。公司长期偿债能力一般。 
+结合负债结构和经营特点总体看，公司整
+体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为32.30%、
+50.31%、37.55%，整体呈上升趋势；同期，公
+司全部债务资本化比率分别为 15.17%、
+31.30%、24.70%。2016年6月底，公司资产负
+债率为 33.12%，全部债务资本化比率为
+21.28%，公司负债水平一般，有息债务压力一
+般。 
+近三年，公司负债总额分别为10141.42万
+元、22647.95万元、20925.37万元，复合增长率
+为43.64%，增长速度较快，主要源于短期借款、
+应付账款和应交税费的增长。 
+截至 2016 年 6 月底，公司负债总额
+19574.55万元，其中：流动负债占比 97.26%，
+非流动负债占比 2.74%。 
+图 2  公司 2016年 6月底流动负债构成 
+截至 2016 年 6 月底，公司流动负债
+19012.55万元，其中：短期借款 10685.17万元，
+占比 56.20%，系公司为补充经营所需流动资金
+而向北京银行、招商银行、民生银行、华侨银
+行申请的短期借款；应付账款 4892.90 万元，
+占比 25.74%，主要为应付中国化学工程第四建
+设有限公司、江西省建筑安装工程公司、赛莱
+默（中国）有限公司、上海同臣环保有限公司、
+秦皇岛市政建设集团有限公司的工程款、设备
+款，账龄均在 1 年以内；应交税费 1698.36 万
+元，占比 8.93%。 
+截至2016年6月底，公司非流动负债562.00
+万元，其中：预计负债 30.50万元，占比 5.43%，
+为公司 BOT、ROT项目设备更新引发的预计负
+债；其他非流动负债 531.50万元，占比 94.57%，
+为递延收益。 
+近三年，公司所有者权益分别为 21255.35
+万元、22369.82万元、34805.26万元，复合增
+存收益积累所致。 
+截至 2016 年 6 月底，公司所有者权益
+39531.25万元，其中：实收资本 7682.85万元，
+占比 19.43%；资本公积 21141.93 万元，占比
+53.48%，为股本溢价；盈余公积 578.99万元，
+占比 1.47%；未分配利润 10127.49万元，占比
+25.62%，公司所有者权益对债务保障能力较
+强。 
+2014年，公司进行了股东利润分配。 
+总体看，公司负债水平一般，有息债务压
+力一般，所有者权益成长性较好，对债务保障
+能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 13230.99 万
+元、18115.08万元、17685.32万元，复合增长率
+为 15.61%；同期，公司利润总额分别为 2122.65
+万元、1077.74万元、4708.41万元，复合增长率
+为 48.94%，整体呈上升趋势。毛利率增长及营
+业外收入的增加是导致公司利润总额快速增长
+的主要原因。 
+图 3  公司近三年盈利能力指标变动趋势 
+近三年，公司主营业务利润率分别为
+26.37%、 27.76%、 30.27%，加权平均值为
+28.74%，处于行业较低水平；同期，公司净资
+产收益率分别为 14.10%、5.11%、16.35%，加
+权平均值为 12.53%，处于行业较低水平；同期，
+公司总资产报酬率分别为 10.01%、4.08%、
+10.32%，加权平均值为 8.38%，处于行业较低
+水平。 
+从收入实现质量看，近三年，公司现金收
+入比分别为 74.96%、81.17%、71.94%，加权平
+均值为 75.31%，处于行业较低水平。 
+总体看，公司整体盈利能力较弱，收入实
+现质量较差。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="中持水务股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司有行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+有被执行记录；未发现公司有票据贴现、未决
+诉讼、对外担保等或有负债；未发现公司有银
+行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>联合信用未发现公司存在政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司整体盈利能力较弱，收入实现质
+量较差。 
+（2）公司资产中应收账款和其他应收款占
+比较大，账龄较长，对其资产质量及流动性带
+来一定的负面影响，关注其回款情况。 
+（3）公司经营活动获取现金的能力较弱且
+不稳定，整体现金流状况一般。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>联合信用未发现公司存在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="中持水务股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>31396.77 </enterprise:资产总额>
+    <enterprise:所有者权益>21255.34 </enterprise:所有者权益>
+    <enterprise:负债总额>10141.43 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>13230.99 </enterprise:营业收入>
+    <enterprise:EBITDA>3779.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="中持水务股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>45017.79 </enterprise:资产总额>
+    <enterprise:所有者权益>22369.82 </enterprise:所有者权益>
+    <enterprise:负债总额>22647.96 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>18115.08 </enterprise:营业收入>
+    <enterprise:EBITDA>3099.02 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="中持水务股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>55730.64 </enterprise:资产总额>
+    <enterprise:所有者权益>34805.27 </enterprise:所有者权益>
+    <enterprise:负债总额>20925.37 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>17685.32 </enterprise:营业收入>
+    <enterprise:EBITDA>6558.64 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="中持水务股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.52 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.76 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.39 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="中持水务股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.47 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.94 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.09 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="中持水务股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.35 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.16 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="中持水务股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.01 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>16.75 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="中持水务股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.08 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>16.33 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="中持水务股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.32 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>22.18 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="中持水务股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>164.82 </enterprise:流动比率>
+    <enterprise:速动比率>122.21 </enterprise:速动比率>
+    <enterprise:资产负债率>32.30 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>8.94 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="中持水务股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>138.96 </enterprise:流动比率>
+    <enterprise:速动比率>119.28 </enterprise:速动比率>
+    <enterprise:资产负债率>50.31 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.42 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="中持水务股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>203.00 </enterprise:流动比率>
+    <enterprise:速动比率>169.02 </enterprise:速动比率>
+    <enterprise:资产负债率>37.55 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>13.44 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="中持水务股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>26.84 </enterprise:毛利率>
+    <enterprise:成本费用利润率>32.93 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.75 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-30.10 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>15.17 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>15.61 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>37.61 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="中持水务股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>28.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>25.33 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.81 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-2.81 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>31.30 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="中持水务股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>31.78 </enterprise:毛利率>
+    <enterprise:成本费用利润率>57.43 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.72 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-45.35 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>24.70 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="中持水务股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1811.95 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4182.14 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>484.33 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>5002.37 </enterprise:其他应收款>
+    <enterprise:存货>4118.61 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>334.03 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>15933.43 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>860.83 </enterprise:长期应收款>
+    <enterprise:长期股权投资>8995.53 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>148.69 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>148.69 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5236.66 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>118.18 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>103.45 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>15463.34 </enterprise:非流动资产合计>
+    <enterprise:资产总计>31396.77 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="中持水务股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2410.79 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>8132.42 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>181.94 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>14222.49 </enterprise:其他应收款>
+    <enterprise:存货>4257.70 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>856.32 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>30061.66 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>1010.25 </enterprise:长期应收款>
+    <enterprise:长期股权投资>9695.53 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>108.34 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>108.34 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3963.11 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>53.11 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>125.79 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14956.13 </enterprise:非流动资产合计>
+    <enterprise:资产总计>45017.79 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="中持水务股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>6688.83 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>490.00 </enterprise:应收票据>
+    <enterprise:应收账款>11502.92 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>975.39 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>14254.05 </enterprise:其他应收款>
+    <enterprise:存货>6916.02 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>488.59 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>41315.80 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>300.20 </enterprise:长期应收款>
+    <enterprise:长期股权投资>11293.31 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>75.68 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>75.68 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>2556.52 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>189.13 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14414.84 </enterprise:非流动资产合计>
+    <enterprise:资产总计>55730.64 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中持水务股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>10194.13 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4638.89 </enterprise:应付账款>
+    <enterprise:预收款项>411.53 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>589.76 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>958.43 </enterprise:应交税费>
+    <enterprise:应付利息>21.31 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>4819.90 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>21633.95 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>217.97 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>796.04 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1014.01 </enterprise:非流动负债合计>
+    <enterprise:负债合计>22647.96 </enterprise:负债合计>
+    <enterprise:实收资本或股本>7113.75 </enterprise:实收资本或股本>
+    <enterprise:资本公积>13950.97 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>111.45 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1193.65 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>22369.82 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>22369.82 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>45017.78 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中持水务股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>10194.13 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4638.89 </enterprise:应付账款>
+    <enterprise:预收款项>411.53 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>589.76 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>958.43 </enterprise:应交税费>
+    <enterprise:应付利息>21.31 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>4819.90 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>21633.95 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>217.97 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>796.04 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1014.01 </enterprise:非流动负债合计>
+    <enterprise:负债合计>22647.96 </enterprise:负债合计>
+    <enterprise:实收资本或股本>7113.75 </enterprise:实收资本或股本>
+    <enterprise:资本公积>13950.97 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>111.45 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1193.65 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>22369.82 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>22369.82 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>45017.78 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中持水务股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>11416.37 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>5341.15 </enterprise:应付账款>
+    <enterprise:预收款项>552.08 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>412.05 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1688.75 </enterprise:应交税费>
+    <enterprise:应付利息>21.24 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>921.24 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>20352.88 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>40.99 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>531.50 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>572.49 </enterprise:非流动负债合计>
+    <enterprise:负债合计>20925.37 </enterprise:负债合计>
+    <enterprise:实收资本或股本>7682.85 </enterprise:实收资本或股本>
+    <enterprise:资本公积>21141.93 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>578.99 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>5401.50 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>34805.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>34805.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>55730.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="中持水务股份有限公司2013年利润表">
+    <enterprise:营业收入>13230.99 </enterprise:营业收入>
+    <enterprise:主营业务收入>13230.99 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>9679.17 </enterprise:营业成本>
+    <enterprise:主营业务成本>9679.17 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>63.15 </enterprise:营业税金及附加>
+    <enterprise:销售费用>748.12 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1435.46 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>313.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>54.46 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>1166.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3538.10 </enterprise:营业利润>
+    <enterprise:营业外收入>20.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3558.10 </enterprise:利润总额>
+    <enterprise:所得税费用>-2.03 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3560.13 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3560.13 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="中持水务股份有限公司2014年利润表">
+    <enterprise:营业收入>18115.08 </enterprise:营业收入>
+    <enterprise:主营业务收入>18115.08 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>12950.74 </enterprise:营业成本>
+    <enterprise:主营业务成本>12950.74 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>135.85 </enterprise:营业税金及附加>
+    <enterprise:销售费用>825.91 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2537.55 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>361.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>239.50 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>13.30 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3615.26 </enterprise:营业利润>
+    <enterprise:营业外收入>0.05 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.02 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3615.29 </enterprise:利润总额>
+    <enterprise:所得税费用>-36.74 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3652.03 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3652.03 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="中持水务股份有限公司2015年利润表">
+    <enterprise:营业收入>17685.32 </enterprise:营业收入>
+    <enterprise:主营业务收入>17685.32 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>12064.30 </enterprise:营业成本>
+    <enterprise:主营业务成本>12064.30 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>267.18 </enterprise:营业税金及附加>
+    <enterprise:销售费用>851.75 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3044.79 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>317.69 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>359.41 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>3201.64 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>7026.63 </enterprise:营业利润>
+    <enterprise:营业外收入>726.63 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.07 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>7753.19 </enterprise:利润总额>
+    <enterprise:所得税费用>33.03 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>7720.16 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>7720.16 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年中持水务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>9917.90 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1660.12 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>11578.02 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>7281.80  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2057.05 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>254.56 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4894.47 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>14487.88 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-2909.86 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>200.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>1166.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1366.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1054.48 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>3431.61 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4486.09 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3120.09 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>10243.75 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>5550.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>15793.75 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>6250.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>440.16 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>2000.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>8690.16 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>7103.59 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>-10.83 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1062.81 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年中持水务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>14704.19 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>14.40 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1129.14 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>15847.73 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>9764.14  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2370.38 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>152.42 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4169.73 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>16456.67 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-608.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>13.30 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.06 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>13.36 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>334.09 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>700.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3588.70 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4622.79 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4609.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>10523.19 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>10523.19 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>4129.06 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>516.75 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4645.81 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>5877.38 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>1.25 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>660.26 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年中持水务股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>12722.12 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>3.14 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1803.06 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>14528.32 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>9376.59  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>3095.91 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>405.12 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>10880.67 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>23758.29 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-9229.97 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>2057.87 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>3226.05 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>3890.77 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>9174.69 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>86.51 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>3920.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1014.48 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5020.99 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>4153.70 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>8000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>12922.11 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>158.68 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>21080.79 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>11699.87 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>500.32 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>160.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>12360.19 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>8720.60 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>14.82 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>3659.15 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：慈溪经济开发区中持环境管理有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>慈溪经济开发区中持环境管理有限公司</enterprise:名称>
+	<enterprise:单位代码>68427777-1</enterprise:单位代码>
+	<enterprise:被投资金额>300.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：铜山县中持环保设施运营有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>铜山县中持环保设施运营有限公司</enterprise:名称>
+	<enterprise:单位代码>55926976-4</enterprise:单位代码>
+	<enterprise:被投资金额>100.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：常山中持环保设施运营有限公司">
+	<enterprise:序号>3</enterprise:序号>
+	<enterprise:名称>常山中持环保设施运营有限公司</enterprise:名称>
+	<enterprise:单位代码>55401850-1</enterprise:单位代码>
+	<enterprise:被投资金额>500.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：江山中持水务有限公司">
+	<enterprise:序号>4</enterprise:序号>
+	<enterprise:名称>江山中持水务有限公司</enterprise:名称>
+	<enterprise:单位代码>07162607-8</enterprise:单位代码>
+	<enterprise:被投资金额>1800.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：三门峡中持水务有限公司">
+	<enterprise:序号>5</enterprise:序号>
+	<enterprise:名称>三门峡中持水务有限公司</enterprise:名称>
+	<enterprise:单位代码>07135830-9</enterprise:单位代码>
+	<enterprise:被投资金额>1000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：肃宁县中持环保设施运营有限公司">
+	<enterprise:序号>6</enterprise:序号>
+	<enterprise:名称>肃宁县中持环保设施运营有限公司</enterprise:名称>
+	<enterprise:单位代码>05816547-3</enterprise:单位代码>
+	<enterprise:被投资金额>100.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：中持新概念环境发展宜兴有限公司">
+	<enterprise:序号>7</enterprise:序号>
+	<enterprise:名称>中持新概念环境发展宜兴有限公司</enterprise:名称>
+	<enterprise:单位代码>未提供</enterprise:单位代码>
+	<enterprise:被投资金额>5000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>90.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：焦作中持水务有限公司">
+	<enterprise:序号>8</enterprise:序号>
+	<enterprise:名称>焦作中持水务有限公司</enterprise:名称>
+	<enterprise:单位代码>57356048-6</enterprise:单位代码>
+	<enterprise:被投资金额>2000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="中持水务股份有限公司被投资单位：石家庄中持环保设施运营有限公司">
+	<enterprise:序号>9</enterprise:序号>
+	<enterprise:名称>石家庄中持环保设施运营有限公司</enterprise:名称>
+	<enterprise:单位代码>55187933-0</enterprise:单位代码>
+	<enterprise:被投资金额>500.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>60.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：中持（北京）环保发展有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>中持（北京）环保发展有限公司 </enterprise:股东名称>
+	 <enterprise:货币>2,413.8324万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>33.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：启明创富投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>启明创富投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>900.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>12.65%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：苏州纪源科星股权投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苏州纪源科星股权投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>711.375万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：红杉中国投资2010（香港）有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>红杉中国投资2010（香港）有限公司 </enterprise:股东名称>
+	 <enterprise:货币>600.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>8.43%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：许国栋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许国栋 </enterprise:股东名称>
+	 <enterprise:货币>450.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>6.33%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：苏州启明创智股权投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苏州启明创智股权投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>304.875万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.29%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：北极光早期创业投资企业 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北极光早期创业投资企业 </enterprise:股东名称>
+	 <enterprise:货币>277.6096万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：启明亚洲投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>启明亚洲投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>216.8825万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.05%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：北极光创业投资企业 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北极光创业投资企业 </enterprise:股东名称>
+	 <enterprise:货币>208.2072万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：邵凯 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>邵凯 </enterprise:股东名称>
+	 <enterprise:货币>180.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.53%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：越超有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>越超有限公司 </enterprise:股东名称>
+	 <enterprise:货币>164.8307万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.32%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：张翼飞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张翼飞 </enterprise:股东名称>
+	 <enterprise:货币>135.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：陈德清 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈德清 </enterprise:股东名称>
+	 <enterprise:货币>120.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.69%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：李彩斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李彩斌 </enterprise:股东名称>
+	 <enterprise:货币>112.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.58%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：李根柱 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李根柱 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.27%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：朱向东 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱向东 </enterprise:股东名称>
+	 <enterprise:货币>67.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.95%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：孙召强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>孙召强 </enterprise:股东名称>
+	 <enterprise:货币>45.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.63%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：王志立 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王志立 </enterprise:股东名称>
+	 <enterprise:货币>45.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.63%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：王凯军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王凯军 </enterprise:股东名称>
+	 <enterprise:货币>35.5688万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中持水务股份有限公司股东：王洪臣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王洪臣 </enterprise:股东名称>
+	 <enterprise:货币>35.5688万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：ROT">
+	<enterprise:有申请日期>12-6-19</enterprise:有申请日期>
+	<enterprise:有商标名称>ROT</enterprise:有商标名称>
+	<enterprise:有注册号>11094436</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：IES">
+	<enterprise:有申请日期>12-6-19</enterprise:有申请日期>
+	<enterprise:有商标名称>IES</enterprise:有商标名称>
+	<enterprise:有注册号>11094265</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：IES">
+	<enterprise:有申请日期>12-6-19</enterprise:有申请日期>
+	<enterprise:有商标名称>IES</enterprise:有商标名称>
+	<enterprise:有注册号>11094358</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：ROT">
+	<enterprise:有申请日期>12-6-19</enterprise:有申请日期>
+	<enterprise:有商标名称>ROT</enterprise:有商标名称>
+	<enterprise:有注册号>11094551</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：IES">
+	<enterprise:有申请日期>12-6-19</enterprise:有申请日期>
+	<enterprise:有商标名称>IES</enterprise:有商标名称>
+	<enterprise:有注册号>11094298</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-DACT">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-DACT</enterprise:有商标名称>
+	<enterprise:有注册号>10442406</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-MIXERDRUM">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-MIXERDRUM</enterprise:有商标名称>
+	<enterprise:有注册号>10441056</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：TSBP">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>TSBP</enterprise:有商标名称>
+	<enterprise:有注册号>10441039</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：TSBP">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>TSBP</enterprise:有商标名称>
+	<enterprise:有注册号>10441040</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-DACT">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-DACT</enterprise:有商标名称>
+	<enterprise:有注册号>10441042</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-DACT">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-DACT</enterprise:有商标名称>
+	<enterprise:有注册号>10442435</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：TSBP">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>TSBP</enterprise:有商标名称>
+	<enterprise:有注册号>10442533</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-MIXERDRUM">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-MIXERDRUM</enterprise:有商标名称>
+	<enterprise:有注册号>10442500</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-MIXERDRUM">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-MIXERDRUM</enterprise:有商标名称>
+	<enterprise:有注册号>10441054</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-MIXERDRUM">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-MIXERDRUM</enterprise:有商标名称>
+	<enterprise:有注册号>10441055</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中持水务股份有限公司的商标信息：SG-MIXERDRUM">
+	<enterprise:有申请日期>12-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>SG-MIXERDRUM</enterprise:有商标名称>
+	<enterprise:有注册号>10442470</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种多流态澄清器">
+	<enterprise:有申请公布日>2017-09-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多流态澄清器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720121131.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206502696U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种曝气生物滤池">
+	<enterprise:有申请公布日>2016-10-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种曝气生物滤池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410151647.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103936141B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥浆化系统">
+	<enterprise:有申请公布日>2016-09-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥浆化系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620164515.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205570141U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥消化罐快开浮渣门">
+	<enterprise:有申请公布日>2016-08-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥消化罐快开浮渣门</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620280825.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205443012U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种用于好氧发酵滚筒的可调节出料罩">
+	<enterprise:有申请公布日>2016-08-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于好氧发酵滚筒的可调节出料罩</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620013908.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205443108U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥浆化机">
+	<enterprise:有申请公布日>2016-07-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥浆化机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620164529.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205392217U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥换热器">
+	<enterprise:有申请公布日>2016-07-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥换热器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610119832.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105758236A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥换热器">
+	<enterprise:有申请公布日>2016-07-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥换热器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620161130.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205383919U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污泥浆化机">
+	<enterprise:有申请公布日>2016-05-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥浆化机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610119493.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105536596A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种乳化液废水处理工艺">
+	<enterprise:有申请公布日>2016-01-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种乳化液废水处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410140660.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103880254B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种滤料截留高强度反洗排水槽">
+	<enterprise:有申请公布日>2015-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种滤料截留高强度反洗排水槽</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410053375.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103845930B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：内循环扰动装置及安装有该内循环扰动装置的沉淀池">
+	<enterprise:有申请公布日>2015-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>内循环扰动装置及安装有该内循环扰动装置的沉淀池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410290195.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104056470B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：反硝化深床滤池碳源智能精密投加系统">
+	<enterprise:有申请公布日>2015-08-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>反硝化深床滤池碳源智能精密投加系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410140512.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103864209B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：有机废弃物好氧发酵滚筒的供气系统">
+	<enterprise:有申请公布日>2015-06-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>有机废弃物好氧发酵滚筒的供气系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420797789.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204385081U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种乳化液废水的预处理方法">
+	<enterprise:有申请公布日>2015-05-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种乳化液废水的预处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310345482.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103523946B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：有机废弃物好氧发酵滚筒的供气系统及方法">
+	<enterprise:有申请公布日>2015-04-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>有机废弃物好氧发酵滚筒的供气系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410779269.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104529586A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：无水封三相分离器">
+	<enterprise:有申请公布日>2015-03-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>无水封三相分离器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420615948.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204211532U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种臭氧-BAF联用污水应急处理的方法及其设备">
+	<enterprise:有申请公布日>2015-03-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种臭氧-BAF联用污水应急处理的方法及其设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310345471.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103435218B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：上旋流无动力循环厌氧反应器">
+	<enterprise:有申请公布日>2015-03-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>上旋流无动力循环厌氧反应器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420616697.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204211533U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种配水器及设置有该配水器的厌氧反应器">
+	<enterprise:有申请公布日>2015-02-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种配水器及设置有该配水器的厌氧反应器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420453946.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204151134U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：上旋流布水器">
+	<enterprise:有申请公布日>2015-01-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>上旋流布水器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420454370.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204097186U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：对流式厌氧反应器气液分离装置">
+	<enterprise:有申请公布日>2014-12-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>对流式厌氧反应器气液分离装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420453386.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204058061U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种用于内循环厌氧反应器的循环罐">
+	<enterprise:有申请公布日>2014-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于内循环厌氧反应器的循环罐</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420452025.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203999128U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：内循环扰动装置及安装有该内循环扰动装置的沉淀池">
+	<enterprise:有申请公布日>2014-09-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>内循环扰动装置及安装有该内循环扰动装置的沉淀池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410290195.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104056470A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：无承托层曝气生物滤池">
+	<enterprise:有申请公布日>2014-08-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>无承托层曝气生物滤池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420117991.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203794703U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种曝气生物滤池">
+	<enterprise:有申请公布日>2014-08-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种曝气生物滤池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420181719.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203794689U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种曝气生物滤池">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种曝气生物滤池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410151647.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103936141A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种园区企业排水管网集成监控装置">
+	<enterprise:有申请公布日>2014-07-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种园区企业排水管网集成监控装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420069451.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203732964U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种乳化液废水处理工艺">
+	<enterprise:有申请公布日>2014-06-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种乳化液废水处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410140660.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103880254A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：反硝化深床滤池腰部反洗排水槽">
+	<enterprise:有申请公布日>2014-06-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>反硝化深床滤池腰部反洗排水槽</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410140489.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103864208A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：反硝化深床滤池碳源智能精密投加系统">
+	<enterprise:有申请公布日>2014-06-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>反硝化深床滤池碳源智能精密投加系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410140512.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103864209A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种滤料截留高强度反洗排水槽">
+	<enterprise:有申请公布日>2014-06-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种滤料截留高强度反洗排水槽</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410053375.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103845930A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种组合填料方式的曝气生物滤池">
+	<enterprise:有申请公布日>2014-06-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种组合填料方式的曝气生物滤池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410054212.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103848496A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种点触式加药装置">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种点触式加药装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320598100.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203498110U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污水处理无动力药剂投加装置">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污水处理无动力药剂投加装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320600130.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203498139U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种乳化液废水的预处理设备">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种乳化液废水的预处理设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320485303.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203498192U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种污水流量调节装置及包含该装置的污水处理系统">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污水流量调节装置及包含该装置的污水处理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320641387.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203502834U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种乳化液废水的预处理方法">
+	<enterprise:有申请公布日>2014-01-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种乳化液废水的预处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310345482.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103523946A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种陶瓷超滤膜智能清洗装置">
+	<enterprise:有申请公布日>2014-01-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种陶瓷超滤膜智能清洗装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320485312.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203400638U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种用于臭氧-BAF的综合应急处理方法">
+	<enterprise:有申请公布日>2013-12-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于臭氧-BAF的综合应急处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310345471.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103435218A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种波浪式生化污水处理装置">
+	<enterprise:有申请公布日>2012-07-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波浪式生化污水处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120381220.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202322552U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中持水务股份有限公司的专利信息：一种网孔自动捞毛设备">
+	<enterprise:有申请公布日>2012-06-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网孔自动捞毛设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120381251.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202277716U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：污泥加钙干化控制系统">
+	<enterprise:有批准日期>15-1-6</enterprise:有批准日期>
+	<enterprise:有软件全称>污泥加钙干化控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR002546</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：污水生化处理系统溶解氧控制系统">
+	<enterprise:有批准日期>14-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>污水生化处理系统溶解氧控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR150761</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：污水处理厂运行成本统计软件">
+	<enterprise:有批准日期>14-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理厂运行成本统计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR150693</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：中持污水厂运营管理信息系统">
+	<enterprise:有批准日期>14-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>中持污水厂运营管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR150697</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：污水处理厂设备管理软件">
+	<enterprise:有批准日期>14-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理厂设备管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR150785</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：碳源投加控制系统">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>碳源投加控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058045</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：多段AO最佳水量分配控制软件">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>多段AO最佳水量分配控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058035</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：曝气生物滤池反冲洗控制软件">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>曝气生物滤池反冲洗控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058013</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：臭氧曝气生物滤池精确控制系统">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>臭氧曝气生物滤池精确控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058049</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：CMF陶瓷膜智能清洗控制软件">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>CMF陶瓷膜智能清洗控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058047</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：液压板框污泥脱水设备联动控制软件">
+	<enterprise:有批准日期>13-6-14</enterprise:有批准日期>
+	<enterprise:有软件全称>液压板框污泥脱水设备联动控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR058010</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：水处理指标系统">
+	<enterprise:有批准日期>11-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>水处理指标系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR088245</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：污水处理厂信息管理软件">
+	<enterprise:有批准日期>11-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>污水处理厂信息管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR088243</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中持水务股份有限公司的软件著作：平流二沉池桁车与污泥回流系统">
+	<enterprise:有批准日期>11-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>平流二沉池桁车与污泥回流系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR088426</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="中持水务股份有限公司的网站备案：中持水务股份有限公司">
+	<enterprise:有审核时间>15-2-15</enterprise:有审核时间>
+	<enterprise:有网站全称>中持水务股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.zchb-water.net</enterprise:有网站首页>
+	<enterprise:有域名>zchb-water.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备13046043号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="中持水务股份有限公司的员工基本信息">
+	<enterprise:有从业人数>106</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:65,25岁以下:38,45岁以上:3</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:93,高中及以下:1,专科:12</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:25,技术人员:55,作业人员:26</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:106人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="中持水务股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="中持水务股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>一汽大众汽车有限公司、山东石大科技石化有限公司、秦皇岛市绿港污泥处理
+厂、武宁波杭州湾新区公用事业发展有限公司、中节能环保投资发展（江西）
+有限公司</enterprise:现有主要客户>
+	<enterprise:目前经营状况>稳定增长</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="中持水务股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="中持水务股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="中持水务股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="中持水务股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="中持水务股份有限公司的企业法人代表：许国栋">
+	<enterprise:名称>许国栋</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>51</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1965年</enterprise:出生年月>
+	<enterprise:身份证号码>110102196501062754</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>高级工程师</enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1987年至 1992年 北京建筑工程学院 讲师 
+1992年至 1994年 北京市华晖环境保护公司 总经理 
+1994年至 2007年 北京建工金源环保发展有限公司 总经理 
+2008年 1月至今 中持（北京）环保发展有限公司 董事长 
+2009年 12月至今 公司 董事长 
+起止日期 在何地区何部门 任何职务 
+2012年 8月至今 全联环境服务业商会第三届理事会 监事长 
+中持水务股份有限公司 26
+PDF 文件使用 "pdfFactory Pro" 试用版本创建 www.fineprint.cn
+ecpa
+联合信用管理有限公司北京分公司                           中关村科技园区企业信用评级</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="中持水务股份有限公司的下属单位：中持水务股份有限公司河南分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>中持水务股份有限公司河南分公司</enterprise:名称>
+	<enterprise:主要职能>河南省内已有项目的技术支持与新业务的营销拓展</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>较高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="中持水务股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>730.30</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>1688.75</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="中持水务股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>建筑材料、设备等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>702.30</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>5341.15</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="中持水务股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现不良记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现不良记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>20000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2016年的预测项目：中持水务股份有限公司">
+	<enterprise:预测项目名称>中持水务股份有限公司</enterprise:预测项目名称>
+	<enterprise:预测项目金额>22</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2017年的预测项目：中持水务股份有限公司">
+	<enterprise:预测项目名称>中持水务股份有限公司</enterprise:预测项目名称>
+	<enterprise:预测项目金额></enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="中持水务股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="中持水务股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>11</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>4</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="中持水务股份有限公司的专利数量">
+	<enterprise:专利总计>30</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>18</enterprise:专利数量2014>
+	<enterprise:专利数量2015>11</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="中持水务股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="中持水务股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>1</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>1</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

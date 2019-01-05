@@ -1,0 +1,2628 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京煜邦电力技术股份有限公司的企业概况">
+    <enterprise:有名称>北京煜邦电力技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>AA+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>-</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1996年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>生产制造仪器仪表；电力技术开发；计算机技术开发；技术服务；技术咨询；计算机技术培训；销售仪器仪表、电线电缆、电力设备及器材。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）生产制造仪器仪表；电力技术开发；计算机技术开发；技术服务；技术咨询；计算机技术培训；销售仪器仪表、电线电缆、电力设备及器材。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>-</enterprise:有行业分类>
+    <enterprise:有注册地址>-</enterprise:有注册地址>
+    <enterprise:有通讯地址>-</enterprise:有通讯地址>
+    <enterprise:有邮政编码>-</enterprise:有邮政编码>
+    <enterprise:有联系人>-</enterprise:有联系人>
+    <enterprise:有联系电话>-</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>2624526174@qq.com</enterprise:有E-mail>
+    <enterprise:有网址>-</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>基本情况
+北京煜邦电力技术股份有限公司成立于
+1996年5月17日，注册地址为北京市昌平区科技
+园区永安路38号3幢，办公地址为北京市朝阳区
+北三环东路19号蓝星大厦10层、11层，注册资
+本和实收资本均为12575.0181万元，法定代表
+人周德勤。
+公司是一家从事电力行业相关配套产品设
+计、生产、销售及服务为一体的高新技术企业，
+主营产品包括：电能计量表、智能用电系统、
+电厂用相关产品等。
+公司于2002年取得软件企业认定证书，于
+2014年10月取得高新技术企业证书，于2015年
+4月取得中关村高新技术企业证书，于2015年
+6月取得中华人民共和国制造计量器具许可证、
+职业健康安全管理体系认证证书、环境管理体
+系认证证书、质量管理体系认证证书，于
+2016年4月取得测量管理体系认证证书。
+公司2015年末资产总额65633.18万元，负
+债总额31614.68万元，净资产34018.49万元，
+固定资产1101.18万元；2015年实现营业收入
+52397.25万元，利润总额4853.20万元，净利润
+4238.88万元，经营性净现金流3297.51万元。
+公司2016年6月末资产总额59907.71万元，
+负债总额23816.77万元，净资产36090.94万元，
+固定资产3904.76万元；2016年1-6月实现营业
+收入22395.82万元，利润总额85.23万元，净利
+润72.45万元。
+股权结构
+截止2016年6月末，公司股权结构如下表所
+示。
+ 表1 公司股权结构
+序
+出资方名称 货币出资 持股比例(%)
+号
+1 北京高景宏泰投资有限公司 4612.3417 36.6786%
+2 红塔创新投资股份有限公司 1071.4286 8.5203%
+3 北京圣德信设备监理有限公司 939.4798 7.4710%
+北京紫瑞丰和咨询合伙企业
+4 778.0269 6.1871%
+（有限合伙）
+武汉珞珈梧桐新兴产业投资基
+5 717.4888 5.7057%
+金合伙企业（有限合伙）
+6 北京众联致晟科技有限公司 654.7085 5.2064%
+北京中关村瞪羚创业投资中心
+7 463.2789 3.6841%
+（有限合伙）
+8 青岛静远创业投资有限公司 347.7904 2.7657%
+北京骊悦金实投资中心（有限
+9 327.8689 2.6073%
+合伙）
+10 北京建华创业投资有限公司 255.5207 2.0320%
+南通建华创业投资合伙企业
+11 237.5000 1.8887%
+（有限合伙）
+龙赢富泽资产管理（北京）有
+12 200.0000 1.5905%
+限公司
+中投建华（湖南）创业投资合
+13 178.5714 1.4200%
+伙企业（有限公司）
+辽宁联盟中资创业投资企业
+14 135.3754 1.0765%
+（有限合伙）
+西藏山南汇鑫茂通咨询合伙企
+15 98.0446 0.7797%
+业（有限合伙）
+16 扬州嘉华创业投资有限公司 89.2857 0.7100%
+17 李勇 366.0657 2.9111%
+18 杨晓琰 268.1614 2.1325%
+19 张琪 161.4350 1.2838%
+20 秦文波 161.4350 1.2838%
+21 王凤英 107.6233 0.8559%
+22 晏平 98.6547 0.7845%
+23 范亮星 89.6861 0.7132%
+24 黄朝华 89.6861 0.7132%
+25 李宁 89.6861 0.7132%
+26 张荣芳 17.9372 0.1426%
+27 陈爱国 17.9372 0.1426%
+合计 12575.0181 100%
+资料来源：公司提供
+历史沿革
+北京煜邦电力技术股份有限公司成立于
+1996年，是华北电力科学研究院为推进科技成
+果产业化而成立的高新技术企业，并由北京盛
+凌电力公司所属全资企业北京华科电力调试技
+术中心投资成立，初始注册资本50万元。经过
+多年发展公司目前已经脱离华北电力科学研究
+院体系，股权已变更为由多家法人股东及自然
+人股东共同出资成立的股份制企业，目前注册
+资本为12575.0181万元，法定代表人周德勤。
+公司于2015年5月8日进行股份制改革，将名称
+由“北京煜邦电力技术有限公司”变更为“北
+京煜邦电力技术股份有限公司”，股权结构发
+生较大变化，具体股权结构如上表所示。公司
+主营业务及其他工商事项未发生变化。
+主要关联方关系
+目前煜邦电力法人股东共计16家，其中规
+模较大的法人股东信息如下：
+北京高景宏泰投资有限公司，成立日期为
+2000年9月4日，注册地址为北京市门头沟区石
+龙经济开发区永安路20号3幢B1-0612室，法定
+代表人为周德勤，注册资本5000万元，主营业
+务为企业投资管理、咨询等。
+公司与主要法人股东为同一实际控制人，
+法人股东与公司之间无关联交易，但法人股东
+可以给予公司一定的资金支持。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京煜邦电力技术股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>截至2016年6月末，公司在职员工合计
+801人，具体人员构成情况如表2所示。
+表 2从业人员情况
+人员学历构成 岗位构成
+学历 人数 职称 人数
+本科及以上 51 管理人员 257
+专科 197 技术人员 146
+高中及以下 553 作业人员 398
+资料来源：公司提供
+公司整体人员结构符合当前经营模式，员
+工中作业岗位人员数量较多，系工厂生产人员，
+员工岗位构成基本合理，较好的匹配了岗位需
+求。</enterprise:有人员素质>
+    <enterprise:有科研条件>及科研成果
+公司致力于自主产品的研发，内部分别设
+有不同产品的研发部门，研发人员配置分别为：
+硬件研发部31人，应用系统事业部73人，新产
+品部11人，技术中心5人，中试部17人，电表研
+发中心12人。公司通过研发已获得了多项产品
+研究成果，拥有核心知识产权，已获授权的专
+利98项，包括发明专利9项、实用新型专利29项、
+软件著作权60项，其中主要的研发成果包括：
+电能小信号计量校准方法及装置、发电厂或变
+电站用无线报警方法及装置、实时时钟宽范围
+温度误差补偿方法及其系统、一种高压联络线
+功率监控方法和装置、一种机组调节性能评价
+方法及装置、一种确定电压闪变主要责任方的
+方法和装置、一种单线图生成方法和装置、智
+能电网数据采集终端的自动检测系统及方法等。
+近三年公司研发费用支出分别为1990万元、
+1997万元、2272万元，随着公司产品技术的不
+断升级，研发费用逐年递增。公司研发符合市
+场方向，目前研发成果可以满足客户当前需求，
+成果转化率较高。
+公司拥有良好的研发环境，研发人员素质
+基本符合研发需求，整体研发技术水平较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京煜邦电力技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>1、产品
+公司现有产品适用于各类电力机构使用，
+产品主要功能是对各类电力设施进行监测、监
+控、监管、显示、统计等，目前主营产品包括：
+电能计量表产品（单相表、三相表）、智能用
+电产品，以及其他电力相关产品。公司将主营
+业务分为产品类和其他服务类，近三年各类业
+务销售情况如下表所示。
+项目 2015年 2014年 2013年
+金额（万 金额（万 金额（万
+占比 占比 占比
+元） 元） 元）
+产品类 34603.70 66.04% 35496.12 70.77% 33170.29 72.03%
+其他服
+17793.55 33.96% 14659.33 29.23% 12880.19 27.97%
+务类
+营业收
+52397.25 100% 50155.45 100% 46050.48 100%
+入合计
+资料来源：公司提供
+公司在电力行业中属于中小型企业，上述
+各类业务销售占比完全由市场需求所决定。
+2015年公司销售占比前两位的单品分别是单相
+电表和三相电表，其中民用类单相电表占比最
+高，约占总收入的30%，其次为电厂、电站、普
+通企业使用的三相电表，约占总收入的20%，其
+余业务合计占总收入的50%。但值得关注的是公
+司主营的单相表和三相表均属于国家统一定价
+产品，公司对该类产品并无自主定价权，上述
+政策已成为限制公司收入增长规模的主要影响
+因素。此外，公司还可为电厂及相关电力企业
+提供日常管理、规划和数据分析用的整体解决
+方案，主要包括：电网信息化解决方案、能源
+互联网解决方案、电厂解决方案等，但公司目
+前主要以产品销售为主要收入来源，整体解决
+方案服务销售收入规模并不大。公司各类产品
+售价范围从几百元到上万元不等，整体解决方
+案按照实施方案需求定价，产品综合毛利率在
+30%左右。
+相比市场同类型产品，公司产品具有如下
+竞争优势：（1）较长的使用寿命与快捷的维修
+服务，公司产品寿命一般在10年左右，并可提
+供24小时维修服务；（2）可定制和较好的兼容
+性，公司产品可根据不同客户的需求进行相应
+的产品定制化服务，设计适合客户要求的产品
+方案，且多数产品之间均可实现互联功能；（3）
+较广的使用范围，公司产品不但可用于电力企
+业，普通居民用户也可使用，且操作灵活便捷。
+上述产品优势主要来源于公司较好的研发能力。
+公司设有多个不同类型产品的研发部门，每年
+会根据市场需求并结合产品特性，研发并加入
+新的应用技术，目前产品配备的主要技术有配
+网终端技术、智能化技术、激光雷达技术等。
+2016年公司针对近年销量较高的电能计量
+表类产品进行了新的技术开发，项目名称为
+“四表合一”产品，该产品集合了单相表、三
+相表、终端类产品的功能，具有“一表多用”
+的特点。目前国内市场尚无类似产品销售，公
+司若能率先研发成功，并将该产品推向市场，
+或将成为新的收入增长点，提升整体经营效率。
+2、供应
+公司生产所需配件为表壳、芯片、继电器、
+模块等，主要采购地区为浙江、山东和福建等
+地。公司主要供应商包括青岛鼎信通讯股份有
+限公司、北京智芯微电子科技有限公司、深圳
+友讯达科技股份有限公司、宁波全盛壳体有限
+公司、厦门宏发电力电气有限公司等。
+公司采购材料原则为按需采购，首先制定
+销售计划，根据计划进行合理的采购安排，采
+购周期为3至6个月不等。公司与供货商的结算
+方式采用货到付款和分期付款，多数供货商可
+为公司提供一定期限的账期。公司与主要供货
+商合作时间较长，货源稳定，且有质量保障。
+由于公司所采购物资为常用电子产品，市场供
+应量充足，所以公司对供应商的依赖程度不高，
+具有较强议价能力。
+3、生产
+公司生产采用以销定产模式，根据销售合
+同制定生产计划。目前公司全部产品均为自有
+工厂生产，公司现有一处租赁生产基地，位于
+北京市昌平区科技园内，占地面积5000平米，
+设有焊接车间、单相表车间、终端车间、包装
+车间、物料车间等，年产量300万件，目前产能
+基本饱和，生产的产品基本可以供货的质量和
+数量。公司为继续提高产能，计划在北京昌平
+南邵购建自有工厂，建设资金一部分来自于自
+有资金的积累，一部分来自于外部融资，目前
+正在进行实地考察。
+4、销售
+煜邦电力主要以参与国家电网统一招投标
+方式进行销售，终端客户主要为各省市的电力
+公司、供电单位和物资公司等。
+通过多年经营，公司在全国多个省市积累
+了丰富的客户资源，销售区域主要为华北、华
+中，上述两地收入合计约占总收入的50%以上，
+目前主要客户包括：国网北京市电力公司、国
+网山东省电力公司物资公司、国网甘肃省电力
+公司、国网四川省电力公司、江苏省电力公司
+物资供应公司、国网内蒙古东部电力有限公司
+物资分公司、国网湖南省电力公司物资公司、
+国网内蒙古东部扎鲁特旗供电有限公司、国网
+浙江省电力公司物资分公司、国网山东单县供
+电公司、国网安徽青阳县供电有限责任公司等。
+上述销售优势区域的形成，与公司原为华北电
+力科学研究院下属企业有较大的关系，公司大
+部分人脉资源均集中在上述两地区。
+公司与客户多为签订框架合同，并预收
+10%-
+20%项目款，回款根据项目进度进行，大部分客
+户回款均较为及时，回款周期为一年左右。值
+得关注的是公司目前项目较多，应收账款金额
+较大，且每年均有700万元左右的坏账产生。公
+司为消除上述不利情况，每年会派专人进行账
+款催收，并通过人脉关系拓展客户需求，增加
+销售份额，减少坏账损失。
+公司主要依靠行业内举行的展会进行产品
+宣传和业务拓展，公司相比行业内其他同类型
+公司的主要优势在于如下几方面：（1）公司销
+售总经理张琪具有多年的行业经验，曾就职于
+华北电科院多年，在国内电力行业内具有较广
+的人脉资源和销售渠道；（2）公司在行业内拥
+有良好的企业知名度，曾获得过多项行业内相
+关认证证书和奖项，具体包括：北京市著名商
+标证书、北京市科学技术奖、中国电力科学技
+术奖、国家电网电能量计量主站系统科技成果
+二等奖、国家电网输电线路数字化平断面图系
+统研究三等奖、华北电网基于三维全景系统的
+输电线智能化生产管理研究特等奖、中国计量
+测试计量优秀单位奖等，上述优势均可为公司
+业务持续的发展奠定了良好的基础。
+需关注的是目前国家电网工程招标批次有
+所减少，受此影响公司近三年收入增长规模有
+所减缓，为消除上述不利情况带来的影响，公
+司从如下几方面进行改进和提升，首先合理安
+排生产管理环节，控制生产成本，加快项目周
+期，快速实施“投标-签合同-生产-出货”等环
+节，提升经营效率；其次公司继续提升产品技
+术含量，增强产品性能，并继续申请行业内相
+关资质，扩大市场知名度，提高中标概率；最
+后公司还将维护重点客户关系，提升老客户粘
+度，挖掘市场需求，有效增加产品的市场占有
+率。
+公司专注于电力产品的研发、生产和销售
+工作，供销渠道较稳定，技术研发水平较好。
+但近年受国家电网招标批次的减少、产品售价
+限制，以及每年发生的坏账影响，导致公司收
+入和利润增长规模均有所受限，虽然公司加强
+了对上述不利影响的应对措施，但仍具有一定
+的经营风险存在。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1.治理机制
+煜邦电力股东为最高权利权利人，并实行
+董事会领导下的总经理负责制的管理方式。公
+司下设技术中心、运营中心、总经办等职能部
+门。
+公司机构设置基本合理，部门分工基本明
+确，治理机制能够满足公司现阶段正常运营需
+要。
+2.内控制度
+煜邦电力制定的规章制度包括：人事管理
+制度、费用报销管理办法、办公用品管理办法、
+销售和收款业务管理办法、固定资产管理办法、
+采购和付款业务流程管理办法等。
+公司内控制度涉及运营的各个方面，具有
+一定的可执行性，基本能够保障公司现阶段正
+常运营。
+经营效率
+公司2013-2015年的总资产增长率、总资产
+周转率、流动资产周转率、应收账款周转率如
+下表所示。对比行业整体指标来看，2015年公
+司总资产增长率处于行业优秀水平，总资产周
+转率、流动资产周转率、存货周转率均处于行
+业良好水平，应收账款周转率处于行业平均值。
+表3 公司资产运营效率衡量指标
+2013年 2014年 2015年
+总资产增长率 - 39.85% 28.78%
+总资产周转率 126.36% 114.76% 89.88%
+流动资产周转
+131.99% 118.79% 92.41%
+率
+应收账款周转
+283.83% 214.23% 161.46%
+率
+存货周转率 - 408.71% 403.80%
+近年随着公司业务的快速发展，总资产呈
+逐年增长趋势。公司按合同约定进行供货，自
+有生产线基本可以满足供货需求，总体项目的
+运转情况均较好。近年公司项目垫资额逐年增
+多，虽然大部分客户回款情况良好，但部分项
+目出现坏账情况，仍有一定的短期资金周转压
+力。
+2015年公司整体资产运营效率较2014年有
+所下滑，但多数指标仍高于行业平均值。另外，
+考虑到我国电力行业发展潜力较大，公司产品
+具有一定的销售潜力，市场前景广阔，公司未
+来成长性依然良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>2016年下半年公司将在产品服务、销售拓
+展等方面进行改进与提升。
+产品计划：公司计划未来几年内将增加现
+有产品类型，提升产品技术含量，提高产品的
+市场竞争力。公司计划2016年下半年研发“四
+表合一”产品，此类型产品在国内属于市场空
+白期，有一定的销售潜力，未来或将成为公司
+主要的收入增长点。
+销售计划：公司预计2016年合同额、销售
+收入及利润较2015年均有所增长。公司完成上
+述销售目标的主要依据是，公司将会陆续推出
+新产品，并依靠行业内的人脉资源可取得一定
+量的订单，但近年的国家电网招标批次有所减
+少，公司利润增长规模受到一定影响，公司能
+否完成上述销售目标仍存在不确定性。
+公司产品品系较全，行业内技术、运维等
+项目实施经验丰富，产品市场认可度较高，供
+销渠道较稳定，同时推出的新产品市场前景乐
+观，有助于分散经营风险，或将进一步提升公
+司经营效率。但限价和坏账影响近期内无法完
+全消除，公司经营仍存在一定风险。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京煜邦电力技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>公司近三年末资产总额分别为36443.02万
+元、50966.38万元、65633.18万元，资产规模
+持续增长，主要源于客户对公司产品的需求不
+断增加。近三年公司总资产中流动资产分别为
+34889.71万元、49554.58万元、63844.96万元
+，分别占总资产的95.74%、97.23%、97.28%，
+占比略有增长。公司2013-2015年末资产结构变
+化情况如图1所示。
+万万万万万
+70,000_ 100%
+90%
+60,000_
+80%
+50,000_ 70%
+40,000_ 60%
+50%
+30,000_ 40%
+图1 2013-2015年末公司资产结构变化图
+截至2015年末，公司流动资产主要由应收
+账款、货币资金和存货构成。2015年末公司流
+动资产构成如图2所示。
+万万, 14%
+万万万万, 29%
+万万万万万万万万,万 1, %1% 万万万万
+万万万万
+万万万万
+万万万万万
+万万
+万万万万万万
+万万万万, 54%
+图2 2015年末公司流动资产构成图
+截至2015年末，公司应收账款34199.09万
+元，占比53.57%，主要为应收货款，主要债务
+方包括：国网湖南省电力公司、内蒙古电力科
+学研究院分公司、江苏省电力公司物资供应公
+司、国网北京市电力公司、江苏省电力公司等，
+大部分应收账款账龄在一年以内，但随着近年
+公司业务增长，垫资金额增加，坏帐数量也有
+所上升。2015年公司共发生坏帐700万元，对流
+动资金占压明显；；货币资金18734.29万元，
+占比29.34%，主要为现金和银行存款；存货
+9063.75万元，占比14.20%，主要为原材料和库
+存商品，公司对采购和生产环节把控较为严格，
+会根据市场部对当年投标情况的预判进行适当
+采购，确保一定的库存数量。
+截至2015年末，公司非流动资产总额
+1788.22万元，占比2.72%，总额较去年同期有
+所增长，主要源于公司集中购进了一批固定资
+产所致。公司固定资产1101.18万元，占比
+61.56%，主要为生产设备、办公用品等。 
+公司具备一定的资产规模，且流动资产占
+比较高，整体资产流动性仍然较强，资产质量
+较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2015年公司速动比率、资产负债率均处于
+行业优秀水平，EBITDA利息保障倍数处于行业
+平均值水平。
+表 5公司偿债能力衡量指标
+2013年 2014年 2015年
+流动比率 1.46 1.57 2.02
+速动比率 1.09 1.31 1.73
+现金流动负债
+-1.43% -10.26% 10.43%
+比
+资产负债率 71.08% 65.78% 48.17%
+EBITDA利息
+6.61 4.08 7.45
+保障倍数
+债务保障倍数 28.44% 39.47% 51.09%
+现金负债总额 -1.32% -9.65% 10.43%
+比
+短期看，公司经营性现金流入对流动负债
+的覆盖程度强，对短期债务的支撑能力强，公
+司短期偿债能力强。长期看，公司近年资产负
+债率持续降低，收入和盈利规模逐年扩大，盈
+利能力尚可，另外考虑到公司具备一定的资产
+规模，且股东增资也在一定程度上增强了公司
+资金实力，公司长期偿债能力强。公司总体偿
+债能力强。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年公司负债总额分别为25902.19万元、335
+27.84万元、31614.68万元，近三年负债规模有
+所波动，主要源于贷款和采购规模的变化。公
+司2013-2015年末负债结构变化如图3所示。
+万万万万万
+35,000_ 80%
+30,000_ 70%
+60%
+25,000_
+50%
+20,000_
+40%
+15,000_
+30%
+10,000_
+20%
+5,000_ 10%
+0_ 0%
+2013万 2014万 2015万
+万万万万 万万万万万 万万万万万
+万万万万万
+图3 2013-2015年末公司负债结构变化图
+80,000_ 45%
+截至2015年末，公司流动负债主要由应付
+70,000_ 40%
+账款、短期借款和应付票据构成。2015年末公
+60,000_ 35%
+司流动负债构成如图4所示。 30%
+50,000_
+25%
+40,000_
+20%
+30,000_ 万万万万 万万万万 15%
+20,000_
+万万万万万万, 万6万%, 0% 10%
+10,000万_万万万万万, 4% 万万万万 万万万万 5%
+万万万万, 30%
+0_ 0%
+2013万 2014万 2015万
+万万万万, 37% 万万万万万万 万万万万
+万万万万 万万万万万 万万万万万
+万万万万, 22%
+万万万万
+图4 2015年末公司流动负债构成图
+2015年末公司应付账款11758.72万元，占
+比37.19%，全部为货款，主要债权单位包括宁
+波飞羚电气有限公司、宁波市全盛壳体有限公
+司、杭州炬华科技股份有限公司、深圳市友讯
+达科技股份有限公司、青岛鼎信通讯股份有限
+公司等，2015年末公司集中支付部分供货商货
+款，应付账款有所减少；短期借款9500万元，
+占比30.05%，分别为华夏银行、民生银行、北
+京银行、招商银行一年期流动资金贷款，目前
+公司银行贷款资金较为充足，近期内无新增贷
+款计划 ；应付票据7052.12万元，占比
+22.31%，主要是国内信用证和银承承兑汇票，2
+015年公司开具用于支付货款的信用证和银行承
+兑汇票较多，导致当年应付票据增幅较大。
+公司近三年末资产负债率分别为71.08%、
+65.78%、48.17%，呈现下降态势，一方面公司
+进行了增资，另一方面公司归还了部分借款所
+致。目前公司资产负债率处于行业优秀水平，
+且贷款资金较为充足，短期内对外融资需求不
+高。
+2013-
+2015年公司未分配利润分别为4194.53万元、75
+51.73万元、3972.06万元，近三年呈波动趋势，
+利润积累状况良好，2015年公司分配了部分利
+润，导致当年未分配利润有所减少。
+近三年公司负债程度持续下降，财务构成
+基本合理，虽然资产负债率处于行业优秀水平，</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-2015年公司盈利情况如图5所示。
+万万万万万
+  60,000_ 30%
+50,000_ 25%
+40,000_ 20%
+图5 2013-2015年末公司盈利情况分布图
+2013-
+2015年公司分别实现营业收入46050.48万元、5
+0155.45万元、52397.25万元；同期利润总额分
+别为3412.09万元、4143.13万元、4853.20万元，
+净利润分别为3003.64万元、
+3619.72万元、4238.88万元，近三年公司业务
+发展情况良好，收入及利润规模均呈增长趋势。
+公司2013-2015年营业收入增长率、营业利
+润率、总资产报酬率和净资产收益率如下表所
+示。对比行业整体来看，2015年公司总资产报
+酬率、净资产收益率均处于行业优秀水平，但
+营业收入增长率、主营业务利润率均处于行业
+较低水平。
+表 4公司盈利能力衡量指标
+2013年 2014年 2015年
+营业收入增长率 - 8.91% 4.47%
+营业利润率 6.09% 7.65% 8.51%
+总资产报酬率 9.36% 9.48% 8.32%
+净资产收益率 28.50% 25.87% 16.48%
+虽然公司业务开展情况良好，收入和盈利
+规模均呈增长趋势，但由于主要产品价格的受
+限，且成本支出逐年上升，导致近三年公司营
+业利润率表现均不佳。公司为分散经营风险，
+提升盈利能力，积极拓展价格受限影响程度较
+低的整体解决方案类业务，包括各类电厂在内
+的电力机构均为该业务的潜在客户，此类业务
+具一定的市场销售潜力，未来盈利能力或将进
+一步提升。目前公司整体盈利能力依然尚可。
+现金流
+2013-
+2015年公司EBITDA分别为3412.09万元、4143.1
+3万元、4853.20万元。近三年公司负债规模有
+所波动，但盈利规模持续增长，盈利对债务的
+覆盖能力较差。2013-2015年现金收入比分别为
+0.96倍、0.84倍、0.81倍，收入实现质量一般。
+2013-2015年公司现金流量状况如图6所示。
+万万万万万
+15,000_
+10,000_
+5,000_
+0_
+-5,000_
+2013万 2014万 2015万
+万万万万万万万 万万万万万万万 万万万万万万万
+ 6 2013-2015年公司现金流量状况变化图
+公司2013-2015年经营活动净现金流量分别
+为-341.53万元、-3233.97万元、3297.51万元，
+近三年经营活动净现金流量呈波动趋势，
+2015年由负转正，上升幅度较大，主要由于当
+年采购使用票据（信用证、银行承兑汇票等）
+进行支付情况增多，货币资金采购支出减少，
+加之收回了部分投标保证金所致。
+公司2013-2015年投资性净现金流量分别为
+-357.13万元、-51.39万元、-
+135.91万元，投资性现金流出主要用于购建固
+定资产和对外投资使用。
+公司2013-2015年筹资性净现金流量分别为
+4547.65万元、928.05万元、10009.67万元，资
+金流入是银行借款和吸收投资取得的现金，资
+金流出主要源于偿还债务、分配股利及筹资费
+用所支付的现金。
+公司收入实现质量一般，经营性净现金流
+量对投资和筹资活动支出的覆盖能力强，自有
+资金的积累对业务规模增长的贡献度高。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京煜邦电力技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>目前公司无信用风险与合规性风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司产品售价受国家定价的影响较大。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司应收账款较大，存在一定的回收风险，
+且有坏账产生。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>近年国家电网招标批次有所减少，受此影
+响公司利润增长规模有所受限。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京煜邦电力技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>39783.01 </enterprise:资产总额>
+    <enterprise:所有者权益>10540.82 </enterprise:所有者权益>
+    <enterprise:负债总额>25902.21 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>46050.48 </enterprise:营业收入>
+    <enterprise:EBITDA>3412.09 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京煜邦电力技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>50815.37 </enterprise:资产总额>
+    <enterprise:所有者权益>17438.54 </enterprise:所有者权益>
+    <enterprise:负债总额>33527.84 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>50155.45 </enterprise:营业收入>
+    <enterprise:EBITDA>4143.13 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京煜邦电力技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>65611.75 </enterprise:资产总额>
+    <enterprise:所有者权益>34018.49 </enterprise:所有者权益>
+    <enterprise:负债总额>31614.69 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>52397.25 </enterprise:营业收入>
+    <enterprise:EBITDA>4853.20 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京煜邦电力技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.26 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>155.41 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京煜邦电力技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.15 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>13.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.09 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京煜邦电力技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.90 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.76 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.04 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京煜邦电力技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>9.36 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>78.61 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京煜邦电力技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>9.48 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>50.71 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京煜邦电力技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>8.32 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>30.97 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京煜邦电力技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>159.93 </enterprise:流动比率>
+    <enterprise:速动比率>123.29 </enterprise:速动比率>
+    <enterprise:资产负债率>65.11 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.61 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京煜邦电力技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>157.16 </enterprise:流动比率>
+    <enterprise:速动比率>131.10 </enterprise:速动比率>
+    <enterprise:资产负债率>65.98 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>4.08 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京煜邦电力技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>201.95 </enterprise:流动比率>
+    <enterprise:速动比率>173.28 </enterprise:速动比率>
+    <enterprise:资产负债率>48.18 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>7.45 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京煜邦电力技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>26.52 </enterprise:毛利率>
+    <enterprise:成本费用利润率>23.21 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.96 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>128.88 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>55.22 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京煜邦电力技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.84 </enterprise:毛利率>
+    <enterprise:成本费用利润率>23.32 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.84 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>94.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>50.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.09 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.26 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京煜邦电力技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>33.41 </enterprise:毛利率>
+    <enterprise:成本费用利润率>27.47 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.81 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>95.77 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>21.83 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.04 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.11 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京煜邦电力技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>7920.34 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>405.62 </enterprise:应收票据>
+    <enterprise:应收账款>15818.78 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>538.92 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1448.20 </enterprise:其他应收款>
+    <enterprise:存货>8757.84 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>3340.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>38229.70 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>892.95 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>47.26 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>423.47 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>189.63 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1553.31 </enterprise:非流动资产合计>
+    <enterprise:资产总计>39783.01 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京煜邦电力技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>5563.03 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>403.60 </enterprise:应收票据>
+    <enterprise:应收账款>30196.71 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1160.91 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4013.70 </enterprise:其他应收款>
+    <enterprise:存货>8216.64 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>49554.59 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>746.09 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>91.22 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>423.47 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1260.78 </enterprise:非流动资产合计>
+    <enterprise:资产总计>50815.37 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京煜邦电力技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>18734.29 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>104.00 </enterprise:应收票据>
+    <enterprise:应收账款>34199.09 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>791.64 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>952.18 </enterprise:其他应收款>
+    <enterprise:存货>9063.75 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>63844.95 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1101.18 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>109.68 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>68.82 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>487.12 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1766.80 </enterprise:非流动资产合计>
+    <enterprise:资产总计>65611.75 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京煜邦电力技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>8500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1000.00 </enterprise:应付票据>
+    <enterprise:应付账款>16857.45 </enterprise:应付账款>
+    <enterprise:预收款项>2635.23 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>866.03 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>992.05 </enterprise:应交税费>
+    <enterprise:应付利息>328.87 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>157.13 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>195.08 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>31531.84 </enterprise:流动负债合计>
+    <enterprise:长期借款>1996.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1996.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>33527.84 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5575.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2600.01 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1711.80 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7551.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>17438.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>17438.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>50966.38 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京煜邦电力技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>8500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1000.00 </enterprise:应付票据>
+    <enterprise:应付账款>16857.45 </enterprise:应付账款>
+    <enterprise:预收款项>2635.23 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>866.03 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>992.05 </enterprise:应交税费>
+    <enterprise:应付利息>328.87 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>157.13 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>195.08 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>31531.84 </enterprise:流动负债合计>
+    <enterprise:长期借款>1996.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1996.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>33527.84 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5575.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2600.01 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1711.80 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7551.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>17438.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>17438.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>50966.38 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京煜邦电力技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>9500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>7052.12 </enterprise:应付票据>
+    <enterprise:应付账款>11758.72 </enterprise:应付账款>
+    <enterprise:预收款项>43.41 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1281.15 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1962.64 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>157.13 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>-140.48 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>31614.69 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>31614.69 </enterprise:负债合计>
+    <enterprise:实收资本或股本>12247.15 </enterprise:实收资本或股本>
+    <enterprise:资本公积>17375.39 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>423.89 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>3972.06 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>34018.49 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>34018.49 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>65633.18 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京煜邦电力技术股份有限公司2013年利润表">
+    <enterprise:营业收入>46050.48 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>33836.74 </enterprise:营业成本>
+    <enterprise:主营业务成本>33836.74 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>214.77 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2895.46 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5282.44 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>516.59 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>500.03 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>8086.89 </enterprise:营业利润>
+    <enterprise:营业外收入>607.67 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.03 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>8694.53 </enterprise:利润总额>
+    <enterprise:所得税费用>408.44 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>8286.09 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>8286.09 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京煜邦电力技术股份有限公司2014年利润表">
+    <enterprise:营业收入>50155.45 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>34688.60 </enterprise:营业成本>
+    <enterprise:主营业务成本>34688.60 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>214.86 </enterprise:营业税金及附加>
+    <enterprise:销售费用>4250.33 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5223.14 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>1014.57 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>924.85 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>9062.24 </enterprise:营业利润>
+    <enterprise:营业外收入>317.32 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>13.29 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>9366.27 </enterprise:利润总额>
+    <enterprise:所得税费用>523.41 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>8842.86 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>8842.86 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京煜邦电力技术股份有限公司2015年利润表">
+    <enterprise:营业收入>52397.25 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>34889.07 </enterprise:营业成本>
+    <enterprise:主营业务成本>34889.07 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>445.95 </enterprise:营业税金及附加>
+    <enterprise:销售费用>4596.50 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>6295.84 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>651.83 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>1058.46 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>10755.44 </enterprise:营业利润>
+    <enterprise:营业外收入>393.61 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>11149.05 </enterprise:利润总额>
+    <enterprise:所得税费用>614.32 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>10534.73 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>10534.73 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京煜邦电力技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>44231.25 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>77.63 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>453.65 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>44762.53 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>3329.22 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2259.90 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>8364.70 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>13953.82 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>30808.71 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>1.50 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.50 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>358.63 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>358.63 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-357.13 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>3297.50 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>15998.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>19295.50 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>9500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1745.69 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>11245.69 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>8049.81 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>38501.39 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京煜邦电力技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>42036.63 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>59.86 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>94.05 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>42190.54 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>5579.07 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2876.47 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3919.85 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>12375.39 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>29815.15 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>1.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>51.39 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>51.39 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-50.39 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>12184.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>12100.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>24284.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>13602.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>647.75 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>14249.75 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>10034.25 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>39799.01 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京煜邦电力技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>42507.66 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4521.35 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>47029.01 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>6397.87 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>4944.09 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5410.99 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>16752.95 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>30276.06 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>86.91 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>86.91 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-86.91 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>12500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>12500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>13496.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1022.12 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>14518.12 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-2018.12 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>28171.03 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京高景宏泰投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京高景宏泰投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>23,061.7085万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>83.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：杨晓琰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨晓琰 </enterprise:股东名称>
+	 <enterprise:货币>1,340.807万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：范亮星 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>范亮星 </enterprise:股东名称>
+	 <enterprise:货币>448.4305万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.63%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：李勇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李勇 </enterprise:股东名称>
+	 <enterprise:货币>366.0657万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.33%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：张琪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张琪 </enterprise:股东名称>
+	 <enterprise:货币>161.435万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.59%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：西藏山南汇鑫茂通咨询合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>西藏山南汇鑫茂通咨询合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>98.0446万元时间：2015-12-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.36%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：晏平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>晏平 </enterprise:股东名称>
+	 <enterprise:货币>98.6547万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.36%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：张荣芳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张荣芳 </enterprise:股东名称>
+	 <enterprise:货币>17.9372万元时间：2015-04-18</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.07%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京紫瑞丰和咨询合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京紫瑞丰和咨询合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京众联致晟科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京众联致晟科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京圣德信设备监理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京圣德信设备监理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：武汉珞珈梧桐新兴产业投资基金合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>武汉珞珈梧桐新兴产业投资基金合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：辽宁联盟中资创业投资企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>辽宁联盟中资创业投资企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京中关村瞪羚创业投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京中关村瞪羚创业投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：北京建华创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京建华创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：青岛静远创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>青岛静远创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：李宁 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李宁 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：陈爱国 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈爱国 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：王凤英 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王凤英 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京煜邦电力技术股份有限公司股东：黄朝华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄朝华 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京煜邦电力技术股份有限公司的商标信息：YUPONT">
+	<enterprise:有申请日期>04-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>YUPONT</enterprise:有商标名称>
+	<enterprise:有注册号>4255214</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京煜邦电力技术股份有限公司的商标信息：煜邦">
+	<enterprise:有申请日期>04-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>煜邦</enterprise:有商标名称>
+	<enterprise:有注册号>4255212</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京煜邦电力技术股份有限公司的商标信息：煜邦">
+	<enterprise:有申请日期>04-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>煜邦</enterprise:有商标名称>
+	<enterprise:有注册号>4255213</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京煜邦电力技术股份有限公司的商标信息：YUPONT">
+	<enterprise:有申请日期>04-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>YUPONT</enterprise:有商标名称>
+	<enterprise:有注册号>4255215</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电网下行设备和电网管理系统">
+	<enterprise:有申请公布日>17-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电网下行设备和电网管理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710656069.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107274657A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种调测装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种调测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621372368.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206248815U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：智能电表的接口转换装置">
+	<enterprise:有申请公布日>17-6-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能电表的接口转换装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621352832.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206223863U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电力抄表系统的无线组网方法和电力抄表设备系统">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>电力抄表系统的无线组网方法和电力抄表设备系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310701133.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103634873B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种自动判别通道树障隐患的方法及装置">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动判别通道树障隐患的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611047921.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106779170A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种马尾松多尺度智能识别的方法及装置">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种马尾松多尺度智能识别的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611048367.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106778511A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种交跨线确定方法和装置">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交跨线确定方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611046171.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106772424A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种指示灯检测装置">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种指示灯检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611265063.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106772131A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：输电线路杆塔的点云数据提取方法及装置">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>输电线路杆塔的点云数据提取方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610985203.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106529029A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单相接地故障的定位方法及装置">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单相接地故障的定位方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611218328.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106526430A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种二次供水服务监测方法及系统">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种二次供水服务监测方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610921943.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106447535A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电表检测系统">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电表检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210574910.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103901387B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：故障指示器的ID设置装置">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>故障指示器的ID设置装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610924513.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106324439A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：单相费控智能电能表的除尘装置">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>单相费控智能电能表的除尘装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610525753.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106216329A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能量计量系统">
+	<enterprise:有申请公布日>16-11-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能量计量系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620649191.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205691664U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能量计量系统及方法">
+	<enterprise:有申请公布日>16-10-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能量计量系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610479750.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106018947A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种家用电器的电能计量装置">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种家用电器的电能计量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521009050.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205427039U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种数字式电能质量检测系统">
+	<enterprise:有申请公布日>16-7-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数字式电能质量检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410745754.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105738849A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种三相智能表载波端口测试装置">
+	<enterprise:有申请公布日>16-6-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种三相智能表载波端口测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521106544.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205317924U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电网对时系统">
+	<enterprise:有申请公布日>16-5-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电网对时系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521130299.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205263584U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：架空型故障指示器（DFI-J-X-K/I-YP27）">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>架空型故障指示器（DFI-J-X-K/I-YP27）</enterprise:有专利名称>
+	<enterprise:有申请号>CN201530440525.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303616951S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种监控区域的方法及装置">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种监控区域的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510940067.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105404266A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种管理机房用户的方法及装置">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种管理机房用户的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510940061.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105405004A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种处理机房故障的方法及装置">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种处理机房故障的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510940793.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105404224A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于双天线的无线电力集抄本地数据的系统">
+	<enterprise:有申请公布日>16-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于双天线的无线电力集抄本地数据的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210580920.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103905088B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种专变采集终端控制模块测试装置">
+	<enterprise:有申请公布日>16-1-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种专变采集终端控制模块测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520718044.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205003543U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：固件更新方法及装置">
+	<enterprise:有申请公布日>16-1-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>固件更新方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510706988.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105278992A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种充电电路">
+	<enterprise:有申请公布日>16-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种充电电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520670287.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204947662U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种交流采样板测试装置">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交流采样板测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520692000.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204925284U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种检测装置、系统及方法">
+	<enterprise:有申请公布日>15-12-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种检测装置、系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510455697.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105182107A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种三相费控智能电能表载波测试装置">
+	<enterprise:有申请公布日>15-12-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种三相费控智能电能表载波测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520696433.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204903751U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种获取架空线路塑蠕伸长后参数的方法">
+	<enterprise:有申请公布日>15-12-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种获取架空线路塑蠕伸长后参数的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510393990.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105160054A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种检测装置">
+	<enterprise:有申请公布日>15-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520560219.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204807649U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种机组调节性能评价方法及装置">
+	<enterprise:有申请公布日>15-9-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种机组调节性能评价方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110271166.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102998543B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：基于LiDAR技术的架空线路蠕变测量方法">
+	<enterprise:有申请公布日>15-9-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于LiDAR技术的架空线路蠕变测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510252824.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104913720A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：智能电网数据采集终端的自动检测系统及方法">
+	<enterprise:有申请公布日>15-7-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能电网数据采集终端的自动检测系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448365.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102540133B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种确定电压闪变主要责任方的方法和装置">
+	<enterprise:有申请公布日>15-7-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种确定电压闪变主要责任方的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110367781.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102495303B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：通信报文采集监测装置">
+	<enterprise:有申请公布日>15-7-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>通信报文采集监测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420823474.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204498154U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种检测工装及检测系统">
+	<enterprise:有申请公布日>15-6-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种检测工装及检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310692801.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104714119A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单相智能表出厂检测装置">
+	<enterprise:有申请公布日>15-5-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单相智能表出厂检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420687610.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204331010U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：交采板测试工装">
+	<enterprise:有申请公布日>15-5-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>交采板测试工装</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420734231.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204331007U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能表事件采集测试工装">
+	<enterprise:有申请公布日>15-5-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能表事件采集测试工装</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420773700.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204331014U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于微功率无线通信协议的家庭用电信息采集系统">
+	<enterprise:有申请公布日>15-4-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于微功率无线通信协议的家庭用电信息采集系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410840570.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104569577A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单相智能表性能试验接入装置">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单相智能表性能试验接入装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420603396.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204101602U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电表检测装置">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>电表检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420611853.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204101720U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电力抄表设备系统">
+	<enterprise:有申请公布日>14-8-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>电力抄表设备系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320840140.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203775417U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：感应式测电装置">
+	<enterprise:有申请公布日>14-7-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>感应式测电装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320761349.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203745528U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于双天线的无线电力集抄本地数据的系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于双天线的无线电力集抄本地数据的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210580920.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103905088A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电表检测系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电表检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210574910.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103901387A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于GIS的直升机巡线语音预警方法及装置">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于GIS的直升机巡线语音预警方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210563366.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884329A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：用于气候影响试验的测试工装及气候影响试验测试系统">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于气候影响试验的测试工装及气候影响试验测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320858250.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203645684U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种检测工装及检测系统">
+	<enterprise:有申请公布日>14-5-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种检测工装及检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320835123.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203595769U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种输电线路故障处理方法及装置">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输电线路故障处理方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310636672.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103632229A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电力抄表系统的无线组网方法和电力抄表设备系统">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>电力抄表系统的无线组网方法和电力抄表设备系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310701133.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103634873A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于输电线路三维全景模型的故障处理方法及系统">
+	<enterprise:有申请公布日>14-2-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于输电线路三维全景模型的故障处理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010033624.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102118021B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电能质量数据实时采集方法及装置">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电能质量数据实时采集方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310549604.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103577263A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电能质量数据中的可疑数据检测方法及装置">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电能质量数据中的可疑数据检测方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310549588.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103577695A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电力谐波预测方法及装置">
+	<enterprise:有申请公布日>14-1-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电力谐波预测方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310530730.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103543332A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种风电设备管理信息系统">
+	<enterprise:有申请公布日>13-11-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种风电设备管理信息系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310231364.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103413248A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单线图生成方法和装置">
+	<enterprise:有申请公布日>13-11-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单线图生成方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110450692.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102592005B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于双天线的无线电力集抄本地数据的系统">
+	<enterprise:有申请公布日>13-9-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于双天线的无线电力集抄本地数据的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220736592.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203206236U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能小信号计量校准方法及装置">
+	<enterprise:有申请公布日>13-9-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能小信号计量校准方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110025906.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102129062B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电表检测系统">
+	<enterprise:有申请公布日>13-6-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电表检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220729224.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202995027U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电能质量监测设备及其系统">
+	<enterprise:有申请公布日>13-6-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电能质量监测设备及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220729339.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202994941U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：输电线路数字化平断面图生成方法及装置">
+	<enterprise:有申请公布日>13-6-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>输电线路数字化平断面图生成方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010034340.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102129484B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种采集器自动测试工装系统">
+	<enterprise:有申请公布日>13-6-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种采集器自动测试工装系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220733157.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202975216U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：单相智能电表的温度影响测试台设备及实验平台设备">
+	<enterprise:有申请公布日>13-6-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>单相智能电表的温度影响测试台设备及实验平台设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220748316.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202975315U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电压转换装置">
+	<enterprise:有申请公布日>13-5-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电压转换装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220640921.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202957754U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种用于网络家电的电能计量装置及方法">
+	<enterprise:有申请公布日>13-5-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于网络家电的电能计量装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110351134.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103105528A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种采集器生产质量检测系统">
+	<enterprise:有申请公布日>13-4-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种采集器生产质量检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210586219.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103049994A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种机组调节性能评价方法及装置">
+	<enterprise:有申请公布日>13-3-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种机组调节性能评价方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110271166.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102998543A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：实时时钟宽范围温度误差补偿方法及其系统">
+	<enterprise:有申请公布日>13-2-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>实时时钟宽范围温度误差补偿方法及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110030295.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102163041B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：通信协议一致性测试系统的标准集中器">
+	<enterprise:有申请公布日>13-1-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>通信协议一致性测试系统的标准集中器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120461483.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202696631U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：通信协议一致性测试系统的标准电能表">
+	<enterprise:有申请公布日>13-1-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>通信协议一致性测试系统的标准电能表</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120461258.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202696630U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：发电厂或变电站用无线报警方法及装置">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>发电厂或变电站用无线报警方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110027059.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102096987B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种特高压联络线功率监控方法和装置">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种特高压联络线功率监控方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110039934.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102110982B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：智能电网数据采集终端的程序下载及时钟校准工装">
+	<enterprise:有申请公布日>12-8-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能电网数据采集终端的程序下载及时钟校准工装</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120548967.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202372881U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种用于网络家电的电能计量装置">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于网络家电的电能计量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120441657.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202339377U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单线图生成方法和装置">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单线图生成方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110450692.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102592005A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种短路自动报警的电源线">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种短路自动报警的电源线</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120372137.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202340026U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种PT二次回路压降实时同步测量装置">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种PT二次回路压降实时同步测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120441656.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202339371U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：智能电网数据采集终端的自动检测系统及方法">
+	<enterprise:有申请公布日>12-7-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能电网数据采集终端的自动检测系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448365.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102540133A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种确定电压闪变主要责任方的方法和装置">
+	<enterprise:有申请公布日>12-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种确定电压闪变主要责任方的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110367781.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102495303A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能表">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能表</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120358391.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202256494U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：对电表中的计量芯片和锰铜片进行温度补偿的方法">
+	<enterprise:有申请公布日>12-5-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>对电表中的计量芯片和锰铜片进行温度补偿的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263080.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102445576A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：通信协议一致性测试系统的标准采集器">
+	<enterprise:有申请公布日>12-3-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>通信协议一致性测试系统的标准采集器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120123055.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202178773U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于可充电电池的充放电管理的电路">
+	<enterprise:有申请公布日>11-9-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于可充电电池的充放电管理的电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120013274.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201975812U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：实时时钟宽范围温度误差补偿方法及其系统">
+	<enterprise:有申请公布日>11-8-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>实时时钟宽范围温度误差补偿方法及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110030295.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102163041A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电能小信号计量校准方法及装置">
+	<enterprise:有申请公布日>11-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>电能小信号计量校准方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110025906.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102129062A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：输电线路数字化平断面图生成方法及装置">
+	<enterprise:有申请公布日>11-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>输电线路数字化平断面图生成方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010034340.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102129484A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种基于输电线路三维全景模型的故障处理方法及系统">
+	<enterprise:有申请公布日>11-7-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于输电线路三维全景模型的故障处理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010033624.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102118021A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：通信协议一致性检测方法和系统">
+	<enterprise:有申请公布日>11-7-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>通信协议一致性检测方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110078396.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102118282A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种特高压联络线功率监控方法和装置">
+	<enterprise:有申请公布日>11-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种特高压联络线功率监控方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110039934.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102110982A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：发电厂或变电站用无线报警方法及装置">
+	<enterprise:有申请公布日>11-6-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>发电厂或变电站用无线报警方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110027059.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102096987A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种单向传输装置、数据采集系统及方法">
+	<enterprise:有申请公布日>10-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种单向传输装置、数据采集系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910082218.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101867557A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电压互感器二次回路压降同步检测装置">
+	<enterprise:有申请公布日>10-4-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>电压互感器二次回路压降同步检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920142350.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201438201U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：电压互感器二次回路压降检测装置">
+	<enterprise:有申请公布日>10-2-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>电压互感器二次回路压降检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920142349.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201402286Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京煜邦电力技术股份有限公司的专利信息：一种电压互感器二次回路压降检测装置">
+	<enterprise:有申请公布日>10-2-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电压互感器二次回路压降检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920142351.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201402287Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：配电自动化站所终端测控板软件">
+	<enterprise:有批准日期>17-1-5</enterprise:有批准日期>
+	<enterprise:有软件全称>配电自动化站所终端测控板软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR004737</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：61850数据采集软件">
+	<enterprise:有批准日期>17-1-3</enterprise:有批准日期>
+	<enterprise:有软件全称>61850数据采集软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR001041</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：架空故障数据转发装置软件">
+	<enterprise:有批准日期>17-1-3</enterprise:有批准日期>
+	<enterprise:有软件全称>架空故障数据转发装置软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR001049</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：故障定位系统采集终端软件">
+	<enterprise:有批准日期>17-1-3</enterprise:有批准日期>
+	<enterprise:有软件全称>故障定位系统采集终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR001095</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：配电自动化站所终端通讯板软件">
+	<enterprise:有批准日期>17-1-3</enterprise:有批准日期>
+	<enterprise:有软件全称>配电自动化站所终端通讯板软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR001169</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：广投银海铝能源管理系统">
+	<enterprise:有批准日期>16-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>广投银海铝能源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR390495</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能质量数据交换格式(PQDIF)比较软件">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>电能质量数据交换格式(PQDIF)比较软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR386231</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：直升机巡检缺陷报告生成软件">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>直升机巡检缺陷报告生成软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR387181</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输电线路激光LiDAR数据处理软件">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>输电线路激光LiDAR数据处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR387188</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：61850模型检测软件">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>61850模型检测软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR386910</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：机房一体化安全管控系统">
+	<enterprise:有批准日期>16-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>机房一体化安全管控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR309205</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：二次供水泵房远程监控系统">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>二次供水泵房远程监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR305552</enterprise:有登记号>
+	<enterprise:有分类号>30200-4600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：直升机航线制定辅助决策系统">
+	<enterprise:有批准日期>15-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>直升机航线制定辅助决策系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR250634</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：基于GIS的电能量分析管理系统">
+	<enterprise:有批准日期>15-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>基于GIS的电能量分析管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR248873</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：生产技术管理系统">
+	<enterprise:有批准日期>15-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>生产技术管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR248282</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输电线路激光扫描数据三维可视化系统">
+	<enterprise:有批准日期>15-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>输电线路激光扫描数据三维可视化系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR249474</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：基于D5000规范的电能量信息采集系统">
+	<enterprise:有批准日期>15-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>基于D5000规范的电能量信息采集系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR222757</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能量计量统计分析软件">
+	<enterprise:有批准日期>15-7-7</enterprise:有批准日期>
+	<enterprise:有软件全称>电能量计量统计分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR126365</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力用户用电信息采集终端交流采样模块软件">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>电力用户用电信息采集终端交流采样模块软件</enterprise:有软件全称>
+	<enterprise:有软件简称>交采软件</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026035</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：I型集中器微功率无线本地通信单元软件">
+	<enterprise:有批准日期>15-1-30</enterprise:有批准日期>
+	<enterprise:有软件全称>I型集中器微功率无线本地通信单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR018624</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：热力数据采集装置软件">
+	<enterprise:有批准日期>15-1-30</enterprise:有批准日期>
+	<enterprise:有软件全称>热力数据采集装置软件</enterprise:有软件全称>
+	<enterprise:有软件简称>EDAD-T</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR018630</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电表微功率无线通信单元软件">
+	<enterprise:有批准日期>15-1-29</enterprise:有批准日期>
+	<enterprise:有软件全称>电表微功率无线通信单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR017481</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输电线路状态监测代理CMA通信单元软件">
+	<enterprise:有批准日期>15-1-29</enterprise:有批准日期>
+	<enterprise:有软件全称>输电线路状态监测代理CMA通信单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>CMA软件</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR017455</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能质量分析系统电能质量分析仪数据处理单元软件">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>电能质量分析系统电能质量分析仪数据处理单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称>电能质量分析仪数据处理单元软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR204763</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：用电信息采集通信性能测试系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>用电信息采集通信性能测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200498</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：调度信息高清大屏展示系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>调度信息高清大屏展示系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200156</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：智慧社区管理系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧社区管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200700</enterprise:有登记号>
+	<enterprise:有分类号>30106-7200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力公司网上营业厅系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>电力公司网上营业厅系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200352</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：调度实时数据监控分析系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>调度实时数据监控分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200374</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：机场能源管理系统">
+	<enterprise:有批准日期>14-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>机场能源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR200094</enterprise:有登记号>
+	<enterprise:有分类号>30207-5500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：基于GIS的风电场设备管理信息系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>基于GIS的风电场设备管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145154</enterprise:有登记号>
+	<enterprise:有分类号>30106-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输变电状态监测GIS应用系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>输变电状态监测GIS应用系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145047</enterprise:有登记号>
+	<enterprise:有分类号>30208-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：多维度输变电设备不良工况诊断评价系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>多维度输变电设备不良工况诊断评价系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145204</enterprise:有登记号>
+	<enterprise:有分类号>30108-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：95598呼叫平台">
+	<enterprise:有批准日期>13-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>95598呼叫平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR141958</enterprise:有登记号>
+	<enterprise:有分类号>30106-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：企业能源管理系统">
+	<enterprise:有批准日期>13-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR141990</enterprise:有登记号>
+	<enterprise:有分类号>30207-3600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：95598呼叫平台运营管理系统">
+	<enterprise:有批准日期>13-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>95598呼叫平台运营管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR141983</enterprise:有登记号>
+	<enterprise:有分类号>30106-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力用户用电信息采集系统智能电表微功率无线通信单元软件">
+	<enterprise:有批准日期>13-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>电力用户用电信息采集系统智能电表微功率无线通信单元软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR137651</enterprise:有登记号>
+	<enterprise:有分类号>40000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能表直接采集软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>电能表直接采集软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR018743</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能量前置采集软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>电能量前置采集软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR018737</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输电线路平断面图系统">
+	<enterprise:有批准日期>12-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>输电线路平断面图系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR136724</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力用户用电信息采集终端国网集中器软件">
+	<enterprise:有批准日期>12-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>电力用户用电信息采集终端国网集中器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>国网集中器软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR126223</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：基于空间信息服务平台的电力车辆抢修实时调度系统">
+	<enterprise:有批准日期>12-9-1</enterprise:有批准日期>
+	<enterprise:有软件全称>基于空间信息服务平台的电力车辆抢修实时调度系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电力车辆抢修调度系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR082279</enterprise:有登记号>
+	<enterprise:有分类号>30103-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能质量数据挖掘分析系统">
+	<enterprise:有批准日期>12-9-1</enterprise:有批准日期>
+	<enterprise:有软件全称>电能质量数据挖掘分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR082078</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：PAPMS-e电厂经济指标综合管理分析系统">
+	<enterprise:有批准日期>12-8-10</enterprise:有批准日期>
+	<enterprise:有软件全称>PAPMS-e电厂经济指标综合管理分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PAPMS-e电厂指标系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR073291</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：PAPMS-agc电厂AGC调节性能评价考核系统">
+	<enterprise:有批准日期>12-8-10</enterprise:有批准日期>
+	<enterprise:有软件全称>PAPMS-agc电厂AGC调节性能评价考核系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PAPMS-agc</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR073040</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：PAPMS-d电厂电能量计量与燃煤机组脱硫监测系统">
+	<enterprise:有批准日期>12-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>PAPMS-d电厂电能量计量与燃煤机组脱硫监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PAPMS-d脱硫监测系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR068197</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能质量智能分析专家系统">
+	<enterprise:有批准日期>11-11-18</enterprise:有批准日期>
+	<enterprise:有软件全称>电能质量智能分析专家系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR084468</enterprise:有登记号>
+	<enterprise:有分类号>30207-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能质量智能监测分析Web应用系统">
+	<enterprise:有批准日期>11-11-18</enterprise:有批准日期>
+	<enterprise:有软件全称>电能质量智能监测分析Web应用系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR084427</enterprise:有登记号>
+	<enterprise:有分类号>30104-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：高压试验信息管理系统">
+	<enterprise:有批准日期>11-4-22</enterprise:有批准日期>
+	<enterprise:有软件全称>高压试验信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR022674</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：三相智能电能表软件">
+	<enterprise:有批准日期>11-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>三相智能电能表软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR013867</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：单相远程费控智能485电能计量系统">
+	<enterprise:有批准日期>11-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>单相远程费控智能485电能计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR013865</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：单相多功能485电能计量系统">
+	<enterprise:有批准日期>10-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>单相多功能485电能计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR064970</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：单相多费率485电能计量系统">
+	<enterprise:有批准日期>10-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>单相多费率485电能计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR064953</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：单相远程费控智能载波电能计量系统">
+	<enterprise:有批准日期>10-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>单相远程费控智能载波电能计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR064984</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：单相普通电子式电能计量系统">
+	<enterprise:有批准日期>10-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>单相普通电子式电能计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR064966</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：输变电设备状态检修辅助决策系统">
+	<enterprise:有批准日期>10-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>输变电设备状态检修辅助决策系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR028791</enterprise:有登记号>
+	<enterprise:有分类号>65500-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：发电厂厂用电量综合管理分析系统">
+	<enterprise:有批准日期>09-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>发电厂厂用电量综合管理分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR023135</enterprise:有登记号>
+	<enterprise:有分类号>69900-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：XYJ011-B型PT二次回路压降测试仪负荷测量系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>XYJ011-B型PT二次回路压降测试仪负荷测量系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19188</enterprise:有登记号>
+	<enterprise:有分类号>69900-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力负荷控制终端读表系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>电力负荷控制终端读表系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19152</enterprise:有登记号>
+	<enterprise:有分类号>69900-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：XYJ011-B型PT二次回路压降测试仪终端控制系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>XYJ011-B型PT二次回路压降测试仪终端控制系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19186</enterprise:有登记号>
+	<enterprise:有分类号>66000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电能采集终端系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>电能采集终端系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19155</enterprise:有登记号>
+	<enterprise:有分类号>69900-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力负荷控制终端控制系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>电力负荷控制终端控制系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19154</enterprise:有登记号>
+	<enterprise:有分类号>66000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：XYJ011-B型PT二次回路压降测试仪压降测量系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>XYJ011-B型PT二次回路压降测试仪压降测量系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19187</enterprise:有登记号>
+	<enterprise:有分类号>69900-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力负荷控制终端监测系统 V1.0">
+	<enterprise:有批准日期>08-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>电力负荷控制终端监测系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR19153</enterprise:有登记号>
+	<enterprise:有分类号>66000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：MPDCS-N多规约远方电能采集系统 V2.0">
+	<enterprise:有批准日期>07-7-11</enterprise:有批准日期>
+	<enterprise:有软件全称>MPDCS-N多规约远方电能采集系统 V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR10165</enterprise:有登记号>
+	<enterprise:有分类号>66500-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：MPTMS-U电量计费系统 V1.0.0">
+	<enterprise:有批准日期>07-7-11</enterprise:有批准日期>
+	<enterprise:有软件全称>MPTMS-U电量计费系统 V1.0.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR10166</enterprise:有登记号>
+	<enterprise:有分类号>66500-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：电力客户服务系统 CRM1.0 [简称: 客服系统]">
+	<enterprise:有批准日期>02-11-13</enterprise:有批准日期>
+	<enterprise:有软件全称>电力客户服务系统 CRM1.0 [简称: 客服系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR3718</enterprise:有登记号>
+	<enterprise:有分类号>64000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京煜邦电力技术股份有限公司的软件著作：MPTMS2001电量计费系统 Ver 1.0">
+	<enterprise:有批准日期>02-7-15</enterprise:有批准日期>
+	<enterprise:有软件全称>MPTMS2001电量计费系统 Ver 1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR1218</enterprise:有登记号>
+	<enterprise:有分类号>65000-3300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京煜邦电力技术股份有限公司的网站备案：北京煜邦电力技术有限公司">
+	<enterprise:有审核时间>10-11-18</enterprise:有审核时间>
+	<enterprise:有网站全称>北京煜邦电力技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.yupont.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>yupont.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05031476号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京煜邦电力技术股份有限公司的网站备案：煜邦公司智慧水务平台">
+	<enterprise:有审核时间>17-10-31</enterprise:有审核时间>
+	<enterprise:有网站全称>煜邦公司智慧水务平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.watersec.cn</enterprise:有网站首页>
+	<enterprise:有域名>watersec.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09038062号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京煜邦电力技术股份有限公司的网站备案：北京煜邦">
+	<enterprise:有审核时间>17-10-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京煜邦</enterprise:有网站全称>
+	<enterprise:有网站首页>www.yupont.com</enterprise:有网站首页>
+	<enterprise:有域名>yupont.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备09038062号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京煜邦电力技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京煜邦电力技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司产品市场需求良好，近年业务规模有所增长，市场前景较好</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京煜邦电力技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>国家电网等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>经营状况良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京煜邦电力技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>公司技术水平较好，可以满足客户的需求，有利于进一步拓展市场</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京煜邦电力技术股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村百家创新型企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京煜邦电力技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>目前我国电力行业产品市场需求旺盛，公司主要客户为国家电网等，客户质
+量均较高，产品拥有较好的市场前景。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京煜邦电力技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京煜邦电力技术股份有限公司的企业法人代表：周德勤">
+	<enterprise:名称>周德勤</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码>110107196301020674</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长、总经理</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2012年 11月 至今 北京煜邦电力技术股份有限公司 董事长、总经理
+2000年 9月 至今 北京高景宏泰投资有限公司 董事长、总经理
+1998年 3月 2000年 9月 福建华能经济发展公司及福建华能房地产开发公司 常务副总经理
+1988年 9月 1998年 3月 中国华能集团公司综合利用公司 项目经理
+1981年 7月 1988年 9月 国家水利电力部第二工程局 项目经理</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京煜邦电力技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110114774721901J</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>未提供</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京煜邦电力技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-0.04</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0.39</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京煜邦电力技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京煜邦电力技术股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京煜邦电力技术股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京煜邦电力技术股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京煜邦电力技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>27</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>9</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>7</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>11</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京煜邦电力技术股份有限公司的专利数量">
+	<enterprise:专利总计>46</enterprise:专利总计>
+	<enterprise:专利数量2013>16</enterprise:专利数量2013>
+	<enterprise:专利数量2014>13</enterprise:专利数量2014>
+	<enterprise:专利数量2015>17</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京煜邦电力技术股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京煜邦电力技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

@@ -1,0 +1,1387 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京十分科技有限公司的企业概况">
+    <enterprise:有名称>北京十分科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087662601644</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>1101020003913145</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国银行朝外大街支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004年08月25日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>第二类增值电信业务中的信息服务业务（不含固定网电话信息服务和互联网信息服务）；互联网学术出版物、互联网文学出版物、手机出版物；技术开发、技术推广；经济贸易咨询（不含中介）；销售计算机、软件及辅助设备；代理、发布广告；投资与资产管理；数据处理。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）第二类增值电信业务中的信息服务业务（不含固定网电话信息服务和互联网信息服务）；互联网学术出版物、互联网文学出版物、手机出版物；技术开发、技术推广；经济贸易咨询（不含中介）；销售计算机、软件及辅助设备；代理、发布广告；投资与资产管理；数据处理。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>电信增值、互联网</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区八宝庄11号楼一层富锦花园酒店1205室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市东城区雍和大厦B座607</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100000</enterprise:有邮政编码>
+    <enterprise:有联系人>屈炜</enterprise:有联系人>
+    <enterprise:有联系电话>13811648041</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.tenfen.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京十分科技有限公司成立于2004年8月25
+日，注册地址为北京市海淀区八宝庄11号楼一
+层富锦花园酒店1205室，法定代表人耿溟，目
+前注册资本为1000万元，股东及持股比例如表
+一。
+表一：十分科技股东及持股情况 单位：万元
+股东名称 出资额 股权比例（%） 出资形式
+李  鹏 550 55 货币
+李  波 200 20 货币
+耿  溟 150 10 货币
+高鹏程 60 6 货币
+高鹏飞 40 4 货币
+合  计 1000 100
+十分科技主要从事数字出版行业的平台建
+设和数字内容的整合与发行，以及移动互联网
+手游支付服务。2010年12月，公司取得互联网
+出版许可资质；2015年1月，公司通过中华人民
+共和国工业和信息化部组织的增值电信业务经
+营许可资质审核；2015年7月，公司通过“中关
+村高新技术企业”资格认证，以及北京市科学
+技术委员会等四部门组织的“高新技术企业”
+资格认证；2015年9月，公司通过中华人民共和
+国工业和信息化部短消息类服务接入许可。
+截至2015年底，十分科技资产总额为13293
+.66万元，净资产为1684.74万元；2015年累计
+实现主营业务收入15535.77万元，利润总额199
+9.30万元；2015年经营活动产生的现金净流量
+为228.06万元；投资活动产生的现金净流量为-
+151.86万元；筹资活动产生的现金净流量为-
+360.31万元；现金及现金等价物净增加额为-
+活动产生一定的约束。
+284.11万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京十分科技有限公司的基础素质">
+    <enterprise:有管理素质>十分科技法定代表人兼CEO耿溟，曾任职于
+北京龙迹天地科技有限公司、杭州联梦科技有
+限公司、北京海蝶时代数码科技有限公司，200
+8年11月起任职于十分科技。
+公司副总裁王冰、董秘屈炜、财务总监周
+蕊均具备一定的相关工作经验。
+总体看，十分科技管理层稳定，相互间协
+调性较好，基本满足公司目前经营和管理的需
+要。
+研发概况
+十分科技现有员工72人，其中研发人员10
+人；公司研发人员均具有本科及以上学历；拥
+有高级职称的1人。研发团队的知识水平和业务
+经验满足公司目前需要。
+近三年，十分科技研发费用均占当期主营
+业务收入的5%以上，科研经费投入较为充足，
+能够较好的满足公司科研需求。 
+截至2016年6月底，十分科技共获得计算机
+软件著作权登记证书13项，分别为“噩梦乐园
+游戏软件V1.0”、“图书资源发布平台V1.0”
+、“运营商能力开发业务平台V1.0”、“图书
+资源版权管理平台V1.0”、“数字内容在线出
+版平台V1.0”、“移动互联办公学习数字管理
+平台V1.0”、“图书资源加工系统V1.0”、“
+软件V1.0”、“酷云客户端软件V1.0”、“酷
+云TVAndroid客户端软件V1.0”、“酷云阅读an
+droid客户端软件V1.0”、“手机阅读平台支撑
+系统V1.0”。
+总体看，十分科技自主研发的产品市场转
+化效果较好，并形成了较好的收益。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>-</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京十分科技有限公司的经营管理">
+    <enterprise:其经营分析为>十分科技主要从事数字出版行业的平台建
+设和数字内容的整合与发行，以及移动互联网
+手游支付服务。2015年，十分科技实现主营业
+务收入15535.77万元，其中，移动互联网手游
+支付业务形成收入约占80%，该业务利润率约为
+16%；移动互联网阅读业务形成收入约占20%，
+该业务利润率约为35%。
+移动互联网阅读方面，十分科技主要向数
+字出版和发行机构提供数据出版运营服务，包
+括内容引入、版权交易、内容版权和不良信息
+审核、内容编辑、营销推广和技术支撑等服务
+。
+公司根据运营商内容引入需求，引进原创
+网站、出版社、独立撰稿人、出版集团等合作
+伙伴，建立以优质畅销书版权引入流程，2011
+年至今共引入内容资源版权520172册，均拥有
+清晰版权，其中，图书378628册，共有言情、
+都市、玄幻、穿越等32种类别；杂志37484本，
+包括财经、文学、生活等22种类别；听书13760
+本，共计117026小时。公司在全国拥有包括出
+版社、图书出版公司、版权代理机构在内的内
+容合作伙伴298家。
+采购方面，主要采购内容为相关资源的版
+方式；对于一般资源，公司采取形成收益后分
+成的方式，此种方式对资金的占压较少。公司
+所采购的资源均经过内部严格筛选，需符合市
+场预期的同时，不应违背国家相关政策。
+由于公司采购来的资源格式各异，公司需
+处理成满足合作方需求的相关格式，之后交由
+合作方的平台进行销售，形成收益后，由相关
+平台、十分科技、原版权拥有方进行收益分配
+，一般合作平台均为行业知名企业，如腾讯、
+亚马逊等图书销售平台。
+移动互联网手游支付方面，十分科技主要
+承担着支付服务商和游戏渠道商的角色，主要
+收入来源为手机游戏的支付分成收入。
+随着移动互联网的普及，手机游戏呈现快
+速发展趋势，游戏运营商为增加玩家粘合度、
+提升支付环节的便利性、以及获取更多受众，
+一般会采用与电信运营商合作的模式，其支付
+环节采用各大运营商通讯话费支付的方式，此
+方法会节省游戏运营商的支付系统开发成本，
+并且提高支付的便利性和系统稳定性。
+受各大电信运营商体制影响，其在选择合
+作伙伴时，相对要求较高，大部分游戏运营商
+无法满足，十分科技凭借自身的平台资源以及
+支付通道优势，获得各大电信运营商的认可，
+由十分科技搭建渠道，游戏运营商通过十分科
+技与电信运营商建立支付通道，玩家产生游戏
+消费后，由电信运营商、十分科技、游戏运营
+商按照比例进行分成，通常情况下，十分科技
+对游戏运营商的结算周期为2个月，电信运营商
+对十分科技的结算周期为4个月，因此，十分科
+技存在一定的资金需求，用于对游戏运营商的
+对于游戏运营商的选择，十分科技对游戏
+的消费交易量、游戏的质量以及游戏的发展态
+势均有一定的要求，以保证形成合作后，能够
+对十分科技形成持续且具备一定规模的现金流
+。
+十分科技目前设有六个分公司，分别为杭
+州、长沙、广州、成都、长春、西安，除杭州
+、长沙开展业务外，其他分公司尚未开展业务
+。
+目前，十分科技两大业务的核心竞争力为
+渠道优势和资源整合优势，公司已经历渠道的
+搭建投入、平台开发投入和资源获取阶段，近
+三年，实现资产规模和收入规模的快速增长，
+并初步实现盈利。
+图一：2013-2015年十分科技收益状况（万元）
+总体看，十分科技运营模式趋于完善，主
+营业务得到较好的市场认可，未来发展态势乐
+观。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>十分科技施行总裁负责制，设有财务、数
+字出版、移动支付、技术等部门，目前十分科
+技具有较为完善的法人治理结构，决策机制和
+决策效率适应现阶段发展需要。
+从管理效率看，2013-
+2015年，十分科技管理费用率分别为81.46%、9
+.33%和3.44%，公司产品和技术趋于成熟，其前
+期投入效果逐步显现，管理费用比重逐年降低
+；同期成本率分别为151.76%、85.13%和87.13%
+，公司成本费用的控制能力得到增强，稳定在
+较好水平。
+从运营效率看，2013-
+2015年，十分科技应收账款周转率分别为4.09
+15,000.00
+10,000.00
+关村科技园区企业信用评级报告
+5,000.00
+-
+-5,000.00 2013年 2014年 2015年
+主营业务收入 利润总额
+净资产 总资产
+次、2.36次和2.15次，公司近几年应收账款增
+加较快，账款回收效率有所弱化；公司经营活
+动产生的存货较少，与其业务特点相符；同期
+总资产周转率分别为1.04次、1.45次和1.68次
+，整体运营效率尚可。
+总体看，十分科技管理体制完善，成本费
+用控制能力较好，整体运营能力尚可。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一段时间，十分科技仍将围绕现有两
+大业务领域发展。
+移动互联网阅读方面，保持现有运营商支
+撑的独家资源，同时整合运营商上下游渠道；
+多元化发展，逐步成为优质的数字出版交易平
+台；拓展海外市场。
+移动互联网手游支付方面，强化产业链地
+位价值，扩大现有资源优势，实现手游聚合服
+务平台；利用平台优势，实现一点接入、全网
+发行；以手游业务带动移动互联网中有支付需
+求的所有应用，实现移动互联网全支付；利用
+现有移动互联网资源，拓展海外市场，实现海
+外市场聚合支付服务能力。
+此外，十分科技将在传统阅读书籍的基础
+上，开拓与有声出版、影视改编、游戏发行等
+相关领域的业务。将加大与知名度较高的客户
+合作，推进与南方传媒集团、网易云阅读及河
+北联通等客户的深入合作。
+2016年，十分科技预计实现销售收入20000
+万元、利润总额2500万元，截至2016年6月底，
+公司实现主营业务收入8162.23万元、利润总额
+847.68万元，根据其经营状况以及往年收入增
+长速度来看，该经营预期具备实现的可能。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京十分科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，十分科技资产总额分别为1562.19万元
+、5217.30万元和13293.66万元，其中，流动资
+产分别占86.79%、96.40%和97.42%；长期投资
+分别占6.40%、0%和0.75%，是对子公司北京书
+礼行知文化传媒有限公司的股权投资；固定资
+产分别占6.77%、0.46%和0.15%，为运输工具、
+办公设备及其他；无形资产及其他资产合计分
+别占0.04%、3.13%和1.67%，为文学作品版权和
+资产减值准备。
+截至2015年底，十分科技流动资产主要由
+货币资金、应收账款、其他应收款和存货构成
+。其中，货币资金占0.35%，保有量较少；应收
+账款占82.61%，账龄在一年以内的部分占98%，
+主要债务人有甘肃飞羽通信科技有限公司、杭
+州正皓瀛天科技有限公司、北京精麦通无线信
+息服务有限公司、江苏春秋文书科技有限公司
+等，公司与销售客户过往履约状况较好，销售
+往来款；存货占2.59%，为库存商品，结合存货
+周转效率看，该部分资产质量较好。
+截至2016年6月底，公司资产结构中，仍以
+应收账款为主，占当期流动资产的74.24%。
+总体看，十分科技资产质量和流动性尚可
+。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，十分科技流动比率分别为0.55倍、0.9
+6倍和1.12倍；同期速动比率分别为0.55倍、0.
+96倍和1.09倍，公司短期支付能力尚可。
+2013-
+2015年，十分科技息税折旧摊销前盈余EBITDA
+分别为-
+828.21万元、787.99万元和2030.98万元，经营
+活动获取自由现金的能力快速增强，有利于对
+有息债务提供较好保障。
+2016年，十分科技计划实现主营业务收入2
+0000万元、利润总额2500万元，计划债务性融
+资1000万元，若经营计划得以实现，根据2015
+年底财务数据测算，其 
+EBITDA有望达到2550万元，对可能形成的1000
+万元有息债务保障程度较好。
+结合十分科技的经营状况、资产构成、盈
+利状况及财务结构等因素，君维诚认为十分科
+技未来发生信用风险的可能性一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，十分科技主营业务收入分别为1727.33
+万元、4927.81万元和15535.77万元，呈快速增
+长趋势；同期主营业务利润率分别为94.68%、2
+6.64%和18.90%，随着移动支付业务比重的增加
+，公司主营业务的获利能力呈下降趋势。
+2013-
+2015年，十分科技总资产报酬率分别为-
+57.10%、14.02%和15.25%；同期净资产收益率
+分别为-
+98.78%、2692.30%和101.37%，随着收入规模的
+扩大，公司的整体盈利能力得到体现，总资产
+盈利性呈上升趋势，考虑到公司总资产中负债
+比重较大、净资产规模较小，其目前的净资产
+盈利性存在明显的不稳定性。
+2013-
+2015年，十分科技现金收入比分别为0.95倍、0
+.43倍和0.60倍，公司回款受电信运营商的体制
+影响，效率较低，收入实现质量不佳；同期经
+营活动现金流入流出比分别为0.90倍、0.88倍
+和1.02倍，经营活动产生现金净流量的能力一
+般。
+总体看，十分科技收入实现质量偏低，主
+营业务获利水平尚可，整体盈利能力较好。
+2013-
+2015年，十分科技资产负债率分别为157.81%、
+100.44%和87.33%，在付款方面，公司具备一定
+的地位优势，使其享有较多的信用额度，应付
+账款较多，促使负债规模的扩大，公司负债程
+度偏重。
+截至2015年底，十分科技的负债总额为116
+08.92万元，全部为流动负债，其中，应付账款
+占70.18%；应交税金占8.22%；其他应付款占20
+.45%，为往来款。
+总体看，十分科技能够较好的运用商业信
+用产生的经营性负债，财务弹性尚可，结合其</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京十分科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司下游客户集中度较高，有一定的
+业务风险。
+2.公司近三年经营活动获取现金的能力
+下降，整体现金流对筹资活动的依赖性较
+大。
+3.公司在拓展线上业务，有一定的技术
+风险，关注其研发情况。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京十分科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>1562.19 </enterprise:资产总额>
+    <enterprise:所有者权益>-903.05 </enterprise:所有者权益>
+    <enterprise:负债总额>2465.24 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1727.33 </enterprise:营业收入>
+    <enterprise:EBITDA>-828.21 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京十分科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>5217.30 </enterprise:资产总额>
+    <enterprise:所有者权益>-23.03 </enterprise:所有者权益>
+    <enterprise:负债总额>5240.33 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4927.81 </enterprise:营业收入>
+    <enterprise:EBITDA>787.99 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京十分科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>13293.66 </enterprise:资产总额>
+    <enterprise:所有者权益>1684.73 </enterprise:所有者权益>
+    <enterprise:负债总额>11608.93 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>15535.77 </enterprise:营业收入>
+    <enterprise:EBITDA>2030.98 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京十分科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.04 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.09 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京十分科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.45 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.36 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京十分科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.68 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.15 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京十分科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>98.78 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-57.10 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-98.78 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京十分科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>236.45 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>14.02 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>2692.30 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京十分科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>120.33 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>15.25 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>101.37 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京十分科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>55.00 </enterprise:流动比率>
+    <enterprise:速动比率>55.00 </enterprise:速动比率>
+    <enterprise:资产负债率>157.81 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京十分科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>95.98 </enterprise:流动比率>
+    <enterprise:速动比率>95.98 </enterprise:速动比率>
+    <enterprise:资产负债率>100.44 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京十分科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>111.56 </enterprise:流动比率>
+    <enterprise:速动比率>108.67 </enterprise:速动比率>
+    <enterprise:资产负债率>87.33 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京十分科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>1.04 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-35.27 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.95 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-14.39 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京十分科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.45 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>167.42 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.43 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-6.36 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>107.44 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京十分科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>1.68 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>355.61 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.60 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>1.96 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京十分科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>334.45 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>448.15 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>12.64 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>560.61 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1355.85 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>100.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>105.78 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.55 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1562.19 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京十分科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>328.83 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3719.98 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>17.04 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>963.75 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>5029.60 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>24.21 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>163.49 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5217.30 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京十分科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>44.72 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>10699.11 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>23.70 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1770.25 </enterprise:其他应收款>
+    <enterprise:存货>335.96 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>77.09 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12950.83 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>100.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>20.42 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>142.62 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>79.78 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>13293.66 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京十分科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>332.42 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2137.64 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>86.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>229.57 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2454.36 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>5240.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>5240.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1023.03 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-23.03 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-23.03 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5217.30 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京十分科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>332.42 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2137.64 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>86.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>229.57 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2454.36 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>5240.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>5240.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1023.03 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-23.03 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-23.03 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5217.30 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京十分科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>8146.60 </enterprise:应付账款>
+    <enterprise:预收款项>40.70 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>93.17 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>954.44 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2374.02 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>11608.93 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>11608.93 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>68.47 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>616.26 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1684.73 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1684.73 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>13293.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京十分科技有限公司2013年利润表">
+    <enterprise:营业收入>1727.33 </enterprise:营业收入>
+    <enterprise:主营业务收入>1727.33 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>46.35 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>430.87 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2098.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.26 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-894.08 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.29 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-892.08 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-892.08 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-892.08 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京十分科技有限公司2014年利润表">
+    <enterprise:营业收入>4927.81 </enterprise:营业收入>
+    <enterprise:主营业务收入>4927.81 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>3586.96 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>61.15 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>375.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.41 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>142.70 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>732.90 </enterprise:营业利润>
+    <enterprise:营业外收入>0.92 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>2.26 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>731.56 </enterprise:利润总额>
+    <enterprise:所得税费用>111.45 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>620.11 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>620.11 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京十分科技有限公司2015年利润表">
+    <enterprise:营业收入>15535.77 </enterprise:营业收入>
+    <enterprise:主营业务收入>15535.77 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>12523.84 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>83.65 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>450.21 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>28.36 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>373.68 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2000.15 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.85 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1999.30 </enterprise:利润总额>
+    <enterprise:所得税费用>291.53 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1707.77 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1707.77 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京十分科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1641.08 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.25 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1397.46 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3038.79 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>57.11  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1524.25 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>73.95 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1738.29 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3393.60 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-354.81 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>35.74 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>35.74 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-35.74 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-390.55 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京十分科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2123.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>352.65 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2476.21 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>935.46  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>831.97 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>67.84 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>974.17 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2809.44 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-333.23 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.89 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.89 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.89 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>332.42 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>332.42 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>332.42 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-5.70 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京十分科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>9331.64 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1569.96 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>10901.60 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>6557.38  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>906.79 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>216.96 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2992.40 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>10673.53 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>228.07 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>100.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>100.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>151.86 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>100.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>251.86 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-151.86 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>167.58 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>167.58 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>27.89 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>527.89 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>false</enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>76.21 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>12-8-6</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>11310303</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>12-8-6</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>11310378</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>12-8-6</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>11310428</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>12-8-6</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>11310249</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：酷云 TV">
+	<enterprise:有申请日期>12-8-3</enterprise:有申请日期>
+	<enterprise:有商标名称>酷云 TV</enterprise:有商标名称>
+	<enterprise:有注册号>11305347</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：十分 TV">
+	<enterprise:有申请日期>12-8-3</enterprise:有申请日期>
+	<enterprise:有商标名称>十分 TV</enterprise:有商标名称>
+	<enterprise:有注册号>11305167</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：酷云 TV">
+	<enterprise:有申请日期>12-8-3</enterprise:有申请日期>
+	<enterprise:有商标名称>酷云 TV</enterprise:有商标名称>
+	<enterprise:有注册号>11305184</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：KU YUN">
+	<enterprise:有申请日期>12-6-15</enterprise:有申请日期>
+	<enterprise:有商标名称>KU YUN</enterprise:有商标名称>
+	<enterprise:有注册号>11081668</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：酷云阅读">
+	<enterprise:有申请日期>11-12-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酷云阅读</enterprise:有商标名称>
+	<enterprise:有注册号>10303543</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：酷云阅读">
+	<enterprise:有申请日期>11-12-14</enterprise:有申请日期>
+	<enterprise:有商标名称>酷云阅读</enterprise:有商标名称>
+	<enterprise:有注册号>10303544</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：酷云">
+	<enterprise:有申请日期>11-11-18</enterprise:有申请日期>
+	<enterprise:有商标名称>酷云</enterprise:有商标名称>
+	<enterprise:有注册号>10203240</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：K">
+	<enterprise:有申请日期>11-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>K</enterprise:有商标名称>
+	<enterprise:有注册号>10149382</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：K">
+	<enterprise:有申请日期>11-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>K</enterprise:有商标名称>
+	<enterprise:有注册号>10149381</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：K">
+	<enterprise:有申请日期>11-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>K</enterprise:有商标名称>
+	<enterprise:有注册号>10149383</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：K">
+	<enterprise:有申请日期>11-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>K</enterprise:有商标名称>
+	<enterprise:有注册号>10149385</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：K">
+	<enterprise:有申请日期>11-11-4</enterprise:有申请日期>
+	<enterprise:有商标名称>K</enterprise:有商标名称>
+	<enterprise:有注册号>10149384</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：十分科技 10">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>十分科技 10</enterprise:有商标名称>
+	<enterprise:有注册号>7308035</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：TENFEN">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>TENFEN</enterprise:有商标名称>
+	<enterprise:有注册号>7308087</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：TENFEN">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>TENFEN</enterprise:有商标名称>
+	<enterprise:有注册号>7308112</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>补发商标注册证中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：TENFEN">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>TENFEN</enterprise:有商标名称>
+	<enterprise:有注册号>7308048</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：十分科技 10">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>十分科技 10</enterprise:有商标名称>
+	<enterprise:有注册号>7308091</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>补发商标注册证中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京十分科技有限公司的商标信息：十分科技 10">
+	<enterprise:有申请日期>09-4-7</enterprise:有申请日期>
+	<enterprise:有商标名称>十分科技 10</enterprise:有商标名称>
+	<enterprise:有注册号>7308103</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：远程媒体播放信号时延的检测系统">
+	<enterprise:有申请公布日>2013-08-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>远程媒体播放信号时延的检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320036591.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203151681U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种检测重复文本的方法及装置">
+	<enterprise:有申请公布日>2013-08-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种检测重复文本的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310144339.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103246640A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种识别频道的电视终端">
+	<enterprise:有申请公布日>2013-07-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别频道的电视终端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220653535.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203104681U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：远程媒体播放信号时延的检测方法及检测系统">
+	<enterprise:有申请公布日>2013-06-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>远程媒体播放信号时延的检测方法及检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310025913.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103139608A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种传输信息的方法及装置">
+	<enterprise:有申请公布日>2013-04-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种传输信息的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210581841.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103023923A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种传输信息的方法及装置">
+	<enterprise:有申请公布日>2013-04-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种传输信息的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210555001.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103024057A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种识别频道的方法及装置">
+	<enterprise:有申请公布日>2013-03-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别频道的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210507292.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103002328A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种多媒体信息识别、训练的方法及装置">
+	<enterprise:有申请公布日>2013-03-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多媒体信息识别、训练的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210469520.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102970578A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种基于音频的用户登录的方法及装置">
+	<enterprise:有申请公布日>2013-01-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于音频的用户登录的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210357111.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102882868A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种传输信息的方法及装置">
+	<enterprise:有申请公布日>2012-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种传输信息的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210237832.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102841924A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种信息的传送方法及装置">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种信息的传送方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210353275.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102833596A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种信息传送的方法及装置">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种信息传送的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210353147.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102833595A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种获取网络广告信息的方法及装置">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种获取网络广告信息的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210237847.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102831537A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种同步显示多媒体节目附属信息的方法、系统及终端">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种同步显示多媒体节目附属信息的方法、系统及终端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210353260.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102833617A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种移动终端传输文件的方法">
+	<enterprise:有申请公布日>2012-10-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种移动终端传输文件的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210114275.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102710744A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种阅读轨迹识别的方法">
+	<enterprise:有申请公布日>2012-10-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种阅读轨迹识别的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210114276.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102708358A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种控制终端操作的方法">
+	<enterprise:有申请公布日>2012-09-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种控制终端操作的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110380334.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102692997A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种网页去重的方法">
+	<enterprise:有申请公布日>2012-09-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网页去重的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210114263.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102682085A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京十分科技有限公司的专利信息：一种登录系统的方法">
+	<enterprise:有申请公布日>2012-09-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种登录系统的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110363450.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102685090A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：觅觅同城约会应用软件">
+	<enterprise:有批准日期>17-3-9</enterprise:有批准日期>
+	<enterprise:有软件全称>觅觅同城约会应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>觅觅同城约会</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR073310</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：图书结构化加工软件">
+	<enterprise:有批准日期>16-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>图书结构化加工软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR332525</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：PDF碎片化加工软件">
+	<enterprise:有批准日期>16-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>PDF碎片化加工软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR332530</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：版式期刊加工软件">
+	<enterprise:有批准日期>16-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>版式期刊加工软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR332539</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：噩梦乐园游戏软件">
+	<enterprise:有批准日期>16-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>噩梦乐园游戏软件</enterprise:有软件全称>
+	<enterprise:有软件简称>噩梦乐园</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR080690</enterprise:有登记号>
+	<enterprise:有分类号>30105-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：图书资源版权管理平台">
+	<enterprise:有批准日期>14-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>图书资源版权管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212621</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：运营商能力开发业务平台">
+	<enterprise:有批准日期>14-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>运营商能力开发业务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212627</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：图书资源发布平台">
+	<enterprise:有批准日期>14-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>图书资源发布平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212639</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：数字内容在线出版平台">
+	<enterprise:有批准日期>14-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>数字内容在线出版平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212586</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：图书资源加工系统">
+	<enterprise:有批准日期>14-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>图书资源加工系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212085</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：移动互联办公学习数字管理平台">
+	<enterprise:有批准日期>14-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>移动互联办公学习数字管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR212338</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：酷云TV android客户端软件">
+	<enterprise:有批准日期>12-10-10</enterprise:有批准日期>
+	<enterprise:有软件全称>酷云TV android客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>酷云TV</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR094584</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：酷云阅读手机客户端软件">
+	<enterprise:有批准日期>12-10-16</enterprise:有批准日期>
+	<enterprise:有软件全称>酷云阅读手机客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR097333</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：酷云客户端软件">
+	<enterprise:有批准日期>12-10-16</enterprise:有批准日期>
+	<enterprise:有软件全称>酷云客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR097329</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：酷云阅读android客户端软件">
+	<enterprise:有批准日期>12-10-10</enterprise:有批准日期>
+	<enterprise:有软件全称>酷云阅读android客户端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>酷云阅读</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR094477</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：酷云阅读软件">
+	<enterprise:有批准日期>12-10-18</enterprise:有批准日期>
+	<enterprise:有软件全称>酷云阅读软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR097987</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京十分科技有限公司的软件著作：手机阅读平台支撑系统">
+	<enterprise:有批准日期>09-8-4</enterprise:有批准日期>
+	<enterprise:有软件全称>手机阅读平台支撑系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR030743</enterprise:有登记号>
+	<enterprise:有分类号>67500-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京十分科技有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京十分科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京十分科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京十分科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京十分科技有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京十分科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京十分科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京十分科技有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京十分科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税：3%，企业所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>146.83万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>223.64万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京十分科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>较强</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京十分科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京十分科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京十分科技有限公司的专利数量">
+	<enterprise:专利总计>9</enterprise:专利总计>
+	<enterprise:专利数量2013>9</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京十分科技有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

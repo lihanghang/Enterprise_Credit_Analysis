@@ -1,0 +1,2479 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京探索者软件股份有限公司的企业概况">
+    <enterprise:有名称>北京探索者软件股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108700209905F</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国民生银行北京紫竹支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1999年2月4日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>129.6万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>计算机技术开发、技术转让、技术咨询、技术培训（不得面向全国招生）、技术服务；承接计算机网络工程；销售自行开发后的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）计算机技术开发、技术转让、技术咨询、技术培训（不得面向全国招生）、技术服务；承接计算机网络工程；销售自行开发后的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>软件行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区紫竹院路116号9层B座1001室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区紫竹院路116号嘉豪国际中心B座10层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100097</enterprise:有邮政编码>
+    <enterprise:有联系人>齐艳玲</enterprise:有联系人>
+    <enterprise:有联系电话>010-58930136</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.tsz.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京探索者软件股份有限公司成立于1999年2
+月4日，注册地址为北京市海淀区紫竹院路116
+号9层B座1001室，法定代表人徐海洋，2016年
+3月14日，公司完成股份制改造，名称由北京
+探索者软件技术有限公司变为现名，2016年8
+月12日，公司登陆新三板，证券简称：探索者
+，证券代码：839007。公司经两次增资及多次
+股权变更，目前注册资本为129.6万元，其股
+东及持股比例如下表所示：
+表一：公司股东持股情况
+股东名称 股权比例（%） 持股数量（股）
+徐海洋 27.78 360000
+李娜 13.89 180000
+马迎军 9.26 120000
+北京得云科技中 9.26 120000
+心（有限合伙）
+北京济云科技中 9.26 120000
+心（有限合伙）
+北京维云科技中 9.26 120000
+心（有限合伙）
+北京云本信息咨 7.40 96000
+询中心（有限合
+伙）
+李迪 6.94 90000
+杨永强 4.17 54000
+朱晓辉 2.78 36000
+探索者专注于建筑结构软件的研发、销售
+以及技术服务，主要产品包括结构绘图系列软
+件及BIM两大类。2012年10月，通过北京市科
+学技术委员会等四部门组织的“高新技术企业
+”认证复核，目前正办理换领新证手续； 
+2015年7月，公司通过“中关村高新技术企业
+”认定。
+截至2015年底，探索者资产总额为3011.3
+3万元，净资产为2322.06万元；2015年累计实
+现主营业务收入3287.47万元，利润总额660.4
+4万元。2015年，公司经营活动产生的净现金
+流量为2178.26万元，投资活动产生的净现金
+流量为-
+25.72万元，筹资活动产生的净现金流量为0.0
+0万元，现金及现金等价物净增加额为2152.54
+万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京探索者软件股份有限公司的基础素质">
+    <enterprise:有管理素质>探索者法定代表人徐海洋先生，本科学历
+，毕业于浙江大学，1993年7月至1995年7月任
+中国航空工业规划设计研究院工程师；1995年
+8月至1996年7月任中国建筑技术开发总公司工
+程师；1996年8月至1999年1月任华峰服务装饰
+有限公司项目经理；1999年1月至2016年1月任
+公司董事长、总经理。徐海洋先生具有丰富的
+行业认知及管理经验，利于其带领公司做出适
+应行业趋势的经营策略，为公司发展提供助益
+。
+公司营运总监李娜女士，大专学历，1995
+年1月至2000年6月任北京道亨文化艺术有限公
+司会计；2000年7月至2014年1月任北京道亨普
+德广告有限公司财务总监；2014年2月至2016
+年1月任公司营运总监。
+公司财务总监齐艳玲女士，本科学历，毕
+业于内蒙古大学，1995年8月至2001年12月任
+内蒙古赤峰市双马集团会计；2002年1月至201
+3年8月任北京先进视讯科技有限公司财务总监
+；2013年9月至2014年2月任北京道亨普德广告
+有限公司财务经理；2014年3月至今任探索者
+财务总监。
+总体看，探索者核心管理团队专业素质较
+高，管理经验丰富，管理协调性较好，对于公
+司稳定发展具有一定积极作用。</enterprise:有管理素质>
+    <enterprise:有人员素质>截至2016年6月底，探索者现有员工152人
+，其中研发人员81人，公司研发人员均具有本
+科及以上学历。
+探索者总工程师郭春英女士，本科学历，
+毕业于河北工学院工业与民用建筑专业，一级
+注册结构工程师高级工程师。郭女士曾于1990
+年7月至2003年1月任中国寰球工程公司华北规
+划设计院土建室主任工程师；2003年12月至今
+任公司总工程师。
+高级软件工程师李伟先生，本科学历，毕
+业于沈阳建筑工程学院建筑工程专业，高级软
+件工程师。李先生曾于1999年7月至2001年2月
+任东风汽车公司建筑工程公司助理工程师；20
+01年3月至2002年3月任武汉开目软件事业部软
+件工程师；2002年4月至2003年8月任北京博超
+软件事业部高级软件工程师；2003年9月至今
+任探索者研发部高级软件工程师。
+OFCEP程序组组长李林先生，本科学历，
+毕业于重庆交通大学公路与城市道路专业，高
+级软件工程师。李先生曾于2003年7月至2007
+年10月任重庆海特科技发展有限公司研发部软
+件工程师，研发副总监；2007年10月至2010年
+10月任北京迈达斯技术有限公司研发部高级软
+件工程师，Building 
+项目经理；2010年9月至今任探索者研发部高
+级软件工程师，OFCEP程序组组长。
+高级软件技术工程师孙国生先生，本科学
+历，毕业于中南大学土木工程专业。孙先生曾
+于2009年7月至2012年3月任中交第二航务工程
+局有限公司第五分公司土建工程师；2012年4
+月至今任公司高级软件技术工程师。
+总体看，探索者研发人员专业素质较好，
+研发团队具备较好的科研实力和项目实施经验
+，为公司的研发活动提供了专业技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>探索者为保证研发活动的顺利进行，每年
+投入的研发费用较为充足，2014年和2015年分
+别为802.68万元和958.08万元，分别占当年收
+入的22.57%和29.14%。持续加大的研发投入为
+其产品技术的发展提供了较好保障。
+公司研发部下辖砼结构设计软件事业部，
+特种结构软件事业部，钢结构设计软件事业部
+，BIM设计软件事业部，IT及信息化事业部，E
+P设计软件事业部，各部门间分工较为明确。
+公司自主研发的“探索者”系列软件包含
+“探索者”CAD结构系列软件与“探索者”BIM
+三维结构设计软件两大类，功能上涵盖了从钢
+结构设计、水结构设计、煤电辅助结构设计到
+三维结构整体模型设计等建筑模型结构设计的
+全流程、全方位，并且具有高效的参数化、智
+能化绘图功能，种类丰富、功能齐全的产品设
+计能够满足建筑设计领域各个环节的需求。
+2016年，公司已获得“探索者结构工程CA
+D软件V2016”、“探索者结构后处理软件V201
+6”、“探索者钢结构设计软件V2016”、“探
+索者钢结构后处理软件V2016”、“探索者抗
+震墙设计软件V2016”等43项计算机软件著作
+权。截至报告日，公司自主研发的产品已获得
+92项计算机软件著作权。此外，探索者还参与
+了新版国家标准——
+《建筑结构制图标准》GB/T50105-
+2010的修订工作。
+总体看，探索者具有一定的研发实力，其</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京探索者软件股份有限公司的经营管理">
+    <enterprise:其经营分析为>探索者专注于建筑结构软件的研发、销售
+以及技术服务，主要产品包括结构绘图系列软
+件及BIM两大类。
+公司的客户主要为民用、工业、市政、石
+油、电力、机械等多个行业的设计院。公司主
+营业务按业务类别可分为“软件销售收入”和
+“软件服务收入”，其中软件销售业务指公司
+销售软件使用许可，软件服务业务是指公司为
+客户提供建筑相关信息化方案的咨询等服务。
+2015年，探索者实现主营业务收入3287.47万
+元，其中软件销售收入占主营业务收入的82.4
+3%，其余为软件服务收入，从收入毛利率变化
+看，2015年公司软件服务收入毛利率为24.36%
+较上年度降低22.03%。
+公司从事软件产品的研发及销售。公司软
+件以自主开发为主，对外采购较少。截至报告
+日， 
+公司对外采购主要是北京比特安索信息技术有
+限公司的比特授权系统，即使用其互联网授权
+服务器实现公司软件产品的保护和授权管理，
+2015年该部分采购金额为6.00万元。此外，公
+司对于优盘、光盘等其他零星用品直接从零售
+市场或京东商城等电商网站采购，总体而言公
+司采购金额较低，不存在依赖特定供应商的情
+形。
+图一：2013-2015年公司资产总额、净资产、主营业务    
+        收入、利润总额增长趋势图（万元）
+销售方面，公司采用直销模式进行销售，
+主要用户为建筑行业的设计院。近年来，公司
+服务过的重要客户有：机械工业第六设计研究
+院有限公司、中石化洛阳工程有限公司、中国
+石油天然气管道工程有限公司、中国电力工程
+顾问集团东北电力设计院有限公司、云南省设
+计院集团等。应收账款方面，公司一般根据签
+订合同按项目进度进行收款。由于建筑行业客
+户特点，公司业务具有一定周期性，即主要业
+务签订集中在下半年，不利于公司经营稳定性
+的提高。
+近三年，探索者不断进行新产品研发，其
+BIM产品已初步得到市场认可，传统软件产品
+具备稳定的客户基础，有利于公司进一步的发
+展。公司权益性资本稳步提升，抵御市场风险
+能力得到增强。2015年公司主营业务收入及利
+润总额较上年度均有所下降，主要由于整体经
+济环境下行、建筑行业整体波动、研发人员数
+量增加及核心研发人员薪酬上升等因素。
+总体看，探索者具备一定技术优势，产品
+类型不断丰富，未来发展前景乐观。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>探索者实行董事会领导下的总经理负责制
+，下设销售部、研发部、人事部、财务部等职
+能部门，公司建立了完善的管理制度，明确各
+岗位职能与职责、办事流程。公司目前管理模
+式较为清晰，基本能够满足其发展需要。
+从管理效率看，2013-
+2015年，探索者管理费用率分别为22.15%、48
+.46%和47.88%，随着研发投入力度的增加，公
+司管理费用有所上升，管理费用控制能力一般
+；同期成本率分别为102.28%、86.58%和95.36
+%，成本控制能力一般。
+从运营效率看，2013-
+2015年，探索者应收账款周转率分别为9.46次
+、8.42次和6.92次，处于行业平均以下水平；
+同期总资产周转率分别为2.52次、1.71次和1.
+16次，资产运营效率较好。
+总体看，探索者内部治理结构较为合理，
+管理制度较为完善，基本满足公司现阶段发展
+需要，成本控制能力一般，资产运营效率较好
+。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>中国软件产业将以企业应用为驱动，借本
+地化优势，基于开源与标准化，逐步在应用软
+件、通用软件、嵌入式软件等领域争取长足发
+展，在开发工具和平台软件等方面有所建树。
+新一代信息技术深度渗透传统产业领域，
+云计算、物联网、移动互联网等新一代信息技
+术已经成为引领各领域创新不可或缺的重要动
+力和支撑，成为实施创新驱动发展战略、建设
+创新型国家的关键所在，新一轮信息化浪潮已
+经显现出重塑产业生态链的巨大影响力，传统
+产业和互联网深度融合趋势明显。在移动互联
+网、云计算、物联网等新技术的推动下，原有
+的信息不对称格局将被打破，依托于大数据整
+合，传统行业与互联网融合的平台和模式将发
+生改变。
+在国家政策、社会需求和产业资金等多方
+面有力因素的驱动下，信息技术服务业将保持
+增长。随着我国经济转型成效逐步扩大，产业
+得到新的驱动力量和发展机会。一是高速发展
+的信息消费，逐渐成为推动我国经济增长的主
+要因素，不断深入社会经济和社会组织形式，
+带动数字内容、移动互联网等产业发展，信息
+平台建设和对接需求大大增加；二是发展空间
+巨大的新兴科技领域，随着以云计算、移动互
+联和大数据为代表的技术创新和突破，产业发
+展方向愈发明显，与传统行业融合不断深化，
+催生市场需求。
+当前我国软件产业既面临着全球经济弱势
+复苏、市场需求萎缩的挑战，又面临着信息消
+费需求强劲增长、信息化投资加速、新兴领域
+加速发展等良好机遇。到2017年，我国云计算
+服务能力大幅提升，在降低创业门槛、服务民
+生、培育新业态、探索电子政务建设新模式等
+方面取得积极成效。到2020年，云计算成为我
+国信息化重要形态和建设网络强国重要支撑。
+总体看，伴随信息通信技术的迅速发展和
+应用的不断深化，软件和信息技术服务业逐步
+向网络化、服务化、智能化、平台化和融合化
+的方向发展。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京探索者软件股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，探索者资产总额分别为1512.91万元
+、2643.23万元和3011.33万元。其中，流动资
+产分别占当年资产总额的92.40%、95.07%和96
+.76%；固定资产分别占7.60%、3.97%和2.99%
+，主要为办公设备、电子设备和运输设备；无
+形资产及其他资产合计分别占0%、0.97%和0.2
+5%。公司资产结构较为稳定，资产配置与其当
+前业务特征相匹配。
+截至2015年底，探索者流动资产为2913.8
+4万元，主要由货币资金和应收账款等构成。
+其中，货币资金占流动资产的81.50%；应收账
+款占18.00%，账龄在1年以内的占92.77%，主
+要债务人为中国石油天然气管道工程有限公司
+、中石化洛阳工程有限公司、广州设计院、中
+交第二航务工程勘察设计院有限公司、河北建
+筑设计研究院有限责任公司等。
+总体看，探索者资产质量尚可，资产流动
+性较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，探索者速动比率分别为3.45倍、2.79
+倍和4.23倍；同期流动比率分别为3.45倍、2.
+79倍和4.23倍，短期支付能力较强。
+2013-
+2015年，探索者息税折旧摊销前盈余EBITDA分
+别为290.75万元、861.88万元和699.19万元，
+经营活动获取自由现金的能力不稳定，不利于
+债务偿还能力的提升。
+探索者计划在2016年底保持500万元左右
+有息债务规模。2016年，公司预计实现主营业
+务收入4000万元，利润总额800万元。若公司2
+016年预期经营计划得以实现，其盈余对有息
+债务的保障程度较高。
+综合考虑公司的经营状况、资产构成、盈
+利状况及财务结构等因素，君维诚认为探索者
+未来一个时期有发生信用风险的可能性。</enterprise:偿债能力>
+    <enterprise:财务弹性>截至2015年底，探索者负债总额为689.28
+万元，均为流动负债，主要由应付工资、应交
+税金和其他应付款等构成。其中，应付工资占
+流动负债的57.89%；应交税金占流动负债的31
+.92%；其他应付款占流动负债的9.53%，主要
+为未付员工的报销费用。公司近三年负债构成
+较为简单，与其经营状况相符。
+2013-
+2015年，探索者资产负债率分别为26.78%、34
+.04%和22.89%，负债压力较轻。
+总体看，公司目前的负债水平较低，财务
+弹性较好，具备一定的外部债务融资空间。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，探索者主营业务收入分别为3238.80
+万元、3556.69万元和3287.47万元，公司收入
+受到了下游行业整体波动及研发成本提升等影
+响；同期主营业务利润率分别为67.36%、89.6
+4%和84.94%，公司自主产品具备一定竞争优势
+，主营业务获利能力较强。
+2013-
+2015年，公司总资产报酬率分别为16.22%、31
+.11%和21.93%；同期净资产收益率分别为21.6
+1%、42.14%和24.91%，公司现阶段资产获利能
+力较强。
+2013-
+2015年，公司现金收入比分别为1.10倍、1.18
+倍和1.13倍，盈利质量较好；同期经营现金流
+入流出比分别为1.06倍、0.92倍和1.55倍，公
+司经营活动产生净现金的能力较好。
+图二： 2013-2015年公司盈利能力状况（万元，%）
+总体看，探索者主营业务获利能力较强，
+资产获利能力较强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京探索者软件股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。 
+截至评级时点，联合信用未发现公司有未
+决诉讼、票据贴现、对外担保等或有负债；公
+联合信用未发现公司有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策和行业风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司成立时间短，经营效率和盈利能
+力有待跟踪。 
+（2）公司资产流动性较弱，资产质量一般。 
+（3）公司经营活动获取现金的能力较弱，
+整体现金流状况有待改善。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京探索者软件股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>1508.34 </enterprise:资产总额>
+    <enterprise:所有者权益>1107.76 </enterprise:所有者权益>
+    <enterprise:负债总额>284.15 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3238.80 </enterprise:营业收入>
+    <enterprise:EBITDA>290.75 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京探索者软件股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>2643.24 </enterprise:资产总额>
+    <enterprise:所有者权益>1743.60 </enterprise:所有者权益>
+    <enterprise:负债总额>296.76 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3556.69 </enterprise:营业收入>
+    <enterprise:EBITDA>861.88 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京探索者软件股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>3011.12 </enterprise:资产总额>
+    <enterprise:所有者权益>2322.06 </enterprise:所有者权益>
+    <enterprise:负债总额>65.72 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3287.47 </enterprise:营业收入>
+    <enterprise:EBITDA>699.19 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京探索者软件股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京探索者软件股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.19 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京探索者软件股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>35.06 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.46 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京探索者软件股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>292.34 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京探索者软件股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>201.89 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京探索者软件股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>138.42 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京探索者软件股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>490.36 </enterprise:流动比率>
+    <enterprise:速动比率>490.36 </enterprise:速动比率>
+    <enterprise:资产负债率>18.84 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京探索者软件股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>846.75 </enterprise:流动比率>
+    <enterprise:速动比率>846.75 </enterprise:速动比率>
+    <enterprise:资产负债率>11.23 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京探索者软件股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>4433.40 </enterprise:流动比率>
+    <enterprise:速动比率>4433.40 </enterprise:速动比率>
+    <enterprise:资产负债率>2.18 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京探索者软件股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>10.12 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>95.26 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京探索者软件股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>54.15 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.18 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-134.93 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京探索者软件股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>58.44 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.13 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>3314.47 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京探索者软件股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>628.92 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>418.63 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>345.82 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1393.37 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>114.97 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>114.97 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1508.34 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京探索者软件股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>222.25 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>426.37 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1860.56 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>3.64 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2512.82 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>104.81 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>25.61 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>130.42 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2643.24 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京探索者软件股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2374.79 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>524.41 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>14.10 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.33 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2913.63 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>90.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>7.45 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>97.49 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3011.12 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京探索者软件股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>296.76 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>296.76 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>296.76 </enterprise:负债合计>
+    <enterprise:实收资本或股本>120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>162.36 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1461.24 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1743.60 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1743.60 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2040.36 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京探索者软件股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>296.76 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>296.76 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>296.76 </enterprise:负债合计>
+    <enterprise:实收资本或股本>120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>162.36 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1461.24 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1743.60 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1743.60 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2040.36 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京探索者软件股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>65.72 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>65.72 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>65.72 </enterprise:负债合计>
+    <enterprise:实收资本或股本>120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>220.21 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1981.85 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2322.06 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2322.06 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2387.78 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京探索者软件股份有限公司2013年利润表">
+    <enterprise:营业收入>3238.80 </enterprise:营业收入>
+    <enterprise:主营业务收入>3238.80 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.32 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3238.48 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3238.48 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3238.48 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3238.48 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京探索者软件股份有限公司2014年利润表">
+    <enterprise:营业收入>3556.69 </enterprise:营业收入>
+    <enterprise:主营业务收入>3556.69 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.65 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>33.33 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3522.71 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>2.64 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3520.07 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3520.07 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3520.07 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京探索者软件股份有限公司2015年利润表">
+    <enterprise:营业收入>3287.47 </enterprise:营业收入>
+    <enterprise:主营业务收入>3287.47 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.55 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>72.62 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3214.30 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3214.30 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3214.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3214.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京探索者软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3557.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>319.46 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>815.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4692.02 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1036.46  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>690.94 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>528.90 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2165.04 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4421.34 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>270.68 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>2165.04 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2165.04 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2165.04 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1894.36 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京探索者软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4200.40 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>347.65 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.67 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4548.72 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>987.35 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>649.03 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3312.77 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4949.15 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-400.43 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3312.77 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3312.77 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3312.77 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3713.20 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京探索者软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3708.01 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>507.79 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1924.86 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6140.66 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1670.37 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>609.91 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1682.11 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>3962.39 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>2178.27 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1682.11 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1682.11 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1682.11 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>496.16 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：徐海洋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐海洋 </enterprise:股东名称>
+	 <enterprise:货币>36.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>30.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：李娜 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李娜 </enterprise:股东名称>
+	 <enterprise:货币>18.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>15.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：马迎军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>马迎军 </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：北京得云科技中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京得云科技中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：北京济云科技中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京济云科技中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：北京维云科技中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京维云科技中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：李迪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李迪 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>7.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：杨永强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨永强 </enterprise:股东名称>
+	 <enterprise:货币>5.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京探索者软件股份有限公司股东：朱晓晖 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱晓晖 </enterprise:股东名称>
+	 <enterprise:货币>3.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京探索者软件股份有限公司的商标信息：视听;E">
+	<enterprise:有申请日期>01-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>视听;E</enterprise:有商标名称>
+	<enterprise:有注册号>1985051</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京探索者软件股份有限公司的商标信息：ANYIII;ANY">
+	<enterprise:有申请日期>01-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>ANYIII;ANY</enterprise:有商标名称>
+	<enterprise:有注册号>1985263</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京探索者软件股份有限公司的商标信息：ANY THREE">
+	<enterprise:有申请日期>01-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>ANY THREE</enterprise:有商标名称>
+	<enterprise:有注册号>1918315</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：建筑与结构分析一体化信息模型系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>建筑与结构分析一体化信息模型系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR417464</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者智慧城市房屋安全管理系统">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者智慧城市房屋安全管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCBMS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030128</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢格栅板设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢格栅板设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZ-BDI</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030797</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者管廊设计软件">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者管廊设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPR</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR029408</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构设计平台">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构设计平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3D</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030126</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢结构施工图软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030978</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢平台三维设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢平台三维设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031691</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种基础设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种基础设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTJ</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031717</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者门刚后处理软件">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者门刚后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMG</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR029302</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构构件计算软件">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构构件计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS-MTS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030127</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维协同提资软件">
+	<enterprise:有批准日期>17-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维协同提资软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSI</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR016537</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>17-1-20</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR020193</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维单层工业厂房设计软件">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维单层工业厂房设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCF</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR029413</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维建筑设计软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维建筑设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRA</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR012999</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢筋软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢筋软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DSR</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013482</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者梁柱详图绘制软件">
+	<enterprise:有批准日期>17-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者梁柱详图绘制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR016573</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者栈桥设计软件">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者栈桥设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZQ</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR029299</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者通用有限元数据分析软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者通用有限元数据分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDA</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030789</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013268</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013686</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础与人防设计软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础与人防设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013756</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维砼结构施工图软件">
+	<enterprise:有批准日期>17-1-20</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维砼结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR020181</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者院标定制服务系统">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者院标定制服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031139</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者挡土墙三维设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者挡土墙三维设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRW</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031714</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>17-1-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR015391</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者烟囱设计软件">
+	<enterprise:有批准日期>17-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者烟囱设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSYT</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR016540</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者建筑二维表达软件">
+	<enterprise:有批准日期>17-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者建筑二维表达软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSARCH</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR016658</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基于PDMS的土建专业设计系统">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基于PDMS的土建专业设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPDMS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031043</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者图档管理系统">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者图档管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDRM</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR012982</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013015</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者MEP二维表达软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者MEP二维表达软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMEP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013104</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者Revit族库管理平台">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者Revit族库管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRFA</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013336</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构设计软件">
+	<enterprise:有批准日期>17-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR016377</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者土建专业三维协同设计系统">
+	<enterprise:有批准日期>17-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者土建专业三维协同设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCW</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR029348</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030975</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维MEP设计软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维MEP设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRMEP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013261</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池设计系统">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013556</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013553</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者住宅产业化设计系统">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者住宅产业化设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSHID</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031712</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者打印备份管理系统">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者打印备份管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPBBC</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR012977</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种水池设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种水池设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DTK</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030943</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者数据中心平台">
+	<enterprise:有批准日期>17-1-20</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者数据中心平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDCP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR020395</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维出图管理系统">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维出图管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DGM</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR012974</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维协同设计管理平台">
+	<enterprise:有批准日期>17-1-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维协同设计管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DCM</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR015394</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR030937</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构YJK后处理软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构YJK后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>YJK To TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031028</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：基于BIM岩土工程监测系统软件">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>基于BIM岩土工程监测系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR137999</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：结构BIM自动导荷载系统软件">
+	<enterprise:有批准日期>16-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>结构BIM自动导荷载系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR138008</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢模板三维设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢模板三维设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DSF</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031048</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维砼结构施工图软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维砼结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030696</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢筋软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢筋软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DSR</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031042</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种水池设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种水池设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DTK</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030540</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者MEP二维表达软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者MEP二维表达软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMEP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030787</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维单层工业厂房设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维单层工业厂房设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCF</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030692</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者数据中心平台">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者数据中心平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDCP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030715</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种基础设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种基础设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTJ</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030536</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维出图管理系统">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维出图管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DGM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031552</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者建筑二维表达软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者建筑二维表达软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRAD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031437</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者通用有限元数据分析软件">
+	<enterprise:有批准日期>16-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者通用有限元数据分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDA</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR032090</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维MEP设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维MEP设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRMEP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031550</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者栈桥设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者栈桥设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZQ</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031283</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢结构施工图软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031055</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者图档管理系统">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者图档管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDRM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030166</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者门刚后处理软件">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者门刚后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMG</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029877</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030704</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构设计软件">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029393</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者Revit族库管理平台">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者Revit族库管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRFA</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029979</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者住宅产业化设计系统">
+	<enterprise:有批准日期>16-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者住宅产业化设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSHID</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR032172</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维建筑设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维建筑设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRA</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031553</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢平台三维设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢平台三维设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031432</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者管廊设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者管廊设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPR</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031287</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031036</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构设计平台">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构设计平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3D</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029868</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基于PDMS的土建专业设计系统">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基于PDMS的土建专业设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPDMS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029401</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维协同设计管理平台">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维协同设计管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DCM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029872</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：保定市院探索者结构设计专版软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>保定市院探索者结构设计专版软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031038</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR029454</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者打印备份管理系统">
+	<enterprise:有批准日期>16-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者打印备份管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPBBC</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030173</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者土建专业三维协同设计系统">
+	<enterprise:有批准日期>16-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者土建专业三维协同设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCW</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR032092</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池设计系统">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030782</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030829</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者挡土墙三维设计软件">
+	<enterprise:有批准日期>16-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者挡土墙三维设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRW</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR032155</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢格栅板设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢格栅板设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZ-BDI</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030779</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构YJK后处理软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构YJK后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>YJK To TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030586</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031278</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者梁柱详图绘制软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者梁柱详图绘制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031528</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者院标定制服务系统">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者院标定制服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031050</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构构件计算软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构构件计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS-MTS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030773</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础与人防设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础与人防设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030752</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031636</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR031551</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>16-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR030776</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007618</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007240</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基于PDMS的土建专业设计系统">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基于PDMS的土建专业设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPDMS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007218</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构绘图软件">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008157</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007824</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007339</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础与人防设计软件">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础与人防设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007244</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008162</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007342</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构设计平台">
+	<enterprise:有批准日期>15-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构设计平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3D</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR006599</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢筋软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢筋软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DSR</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR216158</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维设计协同管理平台">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维设计协同管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DCM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215408</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维建筑建模软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维建筑建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRA</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215710</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者通用有限元数据分析软件">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者通用有限元数据分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDA</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008225</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者楼梯碰撞检测软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者楼梯碰撞检测软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TS3DSC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215161</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维单层工业厂房设计软件">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维单层工业厂房设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCF</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008124</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者栈桥设计软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者栈桥设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZQ</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215811</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者门刚后处理软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者门刚后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMG</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215721</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维钢结构施工图软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维钢结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215493</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者数据中心平台">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者数据中心平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDCP</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR007621</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者Revit族库管理平台">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者Revit族库管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRFA</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR216152</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215764</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构建模软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215759</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215200</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者管廊设计软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者管廊设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPR</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215289</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者图档管理系统">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者图档管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSDRM</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008215</enterprise:有登记号>
+	<enterprise:有分类号>30212-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维砼结构施工图软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维砼结构施工图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT for Revit</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215249</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者打印备份管理系统">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者打印备份管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPBBC</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008226</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：PDMS绘图软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>PDMS绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPDMS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR216287</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者人防设计软件">
+	<enterprise:有批准日期>14-8-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者人防设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRF</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR118502</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础与人防软件">
+	<enterprise:有批准日期>14-8-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础与人防软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJCRF</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR118498</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：北方时代办公自动化信息管理软件">
+	<enterprise:有批准日期>14-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>北方时代办公自动化信息管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR027894</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：中机国际探索者结构设计专版软件">
+	<enterprise:有批准日期>14-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>中机国际探索者结构设计专版软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR027880</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者土木工程程序开放框架系统软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者土木工程程序开放框架系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZ-OFCEP</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014828</enterprise:有登记号>
+	<enterprise:有分类号>10300-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础三维数据接口软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015104</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者门刚后处理软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者门刚后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSMG</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015015</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>14-2-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR016137</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构绘图软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014928</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构三维数据接口软件">
+	<enterprise:有批准日期>14-2-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR016008</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014895</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014882</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础后处理软件">
+	<enterprise:有批准日期>14-2-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015965</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者栈桥设计软件">
+	<enterprise:有批准日期>14-2-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者栈桥设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSZQ</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015989</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构三维数据接口软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015009</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维建筑建模软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维建筑建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRA</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014961</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015018</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014985</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014825</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015012</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构建模软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014957</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>14-2-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014861</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>13-3-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022414</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维建筑建模软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维建筑建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRA</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023132</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>13-3-12</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022410</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023099</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022968</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023134</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构建模软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023129</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022971</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022964</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构绘图软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR022994</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者基础三维数据接口软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者基础三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSJC-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023207</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构三维数据接口软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023088</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构三维数据接口软件">
+	<enterprise:有批准日期>13-3-13</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构三维数据接口软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT-BIM</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR023083</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者三维结构建模软件">
+	<enterprise:有批准日期>12-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者三维结构建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSRS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR014350</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013537</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013735</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013816</enterprise:有登记号>
+	<enterprise:有分类号>30208-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013767</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢筋算量软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢筋算量软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSCC</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013652</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013764</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构后处理软件">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3PT</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013775</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构绘图软件">
+	<enterprise:有批准日期>12-2-24</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013220</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>12-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR013667</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：湖南省建筑设计院专版探索者CAD结构绘图软件">
+	<enterprise:有批准日期>12-2-29</enterprise:有批准日期>
+	<enterprise:有软件全称>湖南省建筑设计院专版探索者CAD结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR014795</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者特种结构绘图软件">
+	<enterprise:有批准日期>11-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者特种结构绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTZ</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR021836</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>11-3-15</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR012492</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>11-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR011232</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>11-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR011263</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>11-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR011223</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件">
+	<enterprise:有批准日期>11-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSPT</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR011280</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>11-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR011256</enterprise:有登记号>
+	<enterprise:有分类号>30219-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者抗震墙设计软件">
+	<enterprise:有批准日期>10-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者抗震墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSLC</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR031951</enterprise:有登记号>
+	<enterprise:有分类号>65500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水工结构设计软件">
+	<enterprise:有批准日期>10-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水工结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSWD</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR032088</enterprise:有登记号>
+	<enterprise:有分类号>65500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者钢结构设计软件">
+	<enterprise:有批准日期>10-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者钢结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>T3SD</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR031955</enterprise:有登记号>
+	<enterprise:有分类号>65500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件">
+	<enterprise:有批准日期>10-5-20</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR023778</enterprise:有登记号>
+	<enterprise:有分类号>62500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者水池辅助设计系统">
+	<enterprise:有批准日期>10-2-1</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者水池辅助设计系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TSTK</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR005796</enterprise:有登记号>
+	<enterprise:有分类号>62500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：设计研究院基础信息管理系统及优秀工程管理系统">
+	<enterprise:有批准日期>10-1-4</enterprise:有批准日期>
+	<enterprise:有软件全称>设计研究院基础信息管理系统及优秀工程管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>基础信息管理系统及优秀工程管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR000185</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件TSSD">
+	<enterprise:有批准日期>09-5-7</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件TSSD</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR016784</enterprise:有登记号>
+	<enterprise:有分类号>62500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构工程CAD软件TSSD">
+	<enterprise:有批准日期>09-5-7</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构工程CAD软件TSSD</enterprise:有软件全称>
+	<enterprise:有软件简称>TSSD</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR016783</enterprise:有登记号>
+	<enterprise:有分类号>62500-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者设计资源管理系统">
+	<enterprise:有批准日期>10-1-4</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者设计资源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TS-DRM</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR000155</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者结构后处理软件 [简称:TSPT] V1.0">
+	<enterprise:有批准日期>09-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者结构后处理软件 [简称:TSPT] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR04036</enterprise:有登记号>
+	<enterprise:有分类号>65500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：设计研究院发展基金管理系统 [简称:发展基金管理系统] V1.0">
+	<enterprise:有批准日期>08-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>设计研究院发展基金管理系统 [简称:发展基金管理系统] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR34997</enterprise:有登记号>
+	<enterprise:有分类号>65000-9600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：设计研究院办公用房管理系统 [简称:办公用房管理系统] V1.0">
+	<enterprise:有批准日期>08-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>设计研究院办公用房管理系统 [简称:办公用房管理系统] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR34998</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：设计研究院基础信息管理系统及优秀工程管理系统 [简称:基础信息管理系统及优秀工程管理系统] V1.0">
+	<enterprise:有批准日期>08-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>设计研究院基础信息管理系统及优秀工程管理系统 [简称:基础信息管理系统及优秀工程管理系统] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR34996</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者设计资源管理系统 [简称: TS-DRM] V2.0">
+	<enterprise:有批准日期>08-4-29</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者设计资源管理系统 [简称: TS-DRM] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR08186</enterprise:有登记号>
+	<enterprise:有分类号>65000-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京探索者软件股份有限公司的软件著作：探索者打印备份管理系统 [简称: TS-PBBC] V2.0">
+	<enterprise:有批准日期>08-4-29</enterprise:有批准日期>
+	<enterprise:有软件全称>探索者打印备份管理系统 [简称: TS-PBBC] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR08187</enterprise:有登记号>
+	<enterprise:有分类号>65000-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京探索者软件股份有限公司的网站备案：探索者">
+	<enterprise:有审核时间>17-3-29</enterprise:有审核时间>
+	<enterprise:有网站全称>探索者</enterprise:有网站全称>
+	<enterprise:有网站首页>www.tsz.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>tsz.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14028513号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京探索者软件股份有限公司的网站备案：北京探索者软件股份有限公司">
+	<enterprise:有审核时间>17-7-12</enterprise:有审核时间>
+	<enterprise:有网站全称>北京探索者软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.tsz.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>tsz.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17040021号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京探索者软件股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京探索者软件股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京探索者软件股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京探索者软件股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京探索者软件股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京探索者软件股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京探索者软件股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京探索者软件股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京探索者软件股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110108051446387B</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>21.57</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>8.01</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京探索者软件股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>车辆</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>33.00</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>84.22</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京探索者软件股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>未提供</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京探索者软件股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>64</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>13</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>36</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>15</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京探索者软件股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京探索者软件股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

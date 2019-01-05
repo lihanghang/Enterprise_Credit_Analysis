@@ -1,0 +1,1337 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京尚博信科技有限公司的企业概况">
+    <enterprise:有名称>北京尚博信科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108673841672N</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020007995452</enterprise:有中征码>
+    <enterprise:有基本账户开户行>从业人数（人）</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>117</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008-3-5</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2028-3-4</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000.00</enterprise:有股本>
+    <enterprise:有经营范围>技术推广、技术服务、技术咨询、技术转让；软件开发；计算机系统服务；销售计算机、软件及辅助设备、电子产品、机械设备、日用品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术推广、技术服务、技术咨询、技术转让；软件开发；计算机系统服务；销售计算机、软件及辅助设备、电子产品、机械设备、日用品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>提供企业应用软件产品及企业信息化解决方案</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区学清路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区学清路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>—</enterprise:有邮政编码>
+    <enterprise:有联系人>曹莉</enterprise:有联系人>
+    <enterprise:有联系电话>13611082957</enterprise:有联系电话>
+    <enterprise:有传真电话>010-62669197</enterprise:有传真电话>
+    <enterprise:有E-mail>caoli@sunboxsoft.com</enterprise:有E-mail>
+    <enterprise:有网址>www.sunboxsoft.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京尚博信科技有限公司（简称“公司”）
+于2008年3月5日在北京市工商行政管理局海淀
+分局注册成立。公司初始注册资本为300.00万
+元，经过3次增资，目前注册资本为5000.00万
+元，股东认缴出资及持股情况为：刘义辉以货
+币出资2365.00万元，以知识产权出资1385.00
+万元，持股75.00%；杨欣以货币出资471.00万
+元，以知识产权出资279.00万元，持股15.00%；
+王安松以货币出资314.00万元，以知识产权出
+资186.00万元，持股10.00%。 
+公司经营范围：“技术推广、技术服务、
+技术咨询、技术转让；软件开发；计算机系统
+服务；销售计算机、软件及辅助设备、电子产
+品、机械设备、日用品”。公司主营业务为提
+供企业应用软件产品及企业信息化解决方案。 
+截至 2016年 8月底，公司资产总额 6371.03
+万元，固定资产净额 43.64 万元，所有者权益
+3548.78 万元；2015 年，公司实现营业收入
+7080.68万元，利润总额 101.66万元；2016年
+1~8月，公司实现营业收入 5972.36万元，利润
+总额 1304.70 万元。公司现有员工 117 人，在
+北京市属于中型企业。 
+公司注册及经营地址：北京市海淀区学清
+路 38 号（B 座）1001 室；法定代表人：刘义
+辉；统一社会信用代码：91110108673841672N；
+贷款卡号：1101020007995452；经营期限：自
+2008年 3月 5日至 2028年 3月 4日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京尚博信科技有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、执行董事兼总经理刘义
+辉，37岁，硕士研究生学历，中级工程师，曾
+在微软（中国）有限公司任职，2008年创办公
+司。 
+公司财务负责人曹莉，50岁，本科学历，
+曾在泰和力源（北京）机电设备有限公司任职，
+2011年加入公司。 
+总体看，公司高管人员学历水平高，从业
+经验较丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 117人。 
+从学历构成看，公司员工中本科及以上学
+历者 108人，占比 92.31%，专科学历者 9人，
+占比 7.69%，员工学历水平高。 
+从年龄构成看，公司员工中年龄在 45岁及
+以下者 115人，占比 98.29%，员工以中青年为
+主。 
+从岗位构成看，公司管理人员 8人，占比
+6.84%，技术人员 109人，占比 93.16%。 
+总体看，公司员工学历水平高，员工以中
+青年为主，岗位构成符合公司经营特点。 
+3．研发人员素质 
+公司现有专职研发人员 67人，均为本科及
+以上学历。 
+公司核心技术人员付国锋，本科学历，曾
+任北京银河网创网络技术开发有限公司软件工
+程师、中矿金程(北京)软件工程研究院有限公
+司高级软件工程师、北京京翰英才教育科技有
+限公司项目经理，2012年加入公司，曾参与燕
+山石化无纸化办公系统 v1.0的开发工作，现任
+燕山石化无纸化办公升级系统项目经理。 
+公司核心技术人员张建，本科学历，曾任
+长春市金狮软件有限公司软件工程师、北京市
+中软强网信息技术有限公司软件工程师、深圳
+市创世纪科技发展有限公司项目经理等职务，
+2011年加入公司，曾参与公司迪谱移动办公平
+台 V2.0 的开发工作，迪谱移动办公平台 V2.0
+软件系统在 2012年取得软件著作权，张建现任
+迪谱移动办公系统升级项目组经理。 
+总体看，公司研发人员学历高，核心技术
+人员具有丰富的行业经验。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设有项目部，负责公司研发工作。近
+三年，公司研发投入分别为 385.93万元、470.39
+万元、747.73 万元，分别占当年营业收入的
+5.07%、7.25%、10.56%，公司研发投入力度较
+大，研发投入主要用于发放研发人员工资。 
+总体看，公司研发投入力度较大，研发投
+入能够满足现阶段研发需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>385.93万元,470.39万元,747.73万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>5.07%,7.25%,10.56%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京尚博信科技有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地址位于北京市海淀区学清路
+38号（B座）1001室，使用方式为租赁，建筑
+面积 310.34平方米，办公设施齐全，周边交通
+表 2  公司所获资质 
+序号 资质名称及有效期 
+1 中关村高新技术企业证书 
+（编号：20142011441901，有效期至：2017年 5月） 
+2 国家高新技术企业证书 
+（编号：GF201511000013，有效期至：2018年 7月） 
+3 软件产品登记证书 
+（编号：京 DGY-2013-2546，有效期至：2018年 7月） 
+4 软件企业认定证书（编号：京 R-2013-0752） 
+资料来源：公司提供，联合信用整理 
+总体看，公司具备经营所需资质。 
+2．业务运作 
+公司成立 8年，主导产品为迪谱移动办公
+平台软件，该产品支持跨通信运营商、跨操作
+系统平台，通过 3G、WIFI等通信手段实现企
+业内网应用的即时互动，适用于企业高管和有
+移动办公需求的相关业务人员使用。 
+采购方面，公司主要为客户提供软件产品，
+采购物较少，为电脑等办公设备，采购费用占
+总成本比例小。 
+销售方面，公司大项目的获取均通过投标
+方式获得，主要客户为中石油、中石化等。公
+司销售区域以北京为主，主要为客户提供定制
+化服务，对于部分项目会采取分包的形式，公
+司与下游客户及分包商之间会根据项目需要派
+定人员到各项目上进行技术指导。公司与下游
+客户结算一般会先预收 20%-30%，试用期后结
+尾款，留 10%的质保金。 
+总体看，公司上下游渠道通畅，经营情况
+较好。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 98.65 98.78 98.83 
+管理费用率(%) 23.05 28.58 29.90 
+存货周转次数(次) 6984.41 5647.47 3535.56 
+应收账款周转次数(次) 15.12 7.09 6.70 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率变动不大，始终处于
+行业高水平，主要是由于人员工资较高所致；
+同期，管理费用率呈上升趋势，处于行业较高
+水平，公司管理费用控制有待加强。 
+近三年，公司存货周转次数呈下降趋势，
+但处于行业高水平，主要是因为 2011年公司客
+户订单取消导致积压了大量存货，公司通过对
+存货的积极处理，2012 年起存货减少，因此
+2013年起，公司存货周转次数变动异常；近三
+年，公司应收账款周转次数呈下降趋势，处于
+行业一般水平，2013年处于行业较高水平主要
+是因为当年应客户需求开了大量发票确认收
+入，导致 2013年公司营业收入相对较高；同期，
+总资产周转次数整体呈下降趋势，处于行业高
+水平。 
+总体看，公司经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会是公司的权力机构，行使决定公司
+的经营方针和投资计划、审议批准公司的利润
+分配方案和弥补亏损的方案等职权；公司不设
+董事会，设执行董事 1 人，执行董事行使负责
+召集股东会、向股东会议报告工作、执行股东
+会的决议、 审定公司的经营计划和投资方案等
+职权；公司不设监事会，设监事 1 人，行使检
+查公司财务、向股东会会议提出提案等职权；
+公司设总经理 1人，负责全面主持公司的日常
+经营管理等工作，目前，公司执行董事、总经
+理均由刘义辉担任。 
+公司内设财务部、销售部、人事部、行政
+部、项目部（项目部分为 8个项目组），各部门
+职能分工明确。 
+总体看，公司法人治理结构较简单，组织
+2．制度建设及执行 
+公司制定了《财务管理制度》、《合同管理
+制度》、《人事管理制度》、《项目管理制度》、《技
+术保密制度》、《采购管理制度》、《销售管理制
+度》等规章制度，并通过了 ISO 9001:2008《质
+量管理体系标准》认证（有效期至 2018 年 4
+月），公司各项制度执行情况好。 
+总体看，公司制度完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用预测数据规则，结合公司业
+务目标，按照谨慎性原则，联合信用预计公司
+2016年将实现营业收入 8000.00万元，净利润
+100.00 万元；预计公司 2016 年底资产总额
+5853.75万元，所有者权益 2353.75万元，负债
+总额 3500.00万元。相比 2015年，预计公司 2016
+年营业收入增长 12.98%，负债率变动幅度为
+2.56%，净资产收益率变动幅度为 0.43%。  
+总体看，公司短期内发展情况较好。 
+2．融资需求 
+公司近期无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京尚博信科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 5089.99 万
+元、5769.34 万元、5269.59 万元，复合增长率
+为 1.75%，增长较平稳；截至 2016年 8月底，
+公司资产总额 6371.03 万元，其中：流动资产
+占比 68.11%；非流动资产占比 31.89%。 
+图 1  公司 2016年 8月底流动资产构成图 
+截至 2016年 8月底，公司流动资产 4339.30
+万元，其中：货币资金 1229.96 万元，占比
+28.34%；应收账款 929.68万元，占比 21.42%，
+主要为应收北明软件有限公司、石化盈科信息
+技术有限责任公司北京分公司、中石化河北石
+油分公司、中石化广东分公司的技术服务费，
+账龄在 1年以内的占比 99.80%，2年以上的占
+比 0.20%，主要为合同尾款；预付款项 1150.55
+万元，占比 26.51%，主要为预付北京智深同创
+科技有限公司的项目分包款、北京乐驰汽车销
+售有限公司的预付购车款、山东全息科技有限
+公司、北京全息云图科技有限公司、北京弘迅
+易达科技有限公司的技术服务费，账龄全部集
+中在 1 年以内；其他应收款 1025.66 万元，占
+比 23.64%，主要为上海鼎晖嘉惠股权投资合伙
+企业（有限合伙）、股东向公司取得的借款，以
+及应收北京市凌怡科技有限公司的项目质保
+金，履约保证金与投标押金，账龄全部集中在
+1 年以内；存货 3.45 万元，占比 0.09%，为库
+存商品。 
+截至 2016 年 8 月底，公司非流动资产
+2031.73万元，其中：可供出售金融资产 810.59
+买的理财产品“现金宝”，可随时赎回；固定资
+产净额 43.64万元，占比 2.15%，主要为办公家
+具等；无形资产 1177.50万元，占比 57.96%，
+为股东投入的知识产权。 
+总体看，公司资产流动性较好，资产质量
+较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 8月底，公司
+流动比率为 153.75%，处于行业较低水平；速
+动比率为 153.63%，处于行业一般水平；2015
+年，现金流动负债比为-34.00%，公司短期偿债
+能力较弱。 
+从长期偿债能力看，2015年，公司 EBITDA
+利息倍数、债务保护倍数分别为 9.52 倍、0.63
+倍，均处于行业一般水平，公司长期偿债能力
+一般。 
+结合公司资产规模及债务构成来看，公司
+整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 58.75%、
+62.42%、57.23%；2014 年、2015 年，公司全
+部债务资本化比率分别为 18.74%、18.16%。
+2016年 8月底，公司资产负债率 44.30%，全部
+债务资本化比率为 12.35%，公司负债水平一
+般，有息债务压力一般。 
+近三年，公司负债总额分别为 2990.54 万
+元、3601.49 万元、3015.84 万元，复合增长率
+0.42%，增长平稳。 
+截至 2016年 8月底，公司负债总额 2822.25
+万元，均为流动负债，其中： 短期借款 500.00
+万元，占比 17.72%，为工商银行提供的信用贷
+款；应付账款 1216.07万元，占比 43.09%，主
+要为应付上海滕勝嘉诚科技有限公司、成都致
+锐信息科技有限公司的项目分包款，微软（中
+国）有限公司、北京大华易创科技有限公司、
+北京创阳软件技术有限公司的技术服务费，账
+龄均在 1 年以内；预收款项 1.05 万元，占比
+0.03%；应付职工薪酬 177.55万元，占比 6.29%；
+应交税费 31.22万元，占比 1.11%；其他应付款
+896.35万元，占比 31.76%，主要为项目上的差
+旅费、员工报销款等费用，账龄均在 1年以内。 
+图 2  公司 2016年 8月底流动负债构成图 
+近三年，公司所有者权益分别为 2099.46
+万元、2167.85万元、2253.75 万元，复合增长
+率为 3.61%，主要表现为留存收益的积累。 
+近三年，公司未进行利润分配。 
+截至 2016 年 8 月底，公司所有者权益
+3548.78万元，其中：实收资本 2000.00万元，
+占比 56.36%；盈余公积 25.17万元，占比 0.71%；
+未分配利润 1523.62万元，占比 42.93%。 
+总体看，公司负债水平一般，有息债务压
+力一般，所有者权益对债务保障能力较强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 7619.13 万
+元、6483.67 万元、7080.68 万元，复合变动率
+为-3.60%，公司收入有小幅波动；同期，利润
+总额分别为 105.38 万元、80.83 万元、101.66
+万元，复合变动率-1.78%。 
+近三年，公司主营业务利润率分别为
+26.17%、 29.81%、 32.90%，加权平均值为
+30.63%，处于行业一般水平；同期，总资产报
+酬率分别为 2.97%、1.86%、2.54%，加权平均
+值为 2.42%，处于行业较低水平；同期，净资
+产收益率分别为 6.87%、3.22%、3.91%，加权
+平均值为 4.29%，处于行业较低水平。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司现金收入比分别为 96.60%、
+97.08%、106.76%，加权平均值为 101.82%，处
+于行业一般水平。 
+总体看，公司盈利能力较弱，收入实现质
+量一般。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京尚博信科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司存在行政处罚
+记录；通过在中国执行信息公开网查询，未发
+现公司存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司的上游企业主要为石油、石化等行业，
+而上游行业处于较强势地位，公司议价能力较
+弱。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司成本率高，盈利能力较弱。 
+（2）公司其他应收款占比大，关注与关
+联方的往来情况。 
+（3）公司整体现金流情况有待跟踪。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京尚博信科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>5089.99 </enterprise:资产总额>
+    <enterprise:所有者权益>2099.45 </enterprise:所有者权益>
+    <enterprise:负债总额>2990.54 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京尚博信科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>5371.01 </enterprise:资产总额>
+    <enterprise:所有者权益>2167.86 </enterprise:所有者权益>
+    <enterprise:负债总额>3601.49 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京尚博信科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>5258.99 </enterprise:资产总额>
+    <enterprise:所有者权益>2253.75 </enterprise:所有者权益>
+    <enterprise:负债总额>3063.58 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京尚博信科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>2.15 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>15.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>6984.41 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京尚博信科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.19 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.09 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5647.47 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京尚博信科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.28 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.70 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3535.56 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚博信科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-276.18 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚博信科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-211.48 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京尚博信科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-217.50 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚博信科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>110.92 </enterprise:流动比率>
+    <enterprise:速动比率>110.89 </enterprise:速动比率>
+    <enterprise:资产负债率>58.75 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚博信科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>106.54 </enterprise:流动比率>
+    <enterprise:速动比率>106.52 </enterprise:速动比率>
+    <enterprise:资产负债率>67.05 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>17.81 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京尚博信科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>128.23 </enterprise:流动比率>
+    <enterprise:速动比率>128.17 </enterprise:速动比率>
+    <enterprise:资产负债率>58.25 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>9.52 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京尚博信科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-99.89 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>2.59 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-3.60 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京尚博信科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-98.76 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>24.78 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>18.74 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京尚博信科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-99.13 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-33.47 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>18.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京尚博信科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>320.03 </enterprise:货币资金>
+    <enterprise:交易性金融资产>230.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>633.49 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>76.55 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2056.12 </enterprise:其他应收款>
+    <enterprise:存货>0.80 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3316.99 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>133.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1640.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1773.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5089.99 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京尚博信科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1551.41 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1196.35 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>59.83 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1028.60 </enterprise:其他应收款>
+    <enterprise:存货>0.80 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3836.99 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>79.02 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1455.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1534.02 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5371.01 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京尚博信科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>921.14 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>917.82 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>664.08 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1423.63 </enterprise:其他应收款>
+    <enterprise:存货>1.87 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3928.54 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>60.45 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1270.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1330.45 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5258.99 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚博信科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1788.78 </enterprise:应付账款>
+    <enterprise:预收款项>234.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>530.28 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>43.44 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>504.49 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>3601.49 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>3601.49 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>16.53 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>151.33 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2167.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2167.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5769.35 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚博信科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1788.78 </enterprise:应付账款>
+    <enterprise:预收款项>234.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>530.28 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>43.44 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>504.49 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>3601.49 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>3601.49 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>16.53 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>151.33 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2167.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2167.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5769.35 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京尚博信科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1214.10 </enterprise:应付账款>
+    <enterprise:预收款项>0.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>334.43 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>23.87 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>990.68 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>3063.58 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>3063.58 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>25.17 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>228.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2253.75 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2253.75 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5317.33 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京尚博信科技有限公司2013年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5587.53 </enterprise:营业成本>
+    <enterprise:主营业务成本>5587.53 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>37.41 </enterprise:营业税金及附加>
+    <enterprise:销售费用>163.46 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1732.42 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.62 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>4.04 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-5784.98 </enterprise:营业利润>
+    <enterprise:营业外收入>2.44 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-5782.55 </enterprise:利润总额>
+    <enterprise:所得税费用>15.81 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-5798.36 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-5798.36 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京尚博信科技有限公司2014年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>4517.97 </enterprise:营业成本>
+    <enterprise:主营业务成本>4517.97 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>32.62 </enterprise:营业税金及附加>
+    <enterprise:销售费用>59.80 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1830.35 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>19.69 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>55.63 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-4574.45 </enterprise:营业利润>
+    <enterprise:营业外收入>1.97 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-4572.48 </enterprise:利润总额>
+    <enterprise:所得税费用>12.13 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-4584.61 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-4584.61 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京尚博信科技有限公司2015年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>4715.72 </enterprise:营业成本>
+    <enterprise:主营业务成本>4715.72 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>35.35 </enterprise:营业税金及附加>
+    <enterprise:销售费用>140.48 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2092.36 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>38.19 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>24.27 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-4905.47 </enterprise:营业利润>
+    <enterprise:营业外收入>18.80 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-4886.67 </enterprise:利润总额>
+    <enterprise:所得税费用>15.25 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-4901.92 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-4901.92 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京尚博信科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>7360.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>82.50 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7442.50 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>4307.14  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2167.41 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>387.60 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>502.80 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7364.95 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>77.55 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>1550.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>4.04 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1554.04 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>93.04 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1780.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>502.80 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2375.84 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-821.80 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-744.25 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京尚博信科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>6294.66 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>1.97 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1928.82 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>8225.45 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3072.26  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2821.51 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>329.68 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1109.38 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7332.83 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>892.62 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>731.67 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>55.63 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>787.30 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>17.15 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>900.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>1109.38 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2026.53 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1239.23 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>20.04 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>11.35 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>31.39 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>468.61 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>122.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京尚博信科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>7559.09 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>9.80 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1662.36 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>9231.25 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>4693.79  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2655.14 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>391.35 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2516.33 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>10256.61 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1025.36 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>387.73 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>24.27 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>412.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>2516.33 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2516.33 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2104.33 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>16.90 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>16.90 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-16.90 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3146.59 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京尚博信科技有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京尚博信科技有限公司股东：刘义辉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘义辉 </enterprise:股东名称>
+	 <enterprise:货币>3,750.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>75.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京尚博信科技有限公司股东：杨欣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨欣 </enterprise:股东名称>
+	 <enterprise:货币>750.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>15.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京尚博信科技有限公司股东：北京迪谱科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京迪谱科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>500.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京尚博信科技有限公司的商标信息：香庭">
+	<enterprise:有申请日期>14-4-14</enterprise:有申请日期>
+	<enterprise:有商标名称>香庭</enterprise:有商标名称>
+	<enterprise:有注册号>14367276</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京尚博信科技有限公司的商标信息：香庭">
+	<enterprise:有申请日期>14-4-14</enterprise:有申请日期>
+	<enterprise:有商标名称>香庭</enterprise:有商标名称>
+	<enterprise:有注册号>14367275</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京尚博信科技有限公司的商标信息：迪谱">
+	<enterprise:有申请日期>14-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>迪谱</enterprise:有商标名称>
+	<enterprise:有注册号>14096206</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京尚博信科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-1-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>13991844</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京尚博信科技有限公司的商标信息：DEEPER">
+	<enterprise:有申请日期>12-11-13</enterprise:有申请日期>
+	<enterprise:有商标名称>DEEPER</enterprise:有商标名称>
+	<enterprise:有注册号>11736811</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：ESB应用定制集成软件">
+	<enterprise:有批准日期>17-9-21</enterprise:有批准日期>
+	<enterprise:有软件全称>ESB应用定制集成软件</enterprise:有软件全称>
+	<enterprise:有软件简称>ESB集成软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR535693</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：成品油二次配送优化系统">
+	<enterprise:有批准日期>17-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>成品油二次配送优化系统</enterprise:有软件全称>
+	<enterprise:有软件简称>二次配送系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR428365</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：设备预知性维修系统软件">
+	<enterprise:有批准日期>17-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>设备预知性维修系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>设备预知性维修系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR084257</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：智能巡检系统软件">
+	<enterprise:有批准日期>17-3-21</enterprise:有批准日期>
+	<enterprise:有软件全称>智能巡检系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>巡检系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR084973</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：会员与积分管理系统">
+	<enterprise:有批准日期>17-7-5</enterprise:有批准日期>
+	<enterprise:有软件全称>会员与积分管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR344374</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：全息物联网平台软件">
+	<enterprise:有批准日期>17-3-17</enterprise:有批准日期>
+	<enterprise:有软件全称>全息物联网平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>物联网平台</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR082120</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：电子券营销系统">
+	<enterprise:有批准日期>17-6-27</enterprise:有批准日期>
+	<enterprise:有软件全称>电子券营销系统</enterprise:有软件全称>
+	<enterprise:有软件简称>E-Coupon</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR313429</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：智能油库管理系统">
+	<enterprise:有批准日期>17-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>智能油库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>油库管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR428462</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：全息大数据应用软件">
+	<enterprise:有批准日期>17-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>全息大数据应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>大数据应用</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR084253</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：汽车服务系统">
+	<enterprise:有批准日期>17-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>汽车服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>intime carservice</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR125100</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：全息数据可视化平台">
+	<enterprise:有批准日期>17-3-14</enterprise:有批准日期>
+	<enterprise:有软件全称>全息数据可视化平台</enterprise:有软件全称>
+	<enterprise:有软件简称>Chance DataView</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR078176</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：全息多媒体广告发布平台">
+	<enterprise:有批准日期>17-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>全息多媒体广告发布平台</enterprise:有软件全称>
+	<enterprise:有软件简称>Chance Ad</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR125026</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：有路加油站管理系统">
+	<enterprise:有批准日期>16-8-31</enterprise:有批准日期>
+	<enterprise:有软件全称>有路加油站管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>iGasRoad</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR242841</enterprise:有登记号>
+	<enterprise:有分类号>30219-8300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：互联网加油站营销平台">
+	<enterprise:有批准日期>16-4-22</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网加油站营销平台</enterprise:有软件全称>
+	<enterprise:有软件简称>IGS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR084823</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：零售营销辅助决策系统">
+	<enterprise:有批准日期>16-4-22</enterprise:有批准日期>
+	<enterprise:有软件全称>零售营销辅助决策系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR084831</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：全息工厂生产管控平台">
+	<enterprise:有批准日期>16-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>全息工厂生产管控平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR012869</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：企业个人工作台系统">
+	<enterprise:有批准日期>15-8-19</enterprise:有批准日期>
+	<enterprise:有软件全称>企业个人工作台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>个人工作台系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR160863</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信数据总线平台系统（SunBoxSoftSOA）">
+	<enterprise:有批准日期>14-3-3</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信数据总线平台系统（SunBoxSoftSOA）</enterprise:有软件全称>
+	<enterprise:有软件简称>数据总线平台系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR025139</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：主数据管理平台系统（SunBoxSoftMDM)">
+	<enterprise:有批准日期>14-3-6</enterprise:有批准日期>
+	<enterprise:有软件全称>主数据管理平台系统（SunBoxSoftMDM)</enterprise:有软件全称>
+	<enterprise:有软件简称>主数据管理平台</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR027385</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：合同管理信息系统">
+	<enterprise:有批准日期>14-3-6</enterprise:有批准日期>
+	<enterprise:有软件全称>合同管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>合同管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR027381</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：迪谱移动设备管理软件">
+	<enterprise:有批准日期>13-1-7</enterprise:有批准日期>
+	<enterprise:有软件全称>迪谱移动设备管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>deepermobile MDM</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR001781</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信加油站管理系统">
+	<enterprise:有批准日期>14-3-3</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信加油站管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>加油站管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR025143</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：迪谱移动办公平台">
+	<enterprise:有批准日期>12-6-29</enterprise:有批准日期>
+	<enterprise:有软件全称>迪谱移动办公平台</enterprise:有软件全称>
+	<enterprise:有软件简称>迪谱移动办公</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR056367</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信项目投资管理系统">
+	<enterprise:有批准日期>10-4-7</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信项目投资管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014981</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信信用管理系统">
+	<enterprise:有批准日期>10-4-7</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信信用管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>信用管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014983</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信数据整合平台">
+	<enterprise:有批准日期>10-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信数据整合平台</enterprise:有软件全称>
+	<enterprise:有软件简称>数据整合平台</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR012855</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信工作流平台">
+	<enterprise:有批准日期>10-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信工作流平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014389</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信工作管理系统">
+	<enterprise:有批准日期>10-3-20</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信工作管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR012816</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京尚博信科技有限公司的软件著作：尚博信运维平台">
+	<enterprise:有批准日期>10-4-7</enterprise:有批准日期>
+	<enterprise:有软件全称>尚博信运维平台</enterprise:有软件全称>
+	<enterprise:有软件简称>运维平台</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014982</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京尚博信科技有限公司的网站备案：北京尚博信科技有限公司">
+	<enterprise:有审核时间>17-4-1</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚博信科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.deepermobile.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>deepermobile.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11038463号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京尚博信科技有限公司的网站备案：北京尚博信科技有限公司">
+	<enterprise:有审核时间>17-4-1</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚博信科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.deepermobile.cn</enterprise:有网站首页>
+	<enterprise:有域名>deepermobile.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11038463号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京尚博信科技有限公司的网站备案：北京尚博信科技有限公司">
+	<enterprise:有审核时间>17-4-1</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚博信科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.deepermobile.com</enterprise:有网站首页>
+	<enterprise:有域名>deepermobile.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11038463号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京尚博信科技有限公司的网站备案：北京尚博信科技有限公司">
+	<enterprise:有审核时间>17-4-1</enterprise:有审核时间>
+	<enterprise:有网站全称>北京尚博信科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sunboxsoft.com</enterprise:有网站首页>
+	<enterprise:有域名>sunboxsoft.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11038463号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京尚博信科技有限公司的员工基本信息">
+	<enterprise:有从业人数>117</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:66,25岁以下:49,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:108,高中及以下:0,专科:9</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:8,技术人员:109,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:116人,未参加:1人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京尚博信科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京尚博信科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中石油、中石化</enterprise:现有主要客户>
+	<enterprise:目前经营状况>公司上下游渠道通畅，经营情况较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京尚博信科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京尚博信科技有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京尚博信科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>技术服务业务持续向好，国内产生了一批具有竞争力的软件技术服务企业，
+它们凭借良好的客户关系和长期从事某一领域业务积累的经验，已经在各自擅长的领域保持着一
+定的领先优势。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京尚博信科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京尚博信科技有限公司的企业法人代表：刘义辉">
+	<enterprise:名称>刘义辉</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>37</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>1979-9</enterprise:出生年月>
+	<enterprise:身份证号码>371081197909156416</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>—</enterprise:学位>
+	<enterprise:职称>中级工程师</enterprise:职称>
+	<enterprise:现任职务>执行董事、总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>—</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>—</enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京尚博信科技有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京尚博信科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税6.00%，企业所得税15.00%</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>30.77万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>12.37万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京尚博信科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>一般工商企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>较强</enterprise:有交易地位>
+	<enterprise:有议价能力>一般</enterprise:有议价能力>
+	<enterprise:有延期支付>--</enterprise:有延期支付>
+	<enterprise:有上年度发生额>--</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>--</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>--</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0.00万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京尚博信科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无不良记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无不良记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京尚博信科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>8000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚博信科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>100.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚博信科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京尚博信科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京尚博信科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>4</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京尚博信科技有限公司的商标数量">
+	<enterprise:商标总计>4</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>4</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京尚博信科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

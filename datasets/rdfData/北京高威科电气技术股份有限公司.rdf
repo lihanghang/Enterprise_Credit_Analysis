@@ -1,0 +1,1939 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京高威科电气技术股份有限公司的企业概况">
+    <enterprise:有名称>北京高威科电气技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc+</enterprise:有信用等级>
+    <enterprise:有信用代码>911101088020561294</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110100000328691501</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行双榆树支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2001年2月21日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>9000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术咨询、技术服务、技术培训；销售工业自动控制系统、自动化成套控制装置系统、集中控制装置、智能控制装置、控制（调节）仪表系统、显示仪器、基地式仪表、执行器、气动单元组织仪表、电动单元组合仪表、电工仪器仪表、楼宇控制系统、自行开发后的产品、机械设备、电子产品、通讯设备、五金、交电；应用软件服务；基础软件服务；技术进出口、货物进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术咨询、技术服务、技术培训；销售工业自动控制系统、自动化成套控制装置系统、集中控制装置、智能控制装置、控制（调节）仪表系统、显示仪器、基地式仪表、执行器、气动单元组织仪表、电动单元组合仪表、电工仪器仪表、楼宇控制系统、自行开发后的产品、机械设备、电子产品、通讯设备、五金、交电；应用软件服务；基础软件服务；技术进出口、货物进出口...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>自动化行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区知春路63号51号楼11层1102-1105室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区知春路63号51号楼11层1102-1105室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100083</enterprise:有邮政编码>
+    <enterprise:有联系人>王欢</enterprise:有联系人>
+    <enterprise:有联系电话>82867930-841</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.go-well.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京高威科电气技术股份有限公司成立于2
+001年2月21日，注册地址为北京市海淀区知春
+路63号51号楼11层1102-
+1105室，法定代表人为张浔。
+公司前身为北京高威科电气技术有限公司
+，后于2010年9月完成股份制改造。公司初始注
+册资本为300万元，后经多次增资及股权变更，
+目前注册资本为9000万元，其中，股权出资100
+0万元。具体股东及持股情况见附表二。
+高威科是一家致力于工业自动化领域，主
+营业务涉及工业自动化控制产品的技术型分销
+和系统集成的高新技术企业。2012年10月，公
+司通过北京市科学技术委员会等四部门组织的
+“高新技术企业”资格复核,并于2015年11月通
+过复核。
+截至2015年底，高威科资产总额38795.52
+万元，净资产25920.98万元；2015年累计实现
+主营业务收入31623.09万元，利润总额910.06
+万元；2015年经营活动产生的现金流量净额为1
+529.86万元，投资活动产生的现金流量净额为3
+15.08万元，筹资活动产生的现金流量净额为-
+2137.01万元，现金及现金等价物净增加额为-
+292.07万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京高威科电气技术股份有限公司的基础素质">
+    <enterprise:有管理素质>高威科董事长及法定代表人张浔先生，毕
+业于北京科技大学，获硕士学位，拥有高级工
+程师职称。张先生曾担任北京科技大学助教、
+讲师；1993年3月至2000年12月担任北京科海高
+技术（集团）公司高级工程师；2001年2月至20
+13年10月先后于高威科担任副总经理、总经理
+，并且于2010年担任高威科董事长至今。张先
+生具有丰富的相关专业理论知识背景，并在相
+关行业管理岗位从业多年，具有丰富的管理经
+验和较高的管理素质，能够较好的推动公司发
+展。
+公司副董事长兼总经理刘新平先生，拥有
+工学硕士学位；1989年7月至1993年2月任中国
+科学院自动化研究所助理研究员；1993年2月至
+2000年12月于北京科海高技术（集团）公司担
+任部门经理。刘先生2001年1月加入高威科子公
+司上海高威科电气技术有限公司，先后担任常
+务副总经理、总经理，并担任董事长至今，同
+时于2003年至2010年开始兼任高威科董事和常
+务副总经理，后升任公司副董事长兼总经理。
+公司董事兼常务副总经理曾宏伟先生，拥
+有学士学位；曾于电子工业部管理干部学院任
+教，1988年开始从事企业工作，先后任职于四
+川新潮计算机产业集团公司工控中心、四川新
+潮工控技术有限责任公司，2010年加入高威科
+子公司四川高威新潮电气技术有限公司，兼任
+其董事长至今，后升任公司董事兼常务副总经
+理。
+公司财务总监刘卫东女士，拥有学士学位
+；1993年至1999年先后任职于北京斯塔科技集
+团、北京科海高技术（集团）公司；1999年5月
+至2010年6月任北京高威洋海财务部经理；2006
+，财务管理经验丰富。
+公司其他管理人员均在工业自动化行业及
+管理岗位从业多年，具有较高的管理素质和市
+场开拓能力，利于公司管理活动的顺利进行。
+总体看，公司高层人员管理素质较高，相
+关行业从业多年，管理经验丰富，且团队稳定
+，管理协调性较好，能够较好的满足经营发展
+的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>高威科共有员工107人，其中31人从事科技
+研发活动。从研发人员学历构成来看，1人拥有
+博士学位、25人拥有学士学位；从职称构成来
+看，3人拥有高级职称、6人拥有中级职称、14
+人拥有初级职称。公司研发人员学历及技术水
+平较高，基本能够满足公司研发活动需要。
+公司技术总监娄向东先生，全国印刷机械
+标准化委员会委员；曾先后担任北人集团第四
+印刷机械厂助理工程师、北京二十一世纪科技
+发展有限公司工程师、上海德汉伦茨传动技术
+有限公司工程师、北京洋海自动化技术有限公
+司市场二部经理，2010年至今任高威科技术总
+监。娄向东先生曾主持或完成了多项自动化控
+制系统的开发设计，对印刷机械行业、冶金行
+业、锻压机械行业自动化技术均具有一定的认
+知，能够较好的指导公司工程项目的进行。
+公司技术部经理华会堂先生，高级工程师
+，国家二级建造师，毕业于山东建筑材料工业
+学院，获学士学位。华先生曾先后担任北京第
+三制药厂设备科电气设备主管、北京东昱自动
+化有限公司工程部项目主管等，2001年加入高
+威科。华先生主持或独立完成多项生产自动化
+事技术指导工作具有较好的促进作用。
+总体看，公司核心技术人员相关行业背景
+深厚，技术实力较高，能够满足公司研发及技
+术服务的需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>高威科较为重视研发活动的顺利进行，每
+年均投入一定的研发费用，并且设有完善的产
+品测验、调试部门。此外，公司设立了技术委
+员会，由技术总监直接管理，其主要职能为制
+定公司产品的技术研究规划和相关新产品战略
+规划，负责公司系统集成和成套产品应用技术
+方面的研发、技术专利申请、ERP 
+系统的开发与升级以及相关技术的文档建设。
+较为完善的研发机构设置，为公司技术创新和
+研发项目的有序开展起到较好的支撑作用。
+经过多年积累，公司专有技术已达30余项
+，涉及纺织、机械、冶金、新能源、印刷等行
+业，并通过其掌握的多种成熟控制技术为客户
+提供系统集成服务，受到业界较好认可。公司
+具有代表性系统项目包括隧道监控系统、激光
+加工机控制系统、印刷机控制系统、全自动烫
+金机控制系统、能源管理系统、工业机器人自
+动控制系统、防错控制系统、质量追溯系统、
+品质管理系统、Andon系统、水处理系统等。截
+至报告期日，公司已取得53项计算机软件著作
+权，2项实用新型专利证书（详见附表三）。
+公司研发的制造执行系统（Manufacturing 
+Execution 
+System）（以下简称“MES”）是一套面向制造
+企业车间执行层的生产信息化管理系统。MES可
+以为企业提供包括制造数据管理、计划排程管
+力资源管理、工作中心/设备管理、工具工装管
+理、采购管理、成本管理、项目看板管理、生
+产过程控制、底层数据集成分析、上层数据集
+成分解等管理模块，为企业打造一个扎实、可
+靠、全面、可行的制造协同管理平台。该系统
+主要应用于能源汽车领域，并将成为公司2016
+年主要推广的产品和新的收入增长点。
+总体看，高威科技术成果涉及行业较为广
+泛，应用性较强，研发成果市场转化效果较好
+。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京高威科电气技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>高威科是集系统集成、OEM配套、自动化控
+制工程承包于一体的工业自动化解决方案提供
+商，公司目前将业务划分为物流型分销、技术
+型分销和系统集成三大部分，其中物流型分销
+是根据客户需求提供所需产品的代理销售、物
+流配送，并为客户提供产品使用及维修服务，
+经过多年的发展，公司已成为三菱、施耐德、
+西门子、山洋、欧姆龙、ABB等国内外知名企业
+的代理商；技术型分销是在提供商品销售的同
+时，为用户提供包括控制系统方案设计、产品
+选型、技术培训、软件编程、控制算法优化、
+现场调试等综合的技术服务；系统集成是根据
+用户控制需求为其提供完整的自动化控制系统
+。2015年，公司实现主营业务收入31623.09万
+元，其中物流型分销工业自动化产品占总收入
+的比重约30%；技术型分销是基于物流分销提供
+给客户的增值服务，占总收入的比重约40%；20
+%左右的收入则来自为客户提供的工业自动化控
+制系统集成定制服务。
+公司一般采购产品为变频器、软启动器、
+电动执行器、传感器元器件等工业自动化过程
+中所需的控制类及配电类设备，公司主要采购
+三菱电机自动化（上海）有限公司和SMC(中国
+）有限公司的产品，其余施耐德电气（中国）
+有限公司、西门子（中国）有限公司、山洋电
+气（上海）贸易有限公司、ABB等厂商的产品从
+子公司采购。付款方面，与子公司间一般付款
+比较灵活；与代理商间的付款，公司在代理商
+处拥有一定信用额度，在信用额度内有一定账
+期，一定程度上缓解了公司的资金周转压力。
+销售方面，高威科主要通过直销的方式进
+行产品销售，客户多为OEM客户和终端型客户，
+业务涉及电力、冶金、印刷、纺织、包装、注
+塑、机床、新能源、交通、市政、节能环保等
+领域。公司曾承接项目包括奥林匹克体育中心
+（鸟巢）地下交通监控、武汉工厂能源管理系
+统一期项目中多个PLC控制站点工程、奇瑞六自
+由度焊接机器人解决方案、京东方北京8.5代线
+项目等，具有丰富的项目实施经验。
+2014年，公司将业务领域拓展至汽车节能
+领域，并成立MES项目部。2015年，公司在该行
+业形成收入1000余万元，同时订单呈现出上升
+趋势，该领域业务或将成为公司新的收入增长
+点，公司计划2016年在该领域实现5000余万元
+收入。
+回款方面，对于OEM系统集成用户，一般按
+照销售合同进行收款，但由于工程进度受多种
+因素的影响，回款存在滞后的现象，但坏账可
+能性小；对于代理客户，回款一般较为及时。
+为扩大销售网络及市场影响，高威科先后
+在北京、上海、广州、成都、昆明、佛山、西
+设立的上海子公司主要是为开拓船舶行业的工
+业自动化领域。其中，南京、山东等地子公司
+为2014年设立，子公司均从事工业自动化相关
+产品的代理销售及系统集成业务，但与母公司
+代理的产品品牌不同，各子公司均有不同的代
+理品牌，各子公司与母公司在产品销售、项目
+承接、技术服务等方面形成地域、业务互补，
+为集团业务规模的扩大提供条件。公司设立了
+南昌（东南区）区域办事处，在郑州、贵阳、
+重庆、长沙、山西、福州、攀枝花等地设立了7
+个市级办事处。目前，华北、华东、西南和华
+南是高威科最大的四个销售区域。
+公司2013年实现股权增资，由孙进、徐琪
+等6位自然人持有的上海大华总线电气技术有限
+公司100%的股权作为高威科的新增资本，股本1
+000万元。上海大华总线电气技术有限公司在国
+内工业自动化领域经营多年，具有较好的业务
+经验及市场积累。因此，该增资行为，使高威
+科在资产规模、技术、产品、市场资源方面均
+获得助益，其整体抗风险能力得到有效增强。
+从近三年的经营状况来看，高威科经过多
+年发展，在工业自动化领域积累了一定的市场
+资源，但随着市场竞争的激烈，公司2013年下
+游一家客户因采购量减少，导致该年度主营业
+务收入较2012年明显下降，2014年经营情况有
+所好转，但2015年又受行业整体发展萎靡影响
+，收入出现下滑。但得益于公司所有者权益保
+持了稳定增长，公司具有一定的抗风险能力，
+且目前高威科新市场领域开拓情况良好，公司
+未来仍具有较好的发展趋势。
+图一： 2013-
+入、利润总额趋势图（万元）
+总体看，高威科经营模式逐渐成熟，项目
+实施经验不断丰富，公司未来发展趋好。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>高威科2010年完成股份制改造后，其法人
+治理结构日趋完善，管理机制日趋健全。目前
+，公司设有股东大会、监事会、董事会，并设
+董事长、董秘、总经理岗位，负责公司重大事
+项的管理、决策。公司下设商务部、物流部、I
+T部、工程部、技术服务部、审计部、财务部、
+行政部、人力资源部、产品事业部、MES项目部
+等具体职能部门，并设运营总监、技术总监、
+财务总监、副总经理、常务副总经理等岗位负
+责各职能部门的工作。公司制定有完善的职能
+管理制度，并得到有效执行。公司组织结构清
+晰，管理模式、规章制度和业务流程与其经营
+发展相适应，能够满足其经营管理的需要。
+从管理效果看，2013-
+2015年，高威科的成本率分别为95.04%、97.01
+%和99.70%，呈逐年增长趋势，其中近两年由于
+公司系统集成业务规模的扩大而出现明显增长
+，较高的成本率制约了公司利润水平的提高；
+同期管理费用率分别为6.79%、6.09%和7.69%，
+指标值较为平稳且处于合理水平，公司管理费
+从运营指标看，近三年，高威科应收账款
+周转率分别为5.09次、5.79次和3.97次，账款
+回收效率有所降低；同期，存货周转率分别为3
+.38次、3.79次和3.63次，公司的物流型分销业
+务需要其保有一定的存货量，其存货控制能力
+尚可；同期总资产周转率分别为0.86次、0.93
+次和0.80次，公司整体资产运营效率尚可。
+总体看，高威科组织结构较为健全，管理
+制度较为完善，公司成本控制能力一般，资产
+运营效率尚可。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司逐步建立由子公司构成的覆盖全国、
+布局合理的分销网络；在区域重点城市中建设
+服务流程标准化的技术中心，构成辐射全国的
+技术服务网络；以区域重点城市中的物流中心
+为枢纽，统一物流配送流程，建立起能够覆盖
+全国销售网点的高效、便捷、经济的物流网络
+；基于以客户需求为中心的ERP服务管理平台和
+优秀的管理团队，形成客户需求为中心的管理
+体系；根据工业自动化行业产业链特点，实行
+产品事业部制与子公司区域销售双重交叉业务
+组织的管理模式，针对各产品事业部培养专业
+队伍，便于各行业、各产品开拓市场，专业化
+、精细化的管理。
+在研发方面，公司将建立起机构独立、人
+才齐备、软硬件条件良好的研发中心，积极引
+进各类研发人员，从而大幅提升自主创新能力
+和技术水平，确立国内同行业中的技术优势地
+位，同时加强对运动控制、机器人、MES相关的
+自动化、智能化、信息化系统集成技术和ERP系
+统的研发和升级改造。
+板挂牌上市，其招股说明书已于2015年6月底公
+开发布。此举将有利于其扩大行业内的影响力
+，并拓宽公司融资渠道，促进企业迅速发展。
+公司预计2016年实现主营业务收入4.14亿
+元，净利润1800万元。从公司过往的收入状况
+及目前的业务执行情况来看，公司实现该经营
+计划的可能性较大。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京高威科电气技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，高威科资产总额分别为39687.53万元
+、40216.41万元和38795.52万元，由流动资产
+、长期投资、固定资产、无形资产及其他资产
+构成。其中，流动资产占当年总资产的比例分
+别为65.08%、64.30%和63.27%；长期投资占总
+资产的比例分别为33.91%、34.46%和35.72%，
+为对子公司的股权投资；固定资产占总资产的
+比例分别为0.25%、0.20%和0.12%，为公司拥有
+的电子设备、运输设备等；无形资产及其他资
+产占总资产的比例分别为0.75%、1.04%和0.88%
+，主要为长期待摊费用和递延所得税资产。公
+司各资产占比与当前经营情况相符。
+截至2015年底，公司流动资产为24545.15
+万元，主要由货币资金、应收票据、应收账款
+、其他应收款和存货构成。其中，货币资金占
+流动资产的9.96%；应收票据占流动资产的11.0
+5%；应收账款占流动资产的35.09%，主要为公
+司系统集成项目因工程进度原因尚未收回的账
+款和与子公司间的销售货款，账龄大多在1年以
+内，主要债务人有上海高威科电气技术有限公
+司、广州高威科电气技术有限公司、佛山市高
+威中正电气技术有限公司、首钢京唐钢铁联合
+有限责任公司、经纬纺织机械股份有限公司等
+，从过往的履约情况来看，坏账可能性较小；
+其他应收款占比为15.76%，为公司与子公司之
+间的往来款；存货占比为27.11%，为公司代理
+产品或集成设备，该存货保有量与其主营业务
+性质相吻合，考虑到公司存货可应用范围较广
+，该部分资产质量尚可。
+总体看，高威科资产质量及流动性尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，高威科的流动比率分别为1.71倍、1.7
+0倍和1.91倍；同期速动比率分别为1.16倍、1.
+14倍和1.39倍，公司短期偿债能力较好。
+近三年，高威科息税折旧摊销前盈余EBITD
+A分别为2399.19万元、2652.33万元和1506.08
+万元，公司经营获取盈余的能力有所降低，不
+利于其偿债能力的提升。
+公司2016年计划实现主营业务收入4.14亿
+元，净利润1800万元。若该经营计划得以实现
+，以2015年底的财务数据测算，其2016年将形
+成的EBITDA对其现有有息债务的保障程度较低
+，但从公司过往的还款情况及其近年来的经营
+性现金流来看，其还款能力较高，且具有较好
+的还款意愿。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，高威科负债总额分别为15140.77万元
+、15175.20万元和12874.53万元，均为流动负
+债，主要由短期借款、应付账款、预收账款、
+应付工资和其他应付款构成。
+截至2015年底，公司短期借款7204.75万元
+，占流动负债的55.96%，具体情况如表二所示
+；应付账款占流动负债的17.69%，主要债权人
+为上海畅联国际物流股份有限公司、三菱电机
+自动化（中国）有限公司、SMC(中国）有限公
+司、SMC(中国)有限公司上海分公司等；预收账
+款占流动负债的11.03%；其他应付款占比为13.
+40%，主要为与子公司北京高威洋海电气技术有
+限公司的往来款。
+表二：公司2015年底银行贷款明细（单位：元）
+贷款银行名称 贷款金额 贷款日期 还款日期
+北京银行双榆 20,000,0
+2015-8-13 2016-8-12
+树支行 00.00
+华夏银行北京 4,130,00
+2016-2-25 2017-2-25
+中关村支行 0.00
+华夏银行北京 10,000,0 2016-5-6 2017-5-6
+中关村支行 00.00
+华夏银行北京 5,870,00
+2016-5-18 2017-5-18
+中关村支行 0.00
+浦发北京永定 4,560,64
+2016-3-31 2017-3-30
+路支行 4.28
+浦发北京永定 10,439,3
+2016-4-8 2017-4-7
+路支行 55.72
+招行阜外大街 7,450,00 2015-12-
+2016-12-9
+支行 0.00 10
+招行阜外大街 2,174,52
+2016-1-18 2017-1-18
+支行 8.62
+招行阜外大街 7,721,76
+2016-2-22 2017-2-21
+支行 5.21
+招行阜外大街 2,653,70
+2016-3-9 2017-3-9
+支行 6.17
+从财务构成来看，近三年公司资产负债率
+分别为38.15%、37.73%和33.19%，负债水平趋
+于稳健，且处于合理范围之内；同期资本化比
+率分别为29.76%、23.46%和21.75%，公司财务
+弹性较好。 
+总体看，高威科整体负债压力尚可，财务
+弹性较好，具有一定外部债务融资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，公司实现主营业务收入分别为30979.6
+8万元、37236.08万元和31623.09万元；同期主
+营业务利润率分别为16.25%、14.54%和12.43%
+，公司受下游客户的影响，收入水平及利润水
+平均有所下降，公司主营业务获利能力有所下
+降，目前获利水平一般。
+近三年，公司净资产收益率分别为5.67%、
+6.47%和3.39%；同期总资产报酬率分别为5.86%
+、6.34%和3.60%，公司利用资产获取收益的能
+力处于波动下降趋势，整体利用资产获利的能
+力一般。
+ 图二：2013-2015年公司盈利能力状况（万元，%）
+2013-
+2015年，高威科经营活动现金流入流出比分别
+为0.95倍、1.04倍和1.05倍；同期现金收入比
+分别为1.04倍、0.97倍和0.91倍，公司经营活
+动产生净现金流量的能力和收入实现质量较好
+。
+总体看，高威科整体盈利能力一般，收入
+实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京高威科电气技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司目前业务规模较小，产品较为单
+一，抗风险能力较弱。
+2.公司应收账款周转次数较慢，整体经
+营效率较低。
+3.公司经营活动获取现金的能力偏弱，
+整体现金流状况不稳定。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京高威科电气技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>39687.54 </enterprise:资产总额>
+    <enterprise:所有者权益>24546.76 </enterprise:所有者权益>
+    <enterprise:负债总额>15140.76 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>30979.68 </enterprise:营业收入>
+    <enterprise:EBITDA>2399.19 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京高威科电气技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>40216.42 </enterprise:资产总额>
+    <enterprise:所有者权益>25041.22 </enterprise:所有者权益>
+    <enterprise:负债总额>15175.19 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>37236.08 </enterprise:营业收入>
+    <enterprise:EBITDA>2652.33 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京高威科电气技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>38795.53 </enterprise:资产总额>
+    <enterprise:所有者权益>25920.98 </enterprise:所有者权益>
+    <enterprise:负债总额>12874.54 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>31623.09 </enterprise:营业收入>
+    <enterprise:EBITDA>1506.08 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京高威科电气技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.86 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.09 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.38 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京高威科电气技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.93 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.79 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.79 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京高威科电气技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.80 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.97 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.63 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京高威科电气技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>6.66 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.86 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>5.67 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京高威科电气技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>7.80 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>6.34 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>6.47 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京高威科电气技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>4.21 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.60 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>3.39 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京高威科电气技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>170.60 </enterprise:流动比率>
+    <enterprise:速动比率>116.40 </enterprise:速动比率>
+    <enterprise:资产负债率>38.15 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京高威科电气技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>170.39 </enterprise:流动比率>
+    <enterprise:速动比率>114.23 </enterprise:速动比率>
+    <enterprise:资产负债率>37.73 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京高威科电气技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>190.65 </enterprise:流动比率>
+    <enterprise:速动比率>138.96 </enterprise:速动比率>
+    <enterprise:资产负债率>33.19 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京高威科电气技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>16.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.04 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-11.84 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>29.76 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-26.92 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-79.21 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京高威科电气技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>14.84 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.97 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>9.72 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>23.46 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>20.20 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>8.83 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京高威科电气技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>12.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.91 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>11.88 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>21.75 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-15.07 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-49.33 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京高威科电气技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>4936.52 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>3242.59 </enterprise:应收票据>
+    <enterprise:应收账款>5552.85 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>679.39 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>3211.83 </enterprise:其他应收款>
+    <enterprise:存货>8206.38 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>25829.56 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>13459.69 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>99.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.88 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>211.11 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>86.37 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>13857.98 </enterprise:非流动资产合计>
+    <enterprise:资产总计>39687.54 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京高威科电气技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2736.28 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>3224.41 </enterprise:应收票据>
+    <enterprise:应收账款>7310.98 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>299.39 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>3762.97 </enterprise:其他应收款>
+    <enterprise:存货>8523.72 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>25857.75 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>13859.69 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>78.73 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.04 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>267.42 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>152.79 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14358.67 </enterprise:非流动资产合计>
+    <enterprise:资产总计>40216.42 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京高威科电气技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2444.21 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>2712.91 </enterprise:应收票据>
+    <enterprise:应收账款>8612.65 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>251.38 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>3869.43 </enterprise:其他应收款>
+    <enterprise:存货>6654.58 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>24545.16 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>13859.69 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>47.90 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>197.89 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>144.89 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14250.37 </enterprise:非流动资产合计>
+    <enterprise:资产总计>38795.53 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京高威科电气技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>7676.80 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3535.97 </enterprise:应付账款>
+    <enterprise:预收款项>1420.11 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>320.48 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>163.98 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>1075.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>982.85 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>15175.19 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>15175.19 </enterprise:负债合计>
+    <enterprise:实收资本或股本>9000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>6049.26 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1455.70 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>8536.26 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>25041.22 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>25041.22 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>40216.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京高威科电气技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>7676.80 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3535.97 </enterprise:应付账款>
+    <enterprise:预收款项>1420.11 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>320.48 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>163.98 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>1075.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>982.85 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>15175.19 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>15175.19 </enterprise:负债合计>
+    <enterprise:实收资本或股本>9000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>6049.26 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1455.70 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>8536.26 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>25041.22 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>25041.22 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>40216.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京高威科电气技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>7204.75 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2278.12 </enterprise:应付账款>
+    <enterprise:预收款项>1420.39 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>243.95 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1.72 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1725.61 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>12874.54 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>12874.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>9000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>6049.26 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1543.67 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9328.05 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>25920.98 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>25920.98 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>38795.52 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京高威科电气技术股份有限公司2013年利润表">
+    <enterprise:营业收入>30979.68 </enterprise:营业收入>
+    <enterprise:主营业务收入>30979.68 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>25864.43 </enterprise:营业成本>
+    <enterprise:主营业务成本>25864.43 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>81.91 </enterprise:营业税金及附加>
+    <enterprise:销售费用>709.38 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1982.76 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>664.92 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>139.25 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1815.53 </enterprise:营业利润>
+    <enterprise:营业外收入>113.55 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.43 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1928.65 </enterprise:利润总额>
+    <enterprise:所得税费用>258.68 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1391.48 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1391.48 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京高威科电气技术股份有限公司2014年利润表">
+    <enterprise:营业收入>37236.08 </enterprise:营业收入>
+    <enterprise:主营业务收入>37236.08 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>31711.27 </enterprise:营业成本>
+    <enterprise:主营业务成本>31711.27 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>111.30 </enterprise:营业税金及附加>
+    <enterprise:销售费用>916.88 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2165.03 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>758.09 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>458.78 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>663.89 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2696.18 </enterprise:营业利润>
+    <enterprise:营业外收入>17.59 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.33 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2713.44 </enterprise:利润总额>
+    <enterprise:所得税费用>176.43 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1619.45 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1619.45 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京高威科电气技术股份有限公司2015年利润表">
+    <enterprise:营业收入>31623.09 </enterprise:营业收入>
+    <enterprise:主营业务收入>31623.09 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>27559.33 </enterprise:营业成本>
+    <enterprise:主营业务成本>27559.33 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>132.06 </enterprise:营业税金及附加>
+    <enterprise:销售费用>983.89 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2420.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>493.27 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-61.81 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>747.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>719.32 </enterprise:营业利润>
+    <enterprise:营业外收入>69.13 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>2.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>786.44 </enterprise:利润总额>
+    <enterprise:所得税费用>30.29 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>879.76 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>879.76 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京高威科电气技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>32354.99 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2329.16 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>34684.15 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>29320.01  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1536.79 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1261.90 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4358.06 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>36476.76 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1792.61 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>224.66 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>400.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>624.66 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-624.66 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>9714.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>9714.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>8214.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>569.77 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>65.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>8848.77 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>865.23 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1552.04 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京高威科电气技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>35997.46 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4429.13 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>40426.59 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>30703.19  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1811.73 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1178.37 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5258.25 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>38951.54 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1475.05 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>307.17 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>307.17 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>140.61 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>400.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>540.61 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-233.44 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>7994.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>7994.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>10717.20 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>718.94 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>11436.14 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-3442.14 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.29 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-2200.24 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京高威科电气技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>28674.11 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3671.06 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>32345.17 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>23417.38  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2030.42 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1435.87 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3931.64 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>30815.31 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1529.86 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>341.30 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>341.30 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>26.21 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>26.21 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>315.09 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>7506.06 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>7506.06 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>7978.11 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1534.97 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>130.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>9643.08 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-2137.02 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-292.07 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：刘新平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘新平 </enterprise:股东名称>
+	 <enterprise:货币>2,064.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>25.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：曾宏伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>曾宏伟 </enterprise:股东名称>
+	 <enterprise:货币>443.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.54%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：陈静 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈静 </enterprise:股东名称>
+	 <enterprise:货币>390.72万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：李振杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李振杰 </enterprise:股东名称>
+	 <enterprise:货币>224.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：田劲松 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>田劲松 </enterprise:股东名称>
+	 <enterprise:货币>160.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：张俨萍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张俨萍 </enterprise:股东名称>
+	 <enterprise:货币>141.68万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.77%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：娄向东 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>娄向东 </enterprise:股东名称>
+	 <enterprise:货币>112.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.40%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：王胜利 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王胜利 </enterprise:股东名称>
+	 <enterprise:货币>111.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.39%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：高军志 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>高军志 </enterprise:股东名称>
+	 <enterprise:货币>95.76万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：胡斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>胡斌 </enterprise:股东名称>
+	 <enterprise:货币>86.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：刘卫东 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘卫东 </enterprise:股东名称>
+	 <enterprise:货币>56.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.70%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：陈杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈杰 </enterprise:股东名称>
+	 <enterprise:货币>56.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.70%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：陈洪华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈洪华 </enterprise:股东名称>
+	 <enterprise:货币>50.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.63%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：王勤 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王勤 </enterprise:股东名称>
+	 <enterprise:货币>39.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.49%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：黄谊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄谊 </enterprise:股东名称>
+	 <enterprise:货币>38.64万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.48%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：刘金涛 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘金涛 </enterprise:股东名称>
+	 <enterprise:货币>31.28万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.39%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：林楷 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>林楷 </enterprise:股东名称>
+	 <enterprise:货币>24.08万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：向军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>向军 </enterprise:股东名称>
+	 <enterprise:货币>15.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：黄骏 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄骏 </enterprise:股东名称>
+	 <enterprise:货币>10.32万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.13%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京高威科电气技术股份有限公司股东：杨涛 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨涛 </enterprise:股东名称>
+	 <enterprise:货币>3.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.04%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GAUTOWELL">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>GAUTOWELL</enterprise:有商标名称>
+	<enterprise:有注册号>9455214</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：高威科">
+	<enterprise:有申请日期>11-5-12</enterprise:有申请日期>
+	<enterprise:有商标名称>高威科</enterprise:有商标名称>
+	<enterprise:有注册号>9455215</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>10-6-4</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>8363781</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GO-WELL">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>GO-WELL</enterprise:有商标名称>
+	<enterprise:有注册号>8359430</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GO-WELL">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>GO-WELL</enterprise:有商标名称>
+	<enterprise:有注册号>8359363</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GO-WELL">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>GO-WELL</enterprise:有商标名称>
+	<enterprise:有注册号>8359320</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>8359381</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GO-WELL">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>GO-WELL</enterprise:有商标名称>
+	<enterprise:有注册号>8359453</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：GO-WELL">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>GO-WELL</enterprise:有商标名称>
+	<enterprise:有注册号>8359259</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>8359275</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>出具商标注册证明完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京高威科电气技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>10-6-3</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>8359308</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京高威科电气技术股份有限公司的专利信息：多路PWM控制器和喷水控制器">
+	<enterprise:有申请公布日>14-5-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>多路PWM控制器和喷水控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320855101.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203616639U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京高威科电气技术股份有限公司的专利信息：有源中继分配器">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>有源中继分配器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120403125.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202261355U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：直捻机收边控制系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>直捻机收边控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR366369</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：喷墨印刷同步控制系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>喷墨印刷同步控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR366388</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：模切机张力控制系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>模切机张力控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR366382</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：食品厂冗余控制系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>食品厂冗余控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR366376</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：二维码质量追溯监控系统">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>二维码质量追溯监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR263001</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：卷盘带张力控制系统">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>卷盘带张力控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR262520</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：电池贴膜控制系统">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>电池贴膜控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR262530</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：打胶机控制系统">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>打胶机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR262525</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：MES-产品追溯系统">
+	<enterprise:有批准日期>15-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>MES-产品追溯系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR033018</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：手机面板加工控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>手机面板加工控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR216574</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：发泡机控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>发泡机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215745</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：旋压机控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>旋压机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR216568</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：MES-SPS系统">
+	<enterprise:有批准日期>15-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>MES-SPS系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR032991</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：模切机同步控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>模切机同步控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215668</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：灯管生产线控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>灯管生产线控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215978</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：多路PWM喷水控制系统">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>多路PWM喷水控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215740</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：液晶玻璃自动生产线控制系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>液晶玻璃自动生产线控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145875</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：立式磨边机运动控制系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>立式磨边机运动控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145575</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：MES-Andon系统">
+	<enterprise:有批准日期>15-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>MES-Andon系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR033014</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：倍捻机收边控制系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>倍捻机收边控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145541</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：微振检测平台升降控制系统软件">
+	<enterprise:有批准日期>13-2-19</enterprise:有批准日期>
+	<enterprise:有软件全称>微振检测平台升降控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR014484</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：塔机套印控制系统">
+	<enterprise:有批准日期>13-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>塔机套印控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR145543</enterprise:有登记号>
+	<enterprise:有分类号>30208-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：加热炉均热控制系统软件">
+	<enterprise:有批准日期>13-2-19</enterprise:有批准日期>
+	<enterprise:有软件全称>加热炉均热控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR014376</enterprise:有登记号>
+	<enterprise:有分类号>30208-3400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：收放卷控制系统软件">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>收放卷控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024000</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：食品包装排距控制系统软件">
+	<enterprise:有批准日期>12-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>食品包装排距控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR023966</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：多线切割控制系统软件">
+	<enterprise:有批准日期>12-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>多线切割控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR023964</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：码头物料输送控制系统软件">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>码头物料输送控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024002</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：钢板剪切控制系统软件">
+	<enterprise:有批准日期>12-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>钢板剪切控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024005</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：喷墨印刷控制系统软件">
+	<enterprise:有批准日期>12-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>喷墨印刷控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR023963</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：软袋包装控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>软袋包装控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025857</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：软袋包装控制系统">
+	<enterprise:有批准日期>10-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>软袋包装控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069858</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：灌装打卡控制系统软件">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>灌装打卡控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068219</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：灌装打卡控制系统软件">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>灌装打卡控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025875</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：水泥搅拌站控制系统软件">
+	<enterprise:有批准日期>10-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>水泥搅拌站控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069728</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：5轴机械手控制系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>5轴机械手控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066705</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：5轴机械手控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>5轴机械手控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025859</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：25型数控弯箍机控制系统">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>25型数控弯箍机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068951</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：瓦楞纸全无轴印刷机控制系统">
+	<enterprise:有批准日期>10-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>瓦楞纸全无轴印刷机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069810</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：瓦楞纸全无轴印刷机控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>瓦楞纸全无轴印刷机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025852</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：800x2600瓦楞纸高速前沿送纸控制系统">
+	<enterprise:有批准日期>10-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>800x2600瓦楞纸高速前沿送纸控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069927</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：六轴点焊机器人控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>六轴点焊机器人控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025844</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：六轴点焊机器人控制系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>六轴点焊机器人控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066697</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：能源管理系统软件">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>能源管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066703</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：生产线节能控制系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>生产线节能控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066701</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：智能隧道交通监控系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>智能隧道交通监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066691</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：能源管理系统软件">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>能源管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025863</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：高速悬锭粗纱系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>高速悬锭粗纱系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066696</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：混凝土生产线控制系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>混凝土生产线控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066707</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：生产线节能控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>生产线节能控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025867</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：高速悬锭粗纱系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>高速悬锭粗纱系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025861</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：800x2400瓦楞纸高速前沿送纸控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>800x2400瓦楞纸高速前沿送纸控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025873</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：800x2400瓦楞纸高速前沿送纸控制系统">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>800x2400瓦楞纸高速前沿送纸控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068947</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：注塑机3轴抓取机械手控制系统">
+	<enterprise:有批准日期>10-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>注塑机3轴抓取机械手控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR066699</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：注塑机3轴抓取机械手控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>注塑机3轴抓取机械手控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025865</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：全自动模切机控制系统软件">
+	<enterprise:有批准日期>09-6-11</enterprise:有批准日期>
+	<enterprise:有软件全称>全自动模切机控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022332</enterprise:有登记号>
+	<enterprise:有分类号>66000-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：全自动涂膜机控制系统软件">
+	<enterprise:有批准日期>09-6-11</enterprise:有批准日期>
+	<enterprise:有软件全称>全自动涂膜机控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR022339</enterprise:有登记号>
+	<enterprise:有分类号>66000-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：烫印控制系统软件">
+	<enterprise:有批准日期>09-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>烫印控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR019354</enterprise:有登记号>
+	<enterprise:有分类号>66000-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：H型钢堆垛打捆系统应用软件">
+	<enterprise:有批准日期>09-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>H型钢堆垛打捆系统应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR019357</enterprise:有登记号>
+	<enterprise:有分类号>69900-3400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：易控混凝土搅拌生产和管理系统">
+	<enterprise:有批准日期>09-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>易控混凝土搅拌生产和管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>易控混凝土搅拌系统</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR019356</enterprise:有登记号>
+	<enterprise:有分类号>65000-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：易控隧道监控系统">
+	<enterprise:有批准日期>09-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>易控隧道监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR019353</enterprise:有登记号>
+	<enterprise:有分类号>66000-5300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：16B数控弯箍机控制系统">
+	<enterprise:有批准日期>10-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>16B数控弯箍机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069856</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：数控钢筋飞剪6/16控制系统">
+	<enterprise:有批准日期>10-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>数控钢筋飞剪6/16控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR069730</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：数控钢筋飞剪6/16控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>数控钢筋飞剪6/16控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025853</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：机械手控制系统软件">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>机械手控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025869</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：机械手控制系统软件">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>机械手控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068217</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：12型数控弯箍机控制系统">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>12型数控弯箍机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068450</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：GWC2800数控焊网机控制系统">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>GWC2800数控焊网机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068215</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：GWC2800数控焊网机控制系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>GWC2800数控焊网机控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025872</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：卫生巾生产线项目电气控制系统软件">
+	<enterprise:有批准日期>10-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>卫生巾生产线项目电气控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068949</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：5轴全自动剥皮机控制系统软件">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>5轴全自动剥皮机控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068449</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：护垫生产线项目电气控制系统软件">
+	<enterprise:有批准日期>10-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>护垫生产线项目电气控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR068272</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：不锈钢1580车间液压辅助系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>不锈钢1580车间液压辅助系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025855</enterprise:有登记号>
+	<enterprise:有分类号>30208-2300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京高威科电气技术股份有限公司的软件著作：不锈钢1580车间液压辅助系统">
+	<enterprise:有批准日期>10-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>不锈钢1580车间液压辅助系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR067989</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京高威科电气技术股份有限公司的网站备案：北京高威科电气技术股份有限公司">
+	<enterprise:有审核时间>14-5-28</enterprise:有审核时间>
+	<enterprise:有网站全称>北京高威科电气技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.go-well.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>go-well.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042707号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京高威科电气技术股份有限公司的网站备案：北京高威科电气技术股份有限公司">
+	<enterprise:有审核时间>14-5-28</enterprise:有审核时间>
+	<enterprise:有网站全称>北京高威科电气技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.go-well.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>go-well.net.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042707号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京高威科电气技术股份有限公司的网站备案：北京高威科电气技术股份有限公司">
+	<enterprise:有审核时间>14-5-28</enterprise:有审核时间>
+	<enterprise:有网站全称>北京高威科电气技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.go-well.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>高威科.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042707号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京高威科电气技术股份有限公司的网站备案：北京高威科电气技术股份有限公司">
+	<enterprise:有审核时间>14-5-28</enterprise:有审核时间>
+	<enterprise:有网站全称>北京高威科电气技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.go-well.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>高威科.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12042707号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京高威科电气技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京高威科电气技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京高威科电气技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京高威科电气技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京高威科电气技术股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京高威科电气技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京高威科电气技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京高威科电气技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京高威科电气技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>155216.19元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>26603.9元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京高威科电气技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京高威科电气技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>B级</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京高威科电气技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>19</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>7</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京高威科电气技术股份有限公司的专利数量">
+	<enterprise:专利总计>1</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>1</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京高威科电气技术股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京高威科电气技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>4</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>4</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

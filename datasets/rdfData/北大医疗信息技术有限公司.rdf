@@ -1,0 +1,2468 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+
+  <enterprise:企业概况 rdf:ID="北大医疗信息技术有限公司的企业概况">
+    <enterprise:有名称>北大医疗信息技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>AZC-</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108053552538E</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020009588930</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行中关村海淀园支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>707</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2015.11.23</enterprise:有注册登记日期>
+    <enterprise:有注册资本>10,000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2031.12.18</enterprise:有营业执照到期日>
+    <enterprise:有股本>10,000.00</enterprise:有股本>
+    <enterprise:有经营范围>计算机软件、硬件及外部设备、机电一体化产品的技术开发、技术咨询、技术转让、技术服务；计算机系统集成；管理咨询；数据处理（数据处理中的银行卡中心；PUE值在1.5以上的云计算数据中心除外）；销售本公司研发的产品并提供售后服务、医疗器械Ⅱ类；软件开发。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）计算机软件、硬件及外部设备、机电一体化产品的技术开发、技术咨询、技术转让、技术服务；计算机系统集成；管理咨询；数据处理（数据处理中的银行卡中心；PUE值在1.5以上的云计算数据中心除外）；销售本公司研发的产品并提供售后服务、医疗器械Ⅱ类；软件开发。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>医疗信息系统定制软件的开发、软硬件产品的销售和维护服务，提供医疗信息化解决方案</enterprise:有主营业务>
+    <enterprise:有行业分类>医疗信息化行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区北四环西路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区北四环西路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100191</enterprise:有邮政编码>
+    <enterprise:有联系人>李荣静</enterprise:有联系人>
+    <enterprise:有联系电话>13911232372</enterprise:有联系电话>
+    <enterprise:有传真电话>62308788</enterprise:有传真电话>
+    <enterprise:有E-mail>Lirongjing@hhssenergy.com</enterprise:有E-mail>
+    <enterprise:有网址>www.hhssenergy.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>公司成立于 2014年 3月 25日，注册资本
+为 10,000.00万元，前身为 1994年成立的北京
+众邦智慧计算机系统有限公司（以下简称为
+“众邦智慧”），2006 年 4月，新股东北大方
+正集团有限公司（以下简称“方正集团”）在
+众邦智慧基础上注资并成立北京方正众邦数字
+医疗系统有限公司（以下简称为“北京众邦”
+），2014年 3月，北大医信正式成立，承接新
+业务，原有业务仍由方正众邦承接。截至
+2015年 12月 31日，公司股东分别为北大方正
+信息产业集团有限公司和北京博雅永信投资中
+心（有限合伙），出资额分别为 7,000.00万元
+和 3,000.00万元，持股比例分别为 70.00%和
+30.00%。
+公司主要从事医疗信息系统定制软件的开
+发、软硬件产品的销售和维护服务。目前，公
+司拥有广州健讯科技有限公司（以下简称“广
+州健讯”）和安徽方正医疗信息技术有限公司
+两家全资子公司，并在长春、沈阳、天津、太
+原、深圳和烟台设立了 6家分公司。公司法定
+代表人为刘健。
+截至 2015年末，公司资产总额
+41,904.40万元，负债总额 30,582.67万元，资
+产负债率 72.98%。2015 年公司实现营业收入
+21,997.17万元，利润总额 168.27万元，经营
+性净现金流-13,166.65 万元。2016 年 1～9 月，
+公司实现营业收入 13,246.86万元，利润总额
+123.19万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+  
+<enterprise:基础素质 rdf:ID="北大医疗信息技术有限公司的基础素质">
+    <enterprise:有管理素质>公司员工整体素质较高，主要管理人员行
+业经验较丰富，为公司业务发展提供了基本保
+障
+公司目前有从业人员 707人，其中管理人
+员 34人，技术人员 567人。从学历构成上看，
+本科及以上学历 551人，占比 77.93%，员工整
+体素质较高。
+公司高层管理人员具有近 10年同业从业经
+验，行业经验丰富。其中，公司法定代表人兼
+总裁刘健拥有高级工程师资质，且曾先后在中
+国科学院大气物理所、北大方正宽带网络科技
+有限公司、北大方正集团有限公司以及北大方
+正信息产业集团有限公司任职，拥有较为丰富
+的管理经验；公司副总裁（财务负责人）赵学
+新，曾先后在海信（北京）电气有限公司、北
+京威克多男装集团和北大方正信息产业集团有
+限公司任相关财务职位，财务管理经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司研发人员研发经验较为丰富，为公司
+的产品开发及技术创新提供了有力支持
+公司现有研发人员 194人，占公司总人数
+的 27.44%，其中硕士研究生学历 26人，本科学
+历 149人，大专及其他 19人，本科及以上学历
+人员占比 90.21%；从研发人员职称构成来看，
+高级职称人员 5名，中级职称人员 1名。综合
+来看，公司研发人员整体素质较高。
+公司研发人员具有较丰富的研发经验，其
+中公司核心研发人员周志坚曾先后担任装甲兵
+工程学院科研部研究所技术总监、用友软件
+U9平台部构架师、用友医疗 HRP总经理以及用
+友集团产品线总经理兼技术总监、中国航天工
+程咨询中心软件工程研究部产品研发主管，参
+与了用友 BQ8.1项目和医信 IIH2.0等项目；医
+院信息平台产品部负责人杜旭明拥有软件测评
+师资格，曾在北京许继电气有限公司担任测试
+工程师职位，并在虹软科技有限公司、方正国
+际（北京）有限公司担任测试经理职位。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司研发机构设置合理，研发投入综合占
+比较高，并注重对外合作研发，为公司技术研
+发提供了基本保障
+公司重视自主研发，下设研发中心。公司
+研发中心主要分为两块业务，分别为新业务部
+分和原有业务部分。其中新业务部分主要为下
+一代产品-智慧一体医院信息化产品，原有业务
+主要为医院和区域医疗两个领域的业务，包括
+医院信息系统、医院信息平台和医院资源规划
+等产品。公司注重对外合作，与北京大学、中
+山大学和武汉大学等高校建立了技术合作伙伴
+关系。
+公司注重研发投入，2014～2015 年，研发
+投入分别为 2,918.00万元和 2,326.00万元，
+分别占当年营业收入的 13.16%和 10.57%，研发
+投入有所下降，但整体研发投入力度较强6。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>万元,918.00万元,326.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>%,13.16%,10.57%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+
+
+<enterprise:经营管理 rdf:ID="北大医疗信息技术有限公司的经营管理">
+    <enterprise:其经营分析为>公司自成立以来收入规模保持稳定，综合
+毛利率有所提升，定制软件开发和软硬件产品
+销售为公司主要的收入来源
+公司营业收入由定制软件开发、软硬件产
+品销售和维护服务三大类构成，其中定制软件
+开发和软硬件产品销售为公司收入的主要来源。
+2014～2015 年，公司营业收入分别为
+22,168.66万元和 21,997.17万元，收入规模有
+保持稳定。同期，公司综合毛利率分别为 30.71%和
+33.32%，有所提升。
+定制软件开发业务主要为自有软件及系统
+的开发以服务，该项业务提供包括方案设计和
+确定、搭建基础设施、开发模块以及试运行等
+服务。2014～2015 年，定制软件开发业务收入
+分别为 11,943.00万元和 9,648.00万元，在营
+业收入中占比分别为 53.88%和 43.88%，业务收
+入和占比均有所下降，主要由于公司调整经营
+策略，开始从定制开发类业务向产品销售类业
+务转移，从而实现公司业务产品化和统一化的
+目标所致。同期，定制软件开发业务毛利率分
+别为 37.00%和 41.00%，逐年有所提升。
+软硬件产品销售业务主要是软件、硬件的
+销售。2014～2015 年，公司软硬件产品销售业
+务的销售收入分别为 8,648.00万元和
+9,144.00万元，在营业收入中占比分别为
+39.01%和 41.58%，收入和占比均逐年增长。同
+期，软硬件产品销售业务毛利率分别为
+14.00%和 15.00%，有小幅提升。
+维护服务主要是对公司开发的信息系统的
+维护服务，维护期限一般为 1～3年不等。
+2014～2015 年，公司维护服务业务的销售收入
+分别为 1,575.00万元和 3,197.00万元，在营
+业收入中占比分别为 7.11%和 14.54%，收入和
+占比均有所增长，主要原因是随着公司开发信
+息系统以及软硬件销售数量的增长所需维护服
+务也随之增长。
+公司上游供应商集中度一般，对供应商的
+议价能力一般；公司与下游客户合作关系稳定，
+但对客户的议价能力较弱，回款周期较长，存
+在一定资金周转压力
+公司上游主要采购软件、硬件以及服务，
+分别用于软硬件产品销售业务以及维护服务业
+务。前五大供货商包括北京方正世纪信息系统
+有限公司、北京沃盈凯医疗科技有限公司、北
+京威发新世纪信息技术有限公司、神州数码
+（中国）有限公司和广东森拓信息技术有限公
+司，采购额合计占总采购额的 27.76%，供货商
+集中度一般。原材料均为国内采购，其中硬件
+原材料的采购周期一般为 3个月；软件和服务
+的采购周期一般为 1年。公司与供货商的结算
+方式根据采购的产品而有所区别，硬件采购方
+面，公司结算方式一般为预付 30.00%，验收后
+支付 60.00%，最后支付 5.00%～10.00%尾款；
+软件采购方面，公司结算方式一般为预付 50.00%，
+验收支付 40.00%，最后支付 10.00%尾款；服务
+采购方面，公司一般与外协公司签订协议，每
+年提供 1～2次维护服务，结算方式一般为公司
+收到相应维护费用立即与外包公司人员结算。
+公司下游客户主要为各地医院及政府机构
+等，主要通过合作和直销方式。2015 年前五大
+客户分比为方正国际软件（北京）有限公司、
+北京北医医院管理有限公司、北大医疗产业集
+团有限公司、南昌大学第一附属医院和北京大
+学人民医院，销售额合计占总销售收入的 65.64%，
+客户集中度较高；前五大客户自 2006年与公司
+达成合作关系，客户关系较稳定；公司与下游
+客户结算方式一般为预收 30.00%～50.00%，验
+收成功后收取 45.00%～60.00%，最后剩余 5.00%～
+10.00%质保金，根据服务和产品的类别的不同，
+公司一般给与下游不同的账期，定制软件开发
+服务的账期一般为 6～12 个月；针对医院的定
+制软件开发服务的平均账期为 2个月，软、硬
+件产品销售的结算周期一般为 6个月。维护服
+务一般是公司与下游企业签订合同，一年提供
+1～2次维护服务，服务费用通常在维护服务结
+束后收取。由于公司下游客户主要为各地医院，
+公司对其议价能力较弱，受项目工程体量较大
+影响，公司从签订合同到全部回款大多数需要
+一到两年时间，回款主要集中在每年的第四季
+度，存在一定的资金周转压力。
+公司自主研发能力较强，资质较为齐全，
+凭借多年经验积累和技术优势，在行业内具有
+较强的竞争力
+公司是我国首家医疗信息化公司，积累了
+前身公司众邦慧智 21年的医疗信息化技术，形
+成了较为完整的营销服务体系和客户信息网络
+服务体系，目前累积拥有用户 3,000余家医疗
+卫生机构，其中三级医院 200余家7，在技术积
+累和医院客户数量上较有优势，具有较强的竞
+争力。公司具有系统集成三级资质和区域卫生
+信息平台分级评价四级资质，并通过医疗信息
+与管理系统学会 HIMSS6级认证和 HIMSS7级认
+证。此外，2014 年 8月，公司通过了
+ISO9001:2008质量管理体系认证；2015 年 1月，
+公司获得美国卡内基梅隆大学软件工程研究所
+颁发的 CMMI® DEV v1.3成熟度等级三级证书；
+同年 4月公司被中关村科技园区管理委员会评
+委“中关村高新技术企业”， 11月公司被北京
+市科学技术委员会评为“国家高新技术企业”
+。 
+公司的竞争对手主要有东华软件和东软集
+团等。其中东华软件成立于 2001年 1月，注册
+156,989.00万元，主要从事行业应用软件开发、
+计算机信息系统集成及相关服务业务；东软集
+团成立于 1993年 6月 7日，注册资本
+124,257.67万元，主要以软件技术为核心，提
+供行业解决方案和产品工程解决方案以及相关
+软件产品、平台及服务。相比于竞争对手，公
+司在医疗信息化领域已有 21年经验，技术、研
+发等更为集中和专业，在市场开拓和方案设计
+灵活性方面有一定优势。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司组织机构设置较为合理，各项管理制
+度较为健全，为其业务发展提供了基本保障
+公司设有股东大会、董事会和监事 1名，
+董事会成员 4人，其中 3人由北大方正信息产
+业集团有限公司提名，1人由北京博雅永信投资
+中心提名。公司实行总裁负责制，总裁下设技
+术委员会，技术委员会下由副总裁和助理总裁
+分管四个部分业务，分别为研发中心、交付中
+心、营销中心和运营及创新业务，各部门职责
+明确。
+公司建立项目管理制度、技术管理制度、
+财务制度、行政管理制度、信息管理制度、品
+牌管理制度和法务管理制度等 78个制度流程，
+7 数据来源：中国数字医疗网。
+制度建设较为完备。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>空间广阔。
+4 数据来源：前瞻产业研究院《2015-2020 年
+中国医疗信息化行业市场前瞻与投资战略规
+划分析报告》，数据根据资料保留原小数位。
+5 数据来源：中国产业调研网：《中国医疗信
+息化建设行业现状分析与发展前景研究报告》
+。
+未来我国医院信息系统建设将由医院管理
+信息系统逐渐向临床医疗信息管理发展，电子
+病历系统、医学影象系统和远程医疗发展潜力
+很大。在“十三五规划”的政策指引下，政府
+提出“推进全科医生、家庭医生、急需领域医
+疗服务能力提高、电子健康档案等工作”，新
+型数据库搭建起的整合电子病历系统将成为临
+床信息系统的核心，将成为医院信息化建设的
+核心亦是落实“医疗质量过程管控”的核心途
+径和工具。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+  
+<enterprise:财务分析 rdf:ID="北大医疗信息技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>近年公司资产规模逐年增长，以流动资产
+为主，但应收账款和存货规模较大，占用一定
+的流动资金，整体资产运营效率较低
+2014～2015 年末及 2016年 9月末，公司资
+产总额分别为 35,807.19万元、41,904.40 万元
+和 42,642.65万元，随着业务规模的扩大，资
+产规模有所增长。同期，流动资产分别为
+34,626.27万元、36,750.93 万元和
+36,169.57万元，在总资产中占比分别为 96.70%、
+87.70%和 84.82%，公司资产以流动资产为主。
+截至 2015年末，公司流动资产主要由应收
+账款、货币资金和存货构成，占比分别为 47.86%、
+28.19%和 19.80%。其中，应收账款
+17,587.47万元，主要为应收下游账款，同比增
+长 3.45%，公司主要债务人分别为方正国际软件
+（北京）有限公司、山西省大同市第五人民医
+院、华北石油管理局总医院、张家港市金城投
+资发展有限公司和赤峰学院附属医院，前五大
+债务人应收账款合计占应收账款总额的
+61.91%，集中度较高，从账龄来看，1年以内的
+应收账款比重为 57.91%，1～2 年占比为
+13.34%，2～3 年占比为 8.38%，3～4 年占比为
+16.54%，4 年以上占比 3.83%，应收账款账龄较
+长，占用一定的流动资金，但债务人主要为国
+家事业单位，回款风险不大；货币资金
+10,360.50万元,同比下降 28.80%，主要用于市
+场开拓和研发支出，主要由银行存款、其他货
+币资金和库存现金构成，其中，其他货币资金
+515.72万元，全部为应付票据保证金和履约保
+证金，公司货币资金存在一定的资金受限情况；
+存货 7,276.67万元，主要为库存商品、发出商
+品和生产成本，同比增长 1.69倍，主要由于公
+司近年承接的项目规模较大，结转周期平均在
+2年以上，造成一定的库存压力。
+截至 2015年末，公司非流动资产主要由开
+发支出、无形资产和商誉构成，占比分别为
+27.95%、26.12%和 25.13%。其中，开发支出
+1,440.15万元，主要为公司用于开发软件以及
+科研的支出，同比增长 8.16倍，主要由于公司
+为开发下一代智慧一体医院信息化产品，在研
+发方面投资较大所致；无形资产 1,346.10万元，
+主要为专利权、著作权和软件，同比增长
+1.79倍，主要由于公司将广州健迅科技有限公
+司纳入合并报表所致；商誉 1,294.81万元，为
+该年新增科目，主要由于 2015年收购子公司广
+州健讯。
+截至 2016年 9月末，公司流动资产主要由
+应收账款和存货构成，占比分别为 50.85%和
+35.46%。其中，应收账款 18,392.89万元，较
+2015年末增加 4.58%，较 2015年末变化不大；
+存货 12,824.25万元，较 2015年末增加 76.24%,主
+要是为当年新增项目进行备货。此外，货币资
+金 1,765.72万元，较 2015年末下降 82.96%，
+主要用于市场开拓和研发支出；预付款项
+2,190.27万元，较 2015年末增加 5.86倍，主
+要由于公司 2016年承接了几个规模较大的项目
+导致预付下游款项提升幅度较大。同期，公司
+非流动资产主要仍由开发支出、无形资产和商
+誉构成，占比分别为 47.66%、17.34%和
+20.00%。其中，开发支出 3,084.93万元，较
+2015年末增加 1.14倍，主要由于公司科研的支
+出提升所致；无形资产 1,122.65万元,较
+2015年末减少 16.60%，主要由部分软件著作到
+期所致；商誉 1,294.81万元，较 2015年末没
+有变化。
+2014～2015 年，公司总资产周转率分别为
+0.62次和 0.57次，应收账款周转率分别为
+1.30次和 1.27次，存货周转率分别为 5.69次
+和 2.94次，整体来看，公司资产运营效率较低8
+。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>公司盈利能力较弱和资产运营效率较低，
+面临较大的偿债压力，但公司自主研发能力较
+强，在行业内具有较强的竞争力，整体偿债能
+力较强
+2014～2015 年末，公司流动比率分别为
+1.40倍和 1.46倍，速动比率分别为 1.29倍和
+1.17倍，公司流动资产对流动负债的覆盖程度
+较好11。2014～2015 年，经营性净现金流与流动
+负债的比率分别为 8.02%和-52.21%，公司经营
+10 Wind资讯：2015 年信息技术服务业总资产
+报酬率的平均值和较低值分别为 0.20%和
+2.50%；净资产收益率的平均值和较低值分别
+为 4.20%和-1.60%。
+11  Wind资讯：2015 年信息技术服务业速动
+比率行业良好值和平均值分别为 1.25倍和
+0.83倍。
+性净现金流未能对流动负债形成基本保障12。同
+期，公司债务保护倍数分别为 0.29倍和
+0.02倍，净利润对债务的保障程度逐年下降；
+2015年，公司 EBITDA利息倍数为 1.60倍，公
+司税息折旧及摊销前利润对利息可提供一定的
+保障。
+国家出台一系列政策支持医疗信息化产业
+发展，行业发展空间巨大；公司自主研发能力
+较强，在行业内具有较强的竞争力；公司收入
+规模较为稳定，毛利率水平有所提升；近年来
+资产规模有所提升，但应收账款和存货规模较
+大，占用一定的流动资金；公司负债规模逐年
+上涨，集中偿债压力较大；经营性净现金流未
+能对流动负债形成基本保障，但流动资产对流
+动负债的覆盖程度较好。整体来看，整体偿债
+能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近年公司负债规模逐年增长，主要为流动
+负债，负债水平较高，短期有息负债规模较大，
+整体偿债压力较大
+2014～2015 年末和 2016年 9月末，公司负
+债总额分别为 24,670.18 万元、30,582.67 万
+元和 31,194.33万元，随着业务规模扩大，负
+债水平逐年提高。同期公司流动负债分别为
+24,670.18万元、25,218.49 万元和
+25,830.15万元，占比分别为 100.00%、
+82.46%和 82.80%，公司负债以流动负债为主。
+截至 2015年末，公司流动负债
+25,218.49万元，主要由短期借款和应付账款构
+成，占比分别为 35.63%和 30.36%。其中，短期
+借款 8,985.10万元，为保证借款，同比增加
+1.73倍，主要用于缓解研发投入所带来资金压
+力；应付账款 7,655.09万元，主要为应付供应
+商款项，同比减少 6.44%，公司前五大应付账款
+单位分别为北京方正众邦数字医疗系统有限公
+司、贵州易联信息技术有限公司、北京阳光春
+雨科技有限责任公司、深圳市振邦达科技有限
+公司和北京沃盈凯医疗科技有限公司，前五大
+应付账款占应付账款总额的 37.84%，集中度一
+般。
+截至 2016年 9月末，公司流动负债为
+25,830.15万元，主要由短期借款、预收款项和
+应付账款构成，占比分别为 52.22%、21.24%和
+15.96%。其中，短期借款 13,489.00万元,较
+8 Wind资讯：2015 年我国信息技术服务业总
+资产周转率的超差值和较低值分别为 0.50次
+和 0.70次；应收账款周转率行业较差值为
+1.50次；存货周转率行业较差值和较低值分
+别为 2.60次和 7.00次。
+2015年底增长
+50.13%，主要用于缓解研发投入所带来的资金
+压力；预收款项 5,487.05万元,主要为医院的
+工程款， 较 2015年底增长 1.32倍，主要由于
+2015年底预收款结转所致；应付账款
+4,123.36万元, 较 2015年底减少
+46.14%，主要由于企业支付应付货款所致。同
+期，公司非流动负债为 5,364.18万元，主要为
+长期应付款，金额 5,000.00万元，为公司通过
+应收账款质押方式从方正国际商业保理有限公
+司取得的筹资款，该筹资款项由北大方正信息
+产业有限公司提供保证，期限自 2015年 11月
+19日至 2017年 5月 18日。
+2014～2015 年末，公司筹资活动现金流入
+分别为 13,289.00万元和 13,871.10万元，公
+司主要依靠短期借款缓解资金压力，公司资产
+负债率分别为 68.90%和 72.98%，负债水平较高9
+。截至 2016年 9月末，公司有息负债为
+20,328.16万元，主要为短期借款和长期应付款，
+占负债总额的比重 65.17%，有息负债规模较大，
+其中短期负债占有息负债的 66.36%，公司面临
+较大的偿债压力。</enterprise:财务弹性>
+    <enterprise:盈利能力>近两年公司营业收入有小幅下降，综合毛
+利率水平有所提高，期间费用挤占利润空间，
+整体盈利能力较弱；2015 年公司经营性净现金
+流大幅下降，产生自有现金的能力不稳定
+2014～2015 年，公司营业收入分别为
+22,168.66万元和 21,997.17万元，收入有小幅
+下降。同期，公司综合毛利率分别为 30.71%和
+33.32%，毛利率水平有所提高。
+2014～2015 年，公司期间费用分别为
+4,969.56万元和 6,770.53万元，逐年增长，占
+营业收入比重分别为 22.42%和 30.78%，有所增
+加，公司期间费用控制能力有所减弱。公司期
+间费用主要由管理费用和销售费用构成，
+2014～2015 年，公司管理费用分别为
+3,814.95万元和 4,164.90万元，2015 年增加
+主要是由于公司支付房租以及员工薪酬增加所
+致。同期，销售费用分别为 1,132.24万元和
+2,338.10万元，2015 年大幅增加主要是由于公
+9  Wind资讯：2015 年我国信息技术服务业资
+产负债率行业平均值和较低值分别为
+65.00%和 75.00%。
+司大力拓展业务所致。
+2014～2015 年，公司利润总额分别为
+1,089.61万元和 168.27万元，净利润均分别为
+1,137.01万元和 184.72万元，均有大幅下降，
+主要由于公司开拓合作方以外的第三方市场造
+成销售费用尤其是人工成本的大幅提高所致。
+2014～2015 年，公司营业外收入分别为
+0.00万元和 320.45万元，主要为政府补助和税
+收返还，营业外收入是公司利润的重要补充。
+同期，公司总资产报酬率分别为 3.04%和
+0.43%，净资产收益率分别 10.21%和 1.64%，公
+司整体盈利能力较弱10。
+2016年 1～9月，公司实现营业收入
+13,246.86万元，同期，营业利润和净利润均为
+123.19万元。公司预计随着第三市场的开拓，
+公司 2016年收入规模将有所提升，实现营业收
+入 30,000.00万元，同比增长 36.38%，实现净
+利润 500.00万元，同比增长 1.71倍。
+2014～2015 年，公司经营性活动产生的现
+金流入分别为 24,755.45万元和 16,859.52万
+元，有所下降。同期，现金收入比分别为
+110.15%和 68.45%，公司收入实现质量有所下滑，
+主要由于近年来公司承接的项目回款周期较长
+所致。同期，公司经营性净现金流分别为
+1,977.76万元和-13,166.65 万元，有大幅下降，
+2015年表现为净流出，主要由于公司为研发下
+一代产品，对研发的资金投入较大所致。整体
+来看，公司产生自有现金的能力不稳定。</enterprise:盈利能力>
+</enterprise:财务分析>
+  
+<enterprise:风险揭示 rdf:ID="北大医疗信息技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>我国医疗信息化行业起步较晚、行业内企
+业数量较多，竞争较为激烈。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司研发投入较大，受下游回款周期影响，
+存在一定资金周转压力；公司盈利能力较弱，
+经营性净现金流未能对流动负债形成基本保障。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无。
+12  Wind资讯：2015 年我国信息技术服务业
+现金流动负债比率行业较低值和较差值分别
+为 19.90%和-7.40%。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+  
+
+<!-- 企业财务数据 -->
+
+
+<enterprise:基本财务指标 rdf:ID="北大医疗信息技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>35807.19 </enterprise:资产总额>
+    <enterprise:所有者权益>11137.01 </enterprise:所有者权益>
+    <enterprise:负债总额>24670.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>22168.66 </enterprise:营业收入>
+    <enterprise:EBITDA>0</enterprise:EBITDA>
+</enterprise:基本财务指标>
+
+<enterprise:基本财务指标 rdf:ID="北大医疗信息技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>41904.39 </enterprise:资产总额>
+    <enterprise:所有者权益>11321.73 </enterprise:所有者权益>
+    <enterprise:负债总额>30582.68 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>22168.66 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+   
+<enterprise:基本财务指标 rdf:ID="北大医疗信息技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>42642.64 </enterprise:资产总额>
+    <enterprise:所有者权益>11448.32 </enterprise:所有者权益>
+    <enterprise:负债总额>31194.34 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>13246.86 </enterprise:营业收入>
+    <enterprise:EBITDA>1090.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+
+<enterprise:运营能力指标 rdf:ID="北大医疗信息技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0</enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0</enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0</enterprise:存货周转次数>
+</enterprise:运营能力指标>
+
+<enterprise:运营能力指标 rdf:ID="北大医疗信息技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.94 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>28.36 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+
+<enterprise:运营能力指标 rdf:ID="北大医疗信息技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.59 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>7.32 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+
+<enterprise:盈利能力指标 rdf:ID="北大医疗信息技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0</enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0</enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0</enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+  
+<enterprise:盈利能力指标 rdf:ID="北大医疗信息技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.04 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>10.21 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+  
+<enterprise:盈利能力指标 rdf:ID="北大医疗信息技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.43 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1.63 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+
+<enterprise:偿债能力指标 rdf:ID="北大医疗信息技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>0</enterprise:流动比率>
+    <enterprise:速动比率>0</enterprise:速动比率>
+    <enterprise:资产负债率>0</enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0</enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+  
+<enterprise:偿债能力指标 rdf:ID="北大医疗信息技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>140.36 </enterprise:流动比率>
+    <enterprise:速动比率>129.41 </enterprise:速动比率>
+    <enterprise:资产负债率>68.90 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+  
+<enterprise:偿债能力指标 rdf:ID="北大医疗信息技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>145.73 </enterprise:流动比率>
+    <enterprise:速动比率>116.88 </enterprise:速动比率>
+    <enterprise:资产负债率>72.98 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.60 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+
+<enterprise:其他财务指标 rdf:ID="北大医疗信息技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0</enterprise:流动资产周转次数>
+    <enterprise:毛利率>0</enterprise:毛利率>
+    <enterprise:成本费用利润率>0</enterprise:成本费用利润率>
+    <enterprise:现金收入比>0</enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0</enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0</enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0</enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0</enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0</enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0</enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  
+<enterprise:其他财务指标 rdf:ID="北大医疗信息技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.71 </enterprise:毛利率>
+    <enterprise:成本费用利润率>6.59 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>8.02 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>26.37 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-0.77 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-113.42 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+
+<enterprise:其他财务指标 rdf:ID="北大医疗信息技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>33.84 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.97 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.68 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-52.21 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>49.66 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+
+
+
+  
+  <enterprise:资产负债表或资产 rdf:ID="北大医疗信息技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>14552.10 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>17000.88 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>199.40 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>173.32 </enterprise:其他应收款>
+    <enterprise:存货>2700.57 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>34626.27 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>163.49 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>483.33 </enterprise:无形资产>
+    <enterprise:开发支出>157.15 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>192.99 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>183.96 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1180.92 </enterprise:非流动资产合计>
+    <enterprise:资产总计>35807.19 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+
+<enterprise:资产负债表或资产 rdf:ID="北大医疗信息技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>10360.50 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>80.59 </enterprise:应收票据>
+    <enterprise:应收账款>17587.74 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>319.26 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1126.16 </enterprise:其他应收款>
+    <enterprise:存货>7276.67 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>36750.92 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>388.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>77.26 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1346.10 </enterprise:无形资产>
+    <enterprise:开发支出>1440.15 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>195.87 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>411.28 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>1294.81 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>5153.47 </enterprise:非流动资产合计>
+    <enterprise:资产总计>41904.39 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+
+<enterprise:资产负债表或资产 rdf:ID="北大医疗信息技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1765.72 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>18392.89 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2190.27 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>996.44 </enterprise:其他应收款>
+    <enterprise:存货>12824.25 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>36169.57 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>327.96 </enterprise:固定资产净额>
+    <enterprise:在建工程>77.26 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1122.65 </enterprise:无形资产>
+    <enterprise:开发支出>3084.93 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>154.18 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>411.28 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>1294.81 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>6473.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>42642.64 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+
+
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北大医疗信息技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>8985.10 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1029.89 </enterprise:应付票据>
+    <enterprise:应付账款>7655.09 </enterprise:应付账款>
+    <enterprise:预收款项>2369.07 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1376.86 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>821.43 </enterprise:应交税费>
+    <enterprise:应付利息>33.19 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2153.27 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>788.90 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>5.70 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>25218.50 </enterprise:流动负债合计>
+    <enterprise:长期借款>364.18 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>5000.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>5364.18 </enterprise:非流动负债合计>
+    <enterprise:负债合计>30582.68 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>124.01 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1197.72 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11321.73 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11321.73 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>41904.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+
+
+ 
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北大医疗信息技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>8985.10 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1029.89 </enterprise:应付票据>
+    <enterprise:应付账款>7655.09 </enterprise:应付账款>
+    <enterprise:预收款项>2369.07 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1376.86 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>821.43 </enterprise:应交税费>
+    <enterprise:应付利息>33.19 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2153.27 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>788.90 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>5.70 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>25218.50 </enterprise:流动负债合计>
+    <enterprise:长期借款>364.18 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>5000.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>5364.18 </enterprise:非流动负债合计>
+    <enterprise:负债合计>30582.68 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>124.01 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1197.72 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11321.73 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11321.73 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>41904.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+
+
+
+
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北大医疗信息技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>13489.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>168.82 </enterprise:应付票据>
+    <enterprise:应付账款>4123.36 </enterprise:应付账款>
+    <enterprise:预收款项>5487.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>671.52 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>502.99 </enterprise:应交税费>
+    <enterprise:应付利息>81.25 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1008.14 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>178.62 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>119.41 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>25830.16 </enterprise:流动负债合计>
+    <enterprise:长期借款>364.18 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>5000.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>5364.18 </enterprise:非流动负债合计>
+    <enterprise:负债合计>31194.34 </enterprise:负债合计>
+    <enterprise:实收资本或股本>10000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>124.01 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1324.31 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11448.32 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11448.32 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>42642.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+
+
+<enterprise:利润表 rdf:ID="北大医疗信息技术有限公司2013年利润表">
+    <enterprise:营业收入>22168.66 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>15359.61 </enterprise:营业成本>
+    <enterprise:主营业务成本>15359.61 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>13.72 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1132.24 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3814.95 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>22.36 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1089.93 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.32 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1089.61 </enterprise:利润总额>
+    <enterprise:所得税费用>-47.40 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1137.01 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1137.01 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+
+
+<enterprise:利润表 rdf:ID="北大医疗信息技术有限公司2014年利润表">
+    <enterprise:营业收入>22168.66 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>14667.20 </enterprise:营业成本>
+    <enterprise:主营业务成本>14667.20 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>28.67 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2338.10 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4164.90 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>267.53 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-146.27 </enterprise:营业利润>
+    <enterprise:营业外收入>320.45 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>5.91 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>168.27 </enterprise:利润总额>
+    <enterprise:所得税费用>-16.45 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>184.72 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>184.72 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+
+
+
+ <enterprise:利润表 rdf:ID="北大医疗信息技术有限公司2015年利润表">
+    <enterprise:营业收入>13246.86 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>8521.25 </enterprise:营业成本>
+    <enterprise:主营业务成本>8521.25 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>44.03 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1374.21 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2655.50 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>677.82 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>86.67 </enterprise:营业利润>
+    <enterprise:营业外收入>83.79 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>47.27 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>123.19 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>123.19 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>123.19 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+
+
+  <enterprise:现金流量表 rdf:ID="2013年北大医疗信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0</enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0</enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0</enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0</enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0 </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0</enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0</enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0</enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0</enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0</enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0</enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0</enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0</enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0</enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0</enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0</enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0</enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0</enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0</enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0</enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0</enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0</enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0</enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0</enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0</enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0</enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0</enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0</enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0</enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0</enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0</enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0</enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0</enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    
+    <enterprise:现金流量表 rdf:ID="2014年北大医疗信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>24419.58 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>335.88 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>24755.46 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>9060.11  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4955.05 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>33.96 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>8728.58 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>22777.70 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1977.76 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>819.45 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>819.45 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-819.45 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>10000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>3289.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>13289.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>35.21 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>35.21 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>13253.79 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>14412.10 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    
+    
+    <enterprise:现金流量表 rdf:ID="2015年北大医疗信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>15056.14 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>93.28 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1710.10 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>16859.52 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>13002.76  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>11540.19 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>412.30 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>5070.92 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>30026.17 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-13166.65 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>1.26 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.26 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>284.01 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>2309.72 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>300.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2893.73 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2892.47 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>8871.10 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>5000.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>13871.10 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>2021.92 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>357.37 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>2379.29 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>11491.81 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-4567.31 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+
+
+<enterprise:被投资单位 rdf:ID="北大医疗信息技术有限公司被投资单位：广州健讯科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>广州健讯科技有限公司</enterprise:名称>
+	<enterprise:单位代码>440101000131908</enterprise:单位代码>
+	<enterprise:被投资金额>3,300.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+
+<enterprise:被投资单位 rdf:ID="北大医疗信息技术有限公司被投资单位：安徽方正医疗信息技术有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>安徽方正医疗信息技术有限公司</enterprise:名称>
+	<enterprise:单位代码>91340100MA2N0R830T</enterprise:单位代码>
+	<enterprise:被投资金额>1,000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+
+<enterprise:股东 rdf:ID="北大医疗信息技术有限公司股东：北大方正信息产业集团有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北大方正信息产业集团有限公司 </enterprise:股东名称>
+	 <enterprise:货币>7,000.00万元时间：2014-03-24</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>70.00%</enterprise:持股比例>
+</enterprise:股东>
+
+<enterprise:股东 rdf:ID="北大医疗信息技术有限公司股东：北京博雅永信投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京博雅永信投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>3,000.00万元时间：2014-03-24</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>30.00%</enterprise:持股比例>
+</enterprise:股东>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18015938</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18016247</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18016118</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18016232</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18015819</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：北大医信">
+	<enterprise:有申请日期>15-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>北大医信</enterprise:有商标名称>
+	<enterprise:有注册号>18016022</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：掌医宝">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>掌医宝</enterprise:有商标名称>
+	<enterprise:有注册号>17384603</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：医">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>医</enterprise:有商标名称>
+	<enterprise:有注册号>17384749</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：掌医宝">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>掌医宝</enterprise:有商标名称>
+	<enterprise:有注册号>17384357</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：掌医宝">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>掌医宝</enterprise:有商标名称>
+	<enterprise:有注册号>17384513</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17384533</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17384641</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17384501</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：掌医宝">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>掌医宝</enterprise:有商标名称>
+	<enterprise:有注册号>17384791</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：掌医宝">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>掌医宝</enterprise:有商标名称>
+	<enterprise:有注册号>17384852</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:商标信息 rdf:ID="北大医疗信息技术有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-7-8</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17384961</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：基于HTML5的电子病历编辑方法及系统">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于HTML5的电子病历编辑方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510885340.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845054A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：药品信息的录入方法和药品信息的录入系统">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>药品信息的录入方法和药品信息的录入系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510885361.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845055A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：业务流程模板的生成方法及生成装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>业务流程模板的生成方法及生成装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510886244.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845744A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：疾病数据的标准化方法及标准化装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>疾病数据的标准化方法及标准化装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510886148.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845058A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗信息处理方法和医疗信息处理装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗信息处理方法和医疗信息处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510883894.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845052A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：临床数据管理方法和临床数据管理系统">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>临床数据管理方法和临床数据管理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510885870.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106846213A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：基于HTML5的医疗数据显示方法及装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于HTML5的医疗数据显示方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510885338.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845053A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：服药提示方法及服药提示装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>服药提示方法及服药提示装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510884338.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106821761A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历录入装置和病历录入方法">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历录入装置和病历录入方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510886302.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845059A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗信息处理方法和医疗信息处理装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗信息处理方法和医疗信息处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510886242.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106844325A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗质量的管理方法及管理装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗质量的管理方法及管理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510886145.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845057A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗信息的整合方法及整合装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗信息的整合方法及整合装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510885714.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106845056A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历输入装置和病历输入方法">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历输入装置和病历输入方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310602892.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103577715B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：一种终端之间的信息交互方法及系统">
+	<enterprise:有申请公布日>17-5-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种终端之间的信息交互方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310203890.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104184652B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医嘱提醒方法和医嘱提醒系统">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>医嘱提醒方法和医嘱提醒系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310603058.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103593575B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：多级数据节点更新同步系统和方法">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>多级数据节点更新同步系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310460972.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103501337B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：数据显示系统和数据显示方法">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据显示系统和数据显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310456682.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103514284B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：数据认证系统和数据认证方法">
+	<enterprise:有申请公布日>17-4-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据认证系统和数据认证方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310460922.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103501230B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：交叉多次检索的系统和方法">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>交叉多次检索的系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310455978.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103455641B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：文档格式转换方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>文档格式转换方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310597238.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103593457B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：文档格式转换系统">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>文档格式转换系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310596617.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103559321B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：患者信息判别系统和患者信息判别方法">
+	<enterprise:有申请公布日>17-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>患者信息判别系统和患者信息判别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310456061.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103473728B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：多镜像数据的回滚处理系统和回滚处理方法">
+	<enterprise:有申请公布日>17-1-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>多镜像数据的回滚处理系统和回滚处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310460975.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103488549B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：患者数据分块系统和方法">
+	<enterprise:有申请公布日>17-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>患者数据分块系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310456394.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103473374B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：处方的存储方法和存储装置">
+	<enterprise:有申请公布日>16-10-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>处方的存储方法和存储装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510040696.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105991664A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历及医嘱的辅助录入方法和装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历及医嘱的辅助录入方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835772.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787844A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗系统中患者医疗数据的存储方法及装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗系统中患者医疗数据的存储方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410837860.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787250A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：信息处理方法及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>信息处理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832114.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787380A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：数据访问控制方法及装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据访问控制方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410834850.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787381A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗数据的图形展现方法及展现装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗数据的图形展现方法及展现装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410834996.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786933A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：待办事项分级提示方法及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>待办事项分级提示方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835867.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787695A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：配置数据更新方法及系统、客户端和服务器">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>配置数据更新方法及系统、客户端和服务器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832112.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105790997A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：数据测试方法及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据测试方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835000.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786695A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历文书缺陷处理方法及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历文书缺陷处理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835011.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786934A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：自动均衡服务器负载的系统及方法">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>自动均衡服务器负载的系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835012.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105791148A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗系统药品的标识显示方法和系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗系统药品的标识显示方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832086.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787631A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗报告的通知方法、通知系统、处理方法和处理系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗报告的通知方法、通知系统、处理方法和处理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835015.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787843A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗系统中临床业务的查询方法及查询装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗系统中临床业务的查询方法及查询装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410834848.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786932A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗系统数据查询方法和医疗系统数据查询系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗系统数据查询方法和医疗系统数据查询系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832087.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786928A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗系统数据共享方法和医疗系统数据共享系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗系统数据共享方法和医疗系统数据共享系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832088.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105791373A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历内容替换方法及系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历内容替换方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410835013.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786935A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历单处理方法和处理装置">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历单处理方法和处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410832111.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786325A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗业务数据获取方法和获取系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗业务数据获取方法和获取系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410837868.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105786940A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医疗业务数据分发方法和分发系统">
+	<enterprise:有申请公布日>16-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>医疗业务数据分发方法和分发系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410834998.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105787842A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：正交表扩展装置、软件测试系统和正交表扩展方法">
+	<enterprise:有申请公布日>16-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>正交表扩展装置、软件测试系统和正交表扩展方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431766.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176893B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：一种存储和读取信息的方法及设备">
+	<enterprise:有申请公布日>16-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种存储和读取信息的方法及设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110406950.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103164662B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：病历文档的显示装置和病历文档的显示方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>病历文档的显示装置和病历文档的显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310608040.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104657925A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医嘱合并装置和医嘱合并方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>医嘱合并装置和医嘱合并方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310607245.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104657569A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：医嘱的自动生成装置和自动生成方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>医嘱的自动生成装置和自动生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310602950.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104657924A</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:专利    rdf:ID="北大医疗信息技术有限公司的专利信息：一种测试功能链生成方法与装置">
+	<enterprise:有申请公布日>15-3-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测试功能链生成方法与装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110400254.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102495801B</enterprise:有申请公布号>
+</enterprise:专利>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信云医院管理信息系统">
+	<enterprise:有批准日期>17-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信云医院管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR470974</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信综合服务平台系统">
+	<enterprise:有批准日期>17-6-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信综合服务平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>ISP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR281015</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信移动门诊输液管理系统">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信移动门诊输液管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>输液管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR331982</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医技叫号系统">
+	<enterprise:有批准日期>17-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医技叫号系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-CAL</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR531083</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：健康医疗大数据分析平台">
+	<enterprise:有批准日期>17-4-12</enterprise:有批准日期>
+	<enterprise:有软件全称>健康医疗大数据分析平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR111767</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信护理管理系统">
+	<enterprise:有批准日期>17-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信护理管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MNIS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR093660</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信移动药师系统">
+	<enterprise:有批准日期>17-6-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信移动药师系统</enterprise:有软件全称>
+	<enterprise:有软件简称>移动药师</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR310417</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医学影像管理系统">
+	<enterprise:有批准日期>16-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医学影像管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR329284</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医院诊断专家知识库与决策支持系统">
+	<enterprise:有批准日期>16-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医院诊断专家知识库与决策支持系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR329295</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信心电信息系统">
+	<enterprise:有批准日期>17-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信心电信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-ECG</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR217737</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：药品条码管理系统">
+	<enterprise:有批准日期>16-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>药品条码管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR348874</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信患者主索引管理平台">
+	<enterprise:有批准日期>16-12-19</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信患者主索引管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>EMPI</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR379566</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信统一身份认证系统">
+	<enterprise:有批准日期>16-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信统一身份认证系统</enterprise:有软件全称>
+	<enterprise:有软件简称>FIMS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR377368</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信ETL系统">
+	<enterprise:有批准日期>16-12-19</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信ETL系统</enterprise:有软件全称>
+	<enterprise:有软件简称>ETL</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR380310</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信临床规则管理系统">
+	<enterprise:有批准日期>16-12-19</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信临床规则管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CDS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR379594</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信专科科研管理系统">
+	<enterprise:有批准日期>16-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信专科科研管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>SRM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR354636</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医疗大数据搜索系统">
+	<enterprise:有批准日期>16-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医疗大数据搜索系统</enterprise:有软件全称>
+	<enterprise:有软件简称>HBDSS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR354630</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信移动医技助手系统">
+	<enterprise:有批准日期>17-7-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信移动医技助手系统</enterprise:有软件全称>
+	<enterprise:有软件简称>移动医技</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR401807</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信传染病预警管理系统">
+	<enterprise:有批准日期>16-11-9</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信传染病预警管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR324452</enterprise:有登记号>
+	<enterprise:有分类号>30106-8500</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：主数据管理系统">
+	<enterprise:有批准日期>16-9-18</enterprise:有批准日期>
+	<enterprise:有软件全称>主数据管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-MDM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR262541</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医院感染管理系统">
+	<enterprise:有批准日期>16-12-19</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医院感染管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>HAI_ESS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR380280</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信智慧一体化医疗信息系统(平台型)">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信智慧一体化医疗信息系统(平台型)</enterprise:有软件全称>
+	<enterprise:有软件简称>IIH</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR282666</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医疗信息化应用开发平台">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医疗信息化应用开发平台</enterprise:有软件全称>
+	<enterprise:有软件简称>XAP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR282667</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信HL7引擎系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信HL7引擎系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR368110</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信术语管理系统">
+	<enterprise:有批准日期>16-12-12</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信术语管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR368116</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信基于云计算的医学影像存储与传输系统">
+	<enterprise:有批准日期>16-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信基于云计算的医学影像存储与传输系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-Cloud Pacs</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR348891</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信远程会诊系统">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信远程会诊系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-RMC</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR288933</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医学影像集成平台">
+	<enterprise:有批准日期>16-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医学影像集成平台</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-PIP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR225504</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信病理信息管理系统">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信病理信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-PIS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR288936</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医学影像存储与传输系统">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医学影像存储与传输系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-PACS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR288730</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信电子病历系统">
+	<enterprise:有批准日期>16-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信电子病历系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电子病历系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR116916</enterprise:有登记号>
+	<enterprise:有分类号>30200-8500</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信移动电子病历系统">
+	<enterprise:有批准日期>16-6-3</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信移动电子病历系统</enterprise:有软件全称>
+	<enterprise:有软件简称>移动电子病历系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR130049</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信区域影像平台">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信区域影像平台</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-RIP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR284071</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信掌上医院系统">
+	<enterprise:有批准日期>16-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信掌上医院系统</enterprise:有软件全称>
+	<enterprise:有软件简称>掌上医院系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR079407</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信超声信息管理系统">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信超声信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-UIS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR288935</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信内镜信息管理系统">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信内镜信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-EIS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR283571</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信放射信息管理系统">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信放射信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PKU-RIS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR288724</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：集成化电子病历系统">
+	<enterprise:有批准日期>15-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>集成化电子病历系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR236082</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信掌上护理系统">
+	<enterprise:有批准日期>16-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信掌上护理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>掌上护理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR079412</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：医疗卫生信息安全管理系统">
+	<enterprise:有批准日期>16-12-7</enterprise:有批准日期>
+	<enterprise:有软件全称>医疗卫生信息安全管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR358844</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信移动护理系统">
+	<enterprise:有批准日期>16-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信移动护理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>移动护理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR080107</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医院信息管理系统">
+	<enterprise:有批准日期>17-4-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医院信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR139382</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信预约诊疗系统">
+	<enterprise:有批准日期>17-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信预约诊疗系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR469438</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：移动精细化管理系统">
+	<enterprise:有批准日期>16-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>移动精细化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR080175</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信疾病星系图系统">
+	<enterprise:有批准日期>15-4-21</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信疾病星系图系统</enterprise:有软件全称>
+	<enterprise:有软件简称>疾病星系图</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR065891</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：电子病历交换共享平台">
+	<enterprise:有批准日期>15-7-22</enterprise:有批准日期>
+	<enterprise:有软件全称>电子病历交换共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR139894</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：卫生监督执法综合管理平台">
+	<enterprise:有批准日期>15-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>卫生监督执法综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR102540</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：抗菌药物管理系统">
+	<enterprise:有批准日期>16-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>抗菌药物管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR348880</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：移动医生查房系统">
+	<enterprise:有批准日期>16-4-19</enterprise:有批准日期>
+	<enterprise:有软件全称>移动医生查房系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR080098</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医疗信息集成平台">
+	<enterprise:有批准日期>15-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医疗信息集成平台</enterprise:有软件全称>
+	<enterprise:有软件简称>集成平台</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR089390</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信智慧医疗系统软件">
+	<enterprise:有批准日期>15-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信智慧医疗系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR104856</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：药品追溯管理系统">
+	<enterprise:有批准日期>16-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>药品追溯管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR348863</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医院运营管理系统">
+	<enterprise:有批准日期>15-5-14</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医院运营管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR081776</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信中医药健康管理系统">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信中医药健康管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR053667</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信区域协同医疗信息平台">
+	<enterprise:有批准日期>17-9-15</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信区域协同医疗信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR520580</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信区域卫生资源共享系统">
+	<enterprise:有批准日期>17-9-15</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信区域卫生资源共享系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR520579</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信智慧医疗系统软件">
+	<enterprise:有批准日期>14-12-31</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信智慧医疗系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR217387</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：药品采购配送平台">
+	<enterprise:有批准日期>16-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>药品采购配送平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR348886</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信双向转诊系统">
+	<enterprise:有批准日期>17-8-15</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信双向转诊系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR450754</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信卫生监督协管系统">
+	<enterprise:有批准日期>15-3-27</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信卫生监督协管系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR054752</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信精神卫生管理系统">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信精神卫生管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR053675</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信人口健康信息平台">
+	<enterprise:有批准日期>17-8-15</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信人口健康信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR450759</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信职业卫生管理系统">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信职业卫生管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR053684</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信预防接种管理系统">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信预防接种管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR053678</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信消媒防治系统">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信消媒防治系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR053681</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信健康教育管理系统">
+	<enterprise:有批准日期>15-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信健康教育管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR051701</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信慢性病监测与管理系统">
+	<enterprise:有批准日期>15-3-23</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信慢性病监测与管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR050850</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信区域卫生信息平台">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信区域卫生信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181423</enterprise:有登记号>
+	<enterprise:有分类号>30200-8500</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信卫生综合管理系统">
+	<enterprise:有批准日期>17-8-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信卫生综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR470968</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信公共卫生管理系统">
+	<enterprise:有批准日期>14-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信公共卫生管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181029</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信传染病监测控制系统">
+	<enterprise:有批准日期>15-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信传染病监测控制系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR051644</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信医院运营分析与决策支持系统">
+	<enterprise:有批准日期>15-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信医院运营分析与决策支持系统</enterprise:有软件全称>
+	<enterprise:有软件简称>运营决策系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR159969</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信基层医疗卫生信息系统">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信基层医疗卫生信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181420</enterprise:有登记号>
+	<enterprise:有分类号>30200-8500</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信妇幼保健信息系统">
+	<enterprise:有批准日期>15-3-23</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信妇幼保健信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR050746</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信地方病防治系统">
+	<enterprise:有批准日期>15-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信地方病防治系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR051636</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：北大医信老年人健康管理系统">
+	<enterprise:有批准日期>15-3-24</enterprise:有批准日期>
+	<enterprise:有软件全称>北大医信老年人健康管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR051703</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：移动医生站系统（IPAD版）">
+	<enterprise:有批准日期>14-6-25</enterprise:有批准日期>
+	<enterprise:有软件全称>移动医生站系统（IPAD版）</enterprise:有软件全称>
+	<enterprise:有软件简称>移动医生站</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR084977</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：移动医生站系统（WIN8版）">
+	<enterprise:有批准日期>14-6-25</enterprise:有批准日期>
+	<enterprise:有软件全称>移动医生站系统（WIN8版）</enterprise:有软件全称>
+	<enterprise:有软件简称>移动医生站</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR084965</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:软件著作权  rdf:ID="北大医疗信息技术有限公司的软件著作：卫生监督执法综合管理平台">
+	<enterprise:有批准日期>14-4-24</enterprise:有批准日期>
+	<enterprise:有软件全称>卫生监督执法综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR049216</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+
+<enterprise:网站备案 rdf:ID="北大医疗信息技术有限公司的网站备案：北大医疗信息技术有限公司">
+	<enterprise:有审核时间>14-5-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北大医疗信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pkuhit.com</enterprise:有网站首页>
+	<enterprise:有域名>pku-hit.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14018101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+
+<enterprise:网站备案 rdf:ID="北大医疗信息技术有限公司的网站备案：北大医疗信息技术有限公司">
+	<enterprise:有审核时间>14-5-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北大医疗信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pkuhit.com</enterprise:有网站首页>
+	<enterprise:有域名>pku-hit.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14018101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+
+<enterprise:网站备案 rdf:ID="北大医疗信息技术有限公司的网站备案：北大医疗信息技术有限公司">
+	<enterprise:有审核时间>14-5-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北大医疗信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pkuhit.com</enterprise:有网站首页>
+	<enterprise:有域名>pkuhit.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14018101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+
+<enterprise:网站备案 rdf:ID="北大医疗信息技术有限公司的网站备案：北大医疗信息技术有限公司">
+	<enterprise:有审核时间>14-5-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北大医疗信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pkuhit.com</enterprise:有网站首页>
+	<enterprise:有域名>pkuhit.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14018101号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+
+<enterprise:员工基本信息 rdf:ID="北大医疗信息技术有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+
+<enterprise:主营业务或产品 rdf:ID="北大医疗信息技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司主要从事医疗信息系统定制软件的开发、软硬件产品的销售和维护服务，为
+客户提供医疗信息化解决方案</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品 >
+
+<enterprise:主要客户及经营情况    rdf:ID="北大医疗信息技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>北京大学人民医院、北京大学国际医院等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+
+<enterprise:外部经营环境 rdf:ID="北大医疗信息技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>随着我国医疗改革的深入以及医疗信息化的一系列鼓励政策的实施，市场需求逐
+渐提高</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+
+<enterprise:企业类型 rdf:ID="北大医疗信息技术有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北大医疗信息技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>国家出台一系列政策支持医疗信息化发展，未来医疗信息化的发展空间巨大。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北大医疗信息技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+
+<enterprise:企业法人代表 rdf:ID="北大医疗信息技术有限公司的企业法人代表：刘健">
+	<enterprise:名称>刘健</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉族</enterprise:民族>
+	<enterprise:年龄>54</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1962.07.03</enterprise:出生年月>
+	<enterprise:身份证号码>110107196207031238</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>总裁</enterprise:现任职务>
+	<enterprise:联系电话>82343115</enterprise:联系电话>
+	<enterprise:传真>--</enterprise:传真>
+	<enterprise:E-mail>--</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1987～2001 中国科学院大气物理所 高级工程师
+2001～2015 北京北大方正宽带网络科技有限公司 总经理
+2016～今 北大方正集团有限公司 委员会、副总裁
+2016～今 北大方正信息产业集团有限公司 总裁</enterprise:经历>
+</enterprise:企业法人代表>
+
+<enterprise:下属单位 rdf:ID="北大医疗信息技术有限公司的下属单位：北大医疗信息技术有限公司长春分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北大医疗信息技术有限公司长春分公司</enterprise:名称>
+	<enterprise:主要职能>--</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>新建立</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+
+<enterprise:下属单位 rdf:ID="北大医疗信息技术有限公司的下属单位：北大医疗信息技术有限公司沈阳分公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>北大医疗信息技术有限公司沈阳分公司</enterprise:名称>
+	<enterprise:主要职能>--</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>新建立</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+
+<enterprise:下属单位 rdf:ID="北大医疗信息技术有限公司的下属单位：北大医疗信息技术有限公司天津分公司">
+	<enterprise:序号>3</enterprise:序号>
+	<enterprise:名称>北大医疗信息技术有限公司天津分公司</enterprise:名称>
+	<enterprise:主要职能>--</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>新建立</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+
+<enterprise:下属单位 rdf:ID="北大医疗信息技术有限公司的下属单位：北大医疗信息技术有限公司太原分公司">
+	<enterprise:序号>4</enterprise:序号>
+	<enterprise:名称>北大医疗信息技术有限公司太原分公司</enterprise:名称>
+	<enterprise:主要职能>--</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>新建立</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+
+<enterprise:税务  rdf:ID="北大医疗信息技术有限公司的税务信息">
+	<enterprise:有国税机关>北京市海淀区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市海淀区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110108766291737T</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（17%、6%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>124万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>113万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北大医疗信息技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>各类通信设备、软件产品、互联网带宽、线缆、技术服务等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>通信设备、软件产品、互联网带宽、线缆、技术服务供应商</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>一般</enterprise:有延期支付>
+	<enterprise:有上年度发生额>2272万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>1932万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>增加340万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>526万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北大医疗信息技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+
+<enterprise:负债情况  rdf:ID="北大医疗信息技术有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+
+<enterprise:负债情况  rdf:ID="北大医疗信息技术有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+
+<enterprise:负债情况  rdf:ID="北大医疗信息技术有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+
+<enterprise:软件著作数量 rdf:ID="北大医疗信息技术有限公司的软件著作数量">
+    <enterprise:软件著作总计>27</enterprise:软件著作总计>
+    <enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+    <enterprise:软件著作数量2014>7</enterprise:软件著作数量2014>
+    <enterprise:软件著作数量2015>20</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+
+<enterprise:专利数量 rdf:ID="北大医疗信息技术有限公司的专利数量">
+    <enterprise:专利总计>4</enterprise:专利总计>
+    <enterprise:专利数量2013>0</enterprise:专利数量2013>
+    <enterprise:专利数量2014>0</enterprise:专利数量2014>
+    <enterprise:专利数量2015>4</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+<enterprise:商标数量 rdf:ID="北大医疗信息技术有限公司的商标数量">
+    <enterprise:商标总计>16</enterprise:商标总计>
+    <enterprise:商标数量2013>0</enterprise:商标数量2013>
+    <enterprise:商标数量2014>0</enterprise:商标数量2014>
+    <enterprise:商标数量2015>16</enterprise:商标数量2015>
+</enterprise:商标数量>
+
+<enterprise:著作作品数量 rdf:ID="北大医疗信息技术有限公司的著作作品数量">
+    <enterprise:著作作品总计>0</enterprise:著作作品总计>
+    <enterprise:著作作品数量2013>0</enterprise:著作作品数量2013>
+    <enterprise:著作作品数量2014>0</enterprise:著作作品数量2014>
+    <enterprise:著作作品数量2015>0</enterprise:著作作品数量2015>
+</enterprise:著作作品数量>
+
+
+<enterprise:网站备案数量 rdf:ID="北大医疗信息技术有限公司的网站备案数量">
+    <enterprise:网站备案总计>4</enterprise:网站备案总计>
+    <enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+    <enterprise:网站备案数量2014>4</enterprise:网站备案数量2014>
+    <enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

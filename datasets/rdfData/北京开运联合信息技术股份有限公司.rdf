@@ -1,0 +1,1430 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京开运联合信息技术股份有限公司的企业概况">
+    <enterprise:有名称>北京开运联合信息技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>110112006912859</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局通州分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020008337788</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国建设银行北京市通州区支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>66</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004年4月29日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>500</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>500</enterprise:有股本>
+    <enterprise:有经营范围>技术推广；技术转让；组织文化艺术交流活动、承办展览展示；电脑图文设计；软件开发；技术咨询；数据处理；销售电子产品；会议服务；经济贸易咨询。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本区产业政策禁止和限制类项目的经营活动。）技术推广；技术转让；组织文化艺术交流活动、承办展览展示；电脑图文设计；软件开发；技术咨询；数据处理；销售电子产品；会议服务；经济贸易咨询。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本区产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>软件开发服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件与信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市通州区中关村科技园区通州园国际种业科技园区聚和七街1号-593</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区东十里堡路1号未来时803</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100025</enterprise:有邮政编码>
+    <enterprise:有联系人>李翠英</enterprise:有联系人>
+    <enterprise:有联系电话>86-10-57742838</enterprise:有联系电话>
+    <enterprise:有传真电话>86-10-88708487</enterprise:有传真电话>
+    <enterprise:有E-mail>licuiying@creatunion.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.creatunion.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京开运联合信息技术股份有限公司（以
+下简称“公司”）于2004年4月29日在北京市
+工商行政管理局通州分局注册成立，初始注册
+资本为50万元，后经多次增资和股东变更，目
+前注册资本为500万元，由自然人亢瑞卿和刁
+秀涛共同出资构成，股东均以货币形式出资，
+其中亢瑞卿出资499.5万元，占比99.9%，刁秀
+涛出资0.5万元，占比0.1%。公司类型为股份
+有限公司。
+公司经营范围：技术推广服务；技术转让
+；组织文化艺术交流活动（不含棋牌）、承办
+展览展示；电脑图文设计；软件开发。（依法
+须经批准的项目，经相关部门批准后依批准的
+内容开展经营活动。）
+截至2015年12月31日，公司资产总额为93
+7.65万元，负债总额为232.64万元；2015年，
+公司实现营业收入1187.87万元，利润总额为1
+99.83万元。公司现在员工66人，在北京市属
+于小型企业。
+公司注册地址：北京市通州区中关村科技
+园区通州园国际种业科技园区聚和七街1号-
+593；办公地址：北京市朝阳区东十里堡路1号
+未来时803；公司机构代码：76218407X，工
+商注册号：110112006912859，机构信用代码
+证号：G1011011202470030V；法定代表人：
+亢瑞卿。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京开运联合信息技术股份有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质
+公司法定代表人、董事长兼总经理，亢瑞
+卿，男，38岁，本科学历，毕业于东北大学。
+2000年9月至2001年10月，任职于中央广播电
+台，担任都市之声外联主任；2001年11月至20
+司，担任区域经理。
+公司董事兼副总经理，张中伟，男，39岁
+，大专学历，毕业于北京工商大学。2000年5
+月至2006年5月，任职于ZDNET旗下《SmartP
+artner》，担任市场部主管；2006年6月至2011
+年3月，就职于北京佳信诚通科技发展有限公
+司，担任项目经理。
+公司董事兼董事会秘书，张德运，男，33
+岁，本科学历，毕业于中国石油大学。2007年
+7月加入公司，历任项目经理、副总经理、董
+事兼董事长秘书。
+公司董事兼财务总监，李翠英，女，37岁
+，大专学历，毕业于河北工业大学。2003年1
+月至2006年4月，任职于太原长城药店连锁有
+限公司，担任收银员；2006年5月至2008年4月
+，任职于山西鼎盛天桥国际投资有限公司，担
+任出纳；2008年5月至2011年6月，任职于行宫
+酒店投资有限公司，担任主管会计；2011年7
+月至2013年3月，任职于北京双娃乳业有限公
+司，担任主管会计。
+总体看，公司高管人员整体学历水平尚可
+，从业经验丰富。
+2．人力资源
+截至评级时点，公司共有员工66人。
+从学历构成看，公司员工中本科及以上学
+历32人，占比48.48%；专科学历31人，占比4
+6.97%，公司员工整体学历水平尚可。
+从年龄构成看，公司员工年龄在25~45岁
+47人，占比71.21%；25岁以下19人，占比28.7
+9%，公司员工年龄结构以中青年为主。
+从岗位构成看，公司技术人员59人，占比
+89.39%；管理人员7人，占比10.61%；公司岗
+位构成符合所处行业特点，尚能满足公司现阶
+段发展需要。由于公司开展业务需要研发人员
+驻场，研发人员数量与业务承接量呈正比例关
+总体看，公司员工学历水平尚可，年龄结
+构以中青年为主，岗位结构合理。随着公司业
+务量的增长，研发人员短缺将逐步显现。
+3．研发人员素质
+公司共有核心研发人员5人，均为大专学
+历。
+公司核心技术人员，姚楠，男，1989年出
+生。2011年10月至2013年7月，就职于西安木
+辛软件科技有限公司，担任软件工程师。
+公司核心技术人员，宋永亮，男，1986年
+出生。2008年1月至2011年6月，就职于洛阳开
+普信息科技有限公司，担任研发工程师；2010
+年7月至2011年8月，就职于河南诺特信息技术
+有限公司，担任高级研发工程师。
+公司核心技术人员，李连修，男，1990年
+出生。2011年9月至2013年4月，就职于山东中
+邮通信科技有限公司，担任项目组长。
+总体看，公司核心研发人员学历尚可，从
+业经验尚可，可以保证公司研发工作的正常进
+行。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司内设研发部，负责公司的研发工作。
+近三年，上年度72.24万元；上二年133.21万元
+；上三年120.4万元。
+总体看，公司研发投入力度适中，能满足
+公司目前的研发需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京开运联合信息技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件
+公司办公地址位于北京市朝阳区东十里堡
+路1号未来时803，使用方式为租赁。
+公司是一家专业的信息化建设服务公司，
+专注于软件领域的技术开发与服务，公司以软
+件技术为核心，通过软件与服务、产业、业务
+的结合，提供软件开发和行业解决方案以及相
+关的软件产品、软件解决方案。自公司成立以
+来，已在该领域经营了10年有余，建立了较为
+成熟的营销体系，积累了一批优质的客户群体
+，为其持续发展创造了较好的经营基础。
+2.业务运作
+公司经营主要以招投标为主，客户群体集
+中在航天、军工、政府、铁路、医疗大型国企
+等领域，按业务性质可分为软件开发、软件服
+务两方面。截至2015年底，公司主营业务收入
+为1187.87万元，利润总额为199.83万元。其
+中，软件开发项收入1181.87万元，占比99.49
+%；软件服务项收入6.00万元，占比0.51%，销
+售地域主要集中在北京。
+采购方面，公司的业务主要是软件开发，
+所以公司的采购所用资金较少，主要集中在计
+算机等硬件的采购方面。  
+公司2015年前五大客户分别为中国船舶工
+业系统工程研究院、禁核试北京国家数据中心
+、北京云智动力医疗科技有限公司、中铁电气
+化局集团有限公司、中国铁道科学研究院通信
+信号研究所。公司前五大客户中，军工、政府
+领域占比较高。公司回款主要分三个时点，分
+别是签订合同后、项目验收后、质保期结束后
+，按合同金额比例可分为30%、60%、10%或者5
+0%、40%、10%。公司账龄均在一年以内，从近
+年来的应收账款规模来看，规模持续增长，对
+其运营资金的周转造成一定压力。
+图1 
+公司近三年资产及收入增长情况（万元）
+从近三年公司经营情况来看，收入呈逐年
+上升趋势，利润也呈上升趋势，利润的获取能
+力较为稳定。其中，2015年公司的主营业务收
+入和利润均实现大幅增加，主要原因是公司在
+发展过程中积累了一批固定客户，同时技术能
+力的提升促使公司承接项目的规模扩大。
+总体看，公司已建立较为成熟的服务体系
+，客户质量较为优良，经营状况良好。
+3．经营效率
+表 2 公司近三年主要经营指标
+财务指标 2013年 2014年 2015年
+成本率(%) 94.25 84.52 83.18
+管理费用率(%) 30.81 35.92 45.39
+应收账款周转次数(次) 3.96 5.38 3.46
+存货周转次数(次)) - - -
+总资产周转次数(次) 0.61 0.83 1.44
+资料来源：公司提供，齐平有孚整理。
+近三年，公司成本率呈下降趋势，是因公
+司技术人员技能的提高和业务的扩大促使公司
+营业收入大幅增加，而且营业成本控制能力增
+强；同期，管理费用率呈上升趋势，其中2015
+年管理费用增加较为明显，主要是由于公司在
+2015年在新三板挂牌导致的中介咨询费增加、
+管理人员薪酬提高。
+近三年，公司应收账款周转次数呈波动趋
+势，处于行业一般水平；同期，公司总资产周
+转次数呈上升趋势，资产运用效率逐步增强。
+总体看，公司整体经营效率尚可。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构
+公司按照《中华人民共和国公司法》及有
+关法律、法规的规定制订了公司章程。
+公司设立股东会，股东会为公司权力机构
+，负责公司的重大经营决策。
+公司设立董事会，董事会由5名董事组成
+，由股东大会选举产生，董事长由亢瑞卿先生
+担任。董事会是公司的经营决策机构，对股东
+大会负责。
+公司设监事会，监事会由3名监事组成，
+监事会设主席1名，由全体监事会过半数选举
+产生。监事行使检查公司财务、向股东会会议
+提出提案等职权。
+公司设总经理1名，由亢瑞卿先生担任，
+总经理由董事会决定聘任或者解聘，对董事会
+负责，负责公司日常的经营、管理等工作。
+公司内设市场营销部、行政人事部、研发
+部、财务部等部门，各部门分工明确。
+目前发展阶段相匹配。
+2．制度建设及执行
+公司目前已制定了财务、人事、研发、销
+售等方面的管理制度，公司制度符合ISO9001
+：2008标准；实际经营中，公司严格执行各项
+操作规程。
+总体看，公司制度建设较为完善，执行情
+况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划
+公司未来将延续目前的运营模式，在原有
+业务保持稳定的前提下，着力发展新业务的市
+场营销，提升其新的利润增长点。
+公司预计2016年实现营业收入2800.00万
+元，净利润800.00万元。根据齐平有孚数据预
+测规则，并结合公司提供的预测数据，按照谨
+慎性原则，齐平有孚认为公司实现该计划的可
+能性尚可。
+总体看，公司未来一年发展较好。
+2．融资需求
+截止2016年9月1日，公司融资需求为2000
+万，融资来源为定向发行，融资用途为补充短
+期流动资金。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京开运联合信息技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为                         
+562.68 
+万元、708.25万元、937.65万元，整体呈上升
+趋势，复合增长率为29.09%，增长较快，主
+要得益于公司业务规模的扩大。
+截至2015年12月31日，公司资产总额为93
+7.65万元，其中流动资产占比90.41%，非流动
+资产占比9.59%。
+截至2015年12月31日，公司流动资产为84
+7.74万元，其中：货币资金260.18万元，占比3
+0.69%；应收账款577.95万元，占比68.18%，
+主要债务人为中国船舶工业系统工程研究院、
+禁核试北京国家数据中心、北京云智动力医疗
+科技有限公司、中铁电气化局集团有限公司、
+中国铁道科学研究院通信信号研究所的账款，
+账龄均在1年以内。从近年来的应收账款规模
+来看，规模持续增长，对其运营资金的周转造
+成一定压力。
+截至2015年12月31日，公司非流动资产89
+.91万元，其中：长期待摊费用84.77万元，占
+比94.29%，主要为装修费、房租、物业费的
+支出。
+总体看，公司资产流动性尚可，整体资产
+质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2015年，公司流动比
+率和速动比率均为364.40%，处于行业较高水
+平，公司短期偿债能力较强。
+从长期偿债能力看， 
+公司近三年EBITDA分别为23.42万元、95.70
+万元、218.40万元，呈上升趋势，长期债务保
+障能力增强。
+若公司2016年的经营计划得以实现，齐平
+有孚预计其2016年EBITDA为1000万元，对未
+来债务保障程度较低。
+总体看，结合公司整体经营状况尚可，公
+司未来一年整体偿债能力有所增强，但相对于
+规模较大的融资计划，其债务保障程度偏低，
+建议公司削减债务规模，提升获利水平，以增
+强其债务的保障程度。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为198.43万元
+、275.93万元、232.64 
+万元，复合增长率为8.28%，整体波动幅度较
+小。
+近三年，公司资产负债率分别为35.26%
+、38.96%、24.81%，小幅波动，负债水平偏
+低。
+截至2015年12月31日，公司负债总额232.
+64万元，全部为流动负债。其中，应付职工薪
+酬105.78万元，占比45.47%；其他应付款84.5
+6万元，占比36.35%，主要为关联方的往来款
+，账龄集中在1年以内。 
+近三年，公司所有者权益分别为364.25万
+元、432.32万元、705.01万元，呈上升趋势，
+复合增长率为39.12%，主要由实收资本及未
+分配利润增加形成。
+截至2015年12月31日，公司所有者权益为
+705.01万元，其中：实收资本500.00万元，
+占比70.92%；资本公积67.79万元，占比9.62%
+，为股本溢价；盈余公积24.08万元，占比3.41
+%；未分配利润113.14万元，占比16.05%。
+总体看，公司负债水平偏低，所有者权益
+结构稳定性较好。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为344.80万元
+、525.11万元、1187.87万元，呈上升趋势；同
+期，公司利润总额分别为19.82万元、81.30万
+元、199.83万元，复合增长率为217.49%，营
+业收入和利润总额大幅增长主要得益于公司业
+务扩大以及技术人员水平提高。
+近三年，公司主营业务利润率分别为42.5
+5%、51.27%、57.97%，处于行业较高水平；
+同期，公司净资产收益率分别为5.82%、17.09
+%、30.37%，呈上升趋势，加权平均值为21.4
+7%，处于行业较高水平；同期，公司总资产
+报酬率分别为3.52%、12.79%、24.28%，呈上
+升趋势，加权平均值为16.68%，资产运用效
+能有所增强。
+总体看，公司整体盈利能力较强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京开运联合信息技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>-</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>-</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>暂无。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京开运联合信息技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>563.20 </enterprise:资产总额>
+    <enterprise:所有者权益>364.25 </enterprise:所有者权益>
+    <enterprise:负债总额>198.43 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>344.80 </enterprise:营业收入>
+    <enterprise:EBITDA>23.42 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京开运联合信息技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>705.91 </enterprise:资产总额>
+    <enterprise:所有者权益>432.32 </enterprise:所有者权益>
+    <enterprise:负债总额>275.93 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>525.11 </enterprise:营业收入>
+    <enterprise:EBITDA>95.70 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京开运联合信息技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>847.73 </enterprise:资产总额>
+    <enterprise:所有者权益>605.01 </enterprise:所有者权益>
+    <enterprise:负债总额>232.63 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1187.87 </enterprise:营业收入>
+    <enterprise:EBITDA>218.40 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京开运联合信息技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.61 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.96 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京开运联合信息技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.83 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.38 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京开运联合信息技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.44 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.46 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京开运联合信息技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>40.00 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京开运联合信息技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>56.76 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京开运联合信息技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>109.37 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京开运联合信息技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>140.39 </enterprise:流动比率>
+    <enterprise:速动比率>140.39 </enterprise:速动比率>
+    <enterprise:资产负债率>35.23 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>10.50 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京开运联合信息技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>154.35 </enterprise:流动比率>
+    <enterprise:速动比率>154.35 </enterprise:速动比率>
+    <enterprise:资产负债率>39.09 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>9.04 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京开运联合信息技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>364.41 </enterprise:流动比率>
+    <enterprise:速动比率>364.41 </enterprise:速动比率>
+    <enterprise:资产负债率>27.44 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>104.50 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京开运联合信息技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>42.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>72.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>29.17 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京开运联合信息技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>51.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>97.03 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>25.76 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>52.30 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京开运联合信息技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>58.09 </enterprise:毛利率>
+    <enterprise:成本费用利润率>138.03 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>126.21 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京开运联合信息技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>0.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>86.97 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>152.08 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>39.53 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>278.58 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>2.31 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2.31 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>280.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>284.62 </enterprise:非流动资产合计>
+    <enterprise:资产总计>563.20 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京开运联合信息技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>0.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>108.14 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>161.82 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>155.95 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>425.91 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>280.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>280.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>705.91 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京开运联合信息技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>0.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>577.95 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>9.60 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>260.18 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>847.73 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>847.73 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京开运联合信息技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>150.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3.00 </enterprise:应付账款>
+    <enterprise:预收款项>15.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>26.99 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>19.17 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>61.77 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>275.93 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>275.93 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>6.81 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>25.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>432.32 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>432.32 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>708.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京开运联合信息技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>150.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3.00 </enterprise:应付账款>
+    <enterprise:预收款项>15.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>26.99 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>19.17 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>61.77 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>275.93 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>275.93 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>6.81 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>25.51 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>432.32 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>432.32 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>708.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京开运联合信息技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>105.78 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>42.29 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>84.56 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>232.63 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>232.63 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>67.79 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>24.08 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>113.14 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>605.01 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>605.01 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>837.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京开运联合信息技术股份有限公司2013年利润表">
+    <enterprise:营业收入>344.80 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>197.04 </enterprise:营业成本>
+    <enterprise:主营业务成本>197.04 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.03 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>100.12 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>2.38 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>144.35 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.02 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>144.33 </enterprise:利润总额>
+    <enterprise:所得税费用>-1.37 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>145.70 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>145.70 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京开运联合信息技术股份有限公司2014年利润表">
+    <enterprise:营业收入>525.11 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>254.61 </enterprise:营业成本>
+    <enterprise:主营业务成本>254.61 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.29 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>159.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>10.61 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>258.60 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>258.60 </enterprise:利润总额>
+    <enterprise:所得税费用>13.23 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>245.37 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>245.37 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京开运联合信息技术股份有限公司2015年利润表">
+    <enterprise:营业收入>1187.87 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>497.79 </enterprise:营业成本>
+    <enterprise:主营业务成本>497.79 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.45 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>448.44 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-0.20 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>688.83 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>688.83 </enterprise:利润总额>
+    <enterprise:所得税费用>27.14 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>661.69 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>661.69 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京开运联合信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1124.32 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1124.32 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京开运联合信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京开运联合信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京开运联合信息技术股份有限公司被投资单位：北京云智动力医疗科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京云智动力医疗科技有限公司</enterprise:名称>
+	<enterprise:单位代码>-</enterprise:单位代码>
+	<enterprise:被投资金额>技术开发万元</enterprise:被投资金额>
+	<enterprise:股权比率>偶然%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京开运联合信息技术股份有限公司股东：亢瑞卿 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>亢瑞卿 </enterprise:股东名称>
+	 <enterprise:货币>399.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>99.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京开运联合信息技术股份有限公司股东：刁秀涛 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刁秀涛 </enterprise:股东名称>
+	 <enterprise:货币>0.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京开运联合信息技术股份有限公司的商标信息：开运联合 CREATUNION">
+	<enterprise:有申请日期>16-4-13</enterprise:有申请日期>
+	<enterprise:有商标名称>开运联合 CREATUNION</enterprise:有商标名称>
+	<enterprise:有注册号>19619675</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京开运联合信息技术股份有限公司的商标信息：开运联合 CREATUNION">
+	<enterprise:有申请日期>16-4-13</enterprise:有申请日期>
+	<enterprise:有商标名称>开运联合 CREATUNION</enterprise:有商标名称>
+	<enterprise:有注册号>19619505</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京开运联合信息技术股份有限公司的专利信息：操作系统登录装置和方法">
+	<enterprise:有申请公布日>15-3-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>操作系统登录装置和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410648507.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104408384A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：开运房产金融服务平台">
+	<enterprise:有批准日期>17-4-10</enterprise:有批准日期>
+	<enterprise:有软件全称>开运房产金融服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>房产金融</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR108255</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：班组日志管理系统">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>班组日志管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>班组日志</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR306459</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：数课在线教育系统平台">
+	<enterprise:有批准日期>16-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>数课在线教育系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称>BDA</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR284575</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：智能移动办公系统">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>智能移动办公系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR283766</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：专业知识管理平台">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>专业知识管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR306268</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：智能预警移动平台">
+	<enterprise:有批准日期>16-10-8</enterprise:有批准日期>
+	<enterprise:有软件全称>智能预警移动平台</enterprise:有软件全称>
+	<enterprise:有软件简称>AQYJ</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR283763</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：城铁督导平台">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>城铁督导平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR306252</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：关键性指标分析统计系统平台">
+	<enterprise:有批准日期>16-8-3</enterprise:有批准日期>
+	<enterprise:有软件全称>关键性指标分析统计系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KPI</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR204454</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：履约数据传输状态系统平台">
+	<enterprise:有批准日期>16-8-3</enterprise:有批准日期>
+	<enterprise:有软件全称>履约数据传输状态系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称>IMSStatus</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR203894</enterprise:有登记号>
+	<enterprise:有分类号>30200-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：地震数据分析系统">
+	<enterprise:有批准日期>16-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>地震数据分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR192201</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：设备运行状态监控系统">
+	<enterprise:有批准日期>16-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>设备运行状态监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR191834</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：数字化安全生产预警系统">
+	<enterprise:有批准日期>16-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>数字化安全生产预警系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR285236</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：医疗微信公众平台">
+	<enterprise:有批准日期>17-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>医疗微信公众平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR013534</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：科研管理系统">
+	<enterprise:有批准日期>16-10-25</enterprise:有批准日期>
+	<enterprise:有软件全称>科研管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR306526</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：车载无线通信设备运用管理系统">
+	<enterprise:有批准日期>16-9-30</enterprise:有批准日期>
+	<enterprise:有软件全称>车载无线通信设备运用管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR282028</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：线上药房平台">
+	<enterprise:有批准日期>16-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>线上药房平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR285230</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：基于大数据的人工智能分析系统">
+	<enterprise:有批准日期>15-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>基于大数据的人工智能分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MBD</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR245258</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：大数据处理分析框架系统">
+	<enterprise:有批准日期>15-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>大数据处理分析框架系统</enterprise:有软件全称>
+	<enterprise:有软件简称>DAF</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR244763</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：面向系统软件的逆向分析系统">
+	<enterprise:有批准日期>15-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>面向系统软件的逆向分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MUA</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR244743</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：面向多个移动终端对象的APP逆向分析软件平台">
+	<enterprise:有批准日期>14-8-5</enterprise:有批准日期>
+	<enterprise:有软件全称>面向多个移动终端对象的APP逆向分析软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatUltrator</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR113629</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：高速铁路电气化设备智能维护系统平台">
+	<enterprise:有批准日期>14-7-31</enterprise:有批准日期>
+	<enterprise:有软件全称>高速铁路电气化设备智能维护系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatEMS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR109726</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：工业领域移动终端智能系统">
+	<enterprise:有批准日期>14-8-5</enterprise:有批准日期>
+	<enterprise:有软件全称>工业领域移动终端智能系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatMOS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR113627</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：泥豆P2P视频影音播放器软件">
+	<enterprise:有批准日期>14-8-5</enterprise:有批准日期>
+	<enterprise:有软件全称>泥豆P2P视频影音播放器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>NoodlePlayer</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR113650</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：高速铁路无人监护下作业系统平台">
+	<enterprise:有批准日期>14-8-5</enterprise:有批准日期>
+	<enterprise:有软件全称>高速铁路无人监护下作业系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatNWS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR113652</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：CreatDebugger仿真调试系统">
+	<enterprise:有批准日期>13-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>CreatDebugger仿真调试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatDebugger</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR055602</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：嵌入式仿真调试系统">
+	<enterprise:有批准日期>14-6-24</enterprise:有批准日期>
+	<enterprise:有软件全称>嵌入式仿真调试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatDebugger</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR084654</enterprise:有登记号>
+	<enterprise:有分类号>30000-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：通用数据监测与故障诊断系统">
+	<enterprise:有批准日期>12-8-9</enterprise:有批准日期>
+	<enterprise:有软件全称>通用数据监测与故障诊断系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR072426</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：全息多媒体交互式产品体验中心平台软件">
+	<enterprise:有批准日期>12-9-26</enterprise:有批准日期>
+	<enterprise:有软件全称>全息多媒体交互式产品体验中心平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>全息交互式产品体验中心</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR091692</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：高铁故障诊断系统">
+	<enterprise:有批准日期>12-9-6</enterprise:有批准日期>
+	<enterprise:有软件全称>高铁故障诊断系统</enterprise:有软件全称>
+	<enterprise:有软件简称>RFD</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR084357</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：CreatEPM项目管理系统">
+	<enterprise:有批准日期>12-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>CreatEPM项目管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CreatEPM</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR069761</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：creatRun实时性工业数据库系统">
+	<enterprise:有批准日期>12-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>creatRun实时性工业数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR118587</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京开运联合信息技术股份有限公司的软件著作：非生产物料采购管理系统">
+	<enterprise:有批准日期>12-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>非生产物料采购管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR115427</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术股份有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：开运联合勤农耕">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>开运联合勤农耕</enterprise:有网站全称>
+	<enterprise:有网站首页>www.qinnonggeng.com</enterprise:有网站首页>
+	<enterprise:有域名>qinnonggeng.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.cn</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合培训系统">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合培训系统</enterprise:有网站全称>
+	<enterprise:有网站首页>www.chinadqh.com</enterprise:有网站首页>
+	<enterprise:有域名>chinadqh.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合公司软件网站">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合公司软件网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.softgongchang.com</enterprise:有网站首页>
+	<enterprise:有域名>softgongchang.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.010soft.net</enterprise:有网站首页>
+	<enterprise:有域名>010soft.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合公司大数据网站">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合公司大数据网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.softbigdata.com</enterprise:有网站首页>
+	<enterprise:有域名>softbigdata.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合公司大数据系统">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合公司大数据系统</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatdata.com</enterprise:有网站首页>
+	<enterprise:有域名>creatdata.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.com</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术股份有限公司">
+	<enterprise:有审核时间>17-9-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.cn</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17051613号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.010soft.net</enterprise:有网站首页>
+	<enterprise:有域名>010soft.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合公司大数据网站">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合公司大数据网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.softbigdata.com</enterprise:有网站首页>
+	<enterprise:有域名>softbigdata.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合公司大数据系统">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合公司大数据系统</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatdata.com</enterprise:有网站首页>
+	<enterprise:有域名>creatdata.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术有限公司">
+	<enterprise:有审核时间>17-7-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.com</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11027751号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京开运联合信息技术股份有限公司的网站备案：北京开运联合信息技术股份有限公司">
+	<enterprise:有审核时间>17-9-8</enterprise:有审核时间>
+	<enterprise:有网站全称>北京开运联合信息技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.creatunion.cn</enterprise:有网站首页>
+	<enterprise:有域名>creatunion.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17051613号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京开运联合信息技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京开运联合信息技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司收入持续增长，发展态势较好</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京开运联合信息技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>航空航天、船舶、大型基础设施领域的企事业单位以及其他有数据需求的单位</enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京开运联合信息技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>公司加大市场拓展且在2016年度开发了新的客户，同时加大了产品的研发力度</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京开运联合信息技术股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京开运联合信息技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>  软件行业市场需求旺盛，长期向好。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京开运联合信息技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京开运联合信息技术股份有限公司的企业法人代表：亢瑞卿">
+	<enterprise:名称>亢瑞卿</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>--</enterprise:民族>
+	<enterprise:年龄>38</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1978.05.24</enterprise:出生年月>
+	<enterprise:身份证号码>620202197805240636</enterprise:身份证号码>
+	<enterprise:政治面貌>-</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>-</enterprise:联系电话>
+	<enterprise:传真>-</enterprise:传真>
+	<enterprise:E-mail>-</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京开运联合信息技术股份有限公司的下属单位：-">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>-</enterprise:名称>
+	<enterprise:主要职能>-</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>-</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京开运联合信息技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>809.40万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京开运联合信息技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京开运联合信息技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京开运联合信息技术股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2800</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京开运联合信息技术股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>800</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京开运联合信息技术股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京开运联合信息技术股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京开运联合信息技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>10</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>3</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京开运联合信息技术股份有限公司的专利数量">
+	<enterprise:专利总计>1</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>1</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京开运联合信息技术股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京开运联合信息技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

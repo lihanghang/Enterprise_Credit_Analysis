@@ -1,0 +1,4029 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京汇冠新技术股份有限公司的企业概况">
+    <enterprise:有名称>北京汇冠新技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110061241018010101076</enterprise:有中征码>
+    <enterprise:有基本账户开户行>支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003-09-03</enterprise:有注册登记日期>
+    <enterprise:有注册资本>22,050.72万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>计算机及电子设备、计算机软件技术开发、技术咨询、技术转让、技术服务；销售通信设备、计算机、软件及辅助设备；计算机系统服务；货物进出口、技术进出口、代理进出口；资产管理；项目投资；投资管理；生产计算机及电子设备、通信设备（不在北京地区开展经营活动）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）计算机及电子设备、计算机软件技术开发、技术咨询、技术转让、技术服务；销售通信设备、计算机、软件及辅助设备；计算机系统服务；货物进出口、技术进出口、代理进出口；资产管理；项目投资；投资管理；生产计算机及电子设备、通信设备（不在北京地区开展经营活动）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>信息交互</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区长春桥路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区长春桥路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100083</enterprise:有邮政编码>
+    <enterprise:有联系人>高杨</enterprise:有联系人>
+    <enterprise:有联系电话>13811873992</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>邮政编码</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>公司于2003年9月在北京市工商行政管理局
+注册成立，前身为“北京汇冠新技术有限公司”
+，初始注册资本为800.00万元，经多次增资及
+股权变更后，截至2015年末，公司注册资本为
+22,938.00万元1，法人代表为解浩然。2011年
+12月在深圳证券交易所创业板上市，股票简称
+汇冠股份（股票代码：300282）。
+截至2016年6月末，公司最新前十大股东持
+股情况如下表所示：
+表 1：公司前十大股东             单位：股
+持股
+股东名称 股东性质 持股数量
+比例
+北京和君商学在
+线科技股份有限 法人 52,951,860 24.01%
+公司
+李童欣 自然人 8,079,560 3.66%
+黄晋晋 自然人 7,926,040 3.59%
+富国改革动力混
+合型证券投资基 法人 4,463,915 2.02%
+金
+刘昕 自然人 2,684,760 1.22%
+融通互联网传媒
+灵活配置混合型 法人 2,441,659 1.11%
+证券投资基金
+国联安优选行业
+混合型证券投资 法人 2,425,097 1.10%
+基金
+朱元坤 自然人 2,283,459 1.04%
+叶新林 自然人 2,003,080 0.91%
+富国城镇发展股
+法人 2,000,000 0.91%
+12016年 8月，公司注册资本变更为
+22,050.70万元
+票型证券投资基
+金
+合计 - 87,259,430 39.57%
+资料来源：公司提供，中国诚信整理
+公司经营范围为：“生产计算机及电子设
+备、通信设备；计算机及电子设备、计算机软
+件技术开发、技术咨询、技术转让、技术服务；
+销售通信设备、计算机、软件及辅助设备；计
+算机系统服务；货物进出口、技术进出口、代
+理进出口；资产管理；项目投资；投资管理。
+（企业依法自主选择经营项目，开展经营活动；
+依法须经批准的项目，经相关部门批准后依批
+准的内容开展经营活动；不得从事本市产业政
+策禁止和限制类项目的经营活动。）”
+公司以信息交互和精密制造为主营业务，
+信息交互业务主要包括红外触摸屏、光学触摸
+屏、交互式电子白板及配套智能教学软件；精
+密制造业务主要包括手机、消费类电子等产品
+的精密结构件的研发、生产和销售，以及航空
+航天零部件精加工业务。
+截至 2016年 06月末，公司共有 6家控股
+子公司。具体情况如下表所示：
+表 2：公司控股公司情况 
+子公司名称 持股比例
+天津汇冠触摸技术有限公司 100.00
+北京科加触控技术有限公司 100.00
+台湾汇冠触控科技有限公司 100.00
+北京汇冠触摸技术有限公司 100.00
+广州华欣电子科技有限公司 70.60
+深圳市旺鑫精密工业有限公司 92.00
+资料来源：公司提供，中国诚信整理
+截至 2015年 12月 31日，公司合并口径下
+的资产总额为 217,286.07万元，负债为
+88,287.57万元，所有者权益合计为
+128,998.50万元。2015 年度，公司实现营业收
+入 163,573.07万元，利润总额为-6,517.46 万
+元，净利润-8,460.13 万元。
+截至 2016年 06月 30日，公司的资产总额
+为 219,093.41万元，负债为 90,504.98万元，
+所有者权益合计为 128,588.43万元。2016 年
+01至 06月，公司实现营业收入 65,835.10万元，
+利润总额为 6,616.80万元，净利润
+5,475.96万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京汇冠新技术股份有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理人员简历介绍如下：
+公司法定代表人、董事长解浩然先生，
+1976年生，中国国籍，无永久境外居留权，管
+理学博士。2005年-2015年任和君咨询集团合伙
+人；2012年9月至今，担任广东潮宏基实业股份
+有限公司独立董事；2015年9月至今，任汇冠股
+份董事长。
+公司财务负责人张辉先生，1984年生，中
+国国籍，无境外永久居留权，硕士学位。
+2009年7月至2011年7月，任中信建投证券股份
+有限公司投资银行部经理；2011年8月至2014年
+7月，任渤海产业投资基金管理有限公司经理、
+副总裁；2014年9月至2015年3月，任方正证券
+股份有限公司投资银行部高级副总裁兼创新业
+务部副总经理；2015年9月至今，任汇冠股份董
+事、副总经理、财务总监、董事会秘书。
+公司技术负责人管健先生，1975年生，中
+国国籍，无永久境外居留权，博士学位。2008 
+年至2011 年就职于微软公司哥本哈根开发中心，
+任研发工程师、资深软件开发主管；2011 年至
+2013 年2 月就职于微软公司总部；2013年4月
+至今，任汇冠股份副总经理、研发负责人。
+综合来看，公司人员队伍整体素质较好，
+专业人员学历、综合素质较高，能配合公司提
+供各项技术服务，对团队的沟通及合作效率的
+提高起到支持作用。公司管理层学历较高，均
+具备多年管理经验和丰富的社会经验，拥有一
+定相关专业背景。公司管理者的素质能够满足
+现有业务的开发与日常管理需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司总部迁至中关村软件园自建办公大楼
+汇冠大厦，位于北京市海淀区长春桥路11号万
+柳亿城大厦3号楼1707室。中关村软件园是中关
+村国家自主创新示范区中的新一代信息技术产
+业高端专业化园区，公司入驻中关村软件园，
+有助于公司充分借助园区协同效应，打造创业
+创新孵化平台。公司自成立以来，逐步将原有
+技术成果转化为生产力，并已经取得显著效果。
+公司作为拥有多项自主品牌研发的企业，
+目前已获得的资质如下表所示：
+表 3：公司部分资质、荣誉情况
+资质名称 等级
+高新技术企业 --
+北京市自主创新产品证书 --
+荣誉名称 获奖时间
+德勤高科技、高成长亚太区 500强 2011年
+中关村战略性新兴产业高成长 50强”企业 2010年
+第五届全国电教产品“电子白板、展示、书写
+2009年
+设备十佳品牌”
+资料来源：公司提供，中国诚信整理</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京汇冠新技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司主要从事信息交互相关产品的研发、
+生产和销售以及精密制造业务。
+信息交互业务主要包括红外触摸屏、光学
+触摸屏、交互式电子白板及配套智能教学软件。
+上述产品已在金融、交通、零售、娱乐、电信、
+医疗、工控等领域，特别是智能教育装备领域
+得到了广泛应用。
+公司在红外及光学影像触摸技术研发方面
+具有行业领先地位。子公司广州华欣生产的大
+尺寸触摸屏已经大量应用于智能教育装备领域，
+客户主要包括希沃、创维、长虹、海信、创凯
+等。根据AVC（奥维云网）数据，上述品牌无论
+是销量还是销售额均位列交互平板行业前列。
+除此之外，公司生产的交互式电子白板亦主要
+应用于教育行业。整体来讲，公司信息交互产
+品已经广泛应用于教育、金融、交通、零售、
+娱乐、电信、医疗、工控、公共信息、广播电
+视等众多行业，无明显的周期性。
+精密制造业务主要包括旺鑫精密所从事的
+手机、消费类电子等产品的精密结构件的研发、
+生产和销售。旺鑫精密坚持精品战略、加大研
+发投入和市场拓展、积极进行开源节流等，盈
+利能力良好。旺鑫精密主要下游客户包括华为、
+HTC、联想、摩托罗拉、华贝、中诺、闻泰、华
+勤、龙旗等市场出货量排名前列的智能手机品
+牌/ODM厂商，处于智能终端精密结构件行业主
+要竞争者行列。
+生产及原材料采购情况
+公司主要从事信息交互行业红外触摸屏的
+开发和销售，公司的采购和生产主要委托汇冠
+股份集团下另一子公司深圳旺鑫精密工业完成。
+公司原材料采购主要包括PCB、LED灯和玻璃等，
+深圳旺鑫精密工业根据生产需要自行进行采购，
+采购周期约为一周，结算方式主要是电汇。截
+至2015年末，公司前五大供应商情况如下表所
+示：
+表 5：2015 年度公司前五大供应商情况
+采购金额 占采购成本比
+供应商名称
+（万元） （%）
+博京电子 509.79 5.20
+信利康 371.17 3.79
+新吴光电 306.58 3.13
+京昌喜富 267.50 2.73
+赫晟光学 217.80 2.22
+合计 1,672.85 16.73
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大供应商采购金额合
+计占总采购成本比重为16.73%，集中度适中。
+公司在供应商的数量控制上较为合理，公司在
+原材料采购上具有一定的议价能力，公司生产
+经营受到单一客户变动的影响较小。
+产品销售情况
+公司产品以代理商和直营大客户销售模式
+为主。代理商主要进行查询机、快递柜等标准
+化产品的销售；直营大客户如日立金融等销售
+各类电子配件。公司的结算方式分为两种：一
+种是现款，占总销售90%；另一种是针对大客户
+有30至45天账期，占总销售额10%。
+截至2015年末，公司前五大客户销售收入
+情况如下表所示：
+表 6：2015 年度公司前五大客户销售情况       
+销售收入 占营业收入
+客户名称
+（万元） 比重（%）
+iBase 925.77 24.22
+TES 477.47 12.49
+北京金雀未来科技 287.89 7.53
+QISDA 253.22 6.63
+新雷欧电子 204.00 5.34
+合计 2,148.34 56.21
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大客户销售收入占主
+营业务收入比重为56.21%，集中度较高。公司
+的销售客户略显单一，单一客户的需求情况变
+动对公司的营业收入影响较大，同时公司在产
+品定价上议价能力较弱。
+综合来看，从营业收入来看，公司经营较
+为稳定，业务规模逐年增加。公司与上下游企
+业的合作关系稳定且良好，为公司的可持续经
+营奠定了基础。公司在原材料采购上集中度适
+中，下游销售客户集中度较高，公司在上游客
+户数量上控制较好，在原材料采购上具有一定
+的议价能力，在产品销售价格上议价能力相对
+较弱。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>截至2015年末，公司共有员工70人。按学
+历划分，其中本科及以上学历者57人，占员工
+总数的比例为81.43%，本科学历以下者13人，
+占员工总数的比例为18.57%；按年龄划分，
+25岁以下员工5人，25至45岁员工61人，45岁员
+工4人，占员工总数的比例分别为7.14%、87.14%和
+5.71%。从职能上看，销售人员7人，管理人员
+17人，技术人员22人，占员工总数比例为10.00%、
+24.29%和31.43%。
+公司按照《公司法》和公司章程的规定，
+并结合公司的实际情况，建立了由股东会、董
+事会、监事会和总经理领导的高级管理层组成
+的治理架构，形成了决策机构、监督机构和管
+理层之间的协调制衡机制。股东会由全体股东
+组成，是公司的权力机构；公司董事会成员7人，
+其中董事长1人，副董事长2人，是公司的经营
+决策机构；公司监事会成员3人，其中监事会主
+席1人，负责监督董事会的决策行为及其落实；
+总经理和财务负责人均有董事会任免，主要负
+责公司的日常生产经营管理工作和财务工作。
+在多年经营发展中，公司逐步形成了较为
+完善的一系列管理制度；同时为满足日常经营
+要求，公司设立了相应的部门。公司详细的组
+织结构图详见附件一。
+总之，经过多年的发展，公司建立了较为
+完善的组织结构。公司的治理结构体现了各权
+力层次之间相互制衡的公司治理模式，有利于
+提高公司决策的科学性，符合公司目前发展阶
+段的需要。公司部门设置较为完整、合理，且
+各部门协调性较好，能够满足日常经营的要求。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>2016年是进入教育信息化十年发展规划中
+后期及十三五规划第一年，政策端利好仍是促
+进IWB行业发展的主要动力，公司将继续加强
+研发投入，不断提升现有产品性能，推出交互
+体验更好、性价比更优的新一代产品，从技术
+上引领市场发展趋势。
+同时，公司将依托已有的技术储备和研发
+实力，从生产触摸屏逐步转向提供极致的信息
+交互解决方案，以更好地满足客户的需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京汇冠新技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至2015年末，公司资产情况如下表所示：
+表 7：公司资产情况          单位：万元、%
+数据/指标 2013年 2014年 2015年
+货币资金 12,889.65 22,269.00 33,227.67 
+应收票据 42.00 17,019.37 10,786.26
+应收账款 3,542.37 35,210.11 37,616.73 
+存货 4,445.50 15,468.96 19,013.73 
+预付账款 11.06 245.16 177.66 
+流动资产合
+22,416.69 91,109.99 108,479.61 
+计
+固定资产净  978.47  19,256.78  31,381.56 
+值
+资产总计 32,442.39 207,071.35 217,286.07 
+资产总计增
+2.36 538.27 4.93 
+长率
+资料来源：公司提供，中国诚信整理
+伴随经营规模快速扩张、固定资产投资加
+大，公司总资产规模呈逐年增长态势。2013年
+至2015年，公司总资产增长率分别为2.36%、
+538.27%和4.93 %。从资产结构来看，公司流动
+资产占比有所下降，固定资产占比明显增加，
+流动资产占比分别为69.10%、44.00%和
+49.92%。
+公司流动资产主要由货币资金、应收票据、
+应收账款、存货构成。截至2015年末，公司货
+币资金较上年增加49.21%，主要是公司银行存
+款增加所致；公司应收票据较年初下降
+36.62%，主要是因为公司与下游企业采用现付
+结算方式增加所致。公司应收账款较年初增长
+6.84%，受公司业务规模扩张的影响，公司应收
+账款规模有所增加。公司应收账款账龄在1年以
+内的占比97.56%，1年以上的占2.44%，应收账
+款主要由与下游客户的销售货款构成。截至
+2015年末，公司的前五大客户的应收账款明细
+如下表所示：
+表 8：公司前五大客户应收账款明细
+单位：万元、%
+客户名称 金额 占总额比重
+华为终端有限公司  6,684.51 16.76
+通正电子科技（深圳）有限公
+ 6,319.03 15.84
+司
+宏达国际电子股份有限公司
+ 5,778.09 14.48
+（HTC)
+东莞华贝电子科技有限公司  2,338.72 5.86
+东莞宇龙通信科技有限公司  1,601.86 4.02
+合计 22,722.21 56.96
+资料来源：公司提供，中国诚信整理
+2015年末，公司存货为19,013.73万元，主
+要由原材料、库存商品、周转材料、在产品和
+委托加工物资构成。受公司业务规模扩张的影
+响，公司存货规模增幅较大。公司的预付账款
+为177.66万元，主要为公司与上游供应商的货
+款或项目款，账龄在1年以内的占比97.87%，
+1年以上的占比2.13%。
+2015年末，公司非流动资产主要由长期股
+权投资、投资性房地产、固定资产、无形资产
+和商誉构成。
+2015年末，公司长期股权投资为
+4,251.50万元，构成为对联营企业成都天科精
+密制造有限责任公司的投资。2015年末，公司
+投资性房地产为3,183.66万元，较年初增加
+69.93%，主要原因系公司将汇冠大厦部分面积
+计入投资性房地产，并用于长期出租赚取租金
+所致。2015年末，公司固定资产较年初增长
+62.96%，增加幅度较大，主要是因为公司机器
+设备、电子设备等增加所致。
+2015年末，公司的无形资产为7,283.93万
+元，构成主要为公司的土地使用权、专利技术
+等。2015年末，公司的商誉为56,807.34万元，
+构成为非同一控制下企业合并广州华欣电子科
+技有限公司和深圳市旺鑫精密工业有限公司形
+成的商誉。
+综合来看，伴随业务规模的扩大，公司总
+资产规模快速增长；公司固定资产规模大幅增
+加，占比与流动资产规模相当。同期公司应收
+票据、应收账款和存货规模较高，在一定程度
+上影响资产流动性。
+运营能力
+公司2013至2015年度运营指标情况，如下
+表所示：
+表 9：公司运营指标情况            单位：
+% 
+数据/指标 2013年 2014年 2015年
+应收账款周转率 683.79 425.15 449.21 
+存货周转率 383.31 680.81 762.00 
+流动资产周转率 108.06 145.12 163.91 
+总资产周转率 37.77 68.79 77.09 
+资料来源：公司提供，中国诚信整理
+2013年至2015年，受应收账款波动增加的
+影响，公司的应收账款周转率也呈先减后增的
+变化态势；公司存货周转率逐年上升，主要是
+由于公司存货规模快速增加，且增幅低于营业
+成本增速。近年来公司营业收入大幅增长，且
+高于流动资产增幅，所以流动资产周转率逐年
+提升。公司总资产周转率逐年增加，主要是因
+为营业收入增幅大于总资产增幅相所致。
+总体来看，近三年来公司应收账款周转率
+和存货周转率指标处于行业良好水平，公司运
+营效率有所提高。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013至2015年公司主要偿债能力指标如下
+表所示：
+表 16：公司偿债能力指标情况          
+数据/指标 2013年 2014年 2015年
+流动比率（%） 559.00 143.52 131.80 
+速动比率（%） 448.14 119.15 108.70 
+现金流动负债比率
+-31.74 3.04 22.77 
+（%）
+现金负债总额比率
+-31.73 2.79 21.23 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年末，公司流动比率和速动比
+率均呈逐年下降的变化态势。从数值上看，两
+者处于行业较低水平，公司流动资产对流动负
+债保障情况较弱。
+综上所述，公司业务规模逐年增加，公司
+总资产规模和总负债规模逐年增长，债产负债
+率较小，资产负债结构良好。公司应收票据和
+存货规模较大，一定程度影响了公司资产的流
+动性；公司营业收入水平较高，但净利润为负
+数。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司2013至2015年末偿债能力指标，如下
+表所示：
+表 10：公司负债情况          单位：万元、%
+数据/指标 2013年 2014年 2015年
+流动负债总额 4,010.15 63,482.62 82,308.18 
+负债总额 4,011.59 69,048.05 88,287.57 
+资产负债率 12.37 33.35 40.63 
+资本化比率 0.47 16.62 21.90 
+资料来源：公司提供，中国诚信整理
+近年来，随着业务规模的扩大，公司应付
+账款规模大幅增加，公司负债规模呈逐年增长
+态势，且公司负债以流动负债为主，近三年来
+公司流动负债占比分别为99.96%、91.94%和
+93.23%。同期，公司资产负债率呈逐年增加的
+变动态势，但整体资产负债结构良好。
+公司流动负债主要由短期借款、应付票据、
+应付账款构成。2015年末公司短期借款为
+12,953.31万元，构成情况如下表所示：
+表 11：2015 年末公司短期借款情况
+单位：万元
+借款
+借款人 金额
+类型
+中国建设银行股份有限公司深
+3,500.00 抵押借款
+圳上步支行
+花旗银行（中国）有限公司深
+4,220.93 质押借款
+圳分行
+中国银行深圳平湖支行 5,000.00 质押借款
+中国农业银行股份有限公司深
+232.38 质押借款
+圳华南支行
+合计 12,953.31 --
+资料来源：公司提供，中国诚信整理
+2015年末，公司应付票据为18,209.46万元，
+构成全部为银行承兑汇票；同期，公司应付账
+款为41,763.62万元，相较于年初增加27.26%，
+主要是因为公司应付供应商款项增加所致，账
+龄超过1年的重要应付账款情况如下：
+表 12：账龄超 1年的重要应付账款明细
+单位：万元、%
+客户名称 金额 原因
+东芝机械(香港)有限公司 892.71 设备未结算
+东莞市新力光自动化机电有
+144.00 设备未结算
+限公司
+现代精密塑胶模具（深圳）
+56.49 材料未结算
+有限公司
+东莞市凤岗立拓塑胶制品厂 47.47 材料未结算
+深圳市三极天线技术有限公
+43.13 材料未结算
+司
+合计 1,183.80 -
+资料来源：公司提供，中国诚信整理</enterprise:财务弹性>
+    <enterprise:盈利能力>公司2013至2015年度盈利指标情况如下表
+所示：
+表 13：公司盈利指标情况       单位：万元
+数据/指标 2013年 2014年 2015年
+营业收入 12,111.25 82,377.28 163,573.07 
+毛利润 3,591.21 14,587.24 32,193.24
+利润总额 -706.88 3,241.63 -6,517.46 
+净利润 -885.01 2,185.40 -8,460.13 
+毛利率（%） 29.65 17.71 19.68 
+净利润率（%） -7.31 2.65 -5.17 
+净资产收益率
+-1.53 2.63 -6.34 
+（%）
+成本费用利润率
+-5.26 4.13 -4.37 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，受信息交互应用技术的
+不断发展，市场对公司产品的需求逐年提高的
+影响，公司主营业务规模持续扩大，营业收入
+逐年增长，分别为12,111.25万元、
+82,377.28万元和163,573.07万元；公司毛利润
+分别为3,591.21万元、14,587.24万元和
+32,193.24万元，呈逐年增长态势；同期，公司
+毛利率分别为29.65%、17.71%和19.68%。公司
+依靠在信息交互技术上的优势，成功研制出多
+项专利技术和管理软件，成功地扩大了市场份
+额，并同其客户建立了长期战略合作关系。
+公司2013至2015年度期间费用情况，如下
+表所示：
+表 14：公司期间费用情况     单位：万元、%
+数据/指标 2013年 2014年 2015年
+营业费用 1,418.09 2,634.61 3,931.02 
+管理费用 3,801.39 7,874.84 13,390.53 
+财务费用 -312.01 194.63 311.78 
+期间费用合计 4,907.46 10,704.08 17,633.33 
+期间费用增长
+- 118.12 64.73 
+率（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，公司期间费用由营业费
+用、管理费用和财务费用构成，其中以管理费
+用为主。受公司业务扩张的影响，公司期间费
+用逐年增加。同期，公司三费合计占营业收入
+比重分别为40.52%、12.99%和10.78%，呈逐年
+上升趋势。
+2013至2015年度，公司利润总额分别为-
+706.88万元、3,241.63万元和-6,517.46万元，
+净利润分别为-885.01万元、2,185.40万元和 -
+8,460.13万元。2015年度，公司计提坏账准备、
+存货跌价准备和商誉减值准备分别为531.28万
+元、926.82万元和19,340.53万元，公司净利润
+值呈较大规模负数。
+综合来看，近年来，受市场对红外线触摸
+屏等产品需求增长的影响，公司的业务规模逐
+年增加，但公司期间费用规模较大，且计提大
+额资产减值损失，公司盈利能力有待加强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京汇冠新技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>2013至2015年，经查未发现公司不良贷款
+记录，公司合同履约记录良好，无对外担保记
+录。
+截至2016年三季度末，经查公司无不良诉
+讼案件、无违反国家法律法规的经营行为、无
+工商、环保、质监等行政处罚记录、无不良纳
+税记录，社会声誉良好。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>随着国内各经济领域对触摸屏尤其是具有
+抗电磁等优点的红外触摸屏的需求快速增长、
+适合不同场合的触摸查询机的推出，红外触摸
+屏行业面临较好的发展前景，企业面临的政策
+风险和行业风险较小。
+经过多年发展，行业内已形成一批具有规
+模化优势的企业，且集中度不断提高。随着整
+个触摸屏行业专业技术的成熟度提高，市场参
+与者增加，公司可能面临较剧烈的同业竞争。
+但同时公司建立了完善的市场开拓机制，且公
+司生产经营所需要的人力等生产要素价格稳定，
+具有一定的抗风险能力；公司业务结算主要以
+人民币为主，汇率波动对公司影响较小，综合
+以上各方面，公司面临的市场风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司经营情况稳定，经过多年的发展，积
+累了一定的红外触摸屏生产、研发和销售经验；
+公司核心技术较强，人员综合素质较高，公司
+面临的经营管理风险较小。
+公司业务经营初具规模，且运营效率较好，
+资产负债结构良好，面临的财务风险较小。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>暂无。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京汇冠新技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>30302.89 </enterprise:资产总额>
+    <enterprise:所有者权益>28430.80 </enterprise:所有者权益>
+    <enterprise:负债总额>2860.12 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>12111.25 </enterprise:营业收入>
+    <enterprise:EBITDA>-295.92 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京汇冠新技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>100377.32 </enterprise:资产总额>
+    <enterprise:所有者权益>138023.30 </enterprise:所有者权益>
+    <enterprise:负债总额>33479.25 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>82377.28 </enterprise:营业收入>
+    <enterprise:EBITDA>5534.26 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京汇冠新技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>129236.24 </enterprise:资产总额>
+    <enterprise:所有者权益>128998.50 </enterprise:所有者权益>
+    <enterprise:负债总额>55684.22 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>163573.07 </enterprise:营业收入>
+    <enterprise:EBITDA>-1517.08 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京汇冠新技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>37.77 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>683.79 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>383.31 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京汇冠新技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>68.79 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>425.15 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>680.81 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京汇冠新技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>77.09 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>449.21 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>762.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京汇冠新技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-1.59 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-2.49 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京汇冠新技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>2.87 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>2.35 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京汇冠新技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-2.92 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-5.05 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京汇冠新技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>764.69 </enterprise:流动比率>
+    <enterprise:速动比率>609.26 </enterprise:速动比率>
+    <enterprise:资产负债率>9.44 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京汇冠新技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>220.46 </enterprise:流动比率>
+    <enterprise:速动比率>174.25 </enterprise:速动比率>
+    <enterprise:资产负债率>33.35 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京汇冠新技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>162.65 </enterprise:流动比率>
+    <enterprise:速动比率>128.51 </enterprise:速动比率>
+    <enterprise:资产负债率>43.09 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京汇冠新技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>108.06 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-5.26 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>6.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-44.51 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京汇冠新技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>145.12 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>4.13 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.88 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>5.76 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>580.17 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京汇冠新技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>163.91 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-4.37 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.92 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>33.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.13 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>98.57 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京汇冠新技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>12889.65 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3542.37 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>11.06 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>982.45 </enterprise:其他应收款>
+    <enterprise:存货>4445.50 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>21871.03 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>978.47 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7453.39 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>8431.86 </enterprise:非流动资产合计>
+    <enterprise:资产总计>30302.89 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京汇冠新技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>22269.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>35210.11 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>245.16 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>614.85 </enterprise:其他应收款>
+    <enterprise:存货>15468.96 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>73808.08 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>19256.78 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7312.46 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>26569.24 </enterprise:非流动资产合计>
+    <enterprise:资产总计>100377.32 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京汇冠新技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>33227.67 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>37616.73 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>177.66 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>534.96 </enterprise:其他应收款>
+    <enterprise:存货>19013.73 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>90570.75 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>31381.56 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7283.93 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>38665.49 </enterprise:非流动资产合计>
+    <enterprise:资产总计>129236.24 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京汇冠新技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>32816.74 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>662.51 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>33479.25 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>33479.25 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>138023.30 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>171502.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京汇冠新技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>32816.74 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>662.51 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>33479.25 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>33479.25 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>138023.30 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>171502.55 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京汇冠新技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>12953.31 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>41763.62 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>967.29 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>55684.22 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>55684.22 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>128998.50 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>184682.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京汇冠新技术股份有限公司2013年利润表">
+    <enterprise:营业收入>12111.25 </enterprise:营业收入>
+    <enterprise:主营业务收入>12111.25 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>12111.25 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-706.88 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-706.88 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-706.88 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京汇冠新技术股份有限公司2014年利润表">
+    <enterprise:营业收入>82377.28 </enterprise:营业收入>
+    <enterprise:主营业务收入>82377.28 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>4907.46 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>77469.82 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3241.63 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3241.63 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>3241.63 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京汇冠新技术股份有限公司2015年利润表">
+    <enterprise:营业收入>163573.07 </enterprise:营业收入>
+    <enterprise:主营业务收入>163573.07 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>10704.08 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>152868.99 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-6517.46 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-6517.46 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-6517.46 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京汇冠新技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1272.96 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-26706.55 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>26370.54 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1608.97 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京汇冠新技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1926.78 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-26706.55 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>26370.54 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1590.77 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京汇冠新技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>18744.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-19980.90 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>9229.84 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>7993.88 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：北京丹贝投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京丹贝投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>1,712.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>53.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：叶新林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>叶新林 </enterprise:股东名称>
+	 <enterprise:货币>672.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>21.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：刘建军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘建军 </enterprise:股东名称>
+	 <enterprise:货币>624.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>19.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：邹镇中 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>邹镇中 </enterprise:股东名称>
+	 <enterprise:货币>22.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.70%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：吴振宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴振宇 </enterprise:股东名称>
+	 <enterprise:货币>22.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.70%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：张海兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张海兵 </enterprise:股东名称>
+	 <enterprise:货币>16.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：周广道 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周广道 </enterprise:股东名称>
+	 <enterprise:货币>16.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：姜幼苏 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>姜幼苏 </enterprise:股东名称>
+	 <enterprise:货币>16.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：翟利富 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>翟利富 </enterprise:股东名称>
+	 <enterprise:货币>16.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：史林英 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>史林英 </enterprise:股东名称>
+	 <enterprise:货币>16.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：张伟征 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张伟征 </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：唐海波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>唐海波 </enterprise:股东名称>
+	 <enterprise:货币>12.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：代富强 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>代富强 </enterprise:股东名称>
+	 <enterprise:货币>11.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.34%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：李振宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李振宇 </enterprise:股东名称>
+	 <enterprise:货币>10.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.31%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：王小红 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王小红 </enterprise:股东名称>
+	 <enterprise:货币>7.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.22%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：周涵颖 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周涵颖 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.16%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：李小波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李小波 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.16%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京汇冠新技术股份有限公司股东：王晓雪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王晓雪 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.16%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：UNITOUCH">
+	<enterprise:有申请日期>14-4-24</enterprise:有申请日期>
+	<enterprise:有商标名称>UNITOUCH</enterprise:有商标名称>
+	<enterprise:有注册号>14448048</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>排版送达公告(领取商标注册证通知书)</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：TOUCH">
+	<enterprise:有申请日期>13-9-27</enterprise:有申请日期>
+	<enterprise:有商标名称>TOUCH</enterprise:有商标名称>
+	<enterprise:有注册号>13299684</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：RTOUCH">
+	<enterprise:有申请日期>10-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称>RTOUCH</enterprise:有商标名称>
+	<enterprise:有注册号>8280333</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：RTOUCH">
+	<enterprise:有申请日期>10-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称>RTOUCH</enterprise:有商标名称>
+	<enterprise:有注册号>8280332</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：PROEDU">
+	<enterprise:有申请日期>09-10-28</enterprise:有申请日期>
+	<enterprise:有商标名称>PROEDU</enterprise:有商标名称>
+	<enterprise:有注册号>7791840</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：PROEDU">
+	<enterprise:有申请日期>09-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>PROEDU</enterprise:有商标名称>
+	<enterprise:有注册号>7382379</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>08-6-10</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>6774874</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：IRTOUCH SYSTEMS">
+	<enterprise:有申请日期>05-7-5</enterprise:有申请日期>
+	<enterprise:有商标名称>IRTOUCH SYSTEMS</enterprise:有商标名称>
+	<enterprise:有注册号>4759603</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：TOUCH THE FUTURE">
+	<enterprise:有申请日期>04-9-9</enterprise:有申请日期>
+	<enterprise:有商标名称>TOUCH THE FUTURE</enterprise:有商标名称>
+	<enterprise:有注册号>4262134</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京汇冠新技术股份有限公司的商标信息：ALMIGHTYTOUCH">
+	<enterprise:有申请日期>04-1-17</enterprise:有申请日期>
+	<enterprise:有商标名称>ALMIGHTYTOUCH</enterprise:有商标名称>
+	<enterprise:有注册号>3891756</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种LED发射元件及包含该元件的电子装置">
+	<enterprise:有申请公布日>17-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种LED发射元件及包含该元件的电子装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710573356.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107277979A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏">
+	<enterprise:有申请公布日>17-9-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592746.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103019481B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种柔性电路板及其制作方法">
+	<enterprise:有申请公布日>17-8-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种柔性电路板及其制作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410127795.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103917041B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏高精度计算的方法及系统">
+	<enterprise:有申请公布日>17-8-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏高精度计算的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188928.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107045410A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架组件及触摸屏">
+	<enterprise:有申请公布日>17-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架组件及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210366749.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102866741B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>17-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210564125.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103019479B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外屏接收元件的两级选通装置和选通方法">
+	<enterprise:有申请公布日>17-6-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外屏接收元件的两级选通装置和选通方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210587202.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902108B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏触摸点确定方法及装置">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏触摸点确定方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611246280.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106843567A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种兼容式接口电路及兼容方法">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种兼容式接口电路及兼容方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188921.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106844262A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于分析红外触摸屏伪点的方法、装置及客户端">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于分析红外触摸屏伪点的方法、装置及客户端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611246116.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106843600A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸识别系统">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸识别系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188927.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106843599A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏精度分析的方法及系统">
+	<enterprise:有申请公布日>17-6-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏精度分析的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188929.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106843563A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外屏的启发式快速扫描方法和系统">
+	<enterprise:有申请公布日>17-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外屏的启发式快速扫描方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611249514.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106814920A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏光路信号自适应调节方法及装置">
+	<enterprise:有申请公布日>17-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏光路信号自适应调节方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611270761.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106814921A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的扫描控制系统及方法">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的扫描控制系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310218284.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104216573B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏定位精度的模拟分析方法">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏定位精度的模拟分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188923.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106775091A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其增益调整方法">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其增益调整方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611188920.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106775090A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>17-4-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310205870.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104216570B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的触摸识别方法及系统">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的触摸识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156805.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123044B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹平滑处理方法">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹平滑处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156276.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123027B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的扫描数据解析方法及装置">
+	<enterprise:有申请公布日>17-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的扫描数据解析方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210572263.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902104B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>17-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210290351.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103593131B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：基于红外触摸屏触摸点识别算法的虚拟测试系统和方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于红外触摸屏触摸点识别算法的虚拟测试系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310149129.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123043B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种基于多点触摸的手势识别方法及系统">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于多点触摸的手势识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310035665.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103970360B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210227078.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103513811B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210285748.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102799319B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种多点红外触摸屏触摸识别方法及系统">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多点红外触摸屏触摸识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210083608.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103365480B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸识别装置及识别方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸识别装置及识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210375746.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713755B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种多点触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多点触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210149168.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103425300B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种扫描线移位画线方法及系统">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扫描线移位画线方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310112543.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104102389B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外多点识别方法、红外多点识别装置和红外触摸屏">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外多点识别方法、红外多点识别装置和红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210348040.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103677441B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏触摸识别的方法及系统">
+	<enterprise:有申请公布日>17-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏触摸识别的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210582000.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902105B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>17-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210568974.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902103B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>17-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210514711.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853388B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏接收电路及红外触摸屏">
+	<enterprise:有申请公布日>16-12-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏接收电路及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210161807.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102707842B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种防止误触摸的触摸识别装置及识别方法">
+	<enterprise:有申请公布日>16-12-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种防止误触摸的触摸识别装置及识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592261.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103914668B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210515305.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853391B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210515195.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853390B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种免驱红外屏的协作式处理器系统及其协作处理方法">
+	<enterprise:有申请公布日>16-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种免驱红外屏的协作式处理器系统及其协作处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410727782.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105718120A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种定位点击装置和方法及触摸显示屏校准系统和方法">
+	<enterprise:有申请公布日>16-3-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种定位点击装置和方法及触摸显示屏校准系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310128130.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103235661B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于带摄像头触摸屏的摄像头同步方法和系统">
+	<enterprise:有申请公布日>16-3-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于带摄像头触摸屏的摄像头同步方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010132169.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102202172B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸一体机">
+	<enterprise:有申请公布日>16-3-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸一体机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520719813.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205080464U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种带有语音控制功能的触摸识别装置及方法">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带有语音控制功能的触摸识别装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510742025.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105353909A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种非接触式手势识别红外触摸屏">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种非接触式手势识别红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520578637.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204856440U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：基于点斜式变换的红外触摸屏的单触点识别方法">
+	<enterprise:有申请公布日>15-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于点斜式变换的红外触摸屏的单触点识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410222324.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105094457A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种非接触式手势识别红外触摸屏">
+	<enterprise:有申请公布日>15-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种非接触式手势识别红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510470630.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105005419A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏多点识别方法及系统">
+	<enterprise:有申请公布日>15-10-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏多点识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221822.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419663B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其滤光条的封装方法">
+	<enterprise:有申请公布日>15-10-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其滤光条的封装方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010572370.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467299B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏电路">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310746515.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104750318A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010607985.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102566803B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种内置式红外触摸屏">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种内置式红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110331338.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426501B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：贴合触摸屏和显示屏的自动化装置及方法">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>贴合触摸屏和显示屏的自动化装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310716642.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104723648A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种基于图像处理的触摸点光学定位方法">
+	<enterprise:有申请公布日>15-6-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于图像处理的触摸点光学定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310649886.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104699323A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和触摸屏">
+	<enterprise:有申请公布日>15-6-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010244855.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102346599B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的透光部件、红外触摸屏及触摸显示器">
+	<enterprise:有申请公布日>15-3-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的透光部件、红外触摸屏及触摸显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110331320.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419667B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏边缘触摸精度的方法">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏边缘触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310274753.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104281329A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其红外元件不等间距布置方法">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其红外元件不等间距布置方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310274969.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104281330A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>14-12-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310205870.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104216570A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的扫描控制系统及方法">
+	<enterprise:有申请公布日>14-12-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的扫描控制系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310218284.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104216573A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：光学触摸屏用边框组件及触摸屏">
+	<enterprise:有申请公布日>14-12-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>光学触摸屏用边框组件及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310218399.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104216574A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的光路检测方法及系统">
+	<enterprise:有申请公布日>14-11-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的光路检测方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310164425.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104142759A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-11-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010274491.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402339B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸点坐标获取方法及系统、触摸屏校准方法及系统">
+	<enterprise:有申请公布日>14-11-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸点坐标获取方法及系统、触摸屏校准方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110184314.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419648B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸点定位方法、装置及触摸屏">
+	<enterprise:有申请公布日>14-11-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸点定位方法、装置及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010571576.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102479004B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>14-11-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420361904.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203930753U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹平滑处理方法">
+	<enterprise:有申请公布日>14-10-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹平滑处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156276.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123027A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：基于红外触摸屏触摸点识别算法的虚拟测试系统和方法">
+	<enterprise:有申请公布日>14-10-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于红外触摸屏触摸点识别算法的虚拟测试系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310149129.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123043A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的触摸识别方法及系统">
+	<enterprise:有申请公布日>14-10-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的触摸识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156805.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123044A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏触摸轨迹运动方向识别的方法">
+	<enterprise:有申请公布日>14-10-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏触摸轨迹运动方向识别的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310156273.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104123026A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种扫描线移位画线方法及系统">
+	<enterprise:有申请公布日>14-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扫描线移位画线方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310112543.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104102389A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种柔性电路板及包含该电路板的电子装置">
+	<enterprise:有申请公布日>14-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种柔性电路板及包含该电路板的电子装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420152493.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203884065U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种利用光线扫描的触摸屏的光网布线方法及触摸屏">
+	<enterprise:有申请公布日>14-9-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用光线扫描的触摸屏的光网布线方法及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310080300.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104049808A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010200003.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102281395B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：光源及其安装方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>光源及其安装方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176615.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253756B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种纯平触摸屏">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种纯平触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420194426.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203812216U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸定位方法、触摸定位装置及红外触摸屏">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸定位方法、触摸定位装置及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110055534.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419661B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种便携式光学模组">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种便携式光学模组</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420183795.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203813860U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于带摄像头触摸屏的控制板和串口通信仲裁器">
+	<enterprise:有申请公布日>14-9-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于带摄像头触摸屏的控制板和串口通信仲裁器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010124781.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102193683B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：基于曲线拟合的触摸轨迹跟踪方法和装置">
+	<enterprise:有申请公布日>14-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于曲线拟合的触摸轨迹跟踪方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310044958.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103970327A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏轨迹跟踪处理的方法和系统">
+	<enterprise:有申请公布日>14-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏轨迹跟踪处理的方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310036319.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103970322A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种基于多点触摸的手势识别方法及系统">
+	<enterprise:有申请公布日>14-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于多点触摸的手势识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310035665.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103970360A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏轨迹跟踪方法和系统">
+	<enterprise:有申请公布日>14-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏轨迹跟踪方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310036702.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103970323A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-7-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010276571.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402340B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种防止误触摸的触摸识别装置及识别方法">
+	<enterprise:有申请公布日>14-7-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种防止误触摸的触摸识别装置及识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592261.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103914668A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种柔性电路板及其制作方法">
+	<enterprise:有申请公布日>14-7-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种柔性电路板及其制作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410127795.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103917041A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的扫描数据解析方法及装置">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的扫描数据解析方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210572263.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902104A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种基于曲线拟合的触摸轨迹平滑方法及系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于曲线拟合的触摸轨迹平滑方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210585264.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902086A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外屏接收元件的两级选通装置和选通方法">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外屏接收元件的两级选通装置和选通方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210587202.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902108A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210568974.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902103A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏触摸识别的方法及系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏触摸识别的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210582000.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902105A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外屏的比特位图处理方法及系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外屏的比特位图处理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210582119.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103902107A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法及其系统">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法及其系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210563087.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103885644A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210514711.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853388A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210515305.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853391A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏触摸精度的方法">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏触摸精度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210515195.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103853390A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的扫描方法及扫描系统">
+	<enterprise:有申请公布日>14-6-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的扫描方法及扫描系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221831.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419665B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏标定方法和装置、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-6-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏标定方法和装置、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010181377.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102262483B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏导光部件">
+	<enterprise:有申请公布日>14-5-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏导光部件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330438059.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302815110S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸显示屏">
+	<enterprise:有申请公布日>14-4-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸显示屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320616880.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203573280U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种塑料薄片裁切装置">
+	<enterprise:有申请公布日>14-4-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种塑料薄片裁切装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320671143.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203566761U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸识别装置及识别方法">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸识别装置及识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210375746.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713755A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、以及触摸屏和显示器">
+	<enterprise:有申请公布日>14-4-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、以及触摸屏和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010163180.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102236475B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的多点识别方法及系统">
+	<enterprise:有申请公布日>14-4-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的多点识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221824.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419664B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>14-4-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010183970.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102262485B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种识别红外触摸屏上多个触摸点的方法">
+	<enterprise:有申请公布日>14-4-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别红外触摸屏上多个触摸点的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710117751.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101075168B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外多点识别方法、红外多点识别装置和红外触摸屏">
+	<enterprise:有申请公布日>14-3-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外多点识别方法、红外多点识别装置和红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210348040.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103677441A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910089050.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101963305B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320546184.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203480476U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏组件及包含该组件的触摸屏">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏组件及包含该组件的触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320551800.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203480477U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176632.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253757B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架前壳及触摸屏">
+	<enterprise:有申请公布日>14-2-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架前壳及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320121114.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203455789U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>14-2-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320147125.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203444450U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏滤光部件及红外触摸屏">
+	<enterprise:有申请公布日>14-2-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏滤光部件及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320131937.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203444449U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>14-2-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210290351.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103593131A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种滤光条、滤光框和触摸屏">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种滤光条、滤光框和触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320142368.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203433137U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏内框">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏内框</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330007592.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302736015S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种显示装置及包含该显示装置的认证系统和认证方法">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种显示装置及包含该显示装置的认证系统和认证方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210250502.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103576946A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、触摸系统">
+	<enterprise:有申请公布日>14-2-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010131614.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102200860B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>14-2-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176633.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253758B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏扫描方法">
+	<enterprise:有申请公布日>14-1-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏扫描方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210225270.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103513826A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏扫描方法和红外触摸屏">
+	<enterprise:有申请公布日>14-1-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏扫描方法和红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210226494.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103513827A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>14-1-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210227078.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103513811A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及多点定位方法">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及多点定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235244.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033640B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010584543.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102103440B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种多点触摸轨迹跟踪方法">
+	<enterprise:有申请公布日>13-12-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多点触摸轨迹跟踪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210149168.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103425300A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏的控制系统">
+	<enterprise:有申请公布日>13-12-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏的控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310395685.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103425357A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏">
+	<enterprise:有申请公布日>13-11-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220748831.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203311382U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-11-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320114592.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203311383U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一体化红外触摸显示设备及其连接结构">
+	<enterprise:有申请公布日>13-11-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体化红外触摸显示设备及其连接结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320276021.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203276230U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种测试工装设备">
+	<enterprise:有申请公布日>13-11-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测试工装设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320290944.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203275549U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏抗光干扰性能的测试装置及其测试方法">
+	<enterprise:有申请公布日>13-11-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏抗光干扰性能的测试装置及其测试方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010120771.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102192829B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种多点红外触摸屏触摸识别方法及系统">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多点红外触摸屏触摸识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210083608.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103365480A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及其多路采样的方法">
+	<enterprise:有申请公布日>13-10-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及其多路采样的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010235151.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102339168B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏和触摸屏的驱动方法">
+	<enterprise:有申请公布日>13-10-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏和触摸屏的驱动方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910249866.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102081480B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>13-9-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320146406.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203217523U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏和触显一体机">
+	<enterprise:有申请公布日>13-9-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏和触显一体机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320145700.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203217522U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：电路板连接件">
+	<enterprise:有申请公布日>13-8-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>电路板连接件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330007593.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302542612S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>13-8-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320067009.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203149533U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>13-8-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320067168.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203149534U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸框">
+	<enterprise:有申请公布日>13-8-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸框</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330036017.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302543009S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种定位点击装置和方法及触摸显示屏校准系统和方法">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种定位点击装置和方法及触摸显示屏校准系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310128130.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103235661A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏扫描电路板">
+	<enterprise:有申请公布日>13-7-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏扫描电路板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330000260.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302510817S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-7-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220742773.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203084692U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-6-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220653808.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203012682U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸检测设备">
+	<enterprise:有申请公布日>13-6-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸检测设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220695645.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203012671U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及多点定位方法">
+	<enterprise:有申请公布日>13-6-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及多点定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235245.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033641B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-5-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220605331.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202916819U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于光学触摸屏的连接角块组件及光学触摸屏">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于光学触摸屏的连接角块组件及光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220482412.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202854771U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592746.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103019481A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架组件及触摸屏">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架组件及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220499618.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202854761U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210564125.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103019479A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种连接件及包含该连接件的电子装置">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种连接件及包含该连接件的电子装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220389056.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202855947U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>13-3-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210401067.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102955620A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>13-3-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230288111.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302341097S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-3-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220478105.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202771401U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-3-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220317329.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202771398U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏">
+	<enterprise:有申请公布日>13-2-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210226677.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102945100A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架组件及触摸屏">
+	<enterprise:有申请公布日>13-1-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架组件及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210366749.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102866741A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种紧固装置">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种紧固装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220220375.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202597429U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230293006.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302231781S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230287942.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302231779S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230287915.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302231778S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种紧固装置">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种紧固装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220220648.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202598048U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230293878.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302231782S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏框架">
+	<enterprise:有申请公布日>12-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201230288401.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302231780S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210285748.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102799319A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种连接件及包含该连接件的电子装置">
+	<enterprise:有申请公布日>12-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种连接件及包含该连接件的电子装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210279035.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102801005A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏图像捕获模组及触摸屏">
+	<enterprise:有申请公布日>12-11-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏图像捕获模组及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220119272.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202548797U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>12-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210199407.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102722295A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏接收电路及红外触摸屏">
+	<enterprise:有申请公布日>12-10-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏接收电路及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210161807.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102707842A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-9-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610114559.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101187843B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种背投光源式触摸识别装置及其触摸识别方法">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种背投光源式触摸识别装置及其触摸识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810111407.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101464745B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏的数据处理方法及一种触摸屏">
+	<enterprise:有申请公布日>12-7-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏的数据处理方法及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010607985.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102566803A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的透光部件、红外触摸屏及触摸显示器">
+	<enterprise:有申请公布日>12-7-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的透光部件、红外触摸屏及触摸显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120415885.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202306515U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏边框及光学触摸屏">
+	<enterprise:有申请公布日>12-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏边框及光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120432390.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202281993U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏边框">
+	<enterprise:有申请公布日>12-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏边框</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120432398.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202281994U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120415884.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202281992U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸点定位方法、装置及触摸屏">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸点定位方法、装置及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010571576.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102479004A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120313792.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202257516U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏框架">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120315208.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202257499U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏多点识别方法及一种红外触摸屏">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏多点识别方法及一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010562430.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102479000A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-5-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120313793.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202257517U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其滤光条的封装方法">
+	<enterprise:有申请公布日>12-5-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其滤光条的封装方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010572370.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467299A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种内置式红外触摸屏">
+	<enterprise:有申请公布日>12-4-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种内置式红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110331338.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426501A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的多点触控实现方法及系统">
+	<enterprise:有申请公布日>12-4-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的多点触控实现方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110222308.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426491A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种在触摸屏上启动鼠标右键功能的方法及系统">
+	<enterprise:有申请公布日>12-4-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种在触摸屏上启动鼠标右键功能的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110094744.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426489A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸装置及其升降支架">
+	<enterprise:有申请公布日>12-4-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸装置及其升降支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120315206.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202203625U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的多点识别方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的多点识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221824.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419664A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的扫描方法及扫描系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的扫描方法及扫描系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221831.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419665A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸定位方法、触摸定位装置及红外触摸屏">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸定位方法、触摸定位装置及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110055534.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419661A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸点坐标获取方法及系统、触摸屏校准方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸点坐标获取方法及系统、触摸屏校准方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110184314.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419648A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏触摸时的发声方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏触摸时的发声方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110222280.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419684A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏多点识别方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏多点识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110221822.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419663A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的透光部件、红外触摸屏及触摸显示器">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的透光部件、红外触摸屏及触摸显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110331320.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419667A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种多点触控的实现方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多点触控的实现方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110222306.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419650A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种批注方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种批注方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110188545.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419743A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种扩大范围触摸方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扩大范围触摸方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110188881.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419649A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏的多点识别方法及系统">
+	<enterprise:有申请公布日>12-4-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏的多点识别方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110157053.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102419662A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>12-4-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010276571.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402340A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>12-4-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010274491.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402339A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>12-3-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120281412.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202171793U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>12-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010244855.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102346599A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及其多路采样的方法">
+	<enterprise:有申请公布日>12-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及其多路采样的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010235151.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102339168A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的图像传感装置">
+	<enterprise:有申请公布日>12-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的图像传感装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810110419.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101369202B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用摄像头的个人移动信息设备手写输入装置">
+	<enterprise:有申请公布日>12-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用摄像头的个人移动信息设备手写输入装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710107845.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101308426B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：显示设备的外置式电源指示装置及包含该装置的触摸屏">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>显示设备的外置式电源指示装置及包含该装置的触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120220798.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202110532U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏及其图像捕获模组">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏及其图像捕获模组</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120175050.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202110516U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种利用触摸力触发的红外触摸屏及其检测方法">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用触摸力触发的红外触摸屏及其检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610165375.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101206548B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏及其边框">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏及其边框</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120175078.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202110517U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的光电信号接收电路">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的光电信号接收电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810103517.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101556521B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外发射管及触摸屏">
+	<enterprise:有申请公布日>11-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外发射管及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010201781.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102280566A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：摄像头同步方法、控制板、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>摄像头同步方法、控制板、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010200003.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102281395A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏标定方法和装置、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏标定方法和装置、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010181377.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102262483A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010183958.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102262484A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010183970.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102262485A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：光学触摸屏框架角块、光学触摸屏框架及光学触摸屏">
+	<enterprise:有申请公布日>11-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>光学触摸屏框架角块、光学触摸屏框架及光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120153787.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202049467U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>11-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176633.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253758A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>11-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176632.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253757A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：光源及其安装方法、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>光源及其安装方法、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010176615.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102253756A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、以及触摸屏和显示器">
+	<enterprise:有申请公布日>11-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、以及触摸屏和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010163180.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102236475A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>11-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120082870.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202033735U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种白板笔">
+	<enterprise:有申请公布日>11-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种白板笔</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120124486.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202033726U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>11-11-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120107025.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202033736U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和系统、以及显示器">
+	<enterprise:有申请公布日>11-10-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和系统、以及显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010152319.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102221938A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和系统">
+	<enterprise:有申请公布日>11-10-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010146016.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102214046A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示屏及交互式投影屏幕">
+	<enterprise:有申请公布日>11-10-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示屏及交互式投影屏幕</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920279365.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202003339U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和系统">
+	<enterprise:有申请公布日>11-10-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010139501.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102207795A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸定位方法和装置、触摸系统">
+	<enterprise:有申请公布日>11-9-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸定位方法和装置、触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010131614.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102200860A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于带摄像头触摸屏的摄像头同步方法和系统">
+	<enterprise:有申请公布日>11-9-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于带摄像头触摸屏的摄像头同步方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010132169.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102202172A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于带摄像头触摸屏的控制板和串口通信仲裁器">
+	<enterprise:有申请公布日>11-9-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于带摄像头触摸屏的控制板和串口通信仲裁器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010124781.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102193683A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏抗光干扰性能的测试装置及其测试方法">
+	<enterprise:有申请公布日>11-9-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏抗光干扰性能的测试装置及其测试方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010120771.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102192829A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的图像传感装置">
+	<enterprise:有申请公布日>11-9-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的图像传感装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810105559.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101261557B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的触摸力检测装置">
+	<enterprise:有申请公布日>11-9-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的触摸力检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610011193.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101000529B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种OLED显示器">
+	<enterprise:有申请公布日>11-8-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种OLED显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020520494.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201946239U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>11-8-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020629765.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201936283U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏、触摸系统及光源">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏、触摸系统及光源</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246915.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201927010U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：带触摸屏的显示面板及其外壳和连接件">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>带触摸屏的显示面板及其外壳和连接件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020524953.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201927291U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示装置">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020681988.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201927011U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种识别红外触摸屏上多个触摸点的方法">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别红外触摸屏上多个触摸点的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710100010.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101320307B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏扫描电路板托盘及电路板托盘">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏扫描电路板托盘及电路板托盘</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120016516.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201923503U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的光电发射接收装置">
+	<enterprise:有申请公布日>11-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的光电发射接收装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810113151.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101382859B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-6-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920271160.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201886447U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>11-6-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010584543.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102103440A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸定位方法">
+	<enterprise:有申请公布日>11-6-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910241904.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102096516A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及一种电路板连接器">
+	<enterprise:有申请公布日>11-6-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及一种电路板连接器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020574005.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201859418U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>11-6-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246100.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201859421U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏和触摸屏的驱动方法">
+	<enterprise:有申请公布日>11-6-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏和触摸屏的驱动方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910249866.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102081480A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>11-5-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910223703.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102063222A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示屏及交互式投影屏幕">
+	<enterprise:有申请公布日>11-5-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示屏及交互式投影屏幕</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910223702.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102063221A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：交互式显示器">
+	<enterprise:有申请公布日>11-5-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020264211.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201838262U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其触摸定位方法">
+	<enterprise:有申请公布日>11-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其触摸定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910261695.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053762A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种OLED显示器">
+	<enterprise:有申请公布日>11-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种OLED显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020512533.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201828893U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及触摸系统">
+	<enterprise:有申请公布日>11-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910254400.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053761A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及多点定位方法">
+	<enterprise:有申请公布日>11-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及多点定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910180898.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102043500A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种摄像头">
+	<enterprise:有申请公布日>11-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种摄像头</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910180897.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102045495A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏、触摸系统及其定位方法">
+	<enterprise:有申请公布日>11-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏、触摸系统及其定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235246.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033658A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及多点定位方法">
+	<enterprise:有申请公布日>11-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及多点定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235244.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033640A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种唤醒触摸的方法及一种触摸系统">
+	<enterprise:有申请公布日>11-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种唤醒触摸的方法及一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235238.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033638A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及其防误触摸的方法">
+	<enterprise:有申请公布日>11-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及其防误触摸的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235239.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033639A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及多点定位方法">
+	<enterprise:有申请公布日>11-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及多点定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910235245.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102033641A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统及其抗光干扰方法">
+	<enterprise:有申请公布日>11-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统及其抗光干扰方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910092561.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102023752A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种LED光源">
+	<enterprise:有申请公布日>11-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种LED光源</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222936.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201803129U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种LED显示器">
+	<enterprise:有申请公布日>11-4-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种LED显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020296483.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201796564U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-4-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910092321.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102012767A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020136718.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201773383U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090418.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101989149A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种带摄像头触摸屏">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带摄像头触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020046864.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201773382U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种液晶显示器">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液晶显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020296415.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201773244U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920219635.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201773381U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090417.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101989148A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-3-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020280162.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201773384U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：电路板固定及定位组件、触摸屏、交互式显示器及触摸系统">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>电路板固定及定位组件、触摸屏、交互式显示器及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020204533.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741133U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外发射管及触摸屏">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外发射管及触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020236689.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741134U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏和显示器">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020512531.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741136U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020046992.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741131U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于光学触摸屏的防误操作装置及一种光学触摸屏">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于光学触摸屏的防误操作装置及一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222935.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741130U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020280129.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741135U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>11-2-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920000725.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201741129U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>11-2-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910089050.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101963305A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及用于触摸屏的抗光模组">
+	<enterprise:有申请公布日>11-1-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及用于触摸屏的抗光模组</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020264193.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201725315U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-1-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020249873.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201725314U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-1-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020115867.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201725308U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：电路板固定组件、触摸屏、交互式显示器及触摸系统">
+	<enterprise:有申请公布日>11-1-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>电路板固定组件、触摸屏、交互式显示器及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020202206.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201725309U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>11-1-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910157559.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101943973A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-1-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910157558.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101943972A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222468.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698383U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：固定组件、红外触摸设备、交互式显示器及红外触摸系统">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>固定组件、红外触摸设备、交互式显示器及红外触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020259320.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698390U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020195715.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698385U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020262256.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698391U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于带摄像头触摸屏的光源、触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于带摄像头触摸屏的光源、触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020224653.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698387U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020165411.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698384U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸设备、交互式显示器及触摸系统">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸设备、交互式显示器及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020229943.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698388U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：触摸屏、触摸系统和显示器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>触摸屏、触摸系统和显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020208808.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201698386U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>10-12-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020195705.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201673487U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用偏振片的红外触摸屏并行扫描系统">
+	<enterprise:有申请公布日>10-12-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用偏振片的红外触摸屏并行扫描系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710175303.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101398734B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>10-12-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020208795.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201673488U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及一种触摸系统">
+	<enterprise:有申请公布日>10-12-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246099.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201673485U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>10-12-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246098.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201673478U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏及其检测方法">
+	<enterprise:有申请公布日>10-12-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏及其检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910084960.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101907948A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸检测装置">
+	<enterprise:有申请公布日>10-12-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910084931.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101901082A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏、触摸系统及交互式显示器">
+	<enterprise:有申请公布日>10-11-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏、触摸系统及交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020201361.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201654746U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏信号处理电路">
+	<enterprise:有申请公布日>10-11-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏信号处理电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910084335.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101893968A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>10-11-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020188876.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201654745U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246736.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628942U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的红外滤光条、红外触摸屏">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的红外滤光条、红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020151087.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628778U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于光学触摸屏的框架">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于光学触摸屏的框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246916.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628943U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246996.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628944U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：电子白板">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>电子白板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201030126032.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN301380168S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种带反光条触摸屏">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带反光条触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920279364.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201628945U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种大尺寸光学触摸屏">
+	<enterprise:有申请公布日>10-11-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种大尺寸光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020132209.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201622551U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及触摸系统">
+	<enterprise:有申请公布日>10-10-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020136698.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201616089U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>10-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020132210.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201611477U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸定位装置">
+	<enterprise:有申请公布日>10-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910082215.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101866244A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>10-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920277495.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201611476U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及触摸系统">
+	<enterprise:有申请公布日>10-10-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020138181.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201600675U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>10-10-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222696.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201600672U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-10-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020150735.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201600676U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>10-10-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246093.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201600668U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020115876.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201583928U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的框架和红外触摸屏">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的框架和红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020118753.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201583929U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020046863.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201583925U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020046991.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201583926U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246092.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201583917U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的电路板及红外触摸屏">
+	<enterprise:有申请公布日>10-9-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的电路板及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910078400.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101819488A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏响应速度的方法">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏响应速度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610140874.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101162417B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种固定触摸屏中摄像头的装置及一种触摸屏">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种固定触摸屏中摄像头的装置及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920173250.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201562262U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的防误操作装置及一种触摸屏">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的防误操作装置及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222934.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201556185U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020046788.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201556190U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种摄像头">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种摄像头</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920219802.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548794U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920279366.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201549183U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种使用MEMS微镜检测触摸物坐标的光路系统">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种使用MEMS微镜检测触摸物坐标的光路系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119764.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101118314B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种光学触摸屏">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920350621.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548940U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源组件">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222333.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548936U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108448.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201547593U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920219634.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548935U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏及触摸系统">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏及触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920271492.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548938U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸系统">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920219803.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548929U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种回归反射条及光学触摸屏">
+	<enterprise:有申请公布日>10-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种回归反射条及光学触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920277524.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201548939U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种节能型触摸系统">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种节能型触摸系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107952.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201535890U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸检测装置">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105749.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201535899U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920164006.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201535901U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种家庭用视音频点播系统和设备">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种家庭用视音频点播系统和设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110476.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201536398U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110477.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201535900U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-5-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920222467.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201489504U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种固定触摸屏中摄像头的装置及一种触摸屏">
+	<enterprise:有申请公布日>10-5-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种固定触摸屏中摄像头的装置及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920173251.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201489501U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸屏">
+	<enterprise:有申请公布日>10-5-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920173244.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201489500U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种交互式显示器">
+	<enterprise:有申请公布日>10-5-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交互式显示器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920164007.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201477557U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种利用人体电容触发的红外触摸屏">
+	<enterprise:有申请公布日>10-5-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用人体电容触发的红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710063564.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101241412B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的电路板及红外触摸屏">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的电路板及红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105596.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201467562U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110478.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201465077U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109706.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201465076U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的光源及一种触摸屏">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的光源及一种触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110255.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201462580U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种带摄像头触摸屏">
+	<enterprise:有申请公布日>10-3-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带摄像头触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109174.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201429833Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种带摄像头触摸屏">
+	<enterprise:有申请公布日>10-3-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带摄像头触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107756.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201429831Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-3-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108446.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201429832Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108447.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201413509Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108445.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201413508Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸检测装置">
+	<enterprise:有申请公布日>10-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108423.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201413507Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏信号处理电路">
+	<enterprise:有申请公布日>10-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏信号处理电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107045.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201408410Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏">
+	<enterprise:有申请公布日>10-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107951.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201408411Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种触摸定位装置">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种触摸定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107423.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201387601Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种设有键区的触摸屏">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种设有键区的触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920004690.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201387598Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：带摄像头红外触摸屏及其检测方法">
+	<enterprise:有申请公布日>10-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>带摄像头红外触摸屏及其检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810116170.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101620483A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用摄像头和反光镜的触摸检测传感装置">
+	<enterprise:有申请公布日>09-12-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用摄像头和反光镜的触摸检测传感装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810115165.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101609381A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种调节手写输入图形参数的手动装置">
+	<enterprise:有申请公布日>09-11-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种调节手写输入图形参数的手动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820180632.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201345093Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏控制检测系统">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏控制检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920001737.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201331750Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏控制检测系统">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏控制检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920001738.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201331751Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的光电信号接收电路">
+	<enterprise:有申请公布日>09-10-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的光电信号接收电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810103517.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101556521A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种背投光源式触摸识别装置及其触摸识别方法">
+	<enterprise:有申请公布日>09-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种背投光源式触摸识别装置及其触摸识别方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810111407.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101464745A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种应用于带摄像头触摸屏上的光源">
+	<enterprise:有申请公布日>09-6-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用于带摄像头触摸屏上的光源</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820110169.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201259149Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于计算机触摸屏的光电检测定位系统和方法">
+	<enterprise:有申请公布日>09-6-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于计算机触摸屏的光电检测定位系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200310112919.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100498675C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种应用于触摸屏上的反射镜">
+	<enterprise:有申请公布日>09-5-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用于触摸屏上的反射镜</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820109789.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201237783Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的反射光路结构">
+	<enterprise:有申请公布日>09-5-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的反射光路结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820109656.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201233592Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的透光窗口">
+	<enterprise:有申请公布日>09-4-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的透光窗口</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820000378.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201226147Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的密封结构">
+	<enterprise:有申请公布日>09-4-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的密封结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820109048.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201222241Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用偏振片的红外触摸屏并行扫描系统">
+	<enterprise:有申请公布日>09-4-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用偏振片的红外触摸屏并行扫描系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710175303.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101398734A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：模块结构的红外触摸屏">
+	<enterprise:有申请公布日>09-3-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>模块结构的红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710121920.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101393499A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的光电发射接收结构">
+	<enterprise:有申请公布日>09-3-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的光电发射接收结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810113151.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101382859A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的图像传感装置">
+	<enterprise:有申请公布日>09-2-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的图像传感装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810110419.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101369202A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用总线结构实现扫描驱动的红外触摸屏">
+	<enterprise:有申请公布日>09-2-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用总线结构实现扫描驱动的红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610083246.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100458673C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种应用于红外触摸屏的背光模组">
+	<enterprise:有申请公布日>09-2-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用于红外触摸屏的背光模组</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820079798.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201191341Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于笔记本计算机的触摸检测装置">
+	<enterprise:有申请公布日>08-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于笔记本计算机的触摸检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820079221.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201163394Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：提高红外触摸屏性能的系统和方法">
+	<enterprise:有申请公布日>08-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>提高红外触摸屏性能的系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN00121462.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100442207C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用摄像头的触摸检测装置">
+	<enterprise:有申请公布日>08-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用摄像头的触摸检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820079116.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201163393Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种识别红外触摸屏上多个触摸点的方法">
+	<enterprise:有申请公布日>08-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别红外触摸屏上多个触摸点的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710100010.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101320307A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用摄像头的个人移动信息设备手写输入装置">
+	<enterprise:有申请公布日>08-11-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用摄像头的个人移动信息设备手写输入装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710107845.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101308426A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的框架">
+	<enterprise:有申请公布日>08-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的框架</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720187489.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201134090Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：包含有触摸检测装置的液晶显示模组">
+	<enterprise:有申请公布日>08-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>包含有触摸检测装置的液晶显示模组</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810114775.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101285952A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的边框">
+	<enterprise:有申请公布日>08-10-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的边框</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190699.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201127144Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的电路板">
+	<enterprise:有申请公布日>08-9-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的电路板</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190173.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201119121Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于触摸屏的图像传感装置">
+	<enterprise:有申请公布日>08-9-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于触摸屏的图像传感装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810105559.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101261557A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种利用人体电容触发的红外触摸屏">
+	<enterprise:有申请公布日>08-8-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用人体电容触发的红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710063564.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101241412A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的红外滤光框">
+	<enterprise:有申请公布日>08-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的红外滤光框</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720170138.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201096941Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：红外触摸屏的局部透镜抗干扰光路结构">
+	<enterprise:有申请公布日>08-8-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外触摸屏的局部透镜抗干扰光路结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720173850.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201097368Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种利用触摸力触发的红外触摸屏及其检测方法">
+	<enterprise:有申请公布日>08-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种利用触摸力触发的红外触摸屏及其检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610165375.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101206548A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种红外触摸屏检测元件的驱动和安装结构">
+	<enterprise:有申请公布日>08-5-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种红外触摸屏检测元件的驱动和安装结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610114559.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101187843A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种提高红外触摸屏响应速度的方法">
+	<enterprise:有申请公布日>08-4-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高红外触摸屏响应速度的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610140874.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101162417A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用摄像头和反射镜的触摸屏的光路结构">
+	<enterprise:有申请公布日>08-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用摄像头和反射镜的触摸屏的光路结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720104194.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201035553Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种使用MEMS微镜检测触摸物坐标的光路系统">
+	<enterprise:有申请公布日>08-2-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种使用MEMS微镜检测触摸物坐标的光路系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710119764.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101118314A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用总线结构实现扫描驱动的红外触摸屏">
+	<enterprise:有申请公布日>07-12-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用总线结构实现扫描驱动的红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610083246.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101082850A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种识别红外触摸屏上多个触摸点的方法">
+	<enterprise:有申请公布日>07-11-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种识别红外触摸屏上多个触摸点的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710117751.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101075168A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的触摸力检测装置">
+	<enterprise:有申请公布日>07-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的触摸力检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610011193.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101000529A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：使用光能供电的射频无线键盘系统">
+	<enterprise:有申请公布日>06-9-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>使用光能供电的射频无线键盘系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN01120000.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1273884C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于红外触摸屏的金属型材边框">
+	<enterprise:有申请公布日>06-8-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于红外触摸屏的金属型材边框</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520103187.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2807333Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于红外触摸屏的液晶开关光路结构">
+	<enterprise:有申请公布日>06-6-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于红外触摸屏的液晶开关光路结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420120444.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2791676Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：用于一体化液晶红外触摸屏的液晶开关扫描光路系统">
+	<enterprise:有申请公布日>06-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于一体化液晶红外触摸屏的液晶开关扫描光路系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520022790.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2779440Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种使用反光镜的红外触摸屏的光路系统">
+	<enterprise:有申请公布日>06-4-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种使用反光镜的红外触摸屏的光路系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420117952.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2773799Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种由组合结构的红外触摸屏壳体">
+	<enterprise:有申请公布日>06-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种由组合结构的红外触摸屏壳体</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520004942.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2763894Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：具有反射镜的红外线触摸屏">
+	<enterprise:有申请公布日>06-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有反射镜的红外线触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420089133.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2751353Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种抑制红外触摸屏边框反射干扰的偏振片滤色框">
+	<enterprise:有申请公布日>06-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抑制红外触摸屏边框反射干扰的偏振片滤色框</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420096554.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2751317Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：反射结构的多接收管红外触摸屏">
+	<enterprise:有申请公布日>06-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>反射结构的多接收管红外触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420093591.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2751354Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种新型红外线触摸屏">
+	<enterprise:有申请公布日>05-10-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型红外线触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420066267.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2731587Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：新型红外线触摸屏">
+	<enterprise:有申请公布日>05-10-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>新型红外线触摸屏</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420066268.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2731588Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京汇冠新技术股份有限公司的专利信息：一种用于计算机触摸屏的光电检测定位系统和方法">
+	<enterprise:有申请公布日>05-7-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于计算机触摸屏的光电检测定位系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200310112919.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1635541A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京汇冠新技术股份有限公司的软件著作：汇冠ProEdu Board应用教育软件">
+	<enterprise:有批准日期>13-7-18</enterprise:有批准日期>
+	<enterprise:有软件全称>汇冠ProEdu Board应用教育软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR067870</enterprise:有登记号>
+	<enterprise:有分类号>30209-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京汇冠新技术股份有限公司的软件著作：汇冠红外触摸屏高精度触摸坐标计算及多点鬼点识别软件">
+	<enterprise:有批准日期>12-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>汇冠红外触摸屏高精度触摸坐标计算及多点鬼点识别软件</enterprise:有软件全称>
+	<enterprise:有软件简称>汇冠红外触摸屏多点识别软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024980</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京汇冠新技术股份有限公司的软件著作：汇冠红外触摸屏高精度触摸坐标计算及双点鬼点识别软件">
+	<enterprise:有批准日期>12-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>汇冠红外触摸屏高精度触摸坐标计算及双点鬼点识别软件</enterprise:有软件全称>
+	<enterprise:有软件简称>汇冠红外触摸屏双点识别软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR024982</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京汇冠新技术股份有限公司的软件著作：汇冠红外触摸屏软件">
+	<enterprise:有批准日期>11-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>汇冠红外触摸屏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR021191</enterprise:有登记号>
+	<enterprise:有分类号>10101-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京汇冠新技术股份有限公司的软件著作：汇冠光学触摸屏软件">
+	<enterprise:有批准日期>11-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>汇冠光学触摸屏软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR021064</enterprise:有登记号>
+	<enterprise:有分类号>10101-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京汇冠新技术股份有限公司的网站备案：北京汇冠新技术股份有限公司">
+	<enterprise:有审核时间>16-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>北京汇冠新技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.proedu.cc</enterprise:有网站首页>
+	<enterprise:有域名>proedu.cc</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12029404号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京汇冠新技术股份有限公司的网站备案：汇冠光学影像交互式电子白板">
+	<enterprise:有审核时间>16-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>汇冠光学影像交互式电子白板</enterprise:有网站全称>
+	<enterprise:有网站首页>www.proeduboard.com</enterprise:有网站首页>
+	<enterprise:有域名>proeduboard.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12029404号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京汇冠新技术股份有限公司的网站备案：北京汇冠新技术股份有限公司">
+	<enterprise:有审核时间>16-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>北京汇冠新技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.irtouch.com</enterprise:有网站首页>
+	<enterprise:有域名>irtouch.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12029404号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京汇冠新技术股份有限公司的网站备案：北京汇冠新技术股份有限公司">
+	<enterprise:有审核时间>16-9-7</enterprise:有审核时间>
+	<enterprise:有网站全称>北京汇冠新技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.unitop.cc</enterprise:有网站首页>
+	<enterprise:有域名>unitop.cc</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12029404号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京汇冠新技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京汇冠新技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司主要从事信息交互相关产品的研发、生产和销售以及精密制造业务，主营业务
+经营情况稳定</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京汇冠新技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>iBase、TES 等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>稳定</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京汇冠新技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>企业通过加强技术研发，增强综合竞争力</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京汇冠新技术股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京汇冠新技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 行业发展前景广阔，市场需求情况良好。  
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京汇冠新技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京汇冠新技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京汇冠新技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110228662198351K</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>79.84</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京汇冠新技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-17.95</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0.00</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京汇冠新技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>未提供</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京汇冠新技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>1</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京汇冠新技术股份有限公司的专利数量">
+	<enterprise:专利总计>115</enterprise:专利总计>
+	<enterprise:专利数量2013>36</enterprise:专利数量2013>
+	<enterprise:专利数量2014>65</enterprise:专利数量2014>
+	<enterprise:专利数量2015>14</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京汇冠新技术股份有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>1</enterprise:商标数量2013>
+	<enterprise:商标数量2014>1</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京汇冠新技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

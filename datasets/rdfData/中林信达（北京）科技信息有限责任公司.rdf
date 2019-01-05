@@ -1,0 +1,1530 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="中林信达（北京）科技信息有限责任公司的企业概况">
+    <enterprise:有名称>中林信达（北京）科技信息有限责任公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>91110101062789289B</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京新华支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2013年2月28日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>3,000.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发；技术转让；技术咨询；技术服务；计算机系统服务；计算机系统集成；货物进出口；技术进出口；代理进出口；劳务派遣；组织文化艺术交流；承办展览展示；会议服务；设计、制作、代理、发布广告；产品设计；销售计算机、软件及辅助设备、电子产品、通讯设备、机械设备；工程勘察设计；专业承包。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发；技术转让；技术咨询；技术服务；计算机系统服务；计算机系统集成；货物进出口；技术进出口；代理进出口；劳务派遣；组织文化艺术交流；承办展览展示；会议服务；设计、制作、代理、发布广告；产品设计；销售计算机、软件及辅助设备、电子产品、通讯设备、机械设备；工程勘察设计；专业承包。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>林业信息化</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市东城区青龙胡同1号6层609</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市东城区青龙胡同1号6层609</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100000</enterprise:有邮政编码>
+    <enterprise:有联系人>孙晶</enterprise:有联系人>
+    <enterprise:有联系电话>18686470532</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.zlxdbj.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>中林信达（北京）科技信息有限责任公司
+成立于2013年2月28日，法定代表人为李波，
+注册地址为北京市东城区青龙胡同1号6层609
+。公司注册资本3000万元，均以货币形式出资
+，股东以及持股比例如表一所示。
+表一：中林信达股权结构表
+出资额
+股东名称 股权比例
+（万元）
+李鸿泽 35% 1050
+李  波 25% 750
+刘文鹏 20% 600
+苑占永 20% 600
+中林信达主要从事林业行业信息化相关产
+品研发、解决方案研究、计算机网络系统集成
+、工程设计施工、物联网技术研发等相关业务
+。2015年1月，公司成为“北京安全防范行业
+协会”团体单位会员；2015年11月，通过ISO9
+001:2008质量管理体系认证；2016年7月，成
+为“北京软件和信息服务业协会”第八届理事
+会会员单位。
+截至2015年底，中林信达资产总额为6404
+.30万元，净资产为768.55万元；2015年累计
+实现主营业务收入952.54万元，利润总额-
+1590.18万元；2015年经营活动产生的现金净
+流量为1918.57万元，投资活动产生的现金净
+流量为-
+1173.79万元，筹资活动产生的现金净流量为1
+30.00万元，现金及现金等价物净增加额为874
+.78万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="中林信达（北京）科技信息有限责任公司的基础素质">
+    <enterprise:有管理素质>中林信达法定代表人、董事长兼总经理李
+波先生，毕业于吉林大学，获学士学位。李波
+先生曾获发明专利3项，分别为基于红外-
+可见光图像的双光谱森林火情监测方法及装置
+、可见光相机与红外相机的参数联合标定方法
+及装置、摄像机视场角的测量方法装置以及摄
+像机视场角测量仪；曾获实用新型专利证书3
+、森林防火球台360°旋转限位带机构、森林
+防火球台365°旋转限位减撞机构。李波先生
+是森林防火专业委员会会员、中国消防协会森
+林消防专业委员会会员、“亚太森林组织”理
+事，拥有丰富的专业知识，对公司的产品研发
+、经营决策制定和未来规划具有积极影响。
+公司行政总监刘升先生，毕业于东北师范
+大学，获得硕士学位。刘升先生曾任辽宁华丰
+化工（集团）有限公司财务经理、华夏正风会
+计师事务所项目经理、LG电子（中国）有限公
+司财务经理、华为技术有限公司高级内控经理
+和区域财经监控总监、东方网力科技股份有限
+公司总裁助理、金蝶软件（中国）有限公司辽
+宁分公司首席财务顾问，2015年加入中林信达
+，具有较好的公司内部运营管理能力。
+财务经理李秀妍女士，本科学历，2011年
+4月-
+2014年12月任北京魔方科技有限公司财务总监
+，2014年12月加入中林信达，任财务经理，财
+务管理经验丰富。
+总体看，中林信达管理人员在相关行业工
+作多年，具有较丰富的工作和管理经验，满足
+公司目前经营和管理的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>中林信达共有员工141人，其中从事研发
+工作的25人，占员工总人数的18%。研发人员
+中，按学历构成分，博士研究生学历2人、硕
+士研究生学历7人、本科学历14人、专科学历2
+人；按技术职称分，拥有高级技术职称5人，
+中级技术职称7人，初级技术职称11人。研发
+人员数量和知识结构基本能够满足目前公司的
+公司研发总监汪洋先生，毕业于中国民航
+大学，获得硕士学位，曾任深圳中兴力维技术
+有限公司系统总监、（公安）项目经理、（环
+保）项目经理、系统工程师、系统总监，曾参
+与深圳市宝安区环保污染源在线监测系统、遵
+义平安城市监控系统、深圳市人居委（环境监
+察大队）污染源在线监测系统、安全防范视频
+监控联网系统和公安实战平台V2.5等系统的研
+发工作，拥有丰富的研发经验。
+公司硬件总工程师郝大伟先生，毕业于天
+津大学，学士学位。郝大伟先生曾任河北先河
+科技发展有限公司电子开发工程师、深圳市艾
+立克电子有限公司开发部副经理、深圳洪迪实
+业有限公司项目经理、深圳中兴力维技术有限
+公司项目经理，拥有丰富的团队管理经验和研
+发经验。
+公司算法实验室部门经理黄艳金先生，毕
+业于吉林大学，获博士学位，博士在读期间加
+入公司，任算法工程师，专业技术能力较强。
+公司算法工程师左春婷女士，毕业于哈尔
+滨工程大学，获硕士学位，曾参与基于物联网
+的社区居家智能守望系统、基于物联网技术远
+程健身数据采集设备和相关组件、指纹考勤系
+统和基于手指静脉与指纹的双模态生物特征识
+别等项目的研发工作，获有专利“一种社区居
+家智能守望系统”、“一种非接触式手指静脉
+样本感兴趣区域提取方法”和“基于非负矩阵
+分解的手指静脉图像特征提取技术”。
+公司算法工程师耿莹女士，毕业于长春工
+业大学，获硕士学位，曾参与双目视觉车辆安
+全测距项目的研发工作，2012年4月-
+式识别工程师,2013年加入公司，任算法工程
+师。
+总体看，中林信达研发团队专业素质较高
+，行业经验丰富，具备较好的技术研发能力，
+为公司的研发活动提供了较好的技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>中林信达2015年研发费用投入1088万元，
+占销售收入的114.22%。大规模的研发投入和
+专业的人才扩充为公司的产品创新提供了较好
+的保证。
+公司核心产品为“森林眼”森林防火视频
+监控系统及“森林眼”产品。针对不同的林区
+环境应用，公司“森林眼”产品设计研发了多
+种型号以适应环境要求，目前有FW-500ED-
+II/500END-II、FW-500SV-II、FW-500EV-
+II/500ENV-II、FW-500SD-II和FW-
+260H等型号。
+公司自主研发的“森林眼”森林防火视频
+监控系统是一款前端无人值守、全天实时监测
+、可实现智能报警、适合林业特点的智能视频
+监控产品。该系统分为前端监测系统和后端指
+挥中心系统两部分，集图像采集、智能分析、
+网络传输及显示系统为一体，实现24小时不间
+断监测。系统通过部署在前段瞭望塔的高精度
+转台监控覆盖区域，前置嵌入式智能烟火识别
+引擎自动对视频图像信息进行分析判断。可及
+时、快速发现监控区域内火情信息，并通过业
+务服务器将火情信息传送给后段对应的系统客
+户端，并产生相应报警信息。值班人员可通过
+客户端软件查看火情图片、实时视频、火情视
+频录像、火点位置信息等。系统还可以提供最
+要道路和通行能力，并根据火灾蔓延分析结果
+提供防火隔离带的建议位置和阻火方案，以及
+赶赴火场的时间等重要信息，在监控中心即可
+进行远程指挥调度救火。
+公司森林眼FW-500ED-II/500END-
+II产品是一款可见光与红外系统结合的双引擎
+森林防火视频前段监控设备，主要完成大林区
+15KM半径范围内的森林防火及森林资源监控，
+适用于森林防火、边海防线等超远程实时图像
+采集、监控、视频分析环境；森林眼FW-
+500EV-II/500ENV-
+II产品配备了1080P全高清、超长焦可见光摄
+像系统，结合自身高精密传动结构及智能图像
+识别算法，可完成大林区15KM半径范围内的森
+林防火及森林资源监控，适用于森林防火、边
+海防线等超远程实时图像采集、监控、视频分
+析环境；森林眼FW-500SD-
+II产品是一款可见光与红外系统结合的双引擎
+森林防火视频前端监控设备，主要完成林区或
+园林5KM半径范围内的森林防火及森林资源监
+控，适用于森林防火、边海防线、森林旅游景
+点、园林等远程实时图像采集、监控、视频分
+析环境；森林眼FW-500SV-
+II产品配备了1080P全高清、超长焦可见光摄
+像系统，结合自身高精密传动结构及智能图像
+识别算法，主要完成林区或园林5KM半径范围
+内的森林防火及森林资源监控，适用于森林防
+火、边海防线、森林旅游景点、园林等远程实
+时图像采集、监控、视频分析环境；森林眼FW
+-
+260H产品主要应用于城市园林、小区域重点林
+防等范围的灾情监控，可对半径小于3公里范
+围内进行全天时无漏电巡航，全天时实时智能
+观测森林火情，通过智能图像识别算法对初发
+火情，做到及时发现，使火灾隐患消亡在萌芽
+状态。
+截至报告日，中林信达共获得了11项计算
+机软件著作权登记证书（具体情况如附表二所
+示）、4项实用新型专利证书和6项外观设计专
+利证书（具体情况如表二所示）。
+表二：公司取得的专利证书
+实用新型名称 专利号 发证日期
+森林防火设备
+ZL 2011 2 
+智能控制管理 2012-05-30
+0377640.6
+系统
+森林防火转台
+ZL 2012 2 
+旋转365°限位 2012-09-26
+0044864.X
+机构
+森林防火球台3
+ZL 2012 2 
+60°旋转限位 2012-09-26
+0044867.3
+带机构
+森林防火球台3
+ZL 2012 2 
+65°旋转限位 2013-06-19
+0044862.0
+减撞机构
+外观设计名称 专利号 发证日期
+森林防火监控
+ZL 2012 3 
+用方形摄像仪 2013-04-10
+0629041.9
+（一）
+森林防火监控
+ZL 2012 3 
+用球形摄像仪 2013-04-10
+0628479.5 
+（二）
+森林防火监控
+ZL 2012 3 
+用球形摄像仪 2013-06-12
+0628599.5
+（一）
+森林防火监控
+ZL 2012 3 
+用球形摄像仪 2013-06-12
+0629423.1
+（三）
+森林防火监控
+ZL 2012 3 
+用球形摄像仪 2013-06-12
+0629341.7
+ZL 2016 3 
+球台 2016-08-03
+0149406.6
+公司森林眼系列产品目前已应用于珲春林
+业局森林防火监测预警系统建设、敦化市林业
+局森林重点火险区综合治理二期建设、泉阳林
+业局森林防火监测预警系统建设、长白山森林
+防火视频监控、大兴沟林业局森林重点火险区
+综合治理三期远程视频监控与预警系统建设等
+多项工程，取得了较好的经济效益。
+公司参与了国家林业局组织的《森林防火
+视频监控系统技术规范》的制定，该技术规范
+于2016年6月1日开始实施。公司熟悉规范要求
+，产品技术完全符合标准，使其具有较好的技
+术竞争优势，为公司抢占市场创造条件。
+总体看，公司产品应用性较强，市场转化
+效果较好，技术创新能力较强，为其项目的承
+接奠定基础。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="中林信达（北京）科技信息有限责任公司的经营管理">
+    <enterprise:其经营分析为>中林信达“源于林业、立足林业、服务林
+业”，专注于林业从事行业信息化相关产品研
+发、解决方案研究、计算机网络系统集成、工
+程设计施工、物联网技术研发等相关业务，拥
+有北京、长春、深圳三大基地，集产品规划、
+软硬件研发、产业化生产、销售、工程实施、
+服务为一体。公司前身公司是吉林森工集团的
+参股公司，是吉林森工将林业信息化进行产业
+化运营的实施主体，由于经营需要在北京设立
+中林信达，得益于前身公司的技术积累和行业
+经验，公司在短期内形成较好的经济收益，20
+14年实现收入1461.06万元、2015年实现收入9
+52.54万元。
+公司在长春拥有两家全资子公司，即吉林
+林业信息科技有限责任公司和吉林省中林信达
+科技信息有限责任公司，主要负责研发、工程
+实施、售后和少量老款产品维修方面的业务。
+公司在深圳设有办事处，计划在深圳设立全资
+子公司，负责新型产品的生产。公司自身主要
+负责管理和产品销售。
+采购方面，公司采购内容较为繁复，包括
+通信用的无线网桥、光纤等；建设中需要的防
+火设备、供电设备，以及相关施工服务；监控
+中心中需要的屏幕、计算机、服务器等电子产
+品。公司一般采取就近采购原则，并根据合同
+约定付款。
+生产方面，公司少量老款产品在长春子公
+司生产，主要的新款产品在深圳生产。目前公
+司产品生产主要委托给深圳的外协生产工厂，
+公司派有技术人员在外协工厂负责产品设计、
+质量监控，深圳办事处负责产品的组装。付款
+方面，多采用按月付款或按季付款的方式。考
+虑到深圳劳动力密集，人员成本较低，公司计
+划在深圳设立全资子公司，建立厂房，负责产
+品生产。
+在销售方面，公司主要通过投标获取项目
+，主要客户为各地林业局。公司承接的项目遍
+布黑龙江、吉林、辽宁、内蒙古、广东、广西
+、湖南、湖北等省，项目实施经验丰富。近期
+公司主要承接项目有“集宁区林业局森林草原
+防火视频监测预警项目”，合同额181.14万元
+；“内蒙古大青山国家级自然保护区视频监控
+及综合指挥系统项目”，合同额961.06万元；
+“阿尔山市万泉城市基础设施投资有限责任公
+期自2015年至2017年。
+公司在东北地区承揽的项目实施一般由子
+公司吉林林业信息科技有限责任公司负责工程
+实施，南方地区承揽的项目一般由集成商负责
+工程实施，公司只负责项目前期规划，提供技
+术支持。公司项目施工期一般为半年至一年。
+回款方面，与客户签订合同后，公司收取
+30%预收款，产品到货后收取30%款项，项目完
+成并验收后收取30%款项，留有10%的质保金。
+图一：公司近三年总资产、净资产、主营业务收入、
+利润总额情况图（万元）
+公司通过继承前身公司的技术力量，具有
+较好的技术储备，成立后短期内即承接多个项
+目，实现较好的经济效益。从近三年经营成果
+看，公司收入出现波动变化，主要是因为政府
+项目采购量每年都不确定，市场需求量无法把
+握，销售情况易受政策调整影响。公司为保持
+竞争力需不断提升产品技术，研发投入较大；
+同时，为维系客户关系，需在项目采购前就帮
+助相关单位制定方案，有的项目需跟踪2-
+3年才会确定签约，各项费用支出较大，导致2
+015年出现大额亏损。
+总体看，中林信达所处行业发展前景较好
+，公司产品的市场竞争力较强，运营模式较为
+成熟，未来发展前景较为乐观。
+中林信达下设产品营销中心、研发中心和
+运营支撑中心三大职能部门支撑公司整体运营
+，其中产品运营中心包括林业销售部、销售管
+理部、产品拓展部、品牌营销部、售后服务部
+、工程部和其他行业推展部，研发中心包括深
+圳研究所和长春研究所，运营支撑中心包括质
+量部、财务共享中心、人力资源部和行政部。
+目前公司各职能部门划分清晰，部门分工明确
+，内部协调性较好，对公司整体经营运转有所
+助益。
+从管理效率看，2014和2015年公司管理费
+用率分别为17.94%和20.51%，管理效率尚可；
+同期成本率分别为73.60%和266.94%，由于业
+务规模下降，同时大量的研发投入，导致成本
+费用支出过高，成本控制能力一般，该情况在
+2016年随着业务量的提升有所好转。
+从运营效率看，2014和2015年公司应收账
+款周转率分别为4.21次和1.80次，账款回收效
+率一般；同期存货周转率分别为1.25次和1.13
+次，存货额逐年增长，周转效率尚可；同期总
+资产周转率分别为0.45次和0.18次，整体资产
+运营效率一般。
+总体看，中林信达内部管理趋于完善，基
+本适应其经营状况，管理效率尚可，资产运营
+效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>- </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>《全国森林经营规划（2016-
+2050年）》提出，到2020年，森林经营取得重
+大进展，我国特色的森林经营理论、技术、政
+策和管理体系基本建立，森林可持续经营全面
+推进。
+规划期内，森林总量和质量将持续提高，
+全国森林覆盖率达到23.04%以上，森林蓄积达
+到165亿立方米以上。每公顷乔木林蓄积量达
+到95立方米以上，每公顷乔木林年均生长量达
+到4.8立方米以上。混交林面积比例达到45%以
+%以上。森林植被总碳储量达到95亿吨以上，
+森林每年提供的主要生态服务价值达到15万亿
+元以上。森林经营示范区每公顷乔木林蓄积量
+达到150立方米以上，每公顷乔木林年均生长
+量达到7立方米以上。重点林区森林质量达到
+同期世界平均水平。森林生态系统稳定性显著
+增强，森林的生态服务、林产品供给和碳汇能
+力明显提升。
+森林经营支撑体系基本建成。建立森林经
+营规划制度，全面编制和执行全国、省级、县
+级森林经营规划和国有林区、国有林场森林经
+营方案；完善国家、行业和地方标准，构建比
+较完备的森林经营技术标准体系；优化主要树
+种经营技术模式，基本建成以森林作业法为核
+心的经营技术体系；建设森林经营人才培训制
+度和培训体系，培养造就一支数量充足、结构
+合理、素质良好，适应林业发展要求的森林经
+营专业技术队伍、管理人员队伍和施工作业队
+伍。
+总体看，有利的政策支持为林业行业未来
+发展提供动力，未来发展前景较好。
+信息技术在林业方面的应用
+在科技和经济迅速发展的新时代下，林业
+信息化是促使林业科学发展的重要手段，是优
+化林业管理较重要的组成部分。加快推进林业
+的信息化，有利于逐渐建立起稳定安全、功能
+齐备、高效便捷、互通共享的林业信息化体系
+，促进林业管理科学化、办公规范化、服务便
+捷化、决策科学化，为建设现代林业打好基础
+。信息技术在林业发展方面主要应用在以下领
+域。
+监管森林资源，准确地监测森林资源，强化采
+伐利用、林地林权监督检查林业的管理工作，
+做到对全国的林地记录和森林资源调查数据的
+科学管理；可有效地监管湿地资源，利用信息
+技术准确地掌握我国湿地分布的状况，为实施
+湿地保护工作提供信息服务；可以有效地监管
+野生动植物资源。利用信息技术可以系统地掌
+握我国野生动植物的数量、种类以及分布的情
+况。
+在应急管理和灾害监控方面，可以适时监
+控火灾等灾害，通过地面监测站、手机信息平
+台和卫星遥感影像，及时监测起火的状况，还
+可以准确获取森林灾害信息，协助应急方案的
+制定。
+通过应用现代信息技术可动态地掌握林业
+的重点运行行业、重点发展地区、林产品的市
+场价格等，然后对所掌握的情况进行综合分析
+评价，实现对林业管理的信息化管理。
+总体看，将信息技术有效地应用到林业管
+理中，可提高林业管理工作的效率，增强工作
+准确性和安全性，节约时间，减少成本，促进
+我国林业的可持续发展。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="中林信达（北京）科技信息有限责任公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，中林信达资产总额分别为2501.30万
+元、3986.05万元和6404.30万元。同期，流动
+资产分别占当年总资产的36.32%、58.29%和56
+.12%；固定资产分别占当年总资产的0.88%、2
+2.81%、39.41%和24.53%，为对子公司的股权
+投资；2015年无形资产及其他资产占当年总资
+产的17.25%，主要为研发支出。近两年，随着
+公司经营规模的扩大，流动资产占比有所提升
+。
+截至2016年6月底，公司流动资产为5631.
+56万元，主要由货币资金、应收账款、其他应
+收款、预付账款和存货组成。其中，货币资金
+占流动资产的2.56%，货币资金保有量尚可；
+应收账款占35.72%，主要债务人为吉林省山水
+瑞通网络科技有限公司、黑龙江省沾河林业局
+、甘肃省张掖市林业局、文山市墨本科技有限
+公司和陕西龙朔通信技术有限公司，从客户性
+质来看，公司销售债权较有保障；其他应收款
+占37.09%，为往来款，主要债务人为阿尔山万
+泉城市基础设施投资有限公司、吉林省中林信
+达科技信息有限责任公司、东莞中南木业有限
+公司；预付账款占3.30%，为预付采购款；存
+货占20.98%，为在途物资、原材料、库存商品
+、工程材料和委托加工物资。
+总体看，中林信达资产质量较好，流动性
+尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>近三年，中林信达的流动比率分别为23.8
+0倍、1.88倍和0.64倍，速动比率分别为16.07
+倍、1.50倍和0.48倍，随着负债的快速上升，
+公司短期支付能力趋弱。
+近三年，公司经营活动产生的现金净流量
+分别为-
+1396.83万元、133.85万元和1918.57万元，公
+司在持续经营中获取净现金流的能力有所增强
+，有利于其偿债能力的提升。
+近三年，公司息税折旧摊销前盈余EBITDA</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年公司负债总额分别为38.17万元、1233.
+60万元和5635.75万元，均由流动负债构成，
+随着业务规模的扩大以及投入增加，公司负债
+呈现快速增长趋势。
+截至2016年6月底，中林信达负债总额为7
+571.33万元，均为流动负债，主要由应付账款
+、预收账款、应交税金和其他应付款构成。其
+中短期借款占0.40%，共计30万元，为在中国
+工商银行北京海淀西区支行的1年期借款；应
+付账款占23.43%，为应付采购款；预收账款占
+14.32%，为预收货款；应付工资占1.88%；应
+交税金占2.51%；其他应付款占53.52%，额度
+较大，主要是向股东等自然人的借款，用于补
+充经营资金。
+从财务构成看，近三年中林信达资产负债
+率分别为1.53%、30.95%和88.00%，呈快速上
+涨趋势，负债压力较大。
+一般。</enterprise:财务弹性>
+    <enterprise:盈利能力>2014和2015年，中林信达主营业务收入分
+别为1461.06万元和952.54万元，2015年销售
+收入有所下降，主要因为政府采购量减少；同
+期，主营业务利润率分别为66.66%和18.14%，
+下降明显，主要由于公司生产力度加大但2015
+年销售量较低所致。截至2016年6月底，公司
+已实现销售收入2257.49万元，比2015年全年
+收入增长137.00%，提升较快，经营状况趋好
+近三年，中林信达的总资产报酬率和净资
+产收益率，波动较大，主要由于公司经营情况
+尚不稳定，且现阶段投入的研发、市场费用较
+高，2015年出现亏损。
+2014-
+2015年，公司现金收入比分别为0.64倍和1.99
+倍，近期收入实现质量较好；2013-
+2015年，经营现金流入流出比分别为0.17倍、
+1.16倍和1.98倍，经营活动产生净现金流的能
+力较好。
+总体看，中林信达业务承接能力较强，发
+展趋势向好，获利能力将逐步显现。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="中林信达（北京）科技信息有限责任公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司有行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+有被执行记录；未发现公司有票据贴现、未决
+诉讼、对外担保等或有负债；未发现公司有银
+行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>联合信用未发现公司存在政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司整体盈利能力较弱，收入实现质
+量较差。 
+（2）公司资产中应收账款和其他应收款占
+比较大，账龄较长，对其资产质量及流动性带
+来一定的负面影响，关注其回款情况。 
+（3）公司经营活动获取现金的能力较弱且
+不稳定，整体现金流状况一般。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>联合信用未发现公司存在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2013年基本财务指标">
+    <enterprise:资产总额>2501.29 </enterprise:资产总额>
+    <enterprise:所有者权益>2463.13 </enterprise:所有者权益>
+    <enterprise:负债总额>38.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>-533.47 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2014年基本财务指标">
+    <enterprise:资产总额>3986.04 </enterprise:资产总额>
+    <enterprise:所有者权益>2752.45 </enterprise:所有者权益>
+    <enterprise:负债总额>1233.60 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1461.06 </enterprise:营业收入>
+    <enterprise:EBITDA>400.47 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2015年基本财务指标">
+    <enterprise:资产总额>6404.29 </enterprise:资产总额>
+    <enterprise:所有者权益>768.55 </enterprise:所有者权益>
+    <enterprise:负债总额>5635.75 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>952.54 </enterprise:营业收入>
+    <enterprise:EBITDA>-1564.12 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.45 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.21 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.25 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.18 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.13 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-21.80 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-21.46 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-12.10 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>14.02 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.68 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>17.48 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>-182.35 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-22.74 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-139.22 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2013年偿债能力指标">
+    <enterprise:流动比率>2379.26 </enterprise:流动比率>
+    <enterprise:速动比率>1606.39 </enterprise:速动比率>
+    <enterprise:资产负债率>1.53 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2014年偿债能力指标">
+    <enterprise:流动比率>188.34 </enterprise:流动比率>
+    <enterprise:速动比率>149.89 </enterprise:速动比率>
+    <enterprise:资产负债率>30.95 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="中林信达（北京）科技信息有限责任公司2015年偿债能力指标">
+    <enterprise:流动比率>63.77 </enterprise:流动比率>
+    <enterprise:速动比率>47.85 </enterprise:速动比率>
+    <enterprise:资产负债率>88.00 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-100.04 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-3658.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>67.12 </enterprise:毛利率>
+    <enterprise:成本费用利润率>65.35 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.64 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>10.85 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>171.85 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="中林信达（北京）科技信息有限责任公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>18.82 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-52.90 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.99 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>34.04 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>3.76 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-34.80 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-512.22 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="中林信达（北京）科技信息有限责任公司2013年资产负债表（资产）">
+    <enterprise:货币资金>6.88 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>299.05 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>307.39 </enterprise:其他应收款>
+    <enterprise:存货>295.08 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>908.40 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1571.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>25.29 </enterprise:固定资产原价>
+    <enterprise:累计折旧>3.40 </enterprise:累计折旧>
+    <enterprise:固定资产净额>21.89 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1592.89 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2501.29 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="中林信达（北京）科技信息有限责任公司2014年资产负债表（资产）">
+    <enterprise:货币资金>56.19 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>693.69 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>275.39 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>823.77 </enterprise:其他应收款>
+    <enterprise:存货>474.28 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2323.32 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1571.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>89.01 </enterprise:固定资产原价>
+    <enterprise:累计折旧>18.11 </enterprise:累计折旧>
+    <enterprise:固定资产净额>70.90 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>20.82 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1662.72 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3986.04 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="中林信达（北京）科技信息有限责任公司2015年资产负债表（资产）">
+    <enterprise:货币资金>930.98 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>363.25 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>449.69 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>952.77 </enterprise:其他应收款>
+    <enterprise:存货>897.16 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3593.85 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1571.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>115.82 </enterprise:固定资产原价>
+    <enterprise:累计折旧>44.17 </enterprise:累计折旧>
+    <enterprise:固定资产净额>71.65 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>62.95 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>6.20 </enterprise:无形资产>
+    <enterprise:开发支出>1087.74 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>10.90 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2810.44 </enterprise:非流动资产合计>
+    <enterprise:资产总计>6404.29 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中林信达（北京）科技信息有限责任公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>268.68 </enterprise:应付账款>
+    <enterprise:预收款项>108.68 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>2.21 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>121.60 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>732.43 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1233.60 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1233.60 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-247.55 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2752.45 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2752.45 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3986.05 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中林信达（北京）科技信息有限责任公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>268.68 </enterprise:应付账款>
+    <enterprise:预收款项>108.68 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>2.21 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>121.60 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>732.43 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1233.60 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1233.60 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-247.55 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2752.45 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2752.45 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3986.05 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="中林信达（北京）科技信息有限责任公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>30.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1061.46 </enterprise:应付账款>
+    <enterprise:预收款项>680.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>103.69 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-4.94 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>3765.54 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>5635.75 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>5635.75 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3100.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-2331.45 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>768.55 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>768.55 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>6404.30 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="中林信达（北京）科技信息有限责任公司2013年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>307.59 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>238.75 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-9.58 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-298.01 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.11 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-298.12 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-298.12 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-298.12 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="中林信达（北京）科技信息有限责任公司2014年利润表">
+    <enterprise:营业收入>1461.06 </enterprise:营业收入>
+    <enterprise:主营业务收入>1461.06 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>480.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>480.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>6.65 </enterprise:营业税金及附加>
+    <enterprise:销售费用>396.15 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>191.69 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.37 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>577.45 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>577.45 </enterprise:利润总额>
+    <enterprise:所得税费用>96.44 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>481.01 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>481.01 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="中林信达（北京）科技信息有限责任公司2015年利润表">
+    <enterprise:营业收入>952.54 </enterprise:营业收入>
+    <enterprise:主营业务收入>952.54 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>773.26 </enterprise:营业成本>
+    <enterprise:主营业务成本>773.26 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>6.48 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1106.66 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>520.21 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>136.09 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-1069.95 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.02 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-1069.97 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-1069.97 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-1069.97 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年中林信达（北京）科技信息有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>295.08 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>295.08 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>298.89  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>140.67 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>-2.35 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1254.71 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1691.92 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1396.84 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>25.29 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1571.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1596.29 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1596.29 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>3000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>3000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>6.87 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年中林信达（北京）科技信息有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>934.49 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>39.92 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>974.41 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>370.83  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>258.41 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>39.92 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>171.40 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>840.56 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>133.85 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>84.54 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>84.54 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-84.54 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>49.31 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年中林信达（北京）科技信息有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1892.40 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1978.63 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3871.03 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>577.66  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1153.01 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>22.88 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>198.91 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1952.46 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1918.57 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1173.79 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1173.79 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1173.79 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>100.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>100.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>844.78 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="中林信达（北京）科技信息有限责任公司股东：李鸿泽 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李鸿泽 </enterprise:股东名称>
+	 <enterprise:货币>1,050.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>35.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中林信达（北京）科技信息有限责任公司股东：李波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李波 </enterprise:股东名称>
+	 <enterprise:货币>750.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>25.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中林信达（北京）科技信息有限责任公司股东：刘文鹏 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘文鹏 </enterprise:股东名称>
+	 <enterprise:货币>600.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="中林信达（北京）科技信息有限责任公司股东：苑占永 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>苑占永 </enterprise:股东名称>
+	 <enterprise:货币>600.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：林宝">
+	<enterprise:有申请日期>17-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>林宝</enterprise:有商标名称>
+	<enterprise:有注册号>23318904</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：TRACEVISION">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>TRACEVISION</enterprise:有商标名称>
+	<enterprise:有注册号>21050462</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：TRACEVISION">
+	<enterprise:有申请日期>16-8-22</enterprise:有申请日期>
+	<enterprise:有商标名称>TRACEVISION</enterprise:有商标名称>
+	<enterprise:有注册号>21050461</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：卓视">
+	<enterprise:有申请日期>16-6-6</enterprise:有申请日期>
+	<enterprise:有商标名称>卓视</enterprise:有商标名称>
+	<enterprise:有注册号>20208317</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：林宝">
+	<enterprise:有申请日期>16-2-26</enterprise:有申请日期>
+	<enterprise:有商标名称>林宝</enterprise:有商标名称>
+	<enterprise:有注册号>19159691</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>16-2-26</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>19159692</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>16-2-26</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>19159693</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：FOREST WATCHER">
+	<enterprise:有申请日期>11-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>FOREST WATCHER</enterprise:有商标名称>
+	<enterprise:有注册号>9824894</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：FOREST WATCHER">
+	<enterprise:有申请日期>11-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>FOREST WATCHER</enterprise:有商标名称>
+	<enterprise:有注册号>9824750</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：FOREST WATCHER">
+	<enterprise:有申请日期>11-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>FOREST WATCHER</enterprise:有商标名称>
+	<enterprise:有注册号>9824967</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：FOREST WATCHER">
+	<enterprise:有申请日期>11-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>FOREST WATCHER</enterprise:有商标名称>
+	<enterprise:有注册号>9824949</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：FOREST WATCHER">
+	<enterprise:有申请日期>11-8-9</enterprise:有申请日期>
+	<enterprise:有商标名称>FOREST WATCHER</enterprise:有商标名称>
+	<enterprise:有注册号>9825003</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：森林眼">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>森林眼</enterprise:有商标名称>
+	<enterprise:有注册号>9770842</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：森林眼">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>森林眼</enterprise:有商标名称>
+	<enterprise:有注册号>9770869</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9770985</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9770943</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：森林眼">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>森林眼</enterprise:有商标名称>
+	<enterprise:有注册号>9770848</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：森林眼">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>森林眼</enterprise:有商标名称>
+	<enterprise:有注册号>9770861</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：森林眼">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>森林眼</enterprise:有商标名称>
+	<enterprise:有注册号>9770845</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9770883</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9770908</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="中林信达（北京）科技信息有限责任公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-27</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9770924</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="中林信达（北京）科技信息有限责任公司的专利信息：一种对垂直转动部件产生的重力矩加以补偿的机构">
+	<enterprise:有申请公布日>2017-02-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对垂直转动部件产生的重力矩加以补偿的机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610798436.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106454222A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中林信达（北京）科技信息有限责任公司的专利信息：一种高精度手动调平装置">
+	<enterprise:有申请公布日>2016-09-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高精度手动调平装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620370853.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205560170U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中林信达（北京）科技信息有限责任公司的专利信息：大场景监控下全覆盖巡航参数的自动配置方法及装置">
+	<enterprise:有申请公布日>2016-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>大场景监控下全覆盖巡航参数的自动配置方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610390679.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105915800A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中林信达（北京）科技信息有限责任公司的专利信息：球台">
+	<enterprise:有申请公布日>2016-08-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>球台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630149406.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303770667S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="中林信达（北京）科技信息有限责任公司的专利信息：摄像机视场角的测量方法、装置以及摄像机视场角测量仪">
+	<enterprise:有申请公布日>2016-06-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>摄像机视场角的测量方法、装置以及摄像机视场角测量仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610086621.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105716582A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：双光谱火情识别系统">
+	<enterprise:有批准日期>17-4-13</enterprise:有批准日期>
+	<enterprise:有软件全称>双光谱火情识别系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR113496</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：森林防火综合管理系统">
+	<enterprise:有批准日期>16-12-19</enterprise:有批准日期>
+	<enterprise:有软件全称>森林防火综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR380552</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火灾档案管理系统">
+	<enterprise:有批准日期>17-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>火灾档案管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR006849</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：林火视频监控系统">
+	<enterprise:有批准日期>17-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>林火视频监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR006846</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：多站点通视覆盖仿真系统">
+	<enterprise:有批准日期>16-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>多站点通视覆盖仿真系统</enterprise:有软件全称>
+	<enterprise:有软件简称>多点通视分析系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR309048</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火情数据实时加密传输软件">
+	<enterprise:有批准日期>15-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>火情数据实时加密传输软件</enterprise:有软件全称>
+	<enterprise:有软件简称>火情数据传输软件</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR223250</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火情数据在线定时训练系统">
+	<enterprise:有批准日期>15-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>火情数据在线定时训练系统</enterprise:有软件全称>
+	<enterprise:有软件简称>火情数据训练系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR223196</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火情数据在线分类检索系统">
+	<enterprise:有批准日期>15-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>火情数据在线分类检索系统</enterprise:有软件全称>
+	<enterprise:有软件简称>火情数据检索系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR222424</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火情数据样本框选提取处理系统">
+	<enterprise:有批准日期>15-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>火情数据样本框选提取处理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>火情数据样本处理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR223186</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：移动终端定位系统">
+	<enterprise:有批准日期>15-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>移动终端定位系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR222583</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火点定位分析系统">
+	<enterprise:有批准日期>15-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>火点定位分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR223226</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：灾损评估系统">
+	<enterprise:有批准日期>15-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>灾损评估系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR223394</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：森林防火瞭望定位系统">
+	<enterprise:有批准日期>15-7-15</enterprise:有批准日期>
+	<enterprise:有软件全称>森林防火瞭望定位系统</enterprise:有软件全称>
+	<enterprise:有软件简称>防火瞭望定位系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR133698</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：火情定位系统">
+	<enterprise:有批准日期>13-11-5</enterprise:有批准日期>
+	<enterprise:有软件全称>火情定位系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR119805</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：森林眼算法系统">
+	<enterprise:有批准日期>13-11-5</enterprise:有批准日期>
+	<enterprise:有软件全称>森林眼算法系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR119801</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作：森林火灾扑救指挥与灾损评估系统">
+	<enterprise:有批准日期>13-11-5</enterprise:有批准日期>
+	<enterprise:有软件全称>森林火灾扑救指挥与灾损评估系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR119807</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="中林信达（北京）科技信息有限责任公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="中林信达（北京）科技信息有限责任公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="中林信达（北京）科技信息有限责任公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="中林信达（北京）科技信息有限责任公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="中林信达（北京）科技信息有限责任公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="中林信达（北京）科技信息有限责任公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="中林信达（北京）科技信息有限责任公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="中林信达（北京）科技信息有限责任公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="中林信达（北京）科技信息有限责任公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="中林信达（北京）科技信息有限责任公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="中林信达（北京）科技信息有限责任公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="中林信达（北京）科技信息有限责任公司的软件著作数量">
+	<enterprise:软件著作总计>11</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>3</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>8</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="中林信达（北京）科技信息有限责任公司的专利数量">
+	<enterprise:专利总计>0</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="中林信达（北京）科技信息有限责任公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

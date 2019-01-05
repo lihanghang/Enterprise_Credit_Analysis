@@ -1,0 +1,1327 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京硕瑞伟业控制技术股份有限公司的企业概况">
+    <enterprise:有名称>北京硕瑞伟业控制技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087501291020</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>1101020001597256</enterprise:有中征码>
+    <enterprise:有基本账户开户行>广发银行北京中关村支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003年05月16日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>4375万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>3,500.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务、技术推广；销售计算机、软件及辅助设备、电子产品、风力发电机组、风力发电机组零件、太阳能组件（太阳能电池）、控制设备及其他太阳能设备和元器件、不间断供电电源（UPS)、分体挂壁式空气调节器、避雷器、电涌抑制器、低压电力控制或电力分配装置、通讯设备、五金、交电、化工产品（不含危险化学品及一类易制毒化学品）、日用品、金属材料、文化用品、体育用品、建筑材料。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务、技术推广；销售计算机、软件及辅助设备、电子产品、风力发电机组、风力发电机组零件、太阳能组件（太阳能电池）、控制设备及其他太阳能设备和元器件、不间断供电电源（UPS)、分体挂壁式空气调节器、避雷器、电涌抑制器、低压电力控制或电力分配装置、通讯设备、五金、交电、化工产品（不含危险化学品及一类易制毒化学品...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>光伏设备及元器件制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区北三环西路48号北京科技会展中心写字楼1506室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市昌平区小汤山工业园西区</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102211</enterprise:有邮政编码>
+    <enterprise:有联系人>丁宇</enterprise:有联系人>
+    <enterprise:有联系电话>010-82511959</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.powsys.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京硕瑞伟业控制技术股份有限公司前身
+为北京硕瑞伟业控制技术有限公司（以下简称
+“硕瑞有限”），成立于2003年5月16日，后
+于2016年4月完成股份制改造，经北京市工商
+行政管理局海淀分局核准，更为现名。公司注
+册地址为北京市海淀区北三环西路48号北京科
+技会展中心写字楼1506室，法定代表人李群，
+初始注册资本为300万元，后经三次增资及四
+次股权变更，目前注册资本为4375万元，股东
+及其持股比例如下表：
+   表一：硕瑞伟业股东及股权比例
+出资金额
+股东名称 股权比例 出资形式
+（万元）
+丁海 61.10% 2673.125 净资产折股
+北京启阳信息
+咨询中心（有 20.00% 875.000 净资产折股
+限合伙）
+李群 10.00% 437.500 净资产折股
+张磊 4.90% 214.375 净资产折股
+丁宇 4.00% 175.000 净资产折股
+合计 100.00% 4375.000 -
+硕瑞伟业是一家专注于为客户提供以太阳
+能为主的新能源应用系统整体解决方案和太阳
+能为主的新能源发电控制系统以及UPS的研发
+、生产、销售和技术服务的企业。公司的UPS
+业务是通过收购北京中创瑞普科技有限公司（
+以下简称“中创瑞普”）以及上海硕瑞控制技
+术有限公司（以下简称“上海硕瑞”）控股权
+的方式实现的，其全资子公司中创瑞普主营业
+务为从事UPS不间断电源系统的研发、生产、
+销售和技术服务，其全资子公司上海硕瑞主营
+业务为从事UPS不间断电源系统的销售及技术
+服务。2010年9月，公司获得“中国国家强制
+性产品认证证书”，并于2016年8月通过再次
+认证；2011年8月，公司获得“GB/T19001-
+2008/ISO9001：2008质量管理体系认证证书”
+，并于2016年9月通过再次认证；2014年3月，
+公司获得“GB/T24001-
+2004/ISO14001：2004环境管理体系认证证书
+”，并于2016年9月通过再次认证；2015年7月
+，公司获得“中关村高新技术企业”认证证书
+；2015年12月，公司获得“GB/T28001-
+2011/OHSAS18001：2007职业健康安全管理体
+系认证证书”。
+截至2015年底，硕瑞伟业资产总额为5676
+.65万元，净资产为4741.24万元；2015年累计
+实现主营业务收入4716.46万元，利润总额841
+.06万元；2015年公司经营活动产生的现金流
+量净额为1339.86万元，投资活动产生的现金
+流量净额为-
+1027.31万元，筹资活动产生的现金流量净额
+为422.37万元，现金及现金等价物净增加额为
+734.91万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京硕瑞伟业控制技术股份有限公司的基础素质">
+    <enterprise:有管理素质>硕瑞伟业董事长丁海先生，毕业于北京农
+业工程大学，硕士研究生学历。丁海先生1991
+年7月至1992年9月于内蒙古电力集团公司锡盟
+电业局任农电科科员；1995年7月至1997年11
+月于北京农业工程大学电力学院电机学教研室
+任教；1997年11月至今，于中创瑞普任执行董
+事兼总经理；2001年11月至今任新加坡POWSYS
+公司董事；2002年5月至今任上海硕瑞执行董
+事；2002年10月至今任加拿大POWSYS公司董事
+；2003年5月至2016年3月担任硕瑞有限监事；
+2014年3月至今任加拿大CPC公司董事；2015年
+11月至今担任启阳信息执行事务合伙人；2016
+年4月至今于硕瑞伟业担任董事长。丁海先生
+在多年工作中积累了丰富的管理经验，熟悉行
+业内专业技术及市场需求，能够较好的把控公
+司发展方向。
+硕瑞伟业法定代表人兼总经理李群先生，
+毕业于北京农业工程大学，硕士研究生学历。
+李群先生1989年8月至1992年9月于山东农业大
+学实验室管理处担任助工；1995年11月至2016
+年4月，先后担任上海中创纪机电设备有限责
+任公司销售经理、总经理、执行董事；1998年
+10月至今，于北京世纪通宇电气有限公司担任
+监事；2002年12月至今，担任上海硕瑞监事；
+2012年5月至2016年4月，先后担任硕瑞有限执
+行董事、总经理职务；2016年4月至今于硕瑞
+伟业任董事、总经理。
+硕瑞伟业副总经理顾卫东先生，毕业于北
+京计算机学院，本科学历。顾卫东先生1992年
+9月至1997年1月，于中国长城计算机集团公司
+珠海分公司任销售业务员；1997年2月至2014
+年9月，任中创瑞普销售经理；2014年10月至2
+015年12月，任北京京港康可达经贸有限责任
+公司业务经理；2016年1月至2016年3月，任中
+创瑞普副总经理；2016年4月至今，担任硕瑞
+伟业董事、副总经理。
+硕瑞伟业财务总监丁宇女士，毕业于中央
+民族大学，本科学历。丁宇女士1997年9月至2
+000年10月于北京汉亚营养科技有限公司先后
+月于永恩投资（集团）有限公司任财务主管；
+2004年5月至2011年3月，于北京游龙网网络科
+技有限公司任财务经理；2011年4月至2016年3
+月，任硕瑞有限财务总监；2016年4月至今于
+硕瑞伟业任董事、财务总监。
+总体看，硕瑞伟业核心管理者在企业管理
+、技术研发、财务管理等方面经验丰富，专业
+知识较好，为公司的发展提供了保障。</enterprise:有管理素质>
+    <enterprise:有人员素质>硕瑞伟业现有员工总数38人，其中研发人
+员10人，研发人员中硕士研究生学历3人、本
+科学历7人。依照硕瑞伟业目前承接的项目看
+，当前的技术人员以及技术人员所具有的专业
+知识和技术技能可满足其技术研发需求。
+硕瑞伟业核心技术人员宋正杰先生，本科
+学历。宋正杰先生2008年6月至2009年2月在长
+城汽车股份有限公司汽车电路控制研究院任职
+；2009年2月至2011年5月在中创瑞普工程部担
+任工程师；2011年5月至2016年4月在硕瑞有限
+担任研发部门工程师；2016年4月至今在硕瑞
+伟业担任研发工程师。
+总体看，硕瑞伟业核心技术人员均在相关
+领域从业多年，掌握了一定的相关技术，有利
+于公司核心技术的研究和开发，为其项目的承
+接提供技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>硕瑞伟业的核心管理人员和技术人员，尤
+其是董事长丁海和李群先生均从事技术研究和
+开发工作多年，具有丰富的研发经验，且公司
+研发团队核心技术人员较为稳定。公司设有研
+发实验室，并配备福禄克万用表、泰克示波器
+实验设备。此外，公司与相关高校亦建立了技
+术研发的合作关系，为公司核心技术提供了较
+强的技术后盾。公司近三年研发方面有持续的
+资金投入，随着公司技术的升级，研发费用支
+出呈现一定增长趋势，目前研发投入能够较好
+地支撑公司自主研发工作的正常运行。
+截至报告日，硕瑞伟业获得的知识产权包
+括有：“通风系统”、“智能换热式空调器”
+、“高频隔离型光伏控制器”三项实用新型专
+利证书； 
+“48V直流智能通风式空调器上位机监控软件V
+1.0”、“风光互补一体化控制器上位机监控
+软件V1.0”、“通信基站用风力发电系统实时
+监控软件V1.0”、“负载下电控制器控制软件
+V1.0”、“通信协议转换器软件V1.0”、“PO
+WSYS 
+UPS整流控制器软件V1.0”、“电力直流电源
+监控软件V1.0”、“通信一体化电源监控软件
+V1.0”和“POWSYS 
+UPS逆变控制器软件V1.0”九项计算机软件著
+作权登记证书。
+总体看，硕瑞伟业对研发较为重视，公司
+具备一定的自主创新能力，公司针对市场需求
+开发技术产品，并获得相应的科研成果，研发
+成果已实现一定的市场转化。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京硕瑞伟业控制技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>硕瑞伟业主营业务主要涉及以太阳能为主
+的新能源应用系统整体解决方案；太阳能为主
+的新能源发电控制系统和UPS的研发、生产、
+销售和技术服务。公司主导产品为以太阳能为
+主的新能源发电系统和UPS产品两大类，其中
+新能源发电系统由硕瑞伟业研发、销售及提供
+技术服务，由中创瑞普组装、生产；UPS产品
+的生产及研发由中创瑞普负责，技术服务及销
+售由中创瑞普、上海硕瑞共同完成。
+新能源发电系统是指利用风能、光能等可再生
+能源发电的设备，根据利用新能源发电系统发
+电目的的不同，可以分为离网发电和并网发电
+。离网型新能源发电系统是利用光伏组件或风
+力发电机等设备发电，经控制器对蓄电池进行
+充放电管理，并给直流负载提供电能或通过逆
+变器给交流负载提供电能的一种新型电源。广
+泛应用于不通电的高原、海岛、偏远山区，也
+可作为通讯基站、广告灯箱、路灯等供电电源
+。离网型新能源发电系统可有效缓解电力短缺
+地区的需求矛盾，解决偏远地区的生活及通讯
+问题。
+公司开发的新能源发电系统主要为适用于
+通信基站等场景的离网发电系统，可将太阳能
+、风能等新能源转化为电能储存在电池中，持
+续稳定的为用电设备供电；还可利用新能源发
+电系统中的智能监控系统和负载用电管理系统
+实现发电、供电工作过程的智能管理，在电量
+不足的情况下，根据设定程序，依次关闭不重
+要的用电设备，最大限度保证重要用电设备供
+电时间。公司开发的新能源发电系统按照利用
+能源的种类主要可分为太阳能发电系统、风光
+互补发电系统，目前公司已开发出多款适用于
+不同场景使用的新能源发电系统满足客户需求
+。
+此外，公司从事的新能源发电控制系统的
+制系统的组装、加工。公司新能源发电系统除
+控制器外的其他部件，例如太阳能电池、支架
+等均系硕瑞伟业向外部供应商采购，依据新能
+源发电系统产品相关技术规程，进行项目现场
+组装。目前，公司控制器已经实现了集中数据
+管理独立模块运行，公司可根据客户拟利用能
+源的种类、输出功率等条件利用标准化的模块
+组装控制器；同时新能源发电控制系统具有远
+程监控接口，可通过GPRS将现场采集的数据实
+时直接远传回控制中心，实现远程监控整个系
+统工作状态。
+采购方面，公司采购主要包括太阳能电池
+板、风力发电机、UPS柜体等新能源发电系统
+、UPS产品组件。公司新能源发电系统除控制
+器外其他组件如太阳能电池板、风力发电机、
+支架等均系向供应商采购，相关采购主要由硕
+瑞伟业母公司采购部门完成；UPS产品原材料
+采购主要由中创瑞普采购部门完成。采购部门
+依据公司相关规程，根据供应商询价结果，并
+结合产品质量、供应商信誉等因素综合考虑选
+择最优供应商并签订采购合同，货物运抵公司
+或指定场地验收合格后入库。与供应商结算方
+面，公司一般需预付一定比例货款，与长期合
+作的供应商享有一定账期。目前看，公司对于
+太阳能电池板的年采购额相对较大，且根据与
+供应商的支付方式来看，或将对公司的资金周
+转产生一定压力。
+生产方面，由于公司新能源发电系统、UP
+S产品的特点，公司生产主要采取以销定产的
+模式进行。公司新能源发电控制系统由中创瑞
+普依据公司相关技术标准加工制得，新能源发
+项目现场，组装而成。公司UPS产品组装、生
+产由中创瑞普完成，中创瑞普生产部门根据营
+销部门提供的需求信息，编制并执行生产计划
+；生产车间根据生产计划向仓储部门限额领用
+物料并配合财务部进行各种定额消耗指标的考
+核；生产车间按照ISO9000、ISO14000要求组
+织生产并严格执行工艺规程及标准操作规程，
+实现车间管理的规范化、标准化；产品生产过
+程中及生产完成后按公司相关规定进行质量技
+术检测，检测合格后入库。
+销售方面，公司新能源发电系统主要适用
+于通讯基站等场景使用的离网发电系统，最终
+用户为中国移动、铁塔公司等通讯基站建设单
+位，公司已与最终客户建立了良好的合作关系
+，为中国移动的合格供应商。公司新能源发电
+系统销售通过硕瑞伟业母公司实现，报告期内
+，硕瑞伟业母公司新能源发电系统销售主要采
+用协助中国科学器材有限公司参与中国移动、
+铁塔公司等新能源发电系统最终用户直接公开
+投标的模式取得订单，硕瑞伟业母公司与中国
+科学器材有限公司根据招标要求组织项目评审
+、标书制作、商务报价等环节后，将竞标文件
+和商务报价送至相关客户采购部门，中国科学
+器材有限公司中标后依据与中国移动等最终客
+户签署合同的约定向公司订货，硕瑞伟业母公
+司依据中国科学器材有限公司订单向中国移动
+等最终用户供货并提供相关的技术服务。硕瑞
+伟业母公司招标信息主要通过中国采购与招标
+网及客户官网等方式获取。目前，硕瑞伟业母
+公司已与中国科学器材有限公司就移动通信系
+列项目采购相关产品的事项达成长期战略合作
+优先考虑向硕瑞伟业母公司采购相关产品，硕
+瑞伟业母公司为中国科学器材有限公司战略供
+应商。与客户结算方面，公司一般按照到货后
+预收70%款项，安装调试后收取20%，留有10%
+质保金的方式收款，一般整个项目周期在一至
+两年左右。
+公司自成立以来积极探索适应市场需求的
+销售模式，经过多年的努力，目前公司已经形
+成了辐射华北、华东、东北、西北以及西南等
+地区的销售网络，公司还使用中国拟在建项目
+网、中国采购与招标网等网络平台销售。为满
+足产品后续服务质量的要求，公司在西藏、陕
+西、上海、辽宁、四川、内蒙古等省设立了联
+络处，公司配备了专业的营销人员，专职于新
+能源发电系统和UPS市场的调研，在不断开发
+新客户的同时，对现有客户进行跟踪服务，对
+其潜在需求进行深度挖掘，以提升客户的满意
+度，增强客户粘性，提高产品销量。
+图一：公司2013-
+2015年总资产、净资产、主营业务收入、
+利润总额趋势图（万元）
+从经营成果来看，凭借公司股东北京启阳
+信息咨询中心（有限合伙）于2015年底的增资
+875万元，使得公司总资产和净资产规模有所
+关宏观经济环境影响，下游客户业务需求有所
+增加，致使公司主营业务收入和利润总额均呈
+持续增长的态势。现阶段，我国通信基站建设
+稳步推进，将为基站新能源发电系统提供良好
+的市场空间，通信行业基础设施建设将持续升
+温，有利于公司新能源发电系统业务未来发展
+。君维诚同时也关注到，相比同类企业而言，
+硕瑞伟业技术实力尚可，但目前公司资本实力
+仍较为有限，与国内和国外的一些大型同类企
+业相比仍存有一定差距，且公司现阶段融资渠
+道相对单一，在一定程度上束缚了公司快速发
+展。
+总体来看，硕瑞伟业综合实力逐步得到增
+强，提供的产品和服务市场定位明确，随着全
+社会的环保意识不断增强，以太阳能、风能为
+代表的新能源发电越来越受到广泛认可，公司
+主营业务未来发展向好，但随着行业的快速发
+展、市场规模的进一步增大以及市场资源整合
+进程的加快，其竞争压力有可能加大，或对其
+产生一定负面影响。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>硕瑞伟业的最高权力机构为股东大会，股
+东大会下设董事会，董事会向股东大会负责，
+公司实行董事会领导下的总经理负责制。在董
+事会的领导下，由总经理负责公司日常经营与
+管理，公司下设财务部、研发部、人力资源部
+、储运部、采购部、营销部。目前公司在治理
+方面的各项规章制度主要有《公司章程》、《
+股东大会议事规则》、《董事会议事规则》、
+《监事会议事规则》、《关联交易管理制度》
+、《对外担保管理制度》、《重大经营及投融
+着公司经营活动的开展，其管理模式、规章制
+度、业务流程将逐渐完善，有利于其整体发展
+。但是，由于股份公司成立的时间较短，公司
+短期内仍可能存在治理不规范、相关内部控制
+制度不能有效执行的风险。
+从管理效果来看，2013-
+2015年硕瑞伟业成本率分别为113.69%、93.02
+%和82.17%，整体呈逐年下降的趋势，公司综
+合成本控制能力的增强，有利于获利能力的进
+一步提升；同期，公司管理费用率分别为1.56
+%、13.37%和12.25%，整体看，公司管理费用
+控制能力尚可。
+从运营效果来看， 2013-
+2015年硕瑞伟业应收账款周转率分别为14.49
+次、7.56次和8.52次，整体呈波动下降的趋势
+，但目前看回款效率尚可；同期，公司存货周
+转率分别为16.52次、3.17次和3.71次，公司
+存货主要包括原材料和库存商品，公司存货状
+态正常，均为销售所需，存货周转效率尚可；
+同期，公司总资产周转率分别为0.87次、0.70
+次和0.90次，公司总资产周转率处于行业一般
+水平。
+总体看，硕瑞伟业部门设置符合其目前发
+展需要，管理制度逐渐完善，目前管理效率尚
+可，整体运营效率一般。近年来，随着我国新
+能源发电行业的快速发展建设，公司业务实现
+同步发展，公司未来成长性良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>近年来，国务院、发改委、财政部等有关
+部门推出了一系列政策、措施，从资金、技术
+、人才等多方面、全方位鼓励可再生能源利用
+发电控制系统的持续研发、优化提升公司新能
+源发电系统的质量及性能，以质量、性能优势
+服务终端客户。此外新能源发电设备和UPS产
+品技术的不断升级和广泛使用，市场对产品高
+端化、定制化以及技术升级等方面的需求将进
+一步提升，为满足上述要求，公司计划进一步
+强化国内市场技术服务及营销网络的建设，提
+升营销效率。
+硕瑞伟业预计2016年实现主营业务收入80
+00万元，利润总额1000万元。结合公司近几年
+销售情况及目前的经营状况来看，该销售预期
+的实现存在一定可能性。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京硕瑞伟业控制技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，硕瑞伟业总资产分别为4790.28万元
+、4837.66万元和5676.65万元，其中，流动资
+产分别占当年总资产的99.72%、98.96%和36.5
+5%；2015年长期投资占当年总资产的63.12%，
+主要为对其全资子公司中创瑞普和上海硕瑞的
+长期股权投资；其余小部分由固定资产和无形
+资产及其他资产构成。从近三年的资产占比变
+化来看，公司主要以流动资产和长期投资为主
+，整体看其资产结构构成符合其经营现状。
+截至2015年底，公司流动资产为2074.54
+万元，主要由货币资金、应收账款、其他应收
+款、预付账款和存货构成。其中，货币资金占
+36.68%；应收账款占13.64%，账龄大部分在一
+年以内，有少部分账款的账龄较长，公司依照
+一定比例计提了还账准备，主要债务人为中国
+科学器材有限公司、中国移动通信内蒙古有限
+公司呼和浩特分公司和中国移动通信集团湖南
+有限公司，其中，中国科学器材有限公司占公
+司应收账款总额的86.36%，存在单一客户依赖
+程度较高的现象，不利于经营风险的分散；其
+他应收款占22.72%，主要为与公司实际控制人
+丁海的往来款；预付账款占4.31%；存货占22.
+65%，存货主要包括原材料和库存商品，结合
+其存货周转率来看，该部分资产质量尚可。
+截至2016年5月底，公司资产总额增至735
+0.43万元，流动资产增至2982.57万元，其资
+产结构与年初相比，变化主要体现为货币资金
+的减少以及应收账款和存货的增加，符合其快
+速发展的经营现状。
+总体看，硕瑞伟业资产配置符合其经营现
+状，目前其资产质量和资产流动性尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，硕瑞伟业流动比率分别为2.43倍、2.
+74倍和2.22倍；同期，公司速动比率分别为2.
+26倍、2.09倍和1.72倍，公司短期支付能力较
+强。
+2013-
+2015年，硕瑞伟业经营活动产生的现金净流量
+分别为-
+3006.01万元、514.32万元和1339.86万元，公
+司经营活动产生净现金流的能力逐年快速提升
+，利于经营稳定性的增强；同期，公司息税折
+旧摊销前盈余EBITDA分别为-
+374.24万元、237.22万元和844.99万元，公司
+获取自由现金的能力快速提升，对其偿债能力
+的提升产生一定积极影响。
+截至报告日，硕瑞伟业现有有息债务1000
+万元。公司2016年预计实现主营业务收入8000
+万元，利润总额1000万元，若该经营计划得以
+实现，以2015年底的财务数据测算，公司可形
+成的EBITDA对其现有有息债务本金的保障程度
+尚可。
+综合考虑硕瑞伟业经营状况、资产构成、
+盈利状况及财务结构等因素，君维诚认为公司
+未来一个时期内发生信用风险的可能性一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+成，分别为1968.73万元、1744.80万元和935.
+42万元。
+截至2015年底，公司流动负债为935.42万
+元，主要由应付账款、应付工资、应交税金和
+其他应付款构成。其中，应付账款占70.21%，
+账龄大部分在一年以内；应付工资占7.28%；
+应交税金占22.27%；其他应付款占0.24%。
+截至2016年5月底，硕瑞伟业负债总额增
+至2453.67万元，全部由流动负债构成，其负
+债结构与年初相比，变化主要体现为短期借款
+增加至1000万元，为2016年2月4日向北京银行
+海淀园支行的一年期借款875万元以及2016年4
+月21日向北京银行海淀园支行的一年期借款12
+5万元，其他科目变化不大，符合其经营现状
+。
+2013-
+2015年，公司资产负债率分别为41.10%、36.0
+7%和16.48%，整体负债程度逐年减轻。
+总体看，硕瑞伟业目前负债压力不大，财
+务弹性较好，结合其发展趋势和当前经营状况
+来看，公司仍具有一定的外部债务融资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，硕瑞伟业实现主营业务收入分别为27
+50.18万元、3350.28万元和4716.46万元，公
+司2015年度较2014年度主营业务收入增长主要
+系太阳能发电系统、风光互补发电系统等新能
+源发电系统收入增长所致；同期，公司主营业
+务利润率分别为-
+0.66%、30.42%和36.63%，公司毛利率快速提
+升主要系公司销售的太阳能发电系统毛利较高
+观经济影响，太阳能电池板等主要原材料市场
+价格下降；公司加强了对采购环节成本的管理
+，主要零部件采购多方询价，并与综合条件最
+优供应商达成供货协议，2015年度材料采购成
+本有所下降。
+图二：近三年公司盈利能力状况（万元，%）
+2013-
+2015年，硕瑞伟业总资产报酬率分别为-
+7.86%、4.84%和14.82%；同期，公司净资产收
+益率分别为-
+13.34%、5.66%和16.31%，主要因2015年公司
+获取利润能力的大幅提升，进而导致两项资产
+获利能力指标快速提升。
+2013-
+2015年，硕瑞伟业现金收入比分别为1.46倍、
+1.30倍和1.19倍，收入实现质量较好；同期，
+公司经营现金流入流出比分别为0.83倍、1.06
+倍和1.12倍，经营活动产生净现金的能力较强
+。
+总体看，硕瑞伟业随着经营活动的展开，
+其经营规模逐步扩大，核心技术增强了其获取
+效益的能力，且收入实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京硕瑞伟业控制技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>目前公司无信用风险与合规性风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>目前国内煤炭行业产能过剩问题日渐突
+出，部分煤炭企业出现严重的经营困难，整
+个行业发展面临瓶颈，上述不利因素对公司
+收入水平和经营效率造成了一定的影响。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>受行业资金链收紧等因素影响，公司的
+应收、应付账款堆积严重，收入实现质量趋
+于一般。
+公司2015年利润总额虽较去年有所提高
+，但这一部分原因是得益于政府补贴，公司
+实际盈利能力一般。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司暂无其他风险。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>4790.28 </enterprise:资产总额>
+    <enterprise:所有者权益>2821.55 </enterprise:所有者权益>
+    <enterprise:负债总额>1968.72 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2750.18 </enterprise:营业收入>
+    <enterprise:EBITDA>-374.24 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>4837.66 </enterprise:资产总额>
+    <enterprise:所有者权益>3092.86 </enterprise:所有者权益>
+    <enterprise:负债总额>1744.80 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3350.28 </enterprise:营业收入>
+    <enterprise:EBITDA>237.22 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>5676.65 </enterprise:资产总额>
+    <enterprise:所有者权益>4741.24 </enterprise:所有者权益>
+    <enterprise:负债总额>935.41 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4716.46 </enterprise:营业收入>
+    <enterprise:EBITDA>844.99 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.87 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>14.49 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>16.52 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.70 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>7.56 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.17 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.90 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.52 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.71 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-13.34 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-7.86 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-11.61 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>7.56 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.84 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>18.88 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>17.74 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>14.82 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>26.36 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>242.64 </enterprise:流动比率>
+    <enterprise:速动比率>225.86 </enterprise:速动比率>
+    <enterprise:资产负债率>41.10 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>274.38 </enterprise:流动比率>
+    <enterprise:速动比率>209.40 </enterprise:速动比率>
+    <enterprise:资产负债率>36.07 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>221.78 </enterprise:流动比率>
+    <enterprise:速动比率>171.55 </enterprise:速动比率>
+    <enterprise:资产负债率>16.48 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>-0.29 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-10.61 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.46 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-152.69 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.83 </enterprise:毛利率>
+    <enterprise:成本费用利润率>24.14 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.30 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>29.48 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>21.82 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-162.14 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>36.87 </enterprise:毛利率>
+    <enterprise:成本费用利润率>38.49 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.19 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>143.24 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>40.78 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>259.58 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>27.00 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>62.53 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>338.98 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4018.07 </enterprise:其他应收款>
+    <enterprise:存货>330.32 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4776.90 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>13.38 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>13.38 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4790.28 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>26.12 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>824.36 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>136.97 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2666.15 </enterprise:其他应收款>
+    <enterprise:存货>1133.77 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4787.37 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>12.89 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>37.40 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>50.29 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4837.66 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>761.04 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>282.89 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>89.51 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>471.28 </enterprise:其他应收款>
+    <enterprise:存货>469.82 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2074.54 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>3583.06 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>11.23 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>7.82 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3602.11 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5676.65 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1493.08 </enterprise:应付账款>
+    <enterprise:预收款项>3.07 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1.70 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>115.03 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>131.92 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1744.80 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1744.80 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-407.14 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3092.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3092.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4837.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1493.08 </enterprise:应付账款>
+    <enterprise:预收款项>3.07 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1.70 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>115.03 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>131.92 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1744.80 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1744.80 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-407.14 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3092.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3092.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4837.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>656.74 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>68.10 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>208.29 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2.28 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>935.41 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>935.41 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4375.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>28.89 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>337.35 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>4741.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>4741.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5676.65 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京硕瑞伟业控制技术股份有限公司2013年利润表">
+    <enterprise:营业收入>2750.18 </enterprise:营业收入>
+    <enterprise:主营业务收入>2750.18 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2758.15 </enterprise:营业成本>
+    <enterprise:主营业务成本>2758.15 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>10.12 </enterprise:营业税金及附加>
+    <enterprise:销售费用>317.62 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>48.88 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-8.23 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-327.48 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-327.48 </enterprise:利润总额>
+    <enterprise:所得税费用>0.10 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-327.58 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-327.58 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京硕瑞伟业控制技术股份有限公司2014年利润表">
+    <enterprise:营业收入>3350.28 </enterprise:营业收入>
+    <enterprise:主营业务收入>3350.28 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2317.25 </enterprise:营业成本>
+    <enterprise:主营业务成本>2317.25 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>13.96 </enterprise:营业税金及附加>
+    <enterprise:销售费用>331.84 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>408.92 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>44.45 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>642.78 </enterprise:营业利润>
+    <enterprise:营业外收入>0.05 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>642.83 </enterprise:利润总额>
+    <enterprise:所得税费用>58.89 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>583.94 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>583.94 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京硕瑞伟业控制技术股份有限公司2015年利润表">
+    <enterprise:营业收入>4716.46 </enterprise:营业收入>
+    <enterprise:主营业务收入>4716.46 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2977.49 </enterprise:营业成本>
+    <enterprise:主营业务成本>2977.49 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>11.35 </enterprise:营业税金及附加>
+    <enterprise:销售费用>409.67 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>476.44 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>24.41 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-23.90 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1317.44 </enterprise:营业利润>
+    <enterprise:营业外收入>0.05 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1317.49 </enterprise:利润总额>
+    <enterprise:所得税费用>67.69 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1249.80 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1249.80 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京硕瑞伟业控制技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4006.13 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>10569.88 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>14576.01 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3319.13  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>89.87 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>87.25 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>14085.76 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>17582.01 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-3006.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.36 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.36 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.36 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>3000.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>3000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-10.36 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京硕瑞伟业控制技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4363.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4946.54 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>9310.10 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>4534.47  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>105.81 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>142.03 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4013.47 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>8795.78 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>514.32 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>3.08 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3.08 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3.08 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>852.40 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>852.40 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>1364.52 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1364.52 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-512.12 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-0.88 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京硕瑞伟业控制技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>5631.07 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>6696.78 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>12327.85 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2380.20  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>106.68 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>82.52 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>8418.59 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>10987.99 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1339.86 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.31 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1025.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1027.31 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1027.31 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>875.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>3430.61 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>4305.61 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>3883.25 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3883.25 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>422.36 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>734.91 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+
+<enterprise:股东 rdf:ID="北京硕瑞伟业控制技术股份有限公司股东：丁海 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>丁海 </enterprise:股东名称>
+	 <enterprise:货币>2,673.125万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>61.10%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京硕瑞伟业控制技术股份有限公司股东：北京启阳信息咨询中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京启阳信息咨询中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>875.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京硕瑞伟业控制技术股份有限公司股东：李群 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李群 </enterprise:股东名称>
+	 <enterprise:货币>437.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京硕瑞伟业控制技术股份有限公司股东：张磊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张磊 </enterprise:股东名称>
+	 <enterprise:货币>214.375万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京硕瑞伟业控制技术股份有限公司股东：丁宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>丁宇 </enterprise:股东名称>
+	 <enterprise:货币>175.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:专利    rdf:ID="北京硕瑞伟业控制技术股份有限公司的专利信息：通风系统">
+	<enterprise:有申请公布日>15-3-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>通风系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420513648.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204202087U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京硕瑞伟业控制技术股份有限公司的专利信息：高频隔离型光伏控制器">
+	<enterprise:有申请公布日>15-2-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>高频隔离型光伏控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420552036.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204168143U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京硕瑞伟业控制技术股份有限公司的专利信息：智能换热式空调器">
+	<enterprise:有申请公布日>10-2-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能换热式空调器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920001015.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201401870Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：太阳能发电综合控制系统软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>太阳能发电综合控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031384</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：风光电一体化混合能源综合控制系统软件">
+	<enterprise:有批准日期>17-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>风光电一体化混合能源综合控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR031469</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：负载下电控制器控制软件">
+	<enterprise:有批准日期>16-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>负载下电控制器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR122571</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：通信协议转换器软件">
+	<enterprise:有批准日期>16-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>通信协议转换器软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120912</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：电力直流电源监控软件">
+	<enterprise:有批准日期>16-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>电力直流电源监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120614</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：通信一体化电源监控软件">
+	<enterprise:有批准日期>16-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>通信一体化电源监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120618</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：POWSYS UPS 逆变控制器软件">
+	<enterprise:有批准日期>16-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>POWSYS UPS 逆变控制器软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR122402</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：POWSYS UPS整流控制器软件">
+	<enterprise:有批准日期>16-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>POWSYS UPS整流控制器软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120910</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：通信基站用风力发电系统实时监控软件">
+	<enterprise:有批准日期>14-12-24</enterprise:有批准日期>
+	<enterprise:有软件全称>通信基站用风力发电系统实时监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR207743</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：48V直流智能通风式空调器上位机监控软件">
+	<enterprise:有批准日期>14-12-11</enterprise:有批准日期>
+	<enterprise:有软件全称>48V直流智能通风式空调器上位机监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称>48V直流智能通风式空调器监控软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR193341</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：风光互补一体化控制器上位机监控软件">
+	<enterprise:有批准日期>14-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>风光互补一体化控制器上位机监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称>一体化控制器监控软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR166586</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作：“慧眼遥视”网络视频监控系统 V1.0 [简称:慧眼遥视/慧眼遥视监控系统/网络视频监控系统]">
+	<enterprise:有批准日期>04-6-23</enterprise:有批准日期>
+	<enterprise:有软件全称>“慧眼遥视”网络视频监控系统 V1.0 [简称:慧眼遥视/慧眼遥视监控系统/网络视频监控系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR05936</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京硕瑞伟业控制技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京硕瑞伟业控制技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京硕瑞伟业控制技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京硕瑞伟业控制技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京硕瑞伟业控制技术股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京硕瑞伟业控制技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京硕瑞伟业控制技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京硕瑞伟业控制技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京硕瑞伟业控制技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>其他信息</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>147.8万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>43.3万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京硕瑞伟业控制技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>供应商类型</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动额</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>上年末应付账款余额</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3.或有负债情况</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京硕瑞伟业控制技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>信用网查询记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>纳税信用等级</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>互联网查询情况</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京硕瑞伟业控制技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>3</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>3</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京硕瑞伟业控制技术股份有限公司的专利数量">
+
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>3</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+
+<enterprise:专利数量 rdf:ID="北京硕瑞伟业控制技术股份有限公司的专利数量">
+	<enterprise:专利总计>2</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>2</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+</rdf:RDF>

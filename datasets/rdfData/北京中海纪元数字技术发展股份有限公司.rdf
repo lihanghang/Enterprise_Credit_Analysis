@@ -1,0 +1,1662 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京中海纪元数字技术发展股份有限公司的企业概况">
+    <enterprise:有名称>北京中海纪元数字技术发展股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc+</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010874672948XF</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020000704917</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行友谊支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>350</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003年1月</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5,157.60</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>5,157.60</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术服务、技术咨询、技术培训；基础软件服务、应用软件服务；计算机系统服务；专业承包；销售计算机、软件及辅助设备、电子产品、通讯设备、安全技术防范产品、自行开发的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术服务、技术咨询、技术培训；基础软件服务、应用软件服务；计算机系统服务；专业承包；销售计算机、软件及辅助设备、电子产品、通讯设备、安全技术防范产品、自行开发的产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>技术开发、系统集成、技术服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件及信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区中关村南大街5号1区689号楼海淀科技大厦6层</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区中关村南大街5号1区689号楼海淀科技大厦6层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100081</enterprise:有邮政编码>
+    <enterprise:有联系人>贺军</enterprise:有联系人>
+    <enterprise:有联系电话>1391129628</enterprise:有联系电话>
+    <enterprise:有传真电话>68944229</enterprise:有传真电话>
+    <enterprise:有E-mail>hj998899@126.com</enterprise:有E-mail>
+    <enterprise:有网址>www.zgcworld.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京中海纪元数字技术发展股份有限公司
+（以下简称“公司”）于2013年1月20日在北
+京市工商行政管理局海淀分局注册成立，公司
+注册资本5,157.60万元，由北京中海投资管理
+有限公司、北京卡联电子商务有限公司、新疆
+信达众合股权投资有限公司、中关村科技园区
+海淀园创业服务中心、启明星辰信息技术集团
+股份有限公司共同出资组建，具体出资及比例
+见附表13。
+公司经营范围：技术开发、技术转让、技
+术服务、技术咨询、技术培训；基础软件服务
+、应用软件服务；计算机系统服务；专业承包
+；销售计算机、软件及辅助设备、电子产品、
+通讯设备、安全技术防范产品、自行开发的产
+品。
+截至2015年12月31日，公司资产总额为16
+,574.42万元，固定资产净额为                
+3,979.20 
+万元，负债总额为6945.18万元；2015年，公
+司实现营业收入14,353.73万元，利润总额为7
+08.01万元。公司现在员工350人，在北京市属
+于中型企业。
+公司注册地址：北京市海淀区中关村南大
+街5号1区689号楼海淀科技大厦6层；办公地址
+：北京市海淀区中关村南大街5号1区689号楼
+海淀科技大厦6层；统一社会信用代码：91110
+10874672948XF；法定代表人：柳进军；经营
+期限：2008年12月17日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京中海纪元数字技术发展股份有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质
+公司董事长柳进军，获双硕士学位，教授
+级高级工程师，曾担任曾先后担任中共海淀区
+委组织部干部、北京市高新技术产业开发实验
+区办公室信息统计中心计算机工程师、中关村
+科技园区海淀园管委会信息统计中心副主任兼
+高级工程师等职务。柳先生在多年工作中积累
+了丰富的管理经验，熟悉行业内产品和市场需
+求，能够较好的把控公司发展方向。
+公司总经理范小平，留美获双硕士学位。
+范先生曾先后担任深圳ISD 
+nt 
+Technologies工程部经理/高级工程师、美国
+哥城Lucent 
+Technologies（Columbus）高级工程师/高级
+分析员等职务。范先生工作经验丰富，技术水
+平较强，综合素质较高。
+公司副总经理尧川，本科学历。尧先生曾
+先后任中国有色金属工业总公司标准计量研究
+所工程师/高级工程师、创维集团中国区域销
+售总部张家口办事处经理、北京美髯公科技发
+展有限公司市场总监/副总经理。尧先生管理
+经验丰富，工作效率较高。
+总体来看，公司管理层素质较高，团队协
+作性较好，且具有丰富的工作经验，能够满足
+公司目前经营发展需要。
+2．人力资源
+截至评级时点，公司共有员工350人。
+从学历构成看，公司员工中本科及以上学
+历168人，占比48.00%；专科学历161人，占比
+46.00%，公司员工整体学历水平较高。
+从年龄构成看，公司员工年龄在25-
+45岁228人，占比65.14%；25岁以下109人，占
+比31.14%，公司员工年龄结构正值壮年，利于
+企业发展。
+从岗位构成看，公司技术人员283人，占
+比80.86%；管理人员23人，占比6.57%；作业
+人员54人，占比15.43%，公司岗位构成符合其
+行业特点，能够满足公司现阶段发展需要。
+总体看，公司员工学历水平较高，年龄结
+构、岗位结构合理。
+3．研发人员素质
+公司共有研发人员283人，均为大学及以
+上学历，从事该行业研究有一定年限，对公司
+研发工作的顺利进行起到较好的保障作用。
+总体看，公司研发人员整体素质较好。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司内设技术委员会，负责公司技术规划
+和技术管理工作，对公司的技术发展运营进行
+全面的管理。近三年，公司研发投入均占收入
+的8%以上，以保证研发工作的顺利进行。
+公司拥有总面积6400平米的办公大楼，拥
+有较为完善的技术开发设备及测试设备，可以
+有效保障产品研发、工程实施以及质量控制等
+方面业务的运行。
+公司设有博士后工作站、院士专家工作站
+，并与清华大学共建产学研示范基地，为其持
+续发展提供前瞻性的技术战略，加强公司在国
+内外电子政务领域的学术交流，提高研发水平
+。
+总体看，公司研发设备较为齐全，研发投
+入尚可，能满足公司目前的研发需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京中海纪元数字技术发展股份有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件
+公司注册地址位于北京市海淀区中关村南
+大街5号1区689号楼海淀科技大厦6层。公司办
+公地址为北京市海淀区中关村南大街5号1区68
+9号楼海淀科技大厦6层。
+公司的主营业务定位在智慧政务运营服务
+领域，为各级政府部门提供信息化咨询规划、
+应用软件产品开发、网络系统集成工程、政务
+云平台IT运维、基于政务信息资源开发和数据
+挖掘等运营服务。相关技术产品、解决方案及
+服务广泛适用于全国各级政府部门。公司主要
+通过政府公开招标方式获取市场订单，营业收
+入及利润来源于技术咨询、软件开发、集成服
+务、运维服务、产品销售和运营服务。2015年
+，公司实现主营业务收入14353.73万元，按收
+入构成划分来看，系统集成形成的收入占比较
+高。从近三年的收入构成变化来看，系统集成
+所占比例有所下滑，软件开发所占比例保持较
+为平稳，运维服务所占比例呈增长态势。
+2.业务运作
+公司在设备采购方面，软件部分主要以自
+主研发为主；硬件部分主要是外部采购方式进
+行，主要包括：监控设备、服务器、存储设备
+、网络设备、安全设备、数据库软件等产品。
+目前的主要供应商有浙江大华技术股份有限公
+司、国际商业机器公司（IBM）、华为技术有
+限公司、福建星网锐捷网络有限公司、甲骨文
+股份有限公司等国内外知名厂商，优质的合作
+厂商选择，对公司品牌形象的提升起到积极影
+响。付款方面，公司根据合同约定付款，一般
+有30%的预付款，剩余款项具有3个月的账期。
+图一：公司近三年资产及收入增长情况（万元）
+公司主要以投标方式获取项目，服务客户
+生坏账风险低。
+公司所承接的项目，主要包括：北京市海
+淀区专项调查平台、北京住房保障综合信息系
+统、大数据资源汇聚平台、2016 
+年度海淀区政府门户网站升级改版建设、大兴
+区一体化数据采集平台等，项目周期主要视工
+作量及所承接项目配套工程实施进度而定。回
+款方面，主要为签订合同预收30%，项目初验
+后收40%，项目终验后收30%。
+总体看，公司经营良好，发展较为平稳。
+3．经营效率
+表 1  公司近三年主要经营指标
+财务指标 2013年 2014年 2015年
+成本率(%)  94.71 96.65 96.73 
+管理费用率(%) 12.37 14.78 14.14 
+存货周转次数(次) 7.43 4.72 3.92 
+应收账款周转次数(次) 3.42 4.99 10.88 
+总资产周转次数(次) 0.85 0.83 0.89 
+资料来源：公司提供，齐平有孚整理。
+近三年，公司成本率保持较为平稳，处于
+高位；管理费用率较为平稳，成本控制能力较
+好。
+近三年，公司存货周转次数呈下降趋势，
+公司存货均为科技在产品，主要因公司在研产
+品增多所致；公司应收账款周转次数呈上升趋
+势，回款效率有所增强。
+总体看，公司整体经营效率较好。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构
+公司按照《中华人民共和国公司法》及有
+关法律、法规的规定制订了公司章程。
+公司设立股东会，股东会为公司权力机构
+，负责公司的重大经营决策。
+公司设董事会，由7名董事构成，设董事
+长1人，由董事会以全体董事的过半数选举产
+大会报告工作等职权。
+公司设总经理一名，由董事长提名，董事
+会聘任或解聘。
+公司设监事会，由3名监事组成，监事会
+行使检查公司财务、向股东大会提出提案等职
+权。
+公司内设财务部、人事行政部、企划部、
+资源管理部等职能部门，各部门分工明确。
+总体看，公司法人治理结构合理，与公司
+目前发展阶段相匹配。
+2．制度建设及执行
+公司目前已制定了财务、人事、研发、销
+售等方面的管理制度，实际经营中，公司严格
+执行各项操作规程。
+总体看，公司制度建设较为完善，执行情
+况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划
+公司未来发展将继续深耕其优势领域、同
+时加强外部市场开拓，扩大其研发成果的推广
+应用，提升服务质量。同时，公司加大研发力
+度，提升其产品的复制性，增强产品的多样性
+，增强市场竞争能力。
+公司2016年预计实现营业收入14500万元
+，净利润650万元；预计公司2016年底资产总
+额为 
+17800万元，负债总额为7520万元，所有者权
+益为10280万元。根据齐平有孚数据预测规则
+，并结合公司提供的预测数据，按照谨慎性原
+则，齐平有孚预计公司实现该计划的可能性较
+高。
+总体看，公司未来一年发展态势较好。
+2．融资需求
+截至评级时点，公司在中国银行世纪财富
+淀园支行申请650万元授信额度。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京中海纪元数字技术发展股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为15,157.02
+万元、15,581.66万元、16,574.42万元，整体
+呈上升趋势，复合增长率为4.57%，增长速度
+一般。截至2015年12月31日，公司资产总额中
+流动资产占比38.52%，非流动资产占比61.48%
+。  
+截至2015年12月31日，公司流动资产为6,
+384.72 万元，其中：货币资金1,145.47 
+万元，占比17.94%；应收账款1,291.48万元，
+占比20.23%，主要债务人为北京市海淀区人力
+资源和社会保障局、大兴区经济和信息化委员
+会、北京市海淀区房屋管理局等单位，账龄多
+在1年以内。从债务人的性质来看，多为政府
+机构，信誉度良好，发生坏账风险较低。存货
+3,024.57万元，占比为47.37%，为科技在产品
+，主要因公司尚未完工的软件，该项资产对其
+流动性影响较低。截至2016年7月底，公司流
+动资产增至6,642.89万元，货币资金因公司承
+担项目陆续开工，出现下降，存货出现大幅增
+长，符合公司发展特征。
+截至2015年12月31日，公司非流动资产为
+10,189.70万元。其中，长期股权投资占非流
+动资产的比重为35.58%，主要为公司所持有的
+公司的股权；固定资产占非流动资产的比重为
+39.05%，主要为房屋及建筑物。截至2016年7
+月底，公司该项资产占比情况保持较为平稳。
+总体看，公司资产流动性、整体资产质量
+尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2015年，公司流动比
+率为95.19%；同期速动比率为50.10%，公司短
+期偿债能力尚可。
+从长期偿债能力看，公司近三年EBITDA分
+别为9.55倍、4.82倍、6.05倍，有所波动，但
+保障程度较高。
+总体看，结合公司整体经营状况，公司未
+来一年整体偿债能力较高。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为6,765.75万
+元、6,527.12万元、6,945.18万元，复合增长
+率为1.32%，基本持平。
+近三年，公司资产负债率分别为44.64%、
+41.89%、41.90%，基本持平，负债水平一般。
+截至2015年12月31日，公司负债总额6,94
+5.18万元，其中流动负债6,707.46万元，包括
+短期借款3,478.00万元，占比51.85%，主要为
+银行借款；应付账款1,595.80万元，占比23.7
+9%，主要为公司间的往来款。 
+近三年，公司所有者权益分别为8,391.26
+万元、9,054.54万元、9,629.25万元，略有上
+升，提升了抵御市场风险的能力。
+截至2015年12月31日，公司所有者权益为
+9,629.25万元，其中：实收资本                    
+3,684.00万元，占比38.26%；未分配利润                    
+3,350.97万元，占比34.80%。
+总体看，公司负债水平一般，所有者权益
+结构稳定性较好。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为12,816.34
+万元、12,718.40万元、14,353.73万元，呈上
+升趋势；同期，公司利润总额分别为926.86万
+元、688.28万元、708.01万元，复合增长率为
+-12.60 %。公司盈利能力有所波动。
+近三年，公司主营业务利润率分别为21.3
+3%、22.38%、20.04%，基本持平；同期，公司
+净资产收益率分别为9.32%、6.55%、6.15%；
+同期，公司总资产报酬率分别为6.31%、4.48%
+、4.40 %，稍有下降，资产运用效能一般。
+ 图二：近三年公司盈利能力状况（万元，%）
+总体看，公司整体盈利能力一般。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京中海纪元数字技术发展股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，齐平有孚通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。
+截至评级时点，齐平有孚未发现公司有未
+决诉讼、票据贴现、对外担保等或有负债；公
+司以往银行借款还本付息情况正常，未发现公
+司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>（1）政府政策对公司所处行业具有一定
+的影响，因此公司存在一定的政策风险。
+（2）公司所处软件行业，技术更新速度
+较快，且研发成果能否被认可尚需一定时间的
+市场检验，存在一定研发风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司收入增长缓慢，获利能力一般
+，发展动力不足。
+（2）公司经营获取现金流的能力较不稳
+定，或对其运营资金的周转产生一定压力。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>齐平有孚未发现存在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>15112.68 </enterprise:资产总额>
+    <enterprise:所有者权益>8391.26 </enterprise:所有者权益>
+    <enterprise:负债总额>6765.75 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>12816.34 </enterprise:营业收入>
+    <enterprise:EBITDA>1486.91 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>15555.21 </enterprise:资产总额>
+    <enterprise:所有者权益>9054.54 </enterprise:所有者权益>
+    <enterprise:负债总额>6527.12 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>12718.40 </enterprise:营业收入>
+    <enterprise:EBITDA>1177.63 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>16502.20 </enterprise:资产总额>
+    <enterprise:所有者权益>9629.25 </enterprise:所有者权益>
+    <enterprise:负债总额>6945.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>14353.73 </enterprise:营业收入>
+    <enterprise:EBITDA>1310.93 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.85 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.42 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>7.43 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.83 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.99 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.72 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.89 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>10.88 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.92 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>6.31 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>27.22 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.48 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>26.37 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.40 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>26.36 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>103.01 </enterprise:流动比率>
+    <enterprise:速动比率>82.22 </enterprise:速动比率>
+    <enterprise:资产负债率>44.77 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>9.55 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>94.45 </enterprise:流动比率>
+    <enterprise:速动比率>49.56 </enterprise:速动比率>
+    <enterprise:资产负债率>41.96 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>4.82 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>95.19 </enterprise:流动比率>
+    <enterprise:速动比率>50.10 </enterprise:速动比率>
+    <enterprise:资产负债率>42.09 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.05 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>21.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>23.15 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>26.98 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>31.04 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>22.57 </enterprise:毛利率>
+    <enterprise:成本费用利润率>23.65 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>28.76 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-0.76 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>20.22 </enterprise:毛利率>
+    <enterprise:成本费用利润率>22.37 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>26.53 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>12.86 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>905.32 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3748.33 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>29.96 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>671.51 </enterprise:其他应收款>
+    <enterprise:存货>1354.34 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>6709.46 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2652.40 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>4141.86 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>605.52 </enterprise:无形资产>
+    <enterprise:开发支出>1003.44 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>8403.22 </enterprise:非流动资产合计>
+    <enterprise:资产总计>15112.68 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1354.34 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1347.28 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>129.04 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>282.44 </enterprise:其他应收款>
+    <enterprise:存货>2820.13 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>5933.23 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>3285.90 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>4105.08 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1422.14 </enterprise:无形资产>
+    <enterprise:开发支出>808.86 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>9621.98 </enterprise:非流动资产合计>
+    <enterprise:资产总计>15555.21 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1145.47 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1291.48 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>198.55 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>724.65 </enterprise:其他应收款>
+    <enterprise:存货>3024.57 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>6384.72 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>3625.20 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>3979.20 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1969.52 </enterprise:无形资产>
+    <enterprise:开发支出>543.56 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>10117.48 </enterprise:非流动资产合计>
+    <enterprise:资产总计>16502.20 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3655.44 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1102.33 </enterprise:应付账款>
+    <enterprise:预收款项>772.14 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>532.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>83.42 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>136.31 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6281.98 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>245.14 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>245.14 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6527.12 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3684.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2127.32 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>409.49 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2833.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9054.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9054.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>15581.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3655.44 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1102.33 </enterprise:应付账款>
+    <enterprise:预收款项>772.14 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>532.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>83.42 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>136.31 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6281.98 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>245.14 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>245.14 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6527.12 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3684.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2127.32 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>409.49 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2833.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9054.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9054.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>15581.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3478.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1595.80 </enterprise:应付账款>
+    <enterprise:预收款项>949.27 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>159.57 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>174.93 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>349.90 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6707.47 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>237.71 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>237.71 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6945.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3684.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2127.32 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>466.96 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>3350.97 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9629.25 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9629.25 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16574.43 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京中海纪元数字技术发展股份有限公司2013年利润表">
+    <enterprise:营业收入>12816.34 </enterprise:营业收入>
+    <enterprise:主营业务收入>12816.34 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10059.67 </enterprise:营业成本>
+    <enterprise:主营业务成本>10059.67 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>22.82 </enterprise:营业税金及附加>
+    <enterprise:销售费用>255.95 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1502.10 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>154.19 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>144.11 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.46 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2180.06 </enterprise:营业利润>
+    <enterprise:营业外收入>250.86 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.97 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2428.95 </enterprise:利润总额>
+    <enterprise:所得税费用>144.76 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2284.19 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2284.19 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京中海纪元数字技术发展股份有限公司2014年利润表">
+    <enterprise:营业收入>12718.40 </enterprise:营业收入>
+    <enterprise:主营业务收入>12718.40 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>9848.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>9848.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>24.63 </enterprise:营业税金及附加>
+    <enterprise:销售费用>474.21 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1816.33 </enterprise:管理费用>   
+    <enterprise:研究与开发费>220.63 </enterprise:研究与开发费>
+    <enterprise:财务费用>244.23 </enterprise:财务费用>
+    <enterprise:利息支出>244.37 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-119.31 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>-4.86 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2241.78 </enterprise:营业利润>
+    <enterprise:营业外收入>264.12 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.28 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2504.62 </enterprise:利润总额>
+    <enterprise:所得税费用>116.90 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2387.72 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2387.72 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京中海纪元数字技术发展股份有限公司2015年利润表">
+    <enterprise:营业收入>14353.73 </enterprise:营业收入>
+    <enterprise:主营业务收入>14353.73 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>11451.15 </enterprise:营业成本>
+    <enterprise:主营业务成本>11451.15 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>26.68 </enterprise:营业税金及附加>
+    <enterprise:销售费用>252.26 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1963.15 </enterprise:管理费用>   
+    <enterprise:研究与开发费>277.48 </enterprise:研究与开发费>
+    <enterprise:财务费用>212.92 </enterprise:财务费用>
+    <enterprise:利息支出>216.53 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-21.54 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2432.26 </enterprise:营业利润>
+    <enterprise:营业外收入>239.52 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.63 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2671.15 </enterprise:利润总额>
+    <enterprise:所得税费用>133.30 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2537.85 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2537.85 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京中海纪元数字技术发展股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京中海纪元数字技术发展股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京中海纪元数字技术发展股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京中海纪元数字技术发展股份有限公司被投资单位：北京中海纪元网络教育科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京中海纪元网络教育科技有限公司</enterprise:名称>
+	<enterprise:单位代码>697687980</enterprise:单位代码>
+	<enterprise:被投资金额>500.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京中海纪元数字技术发展股份有限公司被投资单位：宁波中关信息技术有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>宁波中关信息技术有限公司</enterprise:名称>
+	<enterprise:单位代码>587462203</enterprise:单位代码>
+	<enterprise:被投资金额>51.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>51%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京中海纪元数字技术发展股份有限公司股东：北京中海投资管理公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京中海投资管理公司 </enterprise:股东名称>
+	 <enterprise:货币>600.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>40.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京中海纪元数字技术发展股份有限公司股东：北京信达众合科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京信达众合科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>540.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>36.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京中海纪元数字技术发展股份有限公司股东：中关村科技园区海淀园创业服务中心 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>中关村科技园区海淀园创业服务中心 </enterprise:股东名称>
+	 <enterprise:货币>270.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>18.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京中海纪元数字技术发展股份有限公司股东：北京启明星辰信息技术股份有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京启明星辰信息技术股份有限公司 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>6.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京中海纪元数字技术发展股份有限公司的商标信息：记账宝">
+	<enterprise:有申请日期>13-11-18</enterprise:有申请日期>
+	<enterprise:有商标名称>记账宝</enterprise:有商标名称>
+	<enterprise:有注册号>13559515</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中海纪元数字技术发展股份有限公司的商标信息：中海纪元">
+	<enterprise:有申请日期>13-10-22</enterprise:有申请日期>
+	<enterprise:有商标名称>中海纪元</enterprise:有商标名称>
+	<enterprise:有注册号>13404858</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中海纪元数字技术发展股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>09-12-11</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>7908181</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中海纪元数字技术发展股份有限公司的商标信息：中海纪元">
+	<enterprise:有申请日期>09-12-11</enterprise:有申请日期>
+	<enterprise:有商标名称>中海纪元</enterprise:有商标名称>
+	<enterprise:有注册号>7908170</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京中海纪元数字技术发展股份有限公司的专利信息：一种基于元数据的统计表单快速生成方法及系统">
+	<enterprise:有申请公布日>2016-02-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于元数据的统计表单快速生成方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410370145.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105320690A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中海纪元数字技术发展股份有限公司的专利信息：创新营销平台">
+	<enterprise:有申请公布日>2015-04-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>创新营销平台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310495461.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104574127A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中海纪元数字技术发展股份有限公司的专利信息：用于企业创新体系的数据挖掘系统">
+	<enterprise:有申请公布日>2015-04-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于企业创新体系的数据挖掘系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310491926.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104572709A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中海纪元数字技术发展股份有限公司的专利信息：面向住户调查的用户终端数据快速录入方法及系统">
+	<enterprise:有申请公布日>2015-03-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>面向住户调查的用户终端数据快速录入方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410649463.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104391904A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元行政审批业务分析与管理平台">
+	<enterprise:有批准日期>17-8-14</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元行政审批业务分析与管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR443779</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元智慧教育互动管理平台">
+	<enterprise:有批准日期>17-7-24</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元智慧教育互动管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR393416</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元社会保险欠缴查询与服务系统">
+	<enterprise:有批准日期>17-7-24</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元社会保险欠缴查询与服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR393366</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：统计业务大数据智能分析平台">
+	<enterprise:有批准日期>17-1-6</enterprise:有批准日期>
+	<enterprise:有软件全称>统计业务大数据智能分析平台</enterprise:有软件全称>
+	<enterprise:有软件简称>大数据分析系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR005443</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：基于大数据的样本管理平台">
+	<enterprise:有批准日期>17-1-6</enterprise:有批准日期>
+	<enterprise:有软件全称>基于大数据的样本管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>大数据样本管理平台</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR005509</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：政企互动服务管理系统">
+	<enterprise:有批准日期>16-9-21</enterprise:有批准日期>
+	<enterprise:有软件全称>政企互动服务管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR269014</enterprise:有登记号>
+	<enterprise:有分类号>30201-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：食品市场溯源监管系统">
+	<enterprise:有批准日期>16-9-21</enterprise:有批准日期>
+	<enterprise:有软件全称>食品市场溯源监管系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR269145</enterprise:有登记号>
+	<enterprise:有分类号>30200-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元多语境信息发布与管理平台">
+	<enterprise:有批准日期>17-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元多语境信息发布与管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR221642</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元全民健身综合管理与信息服务平台">
+	<enterprise:有批准日期>17-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元全民健身综合管理与信息服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR253463</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：身边儿APP应用软件">
+	<enterprise:有批准日期>16-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>身边儿APP应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>身边儿</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR317291</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：食药安全监督管理数据中心平台">
+	<enterprise:有批准日期>17-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>食药安全监督管理数据中心平台</enterprise:有软件全称>
+	<enterprise:有软件简称>数据中心</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR415634</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海电子数据分析系统">
+	<enterprise:有批准日期>16-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>中海电子数据分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR338907</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元诊疗费申报预约管理平台">
+	<enterprise:有批准日期>17-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元诊疗费申报预约管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR394971</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元设备台帐管理系统">
+	<enterprise:有批准日期>16-11-4</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元设备台帐管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR318945</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元报修管理系统">
+	<enterprise:有批准日期>17-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元报修管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR394958</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元服务大厅网上预约管理平台">
+	<enterprise:有批准日期>16-11-9</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元服务大厅网上预约管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR323611</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元政务网站群运营监管平台">
+	<enterprise:有批准日期>17-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元政务网站群运营监管平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR415636</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元旅游云媒体营销推广平台">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元旅游云媒体营销推广平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR331964</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元旅游行业综合管理与服务平台">
+	<enterprise:有批准日期>17-6-30</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元旅游行业综合管理与服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR331639</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元旅游电商综合管理平台">
+	<enterprise:有批准日期>17-6-12</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元旅游电商综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR253451</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元一体化数据统计分析平台">
+	<enterprise:有批准日期>17-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元一体化数据统计分析平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR394985</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元住建行业知识库管理与信息服务系统">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元住建行业知识库管理与信息服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR278962</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元住建行业信用管理与信息服务综合平台">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元住建行业信用管理与信息服务综合平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR278991</enterprise:有登记号>
+	<enterprise:有分类号>10100-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元智慧政务综合办公门户软件">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元智慧政务综合办公门户软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR278907</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：建设工程监督管理综合执法信息服务平台">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>建设工程监督管理综合执法信息服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR262255</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智慧旅游信息发布平台">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧旅游信息发布平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR263106</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智慧旅游综合管理平台">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧旅游综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR263204</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：企业信息化综合服务平台">
+	<enterprise:有批准日期>15-12-16</enterprise:有批准日期>
+	<enterprise:有软件全称>企业信息化综合服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR263034</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元保障房综合管理与信息服务平台">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元保障房综合管理与信息服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR278964</enterprise:有登记号>
+	<enterprise:有分类号>10100-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元住建行业行政处罚与管理系统">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元住建行业行政处罚与管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR278920</enterprise:有登记号>
+	<enterprise:有分类号>10100-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元房屋安全管理与信息服务系统">
+	<enterprise:有批准日期>16-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元房屋安全管理与信息服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR279001</enterprise:有登记号>
+	<enterprise:有分类号>10100-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：科技金融综合服务平台">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>科技金融综合服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR025304</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：住建企业资质审批平台">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>住建企业资质审批平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026136</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：物业管理动态监管系统">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>物业管理动态监管系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR025462</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：住房保障综合信息管理服务平台">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>住房保障综合信息管理服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026353</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元住建行业信用一体化管理与服务平台（省级）软件">
+	<enterprise:有批准日期>15-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元住建行业信用一体化管理与服务平台（省级）软件</enterprise:有软件全称>
+	<enterprise:有软件简称>信用一体化平台</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR054451</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智能调查终端软件">
+	<enterprise:有批准日期>14-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>智能调查终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR185394</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智能调查管理平台">
+	<enterprise:有批准日期>14-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>智能调查管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR185397</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元建设工程综合监督指挥与信息服务平台软件">
+	<enterprise:有批准日期>15-1-6</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元建设工程综合监督指挥与信息服务平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR001870</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智慧社区综合服务管理系统">
+	<enterprise:有批准日期>14-3-4</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧社区综合服务管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR026032</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：创新知识数据挖掘系统">
+	<enterprise:有批准日期>13-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>创新知识数据挖掘系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR159967</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：科技创新服务体系系统">
+	<enterprise:有批准日期>13-12-27</enterprise:有批准日期>
+	<enterprise:有软件全称>科技创新服务体系系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR159873</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：创新资源目录服务系统">
+	<enterprise:有批准日期>13-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>创新资源目录服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR134367</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：创新体系决策辅助支持系统">
+	<enterprise:有批准日期>13-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>创新体系决策辅助支持系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR134365</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元建设工程综合监管信息服务平台">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元建设工程综合监管信息服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005632</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元自助导游移动应用平台">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元自助导游移动应用平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005630</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元区域物联网公共服务平台">
+	<enterprise:有批准日期>13-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元区域物联网公共服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR134474</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中海纪元房屋征收拆迁综合管理平台">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>中海纪元房屋征收拆迁综合管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005653</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap绩效考核管理系统">
+	<enterprise:有批准日期>12-12-18</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap绩效考核管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>绩效考核管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR126686</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：isWap数据监控子系统">
+	<enterprise:有批准日期>12-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>isWap数据监控子系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数据监控子系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR126640</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap共享数据管理子系统">
+	<enterprise:有批准日期>12-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap共享数据管理子系统</enterprise:有软件全称>
+	<enterprise:有软件简称>共享数据管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR126082</enterprise:有登记号>
+	<enterprise:有分类号>30201-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap云存储管理子系统">
+	<enterprise:有批准日期>12-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap云存储管理子系统</enterprise:有软件全称>
+	<enterprise:有软件简称>云存储管理子系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR137257</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwapESB企业服务总线系统">
+	<enterprise:有批准日期>12-12-25</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwapESB企业服务总线系统</enterprise:有软件全称>
+	<enterprise:有软件简称>企业服务总线系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR133664</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap数据审计管理系统">
+	<enterprise:有批准日期>12-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap数据审计管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数据审计管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR126438</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap文档数据共享子系统">
+	<enterprise:有批准日期>12-7-11</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap文档数据共享子系统</enterprise:有软件全称>
+	<enterprise:有软件简称>文档数据共享系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR062189</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwap数据共享云中心控制子系统">
+	<enterprise:有批准日期>12-7-12</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwap数据共享云中心控制子系统</enterprise:有软件全称>
+	<enterprise:有软件简称>中心控制管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR062406</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：基于智能手机的统计局城乡住户一体化调查信息平台">
+	<enterprise:有批准日期>12-7-12</enterprise:有批准日期>
+	<enterprise:有软件全称>基于智能手机的统计局城乡住户一体化调查信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称>手机住户调查平台软件</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR062748</enterprise:有登记号>
+	<enterprise:有分类号>30213-6600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：社会经济数据民意采集系统">
+	<enterprise:有批准日期>12-1-30</enterprise:有批准日期>
+	<enterprise:有软件全称>社会经济数据民意采集系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR005204</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwapFTP系统">
+	<enterprise:有批准日期>11-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwapFTP系统</enterprise:有软件全称>
+	<enterprise:有软件简称>iSwapFTP</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR091902</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：北京市物业管理动态监管系统">
+	<enterprise:有批准日期>11-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>北京市物业管理动态监管系统</enterprise:有软件全称>
+	<enterprise:有软件简称>大物业</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR092600</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：北京市建筑市场监管信息系统">
+	<enterprise:有批准日期>11-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>北京市建筑市场监管信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>建筑市场监管系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR092572</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：民生综合信息管理与服务平台">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>民生综合信息管理与服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>民生平台</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR091039</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：北京市城镇房屋使用安全系统">
+	<enterprise:有批准日期>11-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>北京市城镇房屋使用安全系统</enterprise:有软件全称>
+	<enterprise:有软件简称>房屋安全</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR092708</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：中小企业服务体系资源综合管理系统">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>中小企业服务体系资源综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>中小企业服务体系</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR091037</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：智慧旅游多功能平台">
+	<enterprise:有批准日期>11-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>智慧旅游多功能平台</enterprise:有软件全称>
+	<enterprise:有软件简称>智慧旅游</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR089245</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：政府类非紧急救助服务中心系统">
+	<enterprise:有批准日期>11-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>政府类非紧急救助服务中心系统</enterprise:有软件全称>
+	<enterprise:有软件简称>非紧急救助服务中心系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR089244</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwapCAT政务信息资源目录管理系统">
+	<enterprise:有批准日期>11-10-10</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwapCAT政务信息资源目录管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>目录管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR072364</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：复议应诉管理系统">
+	<enterprise:有批准日期>11-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>复议应诉管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>复议系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR071876</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：iSwapMQ系统">
+	<enterprise:有批准日期>11-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>iSwapMQ系统</enterprise:有软件全称>
+	<enterprise:有软件简称>iSwapMQ</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR089242</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：政府类行政客户服务系统">
+	<enterprise:有批准日期>11-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>政府类行政客户服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>行政客户服务系统</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR072047</enterprise:有登记号>
+	<enterprise:有分类号>10000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：电子政务网上审批通用平台软件">
+	<enterprise:有批准日期>11-1-13</enterprise:有批准日期>
+	<enterprise:有软件全称>电子政务网上审批通用平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>　GEA　</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR001702</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：政府信息资源梳理及编目工具标准版软件">
+	<enterprise:有批准日期>11-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>政府信息资源梳理及编目工具标准版软件</enterprise:有软件全称>
+	<enterprise:有软件简称>梳理工具(标准版)</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR010394</enterprise:有登记号>
+	<enterprise:有分类号>61500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：电子政务监察服务通用平台软件">
+	<enterprise:有批准日期>09-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>电子政务监察服务通用平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>GMP</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR029318</enterprise:有登记号>
+	<enterprise:有分类号>67500-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：电子政务网上审批通用平台软件">
+	<enterprise:有批准日期>09-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>电子政务网上审批通用平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>GEA　</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR029319</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：企业E-Learning培训公共服务平台">
+	<enterprise:有批准日期>09-6-25</enterprise:有批准日期>
+	<enterprise:有软件全称>企业E-Learning培训公共服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>企业培训公共平台</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR024895</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作：企业内部在线培训服务系统">
+	<enterprise:有批准日期>09-6-25</enterprise:有批准日期>
+	<enterprise:有软件全称>企业内部在线培训服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>海培企业网院</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR024929</enterprise:有登记号>
+	<enterprise:有分类号>61500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京中海纪元数字技术发展股份有限公司的网站备案：中海纪元公司网站">
+	<enterprise:有审核时间>12-7-4</enterprise:有审核时间>
+	<enterprise:有网站全称>中海纪元公司网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.zgcworld.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>zgcworld.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025591号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京中海纪元数字技术发展股份有限公司的网站备案：中海纪元公司网站">
+	<enterprise:有审核时间>12-7-4</enterprise:有审核时间>
+	<enterprise:有网站全称>中海纪元公司网站</enterprise:有网站全称>
+	<enterprise:有网站首页>www.zgcworld.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>zgcworld.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025591号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京中海纪元数字技术发展股份有限公司的网站备案：中海纪元">
+	<enterprise:有审核时间>12-7-4</enterprise:有审核时间>
+	<enterprise:有网站全称>中海纪元</enterprise:有网站全称>
+	<enterprise:有网站首页>www.zzy15.com</enterprise:有网站首页>
+	<enterprise:有域名>zzy15.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10025591号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京中海纪元数字技术发展股份有限公司的员工基本信息">
+	<enterprise:有从业人数>350</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:228,25岁以下:109,45岁以上:13</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:168,高中及以下:21,专科:161</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:23,技术人员:283,作业人员:54</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:346人,未参加:4人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京中海纪元数字技术发展股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>主营业务保持较为稳定</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京中海纪元数字技术发展股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京中海纪元数字技术发展股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>竞争情况一般</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京中海纪元数字技术发展股份有限公司的企业类型">
+	<enterprise:企业类型>中关村百家创新型企业 中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京中海纪元数字技术发展股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>  市场需求较高，发展前景较好。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京中海纪元数字技术发展股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京中海纪元数字技术发展股份有限公司的企业法人代表：柳进军">
+	<enterprise:名称>柳进军</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>53</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1963.8.30</enterprise:出生年月>
+	<enterprise:身份证号码>110108196308305791</enterprise:身份证号码>
+	<enterprise:政治面貌>-</enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>-</enterprise:联系电话>
+	<enterprise:传真>-</enterprise:传真>
+	<enterprise:E-mail>-</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2003.1-2008.12 北京中海纪元数字技术发展股份有限公司 总经理
+2007-至今 北京中海投资管理有限公司 总经理
+2008年12月-至今 北京中海纪元数字技术发展股份有限公司 董事长</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京中海纪元数字技术发展股份有限公司的下属单位：-">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>-</enterprise:名称>
+	<enterprise:主要职能>-</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>-</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京中海纪元数字技术发展股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>是</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税、附加税、所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>428万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>185万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京中海纪元数字技术发展股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>非晶带材</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>厂家</enterprise:有供应商类型>
+	<enterprise:有交易地位>平等</enterprise:有交易地位>
+	<enterprise:有议价能力>有</enterprise:有议价能力>
+	<enterprise:有延期支付>30天账期</enterprise:有延期支付>
+	<enterprise:有上年度发生额>18265万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>19275万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>1367万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>1634万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京中海纪元数字技术发展股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经查，暂无涉诉信息</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经查，暂无违规信息</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>A级</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经查，暂无负面信息</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京中海纪元数字技术发展股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>21</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>5</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>10</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京中海纪元数字技术发展股份有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>2</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京中海纪元数字技术发展股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

@@ -1,0 +1,1616 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京奋斗致远文化传媒股份有限公司的企业概况">
+    <enterprise:有名称>北京奋斗致远文化传媒股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局石景山分局</enterprise:有登记机关>
+    <enterprise:有中征码>税务登记证号码</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国建设银行北京金安支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>89</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2009年12月4日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>500</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2009年12月4日至长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>500</enterprise:有股本>
+    <enterprise:有经营范围>制作、发行动画片、专题片、电视综艺；不得制作时政新闻及同类专题、专栏等广播电视节目；组织文化艺术交流活动（演出除外）；经济信息咨询；设计、制作、代理发布广告；技术开发、技术转让；会议服务；承办展览展示活动。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）制作、发行动画片、专题片、电视综艺；不得制作时政新闻及同类专题、专栏等广播电视节目；组织文化艺术交流活动（演出除外）；经济信息咨询；设计、制作、代理发布广告；技术开发、技术转让；会议服务；承办展览展示活动。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>影视节目制作和发行、活动策划制作以及广告运营等业务</enterprise:有主营业务>
+    <enterprise:有行业分类>R86广播、电视、电影和影视录音制作业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市石景山区石景山路22号长城大厦A座520室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区朝阳路85号铜牛电影文化产业园2号</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100022</enterprise:有邮政编码>
+    <enterprise:有联系人>张文君</enterprise:有联系人>
+    <enterprise:有联系电话>13501043527</enterprise:有联系电话>
+    <enterprise:有传真电话>010—85804851—896</enterprise:有传真电话>
+    <enterprise:有E-mail>fendouzhiyuan@126.com</enterprise:有E-mail>
+    <enterprise:有网址>www.cctvfendou.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京奋斗致远文化传媒股份有限公司成立
+于2009年12月，现有注册资本500万元人民币，
+是主要从事影视节目制作和发行、活动策划制
+作以及广告运营等业务的高新技术企业。2015
+年7月22日，公司正式挂牌新三板。证券简称：
+奋斗传媒。证券代码：833198。
+公司业务内容以制作电视节目为主。电视
+节目主要为专题对象类访谈节目，针对特定的
+主题进行访谈。访谈节目有着嘉宾代表面广、
+节目氛围轻松、内容深刻、嘉宾与主持人之间
+能够进行真诚沟通等特点，因此收视率较高，
+深受观众的喜爱。公司制作的访谈节目嘉宾主
+要为企业嘉宾。相关节目一方面帮助企业提升
+在全国范围内的知名度，为企业提供品牌传播
+、渠道建设一站式服务，另一方面帮助观众了
+解不同的嘉宾和企业背后的故事，掌握最新的
+商业、经济资讯。自2009年成立以来，公司已
+经独立运作三档电视栏目，分别为《奋斗》、
+《商界传奇》以及《给你一个亿》。
+除制作电视节目外，公司还组织创业训练
+营、《奋斗》栏目品牌落地活动，例如《奋斗
+中国行》、《奋斗·年会系列》等品牌活动，
+给客户提供除拍摄节目之外一体化的营销宣传
+方案。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京奋斗致远文化传媒股份有限公司的基础素质">
+    <enterprise:有管理素质>北京奋斗致远文化传媒股份有限公司法人
+代表刘英男，男，1972年9月出生，中国人民大
+学硕士学位。1994年9月至1999年5月任烟台天
+宇信息技术工程公司电视监控工程师；1999年5
+月至2000年10月任长春电视台节目制作；2000
+年10月至2009年10月任中央电视台《实话实说
+》、《小崔说事》、《我的长征》后期制作、
+编导、策划、广告客户经理；2009年12月至今
+任北京奋斗致远文化传媒股份有限公司董事长
+、总经理、制片人，具有十分丰富的行业经验
+和专业知识。
+公司的其他几位高管均具备较为丰富的专
+业技术和从业经验，有利于公司的稳定发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>北京奋斗致远文化传媒股份有限公司十分
+注重产品的研发，公司的主创成员，均具有在
+央视及各大卫视工作7年以上的经验，专注于“
+人物专题”和记录、访谈节目，在业界享有很
+高声誉。以制片人刘英男、总导演刘洋、摄像
+为古兆江，编导为刘羽君、策划李关心为代表
+的制作团队，具有丰富的从业经验以及较高市
+场知名度。除了制作团队之外，央视著名主持
+人樊登、温梦欣等组成了公司的主持人阵容，
+主持人专业能力出色，并且都具有较高的行业
+知名度。同时，资深的推广运营团队，实现了
+线上线下整合营销推广方式，取得了显著成效
+。</enterprise:有人员素质>
+    <enterprise:有科研条件>北京奋斗致远文化传媒股份有限公司具备
+出色的创意策划能力，服务内容丰富。栏目制
+作加上品牌活动成功实现了一站式服务模式，
+满足了顾客不同的需求。专业化、定制化的服
+务水平，最大化满足客户的服务需求、实现最
+优化的配置资源。线上线下服务的结合，对企
+业的品牌从地区化走向全国化效果显著。
+公司电视栏目在旅游卫视、CCTV证券资讯
+频道、一百家地方电视台、十家视频网站播出
+、40余家网络门户宣传、微博/微信互动营销等
+立体式的传播渠道，使得节目具有人口覆盖率
+高、目标受众优质、到达率的优势。公司全方
+位、立体式的传播渠道，打破单媒体局限，实
+现品牌批量式传播，大大降低宣传成本，并且
+直接面对消费大众，强化企业品牌消费信心和
+号召力。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京奋斗致远文化传媒股份有限公司的经营管理">
+    <enterprise:其经营分析为>北京奋斗致远文化传媒股份有限公司成立
+于2009年12月4日，2012年6月21日，《给你一
+个亿》商标注册成功。2014年1月11日，公司成
+为中关村高新技术企业。2014年下半年，公司
+进行股改。2015年3月31日，公司名称正式变更
+为北京奋斗致远文化传媒股份有限公司。2015
+年7月22日，公司正式挂牌新三板，证券简称：
+奋斗传媒，证券代码：833198。
+公司自成立以来，公司一直致力于访谈类
+节目的制作，并不断丰富业务内容和范围，顺
+应时代潮流调整商业模式。公司始终坚持以核
+心团队的自主创意设计优势，积极把握发展契
+机，积累了丰富的渠道资源，为众多企业提供
+了优质的服务。
+公司近三年营业收入呈增大趋势，2015年
+公司营业收入2108.58万元，较2014年的1092.5
+2万元有所增加，增幅为93%，说明公司经营业
+绩良好。
+图1：公司近三年主营业务收入（万元）
+数据来源：公司提供财务报表
+公司代理多档知名电视节目，如cctv证券
+资讯频道《奋斗》、《给你一个亿》、《商界
+传奇》等。公司产品不存在明显的行业波动和
+经营季节性、周期性等特征。公司在全国各地
+发展了较多新的代理商，开发了较多储备嘉宾
+，《奋斗》栏目的节目量有了明显提升。
+公司成本主要包括北京诚信创新商贸有限
+公司和北京丰融时代科技有限公司的占频费、
+北京阳光华宇科技有限公司和北京众利来商贸
+有限公司的《奋斗》制作费和北京创翼博通科
+技有限公司的会务费等。公司与供应商合作关
+系较为稳定。
+总体来看，目前，公司具有一定技术优势
+和客户基础，有利于公司业务的持续发展。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>北京奋斗致远文化传媒股份有限公司组织
+结构完整，建立了较为健全的法人治理结构。
+公司设董事会，由5名董事组成，负责执行股东
+会决议，负责对公司的战略规划、经营方针、
+财务法律、安全生产、技术革新、对外交易等
+内部管理工作提供总体规划和合理建议。公司
+设监事会，由3名监事组成，依法对公司的财务
+、业务状况，董事、总经理及其他高管人员是
+否履行职责情况和股东会决议执行等情况进行
+合理、合法的监督。公司无董事、经理兼任监
+事现象。
+目前公司按照现代企业制度的要求建立起
+较为规范的管理体系，有比较完善的组织架构
+及高管团队，生产经营各方面运转情况良好。
+公司建立了完善的现代管理制度，明确职能部
+门的划分和岗位职责，定岗定责，各职能部门
+间各司其责联系紧密。
+公司根据经营目标和员工个人状况，量才
+使用，人尽其才，发挥个人特长，体现个人价
+值。在一定程度上促使员工将公司的成功当成
+自己的义务，鼓励其创造性，营造和谐向上的
+工作氛围，培养了员工积极向上的作风。
+在员工权益保障方面，公司按照国家规定
+保障员工各项福利待遇，并按期为员工提供身
+体健康检查，有利于调动员工工作积极性，确
+保了公司整体经营管理的稳定性和长远性。
+在合同管理方面，公司在对外交易时，做
+到所有交易均通过书面合同形式来确定双方权
+责，在一定程度上积极有效的杜绝和减少交易
+的风险隐患。公司有较严格的合同管理制度，
+并严格按照制度执行，体现了公司良好的商业
+信誉。
+总体来说，公司信用管理体系流程基本建
+立，合同管理状况总体情况良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>近年来，广播电视收入始终保持较高的增
+长水平，这为电视节目制作机构提供了巨大的
+发展空间和机遇。
+近年来，我国电视节目的制作能力不断提
+高，但仍然满足不了电视节目播放需求，电视
+节目的供需缺口较大。从2005年到2013年，电
+视节目制作数量快速增长，平均制作时长为283
+.86万小时。同样，电视节目播放时长在2005年
+到2013年之间也不断提高，平均播放时长为153
+8.97小时，是平均制作时长的5.42倍，平均重
+播率为81.55%。2013年，电视节目的制作时长
+为340万小时，电视节目播放时长为1706小时，
+是节目制作时长的5.02倍，重播率为80.07%。
+因此电视制作和电视播放供求上的巨大缺口，
+保证未来电视节目制作机构有巨大的发展空间
+和业务需求，有助于越来越多的企业投入电视
+节目制作行业中。
+公司以及公司制作的电视栏目，在行业内
+已经具备了一定知名度，尤其是《奋斗》栏目
+，从2010年创办至今，已经有了大批忠实的观
+众群体。《奋斗》栏目每日200次、每周1000次
+、每月4000次的品牌无缝隙、高密度、批量式
+的传播方式，让《奋斗》栏目深入企业家、政
+界以及观众心中。因此，公司的品牌效应明显
+，形成了短期内难以模仿或者超越的竞争优势
+，这也是公司核心竞争力之一。除了《奋斗》
+栏目之外，《商界传奇》与《给你一个亿》也
+具有一定的影响力，在许多企业以及创业者中
+拥有较好的口碑。
+另外，公司的主创成员，均具有在央视及
+各大卫视工作7年以上的经验，专注于“人物专
+题”和记录、访谈节目，在业界享有很高声誉
+。以制片人刘英男、总导演刘洋、摄影指导王
+忠仁、编导杨笑梅、策划李关心为代表的制作
+团队，具有丰富的从业经验以及较高市场知名
+度。除了制作团队之外，央视著名主持人樊登
+、温梦欣等组成了公司的主持人阵容，主持人
+专业能力出色，并且都具有较高的行业知名度
+。同时，资深的推广运营团队，实现了线上线
+下整合营销推广方式，取得了显著成效。公司
+在市场中具有一定的竞争实力。未来发展前景
+看好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京奋斗致远文化传媒股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>图2：公司资产质量及流动性指标图
+表1:公司资产质量及流动性指标表
+  项　目 2013年 2014年 2015年
+资产总额(万元) 709.77 1010.71 1444.85 
+应收账款(万元) 120.67 14.55 116.53 
+存货(万元) 65.59 114.68 115.75 
+流动资产(万元) 685.02 561.47 881.76 
+固定资产(万元) 15.14 62.04 78.41 
+无形资产(万元) 0.08 0.07 0.06 
+应收账款周转率(次) 7.97 16.16 32.17 
+总资产周转率(次) 0.68 1.27 1.72 
+数据来源：公司提供财务报表
+近三年公司资产规模呈增大态势，以流动
+资产为主。2013年至2015年资产总额分别是709
+.77万元、1010.71万元和1444.85万元，2015年
+较上一年度有所增大，增幅为42.95%，说明公
+司经营规模持续增大。
+截止2015年末，公司资产总计为1444.85万
+元，由流动资产和非流动资产构成。其中流动
+资产占总资产的比重为61.03%，主要由货币资
+金、以公允价值计量且其变动计入当期损益的
+金融资产、应收账款、其他应收款、预付账款
+和存货构成；其中货币资金占流动资产比重最
+大，约为46%，主要是银行存款和现金，这部分
+资产变现能力很强。公司所占比重较大，资金
+流动性较强。
+非流动资产占比38.97%，由长期股权投资
+、固定资产、无形资产、递延所得税资产和其
+他非流动资产构成。其中其他非流动资产占比
+最大，主要是字画。
+从公司总资产周转率来看，2015年数值为1
+.72次，较2014年的1.27次相比有所增加，主要
+是营业收入大幅增长所致，公司运用总资产获
+取利润的能力在增强。
+2015年末，公司的应收账款占流动资产比
+重为13.22%，较2014年的2.59%相比有所增加，
+主要是随着营业收入的增加而形成的应收款项
+。但从占流动资产的比重来看，数值仍不大，
+说明公司对应收账款的管理能力尚可。
+综合来看，公司基本不存在不良资产。资
+金流动性较强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>图4：公司偿债能力指标图
+表3：公司偿债能力指标表
+项　目 2013年 2014年 2015年
+负债总额(万元) 217.92 473.95 815.70 
+资产负债率(%) 30.70 46.89 56.46 
+预收账款(万元) 109.00 221.75 534.29 
+速动比率(倍) 2.84 0.94 0.94 
+现金流动负债比(%) 82.25 41.55 42.56 
+数据来源：公司提供财务报表
+公司2015年末负债总额815.70万元。从负
+债结构来看，全部由流动负债构成，其中流动
+负债主要由应付账款、预收账款、应交税费和
+其他应付款等构成。其中预收账款占比较大，
+主要是客户提前支付的合同款。
+公司长期偿债能力较强，目前没有负债压
+力，有一定的融资空间。公司2013年至2015年
+的资产负债率分别是30.70%、46.89%和56.46%
+，三年数值均保持在行业较好水平，说明公司
+长期偿债压力较小，长期偿债能力较强。
+公司运用现金流来保障企业按期偿还到期
+债务的能力较强。从短期偿债能力指标中最重
+要的速动比率指标来看，2013年到2015年，公
+司速动比率分别2.84、0.94和0.94，三年数值
+均处于行业较好水平，说明公司目前短期偿债
+压力不大。结合现金流动负债比来看，数值尚
+可，主要得益于公司经营情况良好。公司用于
+短期债务的支付能力可以得到充分保障。
+2015年末，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司成立以来，业务规模不断扩大，对资
+金需求也在不断增加。截止2015年末，公司无
+短期借款，运营资产完全自有。
+公司还有27.08万元的应付账款，主要是
+对供应商未达到支付条件的款项。公司还有53
+4.29万元的预收账款，主要是客户提前支付的
+合同款。
+一般来说，一个企业如果完全通过权益资
+本筹集资金显然是不明智的，因为其筹集方式
+使之不能得到负债经营的好处。公司如果能够
+通过投资、外部借款、获得上下游企业账期等
+途径增加资金融通渠道，会进一步扩大经营规
+模，有利于公司的进一步发展。</enterprise:财务弹性>
+    <enterprise:盈利能力>图3：公司盈利能力指标图
+表2：公司盈利状况分析
+项　目 2013年 2014年 2015年
+主营业务收入(万元) 480.70 1092.52 2108.58 
+主营业务利润(万元) 225.88 430.40 1176.58 
+营业利润(万元) 8.17 34.89 132.93 
+净利润(万元) 10.73 25.72 92.39 
+主营业务利润率(%) 46.99 39.40 55.80 
+净资产收益率(%) 2.66 5.00 15.85 
+总资产报酬率(%) 2.91 4.37 10.98 
+成本费用利润率(%) 1.78 3.19 6.76 
+数据来源：公司提供财务报表
+随着公司竞争力的不断增强和业务的不断
+拓展，营业收入也持续增长，2013年至2015年
+的营业收入分别为480.70万元、1092.52万元
+和2108.58万元，近两年增幅分别为127.28%和
+93.00%，说明公司经营业绩显著。
+2015年公司主营业务利润为1176.58万元
+，较上一年度的430.40万元有所增加。且公司
+主营业务利润率也由2014年的39.40%增大至20
+15年的55.80%，说明公司主营业务成本控制得
+当。 
+公司对成本费用的控制能力在增强。从公
+司的成本费用利润率来看，2015年成本费用利
+润率为6.76%，较2014年的3.19%相比有所增加
+，说明公司在经营过程中加强了对各项费用的
+控制。
+公司运用全部资产的盈利能力在增强。从
+资产的综合利用效率指标分析，2015年的总资
+产报酬率为10.98%，数值较2014年的4.37%相比
+有所增大，说明公司经营期间全部资产从投入
+到产出的流转速度加快，全部资产的管理质量
+和利用效率有所提高。
+综合分析，随着公司营业收入的增大，整
+体盈利能力增强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京奋斗致远文化传媒股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司经营状况受行业政策和主要客户变动影响
+。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司资产负债率数值在增大，说明公司长期偿
+债压力略有增加。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>7097664.55 </enterprise:资产总额>
+    <enterprise:所有者权益>4918454.22 </enterprise:所有者权益>
+    <enterprise:负债总额>2179210.33 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4806971.73 </enterprise:营业收入>
+    <enterprise:EBITDA>20.59 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>10107129.54 </enterprise:资产总额>
+    <enterprise:所有者权益>5367659.27 </enterprise:所有者权益>
+    <enterprise:负债总额>4739470.27 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>10925199.94 </enterprise:营业收入>
+    <enterprise:EBITDA>37.56 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>14448525.50 </enterprise:资产总额>
+    <enterprise:所有者权益>6291523.65 </enterprise:所有者权益>
+    <enterprise:负债总额>8157001.85 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>21085816.82 </enterprise:营业收入>
+    <enterprise:EBITDA>134.77 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>68.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>797.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>384.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>127.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1616.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>733.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>172.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3217.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>804.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>2.91 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>2.91 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>2.18 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>4.37 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.37 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>4.79 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>10.98 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.98 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>14.69 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>314.34 </enterprise:流动比率>
+    <enterprise:速动比率>284.24 </enterprise:速动比率>
+    <enterprise:资产负债率>30.70 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>10.58 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>118.47 </enterprise:流动比率>
+    <enterprise:速动比率>94.27 </enterprise:速动比率>
+    <enterprise:资产负债率>46.89 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>12.62 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>108.10 </enterprise:流动比率>
+    <enterprise:速动比率>93.91 </enterprise:速动比率>
+    <enterprise:资产负债率>56.46 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.05 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>47.55 </enterprise:毛利率>
+    <enterprise:成本费用利润率>2.84 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.01 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>82.25 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>11.35 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-33.29 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>39.55 </enterprise:毛利率>
+    <enterprise:成本费用利润率>4.13 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.08 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>41.55 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>5.54 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>127.28 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>90.54 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>56.09 </enterprise:毛利率>
+    <enterprise:成本费用利润率>8.29 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.17 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>42.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>93.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>173.37 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>2582308.29 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1206652.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2405265.00 </enterprise:其他应收款>
+    <enterprise:存货>655941.50 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>6850166.79 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>151375.34 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>841.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>95280.75 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>247497.76 </enterprise:非流动资产合计>
+    <enterprise:资产总计>7097664.55 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>3518583.45 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>145454.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>606300.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>160652.40 </enterprise:其他应收款>
+    <enterprise:存货>1146776.63 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>36903.40 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>5614670.38 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>861979.47 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>620403.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>741.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>3635.02 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>3005700.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>4492459.16 </enterprise:非流动资产合计>
+    <enterprise:资产总计>10107129.54 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>4031016.93 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1165315.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1472618.30 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>290062.92 </enterprise:其他应收款>
+    <enterprise:存货>1157462.03 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>701140.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>8817615.68 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>1811979.47 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>784081.07 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>641.67 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>28507.61 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>3005700.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>5630909.82 </enterprise:非流动资产合计>
+    <enterprise:资产总计>14448525.50 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>315000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>586999.00 </enterprise:应付账款>
+    <enterprise:预收款项>2217527.85 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>170331.88 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1449611.54 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>4739470.27 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>4739470.27 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>291979.47 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>75679.80 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>5367659.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>5367659.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>10107129.54 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>315000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>586999.00 </enterprise:应付账款>
+    <enterprise:预收款项>2217527.85 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>170331.88 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1449611.54 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>4739470.27 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>4739470.27 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>291979.47 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>75679.80 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>5367659.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>5367659.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>10107129.54 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>270838.00 </enterprise:应付账款>
+    <enterprise:预收款项>5342908.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>740727.10 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1802528.75 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8157001.85 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8157001.85 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>291979.47 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>92386.44 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>907157.74 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6291523.65 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6291523.65 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>14448525.50 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京奋斗致远文化传媒股份有限公司2013年利润表">
+    <enterprise:营业收入>4806971.73 </enterprise:营业收入>
+    <enterprise:主营业务收入>4806971.73 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2521224.23 </enterprise:营业成本>
+    <enterprise:主营业务成本>2521224.23 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>26931.68 </enterprise:营业税金及附加>
+    <enterprise:销售费用>203602.25 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1721511.87 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>124197.68 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>81724.47 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>81724.47 </enterprise:利润总额>
+    <enterprise:所得税费用>-25579.66 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>107304.13 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>107304.13 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京奋斗致远文化传媒股份有限公司2014年利润表">
+    <enterprise:营业收入>10925199.94 </enterprise:营业收入>
+    <enterprise:主营业务收入>10925199.94 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>6604168.22 </enterprise:营业成本>
+    <enterprise:主营业务成本>6604168.22 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>17031.50 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1806817.78 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2488193.48 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>26688.30 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>348883.56 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>348883.56 </enterprise:利润总额>
+    <enterprise:所得税费用>91657.98 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>257225.58 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>257225.58 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京奋斗致远文化传媒股份有限公司2015年利润表">
+    <enterprise:营业收入>21085816.82 </enterprise:营业收入>
+    <enterprise:主营业务收入>21085816.82 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>9259212.10 </enterprise:营业成本>
+    <enterprise:主营业务成本>9259212.10 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>60820.03 </enterprise:营业税金及附加>
+    <enterprise:销售费用>6698726.41 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3619839.87 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>18412.21 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1329315.85 </enterprise:营业利润>
+    <enterprise:营业外收入>80.47 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1329396.32 </enterprise:利润总额>
+    <enterprise:所得税费用>405431.94 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>923964.38 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>923964.38 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京奋斗致远文化传媒股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1792455.12 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-31510.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>607887.75 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>2368832.87 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京奋斗致远文化传媒股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1969263.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-692630.60 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-340358.18 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>936275.16 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京奋斗致远文化传媒股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>3471477.79 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2621765.77 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-337278.54 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>512433.48 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京奋斗致远文化传媒股份有限公司被投资单位：中视梦工坊（北京）文化传媒有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>中视梦工坊（北京）文化传媒有限公司</enterprise:名称>
+	<enterprise:单位代码>91110107099642686W</enterprise:单位代码>
+	<enterprise:被投资金额>301万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京奋斗致远文化传媒股份有限公司被投资单位：北京奋斗创客网络科技有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>北京奋斗创客网络科技有限公司</enterprise:名称>
+	<enterprise:单位代码>91110107669930330K</enterprise:单位代码>
+	<enterprise:被投资金额>10万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京奋斗致远文化传媒股份有限公司股东：刘英男 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘英男 </enterprise:股东名称>
+	 <enterprise:货币>350.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>63.64%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奋斗致远文化传媒股份有限公司股东：北京盛世永泰投资管理中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京盛世永泰投资管理中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>75.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奋斗致远文化传媒股份有限公司股东：刘洋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘洋 </enterprise:股东名称>
+	 <enterprise:货币>50.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奋斗致远文化传媒股份有限公司股东：樊登 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>樊登 </enterprise:股东名称>
+	 <enterprise:货币>25.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.64%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：事件电影 EVENT MOVIES">
+	<enterprise:有申请日期>16-9-21</enterprise:有申请日期>
+	<enterprise:有商标名称>事件电影 EVENT MOVIES</enterprise:有商标名称>
+	<enterprise:有注册号>21363724</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待受理中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：奋斗传媒">
+	<enterprise:有申请日期>16-4-13</enterprise:有申请日期>
+	<enterprise:有商标名称>奋斗传媒</enterprise:有商标名称>
+	<enterprise:有注册号>19612395</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：企业家风云录 世界有你而不同">
+	<enterprise:有申请日期>16-3-18</enterprise:有申请日期>
+	<enterprise:有商标名称>企业家风云录 世界有你而不同</enterprise:有商标名称>
+	<enterprise:有注册号>19347083</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：商界传奇">
+	<enterprise:有申请日期>14-11-26</enterprise:有申请日期>
+	<enterprise:有商标名称>商界传奇</enterprise:有商标名称>
+	<enterprise:有注册号>15791193</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：奋斗">
+	<enterprise:有申请日期>14-11-26</enterprise:有申请日期>
+	<enterprise:有商标名称>奋斗</enterprise:有商标名称>
+	<enterprise:有注册号>15791192</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：奋斗 大讲堂">
+	<enterprise:有申请日期>14-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>奋斗 大讲堂</enterprise:有商标名称>
+	<enterprise:有注册号>15748071</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：奋斗商学院">
+	<enterprise:有申请日期>14-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>奋斗商学院</enterprise:有商标名称>
+	<enterprise:有注册号>15748070</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标信息：给你1个亿">
+	<enterprise:有申请日期>11-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>给你1个亿</enterprise:有商标名称>
+	<enterprise:有注册号>9533582</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：栏目组信息安全管理系统软件">
+	<enterprise:有批准日期>17-5-18</enterprise:有批准日期>
+	<enterprise:有软件全称>栏目组信息安全管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR189433</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：企业工作流智能管理系统软件">
+	<enterprise:有批准日期>17-5-18</enterprise:有批准日期>
+	<enterprise:有软件全称>企业工作流智能管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR188685</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远影视音频处理系统">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远影视音频处理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR179796</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远影视节目实时监控系统">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远影视节目实时监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR180056</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远广告精准投放管理系统">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远广告精准投放管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR179811</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远影视节目工作流管理软件">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远影视节目工作流管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR179799</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远影视媒体资源管理软件">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远影视媒体资源管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR179828</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作：奋斗致远多媒体视频联播平台软件">
+	<enterprise:有批准日期>16-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>奋斗致远多媒体视频联播平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR179803</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗致远艺术圈">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗致远艺术圈</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cctvartist.com</enterprise:有网站首页>
+	<enterprise:有域名>cctvartist.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗栏目">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗栏目</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cctvfendou.com</enterprise:有网站首页>
+	<enterprise:有域名>cctvfendou.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗致远跟我看楼市">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗致远跟我看楼市</enterprise:有网站全称>
+	<enterprise:有网站首页>www.lookls.com</enterprise:有网站首页>
+	<enterprise:有域名>lookls.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗传媒">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗传媒</enterprise:有网站全称>
+	<enterprise:有网站首页>www.fendoumedia.com</enterprise:有网站首页>
+	<enterprise:有域名>fendoumedia.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗致远给你一个亿">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗致远给你一个亿</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gnygy.com</enterprise:有网站首页>
+	<enterprise:有域名>gnygy.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗致远商界传奇栏目">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗致远商界传奇栏目</enterprise:有网站全称>
+	<enterprise:有网站首页>www.cctvsjcq.com</enterprise:有网站首页>
+	<enterprise:有域名>cctvsjcq.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：直通新三板">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>直通新三板</enterprise:有网站全称>
+	<enterprise:有网站首页>www.ztxsb.com</enterprise:有网站首页>
+	<enterprise:有域名>ztxsb.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案：奋斗大讲堂">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>奋斗大讲堂</enterprise:有网站全称>
+	<enterprise:有网站首页>www.fendoumba.com</enterprise:有网站首页>
+	<enterprise:有域名>fendoumba.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11001058号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京奋斗致远文化传媒股份有限公司的员工基本信息">
+	<enterprise:有从业人数>89</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:66,25岁以下:21,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:55,高中及以下:5,专科:29</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:13,技术人员:9,作业人员:67</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:59人,未参加:30人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京奋斗致远文化传媒股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>本年度企业主要业务以栏目制作为主，没有发生变化   
+(2)外部经营环境
+是否发生不利经营的重大变化：□是  ■否；
+对竞争变化或外部条件变化是否有应对措施：■是  □否；
+具体情况：  本年度本期不存在不利经营的重大变化  
+(3)主要客户及经营状况
+是否减少或流失：□是   ■否；
+现有主要客户：  中小企业家及新三板企业家      
+目前经营状况：   良好                  
+ (4)经营趋势分析
+项目 2015年 2017年 2017年
+签约量（可分类）
+履约量（实际完成 (含未确认收入部分)
+）
+在执行量
+收入
+利润
+四、企业信用状况
+1.税务信息
+（国税）石景山国税局 登记证号 110107697702634
+税务机关
+（地税）石景山地税局 纳税信用A级企业 ■是     □否
+欠税信息 无
+其他信息 无
+主要税种及税率 增值税6%，城建税7%，教育费附加3%，地方教育费附加2%，企业所得税25%
+上年度缴税额 92677.6
+上年末应交额 764963.84
+2.经营性负债偿付情况
+采购业务（接受劳务）
+供应商类型
+付款方式 交易地位
+议价能力 延期支付
+上年度发生额 上年度支付额
+上年度应付账款变动额 上年末应付账款余额
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 无
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+-
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额 21,182,986.63 50,000,000.00
+预测收入 21,182,986.63 40,000,000.00
+预测净利润 823,671.41 10,000,000.00
+预测成本、费用支出 19898124.18 30,000,000.00
+经营性流入 27,444,123.00 60,000,000.00
+经营性流出 23,947,410.20 45,000,000.00
+经营性净流量 3,496,712.80 15,000,000.00
+筹资性流入 - -
+筹资性流出 337,278.54 800,000.00
+筹资性净流量 -337,278.54 -800,000.00
+投资性流入 - -
+投资性流出 1,671,765.77 -
+投资性净流量 -1,671,765.77 -
+净现金流 1,487,668.49 14,200,000.00
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 北京奋斗致远文化传媒股份有限公司 组织机构代码 69770263—4
+登记机关 北京市工商行政管理局石景山分局 登记注册号 110107012461559
+贷款卡编码 税务登记证号码 110107697702634
+基本账户行 中国建设银行北京金安支行 从业人数（人） 89
+注册登记日期 2009年12月4日 注册资本（万元） 500
+营业执照到期日 2009年12月4日至长期 实收资本（万元） 500
+制作、发行动画片、专题片、电视综艺；不得制作时政新闻及同类专题、专栏等广播电视节
+目；组
+经营范围 织文化艺术交流活动（演出除外）；经济信息咨询；设计、制作、代理发布广告；技术开发
+、技术
+转让；会议服务；承办展览展示活动</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京奋斗致远文化传媒股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中小企业家及新三板企业家      
+目前经营状况：   良好                  
+ (4)经营趋势分析
+项目 2015年 2017年 2017年
+签约量（可分类）
+履约量（实际完成 (含未确认收入部分)
+）
+在执行量
+收入
+利润
+四、企业信用状况
+1.税务信息
+（国税）石景山国税局 登记证号 110107697702634
+税务机关
+（地税）石景山地税局 纳税信用A级企业 ■是     □否
+欠税信息 无
+其他信息 无
+主要税种及税率 增值税6%，城建税7%，教育费附加3%，地方教育费附加2%，企业所得税25%
+上年度缴税额 92677.6
+上年末应交额 764963.84
+2.经营性负债偿付情况
+采购业务（接受劳务）
+供应商类型
+付款方式 交易地位
+议价能力 延期支付
+上年度发生额 上年度支付额
+上年度应付账款变动额 上年末应付账款余额
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 无
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+-
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额 21,182,986.63 50,000,000.00
+预测收入 21,182,986.63 40,000,000.00
+预测净利润 823,671.41 10,000,000.00
+预测成本、费用支出 19898124.18 30,000,000.00
+经营性流入 27,444,123.00 60,000,000.00
+经营性流出 23,947,410.20 45,000,000.00
+经营性净流量 3,496,712.80 15,000,000.00
+筹资性流入 - -
+筹资性流出 337,278.54 800,000.00
+筹资性净流量 -337,278.54 -800,000.00
+投资性流入 - -
+投资性流出 1,671,765.77 -
+投资性净流量 -1,671,765.77 -
+净现金流 1,487,668.49 14,200,000.00
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 北京奋斗致远文化传媒股份有限公司 组织机构代码 69770263—4
+登记机关 北京市工商行政管理局石景山分局 登记注册号 110107012461559
+贷款卡编码 税务登记证号码 110107697702634
+基本账户行 中国建设银行北京金安支行 从业人数（人） 89
+注册登记日期 2009年12月4日 注册资本（万元） 500
+营业执照到期日 2009年12月4日至长期 实收资本（万元） 500
+制作、发行动画片、专题片、电视综艺；不得制作时政新闻及同类专题、专栏等广播电视节
+目；组
+经营范围 织文化艺术交流活动（演出除外）；经济信息咨询；设计、制作、代理发布广告；技术开发
+、技术
+转让；会议服务；承办展览展示活动</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京奋斗致远文化传媒股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>本年度本期不存在不利经营的重大变化  
+(3)主要客户及经营状况
+是否减少或流失：□是   ■否；
+现有主要客户：  中小企业家及新三板企业家      
+目前经营状况：   良好                  
+ (4)经营趋势分析
+项目 2015年 2017年 2017年
+签约量（可分类）
+履约量（实际完成 (含未确认收入部分)
+）
+在执行量
+收入
+利润
+四、企业信用状况
+1.税务信息
+（国税）石景山国税局 登记证号 110107697702634
+税务机关
+（地税）石景山地税局 纳税信用A级企业 ■是     □否
+欠税信息 无
+其他信息 无
+主要税种及税率 增值税6%，城建税7%，教育费附加3%，地方教育费附加2%，企业所得税25%
+上年度缴税额 92677.6
+上年末应交额 764963.84
+2.经营性负债偿付情况
+采购业务（接受劳务）
+供应商类型
+付款方式 交易地位
+议价能力 延期支付
+上年度发生额 上年度支付额
+上年度应付账款变动额 上年末应付账款余额
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 无
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+-
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额 21,182,986.63 50,000,000.00
+预测收入 21,182,986.63 40,000,000.00
+预测净利润 823,671.41 10,000,000.00
+预测成本、费用支出 19898124.18 30,000,000.00
+经营性流入 27,444,123.00 60,000,000.00
+经营性流出 23,947,410.20 45,000,000.00
+经营性净流量 3,496,712.80 15,000,000.00
+筹资性流入 - -
+筹资性流出 337,278.54 800,000.00
+筹资性净流量 -337,278.54 -800,000.00
+投资性流入 - -
+投资性流出 1,671,765.77 -
+投资性净流量 -1,671,765.77 -
+净现金流 1,487,668.49 14,200,000.00
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 北京奋斗致远文化传媒股份有限公司 组织机构代码 69770263—4
+登记机关 北京市工商行政管理局石景山分局 登记注册号 110107012461559
+贷款卡编码 税务登记证号码 110107697702634
+基本账户行 中国建设银行北京金安支行 从业人数（人） 89
+注册登记日期 2009年12月4日 注册资本（万元） 500
+营业执照到期日 2009年12月4日至长期 实收资本（万元） 500
+制作、发行动画片、专题片、电视综艺；不得制作时政新闻及同类专题、专栏等广播电视节
+目；组
+经营范围 织文化艺术交流活动（演出除外）；经济信息咨询；设计、制作、代理发布广告；技术开发
+、技术
+转让；会议服务；承办展览展示活动</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京奋斗致远文化传媒股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京奋斗致远文化传媒股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                          
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京奋斗致远文化传媒股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京奋斗致远文化传媒股份有限公司的企业法人代表：刘英男">
+	<enterprise:名称>刘英男</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>43</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1972年9月</enterprise:出生年月>
+	<enterprise:身份证号码>370602197209113438</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长、总经理</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真>010—85804851—896</enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>851—896 E-mail
+发明创造、科研成果
+重要奖惩
+学习及工作简历
+起止日期 在何地区、何学校、何部门 获何学位、任何职务
+中国人民大学 硕士
+起止日期 在何地区何部门 任何职务
+1994年9月至1999年5 烟台天宇信息技术工程公司 电视监控工程师
+月
+1999年5月至2000年10月 长春电视台 节目制作
+2000年10月至2009年10月 中央电视台《实话实说》、《小崔说事》、《 后期制作、编导、策划、
+我的长征》 广告客户经理
+2009年12月至今 北京奋斗致远文化传媒股份有限公司 董事长、总经理、制片人</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京奋斗致远文化传媒股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>花税等</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京奋斗致远文化传媒股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>较高</enterprise:有交易地位>
+	<enterprise:有议价能力>较强</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京奋斗致远文化传媒股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京奋斗致远文化传媒股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京奋斗致远文化传媒股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京奋斗致远文化传媒股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>21,182,986.63</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>823,671.41</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>19898124.18</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>27,444,123.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>23,947,410.20</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3,496,712.80</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>337,278.54</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-337,278.54</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1,671,765.77</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-1,671,765.77</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2016年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1,487,668.49</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>40,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>30,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>60,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>45,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>15,000,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：筹资性流出">
+	<enterprise:预测项目名称>筹资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>800,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：筹资性净流量">
+	<enterprise:预测项目名称>筹资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-800,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：投资性流出">
+	<enterprise:预测项目名称>投资性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：投资性净流量">
+	<enterprise:预测项目名称>投资性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奋斗致远文化传媒股份有限公司2017年的预测项目：净现金流">
+	<enterprise:预测项目名称>净现金流</enterprise:预测项目名称>
+	<enterprise:预测项目金额>14,200,000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京奋斗致远文化传媒股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京奋斗致远文化传媒股份有限公司的商标数量">
+	<enterprise:商标总计>4</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>4</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京奋斗致远文化传媒股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>8</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>8</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

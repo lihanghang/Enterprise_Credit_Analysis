@@ -1,0 +1,2813 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京京城环保股份有限公司的企业概况">
+    <enterprise:有名称>北京京城环保股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108740402507R</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国银行股份有限公司北京长虹桥支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>474</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2002.7.18</enterprise:有注册登记日期>
+    <enterprise:有注册资本>20133.314</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>20133.314</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务、技术推广；工程和技术研究与试验发展；物业管理（含出租写字间）；货物进出口、技术进出口、代理进出口；销售汽车（不含九座以下乘用车）；制造机电一体化产品；技术检测；施工总承包、专业承包、劳务分包。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）技术开发、技术转让、技术咨询、技术服务、技术推广；工程和技术研究与试验发展；物业管理（含出租写字间）；货物进出口、技术进出口、代理进出口；销售汽车（不含九座以下乘用车）；制造机电一体化产品；技术检测；施工总承包、专业承包、劳务分包。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>环保装备制造、工程总承包及运营</enterprise:有主营业务>
+    <enterprise:有行业分类>生态保护和环境治理业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区首体南路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区工体北路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100027</enterprise:有邮政编码>
+    <enterprise:有联系人>孙鹂</enterprise:有联系人>
+    <enterprise:有联系电话>010-85236804</enterprise:有联系电话>
+    <enterprise:有传真电话>010-85235283</enterprise:有传真电话>
+    <enterprise:有E-mail>sunli@bmei.com</enterprise:有E-mail>
+    <enterprise:有网址>www.bmei.net.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京京城环保股份有限公司（以下简称“公
+司”）前身为北京机电院高技术股份有限公司，
+曾是北京市最大的科研院所，作为北京市 65
+家第一批转制科研院所之一，于 2002 年 7 月
+18 日在北京市工商行政管理局海淀分局注册
+成立。公司由北京京城机电控股有限责任公司、
+北京控股有限公司、北京市京联发投资管理中
+心等共同出资设立，初始注册资本 13000.00万
+元，后经多次增资及股权结构变更，截至评级
+时点，公司股东出资和持股情况详见附录二之
+表 13。 
+公司经营范围：“技术开发、技术转让、技
+术咨询、技术服务、技术推广；工程和技术研
+究与试验发展；物业管理（含出租写字间）；货
+物进出口、技术进出口、代理进出口；销售汽
+车（不含九座以下乘用车）；制造机电一体化产
+品；技术检测；施工总承包、专业承包、劳务
+分包。（依法须经批准的项目，经相关部门批准
+后依批准的内容开展经营活动。）”目前，公司
+主营业务为环保装备制造、工程总承包及运营。 
+截至 2016 年 8 月底，公司资产总额
+135429.01万元，固定资产净额 14933.04万元，
+所有者权益 62516.51万元；2015年，公司实现
+营业收入 50750.57万元，利润总额 6039.83万
+元；2016年 1~8月，公司实现营业收入 21993.65
+万元，利润总额 3573.43 万元。公司现有员工
+474人，在北京市属于大型企业。 
+公司注册地址：北京市海淀区首体南路 38
+号创景大厦 5层；经营地址：北京市朝阳区工
+体北路 4号；法定代表人：赵传军；统一社会
+信用代码：91110108740402507R；经营期限：
+自 2002年 7月 18日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京京城环保股份有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、总经理赵传军，47岁，
+硕士研究生学历，教授级高级工程师，曾任职
+于北京市机电研究院，2002年加入公司。赵传
+军曾作为项目负责人参与了《大庆石化危险废
+物焚烧项目》、《福建省危险废物焚烧示范工
+程》、《广州市危险废物焚烧工程》、《燕山石化
+生活垃圾焚烧项目》、《华北制药集团高浓度有
+机废液焚烧系统》等十几个具有国内先进水平
+和重要影响力的焚烧项目；先后获得过“中国
+机械工业科学技术进步二等奖”、“北京市科学
+技术进步奖”、“北京市经济委员会管理现代化
+创新成果二等奖”等荣誉奖项。 
+公司总经理助理迟向磊，66岁，本科学历，
+教授级高级工程师，多年从事科研开发与科研
+管理工作，曾先后主持完成了 60吨大台面精密
+油压机、包络蜗杆加工系统的设计工作，作为
+总负责人参与了中国人民解放军防化销毁站的
+建设工作，主持了目前国内最大医疗废物处理
+成套设备研制工作以及新疆省级危险废物处理
+中心工程建设，并获得过多项荣誉奖项。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 474人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 68.78%，员工学历水平较高。 
+从年龄构成看，公司员工年龄在 45岁及以
+下者占比 71.52%，员工以中青年为主。 
+从岗位构成看，公司管理人员占比
+18.57%、技术人员占比 32.49%、作业人员占比
+48.94%，岗位结构合理，符合公司经营的需要。 
+总体看，公司员工学历水平较高，岗位结
+构合理。 
+3．研发人员素质 
+公司现有研发人员 154人，其中：本科学
+历者 88人，硕士研究生学历者 65人，博士研
+究生学历者 1人，研发人员学历水平高。 
+公司总工程师白金玉，49岁，本科学历，
+高级工程师，长期从事技术开发与管理工作，
+曾主持或参与研制完成固定式防化危险品销毁
+系统、移动式防化危险品销毁系统、火工品销
+毁系统、固定式含砷防化危险品销毁系统等多
+项防化军工配套系统，所开发的防化系列产品
+销毁系统通过总装备部的鉴定，分别获得总装
+备部通保部奖三等奖和总装备部军队科技进步
+奖二等奖。公司防化系列产品销毁系统列装全
+军，填补了国内该领域的空白，为目前国内能
+够设计生产销毁防化危险品设备的唯一厂家。
+白金玉开发完成的回转窑产品系列化设计，该
+设计不仅提升了公司产品成套设备生产能力，
+同时带动形成了以回转窑技术为核心的危险废
+弃物、医疗废物处置、有机废液焚烧、污泥干
+化焚烧等相关产业的快速发展，为公司环保产
+业发展提供了有力的支撑，并获得了北京市人
+民政府颁发的北京市科学技术进步三等奖。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设立了企业技术中心，企业技术中心
+主要负责产品研发工作。除自主研发外，公司
+还积极与高等院校进行合作，目前已经与中国
+石油大学（北京）、清华大学签署了产学研合作
+协议。 
+近三年，公司研发投入分别为 5763.00 万
+元、4869.00万元、4230.00万元，分别占当年
+营业收入的 10.49%、9.21%、8.33%，研发投入
+主要用于发放研发人员工资、购置研发设备等。 
+总体看，公司科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>5763.00万元,4869.00万元,4230.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>10.49%,9.21%,8.33%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京京城环保股份有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地位于北京市朝阳区工体北路 4
+号，建筑面积 76435.01平方米，为公司自有房
+产。该经营场所地理位置交通便利，办公设施
+齐全。 
+公司成立时间长，拥有“凯富”、“汇康”、
+“BMEI”、“BIO”等 7项注册商标，业内知名
+度较高；公司所获资质详见表 2。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业 
+1 
+编号：GR201411003172，有效期至 2017年 10月 
+中关村高新技术企业 
+2 
+编号：20152010422608，有效期至 2018年 7月 
+环境工程（固体废物处理处置工程）专项甲级 
+3 
+编号：A111007547，有效期至 2020年 6月 
+环境工程（大气污染防治工程、水污染防治工程）专项
+4 乙级 
+编号：A211007544，有效期至 2019年 12月 
+市政公用工程施工总承包叁级 
+5 
+编号：D311080024，有效期至 2021年 3月 
+建筑机电安装工程专业承包叁级 
+6 
+编号：D311080024，有效期至 2021年 3月 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+环保工程专业承包叁级 
+7 
+编号：D311080024，有效期至 2021年 3月 
+建筑工程施工总承包叁级 
+8 
+编号：D311080024，有效期至 2021年 3月 
+机电工程施工总承包贰级 
+9 
+编号：D211089294，有效期至 2021年 2月 
+安全生产许可证 
+10 编号：（京）JZ安许证字〔2014〕236442，有效期至 2017
+年 8月 
+装备承制单位注册证书 
+11 
+编号：14EYS02298，有效期至 2018年 4月 
+建设项目环境影响评价资质证书-乙级 
+12 
+编号：国环评证乙字第 1013号，有效期至 2016年 12月 
+资料来源：公司提供，联合信用整理 
+总体看，公司资质齐全，经营条件较好。 
+2．业务运作 
+公司原有业务分两大板块，即机床板块和
+环保业务板块，2010年公司将机床板块业务剥
+离，主推环保板块业务。公司实行“三商合一”
+的商业模式，即环保设备供应及成套设备安装、
+工程总承包、运营（BOT、TOT、BT等），为
+客户提供环保全面解决方案。公司产品涉及危
+险废物处置、生活垃圾处置、污泥处置、水处
+理、餐厨垃圾处置、环保微生物菌剂、可再生
+资源回收与利用等领域，主导产品包括危险废
+物焚烧处理成套系统、生活垃圾综合处理及资
+源化利用成套装备、污泥干化焚烧及资源化利
+用成套工程、餐厨垃圾资源化综合处理成套装
+备、铸钢节点等，产品种类丰富。目前，公司
+收入主要分两大板块，即环保板块和物业板块，
+其中环保板块收入约占 80%，物业板块收入约
+占 20%。 
+公司采购物为结构件、回转窑、除尘器（含
+滤袋）等，其中结构件供应商主要是北京北锅
+回转窑供应商主要是北京金正源水泥机械厂、
+唐山冀东装备工程股份有限公司，除尘器（含
+滤袋）供应商主要是科林环保装备股份有限公
+司、辽宁宏晟环保机械工程有限公司、上海市
+凌桥环保设备厂有限公司等。结算方面，公司
+一般预付 30%，发货前检验完成付款 30%，货
+到现场验收合格付款 30%， 1年质保期满后付
+款 10%。 
+生产方面，公司首先根据客户提供的具体
+参数要求设计成图纸，然后委托控股子公司
+——北京北锅环保设备有限公司及外协厂商来
+生产，公司与外协厂商结算上有一定的账期。 
+销售方面，公司销售范围遍及全国，采用
+直销方式，项目取得以投标为主，客户包括各
+省级固废处置中心、华北设计研究总院、上海
+市城市排水有限公司、瀚蓝环境股份有限公司
+等。公司项目周期较长，一般都为 1年以上，
+已完成的典型项目包括“北京市集中处置项
+目”、“广西省南宁市危废集中处置项目”、“上
+海固体废物处置中心项目”等。实际结算中，
+因公司客户多为财政预算单位，付款流程繁琐，
+客户实际付款进度慢。 
+截至评级时点，公司在建项目包括临沂危
+险废物集中处置中心项目（总投资金额 4200.00
+万元，预计达产日期 2017年底）、兴化循环经
+济环保科技示范项目 EPC总承包（总投资金额
+34998.00万元，预计达产日期 2020年）、顺义
+区生活垃圾处理中心焚烧二期工程（总投资金
+额 19538.00万元，预计达产日期 2019年） 
+总体看，公司业务模式清晰，上下游渠道
+畅通。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 92.51 83.20 91.36 
+管理费用率(%) 11.54 16.79 13.01 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+应收账款周转次数(次) 6.12 4.71 4.14 
+存货周转次数(次) 1.91 1.33 1.02 
+总资产周转次数(次) 0.47 0.43 0.39 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率整体呈下降趋势，但
+始终处于行业较高水平；同期，管理费用率整
+体呈上升趋势，管理费用控制较好。 
+近三年，公司应收账款周转次数呈下降趋
+势，处于行业一般水平；同期，存货周转次数
+整体呈下降趋势，处于行业较低水平；同期，
+总资产周转次数基本稳定，处于行业低水平。 
+总体看，公司整体经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东大会由全体股东组成，是公司的权力
+机构，行使决定公司的经营方针和投资计划、
+审议批准董事会和监事会的报告、审议批准公
+司的年度财务预算方案和决算方案等职权；公
+司设董事会，董事会由 11名董事组成，设董事
+长 1人，副董事长 2人，董事会行使召集股东
+大会并向股东大会报告工作、执行股东大会决
+议、决定公司的经营计划等职权；公司设监事
+会，监事会由 5名监事组成，行使检查公司财
+务、对董事和高级管理人员执行公司职务的行
+为进行监督等职权。 
+公司设总经理 1名，由董事会聘任或解聘，
+行使主持公司的生产经营管理工作、组织实施
+公司年度经营计划和投资方案等职权。 
+公司内设总经理办公室、财务部、人力资
+源部、总工程师办公室、运营管理部、审计部、
+投资发展部、企业技术中心、上市办公室、党
+委工作部、环保事业一至五部、物业事业部、
+公司拥有 1 家全资子公司、5 家控股子公
+司和 1家参股公司，详见附录二之表 15，各子
+公司独立运营。 
+总体看，公司法人治理结构健全，组织架
+构清晰，部门设置合理。 
+2．制度建设及执行 
+根据内部管理需求，公司制订了《财务管
+理规定》、《差旅费支出与报销管理办法》、《资
+金管理办法》、《投资决策管理办法》、《供应商
+开发及评价管理办法》、《经营目标考核办法》
+等一系列管理制度，并通过了 ISO 9001：2008
+《质量管理体系标准》认证、ISO 14001：2004
+《环境管理体系标准》认证、GB/T 28001-2011
+《职业健康安全管理体系标准》认证（有效期
+均至 2017年 1月），进一步规范了公司内部运
+作流程。在实际经营中，公司严格按照相关管
+理制度及操作规程执行。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016 年将实现营业收入
+53000.00万元，净利润 5500.00万元；预计 2016
+年底公司资产总额 139979.09 万元，负债总额
+75000.00万元，所有者权益 64979.09万元。相
+比 2015年，联合信用预计公司 2016年营业收
+入增长 4.43%，负债率变动幅度为-1.84%，净
+资产收益率变动幅度为 0.22%。 
+总体看，联合信用预测公司短期内业务发
+展稳定。 
+2．融资需求 
+截至评级时点，公司有 3000.00 万元的新
+增融资需求，融资途径为银行贷款，主要用于
+补充流动资金，还款来源为公司经营收入。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京京城环保股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 118058.09
+万元、128110.18万元、133414.94万元，复合
+增长率为 6.31%，增长稳定。 
+截至 2016 年 8 月底，公司资产总额
+135429.01万元，其中：流动资产占比 69.34%，
+非流动资产占比 30.66%。 
+截至 2016 年 8 月底，公司流动资产
+93910.56万元，其中：货币资金 8388.31万元，
+占比 8.93%；应收账款 12044.56 万元，占比
+12.83%，主要为应收北京机电院机床有限公
+司、温州中环正源水务有限公司、吉林市世纪
+华扬环境工程有限公司、万全县万洁环境工程
+有限公司、内蒙古包头阳光美景环保有限责任
+公司等的工程款，账龄在 1 年以内的占比
+38.80%，1~2年的占比 29.70%，2年以上的占
+比 31.50%；其他应收款 31261.21 万元，占比
+33.29%，主要为与山东万华管理咨询有限公
+司、浙江省京城再生资源有限公司、青岛港明
+实业有限公司、山西省太原固体废物处置中心
+（有限公司）、红河州德远环境保护有限公司等
+的往来款，账龄集中在 1年以内；存货 38841.83
+万元，占比 41.36%，主要为原材料和在建项目。 
+图 1  公司 2016年 8月底流动资产构成图 
+截至 2016 年 8 月底，公司非流动资产
+41518.46万元，其中：长期股权投资 17376.04
+万元，占比 41.85%，为对子公司及参股公司的
+股权投资；固定资产净额 14933.04万元，占比
+35.97%，主要为房屋建筑物、机械设备和办公
+设备等；无形资产 5653.39万元，占比 13.62%，
+为土地使用权和非专利技术。 
+总体看，公司资产流动性一般，资产质量
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，2016年 8月底，
+公司流动比率和速动比率分别为 137.70%、
+80.74%，均处于行业较低水平，公司短期偿债
+能力较弱。 
+从长期偿债能力指标看，2015 年，公司
+EBITDA 利息倍数和债务保护倍数分别为
+14.07倍、0.55倍，均处于行业一般水平，公司
+长期偿债能力一般。 
+结合公司资产规模以及权益债务结构来
+看，公司未来一年内整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 64.27%、
+54.06%、55.42%，呈波动下降趋势；同期，全
+部债务资本化比率分别为 33.25%、20.16%、
+17.09%，呈下降趋势。2016年 8月底，公司资
+产负债率为 53.84%，全部债务资本化比率为
+16.10%，公司负债水平较高，有息债务压力一
+般。 
+近三年，公司负债总额分别为 75880.38万
+元、69259.94万元、73935.84万元，复合变动
+率为-1.29%，整体呈下降趋势。 
+截至 2016 年 8 月底，公司负债总额
+72912.50万元，其中：流动负债占比 93.51%，
+非流动负债占比 6.49%。 
+截至 2016 年 8 月底，公司流动负债
+68201.23万元，其中：短期借款 12000.00万元，
+应付江苏长城窑炉工程有限公司、北京京城电
+气工程有限公司、北京市电线电缆总厂本部、
+中国有色金属工业第十四冶金建设公司、湖南
+有色金建机电设备安装工程有限公司等的采购
+款；预收款项 10528.87万元，主要为预收湖南
+瀚洋环保科技有限公司、中国市政工程华北设
+计研究总院设备成套中心、蓬莱海润化工学固
+废处理有限公司的工程款和北京凯富国际休闲
+俱乐部、北京机电院机床有限公司的房租等。 
+表 4  公司 2016年 8月底短期借款情况 
+贷款银行 贷款额(万元) 贷款期限 担保方式 
+华夏银行 3000.00 — 股东担保 
+华夏银行 3000.00 — 股东担保 
+华夏银行 3000.00 — 股东担保 
+华夏银行 3000.00 — 股东担保 
+资料来源：公司提供，联合信用整理 
+截至 2016 年 8 月底，公司非流动负债
+4711.27万元，其中：长期应付款 2491.65万元，
+占比 52.89%，为应付北京市机电研究院的款
+项；专项应付款 2219.63万元，占比 47.11%，
+为政府项目补助款。 
+近三年，公司所有者权益分别为 42177.71
+万元、58850.24万元、59479.09万元，复合增
+长率为 18.75%，主要是股东增资和留存收益积
+累所致，增长比较稳定。 
+截至 2016 年 8 月底，公司所有者权益为
+62516.51万元，其中：实收资本 20133.31万元，
+占比 32.20%；资本公积 15973.02 万元，占比
+25.55%；盈余公积 18173.78万元，占比 29.07%；
+未分配利润 8236.39万元，占比 13.17%。公司
+所有者权益对债务保障能力强。 
+总体看，公司负债水平较高，有息债务压
+力一般，所有者权益成长性较好，对债务保障
+能力较强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 54921.91万
+元、52889.72万元、50750.57万元，复合变动
+率为-3.87%，有所下降，主要受宏观经济环境
+影响；同期，利润总额分别为 4197.05 万元、
+9058.19 万元、6039.83 万元，复合增长率为
+19.96%，2014年增长较快主要是公司处置子公
+司所收到的投资收益较大。 
+近三年，公司主营业务利润率分别为
+21.86%、 20.33%、 24.16%，加权平均值为
+22.55%，处于行业一般水平；同期，总资产报
+酬率分别为 4.49%、7.94%、5.07%，加权平均
+值为 5.81%，处于行业低水平；同期，净资产
+收益率分别为 9.00%、16.10%、8.62%，加权平
+均值为 10.94%，处于行业较低水平。公司盈利
+能力较弱。 
+图 2  公司近三年盈利能力指标变动趋势图 
+从收入实现质量看，近三年，公司现金收
+入比分别为 80.27%、85.13%、97.62%，加权平
+均值为 90.40%，处于行业较低水平。 
+总体看，公司盈利能力较弱，收入实现质
+量较差。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京京城环保股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司存在行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+近五年存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司成本率较高，经营效率较低。 
+（2）公司流动资产中应收账款和存货占比
+较大，收入实现质量较差。 
+（3）受宏观经济影响，公司营业收入有所
+下降，营业收入实现情况有待跟踪。 
+（4）公司在建项目金额较大，项目进展情
+况有待跟踪。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京京城环保股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>118058.09 </enterprise:资产总额>
+    <enterprise:所有者权益>42177.71 </enterprise:所有者权益>
+    <enterprise:负债总额>75880.38 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>54921.91 </enterprise:营业收入>
+    <enterprise:EBITDA>6414.46 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京城环保股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>128110.18 </enterprise:资产总额>
+    <enterprise:所有者权益>58850.24 </enterprise:所有者权益>
+    <enterprise:负债总额>69259.94 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>52889.72 </enterprise:营业收入>
+    <enterprise:EBITDA>11022.01 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京城环保股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>133414.93 </enterprise:资产总额>
+    <enterprise:所有者权益>59479.08 </enterprise:所有者权益>
+    <enterprise:负债总额>73935.85 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>50750.57 </enterprise:营业收入>
+    <enterprise:EBITDA>8211.17 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京京城环保股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.47 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.91 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京城环保股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.43 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.71 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.33 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京城环保股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.39 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.14 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.02 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京城环保股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.49 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>22.81 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京城环保股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>7.94 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>26.37 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京城环保股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.07 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>18.72 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京城环保股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>112.67 </enterprise:流动比率>
+    <enterprise:速动比率>73.60 </enterprise:速动比率>
+    <enterprise:资产负债率>64.27 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.01 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京城环保股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>139.16 </enterprise:流动比率>
+    <enterprise:速动比率>85.10 </enterprise:速动比率>
+    <enterprise:资产负债率>54.06 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>15.55 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京城环保股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>133.29 </enterprise:流动比率>
+    <enterprise:速动比率>76.82 </enterprise:速动比率>
+    <enterprise:资产负债率>55.42 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>14.07 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京京城环保股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>23.26 </enterprise:毛利率>
+    <enterprise:成本费用利润率>22.45 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.80 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-13.12 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>33.25 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-3.87 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>3.26 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京城环保股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>22.11 </enterprise:毛利率>
+    <enterprise:成本费用利润率>37.88 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.85 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-9.31 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>20.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京城环保股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>25.82 </enterprise:毛利率>
+    <enterprise:成本费用利润率>30.42 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.98 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-1.70 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>17.09 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京京城环保股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>9317.19 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>570.00 </enterprise:应收票据>
+    <enterprise:应收账款>10201.59 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>5038.64 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>25918.41 </enterprise:其他应收款>
+    <enterprise:存货>27094.49 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>78140.32 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>16480.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>10756.95 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>6264.95 </enterprise:固定资产净额>
+    <enterprise:在建工程>524.59 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3027.51 </enterprise:无形资产>
+    <enterprise:开发支出>2745.43 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>118.34 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>39917.77 </enterprise:非流动资产合计>
+    <enterprise:资产总计>118058.09 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京城环保股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>21450.01 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>1110.00 </enterprise:应收票据>
+    <enterprise:应收账款>12270.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>3014.16 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>16990.16 </enterprise:其他应收款>
+    <enterprise:存货>34831.26 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>89666.09 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>305.80 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>14826.04 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>9673.88 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>6524.11 </enterprise:固定资产净额>
+    <enterprise:在建工程>820.38 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5102.81 </enterprise:无形资产>
+    <enterprise:开发支出>1072.73 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>118.34 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>38444.09 </enterprise:非流动资产合计>
+    <enterprise:资产总计>128110.18 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京城环保股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>15375.76 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>241.44 </enterprise:应收票据>
+    <enterprise:应收账款>12234.78 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2932.89 </enterprise:预付款项>
+    <enterprise:应收股利>32.95 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>22295.37 </enterprise:其他应收款>
+    <enterprise:存货>39042.58 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>92155.77 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>305.80 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>17376.04 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>10222.20 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>5271.15 </enterprise:固定资产净额>
+    <enterprise:在建工程>1002.41 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4676.65 </enterprise:无形资产>
+    <enterprise:开发支出>2286.57 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>118.34 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>41259.16 </enterprise:非流动资产合计>
+    <enterprise:资产总计>133414.93 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京城环保股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>12000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>2856.00 </enterprise:应付票据>
+    <enterprise:应付账款>33397.17 </enterprise:应付账款>
+    <enterprise:预收款项>5916.30 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>286.92 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1555.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>2177.52 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>6246.45 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>64436.11 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>2745.85 </enterprise:长期应付款>
+    <enterprise:专项应付款>2077.98 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>4823.83 </enterprise:非流动负债合计>
+    <enterprise:负债合计>69259.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>15087.22 </enterprise:实收资本或股本>
+    <enterprise:资本公积>20589.06 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>15207.41 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7966.55 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>58850.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>58850.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>128110.18 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京城环保股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>12000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>2856.00 </enterprise:应付票据>
+    <enterprise:应付账款>33397.17 </enterprise:应付账款>
+    <enterprise:预收款项>5916.30 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>286.92 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1555.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>2177.52 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>6246.45 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>64436.11 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>2745.85 </enterprise:长期应付款>
+    <enterprise:专项应付款>2077.98 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>4823.83 </enterprise:非流动负债合计>
+    <enterprise:负债合计>69259.94 </enterprise:负债合计>
+    <enterprise:实收资本或股本>15087.22 </enterprise:实收资本或股本>
+    <enterprise:资本公积>20589.06 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>15207.41 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7966.55 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>58850.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>58850.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>128110.18 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京城环保股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>12000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>262.00 </enterprise:应付票据>
+    <enterprise:应付账款>38739.29 </enterprise:应付账款>
+    <enterprise:预收款项>5636.91 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>83.35 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1432.29 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>4902.84 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>6081.56 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>69138.24 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>2577.98 </enterprise:长期应付款>
+    <enterprise:专项应付款>2219.63 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>4797.61 </enterprise:非流动负债合计>
+    <enterprise:负债合计>73935.85 </enterprise:负债合计>
+    <enterprise:实收资本或股本>20133.31 </enterprise:实收资本或股本>
+    <enterprise:资本公积>15973.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>18173.78 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>5198.97 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>59479.08 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>59479.08 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>133414.93 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京京城环保股份有限公司2013年利润表">
+    <enterprise:营业收入>54921.91 </enterprise:营业收入>
+    <enterprise:主营业务收入>54921.91 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>42146.52 </enterprise:营业成本>
+    <enterprise:主营业务成本>42146.52 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>766.84 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1184.29 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5864.10 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>726.98 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>121.02 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>9976.26 </enterprise:营业利润>
+    <enterprise:营业外收入>95.64 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>10.74 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>10061.16 </enterprise:利润总额>
+    <enterprise:所得税费用>438.78 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>9622.38 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>9622.38 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京京城环保股份有限公司2014年利润表">
+    <enterprise:营业收入>52889.72 </enterprise:营业收入>
+    <enterprise:主营业务收入>52889.72 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>41195.94 </enterprise:营业成本>
+    <enterprise:主营业务成本>41195.94 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>942.51 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1212.43 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>7389.25 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>71.50 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>556.66 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>7361.71 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>16272.39 </enterprise:营业利润>
+    <enterprise:营业外收入>177.04 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.99 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>16447.44 </enterprise:利润总额>
+    <enterprise:所得税费用>926.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>15521.44 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>15521.44 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京京城环保股份有限公司2015年利润表">
+    <enterprise:营业收入>50750.57 </enterprise:营业收入>
+    <enterprise:主营业务收入>50750.57 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>37644.45 </enterprise:营业成本>
+    <enterprise:主营业务成本>37644.45 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>844.81 </enterprise:营业税金及附加>
+    <enterprise:销售费用>974.34 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>6032.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>217.83 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>694.21 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>41.98 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>10416.91 </enterprise:营业利润>
+    <enterprise:营业外收入>1684.86 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>29.31 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>12072.46 </enterprise:利润总额>
+    <enterprise:所得税费用>938.20 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>11134.26 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>11134.26 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京京城环保股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>44088.23 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>516.38 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>9641.24 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>54245.85 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>44857.21  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>8743.63 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2878.31 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>6865.28 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>63344.43 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-9098.58 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>19.03 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>10297.46 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>10316.49 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>456.99 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>5750.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>5807.29 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>12014.28 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1697.79 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>23450.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>23450.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>26100.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3979.91 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>30079.91 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-6629.91 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-17426.28 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京京城环保股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>45025.02 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>169.07 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>8213.74 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>53407.83 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>39579.83  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>9618.31 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2754.60 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>7452.53 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>59405.27 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-5997.44 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>7000.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>7361.24 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>52.17 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>15327.92 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>29741.33 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>317.10 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>5651.84 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>9565.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>15533.94 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>14207.39 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>20000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>20000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>12700.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3377.14 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>16077.14 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>3922.86 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>12132.81 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京京城环保股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>49542.43 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>11668.87 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>61211.30 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>32749.81  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>8605.69 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>4035.61 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>16993.81 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>62384.92 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1173.62 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>173.11 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>2550.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2723.11 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2723.11 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>12000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>12000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>12000.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>2177.52 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>14177.52 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-2177.52 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-6074.25 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：延吉京城环保产业有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>延吉京城环保产业有限公司</enterprise:名称>
+	<enterprise:单位代码>07706380-0</enterprise:单位代码>
+	<enterprise:被投资金额>5250.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：呼和浩特市京城固体废物处理有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>呼和浩特市京城固体废物处理有限公司</enterprise:名称>
+	<enterprise:单位代码>91150100683424469T</enterprise:单位代码>
+	<enterprise:被投资金额>1530.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>51.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：北京北锅环保设备有限公司">
+	<enterprise:序号>3</enterprise:序号>
+	<enterprise:名称>北京北锅环保设备有限公司</enterprise:名称>
+	<enterprise:单位代码>91110107053579562J</enterprise:单位代码>
+	<enterprise:被投资金额>3846.04万元</enterprise:被投资金额>
+	<enterprise:股权比率>76.92%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：台州京城再生资源技术研究院有限公司">
+	<enterprise:序号>4</enterprise:序号>
+	<enterprise:名称>台州京城再生资源技术研究院有限公司</enterprise:名称>
+	<enterprise:单位代码>05010774-6</enterprise:单位代码>
+	<enterprise:被投资金额>1200.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>60.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：泰州京城环保产业有限公司">
+	<enterprise:序号>5</enterprise:序号>
+	<enterprise:名称>泰州京城环保产业有限公司</enterprise:名称>
+	<enterprise:单位代码>913212813021428212</enterprise:单位代码>
+	<enterprise:被投资金额>6840.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>60.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京京城环保股份有限公司被投资单位：北京京城惠通环保有限公司">
+	<enterprise:序号>6</enterprise:序号>
+	<enterprise:名称>北京京城惠通环保有限公司</enterprise:名称>
+	<enterprise:单位代码>91110112MA00281M6A</enterprise:单位代码>
+	<enterprise:被投资金额>2550.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>51.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京京城环保股份有限公司股东：蒋自力 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>蒋自力 </enterprise:股东名称>
+	 <enterprise:货币>31.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>50.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京城环保股份有限公司股东：殷新京 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>殷新京 </enterprise:股东名称>
+	 <enterprise:货币>31.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>50.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BMEI">
+	<enterprise:有申请日期>14-12-19</enterprise:有申请日期>
+	<enterprise:有商标名称>BMEI</enterprise:有商标名称>
+	<enterprise:有注册号>15970546</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：京城环保 JINGCHENG ENV">
+	<enterprise:有申请日期>14-12-19</enterprise:有申请日期>
+	<enterprise:有商标名称>京城环保 JINGCHENG ENV</enterprise:有商标名称>
+	<enterprise:有注册号>15970547</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO</enterprise:有商标名称>
+	<enterprise:有注册号>8998615</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO-PLUS">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO-PLUS</enterprise:有商标名称>
+	<enterprise:有注册号>8998627</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ALGAE KILL">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>ALGAE KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8998644</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO-PLUS">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO-PLUS</enterprise:有商标名称>
+	<enterprise:有注册号>8998659</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ALGAE KILL">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>ALGAE KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8998664</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ODOUR KILL">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>ODOUR KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8998552</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ODOUR KILL">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>ODOUR KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8998635</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：FOR EARTH">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>FOR EARTH</enterprise:有商标名称>
+	<enterprise:有注册号>8998610</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO</enterprise:有商标名称>
+	<enterprise:有注册号>8998656</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：FOR EARTH">
+	<enterprise:有申请日期>10-12-28</enterprise:有申请日期>
+	<enterprise:有商标名称>FOR EARTH</enterprise:有商标名称>
+	<enterprise:有注册号>8998520</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ALGAE KILL">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>ALGAE KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8971220</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO</enterprise:有商标名称>
+	<enterprise:有注册号>8971247</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO-PLUS">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO-PLUS</enterprise:有商标名称>
+	<enterprise:有注册号>8971184</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ODOUR KILL">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>ODOUR KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8971229</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO-PLUS">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO-PLUS</enterprise:有商标名称>
+	<enterprise:有注册号>8971243</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：FOR EARTH">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>FOR EARTH</enterprise:有商标名称>
+	<enterprise:有注册号>8971253</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BIO">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>BIO</enterprise:有商标名称>
+	<enterprise:有注册号>8971179</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ODOUR KILL">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>ODOUR KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8971195</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：ALGAE KILL">
+	<enterprise:有申请日期>10-12-20</enterprise:有申请日期>
+	<enterprise:有商标名称>ALGAE KILL</enterprise:有商标名称>
+	<enterprise:有注册号>8971199</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯4号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯4号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193112</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯4号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯4号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193205</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯4号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯4号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193139</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯四号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯四号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193096</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯4号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯4号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193156</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：三里屯4号院">
+	<enterprise:有申请日期>10-4-9</enterprise:有申请日期>
+	<enterprise:有商标名称>三里屯4号院</enterprise:有商标名称>
+	<enterprise:有注册号>8193183</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：京城环保;JINGCHENG ENVIRONMENTAL PROTECTION">
+	<enterprise:有申请日期>07-10-25</enterprise:有申请日期>
+	<enterprise:有商标名称>京城环保;JINGCHENG ENVIRONMENTAL PROTECTION</enterprise:有商标名称>
+	<enterprise:有注册号>6340521</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>05-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>4570897</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：汇康">
+	<enterprise:有申请日期>05-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>汇康</enterprise:有商标名称>
+	<enterprise:有注册号>4570900</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：凯富">
+	<enterprise:有申请日期>05-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>凯富</enterprise:有商标名称>
+	<enterprise:有注册号>4570898</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：北高">
+	<enterprise:有申请日期>05-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>北高</enterprise:有商标名称>
+	<enterprise:有注册号>4570899</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：京城环保;JCEP">
+	<enterprise:有申请日期>02-11-20</enterprise:有申请日期>
+	<enterprise:有商标名称>京城环保;JCEP</enterprise:有商标名称>
+	<enterprise:有注册号>3375356</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京城环保股份有限公司的商标信息：BMEI">
+	<enterprise:有申请日期>99-5-4</enterprise:有申请日期>
+	<enterprise:有商标名称>BMEI</enterprise:有商标名称>
+	<enterprise:有注册号>1451058</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物焚烧炉上料蒸汽灭火装置及蒸汽灭火方法">
+	<enterprise:有申请公布日>2017-09-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物焚烧炉上料蒸汽灭火装置及蒸汽灭火方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710348849.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107152690A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种气环流内循环深水湖泊水质曝气改良装置">
+	<enterprise:有申请公布日>2017-08-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种气环流内循环深水湖泊水质曝气改良装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621438640.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206407987U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种布袋除尘器在线故障检测、保护方法及系统">
+	<enterprise:有申请公布日>2017-07-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种布袋除尘器在线故障检测、保护方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710250497.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106984102A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危废行业石灰粉投加电气控制系统及方法">
+	<enterprise:有申请公布日>2017-06-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危废行业石灰粉投加电气控制系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710051388.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106799128A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑钢结构用万向固定铰接铸钢支座节点">
+	<enterprise:有申请公布日>2017-05-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑钢结构用万向固定铰接铸钢支座节点</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620541335.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206189592U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种集成式喷淋除臭装置">
+	<enterprise:有申请公布日>2017-05-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种集成式喷淋除臭装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621035498.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206168197U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：低合金铸钢节点及其熔炼、浇注控制方法和热处理工艺">
+	<enterprise:有申请公布日>2017-05-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>低合金铸钢节点及其熔炼、浇注控制方法和热处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410231686.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103993244B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种处理固体废物焚烧废气的组合式成套装置及方法">
+	<enterprise:有申请公布日>2017-05-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种处理固体废物焚烧废气的组合式成套装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611037935.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106621748A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种氧化锆氧量分析组合装置">
+	<enterprise:有申请公布日>2017-03-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种氧化锆氧量分析组合装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620892122.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206057276U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种分体式上盖装置">
+	<enterprise:有申请公布日>2017-03-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分体式上盖装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620895530.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206046224U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种粉料仓">
+	<enterprise:有申请公布日>2017-03-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种粉料仓</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620859377.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206013528U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：带应用软件界面的电脑">
+	<enterprise:有申请公布日>2017-02-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>带应用软件界面的电脑</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630318681.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304030177S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾分选破碎一体机">
+	<enterprise:有申请公布日>2017-02-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾分选破碎一体机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620653955.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205925849U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种固废焚烧炉推料机的行程定位方法">
+	<enterprise:有申请公布日>2017-02-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种固废焚烧炉推料机的行程定位方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610782498.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106382643A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废弃物的焚烧进料装置">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废弃物的焚烧进料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410670701.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104406169B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种固体危险废弃物处置进料专家库诊断方法">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种固体危险废弃物处置进料专家库诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610696269.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106293988A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种多远程垃圾坑数据采集、记录系统">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多远程垃圾坑数据采集、记录系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610786477.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106292600A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种多仓室布袋除尘器的矩阵式清灰控制方法">
+	<enterprise:有申请公布日>2016-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多仓室布袋除尘器的矩阵式清灰控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610696337.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106237744A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种称重计量进料装置">
+	<enterprise:有申请公布日>2016-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种称重计量进料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620536513.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205820396U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种焚烧炉高温烟气雾化降温装置及方法">
+	<enterprise:有申请公布日>2016-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种焚烧炉高温烟气雾化降温装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610798655.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106224976A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种氧化锆氧量分析组合装置及方法">
+	<enterprise:有申请公布日>2016-12-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种氧化锆氧量分析组合装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610677991.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106198888A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种集成式喷淋除臭主机及方法">
+	<enterprise:有申请公布日>2016-12-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种集成式喷淋除臭主机及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610798020.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106178902A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种粉料仓及出料方法">
+	<enterprise:有申请公布日>2016-12-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种粉料仓及出料方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610648779.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106185078A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾分选破碎一体机及方法">
+	<enterprise:有申请公布日>2016-10-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾分选破碎一体机及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610483631.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106000542A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种应用了颗粒硅藻土的反硝化滤池装置">
+	<enterprise:有申请公布日>2016-07-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用了颗粒硅藻土的反硝化滤池装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521127345.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205367873U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种散料固化成型模具">
+	<enterprise:有申请公布日>2016-06-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种散料固化成型模具</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520893111.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205291680U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：餐厨垃圾厌氧发酵工艺中制浆分选匀浆预处理装置">
+	<enterprise:有申请公布日>2016-06-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>餐厨垃圾厌氧发酵工艺中制浆分选匀浆预处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520926905.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205288592U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥焚烧烟气的处理装置">
+	<enterprise:有申请公布日>2016-06-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥焚烧烟气的处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520696869.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205269376U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于市政污泥焚烧炉的节能隔热降温装置及其方法">
+	<enterprise:有申请公布日>2016-06-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于市政污泥焚烧炉的节能隔热降温装置及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310409750.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103471132B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种组合密封装置以及包含该装置的机组">
+	<enterprise:有申请公布日>2016-04-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种组合密封装置以及包含该装置的机组</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520721910.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205173045U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种应用了颗粒硅藻土的反硝化滤池装置及方法">
+	<enterprise:有申请公布日>2016-04-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用了颗粒硅藻土的反硝化滤池装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201511018842.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105481090A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种散料固化成型模具及散料固化成型方法">
+	<enterprise:有申请公布日>2016-01-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种散料固化成型模具及散料固化成型方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510763206.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105252809A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种焚烧炉燃烧器断电、故障自动保护的装置及方法">
+	<enterprise:有申请公布日>2016-01-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种焚烧炉燃烧器断电、故障自动保护的装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510847810.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105258153A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种火工品烧毁系统燃烧器的检修平台">
+	<enterprise:有申请公布日>2016-01-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种火工品烧毁系统燃烧器的检修平台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520615161.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204944330U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥焚烧烟气的处理装置及方法">
+	<enterprise:有申请公布日>2015-11-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥焚烧烟气的处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510571776.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105032158A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种高温烟气紧急排放系统">
+	<enterprise:有申请公布日>2015-09-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高温烟气紧急排放系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310306658.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103335322B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种高粘度有机混合废液的焚烧方法">
+	<enterprise:有申请公布日>2015-09-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高粘度有机混合废液的焚烧方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210437756.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102901110B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于餐厨垃圾堆肥预处理的方法">
+	<enterprise:有申请公布日>2015-09-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于餐厨垃圾堆肥预处理的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210445167.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103804035B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种应用了颗粒硅藻土的油田采出水处理工艺">
+	<enterprise:有申请公布日>2015-09-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用了颗粒硅藻土的油田采出水处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310408204.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103449674B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种尿素溶液的制备系统">
+	<enterprise:有申请公布日>2015-08-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种尿素溶液的制备系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520162914.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204582981U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥低温热调质厌氧产沼成套处理装置及方法">
+	<enterprise:有申请公布日>2015-08-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥低温热调质厌氧产沼成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310284799.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103332840B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：污泥焚烧炉进料装置及具有该进料装置的焚烧炉系统">
+	<enterprise:有申请公布日>2015-07-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>污泥焚烧炉进料装置及具有该进料装置的焚烧炉系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420845723.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204513413U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾沥水无轴螺旋输送机">
+	<enterprise:有申请公布日>2015-07-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾沥水无轴螺旋输送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420833830.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204508026U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种垃圾堆体监测仪表的保护装置">
+	<enterprise:有申请公布日>2015-06-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种垃圾堆体监测仪表的保护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431552.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102519505B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废弃物的焚烧进料装置">
+	<enterprise:有申请公布日>2015-05-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废弃物的焚烧进料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420703622.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204329037U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废弃物的焚烧进料装置">
+	<enterprise:有申请公布日>2015-03-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废弃物的焚烧进料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410670701.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104406169A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：多通道半干污泥切换装置以及包含该装置的污泥输送系统">
+	<enterprise:有申请公布日>2015-01-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>多通道半干污泥切换装置以及包含该装置的污泥输送系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410487852.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104261040A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种废塑料烘干机">
+	<enterprise:有申请公布日>2014-11-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种废塑料烘干机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210123467.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102620537B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种稠油污水回用注汽锅炉处理系统">
+	<enterprise:有申请公布日>2014-09-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种稠油污水回用注汽锅炉处理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420215750.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203845890U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种外加热式无轴沥水螺旋输送机">
+	<enterprise:有申请公布日>2014-09-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种外加热式无轴沥水螺旋输送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420165424.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203819946U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：低合金铸钢节点及其熔炼、浇注控制方法和热处理工艺">
+	<enterprise:有申请公布日>2014-08-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>低合金铸钢节点及其熔炼、浇注控制方法和热处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410231686.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103993244A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种槽体端板密封装置">
+	<enterprise:有申请公布日>2014-07-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种槽体端板密封装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320823684.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203686136U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥焚烧炉的进料装置">
+	<enterprise:有申请公布日>2014-07-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥焚烧炉的进料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320843318.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203687056U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种石灰连续输送装置">
+	<enterprise:有申请公布日>2014-07-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种石灰连续输送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320822614.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203682608U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一体式垃圾压装机">
+	<enterprise:有申请公布日>2014-06-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体式垃圾压装机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320645923.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203624325U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：应用了颗粒硅藻土的油田采出水处理系统">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>应用了颗粒硅藻土的油田采出水处理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320558897.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203498224U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于市政污泥焚烧炉的节能隔热降温装置">
+	<enterprise:有申请公布日>2014-03-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于市政污泥焚烧炉的节能隔热降温装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320560686.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203501208U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一体式垃圾压装机上料机构">
+	<enterprise:有申请公布日>2014-02-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体式垃圾压装机上料机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320501281.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203428559U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一体式垃圾压装机料斗">
+	<enterprise:有申请公布日>2014-02-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体式垃圾压装机料斗</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320503064.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203428274U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种城市园林绿色废弃物生物处理成套系统及方法">
+	<enterprise:有申请公布日>2014-01-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种城市园林绿色废弃物生物处理成套系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210303888.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102826881B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥低温热调质厌氧产沼成套处理装置">
+	<enterprise:有申请公布日>2014-01-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥低温热调质厌氧产沼成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320403872.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203373248U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾破碎机">
+	<enterprise:有申请公布日>2014-01-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾破碎机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310489544.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103480458A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：红外线高温测温装置及方法">
+	<enterprise:有申请公布日>2014-01-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外线高温测温装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010512667.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102003999B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于市政污泥焚烧炉的节能隔热降温装置及其方法">
+	<enterprise:有申请公布日>2013-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于市政污泥焚烧炉的节能隔热降温装置及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310409750.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103471132A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种应用了颗粒硅藻土的油田采出水处理工艺">
+	<enterprise:有申请公布日>2013-12-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种应用了颗粒硅藻土的油田采出水处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310408204.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103449674A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种锁紧密封机构">
+	<enterprise:有申请公布日>2013-11-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种锁紧密封机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320291356.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203306541U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥堆肥的自行式翻抛装置及处理方法">
+	<enterprise:有申请公布日>2013-11-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥堆肥的自行式翻抛装置及处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010577393.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102030570B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种生活垃圾生物干化反应器及垃圾生物干化方法">
+	<enterprise:有申请公布日>2013-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生活垃圾生物干化反应器及垃圾生物干化方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210038719.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102557764B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥低温热调质厌氧产沼成套处理装置及方法">
+	<enterprise:有申请公布日>2013-10-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥低温热调质厌氧产沼成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310284799.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103332840A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种高温烟气紧急排放系统">
+	<enterprise:有申请公布日>2013-10-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高温烟气紧急排放系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310306658.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103335322A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于生活垃圾均匀受料的垃圾箱">
+	<enterprise:有申请公布日>2013-08-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于生活垃圾均匀受料的垃圾箱</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320135178.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203158614U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥水热干化蒸汽热解反应釜的蒸汽泄压方法及装置">
+	<enterprise:有申请公布日>2013-08-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥水热干化蒸汽热解反应釜的蒸汽泄压方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110422396.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102417286B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干法处理污泥焚烧尾气的成套装置及方法">
+	<enterprise:有申请公布日>2013-08-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干法处理污泥焚烧尾气的成套装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010562907.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102120130B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干污泥输送装置及方法">
+	<enterprise:有申请公布日>2013-07-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干污泥输送装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010571982.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102070006B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物处置中心废水综合处理系统及方法">
+	<enterprise:有申请公布日>2013-07-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物处置中心废水综合处理系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110294078.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102372400B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种城市垃圾综合厌氧处理加热装置">
+	<enterprise:有申请公布日>2013-04-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种城市垃圾综合厌氧处理加热装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220601863.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202893800U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种厌氧消化罐">
+	<enterprise:有申请公布日>2013-04-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种厌氧消化罐</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220600699.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202898414U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物焚烧尾气处理系统整体出灰装置">
+	<enterprise:有申请公布日>2013-04-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物焚烧尾气处理系统整体出灰装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220488639.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202902312U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种城市园林绿色废弃物生物处理成套系统">
+	<enterprise:有申请公布日>2013-04-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种城市园林绿色废弃物生物处理成套系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220423097.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202898246U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾制备生物蛋白饲料的方法">
+	<enterprise:有申请公布日>2013-04-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾制备生物蛋白饲料的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010577362.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101999516B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种高含盐废水焚烧处理方法">
+	<enterprise:有申请公布日>2013-04-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高含盐废水焚烧处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210573034.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103017177A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种节水型污泥桨叶式干化的载气成套处理装置">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种节水型污泥桨叶式干化的载气成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220471166.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202740812U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种拉索桥用钢索与铸钢支撑铰节点">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种拉索桥用钢索与铸钢支撑铰节点</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220427886.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202744952U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种湿法处理污泥焚烧尾气的成套装置">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种湿法处理污泥焚烧尾气的成套装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220471140.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202740997U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种沼气供气装置">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种沼气供气装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220487731.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202746943U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种生活垃圾生物堆肥成套装置">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生活垃圾生物堆肥成套装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220446213.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202744466U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种垃圾渗滤液深度处理工艺方法">
+	<enterprise:有申请公布日>2013-02-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种垃圾渗滤液深度处理工艺方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910242273.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102086075B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种城市垃圾综合厌氧处理加热方法">
+	<enterprise:有申请公布日>2013-02-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种城市垃圾综合厌氧处理加热方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210458483.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102921706A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种高粘度有机混合废液的焚烧方法">
+	<enterprise:有申请公布日>2013-01-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高粘度有机混合废液的焚烧方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210437756.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102901110A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种低粘度有机混合废液的焚烧方法">
+	<enterprise:有申请公布日>2013-01-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种低粘度有机混合废液的焚烧方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210437768.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102889603A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物焚烧尾气处理系统整体出灰装置">
+	<enterprise:有申请公布日>2013-01-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物焚烧尾气处理系统整体出灰装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210357187.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102865587A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种反渗透浓水的回用处理工艺">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种反渗透浓水的回用处理工艺</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210383019.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102849879A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种节水型污泥桨叶式干化的载气成套处理装置及其方法">
+	<enterprise:有申请公布日>2012-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种节水型污泥桨叶式干化的载气成套处理装置及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210342521.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102836566A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种城市园林绿色废弃物生物处理成套系统及方法">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种城市园林绿色废弃物生物处理成套系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210303888.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102826881A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种湿法处理污泥焚烧尾气的成套装置及其方法">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种湿法处理污泥焚烧尾气的成套装置及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210342500.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102824837A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种多远程地磅采集、记录方法和系统">
+	<enterprise:有申请公布日>2012-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多远程地磅采集、记录方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010212094.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101866175B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种生活垃圾生物堆肥成套装置及方法">
+	<enterprise:有申请公布日>2012-12-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生活垃圾生物堆肥成套装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210322613.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102807395A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种生活垃圾生物干化反应器">
+	<enterprise:有申请公布日>2012-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生活垃圾生物干化反应器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220054125.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202499815U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种处理生活垃圾焚烧烟气的石灰浆液雾化方法及装置">
+	<enterprise:有申请公布日>2012-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种处理生活垃圾焚烧烟气的石灰浆液雾化方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010586603.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102000493B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥水热反应的卧式反应釜">
+	<enterprise:有申请公布日>2012-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥水热反应的卧式反应釜</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910265487.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102108002B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于餐厨垃圾预处理脱水的格栅输送机">
+	<enterprise:有申请公布日>2012-09-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于餐厨垃圾预处理脱水的格栅输送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120490763.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202430021U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：防化危险品焚烧处理装置的出渣装置">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>防化危险品焚烧处理装置的出渣装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120451484.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202392813U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥水热干化蒸汽热解反应釜的蒸汽泄压装置">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥水热干化蒸汽热解反应釜的蒸汽泄压装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120530761.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202390299U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种回转窑结焦清除装置">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种回转窑结焦清除装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120453420.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202392810U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥干化的倾斜盘式桨叶干燥机">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥干化的倾斜盘式桨叶干燥机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120527739.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202390303U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种垃圾堆体监测仪表的保护装置">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种垃圾堆体监测仪表的保护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120538772.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202393402U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物处置中心废水综合处理系统">
+	<enterprise:有申请公布日>2012-07-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物处置中心废水综合处理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120372516.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202337722U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种生活垃圾生物干化反应器及垃圾生物干化方法">
+	<enterprise:有申请公布日>2012-07-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生活垃圾生物干化反应器及垃圾生物干化方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210038719.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102557764A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥干化的倾斜盘式桨叶干燥机及处理方法">
+	<enterprise:有申请公布日>2012-07-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥干化的倾斜盘式桨叶干燥机及处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110422400.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102557383A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种满足高加速度要求的机床运动部件实现方法">
+	<enterprise:有申请公布日>2012-07-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种满足高加速度要求的机床运动部件实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010512602.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102043876B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种垃圾堆体监测仪表的保护装置">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种垃圾堆体监测仪表的保护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431552.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102519505A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾湿热处理后再进行厌氧消化的方法">
+	<enterprise:有申请公布日>2012-06-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾湿热处理后再进行厌氧消化的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110387083.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102489496A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于工业炉上的带视镜的观察孔装置">
+	<enterprise:有申请公布日>2012-06-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于工业炉上的带视镜的观察孔装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120331617.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202267380U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥带式干化成套处理装置及方法">
+	<enterprise:有申请公布日>2012-06-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥带式干化成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010582828.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102001809B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种台式切片机T型挡杆的锁紧装置">
+	<enterprise:有申请公布日>2012-06-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种台式切片机T型挡杆的锁紧装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120372221.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202264260U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种回转窑结焦清除方法及装置">
+	<enterprise:有申请公布日>2012-04-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种回转窑结焦清除方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110363265.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102425799A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥水热干化蒸汽热解反应釜的蒸汽泄压方法及装置">
+	<enterprise:有申请公布日>2012-04-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥水热干化蒸汽热解反应釜的蒸汽泄压方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110422396.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102417286A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：防化危险品焚烧处理装置的出渣装置及出渣方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>防化危险品焚烧处理装置的出渣装置及出渣方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110361774.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102410544A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物处置中心废水综合处理系统及方法">
+	<enterprise:有申请公布日>2012-03-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物处置中心废水综合处理系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110294078.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102372400A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥的蒸汽低温热调质干化成套处理装置及方法">
+	<enterprise:有申请公布日>2012-01-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥的蒸汽低温热调质干化成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010152993.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101844859B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑索桁架结构用铸钢支撑节点装置">
+	<enterprise:有申请公布日>2012-01-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑索桁架结构用铸钢支撑节点装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120172181.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202117175U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：与有效微生物技术处理污水相匹配的表层曝气装置">
+	<enterprise:有申请公布日>2011-09-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>与有效微生物技术处理污水相匹配的表层曝气装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020666929.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201981057U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种降低垃圾焚烧烟气中氮氧化物排放限值装置">
+	<enterprise:有申请公布日>2011-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种降低垃圾焚烧烟气中氮氧化物排放限值装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020678052.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201954556U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种降低垃圾焚烧烟气中氮氧化物排放限值的方法及装置">
+	<enterprise:有申请公布日>2011-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种降低垃圾焚烧烟气中氮氧化物排放限值的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010603437.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102168852A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥桨叶式干化的载气成套处理装置">
+	<enterprise:有申请公布日>2011-08-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥桨叶式干化的载气成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020646818.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201930677U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种处理生活垃圾焚烧烟气的雾化装置">
+	<enterprise:有申请公布日>2011-08-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种处理生活垃圾焚烧烟气的雾化装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020659254.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201912888U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干法处理污泥焚烧尾气的成套装置">
+	<enterprise:有申请公布日>2011-07-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干法处理污泥焚烧尾气的成套装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020627277.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201899980U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干污泥输送装置">
+	<enterprise:有申请公布日>2011-07-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干污泥输送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020641126.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201901421U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥带式干化成套处理装置">
+	<enterprise:有申请公布日>2011-07-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥带式干化成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020655119.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201901629U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干法处理污泥焚烧尾气的成套装置及方法">
+	<enterprise:有申请公布日>2011-07-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干法处理污泥焚烧尾气的成套装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010562907.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102120130A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥水热反应的卧式反应釜">
+	<enterprise:有申请公布日>2011-06-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥水热反应的卧式反应釜</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910265487.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102108002A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：红外线高温测温装置">
+	<enterprise:有申请公布日>2011-06-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外线高温测温装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020568451.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201867251U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种危险废物焚烧处置系统烟气净化装置">
+	<enterprise:有申请公布日>2011-06-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种危险废物焚烧处置系统烟气净化装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020607858.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201862364U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥堆肥的自行式翻抛装置">
+	<enterprise:有申请公布日>2011-06-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥堆肥的自行式翻抛装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020646852.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201864674U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥带式干燥机">
+	<enterprise:有申请公布日>2011-06-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥带式干燥机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020612097.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201864649U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥臭气处理的离子除臭成套处理装置">
+	<enterprise:有申请公布日>2011-06-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥臭气处理的离子除臭成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020627279.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201862363U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种垃圾渗滤液深度处理工艺方法">
+	<enterprise:有申请公布日>2011-06-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种垃圾渗滤液深度处理工艺方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910242273.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102086075A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：与有效微生物技术处理污水相匹配的表层曝气系统及方法">
+	<enterprise:有申请公布日>2011-06-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>与有效微生物技术处理污水相匹配的表层曝气系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010594531.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102079577A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种半干污泥输送装置及方法">
+	<enterprise:有申请公布日>2011-05-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半干污泥输送装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010571982.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102070006A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥桨叶式干化的载气成套处理装置及方法">
+	<enterprise:有申请公布日>2011-05-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥桨叶式干化的载气成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010577379.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102068870A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥臭气处理的离子除臭成套处理方法及装置">
+	<enterprise:有申请公布日>2011-05-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥臭气处理的离子除臭成套处理方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010562913.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102059051A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种满足高加速度要求的机床运动部件实现方法">
+	<enterprise:有申请公布日>2011-05-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种满足高加速度要求的机床运动部件实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010512602.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102043876A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥堆肥的自行式翻抛装置及处理方法">
+	<enterprise:有申请公布日>2011-04-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥堆肥的自行式翻抛装置及处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010577393.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102030570A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：回转窑上料喂料方法及装置">
+	<enterprise:有申请公布日>2011-04-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>回转窑上料喂料方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910224077.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101701712B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种处理生活垃圾焚烧烟气的石灰浆液雾化方法及装置">
+	<enterprise:有申请公布日>2011-04-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种处理生活垃圾焚烧烟气的石灰浆液雾化方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010586603.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102000493A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：红外线高温测温装置及方法">
+	<enterprise:有申请公布日>2011-04-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>红外线高温测温装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010512667.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102003999A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥带式干化成套处理装置及方法">
+	<enterprise:有申请公布日>2011-04-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥带式干化成套处理装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010582828.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102001809A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种餐厨垃圾制备生物蛋白饲料的方法">
+	<enterprise:有申请公布日>2011-04-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种餐厨垃圾制备生物蛋白饲料的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010577362.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101999516A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥带式干燥机及干燥处理方法">
+	<enterprise:有申请公布日>2011-03-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥带式干燥机及干燥处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010548179.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101993185A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥的热调质改善污泥脱水性能的方法">
+	<enterprise:有申请公布日>2011-03-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥的热调质改善污泥脱水性能的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010562892.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101987772A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种污泥的蒸汽低温热调质干化成套处理装置">
+	<enterprise:有申请公布日>2011-03-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污泥的蒸汽低温热调质干化成套处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020166993.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201753303U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种上转轴弯曲装置">
+	<enterprise:有申请公布日>2011-02-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种上转轴弯曲装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810240683.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101564745B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：用于生活垃圾处理厂的生物除臭系统">
+	<enterprise:有申请公布日>2010-12-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于生活垃圾处理厂的生物除臭系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020180925.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201676638U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：医用垃圾周转箱输送清洗消毒系统">
+	<enterprise:有申请公布日>2010-12-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>医用垃圾周转箱输送清洗消毒系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020177444.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201676301U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于污泥水热反应的卧式反应釜">
+	<enterprise:有申请公布日>2010-12-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于污泥水热反应的卧式反应釜</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920292660.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201678569U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：移动式危险化学品焚烧设备的伺料装置">
+	<enterprise:有申请公布日>2010-12-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>移动式危险化学品焚烧设备的伺料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810239039.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101430095B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种液压夹紧机构">
+	<enterprise:有申请公布日>2010-11-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液压夹紧机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920278254.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201621214U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：自动转箱倒料装置">
+	<enterprise:有申请公布日>2010-11-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>自动转箱倒料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920350766.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201621708U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种多远程地磅采集、记录方法和系统">
+	<enterprise:有申请公布日>2010-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多远程地磅采集、记录方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010212094.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101866175A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种底注式中频加热保温浇注电炉">
+	<enterprise:有申请公布日>2010-10-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种底注式中频加热保温浇注电炉</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920292504.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201600023U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种底注式浇注设备的中频加热方法及保温浇注电炉">
+	<enterprise:有申请公布日>2010-06-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种底注式浇注设备的中频加热方法及保温浇注电炉</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910250781.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101718493A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：回转窑上料喂料方法及装置">
+	<enterprise:有申请公布日>2010-05-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>回转窑上料喂料方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910224077.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101701712A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：具有虚拟Y轴的砂轮架结构">
+	<enterprise:有申请公布日>2010-02-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有虚拟Y轴的砂轮架结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920104805.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201405250Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种用于回转窑焚烧系统的回转窑上料提升机">
+	<enterprise:有申请公布日>2010-02-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于回转窑焚烧系统的回转窑上料提升机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820233910.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201407667Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种正三角形套筒结构的中心架及正三角形套筒的加工方法">
+	<enterprise:有申请公布日>2010-02-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种正三角形套筒结构的中心架及正三角形套筒的加工方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710303765.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100588497C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种立式加工中心的床身结构">
+	<enterprise:有申请公布日>2009-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种立式加工中心的床身结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105005.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201350552Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种立式加工中心全封闭落地式防护罩">
+	<enterprise:有申请公布日>2009-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种立式加工中心全封闭落地式防护罩</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105006.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201350572Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种上转轴弯曲装置">
+	<enterprise:有申请公布日>2009-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种上转轴弯曲装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810240683.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101564745A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：液封防爆门">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>液封防爆门</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124794.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201331069Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：双摆转台五轴加工中心的平衡机构">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>双摆转台五轴加工中心的平衡机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820123990.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201329518Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：探测内、外阀套油槽位置的通用驱动装置">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>探测内、外阀套油槽位置的通用驱动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820123992.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201329544Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种有六个滑块的主轴箱结构">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种有六个滑块的主轴箱结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820233873.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201329424Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种上转轴弯曲装置">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种上转轴弯曲装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124575.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201329388Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种加工中心双主轴机构">
+	<enterprise:有申请公布日>2009-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种加工中心双主轴机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124315.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201329498Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种切片机刀轴防水密封结构">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种切片机刀轴防水密封结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124795.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201313319Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑钢结构用转动铸钢支座装置">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑钢结构用转动铸钢支座装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124377.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201314079Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：直线电机初级的安装结构">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>直线电机初级的安装结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820123991.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201315526Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：移动式危险化学品焚烧设备的伺料装置">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>移动式危险化学品焚烧设备的伺料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124316.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201314552Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：医用垃圾周转箱翻转机构">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>医用垃圾周转箱翻转机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124491.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201313751Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：密闭式生活垃圾压缩存储机">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>密闭式生活垃圾压缩存储机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820124796.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201313719Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：带有精密滚动和移动主轴的机床尾架">
+	<enterprise:有申请公布日>2009-09-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>带有精密滚动和移动主轴的机床尾架</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820123993.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201313179Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：液封防爆门">
+	<enterprise:有申请公布日>2009-05-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>液封防爆门</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810239038.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101430099A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：移动式危险化学品焚烧设备的伺料装置">
+	<enterprise:有申请公布日>2009-05-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>移动式危险化学品焚烧设备的伺料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810239039.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101430095A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：探测内、外阀套油槽位置的通用驱动装置及方法">
+	<enterprise:有申请公布日>2009-04-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>探测内、外阀套油槽位置的通用驱动装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810227973.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101412203A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种金刚石镀层超高精度同轴研铰棒">
+	<enterprise:有申请公布日>2009-01-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种金刚石镀层超高精度同轴研铰棒</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720187358.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201186401Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：车载化学危险品焚烧处理装置">
+	<enterprise:有申请公布日>2008-11-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载化学危险品焚烧处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190708.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201155763Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑钢结构用钢索联结装置">
+	<enterprise:有申请公布日>2008-11-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑钢结构用钢索联结装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720187359.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201155150Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：废旧火工品烧毁装置">
+	<enterprise:有申请公布日>2008-11-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>废旧火工品烧毁装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190707.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201155764Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种液压制动装置">
+	<enterprise:有申请公布日>2008-09-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液压制动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190152.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201121671Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：间歇式切片机进给装置">
+	<enterprise:有申请公布日>2008-09-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>间歇式切片机进给装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190153.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201120634Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种带回转分度的矩形工作台">
+	<enterprise:有申请公布日>2008-09-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带回转分度的矩形工作台</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190514.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201120553Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种多功能峰值电压表双电源供电装置">
+	<enterprise:有申请公布日>2008-08-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多功能峰值电压表双电源供电装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720173740.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201107346Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种金刚石镀层超高精度同轴研铰棒及加工方法">
+	<enterprise:有申请公布日>2008-06-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种金刚石镀层超高精度同轴研铰棒及加工方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710303764.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101195204A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种等高三角套筒结构的中心架及三角套筒的加工方法">
+	<enterprise:有申请公布日>2008-05-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种等高三角套筒结构的中心架及三角套筒的加工方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710303765.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101186018A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种直线电机初级的安装方法">
+	<enterprise:有申请公布日>2008-05-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直线电机初级的安装方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710178698.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101176975A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种五轴联动叶片加工中心机构">
+	<enterprise:有申请公布日>2008-01-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种五轴联动叶片加工中心机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620158799.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201009089Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：车载焚烧系统上料小车的液压举升装置">
+	<enterprise:有申请公布日>2007-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载焚烧系统上料小车的液压举升装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620158468.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200981793Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：切片机的挡肉杆锁紧机构">
+	<enterprise:有申请公布日>2007-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>切片机的挡肉杆锁紧机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620158502.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200981264Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种与移动式焚烧炉相配套的送废料装置">
+	<enterprise:有申请公布日>2007-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种与移动式焚烧炉相配套的送废料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620158451.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200982642Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种有四条导轨副装置的加工机床">
+	<enterprise:有申请公布日>2007-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种有四条导轨副装置的加工机床</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620158452.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200967139Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种新型X射线发生器控制接口">
+	<enterprise:有申请公布日>2007-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型X射线发生器控制接口</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620134114.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200966185Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种机床或加工中心的主轴轴承配置结构">
+	<enterprise:有申请公布日>2007-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种机床或加工中心的主轴轴承配置结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620134139.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200963682Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种数控机床进给轴制动装置">
+	<enterprise:有申请公布日>2007-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数控机床进给轴制动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620119492.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200963762Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种工作台可移置的立式加工中心">
+	<enterprise:有申请公布日>2007-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工作台可移置的立式加工中心</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620119494.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200963746Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑钢结构用万向联结装置">
+	<enterprise:有申请公布日>2007-08-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑钢结构用万向联结装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620119041.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2929005Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种曲柄连杆平衡机构">
+	<enterprise:有申请公布日>2007-01-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种曲柄连杆平衡机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520132833.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2854205Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种连续热解式自动出灰垃圾焚烧炉">
+	<enterprise:有申请公布日>2006-12-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种连续热解式自动出灰垃圾焚烧炉</enterprise:有专利名称>
+	<enterprise:有申请号>CN200520023123.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2849492Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种直线驱动轴装置及应用">
+	<enterprise:有申请公布日>2006-11-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直线驱动轴装置及应用</enterprise:有专利名称>
+	<enterprise:有申请号>CN03146350.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1285164C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种建筑用铸钢节点">
+	<enterprise:有申请公布日>2005-09-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种建筑用铸钢节点</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420003478.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2727274Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种复杂微细形状孔的电火花加工工艺方法">
+	<enterprise:有申请公布日>2005-04-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种复杂微细形状孔的电火花加工工艺方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200410009827.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1608778A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种翻转活动炉排焚烧炉">
+	<enterprise:有申请公布日>2004-12-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种翻转活动炉排焚烧炉</enterprise:有专利名称>
+	<enterprise:有申请号>CN200320130771.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2667324Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种双交换工作台单元">
+	<enterprise:有申请公布日>2004-09-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种双交换工作台单元</enterprise:有专利名称>
+	<enterprise:有申请号>CN03276571.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2640692Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种压铸零件定位夹具">
+	<enterprise:有申请公布日>2004-09-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种压铸零件定位夹具</enterprise:有专利名称>
+	<enterprise:有申请号>CN03276572.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2640694Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种直线驱动轴装置">
+	<enterprise:有申请公布日>2004-08-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直线驱动轴装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN03267053.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2631693Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京城环保股份有限公司的专利信息：一种直线驱动轴装置及应用">
+	<enterprise:有申请公布日>2004-02-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直线驱动轴装置及应用</enterprise:有专利名称>
+	<enterprise:有申请号>CN03146350.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1472875A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京京城环保股份有限公司的软件著作：废物配伍管理软件 V1.0 [简称: 危险废物管理系统]">
+	<enterprise:有批准日期>08-12-24</enterprise:有批准日期>
+	<enterprise:有软件全称>废物配伍管理软件 V1.0 [简称: 危险废物管理系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR37094</enterprise:有登记号>
+	<enterprise:有分类号>65000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京城环保股份有限公司的软件著作：加工中心技术协议书管理系统 V1.0">
+	<enterprise:有批准日期>09-1-16</enterprise:有批准日期>
+	<enterprise:有软件全称>加工中心技术协议书管理系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR04072</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京城环保股份有限公司的软件著作：机电院五轴叶片后置处理器软件[简称：后置处理软件]V1.0">
+	<enterprise:有批准日期>08-2-3</enterprise:有批准日期>
+	<enterprise:有软件全称>机电院五轴叶片后置处理器软件[简称：后置处理软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ0513</enterprise:有登记号>
+	<enterprise:有分类号>69900-5300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京京城环保股份有限公司的网站备案：北京京城环保股份有限公司">
+	<enterprise:有审核时间>17-5-16</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京城环保股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmei.com</enterprise:有网站首页>
+	<enterprise:有域名>bmei.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025472号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京城环保股份有限公司的网站备案：北京京城环保股份有限公司">
+	<enterprise:有审核时间>17-5-16</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京城环保股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bmei.net.cn</enterprise:有网站首页>
+	<enterprise:有域名>bmei.net.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025472号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京城环保股份有限公司的网站备案：铸造学会质量控制及检测技术-京城环保">
+	<enterprise:有审核时间>17-5-16</enterprise:有审核时间>
+	<enterprise:有网站全称>铸造学会质量控制及检测技术-京城环保</enterprise:有网站全称>
+	<enterprise:有网站首页>www.foundry-qc.com</enterprise:有网站首页>
+	<enterprise:有域名>foundry-qc.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025472号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京城环保股份有限公司的网站备案：北京京城环保股份有限公司">
+	<enterprise:有审核时间>17-5-16</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京城环保股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sepecsludge.com</enterprise:有网站首页>
+	<enterprise:有域名>sepecsludge.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025472号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京城环保股份有限公司的网站备案：北京京城环保股份有限公司铸造所">
+	<enterprise:有审核时间>17-5-16</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京城环保股份有限公司铸造所</enterprise:有网站全称>
+	<enterprise:有网站首页>www.foundry21.com</enterprise:有网站首页>
+	<enterprise:有域名>foundry21.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025472号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京京城环保股份有限公司的员工基本信息">
+	<enterprise:有从业人数>474</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:337,25岁以下:2,45岁以上:135</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:326,高中及以下:33,专科:115</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:88,技术人员:154,作业人员:232</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:459人,未参加:15人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京京城环保股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未发生变化</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京京城环保股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>各省级固废处置中心、华北设计研究总院、上海市给排水有限公司、瀚蓝环
+境股份有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>近三年，公司营业收入呈下降趋势</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京京城环保股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>竞争激烈</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京京城环保股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京京城环保股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 市场需求较大。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京京城环保股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京京城环保股份有限公司的企业法人代表：赵传军">
+	<enterprise:名称>赵传军</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>47岁</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1969.07</enterprise:出生年月>
+	<enterprise:身份证号码>31011019690709821X</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>2、</enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京京城环保股份有限公司的下属单位：北京京城环保股份有限公司云南分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京京城环保股份有限公司云南分公司</enterprise:名称>
+	<enterprise:主要职能>当地客户开发和维护</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京京城环保股份有限公司的税务信息">
+	<enterprise:有国税机关>北京市大兴区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市大兴区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（17%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>370万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>71万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京京城环保股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>锻件、钢球等原材料</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>锻件、钢球生产商</enterprise:有供应商类型>
+	<enterprise:有交易地位>公平对等</enterprise:有交易地位>
+	<enterprise:有议价能力>一般</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>9175万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>9826万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>减少651万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>7538万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京京城环保股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:非银行借款流入  rdf:ID="北京京城环保股份有限公司的非银行借款流入:资金流入金额">
+	<enterprise:非银行借款名称>资金流入金额</enterprise:非银行借款名称>
+	<enterprise:非银行借款资金流入金额></enterprise:非银行借款资金流入金额>
+	<enterprise:非银行借款是否有息></enterprise:非银行借款是否有息>
+	<enterprise:非银行借款偿还时间></enterprise:非银行借款偿还时间>
+</enterprise:非银行借款流入 >
+<enterprise:预测项目  rdf:ID="北京京城环保股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>53000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京京城环保股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5500.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京京城环保股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京京城环保股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京京城环保股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京京城环保股份有限公司的专利数量">
+	<enterprise:专利总计>58</enterprise:专利总计>
+	<enterprise:专利数量2013>29</enterprise:专利数量2013>
+	<enterprise:专利数量2014>16</enterprise:专利数量2014>
+	<enterprise:专利数量2015>13</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京京城环保股份有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>2</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京京城环保股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

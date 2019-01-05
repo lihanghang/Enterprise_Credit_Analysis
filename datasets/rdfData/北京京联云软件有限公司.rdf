@@ -1,0 +1,1271 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京京联云软件有限公司的企业概况">
+    <enterprise:有名称>北京京联云软件有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>工商银行北京四元桥支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年1月5日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3610万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>第二类增值电信业务中的信息服务业务（不含固定网电话信息服务和互联网信息服务）；基础软件服务、应用软件服务；计算机系统服务；技术推广服务；销售计算机、软件及辅助设备、电子产品；货物进出口；代理进出口；技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）第二类增值电信业务中的信息服务业务（不含固定网电话信息服务和互联网信息服务）；基础软件服务、应用软件服务；计算机系统服务；技术推广服务；销售计算机、软件及辅助设备、电子产品；货物进出口；代理进出口；技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>软件行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区知春路23号1309室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区知春路23号1309室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100082</enterprise:有邮政编码>
+    <enterprise:有联系人>王博</enterprise:有联系人>
+    <enterprise:有联系电话>84712665</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.pekall.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京京联云软件有限公司成立于2010年1月5
+日，注册地址为北京市海淀区知春路23号1309室
+，法定代表人为庞宇征。公司经多次增资及股
+权变更，现注册资本为3610万元，其股东及出资
+情况如表一所示。
+表一：京联云股东及持股比例（单位：万元、%）
+股东名称 出资额 股权比例 出资形式
+庞宇征 1247.616 34.56 货币
+赫荣奎 1247.616 34.56 货币
+王中宝 103.968 2.88 货币
+北京天云联
+科企业管理 372.552 10.32 货币
+有限公司
+中关村发展
+集团股份有 277.248 7.68 货币
+限公司
+北京网络星
+云科技有限 361 10.00 货币
+公司
+合计 3610 100 货币
+京联云是移动设备核心技术供应商，可为
+芯片商、制造商以及运营商提供针对智能手机
+的一站式可定制的完整软件解决方案。2013年5
+月，公司被北京市经济和信息化委员会认定为
+软件企业；2013年12月通过ISO9001:2008质量管
+理体系认证复核；2014年7月，公司通过北京市
+科学技术委员会等四部门组织的“高新技术企
+业”资格复核；2015年8月，通过“中关村高新
+技术企业”复核。
+截至2015年底，京联云资产总额为2009.65
+万元，净资产1937.87万元；2015年累计实现主
+笼状况不甚理想，影响公司未来业务发展。
+营业务收入532.56万元，利润总额-
+1212.36万元；2015年经营活动产生的现金净流
+量为-
+1517.20万元，投资活动产生的现金净流量为-
+262.04万元，现金及现金等价物净增加额为-
+1779.24万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京京联云软件有限公司的基础素质">
+    <enterprise:有管理素质>公司CEO、法定代表人庞宇征，吉林大学通
+信系统硕士、美国纽约州立大学MBA，曾任中国
+电视电子声学研究所工程师，朗讯科技（中国
+）有限公司市场经理及项目经理，摩托罗拉（
+中国）电子有限公司高级销售经理、总经理助
+理/销售总监、执行总经理、总经理，2010年至
+今任京联云CEO。庞先生曾获1996年“信息产业
+部科学技术奖”、1997年“国家科学技术奖”、
+1998年“朗讯杰出服务奖”，其丰富的行业经验
+和客户资源，对公司整体经营能够起到积极促
+进作用。
+移动互联网部经理田建勇，毕业于南京理
+工大学电子工程专业，获学士学位，曾任中国
+建设银行威海市分行科技部开发中心副主任、
+中国建设银行山东省分行科技处工程师、北京
+金高科技股份有限公司高级工程师及技术部经
+理、北京华普信息技术有限公司技术支持部经
+理、上海华东电脑有限公司系统集成事业部北
+方区技术主管，2011年至今任京联云移动互联网
+部经理。
+总体看，京联云主要管理人员具有较丰富
+的管理经验，具有较好的协调性，能够较好地
+把握公司的经营管理和未来发展方向。</enterprise:有管理素质>
+    <enterprise:有人员素质>京联云现有研发人员43人。从学历构成来
+看，研发人员中硕士3人，本科31人，专科9人，
+基本能满足技术研发工作的需要。
+技术副总侯志东，毕业于清华大学，工程
+力学学士和流体力学硕士，曾任清华同方软件
+有限公司工程师和项目经理、摩托罗拉电子有
+限公司高级工程师和软件经理，2010年加入京联
+云任技术副总。
+高级软件工程师姜睿，毕业于西北工业大
+学自动控制专业，工学学士，曾任华为技术有
+限公司软件工程师、瞬联软件科技有限公司高
+级软件工程师，2010年5月至今任京联云高级软
+件工程师，负责软件设计、软件开发和维护。
+整体看，京联云研发人员专业素质较好，
+具备一定的技术实力和研发经验，能够满足公
+司目前研发工作的需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>和成果
+京联云作为软件服务商，拥有北京、成都
+两个研发基地，公司每年研发费用投入占比较
+大，主要为人力投入，少数为测试设备的投入
+，大量的研发投入对公司产品竞争力的延续形
+成保障。
+京联云是移动设备核心技术供应商，通过
+打造运营商定制终端软件平台，提供先进的智
+能手机软件产品，和创新性企业移动性服务技
+术方案，与芯片厂商、硬件设计公司、手机厂
+商和企业用户等开展合作，提供领先的移动智
+能终端软件产品，完整覆盖移动终端、平台软
+件、移动互联网和企业移动性业务等产品。京
+联云为芯片商、制造商以及运营商提供针对智
+能手机的一站式可定制的完整软件解决方案。
+这些产品和解决方案包含双卡双待、C+W认证、C
+MMB、可视电话、应用商店、运营商认证支持、
+可定制的用户界面框架等功能，提供超过30余款
+满足运营商要求的应用。目前，京联云运营商
+定制平台已经通过运营商测试，被国内外众多
+厂商和著名芯片商大量采用，部署于10余家制造
+商的20多款终端产品中。
+公司开发的京联云移动设备管理平台（Pek
+all 
+EMMP）是专业的企业移动化信息安全产品，能够
+通过集中管理平台，采用OTA空中无线方式对企
+业用户及个人用户拥有的不同种类（智能手机
+、平板电脑、手持终端等）、不同平台（Androi
+d/iOS等）的移动设备、移动数据和应用程序提
+供实时管理、安全保护和统一配置，有效帮助
+企业在移动互联网时代实现高效、安全的移动
+办公。产品具备移动设备管理、移动应用管理
+、移动内容管理、移动邮箱管理、移动安全管
+理等功能，协助创建企业办公环境，提供企业
+安全办公套件。
+截至目前，京联云共获得15项软件著作权
+登记证书，详见表二。
+ 表二：京联云获得的计算机软件著作权列表
+名称 登记号
+京联云OMA设备管理软件 2014SR056941
+京联云双卡双待解决方案软件 2014SR041846
+京联云手机设备性能评估工具软件 2013SR081846
+京联云输入法软件 2011SRBJ2824
+京联云快讯软件 2011SRBJ2822
+京联云移动终端软件平台 2010SRBJ5116
+京联云PushEmail客户端软件 2011SRBJ2823
+京联云号薄管家软件 2011SRBJ2819
+京联云手机电视软件 2011SRBJ2818
+京联云企业移动管理平台软件 2014SR172332
+京联云可信设备平台软件 2015SR131512
+京联云手机军盾软件V1.0 2016SR104263
+京联云教育平台－成长守护软件 2016SR117187
+京联云成长守护自动打包发布工具
+2016SR130664
+软件V1.0
+京联云易守护软件（安卓版）V1.0 2016SR202027
+总体看，京联云每年研发投入较大，科研
+成果市场转化效果尚可。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京京联云软件有限公司的经营管理">
+    <enterprise:其经营分析为>京联云2010年成立，起初专注于提供企业
+移动办公软件产品和解决方案，在移动设备管
+理、企业应用商店、手机安全管理、企业移动
+办公等领域，提供市场领先的产品和服务，为
+客户进行定制开发，营业收入为开发费用。2014
+年公司转型，作为企业级移动设备管理软件供
+应商，营业收入转变为产品销售或项目合作收
+入，产品线包括针对智能手机的一站式运营商
+定制解决方案、企业移动管理平台（MDM/BYOD）
+、可信移动设备、国产智能系统及智能设备以
+及智能穿戴设备等，主要用于移动终端办公。
+当前公司收入主要来自于企业移动管理类业务
+收入。
+采购方面，公司作为软件企业，采购涉及
+较少，主要采购类别为服务器及测试设备，采
+购周期相对稳定。
+销售方面，京联云面向全国进行销售，目
+前已涵盖的销售区域有江浙、山东、山西、北
+京、四川等地，主要客户覆盖公安、军队、教
+育局、软件企业，其中与软件企业多为项目合
+作模式，该类收入约占总收入的50%。公司近年
+来曾服务的客户有Intel、STE、Siano、华为、
+联想、LG、DELL、酷派等国内外主要手机终端厂
+家，另有浙江省公安部门、建设银行、海南航
+空等，所涉及的主要项目有浙江省移动警务通
+设备管理平台、中国建设银行电子银行展示项
+目、东方雨虹移动营销系统、海南航空机载娱
+乐定制pad管理机载娱乐系统等。
+收款方面，公司合作项目的实施周期通常
+为1-
+2年，一般采取签订合同收30%，期间约定的节点
+收50%，项目结束后收20%的收款方式。京联云客
+户资本实力较强，对公司销售债权的保障情况
+较好，且付款较为及时，有利于公司运营资金
+的周转。
+近年来，公司资产规模有所缩减，由于业
+务转型原因，销售渠道尚未完全打开，市场前
+期投入较大，造成一段时间内公司业绩出现下
+滑，利润呈亏损状态，转型期内仍存在较多的
+不确定性因素。
+图一：2013-2015年京联云收益状况趋势图（万元）
+总体看，京联云现仍处业务转型期，经营
+情况不甚稳定，随着公司业务的逐步推广，其</enterprise:其经营分析为>
+    <enterprise:其管理分析为>京联云实行董事会领导下的总经理负责制
+，下设财务部、研发一部、研发二部、移动互
+联网部、市场部、人事行政部等部门，公司架
+构相对简单，各个职能部门分工较为明确，内
+部协调性较好，对公司整体经营有所助益。
+从管理效率来看，2013-
+2015年，京联云管理费用率分别为97.32%、98.1
+4%和87.40%，整体管理效率一般；同期成本率分
+别为102.10%、146.47%和338.21%，受经营转型
+影响，公司在近年做了大量新业务的前期市场
+推广及产品研发等工作，成本攀升较快。
+从运营效率来看，2013-
+2015年，京联云因其业务特点应收账款及存货数
+额较小，总资产周转率分别为0.72次、0.43次和
+0.20次，现阶段公司运营效率偏低。
+总体看，京联云组织结构与当前经营相适
+应，近年经营转型短期内对其管理效率及运营
+效率产生一定负面影响，现阶段公司管理效率
+一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>中国软件产业将以企业应用为驱动，借本
+地化优势，基于开源与标准化，逐步在应用软
+件、通用软件、嵌入式软件等领域争取长足发
+展，在开发工具和平台软件等方面有所建树。
+新一代信息技术深度渗透传统产业领域，
+云计算、物联网、移动互联网等新一代信息技
+术已经成为引领各领域创新不可或缺的重要动
+力和支撑，成为实施创新驱动发展战略、建设
+创新型国家的关键所在，新一轮信息化浪潮已
+经显现出重塑产业生态链的巨大影响力，传统
+产业和互联网深度融合趋势明显。在移动互联
+网、云计算、物联网等新技术的推动下，原有
+的信息不对称格局将被打破，依托于大数据整
+合，传统行业与互联网融合的平台和模式将发
+生改变。
+在国家政策、社会需求和产业资金等多方
+面有力因素的驱动下，信息技术服务业将保持
+增长。随着我国经济转型成效逐步扩大，产业
+得到新的驱动力量和发展机会。一是高速发展
+的信息消费，逐渐成为推动我国经济增长的主
+要因素，不断深入社会经济和社会组织形式，
+带动数字内容、移动互联网等产业发展，信息
+平台建设和对接需求大大增加；二是发展空间
+巨大的新兴科技领域，随着以云计算、移动互
+联和大数据为代表的技术创新和突破，产业发
+展方向愈发明显，与传统行业融合不断深化，
+催生市场需求。
+当前我国软件产业既面临着全球经济弱势
+复苏、市场需求萎缩的挑战，又面临着信息消
+费需求强劲增长、信息化投资加速、新兴领域
+加速发展等良好机遇。到2017年，我国云计算
+服务能力大幅提升，在降低创业门槛、服务民
+生、培育新业态、探索电子政务建设新模式等
+方面取得积极成效。到2020年，云计算成为我
+国信息化重要形态和建设网络强国重要支撑。
+总体看，伴随信息通信技术的迅速发展和
+应用的不断深化，软件和信息技术服务业逐步
+向网络化、服务化、智能化、平台化和融合化
+的方向发展。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京京联云软件有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，京联云资产总额分别为2113.23万元、3
+434.71万元和2009.65万元，其中，流动资产分
+别占资产总额的77.70%、82.03%和74.19%；固定
+资产分别占总资产的3.85%、6.62%、9.64%，主
+要为办公设备、运输设备、电子设备；长期投
+资分别占总资产的18.46%、11.35%和16.17%，主
+要为对下属子公司北京弘天智达科技有限公司
+的股权投资。
+截至2015年底，京联云流动资产为1490.88
+万元，主要为货币资金、短期投资、其他应收
+款和预付账款，公司账款回收情况较好，在年
+底一般可收回当年应收款项，其他流动资产占
+比较小。
+截至2016年6月底，京联云资产总额为1317.
+24万元，流动资产为830.21万元，依然以货币资
+金为主，与年初相比，应收账款有所增加，与
+其经营情况相符。
+总体看，京联云的资产质量和资产流动性
+尚可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，京联云流动比率分别为14.32倍、10.65
+倍和20.77倍，短期支付能力较强。
+2013-
+2015年，京联云息税折旧摊销前盈余EBITDA分别
+为28.76万元、-504.91万元和-
+1142.40万元，公司主营业务获取自由现金的能
+力较弱，对其偿债能力的提升有一定负面影响
+；同期经营活动产生的现金流量净额分别为31.2
+7万元、-433.41万元和-
+1517.20万元，经营活动产生净现金流的能力明
+显下降，对其运营资金的周转产生不利影响。
+截至目前，京联云无有息债务。现阶段其
+自有资金能够较好的满足日常经营需要，未来
+随着经营规模的扩大，或将产生一定的融资需
+求。
+综合考虑京联云目前的资产构成、财务状
+况、营运状况等因素，君维诚认为京联云未来
+一个时期有一定发生信用风险的可能。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，京联云负债总额分别为134.65万元、28
+4.48万元和71.78万元，主要为流动负债，长期
+负债为2012年获得的20万元科技型中小企业技术
+创新资金款项；同期资产负债率分别为6.37%、8
+.28%和3.57%，负债水平较低，负债压力很小。
+截至2015年底，京联云流动负债为71.78万
+元，主要由应付工资和其他应付款构成，其他
+科目占比较小。与年初相比，公司2016年6月底
+负债总额增至90.75万元，均为流动负债，主要
+为应付工资和应交税金，整体变动不大。
+总体看，京联云负债压力较小，财务策略
+适中，具备一定的外部债务融资空间。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，京联云主营业务收入分别为1392.58万
+元、1190.00万元和532.56万元，受业务转型影
+响，近年收入呈下降趋势；同期主营业务利润
+率分别为99.97%、99.95%和86.98%，整体看，公
+司主营业务获利能力较强，但由于目前仍处于
+新业务投入推广阶段，整体盈利水平的提升受
+到一定限制。
+2013-
+2015年，京联云现金收入比分别为0.98倍、1.10
+倍和0.83倍，收入实现质量尚可；同期经营活动
+现金流入流出比分别为1.02倍、0.76倍和0.37倍
+，经营活动获取净现金流能力快速下降。
+  图二：2013-2015年京联云盈利状况（万元，%）
+总体看，京联云主营业务获利能力较强，
+收入实现质量尚可，短期内盈利水平提升受限
+。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京京联云软件有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>在评级过程中，未发现公司在评级年度有违约
+及违法违规行为。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>随着国家“一户一表”工程、供热计量改革
+、新型城镇化建设、智慧城市建设、阶梯水价等工
+作的不断推进，智能计量仪表市场需求旺盛。同时
+，目前智能计量仪表产品价格和毛利率也高于传统
+机械表。因此，智能表产品的强劲需求和高毛利率
+将会吸引更多的厂家进入该行业，市场竞争将日益
+加剧。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>随着经营规模的扩大，生产和管理人员也将相
+应增加，公司的组织结构和管理体系将趋于复杂，
+对公司的管理模式、人力资源、市场营销、内部控
+制等各方面均提出更高要求。如果公司不能及时完
+善经营理念和管理方式，将可能面临企业规模扩张
+带来的管理风险。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司的热量表产品销售具有一定的季节性。由于北
+方地区的供暖一般从第四季度开始，因此热量表市
+场的整体表现会呈现出下半年尤其是第四季度的销
+售量高于其他季度的情况，从而会导致公司经营成
+果在上下半年之间呈现不均衡的情况，对公司经营
+计划的合理安排和资金的合理运用也构成一定的影
+响。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京京联云软件有限公司2013年基本财务指标">
+    <enterprise:资产总额>2113.22 </enterprise:资产总额>
+    <enterprise:所有者权益>1978.58 </enterprise:所有者权益>
+    <enterprise:负债总额>134.66 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1392.58 </enterprise:营业收入>
+    <enterprise:EBITDA>28.76 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京联云软件有限公司2014年基本财务指标">
+    <enterprise:资产总额>3434.71 </enterprise:资产总额>
+    <enterprise:所有者权益>3150.24 </enterprise:所有者权益>
+    <enterprise:负债总额>284.48 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1190.00 </enterprise:营业收入>
+    <enterprise:EBITDA>-504.91 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京联云软件有限公司2015年基本财务指标">
+    <enterprise:资产总额>2009.65 </enterprise:资产总额>
+    <enterprise:所有者权益>1937.87 </enterprise:所有者权益>
+    <enterprise:负债总额>71.78 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>532.56 </enterprise:营业收入>
+    <enterprise:EBITDA>-1142.40 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京京联云软件有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.72 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>71.05 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京联云软件有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.43 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>60.72 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京联云软件有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.20 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>32.18 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京联云软件有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.14 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.13 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>70.04 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京联云软件有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-17.44 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-16.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>36.84 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京联云软件有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>-62.56 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-60.33 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>18.63 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京联云软件有限公司2013年偿债能力指标">
+    <enterprise:流动比率>1431.98 </enterprise:流动比率>
+    <enterprise:速动比率>1431.98 </enterprise:速动比率>
+    <enterprise:资产负债率>6.37 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京联云软件有限公司2014年偿债能力指标">
+    <enterprise:流动比率>1065.26 </enterprise:流动比率>
+    <enterprise:速动比率>1065.26 </enterprise:速动比率>
+    <enterprise:资产负债率>8.28 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京联云软件有限公司2015年偿债能力指标">
+    <enterprise:流动比率>2077.01 </enterprise:流动比率>
+    <enterprise:速动比率>2077.01 </enterprise:速动比率>
+    <enterprise:资产负债率>3.57 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京京联云软件有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>3585.51 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.98 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>27.27 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-14.34 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-99.58 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京联云软件有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>3516.70 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-163.87 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-14.55 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-20557.12 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京联云软件有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>87.16 </enterprise:毛利率>
+    <enterprise:成本费用利润率>158.44 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.83 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-2113.67 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-55.25 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-120.65 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京京联云软件有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1463.22 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>100.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>39.20 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>39.49 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1641.91 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>390.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>81.31 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>471.31 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2113.22 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京联云软件有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2661.72 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>111.47 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>44.22 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2817.41 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>390.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>227.30 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>617.30 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3434.71 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京联云软件有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>882.49 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>300.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>33.10 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>80.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>195.29 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1490.88 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>325.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>193.77 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>518.77 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2009.65 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京联云软件有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>80.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>150.60 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>16.08 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>17.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.23 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>264.48 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>20.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>20.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>284.48 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3610.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>8.97 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-468.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3150.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3150.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3434.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京联云软件有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>80.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>150.60 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>16.08 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>17.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.23 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>264.48 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>20.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>20.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>284.48 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3610.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>8.97 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-468.73 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3150.24 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3150.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3434.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京联云软件有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>61.72 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>2.17 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7.89 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>71.78 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>71.78 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3610.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>8.97 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1681.10 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1937.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1937.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2009.65 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京京联云软件有限公司2013年利润表">
+    <enterprise:营业收入>1392.58 </enterprise:营业收入>
+    <enterprise:主营业务收入>1392.58 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.49 </enterprise:营业税金及附加>
+    <enterprise:销售费用>42.38 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1383.12 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-4.22 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1353.93 </enterprise:营业利润>
+    <enterprise:营业外收入>32.07 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.20 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1385.80 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1385.80 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1385.80 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京京联云软件有限公司2014年利润表">
+    <enterprise:营业收入>1190.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>1190.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.54 </enterprise:营业税金及附加>
+    <enterprise:销售费用>41.82 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1709.97 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-9.36 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1157.00 </enterprise:营业利润>
+    <enterprise:营业外收入>3.59 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.08 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1160.51 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1160.51 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1160.51 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京京联云软件有限公司2015年利润表">
+    <enterprise:营业收入>532.56 </enterprise:营业收入>
+    <enterprise:主营业务收入>532.56 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>68.38 </enterprise:营业成本>
+    <enterprise:主营业务成本>68.38 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.97 </enterprise:营业税金及附加>
+    <enterprise:销售费用>163.46 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1573.32 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-4.98 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>304.73 </enterprise:营业利润>
+    <enterprise:营业外收入>56.24 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>360.97 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>360.97 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>360.97 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京京联云软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1358.55 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>56.72 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>10.82 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1426.09 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>948.78 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>33.23 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>412.81 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1394.82 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>31.27 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>1000.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>6.96 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1006.96 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>19.63 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1490.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1509.63 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-502.67 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>278.88 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>278.88 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>278.88 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-192.52 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京京联云软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1314.06 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>36.21 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1350.27 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>117.07  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1165.34 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>3.35 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>497.92 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1783.68 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-433.41 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>300.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>1.49 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>301.49 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>190.70 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>200.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>390.70 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-89.21 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>1721.12 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1721.12 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1721.12 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1198.50 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京京联云软件有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>443.16 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>9.77 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>420.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>872.93 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>54.16  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1419.72 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>14.15 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>902.09 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2390.12 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1517.19 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>2065.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>9.40 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>2074.40 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>36.44 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>2300.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2336.44 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-262.04 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1779.23 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：宁夏诚贝投资咨询有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宁夏诚贝投资咨询有限公司 </enterprise:股东名称>
+	 <enterprise:货币>1,480.1万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>41.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：庞宇征 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>庞宇征 </enterprise:股东名称>
+	 <enterprise:货币>507.566万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>14.06%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：赫荣奎 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赫荣奎 </enterprise:股东名称>
+	 <enterprise:货币>507.566万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>14.06%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：北京天云联科企业管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京天云联科企业管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>372.552万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.32%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：杭州雅韵投资管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杭州雅韵投资管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>361.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：中关村发展集团股份有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>中关村发展集团股份有限公司 </enterprise:股东名称>
+	 <enterprise:货币>277.248万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>7.68%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京联云软件有限公司股东：王中宝 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王中宝 </enterprise:股东名称>
+	 <enterprise:货币>103.968万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京京联云软件有限公司的商标信息：PEKALL">
+	<enterprise:有申请日期>15-5-26</enterprise:有申请日期>
+	<enterprise:有商标名称>PEKALL</enterprise:有商标名称>
+	<enterprise:有注册号>17038620</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京联云软件有限公司的商标信息：京联云">
+	<enterprise:有申请日期>15-5-26</enterprise:有申请日期>
+	<enterprise:有商标名称>京联云</enterprise:有商标名称>
+	<enterprise:有注册号>17038603</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京京联云软件有限公司的专利信息：手持设备">
+	<enterprise:有申请公布日>2013-05-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>手持设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220592251.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202929627U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云新一代移动警务管理平台软件">
+	<enterprise:有批准日期>17-5-19</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云新一代移动警务管理平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR192908</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云教育平台-成长守护软件">
+	<enterprise:有批准日期>17-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云教育平台-成长守护软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR157413</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云企业移动管理平台软件">
+	<enterprise:有批准日期>16-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云企业移动管理平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Pekall EMMP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR371604</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云电子书包软件(安卓版)">
+	<enterprise:有批准日期>16-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云电子书包软件(安卓版)</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR371612</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云手机军盾软件">
+	<enterprise:有批准日期>16-5-13</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云手机军盾软件</enterprise:有软件全称>
+	<enterprise:有软件简称>手机军盾</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR104263</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云电子书包软件（安卓版）">
+	<enterprise:有批准日期>16-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云电子书包软件（安卓版）</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR256473</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云成长守护自动打包发布工具软件">
+	<enterprise:有批准日期>16-6-3</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云成长守护自动打包发布工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR130664</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云易守护软件(安卓版)">
+	<enterprise:有批准日期>16-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云易守护软件(安卓版)</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR202027</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云教育平台－成长守护软件">
+	<enterprise:有批准日期>16-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云教育平台－成长守护软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR117187</enterprise:有登记号>
+	<enterprise:有分类号>30209-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云可信设备平台软件">
+	<enterprise:有批准日期>15-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云可信设备平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR131512</enterprise:有登记号>
+	<enterprise:有分类号>10102-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云企业移动管理平台软件">
+	<enterprise:有批准日期>14-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云企业移动管理平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Pekall EMMP</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR172332</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云双卡双待解决方案软件">
+	<enterprise:有批准日期>14-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云双卡双待解决方案软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR041846</enterprise:有登记号>
+	<enterprise:有分类号>10300-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云手机设备性能评估工具软件">
+	<enterprise:有批准日期>13-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云手机设备性能评估工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PekallMark</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR081846</enterprise:有登记号>
+	<enterprise:有分类号>30100-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云OMA设备管理软件">
+	<enterprise:有批准日期>14-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云OMA设备管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称>OMADM</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR056941</enterprise:有登记号>
+	<enterprise:有分类号>30200-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云手机电视软件">
+	<enterprise:有批准日期>11-8-10</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云手机电视软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ2818</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京联云软件有限公司的软件著作：京联云移动终端软件平台">
+	<enterprise:有批准日期>10-9-30</enterprise:有批准日期>
+	<enterprise:有软件全称>京联云移动终端软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ5116</enterprise:有登记号>
+	<enterprise:有分类号>66500-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京京联云软件有限公司的网站备案：pekall业务平台">
+	<enterprise:有审核时间>15-9-29</enterprise:有审核时间>
+	<enterprise:有网站全称>pekall业务平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.everknow.cn</enterprise:有网站首页>
+	<enterprise:有域名>everknow.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14039872号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京联云软件有限公司的网站备案：pekall产品平台">
+	<enterprise:有审核时间>15-9-29</enterprise:有审核时间>
+	<enterprise:有网站全称>pekall产品平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pekall.cn</enterprise:有网站首页>
+	<enterprise:有域名>pekall.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14039872号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京联云软件有限公司的网站备案：北京京联云软件有限公司">
+	<enterprise:有审核时间>15-9-29</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京联云软件有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.pekall.com</enterprise:有网站首页>
+	<enterprise:有域名>pekall.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14039872号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京京联云软件有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京京联云软件有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京京联云软件有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京京联云软件有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京京联云软件有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京京联云软件有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京京联云软件有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京京联云软件有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京京联云软件有限公司的税务信息">
+	<enterprise:有国税机关>北京市房山区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市房山区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110111756033566J</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（17%、6%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>635万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>65万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京京联云软件有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>基表、电路板及电子元器件等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>基表、电路板、电子元器件生产商及经销商</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>一般</enterprise:有延期支付>
+	<enterprise:有上年度发生额>12324万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>10913万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>增加1411万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3133万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京京联云软件有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京京联云软件有限公司的软件著作数量">
+	<enterprise:软件著作总计>5</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>3</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京京联云软件有限公司的专利数量">
+	<enterprise:专利总计>1</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京京联云软件有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>2</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京京联云软件有限公司的网站备案数量">
+	<enterprise:网站备案总计>3</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>3</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

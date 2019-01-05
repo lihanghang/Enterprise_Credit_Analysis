@@ -1,0 +1,1164 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="立思辰计算机技术有限公司的企业概况">
+    <enterprise:有名称>立思辰计算机技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>从业人数（人）</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>86</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年12月31日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、咨询、服务、转让；应用软件技术服务；货物进出口、代理进出口、技术进出口；设计、研发及销售计算机软硬件及外设、电子产品、机电设备；委托生产计算机软硬件及外设、电子产品、机电设备。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、咨询、服务、转让；应用软件技术服务；货物进出口、代理进出口、技术进出口；设计、研发及销售计算机软硬件及外设、电子产品、机电设备；委托生产计算机软硬件及外设、电子产品、机电设备。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>行业分类</enterprise:有主营业务>
+    <enterprise:有行业分类>软件及信息服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市门头沟区石龙经济开发区永安路20号3幢2层214室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区学清路8号科技财富中心B座3A层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100192</enterprise:有邮政编码>
+    <enterprise:有联系人>王莎莎</enterprise:有联系人>
+    <enterprise:有联系电话>010-82735757</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82736900</enterprise:有传真电话>
+    <enterprise:有E-mail>wangshasha@lanxum.com</enterprise:有E-mail>
+    <enterprise:有网址>www.lanxum.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京立思辰计算机技术有限公司（以下简
+称“立思辰计算机”或“公司”）成立于1999
+年1月8日，为北京立思辰科技股份有限公司（
+以下简称“立思辰股份”）的全资子公司，最
+新注册资本为1700.00万元。公司注册地址为北
+京市门头沟区石龙南路6号1 幢6-
+206室，法定代表人张旭光。
+表1.公司股东持股情况
+出资金额
+股东名称 持股比例
+（万元）
+北京立思辰科技股份
+1700.00 100%
+有限公司
+数据来源：公司提供资料 
+立思辰股份是2009年10月在深交所首批发
+行上市的创业板公司（证券代码：300010）。
+立思辰计算机主要为军队军工等涉密行业
+提供集涉密内容管理产品的研发、推广、服务
+于一体的内容安全管理解决方案。
+公司被北京市科学技术委员会、北京市财
+政局、北京市国家税务局、北京市地方税务局
+共同认定为国家级高新技术企业，拥有涉密信
+息系统产品检测证书、商用密码产品销售许可
+证、国防武器装备科研生产二级保密资格单位
+证书和信息系统集成及服务三级资质证书。
+公司拥有北京合众天恒科技有限公司1个全
+资子公司。
+截至2015年底，公司资产总额35414.74万元
+，负债总额28944.17万元，资产负债率81.73%
+。当年公司实现营业收入10334.48万元，利润总
+额3562.99万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="立思辰计算机技术有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理人员拥有多年的管理和从业
+经验，整体素质较高，有利于公司的发展
+公司实际负责人为公司副总裁潘凤岩先生
+，44岁，学士学位。毕业于西安理工大学包装
+工程专业，获工学学士学位，曾任上海中晶科
+技有限公司北方区经理，北京祥网瑞数字技术
+有限公司总经理，上海友网科技有限公司副总
+经理，现任北京立思辰科技股份有限公司副总
+裁兼立思辰信息安全科技集团总裁。
+信息安全研发部负责人邓所云博士，42岁
+，北京邮电大学信息安全专业博士学位，主要
+研究密码学方向，自1996年至今一直从事信息
+安全行业，是国内最早从事信息安全行业人员
+之一，对信息安全行业的技术、市场、政策和
+趋势了解全面。曾任华旗资讯信息安全事业部
+总经理。
+财务总监刘顺利先生，43岁，本科学历，1
+995年毕业于湖北理工大学会计专业，2003年至
+2011年5月在京都天华会计师事务所任高级经理
+。
+总体来看，公司目前主要管理人员素质较
+高，且主要管理人员在行业内具有较为丰富的
+从业经历，有利于公司的发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>截至2015年底，公司全辖共有在册人员86
+人，主要包括研发人员49人，占比56.98%，公
+司本科及以上学历共有71人，占比83.55%。技
+术负责人情况详见管理素质部分。
+整体来看，公司技术团队综合实力较强，
+研发项目负责人相关从业时间较长，研发经验
+相对丰富。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司重视研发投入，不断围绕战略发展目
+标适当加大研发投入力度。2013-
+2015年，公司研发投入逐年增长，详见下表。
+表3：2013-2015年年公司研发投入情况
+项  目 2013 2014 2015
+研发投入（万元
+424.80 621.25 927.00
+）
+研发投入占营业
+9.59% 8.51% 10.14%
+收入比例
+数据来源：公司提供，东方金诚整理
+公司每年研发投入较大，为研发成果的累
+计奠定基础。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>424.80万元,621.25万元,927.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="立思辰计算机技术有限公司的经营管理">
+    <enterprise:其经营分析为>立思辰主要为客户提供内容安全管理解决
+方案，文件安全管理产品线在军队和军工市场
+占有率较高
+公司主要为军队军工等涉密行业提供集涉
+密内容管理产品的研发、推广、服务于一体的
+内容安全管理解决方案，其文件安全管理产品
+线在军工市场的份额能够达到70%左右，在军
+队市场的份额约占三分之一，市场占有率较高
+。
+近三年公司业务发展良好，主营业务收入
+和利润规模持续增长
+图1：公司近三年主营业务收入（万元
+）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司的营业收入分别为8500.36万元、9
+804.14万元、10334.48万元，呈稳定增长趋势。
+其中，2015年内容（安全）管理解决方案占比8
+8.28%，教育产品及管理解决方案占比11.54%。
+表5：近三年公司营业收入
+构成情况（万元，%）
+2013年 2014年 2015年
+项目
+金额 占比 金额 占比 金额 占比
+内容（安
+4072. 6584. 9123.
+全）管理 77 47.91 61 67.16 88.2840
+解决方案
+教育产品
+4307. 3211. 1192.
+及管理解 55 50.67 54 32.76 11.5497
+决方案
+视音频解
+102.3
+决方案及 3 1.20 7.99 0.08 18.09 0.18
+服务
+文件设备
+17.71 0.22 - - - -
+销售
+合计 8500. 100 9804. 100 1033 100
+36 14 4.46
+数据来源：公司提供，东方金诚整理
+表6：近三年公司毛利润和毛利率
+情况（万元，%）
+2013年 2014年 2015年
+毛利 毛利 毛利 毛利 毛利 毛利
+项目
+润 率 润 率 润 率
+内容（安
+1632 40.0 4274 64.9 6657
+全）管理 .76 .83 72.979 2 .11
+解决方案
+教育产品 3538 82.1 1897 59.0 724.
+及管理解 .07 .49 60.734 8 48
+决方案
+视音频解
+82.7 80.9 10.1 17.8
+决方案及 8 0.81 98.510 4 2
+服务
+文件设备 14.8 83.7
+3 - - - -销售 4
+5268 61.9 6173 62.9 7399
+合计 .44 .13 71.608 6 .41
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司毛利润分别为5268.44万元、6173.
+13万元、7399.41万元，逐年增长。2015年内容
+（安全）管理解决方案的毛利润为6657.11万元
+，占公司毛利润比例为89.96%，教育产品及管
+理解决方案的毛利润为724.48万元，占公司毛利
+润比例为10%，视音频解决方案及服务的毛利
+润为17.82万元，占公司毛利润比例为0.04%。
+毛利率方面，2013-
+2015年，公司毛利率分别为61.98%、62.96%、7
+1.60%，相对稳定。2015年内容（安全）管理解
+决方案的毛利率为72.97%，教育产品及管理解
+决方案的毛利率为60.73%，视音频解决方案及
+服务的毛利率为98.51%。
+公司产品系列由4大业务领域扩展到9大业
+务领域，业务领域不断扩大
+2014年公司的产品系列由原来的4大业务领
+域扩展到9大业务领域，业务规模不断扩大。目
+前公司有12条产品线，分为有形载体和无形载
+体两大类，有形载体包括涉密载体全生命周期
+管理系统、安全增强型复印机、光盘刻录机、
+文件回收柜、集中文印解决方案、文档打印复
+印安全监控与审计系统（单机版）、安全扫描
+仪。无形载体包括保密综合管理平台、电子文
+件密级标识管理系统、复印机硬盘安全检查系
+统、档案管理系统、虚拟化解决方案。
+其中，公司为满足军队、国防科研等军工
+保密单位文档输出安全管理需求而研发的“立
+思辰文档打印复印安全监控与审计系统”及其
+升级版本，继2010年度先后通过国家保密局和
+公安部的认证后，在2011年度通过中国人民解
+放军信息安全测评认证中心的认证,获得“军B
+级”认证证书，并且在市场推广中获得了客户
+的高度认可；同时，公司研发的“立思辰复印
+机保密管理系统V3.0”获得“军C+级”的认证
+证书，并已完成几个军方试点项目，进一步拓
+宽了公司在安全输出领域的市场空间。
+公司的核心优势主要体现在技术实力，公
+司能够根据客户需求及时解析并开发出产品，
+在产业优势方面，公司与同行业内竞争对手富
+士施乐相比，技术领先半年左右，在客户维护
+方面，公司重视产品后续维护工作，以维护客
+户的良好关系。
+公司主要客户为军队和十大军工集团，客
+户黏性较强，有利于维持现阶段业务的稳定
+公司主要为军队和十大军工集团客户提供
+涉密内容的安全管理解决方案，公司服务的客
+户主要涉及军队、军工领域，客户包括总参、
+海军、空军、武警、二炮等军队客户及航天科
+技、航天科工、中航工业、中电科技、船舶工
+业、船舶重工、兵器工业等。客户涉及超过100
+家一级涉密单位，近百家二级涉密单位和部分
+政府机关。上述企业整体素质较高，客户粘性
+较强，合作关系稳定。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>为规范经营管理，控制风险，保证经营业
+务活动的正常开展，公司根据《公司法》、《
+企业内部控制基本规范》等有关法律、法规和
+规章制度，结合公司的实际情况、自身特点和
+管理需要，制定了贯穿于公司生产经营各层面
+、各环节的内部控制体系，并不断完善。通过
+对公司各项治理制度的规范和落实，公司的治
+理水平不断提高，有效的保证了公司各项经营
+目标的实现。
+公司不设股东会，由股东行使公司决定表
+决权。公司不设董事会，设执行董事一人，由
+股东委派产生。公司设经理，由股东决定委派
+、聘任或者解聘。公司设监事1人，由股东委派
+产生。公司根据自身发展需要设立了销售管理
+部、研发部、产品支持部和综合管理部。公司
+的组织结构图如下图所示。
+图2：公司组织结构图
+数据来源：公司提供
+从近年公司的业务发展情况来看，公司部
+门设置较为合理，管理制度较为完善。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>立思辰计算机的未来发展规划主要由母公
+司制定，母公司准备打造两个集团业务板块即
+信息安全、教育两大板块，按照集团的信息安
+全和教育两大板块的战略部署，集团计划分别
+成立信息安全集团和教育集团，其中信息安全
+的核心公司为北京立思辰计算机技术有限公司
+和北京立思辰信息技术有限公司，同时母公司
+在信息安全的产业链上也进一步拓展，分别收
+购了汇金公司，汇金公司主要从事软件中间体
+的研发工作，收购汇金公司有助于进一步提升
+公司整体的研发能力，使公司软件产业进一步
+完整。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="立思辰计算机技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，总资产分别为15579.64万元、20160.74
+万元、35414.74万元，增长幅度近两年分别为29
+.40%、75.66%。公司资产规模增长主要是因为
+近年公司盈利积累以及长期借款的增加。
+图3：公司近三年资产构成（万元）
+数据来源：公司提供，东方金诚整理
+从资产结构的变化看，2013-
+2015年流动资产分别为8577.21万元、12836.57
+万元、25696.06万元，增长幅度近两年分别为49
+.66%、100.18%；非流动资产分别为7002.43万
+元、7324.17万元、9718.68万元，增长幅度近两
+年分别为4.59%、32.69%。截至2015年底，公司
+流动资产为25696.06万元，非流动资产为9718.6
+8万元，分别占资产总额的72.56%和27.44%，流
+动资产占比较高。
+图4：公司近三年流动资产构成（万元
+）
+数据来源：公司提供，东方金诚整理
+图5：公司最近一年流动资产构成
+数据来源：公司提供，东方金诚整理
+2015年底，公司货币资金、应收票据、应
+收账款、其他应收款、预付账款、存货分别占
+流动资产的3.89%、0.04%、50.07%、34.34%、
+1.16%、6.32%，其中应收账款和其他应收款的
+比重较大。
+截至2015年底，公司应收账款为12866.85万
+元，从账龄来看，账龄在1年以内占比65.39%；
+1-2年占比22.05%，2-3年占比8.93%，3-
+4年占比3.63%。公司账款多在2年以内，前五大
+客户应收占款占比34.29%，客户的集中度低，
+但是公司应收账款客户多为航空系统工程研究
+所及我国大型航空发动机研制生产公司，客户
+整体素质较高，预计回收风险较小。
+截至2015年底，公司其他应收款为8825.25
+万元，其中应收北京立思辰科技股份有限公司5
+666.67万元，北京立思辰合众科技有限公司1212
+.15万元，北京乐易考教育科技集团有限公司950
+万元，北京合众天恒科技有限公司392.5万元，
+北京立思辰信息技术有限公司223.49万元。从账
+龄来看，账龄在1年以内的占比98.65%，账龄在
+1年以上的占比1.35%。其他应收款主要为与关
+联方的往来款，账龄大多在1年以内，预计回收
+风险较小。
+截至2015年底，公司存货为1623.46万元，
+主要为库存商品。随着公司近三年业务规模不
+断扩大，合同量逐步增长，导致公司库存商品
+不断增长。
+截至2015年底，公司固定资产、无形资产
+、其他分别占非流动资产的19.06%、15.99%、6
+4.95%。
+截至2015年底，公司固定资产为1852.26万
+元，其中电子设备1833.32万元，办公家具18.94
+万元。同期，无形资产为1554.27万元，其中外
+购软件417.56万元，自行开发软件1136.71万元
+。
+表7：公司近两年资产运营状况
+2015年
+项  目 2014年 2015年
+行业均值
+应收账款周转率 1.38 0.98 5.80
+存货周转率 2.83 1.90 14.50
+流动资产周转率 0.92 0.54 2.50
+总资产周转率 0.55 0.37 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，公司2015年的各项运营
+指标都低于2014年，均低于行业平均水平，公
+司资产运营效率一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，公司总负债为12117.20万元、16806.87
+万元、28944.17万元，最近两年的增长幅度分别
+为38.70%、72.22%，呈增长趋势。
+表10：公司近三年负债结构
+2015
+年
+项  目 2013年 2014年 2015年
+行业
+均值
+资产负债率（%
+77.78 83.36 81.73 65.00
+）
+全部资本化比率
+12.62 0.00 67.27 0
+（%）
+总负债（万元 12117.2 16806.8 28944.1
+-
+） 0 7 7
+短期借款（万
+500.00 0.00 0.00 -
+元）
+长期借款（万 10000.0
+0.00 0.00 -
+元） 0
+数据来源：公司提供，东方金诚整理
+从负债结构看，截至2015年末，公司流动
+负债、长期负债分别为18464.17万元、10480.00
+万元，分别占总负债的63.79%、36.21%，流动
+负债占比较大。流动负债中，应付票据、应付
+账款、其他应付款、预收款项所占的比例分别
+为17.87%、3.50%、39.00%、1.07%，其他应付
+款占比较大，余额为7201.45万元，主要为关联
+企业的往来款。长期负债中，长期借款和其他
+非流动负债分别占比95.42%和4.58%。
+截至2015年年底，公司共有总债务13300.00
+万元，其中：短期债务总额为3300.00万元，长
+期债务总额为10000.00万元。
+2013-
+2015年公司流动比率分别为0.71、0.76、1.39，
+速动比率分别为0.62、0.68、1.30，，公司经营
+现金净流量与流动负债的比例分别为34.25%、7
+.15%、-
+57.91%。综合考虑到公司目前的现金流状况和
+项目回款情况，公司短期内有一定的偿债压力
+。
+表11：公司近三年主要偿债指标
+2015
+年
+项  目 2013年 2014年 2015年
+行业
+均值
+流动比率 0.71 0.76 1.39 -
+速动比率 0.62 0.68 1.30 87.50
+经营活动产生
+的现金净流量/ 34.25 7.15 -57.91 -
+流动负债（%）
+利息保障倍数 396.72 116.04 8.32 -
+EBITDA利息倍数 418.86 128.75 8.82 -
+总债务/EBITDA 0.18 0.00 3.10 -
+经营活动产生
+的现金净流量/ 830.09 0.00 -80.40 -
+总债务（%）
+经营活动产生
+的现金净流量/ 34.25 7.15 -36.94 -
+总负债（%）
+数据来源：公司提供，东方金诚整理
+公司近三年资产负债率分别为77.78%、83.
+36%、81.73%，负债水平目前在同行业中处于
+较高水平。同期，公司利息保障倍数分别为96.7
+2、116.04、8.32，2015年大额信托贷款使得利
+息保障倍数大幅降低。考虑到近两年公司业务
+规模的扩大，公司收入规模稳步扩大，盈利能
+力较强，公司长期偿债能力尚可。
+截至报告期，公司没有对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司目前经营状况较好，资金运转正常。
+目前公司资金来源主要为股东投入、自身经营
+积累及长期借款，同时公司享受有多项税收优
+惠政策并能获得政府补贴。
+公司的母公司为北京立思辰科技股份有限
+公司，母公司在创业板上市公司，能够为公司
+提供一定资金支持。
+公司于2013年5月17日获得北京市软件企业
+认定，自2012-2013年免缴企业所得税，2014-
+2016年减半征收企业所得税。此外，销售自行
+开发生产的软件产品，公司可享受增值税即征
+即退优惠政策。公司2015年获得北京市经信委
+给予的贴息补助200万元。
+2015年公司向北京国际信托有限公司申请
+了10000万元的信托贷款，贷款期限为2年，贷
+款利率6.6%，2017年到期一次性还款。贷款主
+要用于扩大生产线、新产品的研发以及办公楼
+的建设。</enterprise:财务弹性>
+    <enterprise:盈利能力>表8：公司盈利能力主要指标（一）
+项  目 2013年 2014年 2015年
+营业收入（万元
+8500.36 9804.14 10334.48
+）
+营业成本（万元
+3231.92 3631.01 2935.06
+）
+利润总额（万元
+2591.96 2866.83 3562.99
+）
+净利润（万元） 2569.80 2491.43 3116.71
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司主营业务收入8500.36万元、9804.
+14万元、10334.48万元，最近两年的增长幅度分
+别为15.34%、5.41%，公司业务规模不断扩大，
+主营业务收入呈增长趋势。
+2013-
+2015年，公司营业成本分别为3231.92万元、363
+1.01万元、2935.06万元，增长幅度分别为12.35
+%、-
+19.17%，其中2014年主营业务成本大幅增长，
+主要是因为公司扩展新的产品线，由原本四大
+业务领域扩大为九大业务领域，造成公司主营
+业务成本提升。近三年公司毛利率分别为61.98
+%、62.96%、71.60%。公司获取毛利水平处于
+行业较高水平。
+2013-
+2015年，公司的期间费用率分别为28.26%、31.
+74%、31.29%，相对稳定，公司对期间费用的
+控制能力较强。
+2013-
+2015年，公司非经常性损益中，营业外收支净
+额分别为112.25万元、507.61万元、755.22万元
+，占利润总额的比重分别为4.33%、17.71%、21
+.20%，非经常性损益对公司利润总额的影响较
+大。
+近两年总资产报酬率分别为16.18%、14.57
+%，同期，公司净资产收益率分别为73.10%、6
+3.45%，与行业平均值相比，公司总资产报酬率
+和净资产收益率均处于较高水平。
+表9：公司盈利能力主要指标（二）
+2013 2014 2015 2015年
+项  目
+年 年 年 行业均值
+毛利率（%） 61.98 62.96 71.60 -
+营业利润率（%
+29.17 24.06 27.17 15.50
+）
+净资产收益率（%
+74.22 73.10 63.45 5.00
+）
+总资产报酬率（%
+16.68 16.18 14.57 3.50
+）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司经营活动产生的净现金流量分别
+为4150.45万元、1200.94万元、-
+10692.80万元。同期，公司现金收入比分别为53
+.01%、86.52%、61.76%，表明近年公司实现销
+售时，现金回收能力一般。
+整体来看，近年来公司市场开拓效果较好
+，主营业务收入规模持续扩大，目前盈利能力
+较强，但现金流情况有待进一步关注。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="立思辰计算机技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="立思辰计算机技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>15579.64 </enterprise:资产总额>
+    <enterprise:所有者权益>3462.44 </enterprise:所有者权益>
+    <enterprise:负债总额>12117.20 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>8500.36 </enterprise:营业收入>
+    <enterprise:EBITDA>2743.53 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="立思辰计算机技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>20160.74 </enterprise:资产总额>
+    <enterprise:所有者权益>3353.87 </enterprise:所有者权益>
+    <enterprise:负债总额>16806.87 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>9804.14 </enterprise:营业收入>
+    <enterprise:EBITDA>3208.56 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="立思辰计算机技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>35404.74 </enterprise:资产总额>
+    <enterprise:所有者权益>6470.57 </enterprise:所有者权益>
+    <enterprise:负债总额>28944.17 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>10334.48 </enterprise:营业收入>
+    <enterprise:EBITDA>4297.09 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="立思辰计算机技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.55 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.38 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.83 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="立思辰计算机技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.37 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.98 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.90 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="立思辰计算机技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.20 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>14.50 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="立思辰计算机技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>74.22 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>16.68 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>88.21 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="立思辰计算机技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>73.10 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>16.18 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>92.39 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="立思辰计算机技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>63.45 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>14.57 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>56.92 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="立思辰计算机技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>70.79 </enterprise:流动比率>
+    <enterprise:速动比率>61.76 </enterprise:速动比率>
+    <enterprise:资产负债率>77.78 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>418.86 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="立思辰计算机技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>76.38 </enterprise:流动比率>
+    <enterprise:速动比率>67.61 </enterprise:速动比率>
+    <enterprise:资产负债率>83.36 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>128.75 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="立思辰计算机技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>139.11 </enterprise:流动比率>
+    <enterprise:速动比率>130.32 </enterprise:速动比率>
+    <enterprise:资产负债率>81.75 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>8.82 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="立思辰计算机技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.92 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>61.98 </enterprise:毛利率>
+    <enterprise:成本费用利润率>59.30 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.53 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>34.25 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>12.62 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="立思辰计算机技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.54 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>62.96 </enterprise:毛利率>
+    <enterprise:成本费用利润率>55.58 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.87 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>7.15 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="立思辰计算机技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>2.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>71.60 </enterprise:毛利率>
+    <enterprise:成本费用利润率>72.89 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.62 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-57.91 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>67.27 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="立思辰计算机技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>793.35 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6024.99 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>76.76 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>346.73 </enterprise:其他应收款>
+    <enterprise:存货>1093.49 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>241.89 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>8577.21 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>94.98 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1346.42 </enterprise:无形资产>
+    <enterprise:开发支出>550.24 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>23.08 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>65.77 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>4921.94 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>7002.43 </enterprise:非流动资产合计>
+    <enterprise:资产总计>15579.64 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="立思辰计算机技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>796.26 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>8179.27 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>710.23 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>906.22 </enterprise:其他应收款>
+    <enterprise:存货>1472.73 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>771.86 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12836.57 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>105.79 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1776.84 </enterprise:无形资产>
+    <enterprise:开发支出>372.16 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>7.49 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>139.95 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>4921.94 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>7324.17 </enterprise:非流动资产合计>
+    <enterprise:资产总计>20160.74 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="立思辰计算机技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>998.70 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>12866.85 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>297.23 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>8825.25 </enterprise:其他应收款>
+    <enterprise:存货>1623.46 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>1074.57 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>25686.06 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1852.26 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1554.27 </enterprise:无形资产>
+    <enterprise:开发支出>1081.39 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>308.82 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>4921.94 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>9718.68 </enterprise:非流动资产合计>
+    <enterprise:资产总计>35404.74 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="立思辰计算机技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>489.88 </enterprise:应付账款>
+    <enterprise:预收款项>258.54 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>484.18 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1548.92 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>4800.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>9225.35 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>16806.87 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>16806.87 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1700.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>564.65 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1089.22 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3353.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3353.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>20160.74 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="立思辰计算机技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>489.88 </enterprise:应付账款>
+    <enterprise:预收款项>258.54 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>484.18 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1548.92 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>4800.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>9225.35 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>16806.87 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>16806.87 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1700.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>564.65 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1089.22 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3353.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3353.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>20160.74 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="立思辰计算机技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>3300.00 </enterprise:应付票据>
+    <enterprise:应付账款>645.95 </enterprise:应付账款>
+    <enterprise:预收款项>196.67 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>96.90 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>2197.53 </enterprise:应交税费>
+    <enterprise:应付利息>25.67 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>4800.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>7201.45 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>18464.17 </enterprise:流动负债合计>
+    <enterprise:长期借款>10000.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>480.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>10480.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>28944.17 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1700.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>908.56 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>3862.01 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>6470.57 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>6470.57 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>35414.74 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="立思辰计算机技术有限公司2013年利润表">
+    <enterprise:营业收入>8500.36 </enterprise:营业收入>
+    <enterprise:主营业务收入>8500.36 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3231.92 </enterprise:营业成本>
+    <enterprise:主营业务成本>3231.92 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>38.31 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1910.81 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>484.51 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>6.55 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>348.55 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2964.22 </enterprise:营业利润>
+    <enterprise:营业外收入>125.73 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>13.48 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3076.47 </enterprise:利润总额>
+    <enterprise:所得税费用>22.16 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3054.31 </enterprise:净利润>
+    <enterprise:少数股东损益>2569.80 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>484.51 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="立思辰计算机技术有限公司2014年利润表">
+    <enterprise:营业收入>9804.14 </enterprise:营业收入>
+    <enterprise:主营业务收入>9804.14 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3631.01 </enterprise:营业成本>
+    <enterprise:主营业务成本>3631.01 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>114.51 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2480.24 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>607.06 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>24.92 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>587.18 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2966.28 </enterprise:营业利润>
+    <enterprise:营业外收入>507.62 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3473.89 </enterprise:利润总额>
+    <enterprise:所得税费用>375.40 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3098.49 </enterprise:净利润>
+    <enterprise:少数股东损益>2491.43 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>607.06 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="立思辰计算机技术有限公司2015年利润表">
+    <enterprise:营业收入>10334.48 </enterprise:营业收入>
+    <enterprise:主营业务收入>10334.48 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2935.06 </enterprise:营业成本>
+    <enterprise:主营业务成本>2935.06 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>61.55 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2180.88 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>566.02 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>486.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>1296.21 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>3373.79 </enterprise:营业利润>
+    <enterprise:营业外收入>778.95 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>23.73 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>4129.01 </enterprise:利润总额>
+    <enterprise:所得税费用>446.28 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>3682.73 </enterprise:净利润>
+    <enterprise:少数股东损益>3116.71 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>566.02 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年立思辰计算机技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4506.21 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>125.56 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>5577.92 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>10209.69 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2987.84  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1699.20 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>249.32 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1122.88 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6059.24 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>4150.45 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1055.01 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>2933.35 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3988.36 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3988.36 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>6.33 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>6.33 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>493.67 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>655.76 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年立思辰计算机技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>8482.19 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>507.62 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2185.07 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>11174.88 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>5000.80  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1868.97 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1112.38 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1991.79 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>9973.94 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1200.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>610.52 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1260.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1870.52 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1870.52 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>1200.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1200.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>27.51 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>527.51 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>672.49 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>2.91 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年立思辰计算机技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>6382.78 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>577.67 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2913.76 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>9874.21 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3303.82  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1499.91 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1084.76 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>14678.52 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>20567.01 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-10692.80 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2443.36 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2443.36 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2443.36 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>13300.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>480.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>13780.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>365.75 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>85.66 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>451.41 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>13328.59 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>192.43 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+
+<enterprise:股东 rdf:ID="立思辰计算机技术有限公司股东：北京立思辰科技股份有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京立思辰科技股份有限公司 </enterprise:股东名称>
+	 <enterprise:货币>6700 万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="立思辰计算机技术有限公司的员工基本信息">
+	<enterprise:有从业人数>86</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:72,25岁以下:12,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:71,高中及以下:0,专科:15</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:4,技术人员:49,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:83人,未参加:3人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="立思辰计算机技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="立思辰计算机技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="立思辰计算机技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="立思辰计算机技术有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="立思辰计算机技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="立思辰计算机技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="立思辰计算机技术有限公司的企业法人代表：张旭光">
+	<enterprise:名称>张旭光</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="立思辰计算机技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>5.00%、消费税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>3,609.17万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2,017.62万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="立思辰计算机技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>业、南京荣东智焰电子科技有限公司和富士通先端科技（上海）有限公司</enterprise:有供应商类型>
+	<enterprise:有交易地位>平等交易、协商定价</enterprise:有交易地位>
+	<enterprise:有议价能力>中等</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>37,035.00万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>32,032.50万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>3,615.05万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>5,422.81万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="立思辰计算机技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无未决诉讼</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无不良记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>纳税信用</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+</rdf:RDF>

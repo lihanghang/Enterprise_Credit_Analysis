@@ -1,0 +1,1585 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京鼎实创新科技股份有限公司的企业概况">
+    <enterprise:有名称>北京鼎实创新科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局西城分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国建设银行北京北三环支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>45</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2002年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>750</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2002年</enterprise:有营业执照到期日>
+    <enterprise:有股本>750</enterprise:有股本>
+    <enterprise:有经营范围>手工组装电子元件；工业自动控制系统装置开发；工业自动化技术咨询和服务；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）手工组装电子元件；工业自动控制系统装置开发；工业自动化技术咨询和服务；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>自动化产品</enterprise:有主营业务>
+    <enterprise:有行业分类>自动化行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市西城区教场口</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市西城区教场口</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100120</enterprise:有邮政编码>
+    <enterprise:有联系人>李文</enterprise:有联系人>
+    <enterprise:有联系电话>010-82078031/13681055485</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82078031</enterprise:有传真电话>
+    <enterprise:有E-mail>liwen@c-profibus.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.c-profibus.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>基本情况
+北京鼎实创新科技股份有限公司（以下简
+称“鼎实创新”或“公司”）成立于2002年7月
+5日，注册和办公地址均为北京市西城区教场口
+1号9号楼201室（德胜园），注册资本和实收资
+本均为750万元，法定代表人唐济扬。
+公司主要从事工业控制网络技术，
+PROFIBUS、工业以太网、CANopen等现场总线通
+信类产品研发制造，为工业现场控制设备连网、
+异构网络互连提供产品及解决方案。
+公司于2011年3月和7月分别取得了中国
+PROFIBUS&PROFINET协会会员证书和质量管理体
+系认证证书；2012年7月和9月分别取得了国家
+高新技术企业证书及中关村高新技术企业证书；
+2013年3月取得了环境管理体系认证证书与职业
+健康安全管理体系认证证书；2015年1月取得了
+质量管理体系认证证书。
+公司2015年末资产总额1153.15万元，负债
+总额216.13万元，净资产937.02万元，固定资
+产52.52万元；2015年实现营业收入1300.89万
+元，利润总额214.91万元，净利润219.11万元，
+经营性净现金流114.80万元。
+公司2016年4月末资产总额1137.13万元，
+负债总额258.14万元，净资产878.98万元，固
+定资产59.54万元；2016年1-4月实现营业收入
+340.89万元，利润总额-58.04万元，净利润-
+58.04万元。
+股权结构
+截止2016年4月末，公司股权结构如下表所
+示。
+表1 公司股权结构
+货币出资金额 持股比例
+出资方名称
+（万元） (％)
+唐济扬 390 52
+李文 225 30
+孙慧民 135 18
+合计 750 100
+资料来源：公司提供
+历史沿革
+公司初始注册资本为50万元，后经多次变
+更，并于2009年10月12日增加至300万元，
+2014年10月增加至750万元，并在新三板挂牌，
+股本为750万元，名称变更为北京鼎实创新科技
+股份有限公司，股权结构发生较大变化。公司
+主营业务及其他工商事项未发生变化。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京鼎实创新科技股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>截至2016年4月末，公司在职员工合计45人，
+主要由于具体人员构成情况如表2所示。
+表 2从业人员情况
+人员学历构成 岗位构成
+学历 人数 职称 人数
+本科及以上 35 管理人员 8
+专科 5 技术人员 23
+高中及以下 5 作业人员 14
+资料来源：公司提供
+2015年公司人员总数较去年同期无变化，
+整体人员结构符合当前经营模式，员工规模和
+素质基本能够满足目前经营需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>及科研成果
+公司致力于自主产品的研发，内部设有研
+发部门。公司通过研发已获得了多项产品研究
+成果，拥有核心知识产权。目前公司已经取得
+两项发明专利证书、一项实用新型专利证书和
+八项计算机软件著作权登记证书，2015年未取
+得新增专利证书。2015年公司研发转化的收入
+总额为56.60万元。另外，公司还与北京航空航
+天大学、北京邮电大学等，国内高校进行相关
+产品的合作开发。近三年公司研发费用支出分
+别为221.18万元、258.96万元、301.04万元。
+公司研发费用的支出完全由市场需求所决定。
+公司研发成果均已较好的运用到产品中，并取
+得了良好的使用效果。
+公司拥有良好的研发环境，研发人员素质
+基本符合研发需求，整体研发技术水平尚可。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京鼎实创新科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>1、产品
+2015年公司对原有产品进行技术升级，主
+营业务及产品均无变化。公司产品可适用于的
+行业包括：电力监控、风电发电、地铁、水泥
+加工和其他工业自动化等，其中又以地铁、电
+力为主。公司将主要产品分为三类，分别为网
+关网桥、通讯模块和其他产品，具体包括：
+PROFIBUS总线桥、PROFIBUS从站网关、PROFIBU
+S主站网关、多协议智能网关、PROFIBUS总线IO
+、总线型温度控制器、PROFIBUS网络部件、嵌
+入式总线板卡、PROFIBUS诊断工具、芯片及开
+发包等。
+公司产品拥有较高的自由组合度，可根据
+客户的需求，设计具有较强针对性的解决方案，
+实现串口设备自由对接，如：条码枪、分析仪
+表、传感器、小型PLC等。另外，公司产品还可
+广泛用于PROFIBUS产品开发，如：西门子300、
+400PLC系统，ABB的800F系统等。近三年主营产
+品销售结构如下表所示。
+2015年 2014年 2013年
+金额 金额 金额
+项目 占比 占比 占比
+（万元） （万元） （万元）
+（%） （%） （%）
+网关网
+1044.35 80.28% 901.26 79.27% 964.23 83.29%
+桥
+通讯模
+155.82 11.98% 195.21 17.17% 135.68 11.72%
+块
+其他产
+100.72 7.74% 40.48 3.56% 57.77 4.99%
+品
+营业收
+1300.89 100 1136.95 100 1157.68 100
+入合计
+2015年公司各类型产品销售占比构成较201
+4年变化幅度不大，但销售总额略有增长。公司
+产品的销售构成是由客户需求所决定，近三年
+以销售小批量、多品种的网关、网桥、模块产
+品为主，其中销售占比前三的具体产品型号为P
+B—BUS、MOBUS、PB-B-CAN，产品销售量综合毛
+利率可维持在60%左右。公司2015年推出的用于
+工业设备问题诊断的4款产品，也取得了一定的
+销售成绩，未来将继续升级改进。
+公司为增强产品市场竞争力，每年均对3-
+5款产品进行升级，提升产品技术含量，满足不
+同行业客户需求。2016年公司计划开发全新产
+品，用以分散经营风险，提高营业效率，目前
+正在研发芯片型自动化产品，以及为客户提供
+系统解决方案。另外，公司还将开发全新技术，
+具体包括互联网产品、安全技术、云计算、数
+据安全、人工智能、冗余技术等，其中数据安
+全技术已经与德国美名公司签订合作协议，公
+司为其提供开发所需相关的硬件产品；冗余技
+术使用范围较广，具体包括电厂、化工、地铁
+等行业，目前已经推出了DS-Y-Link系列产品，
+该产品正在进行市场推广。目前公司还与和利
+时集团、国电集团、南瑞集团、许继集团、金
+峰集团、华通集团等，就新产品的销售达成了
+初步意向，但具体合同金额未能确定。需要关
+注的是公司新产品和新技术的研发投入较大，
+研发时间较长，市场认知度无法确定，新产品
+的推出能否获得预期的销售效果，仍有较大的
+不确定性。
+2、供应
+2015年公司供应情况较2014年变化不大。
+公司生产所需原材料主要为芯片、电源模块、
+电感、电阻、电容、PCB板、接插件和外壳等，
+主要采购区域为北京、广东和河北等地区。公
+司主要供应商包括：北京利和顺达、北京科迪
+通达、广州金升阳、北京智良科技、北京永裕
+华茂等，主供应商较去年变化不大。公司采购
+材料原则为按需采购，首先制定销售计划，根
+据计划进行合理的采购安排。公司与供货商的
+结算方式主要有货到付款和分期付款，多数供
+货商可为公司提供一定期限的账期。公司与主
+要供货商合作时间较长，供货稳定，且有质量
+保障。由于公司所采购物资为常用电子产品，
+市场供应量充足，所以公司对供应商的依赖程
+度不高，有较强议价能力。
+3、生产
+2015年公司生产情况较2014年变化不大。
+公司生产采用以销定产模式，根据销售合同制
+定合理生产计划。公司目前拥有一处租赁生产
+基地，地址为北京市西城区教场口1号9号楼
+201室，占地260平方米，2012年3月份开始投产
+，主要进行总线桥、嵌入式板卡、光纤模块、
+主从站网关、集线器、以太网网关、总线诊断
+工具、总线I/O模块等产品的组装和测试。公司
+生产原则为客户先下订单，之后在根据订单情
+况合理进行生产安排，并保证基本的库存要求。
+目前公司生产线完全可以满足日常供货需求，
+产能并未达到饱和，仍有一定的提升空间。
+4、销售
+2015年公司销售情况较2014年略有提高。
+公司产品面向全国销售，主要销售方式分为直
+销和代理商销售，并采取广告和展览展示等方
+式进行产品推广，通过经销商向客户提供所需
+产品，结算方式根据合同约定进行回款。公司
+产品的终端使用客户为风电、地铁、电力监控、
+钢铁、煤炭、化工、水利等行业内的企业。
+2015年风电、地铁、电力监控行业为销售占比
+前三的行业，合计收入总额占公司总收入的
+50%，其余行业合计占50%。
+产品直销方面：2015年公司新拓展的客户
+包括金风科技、北京科诺、中船重工、重庆海
+装、武汉90所、718所、深圳禾望等。需要关注
+的是由于国内生产企业出现下滑，公司小规模
+客户有所减少，主要业务偏向大规模客户，经
+营风险有所增加。公司为降低经营风险，一方
+面开发新类型产品，开拓客户需求，另一方面
+积极与国外公司合作，准备拓展国外市场。但
+由于公司资金实力有限，上述计划能否及时完
+成，仍有较大不确定性。另外，公司成立了工
+程部，主要负责提供信息自动化的现场技术服
+务，既为本公司业务进行工程施工，也接受对
+外工程施工任务，目前可开展的业务包括FDT-
+DTM协议、CC—
+Link、仪器仪表、部分互联网项目等，此项业
+务也将作为公司的主营业务进行重点市场推广，
+未来或将成为公司新的收入增长点。
+产品代理商方面：公司已发展多家代理商，
+如：上海思路新科技发展有限公司等，在代理
+商的选择标准上，主要参考代理商知名度、市
+场口碑、产品种类、资金实力等方面。代理产
+品方面：公司所代理的产品种类不多，主要为
+常用芯片及开发包，代理的产品均属于市场常
+见电子产品，对于上游供货商的议价能力处于
+强势。公司代理产品的销售收入不高，每年占
+总收入的10%左右。
+公司产品采用综合定价法，产品价格区间
+从千元至万元不等，项目总价根据使用产品模
+块的总量进行收取。由于公司产品属于常用设
+备，市场供应量较充足，所以对下游议价能力
+较一般。公司安装调试工程的施工期根据项目
+进程而定，由于大部分项目并无预收账款，前
+期垫资较多，且回款周期较长，一般为3至6个
+月，导致流动资金压力较大。但由于客户均为
+长期合作关系，所以公司并未提取坏账准备，
+但仍存在一定的回款风险。
+目前公司已经参与完成的重点项目包括：
+北京鼎实IO模块在江苏某火力发电厂中的应用、
+施耐德LXM23A伺服与西门子300PLC的连接、鼎
+实主站网关在北京某化工厂的应用、鼎实主站
+网关在东北大乙烯中的应用、鼎实主站网关
+PBM-G-
+MBS在天津某军工项目中的应用、北京地铁五号
+线多通信协议设备集成解决方案、鼎实PB-B-
+MODBUS总线桥在宝钢硅钢片生产线上的应用等。
+另外，公司还参与了多项科技计划立项工作，
+包括：北京市西城区科技计划项目、科技型中
+小企业技术创新基金、北京市科技计划专项课
+题等。上述科研项目的参与，可较好的提高公
+司行业内的知名度。 
+公司行业内竞争对手较多，相比之下鼎实
+创新的竞争优势主要体现于相对完善的售后服
+务体和较高的产品性价比。但目前我国自动化
+行业市场集中度较低，竞争比较激烈，需要企
+业不断进行新产品开发、新工艺改进来保持市
+场优势，未来市场竞争的加剧可能会限制公司
+销售规模的增长速度，影响公司的盈利水平和
+行业地位。
+通过多年经营公司与国内多个大型工业企
+业建立了良好的合作关系，包括：和利时集团、
+许继集团、金峰集团、中船集团、西门子等，
+并利用实际控制人的行业人脉资源，进行销售
+拓展，每年可形成一定比例的订单。需关注的
+是近年钢铁、煤炭、化工行业经济均出现下滑，
+相关客户的产品需求量并不稳定，导致公司营
+业收入出现波动。为应对此种不利趋势，公司
+一方面加强客户培训工作，增加客户粘度，并
+挖掘其深层需求；另一方面进行了销售渠道的
+拓展，增加代理商数量，并新增了电商销售。
+另外，公司还计划进入环保产品领域，将产品
+进行智能化、网络化的改造。
+公司专注于自动化产品的研发、生产和销
+售工作，技术研发水平尚可。但目前公司主要
+市场竞争激烈，产品可替代性较高，部分客户
+行业出现下滑，客户需求稳定性不佳，近三年
+收入总额出现波动，存在一定的经营风险。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1.治理机制
+鼎实创新实行董事会领导下的总经理负责
+制的管理方式。公司下设财务部、市场部、宣
+传部、技术支持部、开发部、质检部、生产部、
+综合管理部等职能部门。
+公司机构设置基本合理，部门分工基本明
+确，治理机制能够满足公司现阶段正常运营需
+要。
+2.内控制度
+鼎实创新制定的规章制度包括：人事管理
+制度、费用报销管理办法、办公用品管理办法、
+销售和收款业务管理办法、固定资产管理办法、
+采购和付款业务流程管理办法等。
+公司内控制度涉及运营的各个方面，具有
+一定的可执行性，基本能够保障公司现阶段正
+常运营。
+经营效率
+公司2013-2015年的总资产增长率、总资产
+周转率、流动资产周转率、应收账款周转率如
+下表所示。对比行业整体指标来看，2015年公
+司总资产周转率、流动资产周转率、应收账款
+周转率均处于行业良好水平，存货周转率处于
+行业平均水平，但总资产增长率处于行业较低
+水平。
+表3 公司资产运营效率衡量指标
+2013年 2014年 2015年
+总资产增长率 - -4.29% 39.81%
+总资产周转率 134.33% 134.82% 131.54%
+流动资产周转
+146.64% 146.82% 140.27%
+率
+应收账款周转
+635.92% 636.69% 588.42%
+率
+存货周转率 - 265.31% 144.50%
+受客户需求不稳定影响，近三年公司资产
+总额出现波动。公司按合同约定进行供货，自
+有生产线基本可以满足供货需求，总体项目的
+运转情况均良好。公司项目前期垫资情况较多，
+应收账款占比较高，且回款周期较长，造成一
+定的短期资金周转压力。
+2015年公司整体资产运营效率较2014年有
+所下降，但整体仍处于行业平均以上水平。另
+外，考虑到新产品具有较大的销售潜力，市场
+前景广阔，公司未来成长性尚可。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>2016年公司计划在产品服务、销售拓展等
+方面进行改进与提升。
+产品计划：公司计划未来几年内将增加现
+有产品类型，提升产品技术含量，提高产品的
+市场竞争力。公司计划2016年下半年继续开发
+自动化相关产品，提高产品市场的占有率，具
+体包括在线式互联网产品、报警类产品、工业
+交换机（数据共享）、运动控制、协议转换等。
+销售计划：公司预计2016年合同总额、销
+售收入、利润总额较2015年变化不大。公司完
+成上述销售目标的主要依据为，除原有销售渠
+道的继续拓展外，还将开发新的产品以及开拓
+新的业务种类。据此推断公司完成上述销售目
+标难度不大。 
+公司产品品系较全，行业内技术、运维等
+项目实施经验丰富，产品市场认可度较高，同
+时国家推出的政策有助于行业进一步发展，市
+场前景乐观，但客户需求的不稳以及公司资金
+实力有限，仍对公司发展造成了一定的影响。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京鼎实创新科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>公司近三年末资产总额分别为861.82万元、
+824.82万元、1153.15万元，资产规模略有波动
+。近三年公司总资产中流动资产分别为789.45
+万元、759.29万元、1095.56万元，分别占总资
+产的91.60%、92.06%、95.01%，占比呈小幅增
+长趋势。公司2013-2015年末资产结构变化情况
+如图1所示。
+万万万万万
+1,400_ 100%
+90%
+1,200_
+80%
+1,000_ 70%
+800_ 60%
+50%
+600_ 40%
+400_ 30%
+20%
+200_
+10%
+0_ 0%
+2013万 2014万 2015万
+万万万万 万万万万万 万万万万万万
+图1 2013-2015年末公司资产结构变化图
+截至2015年末，公司流动资产主要由货币
+资金、存货和应收账款构成。2015年末公司流
+动资产构成如图2所示。
+万万, 30% 万万万万, 42%
+万万万万
+万万万万
+万万万万
+万万万万
+万万万万万
+万万万万, 3% 万万
+万万万万, 13% 万万万万, 11%
+  图2 2015年末公司流动资产构成图
+截至2015年末，公司货币资金457.35万元，
+占比41.75%，主要是现金和银行存款；存货
+332.66万元，占比30.36%，主要为库存商品和
+原材料等，2015年公司存货量较2014年有所增
+加，一方面由于人工成本的上升，产成品的单
+位成本同步上升；另一方面由于当年第四季度
+按照销售计划组织生产备货，但实际销售量低
+于预期，导致年末产成品出现积压，目前积压
+产品正在陆续销售中；应收账款141.51万元，
+占比12.92%，主要为货款，主要应收单位有北
+京天诚同创、保定科诺伟业、中船重工（重庆）
+海装、新华控制工程有限公司、江苏新美星等，
+大部分应收账款账龄在一年以内，公司主要应
+收账款客户均为长期合作关系，未计提坏账准
+备，但仍然存在一定的坏账风险。 
+截至2015年末，公司非流动资产总额
+57.58万元，占比4.99%，主要为固定资产资。
+公司固定资产52.52万元，占非流动资产的
+91.21%，主要是办公用品及运输工具等。 
+公司资产规模不大，货币资金保有量较大，
+整体资产流动性尚可，资产质量良好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2015年公司速动比率、资产负债率均处于
+行业优秀水平，但EBITDA利息保障倍数处于行
+业较低水平。
+表 5公司偿债能力衡量指标
+2013年 2014年 2015年
+流动比率 11.79 7.10 5.07
+速动比率 11.24 5.09 3.53
+现金流动负债
+173.46% -57.76% 53.12%
+比
+资产负债率 7.77% 12.96% 18.74%
+EBITDA利息
+-12.00 -0.93 -31.53
+保障倍数
+现金负债总额
+173.46% -57.76% 53.12%
+比
+短期看，公司经营性现金流入对流动负债
+的覆盖程度较好，对短期债务的支撑能力较强。
+公司短期偿债能力较强。长期看，公司资产负
+债率较低，偿债压力不大，但近三年资产、收
+入规模均出现波动，且成本控制能力不佳，受
+政府补贴资金的变化影响，利润规模出现波动，
+整体盈利能力一般，长期偿债能力一般。公司
+总体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年公司负债总额分别为66.94万元、106.91
+万元、216.13万元，近三年负债规模呈上升趋
+势。2015年负责规模增长幅度较大，主要源于
+员工工资的大幅增长，已经增加预收账款比例
+所致。公司2013-2015年末负债结构变化如图3
+所示。
+万万万万万
+250_ 20%
+18%
+200_ 16%
+14%
+150_ 12%
+10%
+100_ 8%
+6%
+50_ 4%
+2%
+0_ 0%
+2013万 2014万 2015万
+万万万万 万万万万万 万万万万万
+图3 2013-2015年末公司负债结构变化图
+截至2015年末，公司流动负债主要由预收
+账款和应付职工薪酬构成。2015年末公司流动
+负债构成图如图4所示。
+万万万万 万万万万
+万万万万万, 11万%万万万, 6%
+万万万万, 7%
+万万万万 万万万万万万
+万万万万, 44%
+万万万万万万,
+32%
+万万万万 万万万万万
+图4 2015年末公司流动负债构成图
+2015年末公司预收账款94.59万元，占比43.7
+7%，主要为货款和押金，主要预收单位包括北
+京市通州东方种猪场、北京万源养殖场、上海
+电科智能系统、江苏金帆电源科技等，
+2015年公司提高预收账款比例，预收账款大幅
+提高；应付职工薪酬68.24万元，占比31.58%，
+全部为应付职工工资。
+公司近三年末资产负债率分别为7.77%、
+12.96%、18.74%，虽然呈现上升态势，但仍处
+于行业优秀水平，整体偿债压力不大，由于目
+前货币资金较充足，短期内对外融资需求不高。
+2013-
+2015年公司未分配利润分别为382.43万元、-
+40.82万元、160.46万元，近三年呈波动趋势。
+2014年未分配利润积累情况表现不佳，系公司
+于2014年10月30日进行股份改制，并以2014年8
+月31日为股改基准日，根据北京兴华会计师事
+务所审计确认的净资产额，一次性转增公司股
+本，转增后公司未分配利润调整为0，另外由于
+当年成本支出的上升，导致未分配利润下降为
+负，2015年公司收入及回款情况均有所提升，
+利润积累大幅增长。
+公司负债程度不高，财务构成基本合理，
+资产负债率保持行业优秀水平，财务弹性较好。
+但随着公司新业务的开展，有较大的资金投入，
+或将进一步加大资金压力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-2015年公司盈利情况如图5所示。
+万万万万万
+1,400_ 14%
+1,200_ 12%
+1,000_ 10%
+800_ 8%
+600_ 6%
+400_ 4%
+200_ 2%
+0_ 0%
+2012万 2013万 2014万
+万万万万万万万万 万万万万万万万 万万万万万万 万万万万万万
+图5 2013-2015年末公司盈利情况分布图
+2013-
+2015年公司分别实现营业收入1157.68万元、11
+36.95万元、1300.89万元，近三年收入规模呈
+波动趋势。同期利润总额分别为108.75万元、7.8
+7万元、241.91万元，净利润分别为92.43万元、
+4.24万元、219.11万元。近三年公司利润积累
+情况出现波动，造成此种趋势的原因是公司每
+年申请的政府补贴款额度不同，以及人员成本
+支出规模逐年加大所致。需要关注的是公司近
+三年利润总额中的营业外收入分别为45.22万元、
+4.98万元、228.14万元，主要是政府补贴，占
+一定的利润比重，自身业务增长对盈利能力的
+贡献程度有所波动，营业利润率有所下滑。 
+公司2013-2015年营业收入增长率、营业利
+润率、总资产报酬率和净资产收益率如下表所
+示。对比行业整体来看，2015年公司营业收入
+增长率、净资产收益率、总资产报酬率均处于
+行业平均水平，但营业利润率处于行业较低水
+平。
+表 4公司盈利能力衡量指标
+2013年 2014年 2015年
+营业收入增长率 - -1.79% 14.42%
+营业利润率 5.49% 1.64% 1.07%
+总资产报酬率 12.62% 0.93% 24.46%
+净资产收益率 11.63% 0.56% 26.48%
+近三年公司收入规模出现波动，成本控制
+能力不佳，受政府补贴的变动影响，盈利规模
+随之出现波动，自身业务增长对利润的贡献能
+力一般，整体盈利能力一般。
+现金流
+2013-
+2015年公司EBITDA分别为108.75万元、7.87万
+元、241.91万元。近三年公司负债规模持续增
+加，盈利规模有所波动，但由于公司负债规模
+较小，盈利规模对债务的覆盖能力尚可。2013-
+2015年现金收入比分别为1.09倍、1.17倍、1.0
+4倍，收入实现质量尚可。2013-
+2015年公司现金流量状况如图6所示。
+万万万万万
+150_
+100_
+50_
+0_
+-50_
+-100_
+2013万 2014万 2015万
+万万万万万万万 万万万万万万万 万万万万万万万
+6 2013-2015年公司现金流量状况变化图
+公司2013-2015年经营活动净现金流量分别
+为116.12万元、-61.75万元、114.80万元，近
+三年经营活动净现金流量呈波动趋势。2014年
+公司经营活动净现金流量出现严重下滑，主要
+由于当年回款情况不佳，且人员成本增长所致，
+2015年公司收入及回款情况均良好，并且加大
+预收账款比例，另外，政府补贴也较上年同期
+大幅提高，综上原因导致当年经营活动净现金
+流量由负转正，大幅上升。
+公司2013-2015年投资性净现金流量分别为
+-43.63万元、-21.12万元、-
+9.58万元，资金流出主要用于购建固定资产使
+用。
+公司2013、2015年未发生与筹资活动有关
+的现金流。公司2014年筹资性净现金流量为-
+86万元，资金流出主要源于偿还债务、分配股
+利及筹资费用所支付的现金。
+公司收入实现质量尚可，经营性净现金流
+入对投资和筹资活动支出的覆盖能力较强，自
+有资金的积累对业务规模增长的贡献度良好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京鼎实创新科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>目前公司无信用风险与合规性风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>目前自动化行业无政策和市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司应收账款较大，存在一定的回收风险，
+且盈利规模出现波动。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司新产品研发投入较大，且研发时间较
+长，能否达到销售预取仍有较大的不确定性。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京鼎实创新科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>861.82 </enterprise:资产总额>
+    <enterprise:所有者权益>794.88 </enterprise:所有者权益>
+    <enterprise:负债总额>66.95 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1157.68 </enterprise:营业收入>
+    <enterprise:EBITDA>108.75 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京鼎实创新科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>824.81 </enterprise:资产总额>
+    <enterprise:所有者权益>717.91 </enterprise:所有者权益>
+    <enterprise:负债总额>106.91 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1136.95 </enterprise:营业收入>
+    <enterprise:EBITDA>7.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京鼎实创新科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>1153.14 </enterprise:资产总额>
+    <enterprise:所有者权益>937.02 </enterprise:所有者权益>
+    <enterprise:负债总额>216.12 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1300.89 </enterprise:营业收入>
+    <enterprise:EBITDA>241.91 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京鼎实创新科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.34 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>32.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>-</enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京鼎实创新科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.35 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>35.34 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.65 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京鼎实创新科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.32 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>32.89 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.45 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京鼎实创新科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>12.62 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>12.62 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>11.63 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京鼎实创新科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.93 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.93 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.59 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京鼎实创新科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>24.46 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>24.46 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>23.38 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京鼎实创新科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>1179.16 </enterprise:流动比率>
+    <enterprise:速动比率>1123.91 </enterprise:速动比率>
+    <enterprise:资产负债率>7.77 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-12.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京鼎实创新科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>710.21 </enterprise:流动比率>
+    <enterprise:速动比率>509.43 </enterprise:速动比率>
+    <enterprise:资产负债率>12.96 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-0.93 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京鼎实创新科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>506.92 </enterprise:流动比率>
+    <enterprise:速动比率>353.00 </enterprise:速动比率>
+    <enterprise:资产负债率>18.74 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-31.53 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京鼎实创新科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>65.97 </enterprise:毛利率>
+    <enterprise:成本费用利润率>24.88 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.09 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>173.44 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京鼎实创新科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>70.64 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1.67 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.17 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-57.76 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-0.02 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-0.70 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京鼎实创新科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>69.60 </enterprise:毛利率>
+    <enterprise:成本费用利润率>38.65 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.04 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>53.12 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.14 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-0.35 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京鼎实创新科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>521.33 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>36.10 </enterprise:应收票据>
+    <enterprise:应收账款>145.95 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>12.08 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>31.00 </enterprise:其他应收款>
+    <enterprise:存货>36.99 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>6.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>789.45 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>62.37 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>10.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>72.37 </enterprise:非流动资产合计>
+    <enterprise:资产总计>861.82 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京鼎实创新科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>352.40 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>64.73 </enterprise:应收票据>
+    <enterprise:应收账款>110.36 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>6.90 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>0.00 </enterprise:其他应收款>
+    <enterprise:存货>214.66 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>10.24 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>759.29 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>58.96 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5.81 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.75 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>65.52 </enterprise:非流动资产合计>
+    <enterprise:资产总计>824.81 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京鼎实创新科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>457.35 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>125.56 </enterprise:应收票据>
+    <enterprise:应收账款>141.51 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>36.60 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>0.00 </enterprise:其他应收款>
+    <enterprise:存货>332.66 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>1.88 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1095.56 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>52.52 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4.26 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.80 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>57.58 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1153.14 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京鼎实创新科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4.15 </enterprise:应付账款>
+    <enterprise:预收款项>14.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>57.38 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>22.61 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>8.27 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>106.91 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>106.91 </enterprise:负债合计>
+    <enterprise:实收资本或股本>750.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.73 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-40.82 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>717.91 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>717.91 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>824.82 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京鼎实创新科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4.15 </enterprise:应付账款>
+    <enterprise:预收款项>14.50 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>57.38 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>22.61 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>8.27 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>106.91 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>106.91 </enterprise:负债合计>
+    <enterprise:实收资本或股本>750.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.73 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-40.82 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>717.91 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>717.91 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>824.82 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京鼎实创新科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>14.01 </enterprise:应付账款>
+    <enterprise:预收款项>94.59 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>68.24 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>14.60 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>24.68 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>216.12 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>216.12 </enterprise:负债合计>
+    <enterprise:实收资本或股本>750.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>8.73 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>17.83 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>160.46 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>937.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>937.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1153.14 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京鼎实创新科技股份有限公司2013年利润表">
+    <enterprise:营业收入>1157.68 </enterprise:营业收入>
+    <enterprise:主营业务收入>1157.68 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>393.93 </enterprise:营业成本>
+    <enterprise:主营业务成本>393.93 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>17.13 </enterprise:营业税金及附加>
+    <enterprise:销售费用>35.11 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>660.39 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-9.06 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>3.34 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>63.53 </enterprise:营业利润>
+    <enterprise:营业外收入>45.22 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>108.75 </enterprise:利润总额>
+    <enterprise:所得税费用>16.31 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>92.44 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>92.44 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京鼎实创新科技股份有限公司2014年利润表">
+    <enterprise:营业收入>1136.95 </enterprise:营业收入>
+    <enterprise:主营业务收入>1136.95 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>333.83 </enterprise:营业成本>
+    <enterprise:主营业务成本>333.83 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>16.69 </enterprise:营业税金及附加>
+    <enterprise:销售费用>129.89 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>644.94 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-8.43 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>1.38 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>18.64 </enterprise:营业利润>
+    <enterprise:营业外收入>4.98 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>15.75 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>7.87 </enterprise:利润总额>
+    <enterprise:所得税费用>3.63 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>4.24 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>4.24 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京鼎实创新科技股份有限公司2015年利润表">
+    <enterprise:营业收入>1300.89 </enterprise:营业收入>
+    <enterprise:主营业务收入>1300.89 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>395.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>395.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>19.77 </enterprise:营业税金及附加>
+    <enterprise:销售费用>218.32 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>660.85 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-7.67 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.31 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>13.88 </enterprise:营业利润>
+    <enterprise:营业外收入>228.14 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.10 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>241.92 </enterprise:利润总额>
+    <enterprise:所得税费用>22.80 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>219.12 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>219.12 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京鼎实创新科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1265.41 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>62.75 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1328.16 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>349.83  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>573.68 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>188.99 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>99.54 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1212.04 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>116.12 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>43.63 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>43.63 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-43.63 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>72.49 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京鼎实创新科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1325.06 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>9.41 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>51.16 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1385.63 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>342.07  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>770.11 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>205.13 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>130.07 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1447.38 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-61.75 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>21.12 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>21.12 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-21.12 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>86.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>86.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-86.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>-0.01 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-168.88 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京鼎实创新科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1358.45 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>241.05 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1599.50 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>307.48  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>764.11 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>213.32 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>199.78 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1484.69 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>114.81 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>9.58 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>9.58 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-9.58 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>-0.27 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>104.96 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京鼎实创新科技股份有限公司股东：唐济扬 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>唐济扬 </enterprise:股东名称>
+	 <enterprise:货币>156.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>52.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京鼎实创新科技股份有限公司股东：李文 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李文 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>30.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京鼎实创新科技股份有限公司股东：孙慧民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>孙慧民 </enterprise:股东名称>
+	 <enterprise:货币>54.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>18.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：DINGSHI">
+	<enterprise:有申请日期>15-10-23</enterprise:有申请日期>
+	<enterprise:有商标名称>DINGSHI</enterprise:有商标名称>
+	<enterprise:有注册号>18136858</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实">
+	<enterprise:有申请日期>15-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实</enterprise:有商标名称>
+	<enterprise:有注册号>17824721</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-9-6</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17824720</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实">
+	<enterprise:有申请日期>14-5-27</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实</enterprise:有商标名称>
+	<enterprise:有注册号>14564129</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实">
+	<enterprise:有申请日期>14-5-27</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实</enterprise:有商标名称>
+	<enterprise:有注册号>14564130</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实">
+	<enterprise:有申请日期>13-6-20</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实</enterprise:有商标名称>
+	<enterprise:有注册号>12786311</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：实">
+	<enterprise:有申请日期>13-6-20</enterprise:有申请日期>
+	<enterprise:有商标名称>实</enterprise:有商标名称>
+	<enterprise:有注册号>12786316</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实">
+	<enterprise:有申请日期>13-6-20</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实</enterprise:有商标名称>
+	<enterprise:有注册号>12786311A</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实科技">
+	<enterprise:有申请日期>11-7-25</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实科技</enterprise:有商标名称>
+	<enterprise:有注册号>9758514</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京鼎实创新科技股份有限公司的商标信息：鼎实科技;鼎">
+	<enterprise:有申请日期>08-4-23</enterprise:有申请日期>
+	<enterprise:有商标名称>鼎实科技;鼎</enterprise:有商标名称>
+	<enterprise:有注册号>6678079</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：一种用于PROFIBUS的光纤接口转换模块的实现方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于PROFIBUS的光纤接口转换模块的实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510598531.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105262542A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：PROFIBUS DP与PROFINET通信网络通过共享存储器互连的方法">
+	<enterprise:有申请公布日>16-1-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>PROFIBUS DP与PROFINET通信网络通过共享存储器互连的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510599215.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105245424A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：基于FPGA技术实现PROFIBUS主站通信协议的方法">
+	<enterprise:有申请公布日>12-11-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于FPGA技术实现PROFIBUS主站通信协议的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010165868.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101841542B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：基于PROFIBUS报文快速识别的多端口控制方法">
+	<enterprise:有申请公布日>10-12-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于PROFIBUS报文快速识别的多端口控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810223199.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101374115B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：基于FPGA技术实现PROFIBUS主站通信协议的方法">
+	<enterprise:有申请公布日>10-9-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于FPGA技术实现PROFIBUS主站通信协议的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010165868.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101841542A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：具有中继功能的PROFIBUS集线器">
+	<enterprise:有申请公布日>09-7-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有中继功能的PROFIBUS集线器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200820122816.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201274492Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京鼎实创新科技股份有限公司的专利信息：基于PROFIBUS报文快速识别的多端口控制方法">
+	<enterprise:有申请公布日>09-2-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于PROFIBUS报文快速识别的多端口控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810223199.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101374115A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS冗余模块软件">
+	<enterprise:有批准日期>16-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS冗余模块软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DS-YLINK</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR363350</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS主站网关软件">
+	<enterprise:有批准日期>16-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS主站网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBMETH</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR317158</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS从站协议芯片软件">
+	<enterprise:有批准日期>16-9-26</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS从站协议芯片软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DSDPV1</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR275212</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS诊断工具软件">
+	<enterprise:有批准日期>14-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS诊断工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBStudio</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR041245</enterprise:有登记号>
+	<enterprise:有分类号>30208-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS/MODBUS总线桥软件">
+	<enterprise:有批准日期>15-3-11</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS/MODBUS总线桥软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBBMOD</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR043562</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实PROFIBUS光纤接口转换模块软件">
+	<enterprise:有批准日期>15-4-3</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实PROFIBUS光纤接口转换模块软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBOLM</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR059731</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实FAS专用网关配置软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实FAS专用网关配置软件</enterprise:有软件全称>
+	<enterprise:有软件简称>FASConfi</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048419</enterprise:有登记号>
+	<enterprise:有分类号>30104-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：鼎实以太网关配置软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>鼎实以太网关配置软件</enterprise:有软件全称>
+	<enterprise:有软件简称>MODConfi</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048422</enterprise:有登记号>
+	<enterprise:有分类号>30104-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：PBBCANOPEN总线桥软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>PBBCANOPEN总线桥软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBBCANOPEN</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048394</enterprise:有登记号>
+	<enterprise:有分类号>40000-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：PBBCAN总线桥软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>PBBCAN总线桥软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBBCAN</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048393</enterprise:有登记号>
+	<enterprise:有分类号>40000-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：PROFIBUS主站配置软件 [简称: PB-Conri] V2.0">
+	<enterprise:有批准日期>08-10-28</enterprise:有批准日期>
+	<enterprise:有软件全称>PROFIBUS主站配置软件 [简称: PB-Conri] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR27049</enterprise:有登记号>
+	<enterprise:有分类号>67500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：PBBRS总线桥软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>PBBRS总线桥软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBBRS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048388</enterprise:有登记号>
+	<enterprise:有分类号>40000-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京鼎实创新科技股份有限公司的软件著作：PBBMOD总线桥软件">
+	<enterprise:有批准日期>12-6-8</enterprise:有批准日期>
+	<enterprise:有软件全称>PBBMOD总线桥软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PBBMOD</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR048391</enterprise:有登记号>
+	<enterprise:有分类号>40000-3900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>c-profibus.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>c-profibus.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>io-link.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>io-link.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>profinet.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京鼎实创新科技股份有限公司的网站备案：北京鼎实创新科技有限公司">
+	<enterprise:有审核时间>16-2-23</enterprise:有审核时间>
+	<enterprise:有网站全称>北京鼎实创新科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-profibus.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>profinet.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05064887号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京鼎实创新科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京鼎实创新科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司产品市场需求略有下滑，近年营业收入出现波动</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京鼎实创新科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>是</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>煤炭、水泥、钢铁、电力等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>部分小规模客户有所减少，但公司积极开发新产品，开拓新的市场需求，经
+营状况良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京鼎实创新科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>部分客户的需求有所下降，公司为应对上述不利情况，积极开发新产品，分散经
+营风险</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京鼎实创新科技股份有限公司的企业类型">
+	<enterprise:企业类型>“瞪羚计划”重点培育企业 中关村高新技术企业 中关村代办股权转让系统挂牌 境内上市（XXX） </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京鼎实创新科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>近年我国各类工业企业为提高产品质量、增加经济效益不断进行技术的升级
+与改造，尤其是冶金、石化、造纸等行业改造力度尤为突出。上述行业内的企业对相关自动化产
+品有较大的需求，公司主营的自动化产品有较大的市场销售潜力。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京鼎实创新科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京鼎实创新科技股份有限公司的企业法人代表：唐济扬">
+	<enterprise:名称>唐济扬</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码>1101041905141612</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>C分布式控制系统的自动化工程项目。1999</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>-</enterprise:奖惩情况>
+	<enterprise:经历>1986年 1991年 北京机械工业学院 讲师
+22
+ecpa
+北京资信评级有限公司                               中关村科技园区企业信用评级
+1991年 2002年 7月 北京机械工业自动化研究所 研究员级高工、副总工程师
+2002年 7月 2002年 7月 北京鼎实创新科技有限公司 总经理
+其他兼职和社会任职(从最近年份开始填写)
+起始日期 结束日期 在何地区、何部门 任何职务
+2005年 2010年 中国 PROFIBUS用户组织 主席
+全国工业过程测量和控制标
+2002年起 至今 准化技术委员会 委员
+(SAC/TC124)</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京鼎实创新科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110112756742696C</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>未提供</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>未提供</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京鼎实创新科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>钴-60</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>进口</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>未提供</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>未提供</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>21.74</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>21.74</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京鼎实创新科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现不良</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>未提供</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京鼎实创新科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京鼎实创新科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京鼎实创新科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京鼎实创新科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>3</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>2</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京鼎实创新科技股份有限公司的专利数量">
+	<enterprise:专利总计>0</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京鼎实创新科技股份有限公司的商标数量">
+	<enterprise:商标总计>8</enterprise:商标总计>
+	<enterprise:商标数量2013>3</enterprise:商标数量2013>
+	<enterprise:商标数量2014>2</enterprise:商标数量2014>
+	<enterprise:商标数量2015>3</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京鼎实创新科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

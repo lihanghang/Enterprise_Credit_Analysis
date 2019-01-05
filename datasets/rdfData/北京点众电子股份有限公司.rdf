@@ -1,0 +1,1191 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京点众电子股份有限公司的企业概况">
+    <enterprise:有名称>北京点众电子股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110114774721901J</enterprise:有信用代码>
+    <enterprise:有登记机关>—</enterprise:有登记机关>
+    <enterprise:有中征码>从业人数（人）</enterprise:有中征码>
+    <enterprise:有基本账户开户行>注册登记日期</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>14</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2005</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5800.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2025</enterprise:有营业执照到期日>
+    <enterprise:有股本>5800.00</enterprise:有股本>
+    <enterprise:有经营范围>居家养老服务；社会看护与帮助服务；经济信息咨询（不含中介服务）；工程勘察设计；营销策划；软件开发；家庭劳务服务；市场调查；健康管理、健康咨询（须经审批的诊疗活动除外）；货物进出口、技术进出口、代理进出口；养老产品、计算机系统的技术开发、技术服务、技术咨询、技术服务；计算机系统服务；维修计算机；销售计算机、软件及辅助设备、广播电视设备、家用电器、电子产品；委托加工。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）居家养老服务；社会看护与帮助服务；经济信息咨询（不含中介服务）；工程勘察设计；营销策划；软件开发；家庭劳务服务；市场调查；健康管理、健康咨询（须经审批的诊疗活动除外）；货物进出口、技术进出口、代理进出口；养老产品、计算机系统的技术开发、技术服务、技术咨询、技术服务；计算机系统服务；维修计算机；销售计算机、软件及辅助设备、广播电视设备、家用...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>养老产业相关业务</enterprise:有主营业务>
+    <enterprise:有行业分类>老年人、残疾人养护服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市昌平区科技园区创新路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地东路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>胡大勇</enterprise:有联系人>
+    <enterprise:有联系电话>13911188838</enterprise:有联系电话>
+    <enterprise:有传真电话>010-84095810</enterprise:有传真电话>
+    <enterprise:有E-mail>hudy@ydgroups.com</enterprise:有E-mail>
+    <enterprise:有网址>www.dezeal.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京雅达养老产业股份有限公司（以下简
+称“公司”）于 2005年 5月 9日在北京市工商
+行政管理局昌平分局注册成立，现注册资本
+5800.00万元，公司于 2015年 1月在“新三板”
+挂牌，股份简称“雅达养老”，股份代码“831664”，
+股东出资金额及持股比例详见附录二表 13。 
+公司原名为北京利丰恒信科技发展有限公
+司（以下简称“利丰恒信”），于 2005年 5月 9
+日在北京市工商行政管理局昌平分局注册成立，
+初始注册资本 10.00 万元，由自然人谢普录、
+李洪波共同出资组建，股东出资金额及持股情
+况分别为：自然人谢普录以货币出资 8.00万元，
+持股 80.00%；自然人李洪波以货币出资 2.00
+万元，持股 20.00%。 
+2009年 12月 31日，利丰恒信申请注册名
+称变更，北京市工商行政管理局昌平分局核准
+了此次变更，名称变更为北京点众电子有限责
+任公司（以下简称“有限责任公司”）。 
+2014 年 6 月 27 日，有限责任公司整体变
+更为股份公司，同时名称变更为北京点众电子
+股份有限公司（以下简称“点众电子”）。有限
+责任公司以 2014年 5月 31日不高于审计值且
+不高于评估值的净资产按照 1.1:1 折股 800.00
+万元，其余部分计入资本公积。 
+2016 年 6 月 24 日，点众电子更名为现用
+名。 
+公司经营范围：“居家养老服务；社会看护
+与帮助服务；经济信息咨询（不含中介服务）；
+工程勘察设计；营销策划；软件开发；家庭劳
+务服务；市场调查；健康管理、健康咨询（须
+经审批的诊疗活动除外）；货物进出口、技术进
+出口、代理进出口；养老产品、计算机系统的
+技术开发、技术服务、技术咨询、技术服务；
+计算机系统服务；维修计算机；销售计算机、
+软件及辅助设备、广播电视设备、家用电器、
+电子产品；委托加工。（企业依法自主选择经营
+项目，开展经营活动；依法须经批准的项目，
+经相关部门批准后依批准的内容开展经营活动；
+不得从事本市产业政策禁止和限制类项目的经
+营活动。）”目前，公司主营业务为养老产业相
+关业务。 
+截至 2016年 6月底，公司资产总额 5677.71
+万元，固定资产净额 39.53 万元，所有者权益
+5636.86 万元；2015 年，公司实现营业收入
+609.02万元，利润总额-96.15万元；2016年 1~6
+月，公司实现营业收入 374.84万元，利润总额
+-29.29万元。公司现有员工 14人，在北京市属
+于小型企业。 
+公司注册地址：北京市昌平区科技园区创
+新路7号2号楼2233号；经营地址：北京市海淀
+区上地东路35号颐泉汇2号楼2单元216；法定代
+表人：周建平；统一社会信用代码：
+91110114774721901J；经营期限：自2005年5月
+9日至2025年5月8日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京点众电子股份有限公司的基础素质">
+    <enterprise:有管理素质>1  
+．高管素质
+公司法定代表人、董事长兼总经理周建平，
+40 岁，硕士研究生学历，曾担任雅达国际控股
+有限公司副总裁，2016年 6月加入公司，担任
+公司董事长兼总经理，目前周建平兼任浙江雅
+达置业有限公司董事长、浙江雅达国际健康产
+业园发展有限公司董事、总经理。 
+公司副总经理张继祥，45 岁，博士研究生
+学历，曾任轻工业部规划设计院结构设计师、
+北京思源宏业房地产经纪有限公司副总经理、
+北京鑫隆源房地产开发有限公司总经理、明发
+集团（长沙）房地产开发有限公司董事长助理、
+万通立体之城副总裁，2016年 6月起任公司副
+总经理。 
+公司董事会秘书胡大勇，44 岁，本科学历，
+曾任中国投资担保公司总裁办公室职员、北京
+美林房地产有限公司租赁部职员、北京科技园
+置地有限公司营销部职员，2016年 6月起任公
+司董事会秘书。 
+公司财务负责人杨小林，31 岁，本科学历，
+曾任中青旅控股股份有限公司审计部总经理助
+理，2016年 6月起任公司财务负责人。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2  
+．人力资源
+从学历构成看，公司员工学历均在本科及
+以上，员工整体学历水平高。 
+从年龄构成来看，公司员工年龄在 45 岁及
+以下的占比 92.86%，员工年龄呈年轻化。 
+从岗位构成看，公司管理人员占比 35.71%、
+技术人员占比 28.57%、作业人员占比 35.72%，
+岗位构成合理，符合公司的经营特点。 
+总体看，公司员工整体学历水平高，员工
+结构符合公司的经营特点。 
+3  
+．研发人员素质
+公司现有专职研发人员 10人，学历均在本
+科及以上，公司研发人员学历水平高。 
+公司主要研发人员龙小飞，36 岁，硕士研
+究生学历，曾任职于微软公司操作系统事业部，
+历任软件开发工程师、资深软件开发主管、项
+目经理等职，2014年 7月加入公司，担任公司
+技术总监。 
+总体看，公司研发人员学历水平高，主要
+技术人员有一定的研发经验。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司养老建设事业部负责研发工作，目前
+研发方向主要为养老用品的研发。 
+近三年，公司研发投入分别为 48.89万元、
+93.59万元、51.80 万元，分别占当年营业收入
+的 4.28%、9.69%、8.51%，公司研发投入主要
+为研发人员工资，研发投入力度较大。 
+总体看，公司科研条件能满足当前研发需
+求。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>48.89万元,93.59万元,51.80万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>4.28%,9.69%,8.51%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京点众电子股份有限公司的经营管理">
+    <enterprise:其经营分析为>1  
+．经营条件
+公司经营地位于北京市海淀区上地东路
+35号颐泉汇 2号楼 2单元 216，建筑面积共计
+427.96 平方米，使用方式为租赁，公司办公地
+所处位置交通便利。 
+表 2 公司资质信息 
+序号 资质证书名称 
+国家高新技术企业 
+1 
+（证书编号：GR201311000069，有效期至 2016 年 11 月） 
+软件企业认定证书 
+2 
+（有效期至 2019 年 5 月） 
+中关村高新技术企业 
+3 
+（证书编号：20142030246201，有效期至 2017 年 2 月） 
+资料来源：公司提供，联合信用整理 
+公司资质情况详见上表 2所示，目前资质
+水平能够满足公司经营需求。 
+公司成立时间长，成立以来多次入围北京
+市及各区县教委的信息化建设项目，拥有一定
+的市场占有率。 
+公司为“北京教育装备行业协会会员”；公
+司自主研发的教学会议终端等产品已取得《中
+国国家强制性产品认证证书》、《中国节能产品
+认证证书》。 
+总体看，公司资质水平能够满足公司经营
+需求，经营条件较好。 
+2  
+．业务运作
+公司成立之初主要为校园信息化、教育信
+息化的软硬件服务提供商，拥有一支在教育信
+息化行业具有丰富的业务经验和市场经验的专
+业技术团队，为以学校、教育机构、幼儿园为
+主的客户提供校园信息化定制化解决方案，并
+提供上门技术实施服务，但近年来公司业务一
+直处于下滑趋势，一是由于教育多媒体市场需
+求不足，二是由于预计的项目延期实施，导致
+公司收入下降。2016年 6月开始，公司领导班
+子进行了更换，现有领导班子在原有业务的基
+础上，瞄准中国快速老龄化带来的巨大商业前
+景，明确了向养老产业转型的战略方向，开展
+养老产业相关业务的探索尝试。依托挂牌公司
+平台和新加入的管理团队丰富的产业经验，与
+养老市场业务需求进行积极对接，并和海南第
+一投资集团建立战略合作伙伴关系，向其海南
+阳光城项目配套设施提供养老功能空间设计以
+及养老服务体系建设的咨询服务，为公司培育
+养老产业相关业务奠定了良好基础。 
+公司业务主要分为对养老产业有巨大参与
+意愿的政府部门、地产商、保险公司和养老机
+构等提供包括但不限于养老产业投融资、养老
+园区和养老设施的规划、建设和运营全程服务、
+养老用品的研发销售和配置服务，同时在养老
+服务等核心领域通过机构运营和品牌合作等模
+式开展业务。公司通过上述养老产业链领域业
+务的聚集效益，实现公司规模化的经营收益。
+（目前公司已与海南第一投资集团签订合同，
+为其“颐养公社阳光城”项目提供养老服务体
+验区策划、定位和设计服务）。 
+公司主要采取直销的模式进行销售，客户
+主要为房地产开发商、政府机构、保险机构及
+养老院，与客户的结算方式一般为预收 20%，
+按进度进行收款，项目交付后清尾款，对于规
+划、建设类项目，项目周期一般在 3~6个月，
+施工方面，公司目前主要采取外包的形式，与
+外包商按合同约定结算。 
+目前，公司业务重点由校园信息化行业的
+软硬件及服务提供向养老产业转移，由于国内
+养老产业发展尚不成熟，公司新型业务的开展
+存在不稳定性，在一定程度上可能影响到公司
+业绩。 
+总体看，公司处于转型期，整体经营情况
+有待跟踪。 
+3  
+．经营效率
+表 3 公司近三年主要经营指标 
+财务指标 2013 年 2014 年 2015 年 
+成本率(%) 99.83 115.75 123.69 
+管理费用率(%) 15.34 30.94 35.93 
+应收账款周转次数(次) 155.41 13.87 3.76 
+存货周转次数(次) 2.75 1.79 1.26 
+总资产周转次数(次) 1.31 1.09 0.71 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率呈上升趋势，始终处
+于行业高水平，一方面由于产品委托加工成本
+（原有业务委托外协厂商进行产品的生产）较
+高，另一方面由于公司保持较大的研发投入力
+度及产品推广力度；同期，公司管理费用率呈
+上升趋势，主要由于公司业务收入下降所致。 
+近三年，公司存货周转次数呈下降趋势，
+处于行业较低水平；同期，公司应收账款周转
+次数变动幅度大，2015年已降至行业较低水平；
+同期，公司总资产周转次数呈逐年下降趋势，
+处于行业一般水平。 
+由于近三年经营效率指标均为公司转型前
+的数据，与现有业务出入较大，联合信用认为
+该数据不能成为判断公司当前经营效率的依据，
+公司未来整体经营效率有待跟踪。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1  
+．法人治理及组织架构
+股东大会是公司的权力机构，行使决定公
+司的经营方针和投资计划等职权。 
+公司设董事会，董事会行使执行股东大会
+决议、制订公司年度财务预算方案和决算方案
+等职权。公司董事会由 5名董事组成，董事会
+设董事长 1名，董事长为公司法定代表人，现
+由周建平担任。 
+公司设监事会，监事会行使检查公司财务，
+并对董事、高级管理人员执行公司职务的行为
+进行监督等职权。公司监事会由 3名监事组成，
+监事会设监事会主席 1名。 
+公司设总经理 1名，总经理由董事长周建
+平兼任，行使主持公司的经营、管理工作等职
+权。 
+公司内设综合行政部、资金财务部、战略
+发展部、养老建设事业部。 
+公司拥有 1家分公司——上地分公司，主
+要负责开发市场及项目实施。 
+总体看，公司法人治理结构基本完善，组
+织架构清晰。 
+2  
+．制度建设及执行
+公司根据经营管理需要，制定了《财务管
+理规定》、《资金管理办法》、《薪酬管理规定》、
+《办公秩序管理规定》等规章管理制度，实际
+经营过程中，严格执行制度。 
+总体看，公司制度建设较完善，执行情况
+较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1  
+．发展计划
+公司在原有业务的基础上，瞄准中国快速
+老龄化带来的巨大商业前景，明确了向养老产
+业转型的战略方向；公司将利用资本平台优势，
+完善养老产业链条，着力克服业务转型及管理
+团队更替带来的风险，实现公司业务的持续发
+展和成功转型。 
+2  
+．融资需求
+公司短期内有 1000.00 万元的融资需求，
+希望通过银行贷款取得，主要用于拓展公司业
+务，增加科研投入，公司股东愿意作个人连带
+保证。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京点众电子股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 766.64万元、
+1001.82 万元、714.13 万元，复合变动率为
+-3.49%，2014 年较 2013 年有所上升，主要原
+因为公司年底对客户的部分货款未收回导致应
+收账款较大，2015 年，公司资产总额较 2014
+年下降，体现在货币资金及存货的下降，货币
+资金方面主要原因为公司偿还了银行贷款，存
+货下降是由于公司处理库存导致。 
+截至 2016年 6月底，公司资产总额 5677.71
+万元，其中：流动资产占比 99.20%，非流动资
+产占比 0.80%。 
+截至 2016年 6月底，公司流动资产 5632.30
+万元，主要为：货币资金 617.54 万元，占比
+10.96%；其他流动资产 4650.00 万元，占比
+82.56%，为公司于 2016 年 6 月 21 日购买的
+中国农业银行股份有限公司“本利丰步步高”
+开放式理财产品（该产品为保本浮动收益类，
+属于低风险理财产品）。 
+图 1  公司 2016 年 6 月底流动资产构成 
+截至 2016年 6月底，公司非流动资产 45.41
+万元，其中：固定资产净额 39.53 万元，占比
+87.06%，主要办公用品、交通工具等；无形资
+产 5.31万元，占比 11.70%，为公司的知识产权
+等；递延所得税资产 0.56万元，占比 1.23%。 
+总体看，公司资产流动性强，资产质量较
+好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，2016 年 6 月底，
+公司流动比率为 13786.66%，处于行业高水平，
+公司速动比率为 13241.46%，处于行业高水平；
+公司短期偿债能力强。 
+从长期偿债能力看，2015年，公司 EBITDA
+值为-91.88 万元，对公司的长期债务的保障能
+力弱。 
+结合公司经营情况和资产规模总体看，公
+司未来一年整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为 229.23万元、
+236.78万元、45.24万元，复合变动率为-55.58%，
+下降快速，主要由于公司 2015年偿还了 200.00
+万元银行贷款所致。 
+近三年，公司资产负债率分别为 29.90%、
+23.63%、6.33%。2014 年，公司全部债务资本
+化比率为 20.72%。截至 2016 年 6 月底，公司
+资产负债率为 0.72%，公司负债水平低，无有
+息债务。 
+图 2  公司 2016 年 6 月底流动负债构成 
+截至 2016年 6月底，公司负债总额 40.85
+万元，全部为流动负债，主要为：应付职工薪
+酬 16.22 万元，占比 39.69%；应交税费 23.99
+万元，占比 58.71%。 
+近三年，公司所有者权益分别为 537.41万
+元、765.05万元、668.89万元，复合增长率为
+11.56%，主要受益于公司增资；近三年，公司
+未进行利润分配。 
+截至 2016 年 6 月底，公司所有者权益
+5636.86 万元，其中：实收资本 5800.00 万元；
+资本公积 81.67万元；未分配利润-244.81万元。 
+总体看，公司负债水平低，无有息债务，
+所有者权益对债务保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 1142.96 万
+元、965.90万元、609.02万元，复合变动率为
+-27.00%，一是由于教育多媒体市场需求不足，
+二是由于预计的项目延期实施，导致公司收入
+下降；同期，利润总额分别为 4.88万元、-114.64
+万元、-96.15 万元，呈下降趋势，公司登陆资
+本市场，中介费用较大，导致公司亏损。 
+   图 3  公司近三年盈利能力指标变动趋势 
+从盈利能力来看，近三年，公司主营业务
+利润率分别为 22.35%、28.02%、29.91%，加权
+平均值为 27.83%，处于行业较低水平；同期，
+公司净资产收益率分别为 0.75%、-17.51%、
+-13.41%；同期，总资产报酬率分别为 1.57%、
+-12.17%、-11.08%。2014年、2015年，公司净
+资产收益率及总资产报酬率均为负数，由于公
+司经营亏损所致。 
+从收入实现质量看，近三年，公司现金收
+入比分别为 130.46%、101.80%、107.94%，加
+权平均值为 110.60%，收入实现质量较高。 
+由于近三年盈利能力指标均为公司转型前
+的数据，与现有业务出入较大，联合信用认为
+该数据不能成为判断公司盈利能力的依据，公
+司未来盈利能力有待跟踪。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京点众电子股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录；未发现公司有对外担保等
+或有负债；未发现公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中国养老产业尚处于初级阶段，成熟盈利
+模式缺乏，专业化程度较低，护理人员不足，
+政策支持体系落实缓慢，市场对从事养老服务
+的机构认可度有限，从事养老机构投融资、运
+营管理业务具有一定风险性。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）目前，公司业务重点由校园信息化
+行业的软硬件及服务提供向养老产业转移，由
+于国内养老产业发展尚不成熟，公司新型业务
+的开展存在不稳定性，在一定程度上可能影响
+到公司业绩。 
+（2）由于公司确定战略转型，增量业务
+暂时无法弥补原有业务盈利性不足的问题，公
+司经营状况有待跟踪。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>联合信用未发现公司存在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京点众电子股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>766.64 </enterprise:资产总额>
+    <enterprise:所有者权益>537.41 </enterprise:所有者权益>
+    <enterprise:负债总额>229.23 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1142.96 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京点众电子股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>1001.81 </enterprise:资产总额>
+    <enterprise:所有者权益>765.05 </enterprise:所有者权益>
+    <enterprise:负债总额>236.78 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>965.90 </enterprise:营业收入>
+    <enterprise:EBITDA>3.19 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京点众电子股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>714.13 </enterprise:资产总额>
+    <enterprise:所有者权益>668.90 </enterprise:所有者权益>
+    <enterprise:负债总额>45.24 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>609.02 </enterprise:营业收入>
+    <enterprise:EBITDA>-13.85 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京点众电子股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.31 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>155.41 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.75 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京点众电子股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.09 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>13.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.79 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京点众电子股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.71 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.76 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.26 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京点众电子股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>33.25 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京点众电子股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>30.16 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京点众电子股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>26.09 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京点众电子股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>327.52 </enterprise:流动比率>
+    <enterprise:速动比率>174.80 </enterprise:速动比率>
+    <enterprise:资产负债率>29.90 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京点众电子股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>418.11 </enterprise:流动比率>
+    <enterprise:速动比率>241.24 </enterprise:速动比率>
+    <enterprise:资产负债率>23.64 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京点众电子股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>1472.26 </enterprise:流动比率>
+    <enterprise:速动比率>920.40 </enterprise:速动比率>
+    <enterprise:资产负债率>6.33 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京点众电子股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>22.62 </enterprise:毛利率>
+    <enterprise:成本费用利润率>18.63 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.30 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>87.87 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京点众电子股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>28.61 </enterprise:毛利率>
+    <enterprise:成本费用利润率>30.25 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.02 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-103.37 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>20.72 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京点众电子股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.75 </enterprise:毛利率>
+    <enterprise:成本费用利润率>36.51 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.08 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>96.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京点众电子股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>152.52 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1.01 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>165.34 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>81.83 </enterprise:其他应收款>
+    <enterprise:存货>350.07 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>750.77 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>15.11 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.76 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>15.87 </enterprise:非流动资产合计>
+    <enterprise:资产总计>766.64 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京点众电子股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>272.32 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>138.24 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>140.04 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>20.61 </enterprise:其他应收款>
+    <enterprise:存货>418.79 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>990.00 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>6.20 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4.37 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.24 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>11.81 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1001.81 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京点众电子股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>113.10 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>186.10 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>58.65 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>58.54 </enterprise:其他应收款>
+    <enterprise:存货>249.66 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>666.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>42.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3.91 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>1.24 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>48.08 </enterprise:非流动资产合计>
+    <enterprise:资产总计>714.13 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京点众电子股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>200.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.43 </enterprise:应付账款>
+    <enterprise:预收款项>5.40 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>25.63 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>4.93 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.39 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>236.78 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>236.78 </enterprise:负债合计>
+    <enterprise:实收资本或股本>800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>81.67 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-116.62 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>765.05 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>765.05 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1001.83 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京点众电子股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>200.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.43 </enterprise:应付账款>
+    <enterprise:预收款项>5.40 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>25.63 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>4.93 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.39 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>236.78 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>236.78 </enterprise:负债合计>
+    <enterprise:实收资本或股本>800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>81.67 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-116.62 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>765.05 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>765.05 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1001.83 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京点众电子股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.39 </enterprise:应付账款>
+    <enterprise:预收款项>0.65 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>11.39 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>32.33 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>0.48 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>45.24 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>45.24 </enterprise:负债合计>
+    <enterprise:实收资本或股本>800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>81.67 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-212.77 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>668.90 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>668.90 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>714.14 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京点众电子股份有限公司2013年利润表">
+    <enterprise:营业收入>1142.96 </enterprise:营业收入>
+    <enterprise:主营业务收入>1142.96 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>884.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>884.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.03 </enterprise:营业税金及附加>
+    <enterprise:销售费用>69.48 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>175.04 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>8.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>177.02 </enterprise:营业利润>
+    <enterprise:营业外收入>3.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.10 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>179.92 </enterprise:利润总额>
+    <enterprise:所得税费用>1.22 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>178.70 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>178.70 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京点众电子股份有限公司2014年利润表">
+    <enterprise:营业收入>965.90 </enterprise:营业收入>
+    <enterprise:主营业务收入>965.90 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>689.54 </enterprise:营业成本>
+    <enterprise:主营业务成本>689.54 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.69 </enterprise:营业税金及附加>
+    <enterprise:销售费用>62.53 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>345.97 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>6.85 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>7.48 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>193.81 </enterprise:营业利润>
+    <enterprise:营业外收入>37.52 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>231.33 </enterprise:利润总额>
+    <enterprise:所得税费用>0.61 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>230.72 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>230.72 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京点众电子股份有限公司2015年利润表">
+    <enterprise:营业收入>609.02 </enterprise:营业收入>
+    <enterprise:主营业务收入>609.02 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>421.77 </enterprise:营业成本>
+    <enterprise:主营业务成本>421.77 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.09 </enterprise:营业税金及附加>
+    <enterprise:销售费用>50.08 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>270.66 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.98 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>4.70 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>126.40 </enterprise:营业利润>
+    <enterprise:营业外收入>48.10 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>174.50 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>174.50 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>174.50 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京点众电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1491.13 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1491.13 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1072.77  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>77.76 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>8.28 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>130.90 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1289.71 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>201.42 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.81 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.81 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.81 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>100.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>200.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>8.83 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>208.83 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-108.83 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>89.78 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京点众电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>983.29 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>1.94 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>186.38 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1171.61 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>822.28  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>125.93 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>93.63 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>374.52 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1416.36 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-244.75 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>4.26 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>4.26 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-4.26 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>225.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>200.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>425.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>7.08 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>7.08 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>417.92 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>168.91 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京点众电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>657.35 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>17.81 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>332.52 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1007.68 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>423.25  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>182.01 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>81.71 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>277.28 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>964.25 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>43.43 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>20.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>20.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1.56 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1.56 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>18.44 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>200.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1.10 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>201.10 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-201.10 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-139.23 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京点众电子股份有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：谢普录 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>谢普录 </enterprise:股东名称>
+	 <enterprise:货币>400.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>6.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：李洪波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李洪波 </enterprise:股东名称>
+	 <enterprise:货币>100.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.72%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：龙小飞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>龙小飞 </enterprise:股东名称>
+	 <enterprise:货币>36.96万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.64%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：高树堂 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>高树堂 </enterprise:股东名称>
+	 <enterprise:货币>36.96万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.64%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：王小兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王小兵 </enterprise:股东名称>
+	 <enterprise:货币>24.64万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.42%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：刘汉玉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘汉玉 </enterprise:股东名称>
+	 <enterprise:货币>24.64万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.42%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：郑振新 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郑振新 </enterprise:股东名称>
+	 <enterprise:货币>16.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.28%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：张海军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张海军 </enterprise:股东名称>
+	 <enterprise:货币>12.32万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.21%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：李港 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李港 </enterprise:股东名称>
+	 <enterprise:货币>12.32万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.21%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：范嫦娥 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>范嫦娥 </enterprise:股东名称>
+	 <enterprise:货币>12.32万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.21%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京点众电子股份有限公司股东：郝香国 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郝香国 </enterprise:股东名称>
+	 <enterprise:货币>8.16万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.14%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="北京点众电子股份有限公司的员工基本信息">
+	<enterprise:有从业人数>14</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:13,25岁以下:0,45岁以上:1</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:14,高中及以下:0,专科:0</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:5,技术人员:4,作业人员:5</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:14人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京点众电子股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>是</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司业务重点由校园信息化行业的软硬件及服务提供向养老产业转移</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京点众电子股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>未提供</enterprise:现有主要客户>
+	<enterprise:目前经营状况>公司处于转型期，整体经营情况有待跟踪</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京点众电子股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京点众电子股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京点众电子股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京点众电子股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京点众电子股份有限公司的企业法人代表：周建平">
+	<enterprise:名称>周建平</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>40</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>1976-12</enterprise:出生年月>
+	<enterprise:身份证号码>110221197612288317</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>董事长兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1976-12 
+家庭住址 — 邮政编码 — 
+身份证号码 110221197612288317 政治面貌 — 
+学历 硕士研究生 学位 硕士 职称 — 现任职务 董事长兼总经理 
+联系电话 — 传真 — E-mail — 
+发明创造、 
+— 
+科研成果和著作 
+何时何地因何原因 
+— 
+受到过何种重要奖惩 
+学习及工作简历 
+起止日期 在何地区、何学校、何部门 获何学位、任何职务 
+2011 年 4 月 2016 年 8 月 雅达国际控股有限公司 副总裁 
+2012 年 6 月 至今 浙江雅达国际健康产业园发展有限公司 董事、总经理 
+2012 年 6 月 至今 浙江雅达置业有限公司 董事长 
+2016 年 6 月 至今 北京雅达养老产业股份有限公司 董事长、总经理 
+起止日期 在何地区何部门 任何职务 
+— — — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京点众电子股份有限公司的下属单位：上地分公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>上地分公司</enterprise:名称>
+	<enterprise:主要职能>开发市场及项目实施</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京点众电子股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>9111011432714054XA</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>-</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>-</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>-</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京点众电子股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>未提供</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>0.00</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0.00</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京点众电子股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京点众电子股份有限公司2016年的预测项目：：公司短期内有">
+	<enterprise:预测项目名称>：公司短期内有</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1000.00万元的融资需求，希望通过银行贷款取得，</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京点众电子股份有限公司2017年的预测项目：：公司短期内有">
+	<enterprise:预测项目名称>：公司短期内有</enterprise:预测项目名称>
+	<enterprise:预测项目金额></enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+</rdf:RDF>

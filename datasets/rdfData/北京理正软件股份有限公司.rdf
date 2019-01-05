@@ -1,0 +1,2291 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京理正软件股份有限公司的企业概况">
+    <enterprise:有名称>北京理正软件股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>AZC</enterprise:有信用等级>
+    <enterprise:有信用代码>91110102101433374X</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>1101000002102304</enterprise:有中征码>
+    <enterprise:有基本账户开户行>光大银行西城支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>262</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2015.4.13</enterprise:有注册登记日期>
+    <enterprise:有注册资本>注册登记日期</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>营业执照到期日</enterprise:有股本>
+    <enterprise:有经营范围>基础软件服务；应用软件服务；技术推广；计算机系统服务；数据处理；计算机维修；销售计算机、软件及辅助设备、通讯设备、电子产品、器件和元件；市政建设及规划咨询；工程造价咨询；工程技术咨询；室内装饰工程设计；住宅小区规划设计；风景园林工程设计；产品设计。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）基础软件服务；应用软件服务；技术推广；计算机系统服务；数据处理；计算机维修；销售计算机、软件及辅助设备、通讯设备、电子产品、器件和元件；市政建设及规划咨询；工程造价咨询；工程技术咨询；室内装饰工程设计；住宅小区规划设计；风景园林工程设计；产品设计。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>工程计算机辅助设计软件开发、生产和销售</enterprise:有主营业务>
+    <enterprise:有行业分类>计算机服务与软件业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市西城区新街口外大街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市西城区车公庄大街甲</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100044</enterprise:有邮政编码>
+    <enterprise:有联系人>许英志</enterprise:有联系人>
+    <enterprise:有联系电话>68002237-507</enterprise:有联系电话>
+    <enterprise:有传真电话>68008001</enterprise:有传真电话>
+    <enterprise:有E-mail>xingzheng@lizheng.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.lizheng.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>理正软件成立于 1995年 7月 3日，前身为
+北京理正软件研究所，初始注册资本为
+10.00万元；2001 年 5月改制为北京理正软件
+设计研究院有限公司，注册资本 200.00万元；
+2011年 1月，注册资本增至 3,260.00万元；
+2012年 5月，公司以净资产折股，整体变更为
+“北京理正软件股份有限公司”，注册资本增
+至 4,200.00万元；目前公司注册资本为
+4,200.00万元，股东为原杨、原音、陈卫以及
+其他出资人，持股比例分别为 26.00%、
+21.12%、7.34%和 45.54%，法定代表人为原杨。
+公司主要从事勘察设计行业信息化以及政
+府信息化领域的软件研发和销售，目前公司开
+发的软件已涵盖计算机辅助设计（Computer 
+Aided Design,以下简称“CAD”）、勘察设计
+企业信息化、工程建设管理信息化三大产品及
+服务板块，产品及服务应用于建筑、规划、铁
+路等 22个领域。公司是北京市高新技术企业、
+“双软”（软件企业、软件产品）认证企业以
+及中国电子政务 IT百强企业。公司获得
+ISO9001质量管理体系认证以及 CMMI（软件能
+力成熟度）3级评估认证。
+公司拥有一家全资子公司为北京理正人信
+息技术有限公司（以下简称“理正人”），理
+正人成立于 2002年 6月，目前主要从事电子政
+务领域的软件研发及销售，2015 年实现营业收
+入 3,381.84万元。
+截至 2015年末，公司资产总额
+8,849.43万元，负债总额 1,556.78万元，资产
+负债率 17.59%。当年实现营业收入 6,292.86万
+元，利润总额 455.46万元，经营性净现金流
+515.09万元。2016 年 1～6 月，公司实现营业
+收入 2,117.09万元，利润总额-508.79 万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京理正软件股份有限公司的基础素质">
+    <enterprise:有管理素质>公司员工整体素质较好，主要管理人员具
+4 中华人民共和国住房和城乡建设部发布的
+《2015 年全国工程勘察设计统计公报》。
+5 中国勘察设计协会 2015年 10月发布的
+《“十三五”工程勘察设计行业信息化工作
+指导意见（征求意见稿）》。
+有较丰富的行业经验和管理经验，有利于公司
+的稳定发展
+截至 2016年 6月末，公司共有员工 262人，
+其中管理人员 52人，技术人员 210人。从学历
+构成上看，本科及以上 182人，占员工总数的
+69.47%，公司员工整体素质较好。
+公司主要高层管理人员具有较为丰富的行
+业经验和管理经验。其中，总经理原音为经济
+师，曾任北京理正软件设计研究院院长，并有
+多年在外资企业从事管理工作的相关经验；副
+总经理杨国平为工程师，毕业于清华大学，拥
+有博士学位，曾任职于北京建业工程设计软件
+研究院，一直从事建筑领域 CAD设计研发工作，
+曾获第四届技术市场金桥奖,参编多项国家与行
+业的建筑信息模型（Building Information 
+Modeling,BIM）标准；财务总监原杨为会计师，
+于 2004年起担任北京市西城区政协委员，在北
+京市西城区月坛街道办事处担任 10年的干部职
+务，曾任职于清华大学出版社、北京海淀综合
+贸易公司，有 20余年的财务管理工作经验和行
+业经验。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司科研人员整体素质较高，研发经验丰
+富，为公司业务的持续发展和技术提升提供了
+保障
+公司共有研发人员 189人，占员工总数的
+72.14%，其中博士学历 4人、硕士 28人、本科
+101人、大专及其他 56人，本科及以上共占研
+发人员总数的 70.37%，研发人员整体素质较高。
+公司主要研发人员均有多年勘察设计领域
+的软件研发与实施经验，研发创新能力较强、
+研发经验丰富。其中，研发团队带头人陈卫，
+拥有建筑设计博士学位，为高级工程师，曾任
+中国建筑北京设计研究院主任、北京建业工程
+设计研究院主任和北京国建设计公司三所副所
+长；高晓军，研究员，哈尔滨建筑工程学院博
+士毕业，曾在高校任教，近十年一直从事建筑
+工程结构工作。陈卫、高晓军等主持研发的
+“土木工程地基基础计算机辅助设计系统”获
+北京市科学技术进步奖一等奖，二人均享受国
+务院政府特殊津贴。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司研发部门设置较为合理，研发投入较
+大，为技术研发奠定了基础
+公司重视研发团队的建设，分别设置了七
+个开发部门，每个开发部门内部划分不同的项
+目组，分担不同产品的研发工作，每个项目组
+均按照项目的交接、策划、评审、设计与实践、
+采购、测试记录和电话记录等工作流程具体实
+施。根据国家政策及其将推动的市场需求，公
+司 2015年在研发部中新设 2个互联网+项目组
+开展相关基础研究，进行技术探索及经验积累，
+增加未来开发相关领域产品及服务的底层技术
+实力。
+公司的实验室设备与管理状况良好，设备
+系统自成体系。公司注重研发投入，2013～
+2015年公司的研发费用分别为 1,706.64万元、
+1,459.22万元和 1,360.60万元，研发投入较大，
+占当年营业收入的比重分别为 27.15%、
+22.85%和 21.62%。研发费用仅包括公司自主开
+展的基础科研项目，不包括客户委托项目中的
+研发投入。研发费用主要是人力成本，公司根
+据市场前景、研发计划、研发方向配置研发人
+员。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>706.64万元,459.22万元,360.60万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>27.15%,22.85%,21.62%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京理正软件股份有限公司的经营管理">
+    <enterprise:其经营分析为>近三年公司业务规模稳定，收入主要来源
+于 CAD软件产品销售和技术开发服务项目
+公司收入主要来源于两部分，一是软件产
+品销售，二是软件开发、服务及咨询收入。公
+司主营业务包括三大板块，计算机辅助设计、
+勘察设计企业信息化及工程建设管理信息化。
+计算机辅助设计业务属于软件产品业务大类，
+主要包括理正边坡治理系统及软件、软基处理
+及水利工程设计及计算分析软件、理正勘察及
+GIS6系列系统及软件、协同 CAD设计软件、
+BIM软件。勘察设计企业信息化业务属于技术开
+发、服务及咨询业务大类，主要包括企业平台、
+企业综合管理系统、项目管理系统、协同设计
+产品及综合解决方案。工程建设管理信息化也
+属于技术开发、服务及咨询业务大类，主要包
+括项目全生命周期管理平台、外部协作与监管
+平台、综合办公管理系统以及数据资源管理系
+统。公司为勘察设计行业提供持久、专业化、
+全方位的信息技术服务，业务范围涉及建筑、
+规划、铁路、交通、市政、水利、电力、冶金、
+煤炭、邮电、石油、石化、煤炭等 22个行业。
+2013～2015 年，公司实现营业收入分别为
+6,286.14万元、6,385.45 万元和 6,292.86万
+元，收入规模较为稳定。同期，公司综合毛利
+率分别为 48.47%、48.68%和 55.87%，毛利率逐
+年升高。2015 年毛利率升高主要由于 2015年人
+员职能进一步专业化细分，之前担任自主研发
+项目的人员不再兼任委托研发项目，因此这部
+分人员成本由主营业务成本转为费用化的研发
+费。
+2013～2015 年，公司软件产品实现收入分
+别为 3,041.10万元、3,048.09 万元和
+2,932.76万元，占当年营业收入的比重分别为
+48.38%、47.73%和 46.60%。软件产品收入主要
+来源于计算机辅助设计 CAD软件，小部分收入
+6 地理信息系统（Geographic Information 
+System或 Geo－Information system，
+GIS）
+来源于协同设计软件。该类业务收入略有下降，
+主要由于 CAD软件应用于建筑领域，普及率已
+较高，市场知名品牌较多，竞争较为激烈，且
+受到下游建筑行业及相关设计业增速下滑影响。
+同期，软件产品的毛利率分别为
+54.40%、53.48%和56.35%，毛利率较为稳定。
+软件开发、服务及咨询业务包括勘察设计
+企业信息化业务及工程建设管理信息化业务。
+勘察设计企业信息化服务涵盖综合办公、设计
+项目管理、工程建设管理、协同设计、知识资
+源管理、辅助决策、移动办公等领域，其中的
+协同设计技术服务由于收入占总收入比例较小，
+且与信息化项目或 CAD软件捆绑销售，自
+2015年起不再单独作为产品大类；工程建设管
+理信息化业务主要提供工程项目信息化管理解
+决方案。软件开发、服务及咨询业务主要根据
+客户的需求进行定制，按照项目订单签约方式
+进行不同类型技术开发服务的捆绑销售。
+2013～2015 年，软件开发、服务及咨询业务实
+现收入分别为 3,245.04万元、3,337.36 万元和
+3,356.32万元，占营业收入的比重分别为
+51.62%、52.27%和 53.34%，逐年上升，主要是
+近两年订单量有所回升，所以收入有所上升。
+同期，软件开发、服务及咨询业务的毛利率分
+别为 43.43%、41.61%和 55.52%，有所波动，
+2014年下降的主要原因是公司在基础研发上投
+入人力增加，但由于人员兼职做项目研发，此
+部分费用仍计入营业成本所致；2015 年大幅上
+涨的主要原因是审计时将管理系统的基础研发
+费用计入管理费用，导致营业成本降低所致。
+公司上游采购规模较小，下游销售以直销
+为主，客户分布较广，集中度较低
+公司上游采购原材料主要包括软件、软加
+密和办公用品、硬件设备等,目前公司主要原材
+料供货商为北京腾达环宇信息技术有限公司、
+北京比特安索信息技术有限公司，公司 2015年
+软件、软加密采购金额为 26.00万元，办公用
+品及硬件设备主要从京东网站采购，整体采购
+集中度较高，公司与上述供应商为长期合作关
+系，供货稳定。软加密的采购价格为双方协商
+约定，办公用品、硬件设备及软件的采购价格
+由供应商按照市场批发价格定价，近年来上游
+原材料的价格总体平稳。公司与上游供货商的
+结算方式主要为货到付款。由于公司为批量采
+购，公司对上游供应商的议价能力较强。
+公司下游销售方式主要为直销，下游客户
+主要为全国范围内的设计院、工程公司、业主、
+施工企业、监理企业等勘查工程建设企业，以
+及工程代建单位、建管公司、（Engineering 
+Procurement Construction，EPC）工程公司、
+总承包企业，客户分布较广。目前公司前五大
+客户是中国移动通信集团设计院有限公司、中
+铁第四勘察设计院集团有限公司、苏州金螳螂
+建筑装饰股份有限公司、江苏筑森建筑设计有
+限公司、中国民航机场建设集团公司规划设计
+总院，均为技术服务业务客户，2015 年公司前
+五大客户的销售额合计占总收入的 17.12%，客
+户集中度较低。公司软件产品与下游客户结算
+方式为货到付款，软件开发、服务及咨询业务
+与下游主要客户的结算方式通常为签订合同时
+收取 30.00%、试运行时收取 30.00%、验收结束
+收取 30.00%、剩余 5.00%～10.00%为质保金，
+质保期通常为 1年，除质保金以外，所有款项
+可于验收结束后三个月内收回，公司与客户签
+订的合同有效期一般为 2～3年。
+公司技术实力较强，在勘察设计软件细分
+领域具有较强的竞争力
+公司是北京市高新技术企业，“双软”
+（软件企业、软件产品）认证企业。公司获得
+ISO9001质量管理体系认证、CMMI（软件能力成
+熟度）3级评估认证。
+公司自成立以来，一直专注于勘察设计行
+业信息化以及政府信息化领域的软件研发，目
+前已形成涵盖企业管理信息系统、协同设计、
+CAD计算机辅助设计、政府信息化的全面产品体
+系，业务涉及建筑、规划、铁路、公路、市政、
+水利、电力、冶金、地矿、邮电、石油等 22个
+行业，用户分布涵盖全国 31个省市区，细分产
+品岩土工程软件及勘察软件的市场占有率一直
+名列前茅。
+公司的专业工程 CAD软件被建设部认定为
+CAD行业的主要品牌，其应用集成平台拥有近
+20年的技术积累，业内知名度较高。公司研发
+的理正建设企业管理信息系统获得建设部科学
+技术成果鉴定证书及国际级火炬计划项目证书
+等荣誉，是最早进入该领域的研发企业之一，
+产品稳定性和适用性较强。而与之配套的“理
+正协同设计平台”是国内首个基于图纸图层级
+协同工作的协同设计平台，依托该平台，可以
+完成工作分配、资料互相引用、进度与图纸成
+果管理等工作，能够有效提高客户的设计质量
+与设计效率。为配合国家《建筑工程信息模型
+应用统一标准》的编制，中国 BIM发展联盟开
+始开展《全生命周期 BIM标准研究》，公司
+2012年 6月 29日成为全国首家能够形成工程建
+设全生命周期完整 BIM应用的项目级研究承担
+单位。
+公司的竞争对手在软件产品 CAD软件方面
+主要有 Autodesk、广州中望龙腾、苏州浩辰和
+北京天正工程软件有限公司。其中，
+Autodesk成立于 1982年，总部位于美国，产品
+包括平台解决方案和建筑、工程、建设和生产
+等领域软件；广州中望成立于 1998年，其高性
+价比的本土化服务“中望 CAD”平台软件被广泛
+应用于多个行业的勘察设计和制造业领域，且
+产品已经出口国外；苏州浩辰成立于 1992年，
+是亚太地区的 CAD产品及解决方案提供商；北
+京天正工程软件有限公司是 1994年成立的高新
+技术企业，提供建筑 CAD系列软件。
+在软件开发、服务及咨询业务覆盖的勘察
+设计企业信息化及工程建设管理信息化领域，
+主要竞争对手有上海金慧软件有限公司，成立
+于 1996年，专注于工程设计与建设领域，是一
+家提供企业管理信息化咨询服务及软件产品的
+高新技术企业。在勘察领域，主要竞争对手有
+南京华宁软件开发中心、上海华岩软件有限公
+司。
+与竞争者相比，公司专注于勘察设计领域，
+客户覆盖类型全面，在设计管理系统领域、勘
+察和岩土工程领域市场占有率均超过 50%。公司
+集 CAD软件和协同软件于一体，并为企业和工
+程建设提供全面的信息化建设技术开发服务，
+由于公司长期的行业经验和客户口碑积累，政
+府合作渠道广阔。
+综合来看，公司具有较强的技术优势及客
+户积累，在勘察设计领域的软件开发和服务中
+具有较强的竞争力。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司组织构架较为合理，管理制度较为完
+备，为业务发展及稳定运营奠定了良好基础
+公司实行董事会领导下的总经理负责制，
+重大事项由经理办公会议（中层以上经理参加）
+决定，总经理下设副总经理、财务总监等组成
+的管理层团队，分管公司的各项业务和行政事
+宜。公司总部设在北京，下设计算机辅助设计
+开发部、管理系统应用开发部、产品开发部、
+综合开发部、协同软件开发部、技术支持部、
+软件工程部、项目实施部、综合管理部、策划
+部、财务部、行政人事部等职能部门，分工明
+确，保证公司高效运营。公司建立了内部管理
+制度，主要包括《员工手册》、《日常行政事
+务管理制度》、《员工激励制度》、《绩效考
+核管理制度》、《计算机及网络管理制度》、
+《营销渠道管理制度》、《内部审计管理制度》
+等，较为健全的管理制度对公司的各项工作有
+序开展提供了基本保障。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司未来仍将专注于勘察设计行业信息化
+领域，将加大自主研发力度，扩大下游客户，
+加强公司的竞争力
+公司未来发展将继续专注于 CAD软件，以
+及勘察设计行业信息化、工程建设管理信息化
+领域的管理信息系统技术开发与服务。因为技
+术开发定制服务的价格高且周期长，所以公司
+坚持产品化和通用化的发展路线，成立有一定
+前瞻性的基础科研项目小组，包括 2015年成立
+的两个“互联网+”基础研究项目组，为大型信
+息系统的底层开发提供基础研究支持，为勘察
+设计行业提供专业、持久的增值服务。同时，
+推动客户应用，让客户应用产生价值，扩大下
+游客户群加强公司的竞争力，扩大市场占有率。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京理正软件股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近年来公司资产规模有所波动，以流动资
+产为主，货币资金占比较大，整体资产运营效
+率一般
+2013～2015 年末及 2016年 6月末，公司资
+产总额分别为 8,597.01万元、8,938.85 万元、
+8,849.43万元和 7,941.22万元，近三年公司资
+产规模有所波动。同期，公司流动资产分别为
+5,625.09万元、6,011.06 万元、5,982.77 万元
+和 5,119.69万元，占总资产的比重分别为
+65.43%、67.25%、67.61%和 64.47%，公司资产
+以流动资产为主。
+截至 2015年末，公司流动资产主要由货币
+资金和应收账款构成，占比分别为 86.45%和
+4.89%。其中，货币资金 5,171.89万元,较
+2014年末减少 4.05%，主要用于基础技术及项
+目早期的研发投入。应收账款 292.64万元,较
+2014年末减少 7.28%，主要是由于按照账龄分
+析法计提坏账准备，导致坏账准备计提比例由
+2014年的 30.45%提高到 37.71%所致。公司应收
+账款为应收下游客户的软件款，公司前五大债
+务人分别为北京首钢国际工程技术有限公司
+（以下简称“首钢”）、甘肃省电力设计院、
+中交第一航务工程勘察设计院有限公司、天津
+博瑞易筑建筑设计有限公司、中国民航机场建
+设总公司西北分公司，合计占应收账款总额的
+61.03%，集中度较高；从账龄上分析，应收账
+款账龄在一年以内的占比为 56.93%，1～2 年的
+占比为 2.01%，2 年以上的占比为 41.05%，应收
+账款账龄较长，长于两年的应收账款主要是首
+钢应收账款余额 116.01万元，由于首钢改制后
+与公司的合作项目停滞，账期超过 2年以上，
+公司已计提坏账准备 116.01万元。
+截至 2015年末，公司非流动资产
+2,866.66万元，主要由长期股权投资和固定资
+产构成，占比分别为 77.33%和 15.10%。其中，
+长期股权投资 2,216.66万元，较 2014年末无
+变化，为对理正人的股权投资，持股比例为
+100.00%；固定资产 432.79万元，主要是房屋、
+电子设备和车辆，同比减少 9.84%，主要是由于
+公司每年计提折旧和有计划报废部分设备使得
+固定资产同比有所减少。
+截至 2016年 6月末，公司流动资产主要由
+货币资金和应收账款构成，占比分别为
+79.67%和 13.55%，金额为 4,078.68万元和
+693.89万元，货币资金较 2015年末减少 21.14%，
+下降的原因是企业研发投入及发放职工上年度
+年终奖使用部分货币资金所致；应收账款较
+2015年末增加
+137.12%，主要是由于公司主要的客户对象为设
+计院等国企，回款特点为年末回款占比较大，
+而 16年上半年随着业务开展，签订项目合同增
+加，导致应收账款金额与 2015年末相比增加较
+多所致。同期，非流动资产 2,821.53万元，较
+2015年末变化不大，仍主要由长期股权投资和
+固定资产构成，占比分别为 78.56%和 14.09%。
+其中，长期股权投资 2,216.66万元，固定资产
+397.53万元，均较 2015年末变化不大。
+2013～2015 年，公司总资产周转率分别为
+0.71次、0.73 次和 0.71次，有所波动；应收
+账款周转率分别为 15.56次、19.22 次和
+20.69次，逐年增长。整体来看，公司整体资产
+运营效率一般7。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>近三年公司收入规模较为稳定，整体盈利
+9 Wind资讯：2015 计算机服务与软件业总资
+产报酬率良好值和平均值为 6.80%和 3.90%；
+净资产收益率良好值和平均值分别为
+10.60%和 6.30%。
+能力一般；公司经营性净现金流对流动负债的
+保障程度较高，流动资产对流动负债的覆盖程
+度较高，货币资金相对充裕，整体偿债能力较
+强
+2013～2015 年末，公司流动比率分别为
+5.35倍、3.75 倍和 3.84倍，速动比率分别为
+5.35倍、3.75 倍和 3.84倍，均有所波动，但
+仍处于行业优秀水平10，公司流动资产对流动负
+债的覆盖程度较高；2013～2015 年，经营性净
+现金流与流动负债的比率分别为 126.34%、
+50.77%和 33.09%，经营性净现金流对流动负债
+的保障程度较高11；EBITDA 利息保障倍数分别
+为 16.75倍、26.10 倍和 16.40倍，债务保护倍
+数分别为 2.33倍、1.50 倍和 0.97倍。
+近三年公司收入规模较为稳定，营业利润
+率逐年下降，整体盈利能力一般；公司收入实
+现质量有所下降，经营性净现金流逐年大幅降
+低，但仍能对流动负债形成较好保障；公司流
+动资产对流动负债的覆盖程度较高，货币资金
+相对充裕。综合来看，公司整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年公司负债规模有所波动，全部为流
+动负债，负债水平较低，有息负债占比较大，
+货币资金能够完全覆盖有息负债，实际偿债压
+力较小
+2013～2015 年末及 2016年 6月末，公司的
+负债总额分别为 1,051.38万元、1,604.05 万元、
+1,556.78万元和 1,157.37万元，公司负债规模
+有所波动，公司负债全部为流动负债。
+截至 2015年末，公司流动负债主要由应付
+职工薪酬、短期借款和应交税费构成，占比分
+别为 51.61%、32.12%和 12.58%。其中，应付职
+工薪酬 803.52万元，主要是效益奖酬金、工会
+经费及教育经费，较 2014年末增长 8.10%，主
+要是因为效益奖金及教育经费增加；短期借款
+500.00万元，主要是银行保证借款，较 2014年
+末未变；应交税费 195.84万元，主要是增值税、
+个人所得税、企业所得税和城市维护建设税等，
+同比变化较小。
+截至 2016年 6月末，公司流动负债为
+1,157.37万元，主要由短期借款和应付职工薪
+酬构成，占比分别为 69.12%和 22.24%。其中，
+短期借款 800.00万元，较 2015年末增长 60.00%，
+7 Wind资讯：2015 年计算机服务与软件业总
+资产周转率平均值和较低值分别为 1.00次和
+0.70次；应收账款周转率优秀值为 16.40次。
+主要是银行保证贷款，用于公司补充日常营运
+流动资金；应付职工薪酬 257.36万元，较
+2015年末减少 67.97%，主要是 2016年 5月份
+公司发放 2015年年终奖金所致。
+公司主要通过银行短期借款来补充运营资
+金，2013～2015 年，公司筹资活动现金流入分
+别为 1,000.00万元、500.00 万元和 531.94万
+元。2013～2015 年末及 2016年 6月末，公司资
+产负债率分别为 12.23%、17.94%、17.59%和
+14.57%，公司整体负债水平较低8，同期资本化
+比率分别为 5.03%、6.38%、6.42%和 10.55%。
+截至 2016年 6月末，公司有息负债 800.00万
+元，占负债总额的比重为 69.12%，全部为短期
+借款，公司货币资金充裕，实际偿债压力较小。</enterprise:财务弹性>
+    <enterprise:盈利能力>近年公司营业收入较为稳定，营业利润率
+逐年下降，整体盈利能力一般，利润主要来自
+软件退税等营业外收入；近三年经营性净现金
+流逐年降低，收入实现质量有所下降
+2013～2015 年，公司实现营业收入分别为
+6,286.14万元、6,385.45 万元和 6,292.86万
+元，收入规模较为稳定。同期，公司综合毛利
+率分别为 48.47%、48.68%和 55.87%，毛利率水
+平逐年上升。
+2013～2015 年，公司期间费用分别为
+2,584.26万元、2,729.76 万元和 3,491.02万
+元，占营业收入的比重分别为 41.11%、
+42.75%和 55.48%。公司期间费用主要为管理费
+用及销售费用，同期管理费用分别为
+1,473.77万元、1,779.98 万元和 2,488.04万
+元，逐年增长，主要是由于 2015年人员职能进
+一步专业化细分，之前担任基础科研项目的人
+员不再兼任客户定制研发项目，因此这部分人
+员成本由主营业务成本转为管理费用所致；同
+期销售费用分别为 1,149.74万元、1,021.16 万
+元和 1,053.19万元，有所波动。
+2013～2015 年，公司营业利润率分别为
+5.71%、3.79%和-1.75%，逐年下降。同期，营
+业外收入分别为 602.56万元、517.42 万元和
+8 Wind 咨询：2015 年计算机服务与软件业资
+产负债率优秀值为 55.00%。
+584.53万元，有所波动，营业外收入主要是增
+值税退税和政府补贴，由于企业享受优惠政策
+较多，每年申请到的政府研究项目不同，相应
+补贴有所变动所致。营业外收入为公司净利润
+的主要来源，主要来自软件退税。
+2013～2015 年，公司利润总额分别为
+950.33万元、759.17 万元和 455.46万元，净
+利润分别为 931.77万元、748.58 万元和
+482.84万元，均逐年下降，主要是由于公司期
+间费用逐年增长所致，其中管理费用增加为主
+要原因，主要是企业人员成本及福利发放加大
+所致。同期，公司总资产报酬率分别为
+10.77%、8.66%和 5.12%，净资产收益率分别为
+12.25%、10.06%和 6.60%，均逐年下降。整体来
+看，公司盈利能力一般9。
+2016年 1～6月，公司实现营业收入
+2,117.09万元，较去年同期变化不大。另外，
+2016年公司将继续加强分支机构的销售业务，
+开拓全国范围内的下游市场，目前已经成立广
+州办事处、青岛办事处、杭州办事处、新疆办
+事处，主要负责 CAD等软件产品的销售。截至
+2016年 6月末，公司已签订销售合同 201个，
+总价值 2,736.50万元，研发项目将陆续投入销
+售，由于公司经营回款特点为第四季度收入占
+全年 40%以上，预计 2016年公司收入将达到
+7,600.00万元。
+2013～2015 年，公司经营性活动产生的现
+金流入分别为 8,137.53万元、7,888.93 万元和
+7,613.96万元，逐年降低。同期，现金收入比
+分别为 113.28%、109.36%和 108.08%，逐年下
+降。同期，公司经营性净现金流分别为
+1,328.33万元、814.37 万元和 515.09万元，
+逐年大幅降低，主要原因是员工成本逐年上升
+较大，公司支付给职工的现金增多，且近年来
+国家加强对政府、央企等国家单位的付款审批
+制度的管理，销售回款周期变长导致经营性净
+现金流下降较大。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京理正软件股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>我国计算机服务与软件行业内企业数量较
+多，以中小企业为主，竞争较为激烈。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司营业利润率逐年下降，盈利能力一般，
+利润主要来自软件退税等营业外收入；近三年
+公司收入实现质量有所下降，经营性净现金流
+逐年降低。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无。
+10 Wind资讯：2015 年计算机服务与软件业
+速动比率的优秀值为 1.44倍。
+11 Wind资讯：2015 年计算机服务与软件业
+现金流动负债比率优秀值为 30.90%。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京理正软件股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>8597.03 </enterprise:资产总额>
+    <enterprise:所有者权益>7545.64 </enterprise:所有者权益>
+    <enterprise:负债总额>1051.38 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6286.14 </enterprise:营业收入>
+    <enterprise:EBITDA>1011.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京理正软件股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>8938.85 </enterprise:资产总额>
+    <enterprise:所有者权益>7334.80 </enterprise:所有者权益>
+    <enterprise:负债总额>1604.05 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6385.45 </enterprise:营业收入>
+    <enterprise:EBITDA>789.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京理正软件股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>8966.31 </enterprise:资产总额>
+    <enterprise:所有者权益>7292.65 </enterprise:所有者权益>
+    <enterprise:负债总额>1556.79 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>6292.86 </enterprise:营业收入>
+    <enterprise:EBITDA>485.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京理正软件股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>15.56 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>92542.06 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京理正软件股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>19.22 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1806.99 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京理正软件股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>20.69 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>882.76 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京理正软件股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.77 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>31.88 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京理正软件股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>8.66 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>34.47 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京理正软件股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.12 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>40.74 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京理正软件股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>535.02 </enterprise:流动比率>
+    <enterprise:速动比率>535.01 </enterprise:速动比率>
+    <enterprise:资产负债率>12.23 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>16.75 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京理正软件股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>374.74 </enterprise:流动比率>
+    <enterprise:速动比率>374.52 </enterprise:速动比率>
+    <enterprise:资产负债率>17.94 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>26.10 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京理正软件股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>384.30 </enterprise:流动比率>
+    <enterprise:速动比率>384.13 </enterprise:速动比率>
+    <enterprise:资产负债率>17.36 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>16.40 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京理正软件股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>48.47 </enterprise:毛利率>
+    <enterprise:成本费用利润率>54.84 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.13 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>126.34 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>5.03 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-1.17 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-29.81 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京理正软件股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>48.68 </enterprise:毛利率>
+    <enterprise:成本费用利润率>58.96 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.09 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>50.77 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>6.38 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京理正软件股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>55.87 </enterprise:毛利率>
+    <enterprise:成本费用利润率>76.29 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.08 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>33.09 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>6.42 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京理正软件股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>5138.64 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>30.00 </enterprise:应收票据>
+    <enterprise:应收账款>348.75 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>37.74 </enterprise:预付款项>
+    <enterprise:应收股利>22.33 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>47.57 </enterprise:其他应收款>
+    <enterprise:存货>0.07 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>5625.10 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2216.66 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>575.80 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>123.11 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>41.64 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>14.72 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2971.93 </enterprise:非流动资产合计>
+    <enterprise:资产总计>8597.03 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京理正软件股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>5390.44 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>60.00 </enterprise:应收票据>
+    <enterprise:应收账款>315.60 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>175.31 </enterprise:预付款项>
+    <enterprise:应收股利>20.89 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>45.26 </enterprise:其他应收款>
+    <enterprise:存货>3.56 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>6011.06 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2216.66 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>480.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>102.26 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>29.67 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>99.16 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2927.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>8938.85 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京理正软件股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>5171.89 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>79.70 </enterprise:应收票据>
+    <enterprise:应收账款>292.64 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>145.76 </enterprise:预付款项>
+    <enterprise:应收股利>11.48 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>278.57 </enterprise:其他应收款>
+    <enterprise:存货>2.73 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>5982.77 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>2216.66 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>432.79 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>80.99 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>126.55 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>126.55 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2983.54 </enterprise:非流动资产合计>
+    <enterprise:资产总计>8966.31 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京理正软件股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>14.21 </enterprise:应付账款>
+    <enterprise:预收款项>132.02 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>743.30 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>196.19 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>18.33 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1604.05 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1604.05 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2067.68 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>264.21 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>802.91 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>7334.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7334.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>8938.85 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京理正软件股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>14.21 </enterprise:应付账款>
+    <enterprise:预收款项>132.02 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>743.30 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>196.19 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>18.33 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1604.05 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1604.05 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2067.68 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>264.21 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>802.91 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>7334.80 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7334.80 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>8938.85 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京理正软件股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>11.11 </enterprise:应付账款>
+    <enterprise:预收款项>33.34 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>803.52 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>195.84 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>12.98 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1556.79 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1556.79 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2067.68 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>312.50 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>712.47 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>7292.65 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7292.65 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>8849.44 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京理正软件股份有限公司2013年利润表">
+    <enterprise:营业收入>6286.14 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3238.97 </enterprise:营业成本>
+    <enterprise:主营业务成本>3238.97 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>71.26 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1149.74 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1473.77 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-39.26 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>32.51 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1832.92 </enterprise:营业利润>
+    <enterprise:营业外收入>602.56 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>11.38 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2424.10 </enterprise:利润总额>
+    <enterprise:所得税费用>18.56 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2405.54 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2405.54 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京理正软件股份有限公司2014年利润表">
+    <enterprise:营业收入>6385.45 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3276.96 </enterprise:营业成本>
+    <enterprise:主营业务成本>3276.96 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>80.14 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1021.16 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1779.98 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-71.38 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>56.77 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2021.80 </enterprise:营业利润>
+    <enterprise:营业外收入>517.42 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.07 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2539.15 </enterprise:利润总额>
+    <enterprise:所得税费用>10.59 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2528.56 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2528.56 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京理正软件股份有限公司2015年利润表">
+    <enterprise:营业收入>6292.86 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2776.92 </enterprise:营业成本>
+    <enterprise:主营业务成本>2776.92 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>78.59 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1053.19 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2488.04 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-50.22 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>56.25 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2378.13 </enterprise:营业利润>
+    <enterprise:营业外收入>584.53 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>19.18 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2943.48 </enterprise:利润总额>
+    <enterprise:所得税费用>-27.38 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2970.86 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2970.86 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京理正软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>7120.83 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>513.49 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>503.22 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>8137.54 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>381.08  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4424.35 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>836.21 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1167.56 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6809.20 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1328.34 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>263.43 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>263.43 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-263.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1400.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>1110.35 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>19.04 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>2529.39 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1529.39 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-464.48 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京理正软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>6982.95 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>357.51 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>548.46 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7888.92 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>406.68  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4702.08 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>735.29 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1230.50 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7074.55 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>814.37 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>135.01 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>135.01 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-135.01 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>500.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>400.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>555.25 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>11.11 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>966.36 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-466.36 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>213.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京理正软件股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>6801.57 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>450.42 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>361.97 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7613.96 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>192.18  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>5087.54 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>766.95 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1052.19 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7098.86 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>515.10 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>545.85 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>104.34 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>603.30 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>707.64 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-161.79 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>500.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>31.94 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>531.94 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>554.57 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>500.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>10.41 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1064.98 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-533.04 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-179.73 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京理正软件股份有限公司被投资单位：北京理正人信息技术有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京理正人信息技术有限公司</enterprise:名称>
+	<enterprise:单位代码>911101027393543171</enterprise:单位代码>
+	<enterprise:被投资金额>2,000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：王辉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王辉 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：顾肇北 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>顾肇北 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：陈辉龙 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈辉龙 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：于静 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>于静 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：张素萍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张素萍 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：卢华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>卢华 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：季建华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>季建华 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：杨国平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨国平 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：王伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王伟 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：唐燕生 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>唐燕生 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：冯金志 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>冯金志 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：李海鹏 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李海鹏 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：李常明 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李常明 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：赵海 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵海 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：许大伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>许大伟 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：徐磊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐磊 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：原杨 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>原杨 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：陈卫 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈卫 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：兰涌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>兰涌 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京理正软件股份有限公司股东：戚少兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>戚少兵 </enterprise:股东名称>
+	 <enterprise:货币>0</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京理正软件股份有限公司的商标信息：理正软件 LEADING SOFTWARE">
+	<enterprise:有申请日期>12-7-3</enterprise:有申请日期>
+	<enterprise:有商标名称>理正软件 LEADING SOFTWARE</enterprise:有商标名称>
+	<enterprise:有注册号>11154644</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京理正软件股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>02-4-11</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>3143033</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京理正软件股份有限公司的商标信息：理正">
+	<enterprise:有申请日期>02-4-11</enterprise:有申请日期>
+	<enterprise:有商标名称>理正</enterprise:有商标名称>
+	<enterprise:有注册号>3143034</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京理正软件股份有限公司的商标信息：LEADING">
+	<enterprise:有申请日期>02-4-11</enterprise:有申请日期>
+	<enterprise:有商标名称>LEADING</enterprise:有商标名称>
+	<enterprise:有注册号>3143035</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京理正软件股份有限公司的商标信息：理正">
+	<enterprise:有申请日期>96-4-16</enterprise:有申请日期>
+	<enterprise:有商标名称>理正</enterprise:有商标名称>
+	<enterprise:有注册号>1048219</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造人员信息管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造人员信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419402</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造电子图纸打印管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造电子图纸打印管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419392</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造成品文件管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造成品文件管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419397</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造协同设计管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造协同设计管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419388</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造ISO技术质量管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造ISO技术质量管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419395</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华造项目管理系统">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>华造项目管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR419385</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正土木工程三维展示图形平台">
+	<enterprise:有批准日期>17-9-7</enterprise:有批准日期>
+	<enterprise:有软件全称>理正土木工程三维展示图形平台</enterprise:有软件全称>
+	<enterprise:有软件简称>LCGP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR495032</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+通用任务软件">
+	<enterprise:有批准日期>17-6-20</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+通用任务软件</enterprise:有软件全称>
+	<enterprise:有软件简称>通用任务</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR288338</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+个人云盘软件">
+	<enterprise:有批准日期>17-6-20</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+个人云盘软件</enterprise:有软件全称>
+	<enterprise:有软件简称>个人云盘</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR287901</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+云平台">
+	<enterprise:有批准日期>17-6-20</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+云平台</enterprise:有软件全称>
+	<enterprise:有软件简称>理正云</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR289652</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+图文协作软件">
+	<enterprise:有批准日期>17-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+图文协作软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR228330</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+施工现场协作与管理软件">
+	<enterprise:有批准日期>17-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+施工现场协作与管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR213002</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+项目前期业主协作软件">
+	<enterprise:有批准日期>17-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+项目前期业主协作软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR212999</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+设计院外部协作软件">
+	<enterprise:有批准日期>17-6-2</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+设计院外部协作软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR227194</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土桩基托梁挡土墙计算分析软件">
+	<enterprise:有批准日期>17-5-9</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土桩基托梁挡土墙计算分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR169243</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正工程设计平台">
+	<enterprise:有批准日期>17-5-9</enterprise:有批准日期>
+	<enterprise:有软件全称>理正工程设计平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR169238</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+蓝转白电子外审软件">
+	<enterprise:有批准日期>16-12-5</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+蓝转白电子外审软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR353605</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正港工工具箱软件">
+	<enterprise:有批准日期>16-10-11</enterprise:有批准日期>
+	<enterprise:有软件全称>理正港工工具箱软件</enterprise:有软件全称>
+	<enterprise:有软件简称>理正港工工具箱</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR287455</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+看图交流软件">
+	<enterprise:有批准日期>16-9-5</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+看图交流软件</enterprise:有软件全称>
+	<enterprise:有软件简称>看图交流</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR248122</enterprise:有登记号>
+	<enterprise:有分类号>30200-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岸壁式沉箱码头结构计算机辅助设计CAD软件">
+	<enterprise:有批准日期>16-6-15</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岸壁式沉箱码头结构计算机辅助设计CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR143703</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正给排水CAD软件">
+	<enterprise:有批准日期>16-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>理正给排水CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR073490</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正暖通CAD软件">
+	<enterprise:有批准日期>16-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>理正暖通CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR073469</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：二三维一体化BIM出图插件">
+	<enterprise:有批准日期>16-6-15</enterprise:有批准日期>
+	<enterprise:有软件全称>二三维一体化BIM出图插件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR142535</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正边坡治理有限元分析软件">
+	<enterprise:有批准日期>16-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>理正边坡治理有限元分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR066253</enterprise:有登记号>
+	<enterprise:有分类号>30200-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正基坑施工三维建模软件">
+	<enterprise:有批准日期>16-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>理正基坑施工三维建模软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR066256</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正互联网+外埠备案软件">
+	<enterprise:有批准日期>16-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>理正互联网+外埠备案软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR199518</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正移动互联应用平台">
+	<enterprise:有批准日期>15-9-23</enterprise:有批准日期>
+	<enterprise:有软件全称>理正移动互联应用平台</enterprise:有软件全称>
+	<enterprise:有软件简称>理正移动办公</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR185325</enterprise:有登记号>
+	<enterprise:有分类号>30200-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：甘肃电力设计院综合管理信息系统">
+	<enterprise:有批准日期>15-11-25</enterprise:有批准日期>
+	<enterprise:有软件全称>甘肃电力设计院综合管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR232725</enterprise:有登记号>
+	<enterprise:有分类号>30106-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：湖南省建筑设计院综合管理系统">
+	<enterprise:有批准日期>15-11-2</enterprise:有批准日期>
+	<enterprise:有软件全称>湖南省建筑设计院综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR211241</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正施工图校对审核软件">
+	<enterprise:有批准日期>15-3-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正施工图校对审核软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR038888</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正协同CAD软件">
+	<enterprise:有批准日期>15-3-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正协同CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR039072</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正水电三维地质软件">
+	<enterprise:有批准日期>15-3-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正水电三维地质软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR038901</enterprise:有登记号>
+	<enterprise:有分类号>30200-7800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正设计资源管理系统">
+	<enterprise:有批准日期>15-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>理正设计资源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR036994</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正勘察业务配置开发平台软件">
+	<enterprise:有批准日期>15-3-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正勘察业务配置开发平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR039004</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正分布式文件存储系统">
+	<enterprise:有批准日期>15-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>理正分布式文件存储系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR037057</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正梁板式高桩码头结构集成计算软件">
+	<enterprise:有批准日期>15-2-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正梁板式高桩码头结构集成计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR024734</enterprise:有登记号>
+	<enterprise:有分类号>30200-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：城乡规划工程勘察信息管理系统">
+	<enterprise:有批准日期>15-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>城乡规划工程勘察信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR005350</enterprise:有登记号>
+	<enterprise:有分类号>30200-7800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正给排水CAD软件">
+	<enterprise:有批准日期>14-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>理正给排水CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR190668</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正工程地质勘察软件">
+	<enterprise:有批准日期>14-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>理正工程地质勘察软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR185693</enterprise:有登记号>
+	<enterprise:有分类号>30200-7800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正暖通CAD软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>理正暖通CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215437</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正电气CAD软件">
+	<enterprise:有批准日期>15-1-19</enterprise:有批准日期>
+	<enterprise:有软件全称>理正电气CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>LEL</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR010617</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土软土地基路堤、堤坝设计软件">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土软土地基路堤、堤坝设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR184280</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土边坡稳定分析系统">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土边坡稳定分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR183913</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土建筑边坡挡土墙设计软件">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土建筑边坡挡土墙设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR184273</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析软件">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>YanTu</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR184072</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土地基处理设计软件">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土地基处理设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR184079</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土抗滑桩（挡墙）设计软件">
+	<enterprise:有批准日期>14-11-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土抗滑桩（挡墙）设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR183990</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：天华迈卓商业建筑坪效评测软件">
+	<enterprise:有批准日期>14-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>天华迈卓商业建筑坪效评测软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR215970</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：浙江工程设计管理信息系统">
+	<enterprise:有批准日期>17-6-19</enterprise:有批准日期>
+	<enterprise:有软件全称>浙江工程设计管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR286679</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正管道线路竣工图辅助绘图软件">
+	<enterprise:有批准日期>14-11-17</enterprise:有批准日期>
+	<enterprise:有软件全称>理正管道线路竣工图辅助绘图软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PipeDrawing</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR174352</enterprise:有登记号>
+	<enterprise:有分类号>30108-5600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：项目管理系统">
+	<enterprise:有批准日期>14-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>项目管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>PM系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR093210</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：经营管理系统">
+	<enterprise:有批准日期>14-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>经营管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>经营系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR092912</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：行政办公系统">
+	<enterprise:有批准日期>14-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>行政办公系统</enterprise:有软件全称>
+	<enterprise:有软件简称>行政系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR092915</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正结构设计工具箱软件">
+	<enterprise:有批准日期>14-7-16</enterprise:有批准日期>
+	<enterprise:有软件全称>理正结构设计工具箱软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TOOLBOX</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR098841</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正易建（Revit）辅助设计软件">
+	<enterprise:有批准日期>14-7-16</enterprise:有批准日期>
+	<enterprise:有软件全称>理正易建（Revit）辅助设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR098843</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正工程地质勘察软件（铁路版）">
+	<enterprise:有批准日期>14-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>理正工程地质勘察软件（铁路版）</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR073808</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正建筑CAD软件">
+	<enterprise:有批准日期>14-6-21</enterprise:有批准日期>
+	<enterprise:有软件全称>理正建筑CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称>LAR</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR083143</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正软件模块化开发管理平台">
+	<enterprise:有批准日期>14-5-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正软件模块化开发管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR069188</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正BIM水暖电设计软件">
+	<enterprise:有批准日期>14-2-20</enterprise:有批准日期>
+	<enterprise:有软件全称>理正BIM水暖电设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR020602</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：天华住宅户型面积计算软件">
+	<enterprise:有批准日期>14-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>天华住宅户型面积计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR056356</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正管道线路施工图辅助设计软件">
+	<enterprise:有批准日期>14-2-20</enterprise:有批准日期>
+	<enterprise:有软件全称>理正管道线路施工图辅助设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PipeCAD</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR020571</enterprise:有登记号>
+	<enterprise:有分类号>30108-5600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：天华住宅单体面积计算软件">
+	<enterprise:有批准日期>14-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>天华住宅单体面积计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR056269</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正BIM建筑设计软件">
+	<enterprise:有批准日期>13-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正BIM建筑设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR133894</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正复杂水池结构分析设计软件">
+	<enterprise:有批准日期>13-12-7</enterprise:有批准日期>
+	<enterprise:有软件全称>理正复杂水池结构分析设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR140847</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：天华住宅小区总体面积计算软件">
+	<enterprise:有批准日期>14-5-7</enterprise:有批准日期>
+	<enterprise:有软件全称>天华住宅小区总体面积计算软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR055314</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正数据中心平台">
+	<enterprise:有批准日期>13-11-8</enterprise:有批准日期>
+	<enterprise:有软件全称>理正数据中心平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR121791</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正边坡综合治理分析软件">
+	<enterprise:有批准日期>13-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>理正边坡综合治理分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR050969</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正绿色建筑协同设计管理平台">
+	<enterprise:有批准日期>13-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正绿色建筑协同设计管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>理正绿建协同平台</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR075027</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：中交一航院高桩码头结构计算机辅助设计（CAD）系统软件">
+	<enterprise:有批准日期>13-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>中交一航院高桩码头结构计算机辅助设计（CAD）系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>一航院高桩码头结构设计软件</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040738</enterprise:有登记号>
+	<enterprise:有分类号>30200-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正资源管理系统">
+	<enterprise:有批准日期>13-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正资源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>资源管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR075005</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正施工图校对审核软件">
+	<enterprise:有批准日期>13-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>理正施工图校对审核软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR002764</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正超级土钉支护设计软件">
+	<enterprise:有批准日期>12-10-18</enterprise:有批准日期>
+	<enterprise:有软件全称>理正超级土钉支护设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR097944</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正深基坑支护结构设计软件">
+	<enterprise:有批准日期>12-10-30</enterprise:有批准日期>
+	<enterprise:有软件全称>理正深基坑支护结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>深基坑</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR102070</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正Revit族库管理软件">
+	<enterprise:有批准日期>14-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正Revit族库管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR035189</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正企业构件库管理软件">
+	<enterprise:有批准日期>14-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>理正企业构件库管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR035192</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正工程建设全生命周期信息管理（BIM）应用平台">
+	<enterprise:有批准日期>12-9-27</enterprise:有批准日期>
+	<enterprise:有软件全称>理正工程建设全生命周期信息管理（BIM）应用平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR092195</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正勘察三维地质软件">
+	<enterprise:有批准日期>13-3-19</enterprise:有批准日期>
+	<enterprise:有软件全称>理正勘察三维地质软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR025526</enterprise:有登记号>
+	<enterprise:有分类号>30200-7800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正协同设计管理系统">
+	<enterprise:有批准日期>12-12-1</enterprise:有批准日期>
+	<enterprise:有软件全称>理正协同设计管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR117786</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：深基坑支护结构设计软件">
+	<enterprise:有批准日期>11-7-16</enterprise:有批准日期>
+	<enterprise:有软件全称>深基坑支护结构设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称>深基坑</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR048835</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析软件">
+	<enterprise:有批准日期>11-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>yantu</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR045013</enterprise:有登记号>
+	<enterprise:有分类号>30108-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正结构设计工具箱软件">
+	<enterprise:有批准日期>11-7-8</enterprise:有批准日期>
+	<enterprise:有软件全称>理正结构设计工具箱软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TOOLBOX</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR045014</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正协同设计软件">
+	<enterprise:有批准日期>12-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>理正协同设计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR015340</enterprise:有登记号>
+	<enterprise:有分类号>30106-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正暖通CAD软件">
+	<enterprise:有批准日期>12-6-16</enterprise:有批准日期>
+	<enterprise:有软件全称>理正暖通CAD软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR051644</enterprise:有登记号>
+	<enterprise:有分类号>30108-4700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：华东院协同设计平台软件 V1.0">
+	<enterprise:有批准日期>08-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>华东院协同设计平台软件 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR20127</enterprise:有登记号>
+	<enterprise:有分类号>65500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正规划知识构建基础平台系统 V1.0">
+	<enterprise:有批准日期>08-6-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正规划知识构建基础平台系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR10486</enterprise:有登记号>
+	<enterprise:有分类号>64000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正规划设计构建基础平台系统 V3.0">
+	<enterprise:有批准日期>08-6-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正规划设计构建基础平台系统 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR10485</enterprise:有登记号>
+	<enterprise:有分类号>64000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正规划GIS构建基础平台系 统 V1.0">
+	<enterprise:有批准日期>08-6-4</enterprise:有批准日期>
+	<enterprise:有软件全称>理正规划GIS构建基础平台系 统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR10484</enterprise:有登记号>
+	<enterprise:有分类号>64000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：高桩码头结构计算机辅助设计(CAD)系统软件V2.0[简称:WharfCAD]">
+	<enterprise:有批准日期>07-7-9</enterprise:有批准日期>
+	<enterprise:有软件全称>高桩码头结构计算机辅助设计(CAD)系统软件V2.0[简称:WharfCAD]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SRBJ1324</enterprise:有登记号>
+	<enterprise:有分类号>65500-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正水务一体化管理信息系统 V2.0">
+	<enterprise:有批准日期>05-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>理正水务一体化管理信息系统 V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR01539</enterprise:有登记号>
+	<enterprise:有分类号>67500-9500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：城市数字化标准实施辅助软件 [简称: UDSIAS] V1.0">
+	<enterprise:有批准日期>04-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>城市数字化标准实施辅助软件 [简称: UDSIAS] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR10678</enterprise:有登记号>
+	<enterprise:有分类号>65500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：城市建设数据标准实施工具软件 V1.0 [简称: CCDS]">
+	<enterprise:有批准日期>05-4-28</enterprise:有批准日期>
+	<enterprise:有软件全称>城市建设数据标准实施工具软件 V1.0 [简称: CCDS]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR04237</enterprise:有登记号>
+	<enterprise:有分类号>65000-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：住宅与房地产数据标准实施工具软件 V1.0 [简称: HRDS]">
+	<enterprise:有批准日期>05-4-28</enterprise:有批准日期>
+	<enterprise:有软件全称>住宅与房地产数据标准实施工具软件 V1.0 [简称: HRDS]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR04238</enterprise:有登记号>
+	<enterprise:有分类号>65000-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：工程建设与建筑业数据标准实施工具软件 V1.0 [简称: ECBDS]">
+	<enterprise:有批准日期>05-4-28</enterprise:有批准日期>
+	<enterprise:有软件全称>工程建设与建筑业数据标准实施工具软件 V1.0 [简称: ECBDS]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR04236</enterprise:有登记号>
+	<enterprise:有分类号>65000-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正工程地质数据库管理系统--工程地质地理信息系统 [简称: GGIS] V2.0">
+	<enterprise:有批准日期>04-4-7</enterprise:有批准日期>
+	<enterprise:有软件全称>理正工程地质数据库管理系统--工程地质地理信息系统 [简称: GGIS] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR03021</enterprise:有登记号>
+	<enterprise:有分类号>67500-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正设计过程管理系统 V3.0">
+	<enterprise:有批准日期>04-1-18</enterprise:有批准日期>
+	<enterprise:有软件全称>理正设计过程管理系统 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR00591</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正图档管理系统 V3.0">
+	<enterprise:有批准日期>04-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>理正图档管理系统 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR00443</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正综合办公管理系统 V3.0">
+	<enterprise:有批准日期>04-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>理正综合办公管理系统 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR00442</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析系列 软件--水力学、重力坝、隧道衬砌 V3.0">
+	<enterprise:有批准日期>04-3-5</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析系列 软件--水力学、重力坝、隧道衬砌 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR02012</enterprise:有登记号>
+	<enterprise:有分类号>61000-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析系列 软件--地基处理、弹性地基梁、岩质边坡 V3.0">
+	<enterprise:有批准日期>04-3-5</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析系列 软件--地基处理、弹性地基梁、岩质边坡 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR02011</enterprise:有登记号>
+	<enterprise:有分类号>61000-7100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正经营计划管理系统 V3.0">
+	<enterprise:有批准日期>04-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>理正经营计划管理系统 V3.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR00441</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正电气CAD软件 V1.0 [简称:LEE(Leading electrical equippment)]">
+	<enterprise:有批准日期>02-9-28</enterprise:有批准日期>
+	<enterprise:有软件全称>理正电气CAD软件 V1.0 [简称:LEE(Leading electrical equippment)]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2966</enterprise:有登记号>
+	<enterprise:有分类号>65500-5800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正设计流程与图档管理系统 [简称: Leading PDM] V1.0">
+	<enterprise:有批准日期>02-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>理正设计流程与图档管理系统 [简称: Leading PDM] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR4221</enterprise:有登记号>
+	<enterprise:有分类号>65000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正建筑CAD软件 V1.0 [简称: LAR]">
+	<enterprise:有批准日期>02-9-10</enterprise:有批准日期>
+	<enterprise:有软件全称>理正建筑CAD软件 V1.0 [简称: LAR]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2504</enterprise:有登记号>
+	<enterprise:有分类号>62500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正地理信息系统平台 [简称:Leading GIS] V2.0">
+	<enterprise:有批准日期>02-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>理正地理信息系统平台 [简称:Leading GIS] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR1440</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正管理信息系统平台 [简称:Leading InFo-channel] V1.0">
+	<enterprise:有批准日期>02-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>理正管理信息系统平台 [简称:Leading InFo-channel] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR1442</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正给排水软件 V6.0 [简称: LZGPS]">
+	<enterprise:有批准日期>02-9-2</enterprise:有批准日期>
+	<enterprise:有软件全称>理正给排水软件 V6.0 [简称: LZGPS]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2304</enterprise:有登记号>
+	<enterprise:有分类号>65500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析系列软件— 边坡、软基、超级土钉 V1.0">
+	<enterprise:有批准日期>01-9-24</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析系列软件— 边坡、软基、超级土钉 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4070</enterprise:有登记号>
+	<enterprise:有分类号>62500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析系列软件—挡土 墙、抗滑桩、边坡滑坍 V1.0">
+	<enterprise:有批准日期>01-9-24</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析系列软件—挡土 墙、抗滑桩、边坡滑坍 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4071</enterprise:有登记号>
+	<enterprise:有分类号>62500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正岩土工程计算分析系列软件— 渗流、降水 V1.0">
+	<enterprise:有批准日期>01-9-24</enterprise:有批准日期>
+	<enterprise:有软件全称>理正岩土工程计算分析系列软件— 渗流、降水 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4073</enterprise:有登记号>
+	<enterprise:有分类号>62500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京理正软件股份有限公司的软件著作：理正道路集成CAD系统 V1.0">
+	<enterprise:有批准日期>01-9-24</enterprise:有批准日期>
+	<enterprise:有软件全称>理正道路集成CAD系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4072</enterprise:有登记号>
+	<enterprise:有分类号>62500-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：北京理正软件股份有限公司">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京理正软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.lzyun.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>lzyun.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：北京理正软件股份有限公司">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京理正软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.lizheng.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>lizheng.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：北京理正软件股份有限公司">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京理正软件股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.lizhengyun.com</enterprise:有网站首页>
+	<enterprise:有域名>lizhengyun.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：建设云">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>建设云</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jiansheyun.net</enterprise:有网站首页>
+	<enterprise:有域名>jiansheyun.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：建设云">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>建设云</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jiansheyun.net</enterprise:有网站首页>
+	<enterprise:有域名>jiansheyun.net.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京理正软件股份有限公司的网站备案：建设云">
+	<enterprise:有审核时间>17-7-31</enterprise:有审核时间>
+	<enterprise:有网站全称>建设云</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jiansheyun.net</enterprise:有网站首页>
+	<enterprise:有域名>jiansheyun.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10008608号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京理正软件股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京理正软件股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司主要从事勘察设计行业的信息技术服务，包括软件产品的开发、生产
+和销售，以及技术开发、咨询及服务</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京理正软件股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中国移动通信集团设计院、上海电力设计院有限公司、中国石油气天
+然气管道工程有限公司、中铁第四勘测设计院、西北勘测设计院、甘
+肃电力设计院</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京理正软件股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>随着国家相关政策的出台，计算机服务与软件行业保持平稳较快发展，勘
+察设计行业的信息化水平面临良好的发展前景</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京理正软件股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村百家创新型企业 “瞪羚计划”重点培育企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京理正软件股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>在国家扶持政策的推动下，CAD 软件和集成信息系统面临较大的市场
+空间。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京理正软件股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京理正软件股份有限公司的企业法人代表：原杨">
+	<enterprise:名称>原杨</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>56</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1960.11.15</enterprise:出生年月>
+	<enterprise:身份证号码>11010819601115892X</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称>会计师</enterprise:职称>
+	<enterprise:现任职务>财务总监</enterprise:现任职务>
+	<enterprise:联系电话>010-68002237</enterprise:联系电话>
+	<enterprise:传真>010-68008001</enterprise:传真>
+	<enterprise:E-mail>Wqy9401@sina.com</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1995.7～今 理正软件设计研究院 财务总监
+1985.11～1995.6 北京西城区月坛街道办事处 干部
+1984.6～1985.10 北京海淀综合贸易公司 会计
+1980.10～1984.5 清华大学出版社 职员
+1997.8～2001.7 西北工业大学 学士学位
+社会职务
+起止日期 在何地区何部门 任何职务
+20
+ecpa
+                    中关村科技园区企业信用评级
+2004～今 北京市西城区政协 政协委员</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京理正软件股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>发收入、技术转让收入免税）、城市维护建设税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京理正软件股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京理正软件股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京理正软件股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京理正软件股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京理正软件股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京理正软件股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>47</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>9</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>26</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>12</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京理正软件股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京理正软件股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

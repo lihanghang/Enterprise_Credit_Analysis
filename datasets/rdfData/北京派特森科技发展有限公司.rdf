@@ -1,0 +1,1096 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京派特森科技发展有限公司的企业概况">
+    <enterprise:有名称>北京派特森科技发展有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087546955668</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国建设银行北京工商大厦支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>29</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003</enterprise:有注册登记日期>
+    <enterprise:有注册资本>563.40</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>563.40</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务；销售电子产品、机械设备；工程勘察设计。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务；销售电子产品、机械设备；工程勘察设计。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>地震勘探资料处理及解释、地球物理勘探软件研发、微地震压裂监测技术研发及服务</enterprise:有主营业务>
+    <enterprise:有行业分类>专业技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区中关村南大街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市朝阳区奥体中心体育场西南看台一层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100101</enterprise:有邮政编码>
+    <enterprise:有联系人>刘辉</enterprise:有联系人>
+    <enterprise:有联系电话>13521702611</enterprise:有联系电话>
+    <enterprise:有传真电话>010-84565546</enterprise:有传真电话>
+    <enterprise:有E-mail>liuhuiemail@126.com</enterprise:有E-mail>
+    <enterprise:有网址>Byu1670560001.my3w.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京派特森科技股份有限公司（以下简称
+“公司”）于 2003 年 9 月 11 日在北京市工商
+行政管理局海淀分局注册成立，原名为北京派
+特森科技发展有限公司，2015 年 10 月，公司
+进行股份制改造，变更为股份公司，公司于
+2016 年 7 月在“新三板”挂牌，股份简称：派
+特森，股份代码：837782。公司初始注册资本
+100.00 万元，后经多次增资及股东、股权结构
+的变更，目前注册资本 563.40 万元，股东出资
+及持股比例情况见附录二之表 13。 
+公司经营范围：“技术开发、技术转让、
+技术咨询、技术服务；销售电子产品、机械设
+备；工程勘察设计。”目前，公司主要从事地
+震勘探资料处理及解释、地球物理勘探软件研
+发、微地震压裂监测技术研发及服务业务。 
+截至 2016年 9月底，公司资产总额 1306.30
+万元，固定资产净额 40.67 万元，所有者权益
+1279.16 万元；2015 年，公司实现营业收入
+965.21 万元，利润总额 360.27 万元；2016 年
+1~9 月，公司实现营业收入 119.35 万元，利润
+总额-444.35 万元。公司现有员工 29 人，在北
+京市属于小型企业。 
+公司注册地址：北京市海淀区中关村南大
+街 5 号 683 号楼理工科技大厦 1327；办公地址：
+北京市朝阳区奥体中心体育场西南看台一层
+1321-2 室；法定代表人：薛爱民；统一社会信
+用代码：911101087546955668；经营期限：自
+2003 年 9 月 11 日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京派特森科技发展有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长兼总经理薛爱民，
+62 岁，毕业于南京大学，博士研究生学历，研
+究员，曾任中科院物理研究所副研究员、加拿
+大 Enertech 地球物理公司研究员、Veritas 地球
+物理公司研究员，2003 年 9 月出资创办公司，
+管理经验及从业经验丰富。薛爱民拥有 2 项发
+明专利，6 项计算机软件著作权，1996 年~1997
+年获国务院特殊津贴。 
+公司副总经理李兴锋，40 岁，毕业于哈尔
+滨工业大学物理系，本科学历，工程师，从事
+地震数据的分析和解释工作长达二十余年，同
+业从业经验丰富。 
+公司副总经理刘辉，39 岁，毕业于对外经
+济贸易大学国际贸易专业，本科学历，从事项
+目管理工作长达 16 年，同业从业经验丰富。 
+总体看，公司高管学历水平高，从业经验
+丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 29 人。 
+从学历构成看，公司员工全部为本科及以
+上学历，员工学历水平高。 
+从年龄构成看，公司员工年龄在 45 岁及以
+下者占比 86.21%，公司员工年龄结构呈现年轻
+化。 
+从岗位构成看，公司拥有管理人员 4 人，
+占比 13.79%；技术人员 25 人，占比 86.21%，
+公司员工以技术人员为主。 
+总体看，公司员工学历水平高，年龄结构
+呈现年轻化，岗位结构符合公司的经营特点，
+人员结构合理。 
+3．研发人员素质 
+公司现有专职研发人员 7 人，其中博士研
+究生学历者 2 人，硕士研究生学历者 3 人，本
+科学历者 2 人。 
+公司主要研发人员艾建华，48 岁，毕业于
+武汉大学，本科学历，曾任职于江汉油田物探
+公司计算中心软件室、北京侏罗纪软件公司地
+球物理部、北京冰狐软件公司、北京诺克斯达
+石油科技有限公司，2010 年 4 月加入公司，现
+主要负责地球物理软件的开发工作。 
+公司主要研发人员李达，36 岁，毕业于北
+京航空航天大学，博士研究生学历，2008 年加
+入公司，现任公司地球物理研究软件工程师。
+李达加入公司后，开发了 PSGseis 地震数据处
+理系统整体架构和相关处理平台，完成了多项
+研究任务；参与中石油研究院 Dategas 软件开
+发项目、国家“十二五”石油专项胜利油田子
+课题“多分量地震数据薄储层反馈”项目、起
+伏地表叠前成像并行算法软件开发项目。 
+公司主要研发人员舒律，34 岁，毕业于中
+国地质大学，硕士研究生学历，曾任北京世纪
+金道石油技术有限公司地质勘查工程师助理，
+2009 年 7 月加入公司，现任公司地质勘查工程
+师。 
+公司主要研发人员朱新颖，30 岁，毕业于
+北京理工大学，硕士研究生学历，现主要从事
+地震构造解释研究工作，曾参与四川盆地九峰
+寺地区处理与解释研究项目、东海中生界针对
+性处理与解释研究项目、四川资阳地区处理与
+解释研究项目等。 
+总体看，公司研发人员学历水平高，主要
+研发人员专业素质较高，工作经验较丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司技术研究工作由开发部负责。目前，
+公司开发部正在研发“隧道掘进指示系统设
+备”，该设备可节约工程成本。  
+除自主研发外，公司与北京航空航天大学、
+吉林大学等高校进行合作，共同研发新技术或
+平。 
+近三年，公司研发投入分别为 289.89万元、
+313.09 万元、103.75 万元，分别占当年营业收
+入的 38.65%、39.90%、10.75%，研发投入主要
+用于发放研发人员工资、购置研发设备，研发
+投入力度较大，能够满足现阶段公司研发需求。 
+总体看，公司研发投入力度较大，科研条
+件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>289.89万元,313.09万元,103.75万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>38.65%,39.90%,10.75%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京派特森科技发展有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地位于北京市朝阳区奥体中心体
+育场西南看台一层 1321-2 室，建筑面积 120 平
+方米，为公司租赁使用，出租方为国家奥林匹
+克体育中心，该地办公设施齐全，经营环境较
+好。 
+公司已取得《国家高新技术企业证书》1、
+《中关村高新技术企业证书》（证书编号：
+20152010575301，有效期至 2018 年 7 月 8 日），
+公司资质水平能够满足现阶段经营需求。 
+公司被评为“北京市中关村优秀留学人员
+企业”。 
+总体看，公司资质水平能够满足现阶段经
+营需求，经营条件一般。 
+2．业务运作 
+目前，公司主要从事地震勘探资料处理及
+解释、地球物理勘探软件研发、微地震压裂监
+测技术研发及服务业务，现有业务包括地震勘
+探资料处理及解释、微地震压裂监测技术服务、
+煤层气储层增产技术服务，其中微地震压裂监
+测技术服务占收入比重最大，约为 50%；煤层
+气储层增产技术服务为新业务新技术，于 2014
+年初完成研发，目前正在新疆、青海进行中试，
+该业务市场前景较好。 
+采购方面，公司主要采购日常办公用品、
+地震数据收集等，采购量不大，一般为按需采
+购，日常办公用品采购结算方式为现款现货，
+地震数据等结算方式一般按合同约定结算，一
+般需要预付货款。 
+销售方面，公司在全国范围内开展业务，
+以投标形式取得项目，中标率较高。目前，公
+司主要客户为中石油、中海油、煤炭企业，2015
+年，公司前五大客户为郑州华辕煤业有限公司、
+中国石油化工股份有限公司胜利油田分公司、
+中国平煤神马能源化工集团有限责任公司、国
+石油天然气股份有限公司勘探开发院廊坊分
+院、核工业北京地质研究院，其中郑州华辕煤
+业有限公司销售收入占比最大，约为 40%。结
+算方面，公司与下游客户按合同约定结算，一
+般公司预收 30.00%款项。公司下游客户处于强
+势地位，付款周期长，致使公司应收账款金额
+相对较大且逐年增加。 
+总体看，公司上下游渠道畅通，经营状况
+较好。 
+3．经营效率 
+表 2 公司近三年主要经营指标 
+财务指标 2013 年 2014 年 2015 年 
+成本率(%) 79.49 94.28 62.02 
+管理费用率(%) 94.22 70.91 39.33 
+存货周转次数(次) 183.22 — — 
+应收账款周转次数(次) 2.03 2.05 1.75 
+总资产周转次数(次) 0.44 0.43 0.56 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率整体呈下降趋势，始
+终处于行业较高水平，主要为主营成本较高；
+同期，公司管理费用率呈下降趋势，处于行业
+较高水平，前期主要为研发投入较多，管理费
+用控制力度有待加强。 
+近三年，公司应收账款周转次数整体呈下
+降趋势，始终处于行业低水平，主要受下游客
+户付款周期长的影响；同期，公司总资产周转
+次数呈上升趋势，始终处于行业较低水平。 
+总体看，公司经营效率有待提高。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东大会是公司的权力机构，行使决定公
+司的经营方针和投资计划等职权；公司设董事
+会，董事会由 5 名董事组成，由股东大会选举
+产生，董事会设董事长 1 名，为公司的法定代
+表人，董事会行使召开股东大会，并向股东大
+会报告工作、执行股东大会的决议等职权；公
+司设监事会，监事会由 5 名监事组成，监事会
+设主席 1 名，监事会行使检查公司财务等职权；
+公司设总经理 1 名，总经理由董事会决定聘任
+或解聘，负责主持公司的生产、经营、管理工
+作，并组织实施公司年度经营计划和投资方案
+等。 
+公司实际控制人为控股股东薛爱民。 
+公司下设技术服务部、市场业务部、地质
+解释部、数据处理部、开发部、财务部、工程
+服务部，各部门均在相关负责人带领下开展工
+作，部门间协作情况较好。 
+    总体看，公司法人治理结构完善，组织架
+构清晰。 
+2．制度建设及执行 
+根据经营需要，公司制定了《行政管理制
+定》、《人事管理制度》、《财务管理制度》
+等一系列规章制度，并在实际工作中严格执行
+各项操作规程。 
+总体看，公司制度建设较完善，执行情况
+较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016 年将实现营业收入 900.00
+万元，净利润 200.00 万元；预计 2016 年底公
+司资产总额 2420.99万元，负债总额 50.00万元，
+所有者权 2370.99 万元。相比 2015 年，联合信
+用预计公司 2016 年营业收入下降 6.76%，负债
+率变动幅度为-15.06%，净资产收益率变动幅度
+为-9.58%。 
+总体看，公司未来一年经营基本稳定。 
+2．融资需求 
+公司短期内无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京派特森科技发展有限公司的财务分析">
+    <enterprise:资产质量及流动性>-</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016 年 9 月底，公司
+无存货，流动比率和速动比率均为 4989.92%，
+均处于行业高水平，公司短期偿债能力强。 
+从长期偿债能力看，近三年，公司 EBITDA
+值分别为 271.69 万元、88.21 万元、383.27 万
+元，公司长期偿债能力一般。 
+总体看，公司未来一年整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 16.34%、
+7.64%、17.13%。2016 年 9 月底，公司资产负
+债率为 2.08%，负债水平低，无有息债务。 
+近三年，公司负债总额分别为 301.09万元、
+140.18 万元、274.18 万元，复合变动率为
+-4.57%，2014 年公司负债总额较 2013 年减少
+明显，主要为专项应付款（承接国家项目有所
+减少）减少所致。 
+截至 2016 年 9 月底，公司负债总额 27.13
+万元，其中；流动负债占比 93.27%；非流动负
+债占比 6.73%。 
+截至 2016 年 9 月底，公司流动负债 25.15
+万元，主要为其他应付款，为应付员工工资及
+车费。 
+近三年，公司所有者权益分别为 1541.95
+率为-7.25%。近三年，公司进行过利润分配。 
+截至 2016 年 9 月底，公司所有者权益
+1279.16 万元，其中：实收资本 563.40 万元；
+资本公积 781.15 万元；盈余公积 30.80 万元；
+未分配利润-96.18 万元。 
+总体看，公司负债水平低，无有息债务，
+所有者权益对债务保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 749.96万元、
+784.68 万元、965.21 万元，复合增长率为
+13.45%，呈上升趋势；同期，公司利润总额分
+别为 171.66 万元、44.75 万元、360.27 万元，
+2015 年在收入增加的同时，公司管理费用大幅
+下降，致使利润增幅明显。 
+图 2 公司近三年盈利能力指标变动趋势图 
+近三年，公司主营业务利润率分别为
+94.36% 、 71.11%、 63.57% ，加权平均值为
+71.99%，处于行业较高水平；同期，公司净资
+产收益率分别为 10.18%、2.67%、20.40%，加
+权平均值为 13.03%，处于行业较低水平；同期，
+公司总资产报酬率分别为 9.98%、2.43%、
+20.98%，加权平均值为 13.22%，处于行业一般
+水平。 
+近 三 年 ， 公 司 现 金 收 入 比 分 别 为
+101.36%、98.97%、58.49%，加权平均值为
+79.21%，处于行业较低水平，公司收入实现质
+量较差。 
+总体看，公司盈利能力下降，收入实现质
+量较差。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京派特森科技发展有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司存在行政处罚
+现公司存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+未发现公司在银行存在不良信用记录。 
+（二） 政策、行业及市场风险 
+本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>-</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1. 公司近三年盈利能力下降。 
+2.公司经营活动获取现金的能力不稳定，
+整体现金流有待提高。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京派特森科技发展有限公司2013年基本财务指标">
+    <enterprise:资产总额>1843.03 </enterprise:资产总额>
+    <enterprise:所有者权益>1541.96 </enterprise:所有者权益>
+    <enterprise:负债总额>301.08 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>749.96 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京派特森科技发展有限公司2014年基本财务指标">
+    <enterprise:资产总额>1833.78 </enterprise:资产总额>
+    <enterprise:所有者权益>1693.60 </enterprise:所有者权益>
+    <enterprise:负债总额>140.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>784.68 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京派特森科技发展有限公司2015年基本财务指标">
+    <enterprise:资产总额>1600.62 </enterprise:资产总额>
+    <enterprise:所有者权益>1326.44 </enterprise:所有者权益>
+    <enterprise:负债总额>274.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>965.21 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京派特森科技发展有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.44 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.36 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.75 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京派特森科技发展有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.43 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.53 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.05 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京派特森科技发展有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.56 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.74 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.28 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京派特森科技发展有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>45.05 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京派特森科技发展有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>33.52 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京派特森科技发展有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>40.96 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京派特森科技发展有限公司2013年偿债能力指标">
+    <enterprise:流动比率>1325.31 </enterprise:流动比率>
+    <enterprise:速动比率>1325.13 </enterprise:速动比率>
+    <enterprise:资产负债率>16.34 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京派特森科技发展有限公司2014年偿债能力指标">
+    <enterprise:流动比率>1730.57 </enterprise:流动比率>
+    <enterprise:速动比率>1730.57 </enterprise:速动比率>
+    <enterprise:资产负债率>7.64 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京派特森科技发展有限公司2015年偿债能力指标">
+    <enterprise:流动比率>602.15 </enterprise:流动比率>
+    <enterprise:速动比率>602.15 </enterprise:速动比率>
+    <enterprise:资产负债率>17.13 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京派特森科技发展有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>95.11 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1433.11 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.01 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>62.91 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京派特森科技发展有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>71.82 </enterprise:毛利率>
+    <enterprise:成本费用利润率>264.58 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.99 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-239.40 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京派特森科技发展有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>64.30 </enterprise:毛利率>
+    <enterprise:成本费用利润率>170.19 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.58 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>50.81 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京派特森科技发展有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>765.11 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>338.99 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>77.38 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>309.56 </enterprise:其他应收款>
+    <enterprise:存货>0.20 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1491.24 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>87.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>264.75 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>351.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1843.03 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京派特森科技发展有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>490.55 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>427.75 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>188.16 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>644.88 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1751.34 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>73.69 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>8.75 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>82.44 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1833.78 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京派特森科技发展有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>563.34 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>70.00 </enterprise:应收票据>
+    <enterprise:应收账款>674.39 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>21.50 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>210.60 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1539.83 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>48.81 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7.75 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>4.23 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>60.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1600.62 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京派特森科技发展有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>49.00 </enterprise:应付账款>
+    <enterprise:预收款项>31.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>11.11 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>10.09 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>101.20 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>38.98 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>38.98 </enterprise:非流动负债合计>
+    <enterprise:负债合计>140.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.03 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>122.72 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1070.85 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1693.60 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1693.60 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1833.78 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京派特森科技发展有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>49.00 </enterprise:应付账款>
+    <enterprise:预收款项>31.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>11.11 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>10.09 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>101.20 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>38.98 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>38.98 </enterprise:非流动负债合计>
+    <enterprise:负债合计>140.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.03 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>122.72 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1070.85 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1693.60 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1693.60 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1833.78 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京派特森科技发展有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>63.38 </enterprise:应付账款>
+    <enterprise:预收款项>30.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>64.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>95.02 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>3.32 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>255.72 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>18.46 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>18.46 </enterprise:非流动负债合计>
+    <enterprise:负债合计>274.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>500.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.03 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>171.49 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>654.92 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1326.44 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1326.44 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1600.62 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京派特森科技发展有限公司2013年利润表">
+    <enterprise:营业收入>749.96 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>36.64 </enterprise:营业成本>
+    <enterprise:主营业务成本>36.64 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.63 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>561.66 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>7.81 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>699.88 </enterprise:营业利润>
+    <enterprise:营业外收入>17.95 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.13 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>717.70 </enterprise:利润总额>
+    <enterprise:所得税费用>23.06 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>694.64 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>694.64 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京派特森科技发展有限公司2014年利润表">
+    <enterprise:营业收入>784.68 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>221.12 </enterprise:营业成本>
+    <enterprise:主营业务成本>221.12 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>5.58 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>524.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-11.50 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>569.48 </enterprise:营业利润>
+    <enterprise:营业外收入>0.04 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.14 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>569.38 </enterprise:利润总额>
+    <enterprise:所得税费用>1.61 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>567.77 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>567.77 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京派特森科技发展有限公司2015年利润表">
+    <enterprise:营业收入>965.21 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>344.55 </enterprise:营业成本>
+    <enterprise:主营业务成本>344.55 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>7.06 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>235.39 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-1.62 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>13.20 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>602.02 </enterprise:营业利润>
+    <enterprise:营业外收入>0.04 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>6.40 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>595.66 </enterprise:利润总额>
+    <enterprise:所得税费用>52.29 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>543.37 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>543.37 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京派特森科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>760.16 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>17.95 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>8.21 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>786.32 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>178.16  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>246.75 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>73.67 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>216.95 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>715.53 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>70.79 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>15.05 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>15.05 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-15.05 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>352.18 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>352.18 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>288.32 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>288.32 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>63.86 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>119.60 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京派特森科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>776.58 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>12.07 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>788.65 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>443.31  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>302.66 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>96.71 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>188.24 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1030.92 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-242.27 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>32.30 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>32.30 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-32.30 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-274.57 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京派特森科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>564.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>246.55 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>811.11 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>99.50  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>368.86 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>40.77 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>172.06 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>681.19 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>129.92 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.25 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.25 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-0.25 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>340.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>268.01 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>608.01 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>380.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>284.27 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>664.27 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-56.26 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>73.41 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京派特森科技发展有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：薛爱民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>薛爱民 </enterprise:股东名称>
+	 <enterprise:货币>431.9万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>86.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：张艳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张艳 </enterprise:股东名称>
+	 <enterprise:货币>16.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：闫晓波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>闫晓波 </enterprise:股东名称>
+	 <enterprise:货币>16.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：刘辉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘辉 </enterprise:股东名称>
+	 <enterprise:货币>15.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：王长林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王长林 </enterprise:股东名称>
+	 <enterprise:货币>10.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：李兴锋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李兴锋 </enterprise:股东名称>
+	 <enterprise:货币>10.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京派特森科技发展有限公司股东：陈玉萍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈玉萍 </enterprise:股东名称>
+	 <enterprise:货币>0.1万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.02%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="北京派特森科技发展有限公司的员工基本信息">
+	<enterprise:有从业人数>29</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:25,25岁以下:0,45岁以上:4</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:29,高中及以下:0,专科:0</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:4,技术人员:25,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:11人,未参加:18人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京派特森科技发展有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>一般</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:外部经营环境 >
+<enterprise:主要客户及经营情况    rdf:ID="北京派特森科技发展有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中国石油西南油气田分公司、中联煤层气有限公司、中国地质科学院地质研究
+所、中国石油勘探开发研究院、中国石油勘探开发研究院廊坊分院、中国地质科学院矿产资源
+所</enterprise:现有主要客户>
+	<enterprise:目前经营状况>公司经营状况较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京派特森科技发展有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京派特森科技发展有限公司的企业类型">
+	<enterprise:企业类型>留学人员创业企业 中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京派特森科技发展有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京派特森科技发展有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京派特森科技发展有限公司的企业法人代表：薛爱民">
+	<enterprise:名称>薛爱民</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>62</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>1954</enterprise:出生年月>
+	<enterprise:身份证号码>220104195408011518</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>博士研究生</enterprise:学历>
+	<enterprise:学位>博士</enterprise:学位>
+	<enterprise:职称>研究员</enterprise:职称>
+	<enterprise:现任职务>董事长兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1996 年~1997 年获国务院特殊津贴 
+受到过何种重要奖惩 
+学习及工作简历 
+起止日期 在何地区、何学校、何部门 获何学位、任何职务 
+2003 年 9 月至今 北京派特森科技发展有限公司 执行董事兼总经理 
+2000 年~2003 年 8 月 Veritas 地球物理公司 研究员 
+1999 年~2000 年 加拿大 Enertech 地球物理公司 研究员 
+1993 年~1997 年 中科院物理研究所 副研究员 
+起止日期 在何地区何部门 任何职务 
+2008 年至今 中国地质科学院地质力学研究所 特聘研究员</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京派特森科技发展有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京派特森科技发展有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>911101087655303295</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税、增值税、所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>未提供</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>未提供</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京派特森科技发展有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>过滤膜、水泵和搪瓷拼装泵等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>常规设备供应商、材料供应商等</enterprise:有供应商类型>
+	<enterprise:有交易地位>势</enterprise:有交易地位>
+	<enterprise:有议价能力>有较强的议价能力</enterprise:有议价能力>
+	<enterprise:有延期支付>支付</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>1766.04</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3349.36</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京派特森科技发展有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京派特森科技发展有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>900.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京派特森科技发展有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京派特森科技发展有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京派特森科技发展有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+
+
+<enterprise:专利数量 rdf:ID="北京派特森科技发展有限公司的专利数量">
+	<enterprise:专利总计>3</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>3</enterprise:专利数量2015>
+</enterprise:专利数量>
+
+
+<enterprise:网站备案数量 rdf:ID="北京派特森科技发展有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>2</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+
+</rdf:RDF>

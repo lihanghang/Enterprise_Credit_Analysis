@@ -1,0 +1,2296 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京三博中自科技有限公司的企业概况">
+    <enterprise:有名称>北京三博中自科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>（万元）</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行中关村支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>94</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2001年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1160.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2031年</enterprise:有营业执照到期日>
+    <enterprise:有股本>1160.00</enterprise:有股本>
+    <enterprise:有经营范围>计算机系统服务；软件开发；销售软件、机械设备、电子产品；技术开发、技术推广、技术转让、技术服务、技术咨询。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）计算机系统服务；软件开发；销售软件、机械设备、电子产品；技术开发、技术推广、技术转让、技术服务、技术咨询。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>品与技术服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区中关村南一条</enterprise:有注册地址>
+    <enterprise:有通讯地址>平房北库房</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100190</enterprise:有邮政编码>
+    <enterprise:有联系人>魏虹</enterprise:有联系人>
+    <enterprise:有联系电话>010-82856083</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82856085</enterprise:有传真电话>
+    <enterprise:有E-mail>2216024487@qq.com</enterprise:有E-mail>
+    <enterprise:有网址>www.sciample.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京三博中自科技有限公司（以下简称“公
+司”）于 2001年 2月 13日在北京市工商行政管
+理局海淀分局注册成立，原名为北京中自三博
+控制工程公司（隶属于中国科学院自动化研究
+所），初始注册资本为 262.50 万元，后经两次
+增资，截至评级时点，公司注册资本 1160.00
+万元，股东出资和持股情况详见附录二之表
+13。 
+公司经营范围：“计算机系统服务；软件开
+发；销售软件、机械设备、电子产品；技术开
+发、技术推广、技术转让、技术服务、技术咨
+询”。目前，公司主营业务是为工业企业提供节
+能减排控制、企业资源优化、智能分析决策以
+及相应系统集成的解决方案、产品与技术服务。 
+截至 2016 年 10 月底，公司资产总额
+12570.20 万元，固定资产净额 61.33 万元，所
+有者权益 3203.96万元；2015年，公司实现营
+业收入 9026.64万元，利润总额 288.90万元；
+2016 年 1~10 月，公司实现营业收入 6494.28
+万元，利润总额 75.32万元。公司现有员工 94
+人，在北京市属于中型企业。 
+公司注册地址：北京市海淀区中关村南一
+条 1号南楼二层西侧；经营地址：北京市海淀
+区中关村东路 95号自动化大厦六层 601-611，
+东楼二层 201—232 以及三号院工厂平房北库
+房 4号；法定代表人：陈良怀；组织机构代码：
+80205595-1；经营期限：自 2001年 2月 13日
+至 2031年 2月 12日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京三博中自科技有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长陈良怀，52岁，
+硕士研究生学历，高级工程师。陈良怀毕业后
+一直在中国科学院自动化研究所工作，2001年
+至今任公司董事长，管理经验和从业经验丰富。 
+公司总经理林红权，50岁，硕士研究生学
+历，研究员、研究生导师。林红权在中国科学
+院自动化所工作多年，多次被评为“自动化所
+优秀党员”。林红权主要从事过程系统辩识、优
+化控制、模糊控制、专家系统及现场总线技术、
+焦炉控制系统的管控一体化软件和系统的开
+发，参加的“九五”国家攻关项目获得部级科
+技进步一等奖，具有多年从业经历，积累了丰
+富的行业经验。 
+公司副总经理庄诚，56岁，硕士研究生学
+历，研究员、研究生导师。庄诚曾在中国科学
+院自动化研究所二部从事工业生产过程控制工
+作，在泰国国家石油化工有限公司（简称 TPI）
+负责 DCS、ESD、先进控制系统、压缩机控制
+系统等工作，专业经验丰富。 
+公司常务副总经理龙洪胜，48岁，硕士研
+究生学历，2001年加入公司，曾任公司工程部
+经理。龙洪胜是第一批荣获 SIEMENS 自动化
+专家称号，拥有十多年自动化工程经验，负责
+和参加了几十项工程项目，理论知识和现场工
+程经验丰富。 
+总体看，公司高管学历水平高，从业经验
+丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 94人。 
+从年龄构成看，公司员工年龄在 45岁及以
+下者占比 86.17%，员工以中青年为主。 
+从学历构成看，公司员工中本科及以上学
+历者 65 人，占比 69.15%，员工整体学历水平
+较高。 
+从岗位构成看，公司现有管理人员 13人，
+占比 13.83%；技术人员 61人，占比 64.89%；
+作业人员 20 人，占比 21.28%，员工岗位构成
+符合公司业务特点。 
+总体看，公司员工学历水平较高，岗位结
+构合理。 
+3．研发人员素质 
+公司现有研发人员 33人，全部为本科及以
+上学历，研发人员学历水平高。 
+公司技术总监马增良，MBA，研究员、研
+究生导师，目前负责公司的市场支持工作，并
+负责与政府及地方单位的合作。马增良主持完
+成过多项国家产业化重点项目，获得省部级以
+上科技进步奖 5项，研发经验丰富，专业能力
+强。 
+公司信息化部总经理魏书楷，高级工程师，
+目前负责公司的企业生产管理系统 SciMES 产
+品研发与应用实施工作。魏书楷主持完成过多
+项国家及地方政府科技项目，并多次获得国家
+及地方科技进步奖，开发了多项钢铁及焦化行
+业新产品并得到广泛应用，专业能力强。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司根据不同研发方向设置了多个研发部
+门，具体情况如下：工程部负责基础测控技术
+与产品开发，自动化工程项目的设计、集成与
+实施；信息化部负责信息化技术产品开发，信
+息化工程项目的设计、集成与实施；红外部负
+责红外测温技术研发与产品开发。 
+近三年，公司研发投入分别为 1266.00 万
+元、883.00万元、760.00万元，分别占当年营
+业收入的 9.41%、7.05%、8.42%，研发投入主
+要用于发放研发人员工资、购置研发设备等。 
+总体看，公司科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>1266.00万元,883.00万元,760.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>9.41%,7.05%,8.42%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京三博中自科技有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地址位于北京市海淀区中关村东
+路 95号自动化大厦六层 601-611，东楼二层 201
+—232 以及三号院工厂平房北库房 4 号，建筑
+面积共 1200.00 平方米，使用方式为租赁，该
+办公场所交通便利，设施齐全。 
+公司拥有资质详见表 2。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业 
+1 
+编号：GR201411001995，有效期至 2017年 10月 
+中关村高新技术企业 
+2 
+编号：20152010550507，有效期至 2018年 7月 
+信息系统集成及服务叁级资质 
+3 
+编号：XZ3110020120624，有效期至 2019年 11月 
+资料来源：公司提供，联合信用整理 
+总体看，公司资质能够满足现阶段经营需
+求，经营条件较好。 
+2．业务运作 
+公司以“节能减排、资源优化”为发展战
+略，主要面向工业领域，研发自动化、信息化
+和工业节能技术，为工业企业提供节能减排控
+制、企业资源优化、智能分析决策以及相应系
+统集成的解决方案、产品与技术服务。 
+目前，公司自主研发并已上市推广应用的
+系统和产品有：能源优化集成系统、智能生产
+调度管理系统、生产设备管理系统、电磁加热
+节能系统、制鞋行业智能管理系统、炼焦行业
+自动化系统系列、SciMES 综合信息化生产管
+理系统、RFID 无线阅读器、SMP-RY 系列冗
+余 I/O 适配器、红外测温仪等。公司收入来源
+于工程项目、商品销售、红外测温产品销售三
+大板块。 
+近年来，受下游钢铁、煤炭、冶金等重工
+业行业整体不景气影响，公司正在向轻化工、
+服装加工、制鞋、食品饮料等轻工业行业拓展，
+以降低对重工业类客户的依赖度、增加收入、
+提高毛利率及收款质量。 
+采购方面，公司主要采购西门子工业控制
+类产品、周边外设、机柜加工，项目所需的工
+控机大多数情况需要提前 4~8周向西门子（中
+国）有限公司下订单直接采购，该供应商向公
+司提供了 500万元左右的信用额度，在 1个月
+内结清即可；少数急用工控机的采购则通过西
+门子的代理商进行成品采购，与代理商均采取
+月结的方式结算。公司项目所需的显示屏、打
+印机、仪表等结算方式一般是预付 30%款项，
+货到验收合格后结清尾款。采购价格方面，西
+门子（中国）有限公司基本每年会对工控机进
+行例行调价，但作为西门子品牌的系统方案合
+作伙伴，公司的采购价格较其他采购方会享受
+一定的优惠；其他设备则参照市场指导价格进
+行采购。 
+公司针对行业应用特点及客户需求，为客
+户提供定制化的自动化控制系统解决方案及系
+统集成服务，并在项目中配套应用其自主研发
+的电磁加热节能、红外测温等仪器仪表设备，
+使客户利用计算机信息化技术对企业生产和管
+理进行精确控制和精细管理，实现传统产业改
+造和提升，达到企业节能减排、资源优化的目
+的。公司所需机柜、操作台等外设器材则委托
+位于平谷区的工厂进行加工制造，为了维护与
+公司的合作关系，该工厂向公司免费提供 400
+余平米的场所供公司组装和仓储，结算上，按
+合同约定执行，通常为季度结算。 
+销售方面，对于集成类项目公司通过投标
+的方式取得实施资格，公司通常预收 30%的款
+项，6~8 周后设备到货收款至 60%，经过 6~9
+个月的现场安装、调试、验收等工作收款至
+90%，余 10%的质保金，质保期 1年。公司对
+于西门子工控机的销售通过分销的方式实现销
+售，结算通常为预收 30%，货到验收合格后收
+余款，此部分业务由于毛利率很低，公司将逐
+渐放弃；对于红外测温仪、电磁加热节能系统
+等自研产品的销售则采取直销的方式，由于均
+为近年来推出的新产品，因此目前销售收入仍
+有限，预计此业务收入占比将提升。 
+总体看，随着公司对下游行业客户及业务
+结构的调整，预计公司整体经营状况稳定。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 97.33 97.56 98.43 
+管理费用率(%) 7.42 4.86 3.68 
+应收账款周转次数(次) 2.36 2.12 1.54 
+存货周转次数(次) 3.88 3.74 2.65 
+总资产周转次数(次) 1.17 1.09 0.74 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率基本稳定，处于行业
+高水平，成本控制力度有待加强；同期，公司
+管理费用率呈下降趋势，管理费用控制较好。 
+近三年，公司应收账款周转次数呈下降趋
+势，处于行业低水平；同期，公司存货周转次
+数呈下降趋势，处于行业低水平；同期，公司
+平。 
+总体看，公司整体经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会由全体股东组成，是公司的权力机
+构，行使决定公司的经营方针和投资计划、审
+议批准董事会和监事的报告、审议批准公司的
+年度财务预算方案和决算方案等职权；公司设
+董事会，由 5名董事组成，董事会行使召集股
+东会并向股东会报告工作、执行股东会决议、
+决定公司的经营计划和投资方案等职权；公司
+不设监事会，设监事 2人，行使检查公司财务、
+对董事和高级管理人员执行公司职务的行为进
+行监督等职权。 
+公司设总经理 1名，总经理行使主持公司
+的生产经营管理工作、组织实施公司年度经营
+计划和投资方案等职权。 
+公司内设信息化部、工程部、红外部、市
+场部、智能化工厂咨询中心，项目管理部、财
+务部、总裁办，各部门职责明确，协作有序。 
+公司拥有 1家参股子公司，详见附录二之
+表 15。 
+总体看，公司法人治理结构较完善，组织
+架构清晰。 
+2．制度建设及执行 
+根据内部管理需求，公司制定了《日常规
+章制度》、《考勤制度》、《财务制度》、《后勤行
+政管理制度》、《宿舍管理制度》、《车辆申请制
+度》、《销售人工资提成》等管理制度，并通过
+了 ISO 9001：2008 质量管理体系认证、ISO 
+14001：2004 环境管理体系认证、OHSAS 
+18001：2007 职业健康安全管理体系认证（有
+效期均至 2018年 5月），进一步规范了公司内
+部运作流程。在实际经营中，公司严格按照相
+关管理制度及操作规程执行。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，联合
+信用预测公司 2016 年将实现营业收入
+10000.00万元，净利润 300.00万元；预计 2016
+年底公司资产总额 12439.60 万元，负债总额
+9000.00万元，所有者权益 3439.60万元。相比
+2015 年，联合信用预计公司 2016 年营业收入
+增长 10.78%，负债率变动幅度为-3.77%，净资
+产收益率变动幅度为 2.08%。 
+总体看，联合信用预测公司短期内业务发
+展较好。 
+2．融资需求 
+截至评级时点，公司暂无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京三博中自科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 11782.46万
+元、11196.27万元、13146.75万元，复合增长
+率为 5.63%，增长稳定，主要由于公司业务发
+展使得资产增长所致。 
+截至 2016 年 10 月底，公司资产总额
+12570.20万元，其中：流动资产占比 83.12%，
+非流动资产占比 16.88%。 
+截至 2016 年 10 月底，公司流动资产
+10447.99万元，主要是：货币资金 273.32万元，
+占比 2.62%；应收账款 4860.11 万元，占比
+46.52%，主要为应收北京进步时代科技有限公
+司、阳泉煤业集团平定化工有限公司、西部矿
+业公司锌业分公司、云南阳光基业能源有限公
+司、陕西东鑫垣化工有限公司等的项目款和货
+款，账龄在 1年以内的占比 67.08%，1~2年的
+占比 22.98%，2年以上的占比 9.94%；预付款
+项 1675.87万元，占比 16.04%，主要为预付北
+京友和鼎盛科技有限公司、江苏亚邦三博节能
+投资有限公司、武汉景明工程有限公司、河北
+港口集团通信信息工程分公司、湖南继善高科
+有限公司等的货款；存货 3195.86 万元，占比
+30.59%，主要为西门子工控产品、非西门子电
+子类产品。 
+图 1  公司 2016年 10月底流动资产构成图 
+截至 2016 年 10 月底，公司非流动资产
+2122.20 万元，其中：长期股权投资 400.00 万
+元，占比 18.85%，为对子公司的股权投资；固
+定资产净额 61.33 万元，占比 2.89%，主要为
+办公家具、电子设备等；开发支出 1660.87 万
+元，占比 78.26%，为研发支出等。 
+总体看，公司资产流动性一般，资产质量
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，2016年 10月底，
+公司流动比率和速动比率分别为 112.99%和
+78.43%，均处于行业较低水平；2015年，公司
+现金流动负债比为 2.31%，公司短期偿债能力
+较弱。 
+从长期偿债能力指标看，2015 年，公司
+EBITDA利息倍数和债务保护倍数分别为 2.53
+倍和 0.07倍，公司长期偿债能力较弱。 
+结合公司经营和发展情况来看，公司未来
+一年内整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>74.14%、76.12%；同期，公司全部债务资本化
+比率分别为 53.92%、54.65%、51.25%。2016
+年 10月底，公司资产负债率为 74.51%，全部
+债务资本化比率为 48.77%，公司负债水平高，
+有息债务压力较大。 
+近三年，公司负债总额分别为 9226.84 万
+元、8300.55万元、10007.15万元，复合增长率
+为 4.14%，整体呈上升趋势，主要是随着公司
+业务规模的扩大使得负债增长。 
+截至 2016 年 10 月底，公司负债总额
+9366.23 万元，其中：流动负债占比 98.81%，
+非流动负债占比 1.19%。 
+表 4  公司 2016年 10月底短期借款情况 
+贷款银行 贷款额(万元) 贷款期限 担保方式 
+股东房产、知识
+北京银行 2750.00 2016.5~2017.5 产权、应收账款
+抵押 
+邮储银行 300.00 2016.8~2017.8 股东担保 
+资料来源：公司提供，联合信用整理 
+截至 2016 年 10 月底，公司流动负债
+9246.83万元，主要是：短期借款 3050.00万元，
+占比 32.98%，为银行借款；应付账款 3466.44
+万元，占比 37.49%，主要为应付北京程智伟业
+科技有限公司、北京乾坤欣业科技有限公司、
+北京建元小威商贸有限公司、西门子（中国）
+有限公司等的货款；预收款项 1829.32 万元，
+占比 19.78%，主要为预收连云港亚邦供热有限
+公司、珠海醋酸纤维有限公司、包头市中科发
+展有限公司、金发科技股份有限公司、中和利
+华投资管理有限公司等的项目款。 
+图 2  公司 2016年 10月底流动负债构成图 
+截至 2016 年 10 月底，公司非流动负债
+119.40万元，全部为专项应付款。 
+近三年，公司所有者权益分别为 2555.62
+万元、2895.72万元、3139.60万元，复合增长
+率为 10.84%，主要为留存收益积累所致，增长
+比较稳定。 
+截至 2016 年 10 月底，公司所有者权益
+3203.96万元，其中：实收资本 1160.00万元，
+占比36.21%；资本公积49.49万元，占比1.54%；
+盈余公积 398.30 万元，占比 12.43%；未分配
+利润 1596.18万元，占比 49.82%。公司所有者
+权益对债务保障能力较弱。 
+总体看，公司负债水平高，有息债务压力
+较大，所有者权益成长性较好，对债务保障能
+力较弱。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 13456.57万
+元、12532.41万元、9026.64万元，复合变动率
+为-18.10%，呈下降趋势；同期，公司利润总额
+分别为 359.63万元、405.88万元、288.90万元，
+复合变动率为-10.37%，主要受下游客户所处行
+业周期以及公司业务结构调整影响。 
+近三年，公司主营业务利润率分别为
+19.14%、 14.24%、 12.32%，加权平均值为
+14.26%，处于行业较低水平；同期，公司总资
+产报酬率分别为 5.01%、4.87%、4.10%，加权
+平均值为 4.51%，处于行业低水平；同期，公
+司净资产收益率分别为 10.68%、10.87%、
+7.04%，加权平均值为 8.92%，处于行业较低水
+平。公司盈利能力较弱。 
+图 3  公司近三年盈利能力指标变动趋势图 
+从收入实现质量看，近三年，公司现金收
+入比分别为 84.30%、94.09%、100.16%，加权
+平均值为 95.16%，处于行业一般水平。 
+总体看，公司盈利能力较弱，收入实现质
+量一般。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京三博中自科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司存在行政处罚记录；
+通过在中国执行信息公开网查询，发现公司存
+在 1条被执行记录，为工程施工方面的纠纷，
+目前已执行完毕。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司成本率高，盈利能力较弱。 
+（2）受项目周期较长及客户付款慢影响，
+公司应收账款和存货金额较大，周转速度慢，
+收入实现质量一般。 
+（3）公司负债水平高，有息债务压力较大。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京三博中自科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>11782.46 </enterprise:资产总额>
+    <enterprise:所有者权益>2555.63 </enterprise:所有者权益>
+    <enterprise:负债总额>9226.84 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>13456.57 </enterprise:营业收入>
+    <enterprise:EBITDA>615.61 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京三博中自科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>11196.26 </enterprise:资产总额>
+    <enterprise:所有者权益>2895.72 </enterprise:所有者权益>
+    <enterprise:负债总额>8300.56 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>12532.41 </enterprise:营业收入>
+    <enterprise:EBITDA>599.80 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京三博中自科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>13146.75 </enterprise:资产总额>
+    <enterprise:所有者权益>3139.60 </enterprise:所有者权益>
+    <enterprise:负债总额>10007.15 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>9026.64 </enterprise:营业收入>
+    <enterprise:EBITDA>531.42 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京三博中自科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>1.17 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.36 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.88 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京三博中自科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.09 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.12 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.74 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京三博中自科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.74 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.54 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.65 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京三博中自科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.01 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>48.14 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京三博中自科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.87 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>30.73 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京三博中自科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.10 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>17.18 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京三博中自科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>118.60 </enterprise:流动比率>
+    <enterprise:速动比率>87.40 </enterprise:速动比率>
+    <enterprise:资产负债率>78.31 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>2.87 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京三博中自科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>120.84 </enterprise:流动比率>
+    <enterprise:速动比率>85.15 </enterprise:速动比率>
+    <enterprise:资产负债率>74.14 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>3.91 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京三博中自科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>114.20 </enterprise:流动比率>
+    <enterprise:速动比率>83.51 </enterprise:速动比率>
+    <enterprise:资产负债率>76.12 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>2.53 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京三博中自科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>19.50 </enterprise:毛利率>
+    <enterprise:成本费用利润率>10.99 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.84 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>7.25 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>53.92 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京三博中自科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>14.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>8.59 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.94 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-8.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>54.65 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京三博中自科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>12.58 </enterprise:毛利率>
+    <enterprise:成本费用利润率>7.19 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>2.31 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>51.25 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京三博中自科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>659.29 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>170.57 </enterprise:应收票据>
+    <enterprise:应收账款>6480.12 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>390.81 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>136.07 </enterprise:其他应收款>
+    <enterprise:存货>2814.74 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>49.06 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>10700.66 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>200.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>145.11 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>736.69 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1081.80 </enterprise:非流动资产合计>
+    <enterprise:资产总计>11782.46 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京三博中自科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>291.05 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>55.13 </enterprise:应收票据>
+    <enterprise:应收账款>5322.34 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1154.89 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>83.43 </enterprise:其他应收款>
+    <enterprise:存货>2919.86 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>59.47 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>9886.17 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>400.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>110.92 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>799.17 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1310.09 </enterprise:非流动资产合计>
+    <enterprise:资产总计>11196.26 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京三博中自科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>116.99 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>3.00 </enterprise:应收票据>
+    <enterprise:应收账款>6363.58 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1539.64 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>134.10 </enterprise:其他应收款>
+    <enterprise:存货>3034.23 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>100.37 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11291.91 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>400.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>81.16 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>1373.68 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1854.84 </enterprise:非流动资产合计>
+    <enterprise:资产总计>13146.75 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京三博中自科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3490.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2378.28 </enterprise:应付账款>
+    <enterprise:预收款项>1052.36 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>63.70 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1189.14 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>7.68 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8181.16 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>119.40 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>119.40 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8300.56 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1160.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>49.49 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>335.96 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1350.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2895.72 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2895.72 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>11196.28 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京三博中自科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3490.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2378.28 </enterprise:应付账款>
+    <enterprise:预收款项>1052.36 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>63.70 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1189.14 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>7.68 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8181.16 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>119.40 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>119.40 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8300.56 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1160.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>49.49 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>335.96 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1350.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2895.72 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2895.72 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>11196.28 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京三博中自科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3300.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4265.18 </enterprise:应付账款>
+    <enterprise:预收款项>1380.62 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>58.47 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>876.30 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>7.18 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>9887.75 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>119.40 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>119.40 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10007.15 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1160.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>49.49 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>390.99 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1539.12 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3139.60 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3139.60 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>13146.75 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京三博中自科技有限公司2013年利润表">
+    <enterprise:营业收入>13456.57 </enterprise:营业收入>
+    <enterprise:主营业务收入>13456.57 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10832.86 </enterprise:营业成本>
+    <enterprise:主营业务成本>10832.86 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>47.98 </enterprise:营业税金及附加>
+    <enterprise:销售费用>982.80 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>972.38 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>260.92 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1332.01 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1332.01 </enterprise:利润总额>
+    <enterprise:所得税费用>101.63 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1230.38 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1230.38 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京三博中自科技有限公司2014年利润表">
+    <enterprise:营业收入>12532.41 </enterprise:营业收入>
+    <enterprise:主营业务收入>12532.41 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10714.57 </enterprise:营业成本>
+    <enterprise:主营业务成本>10714.57 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>33.19 </enterprise:营业税金及附加>
+    <enterprise:销售费用>671.94 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>593.61 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>213.22 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>899.49 </enterprise:营业利润>
+    <enterprise:营业外收入>100.04 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.04 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>999.49 </enterprise:利润总额>
+    <enterprise:所得税费用>109.63 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>889.86 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>889.86 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京三博中自科技有限公司2015年利润表">
+    <enterprise:营业收入>9026.64 </enterprise:营业收入>
+    <enterprise:主营业务收入>9026.64 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>7891.37 </enterprise:营业成本>
+    <enterprise:主营业务成本>7891.37 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>23.43 </enterprise:营业税金及附加>
+    <enterprise:销售费用>372.02 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>326.83 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>270.95 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>468.87 </enterprise:营业利润>
+    <enterprise:营业外收入>176.86 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>30.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>615.73 </enterprise:利润总额>
+    <enterprise:所得税费用>76.36 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>539.37 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>539.37 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京三博中自科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>11343.30 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>5573.18 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>16916.48 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>7778.46  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1257.39 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>547.91 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>6679.03 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>16262.79 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>653.69 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>5.59 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5.59 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-5.59 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>2990.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>18.62 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3008.62 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>3490.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>231.42 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>64.41 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3785.83 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-777.21 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-129.11 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京三博中自科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>11791.23 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4698.73 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>16489.96 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>9472.15  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1020.31 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>360.18 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>6345.83 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>17198.47 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-708.51 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>6.41 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>6.41 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-6.41 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>3990.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3990.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>3490.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>153.33 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3643.33 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>346.67 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-368.25 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京三博中自科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>9040.95 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2732.47 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>11773.42 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>6080.88  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>898.35 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>283.05 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4282.45 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>11544.73 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>228.69 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.84 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.84 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.84 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>3300.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>3300.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>3490.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>209.92 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3699.92 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-399.92 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-174.07 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京三博中自科技有限公司被投资单位：江苏亚邦三博节能投资有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>江苏亚邦三博节能投资有限公司</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>400.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>20.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：陈良怀 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈良怀 </enterprise:股东名称>
+	 <enterprise:货币>234.9万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：北京中自投资管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京中自投资管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>232.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：林红权 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>林红权 </enterprise:股东名称>
+	 <enterprise:货币>205.9万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>17.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：马增良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>马增良 </enterprise:股东名称>
+	 <enterprise:货币>40.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：庄诚 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>庄诚 </enterprise:股东名称>
+	 <enterprise:货币>40.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：张前进 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张前进 </enterprise:股东名称>
+	 <enterprise:货币>40.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：何建国 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>何建国 </enterprise:股东名称>
+	 <enterprise:货币>34.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：魏书楷 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>魏书楷 </enterprise:股东名称>
+	 <enterprise:货币>34.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：严效华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>严效华 </enterprise:股东名称>
+	 <enterprise:货币>34.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：龙潺潺 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>龙潺潺 </enterprise:股东名称>
+	 <enterprise:货币>34.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：魏志 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>魏志 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：张玉林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张玉林 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：王海清 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王海清 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：张黛莉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张黛莉 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：王学雷 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王学雷 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：高东杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>高东杰 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：邹益仁 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>邹益仁 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：曾隽芳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>曾隽芳 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：熊修亮 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>熊修亮 </enterprise:股东名称>
+	 <enterprise:货币>23.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京三博中自科技有限公司股东：王云 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王云 </enterprise:股东名称>
+	 <enterprise:货币>17.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIRTDP">
+	<enterprise:有申请日期>13-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIRTDP</enterprise:有商标名称>
+	<enterprise:有注册号>12017525</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIMES">
+	<enterprise:有申请日期>12-5-23</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIMES</enterprise:有商标名称>
+	<enterprise:有注册号>10957053</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIEMS">
+	<enterprise:有申请日期>10-10-26</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIEMS</enterprise:有商标名称>
+	<enterprise:有注册号>8776244</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印注册申请无效通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCISMAR">
+	<enterprise:有申请日期>10-10-26</enterprise:有申请日期>
+	<enterprise:有商标名称>SCISMAR</enterprise:有商标名称>
+	<enterprise:有注册号>8776245</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印注册申请无效通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIMES">
+	<enterprise:有申请日期>10-10-26</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIMES</enterprise:有商标名称>
+	<enterprise:有注册号>8776247</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印注册申请无效通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIAMPLE">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIAMPLE</enterprise:有商标名称>
+	<enterprise:有注册号>4295195</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIAMPLE">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIAMPLE</enterprise:有商标名称>
+	<enterprise:有注册号>4295196</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIAMPLE">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIAMPLE</enterprise:有商标名称>
+	<enterprise:有注册号>4295191</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：三博中自">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>三博中自</enterprise:有商标名称>
+	<enterprise:有注册号>4295197</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：三博中自">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>三博中自</enterprise:有商标名称>
+	<enterprise:有注册号>4295190</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SCIAMPLE">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>SCIAMPLE</enterprise:有商标名称>
+	<enterprise:有注册号>4295192</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：三博中自">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>三博中自</enterprise:有商标名称>
+	<enterprise:有注册号>4295193</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：三博中自">
+	<enterprise:有申请日期>04-9-30</enterprise:有申请日期>
+	<enterprise:有商标名称>三博中自</enterprise:有商标名称>
+	<enterprise:有注册号>4295194</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京三博中自科技有限公司的商标信息：SAMPLE">
+	<enterprise:有申请日期>01-7-13</enterprise:有申请日期>
+	<enterprise:有商标名称>SAMPLE</enterprise:有商标名称>
+	<enterprise:有注册号>1980303</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种稀土火法冶金过程在线红外测温仪器的防护装置">
+	<enterprise:有申请公布日>2017-09-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种稀土火法冶金过程在线红外测温仪器的防护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710308724.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107192461A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种事故应急信息化管理方法及系统">
+	<enterprise:有申请公布日>2016-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种事故应急信息化管理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210523708.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103034926B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种电磁加热控温系统及其风冷却系统">
+	<enterprise:有申请公布日>2016-02-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁加热控温系统及其风冷却系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210109449.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103376807B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：物体穿行检测系统">
+	<enterprise:有申请公布日>2015-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>物体穿行检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520398302.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204719246U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：物体穿行检测系统和方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>物体穿行检测系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510316867.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104898177A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦化行业基于专家系统的煤气动态平衡调度方法及系统">
+	<enterprise:有申请公布日>2015-08-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦化行业基于专家系统的煤气动态平衡调度方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110079942.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102722754B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种多维度数据查询和存储方法及系统">
+	<enterprise:有申请公布日>2015-08-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多维度数据查询和存储方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592686.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103020301B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：机器人手眼系统结构光平面参数标定装置及方法">
+	<enterprise:有申请公布日>2015-04-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>机器人手眼系统结构光平面参数标定装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210440064.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102927908B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业管网系统的监控系统和方法">
+	<enterprise:有申请公布日>2015-04-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业管网系统的监控系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110195934.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102830662B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：集气管压力控制系统切换装置">
+	<enterprise:有申请公布日>2015-04-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>集气管压力控制系统切换装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420557826.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204256488U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程行业故障事件的原因搜索方法和系统">
+	<enterprise:有申请公布日>2014-10-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程行业故障事件的原因搜索方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110115174.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102768511B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业换热网络节能方法">
+	<enterprise:有申请公布日>2014-06-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业换热网络节能方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110201753.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102446299B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种电磁加热控温系统及其风冷却系统">
+	<enterprise:有申请公布日>2013-10-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁加热控温系统及其风冷却系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210109449.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103376807A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种电磁加热控温系统及其液体冷却系统">
+	<enterprise:有申请公布日>2013-10-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁加热控温系统及其液体冷却系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210111667.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103376808A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：发酵工艺生产设备监控信息通讯系统">
+	<enterprise:有申请公布日>2013-08-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>发酵工艺生产设备监控信息通讯系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320162869.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203164736U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：调味品业发酵罐区控制与管理系统">
+	<enterprise:有申请公布日>2013-08-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>调味品业发酵罐区控制与管理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310078318.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103257631A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：分布式生产设备监控信息通讯系统">
+	<enterprise:有申请公布日>2013-08-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>分布式生产设备监控信息通讯系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310116100.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103235570A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：用于电机驱动的流体输送设备能效计算的建模方法和系统">
+	<enterprise:有申请公布日>2013-06-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于电机驱动的流体输送设备能效计算的建模方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010585630.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109823B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种准确获得干熄焦碳烧损率的方法和系统">
+	<enterprise:有申请公布日>2013-06-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种准确获得干熄焦碳烧损率的方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110424166.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103163041A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种基于干熄焦提升装置的获得焦炭重量的方法和系统">
+	<enterprise:有申请公布日>2013-06-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于干熄焦提升装置的获得焦炭重量的方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110424120.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103159135A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：多协议点巡检设备接入系统">
+	<enterprise:有申请公布日>2013-06-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>多协议点巡检设备接入系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010548649.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102065124B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种数据自动转换与存储的方法及系统">
+	<enterprise:有申请公布日>2013-05-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据自动转换与存储的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310038601.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103092980A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种事故应急信息化管理方法及系统">
+	<enterprise:有申请公布日>2013-04-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种事故应急信息化管理方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210523708.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103034926A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种多维度数据查询和存储方法及系统">
+	<enterprise:有申请公布日>2013-04-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多维度数据查询和存储方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210592686.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103020301A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业企业实时报警的系统和方法">
+	<enterprise:有申请公布日>2013-03-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业企业实时报警的系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110078873.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102200769B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：实验室白酒勾调装置及电磁阀选择方法">
+	<enterprise:有申请公布日>2013-03-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>实验室白酒勾调装置及电磁阀选择方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010276409.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101979492B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业能量计算系统">
+	<enterprise:有申请公布日>2013-03-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业能量计算系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010585640.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102073788B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：机器人手眼系统结构光平面参数标定装置及方法">
+	<enterprise:有申请公布日>2013-02-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>机器人手眼系统结构光平面参数标定装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210440064.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102927908A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种结构化换热网络系统及其构建方法">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种结构化换热网络系统及其构建方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110033293.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102116593B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种电磁加热控温系统及其风冷却系统">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁加热控温系统及其风冷却系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220158031.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202649851U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业能量平衡分析系统及工业能量平衡分析方法">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业能量平衡分析系统及工业能量平衡分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110082798.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102169559B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：基于动态平衡调度的煤气系统">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于动态平衡调度的煤气系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120562315.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202647189U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种蒸汽透平驱动的流体输送设备能效监控系统">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种蒸汽透平驱动的流体输送设备能效监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220194795.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202648968U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种用于企业综合信息平台的系统架构及其实现方法">
+	<enterprise:有申请公布日>2013-01-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于企业综合信息平台的系统架构及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110094590.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102130966B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业管网系统的监控系统和方法">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业管网系统的监控系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110195934.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102830662A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种蒸汽系统的运行优化系统和方法">
+	<enterprise:有申请公布日>2012-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种蒸汽系统的运行优化系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110159573.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102830616A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种电磁加热控温系统及其液体冷却系统">
+	<enterprise:有申请公布日>2012-12-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁加热控温系统及其液体冷却系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220161182.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202600527U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业管网系统的调度系统与方法">
+	<enterprise:有申请公布日>2012-12-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业管网系统的调度系统与方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110161894.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102810185A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种料场堆取原料品种的识别方法和系统">
+	<enterprise:有申请公布日>2012-12-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种料场堆取原料品种的识别方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010529409.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102020118B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程行业故障事件的原因搜索方法和系统">
+	<enterprise:有申请公布日>2012-11-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程行业故障事件的原因搜索方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110115174.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102768511A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种准确获得干熄焦碳烧损率的系统">
+	<enterprise:有申请公布日>2012-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种准确获得干熄焦碳烧损率的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120530945.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202512076U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：负荷大范围变动下的循环流化床锅炉燃烧优化控制系统">
+	<enterprise:有申请公布日>2012-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>负荷大范围变动下的循环流化床锅炉燃烧优化控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110082800.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102183015B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业用电磁加热控制器">
+	<enterprise:有申请公布日>2012-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业用电磁加热控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220182198.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202514092U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种基于点巡检数据和DCS在线数据的设备故障预测方法">
+	<enterprise:有申请公布日>2012-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于点巡检数据和DCS在线数据的设备故障预测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010541512.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102063119B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业设备用能状态诊断方法">
+	<enterprise:有申请公布日>2012-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业设备用能状态诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110201386.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102231081B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦化行业基于专家系统的煤气动态平衡调度方法及系统">
+	<enterprise:有申请公布日>2012-10-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦化行业基于专家系统的煤气动态平衡调度方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110079942.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102722754A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：基于干熄焦提升装置的焦炭重量计算系统及焦罐提升机">
+	<enterprise:有申请公布日>2012-10-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于干熄焦提升装置的焦炭重量计算系统及焦罐提升机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120531014.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202465085U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程行业产品质量跟踪的方法和系统">
+	<enterprise:有申请公布日>2012-09-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程行业产品质量跟踪的方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110050683.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102654907A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业用能诊断分析系统及方法">
+	<enterprise:有申请公布日>2012-09-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业用能诊断分析系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110124571.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102184481B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业过程设备能量实时监控系统及监控方法">
+	<enterprise:有申请公布日>2012-08-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业过程设备能量实时监控系统及监控方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010619807.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053613B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种蒸汽透平驱动的流体输送设备能效监控系统">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种蒸汽透平驱动的流体输送设备能效监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210135046.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102645348A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：流程工业管网系统、蒸汽系统的监控系统和流程工业蒸汽系统">
+	<enterprise:有申请公布日>2012-08-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>流程工业管网系统、蒸汽系统的监控系统和流程工业蒸汽系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120246628.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202394083U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业企业实时报警的系统">
+	<enterprise:有申请公布日>2012-06-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业企业实时报警的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120089138.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202275494U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业换热网络分析方法">
+	<enterprise:有申请公布日>2012-05-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业换热网络分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110201753.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102446299A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程行业故障事件的原因搜索系统">
+	<enterprise:有申请公布日>2012-05-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程行业故障事件的原因搜索系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120139680.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202210229U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业管网系统的调度系统">
+	<enterprise:有申请公布日>2012-02-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业管网系统的调度系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120203055.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202133897U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程行业产品质量跟踪的系统">
+	<enterprise:有申请公布日>2012-02-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程行业产品质量跟踪的系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120053487.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202134038U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：负荷大范围变动下的循环流化床锅炉燃烧优化控制系统">
+	<enterprise:有申请公布日>2011-11-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>负荷大范围变动下的循环流化床锅炉燃烧优化控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120094433.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202032573U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流程工业设备用能状态诊断方法">
+	<enterprise:有申请公布日>2011-11-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流程工业设备用能状态诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110201386.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102231081A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业过程设备能量实时监控系统">
+	<enterprise:有申请公布日>2011-10-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业过程设备能量实时监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020696137.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202008601U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业企业实时报警的系统和方法">
+	<enterprise:有申请公布日>2011-09-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业企业实时报警的系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110078873.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102200769A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业用能诊断分析系统及方法">
+	<enterprise:有申请公布日>2011-09-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业用能诊断分析系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110124571.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102184481A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：负荷大范围变动下的循环流化床锅炉燃烧优化控制系统">
+	<enterprise:有申请公布日>2011-09-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>负荷大范围变动下的循环流化床锅炉燃烧优化控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110082800.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102183015A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种生产设备检修计划统筹安排与执行管理系统">
+	<enterprise:有申请公布日>2011-09-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生产设备检修计划统筹安排与执行管理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120004534.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201974848U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种用于电机驱动的流体输送设备能效计算的建模系统">
+	<enterprise:有申请公布日>2011-09-07</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于电机驱动的流体输送设备能效计算的建模系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020656397.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201965614U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业能量平衡分析系统及工业能量平衡分析方法">
+	<enterprise:有申请公布日>2011-08-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业能量平衡分析系统及工业能量平衡分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110082798.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102169559A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业能量计算系统">
+	<enterprise:有申请公布日>2011-08-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业能量计算系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020656420.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201936344U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：以裂解原料为基础的乙烯生产能耗计算和定标分析方法">
+	<enterprise:有申请公布日>2011-08-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>以裂解原料为基础的乙烯生产能耗计算和定标分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010104910.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102142044A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：工业生产设备信息集成方法和系统">
+	<enterprise:有申请公布日>2011-08-03</enterprise:有申请公布日>
+	<enterprise:有专利名称>工业生产设备信息集成方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010556128.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102143202A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种用于企业综合信息平台的系统架构及其实现方法">
+	<enterprise:有申请公布日>2011-07-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于企业综合信息平台的系统架构及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110094590.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102130966A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种结构化换热网络系统及其构建方法">
+	<enterprise:有申请公布日>2011-07-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种结构化换热网络系统及其构建方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110033293.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102116593A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种生产设备检修计划统筹安排与执行管理系统">
+	<enterprise:有申请公布日>2011-07-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生产设备检修计划统筹安排与执行管理系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110003197.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102117444A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种料场堆取原料品种的识别系统">
+	<enterprise:有申请公布日>2011-06-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种料场堆取原料品种的识别系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020588632.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201882649U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：用于电机驱动的流体输送设备能效计算的建模方法和系统">
+	<enterprise:有申请公布日>2011-06-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于电机驱动的流体输送设备能效计算的建模方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010585630.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109823A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业能量计算系统">
+	<enterprise:有申请公布日>2011-05-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业能量计算系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010585640.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102073788A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种基于点巡检数据和DCS在线数据的设备故障预测方法">
+	<enterprise:有申请公布日>2011-05-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于点巡检数据和DCS在线数据的设备故障预测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010541512.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102063119A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：多协议点巡检设备接入系统">
+	<enterprise:有申请公布日>2011-05-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>多协议点巡检设备接入系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010548649.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102065124A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种工业过程设备能量实时监控系统及监控方法">
+	<enterprise:有申请公布日>2011-05-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工业过程设备能量实时监控系统及监控方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010619807.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053613A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种料场堆取原料品种的识别方法和系统">
+	<enterprise:有申请公布日>2011-04-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种料场堆取原料品种的识别方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010529409.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102020118A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：实验室白酒勾调装置及电磁阀选择方法">
+	<enterprise:有申请公布日>2011-02-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>实验室白酒勾调装置及电磁阀选择方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010276409.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101979492A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦化作业高压氨水联锁装置">
+	<enterprise:有申请公布日>2011-01-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦化作业高压氨水联锁装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020149218.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201713478U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦化作业消烟除尘联锁装置">
+	<enterprise:有申请公布日>2011-01-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦化作业消烟除尘联锁装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020149234.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201713479U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：基于射频识别的信息保密管理系统及其方法">
+	<enterprise:有申请公布日>2010-09-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于射频识别的信息保密管理系统及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610113408.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101154251B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：炼焦炉燃烧废气的横向含氧量检测装置">
+	<enterprise:有申请公布日>2010-01-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>炼焦炉燃烧废气的横向含氧量检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920106951.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201387423Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：炼焦炉燃烧废气的横向含氧量检测方法及其实现装置">
+	<enterprise:有申请公布日>2009-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>炼焦炉燃烧废气的横向含氧量检测方法及其实现装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910081907.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101526495A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种流水线RFID接口控制器与上位机的通讯方法">
+	<enterprise:有申请公布日>2009-08-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种流水线RFID接口控制器与上位机的通讯方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810242634.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101498931A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：入炉煤饼煤量测量装置">
+	<enterprise:有申请公布日>2008-10-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>入炉煤饼煤量测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720310242.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201136850Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：一种焦化作业无线记录设备">
+	<enterprise:有申请公布日>2008-10-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种焦化作业无线记录设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720310244.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201130326Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：基于射频识别的信息保密管理系统及其方法">
+	<enterprise:有申请公布日>2008-04-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于射频识别的信息保密管理系统及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610113408.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101154251A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：喷嘴扬程比例控制阀">
+	<enterprise:有申请公布日>2007-12-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>喷嘴扬程比例控制阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200410098987.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100353097C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：无滑配喷嘴扬程比例控制阀">
+	<enterprise:有申请公布日>2007-07-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>无滑配喷嘴扬程比例控制阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620000298.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2924213Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦炉炼焦生产自动加热方法">
+	<enterprise:有申请公布日>2006-07-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦炉炼焦生产自动加热方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200310123411.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1266251C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：喷嘴扬程比例控制阀">
+	<enterprise:有申请公布日>2006-07-05</enterprise:有申请公布日>
+	<enterprise:有专利名称>喷嘴扬程比例控制阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200410098987.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1796833A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：喷嘴扬程比例控制阀">
+	<enterprise:有申请公布日>2006-03-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>喷嘴扬程比例控制阀</enterprise:有专利名称>
+	<enterprise:有申请号>CN200420009989.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN2763640Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京三博中自科技有限公司的专利信息：焦炉炼焦生产自动加热方法">
+	<enterprise:有申请公布日>2005-07-06</enterprise:有申请公布日>
+	<enterprise:有专利名称>焦炉炼焦生产自动加热方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200310123411.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN1635050A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：过程数据压缩归档系统">
+	<enterprise:有批准日期>16-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>过程数据压缩归档系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR095814</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：实时数据库系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>实时数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>SciRTDP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093899</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：SciMES企业生产管理综合信息平台系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>SciMES企业生产管理综合信息平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093543</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业办公自动化平台系统">
+	<enterprise:有批准日期>16-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>企业办公自动化平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>OA</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR095372</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产管理驾驶舱在线组态软件">
+	<enterprise:有批准日期>16-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产管理驾驶舱在线组态软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR095316</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业用电管理系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>企业用电管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093907</enterprise:有登记号>
+	<enterprise:有分类号>30207-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产设备点巡检系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产设备点巡检系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093860</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：鞋业辅助排产系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>鞋业辅助排产系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093895</enterprise:有登记号>
+	<enterprise:有分类号>30200-1800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：SciMES食品发酵罐区管理系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>SciMES食品发酵罐区管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093891</enterprise:有登记号>
+	<enterprise:有分类号>30106-1400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业仓储条码管理系统">
+	<enterprise:有批准日期>16-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>企业仓储条码管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR095873</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业设备资产盘点系统">
+	<enterprise:有批准日期>15-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>企业设备资产盘点系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR089237</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：制造业生产管理电子看板系统">
+	<enterprise:有批准日期>15-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>制造业生产管理电子看板系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR089348</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业能源管理系统">
+	<enterprise:有批准日期>16-5-4</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR093910</enterprise:有登记号>
+	<enterprise:有分类号>30207-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：鞋业精益生产管理系统">
+	<enterprise:有批准日期>15-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>鞋业精益生产管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR091215</enterprise:有登记号>
+	<enterprise:有分类号>30200-1800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产管理驾驶舱在线组态软件">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产管理驾驶舱在线组态软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005263</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产设备备品备件管理系统">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产设备备品备件管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005248</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：SciMES食品发酵罐区管理系统">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>SciMES食品发酵罐区管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005279</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：SciMES企业生产管理综合信息平台系统">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>SciMES企业生产管理综合信息平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005161</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦化企业煤气平衡分析系统">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>焦化企业煤气平衡分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005157</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产设备点巡检管理系统">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产设备点巡检管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005196</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产数据转换与存储软件">
+	<enterprise:有批准日期>14-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产数据转换与存储软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR005228</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业环保及污染排放管理系统">
+	<enterprise:有批准日期>13-2-21</enterprise:有批准日期>
+	<enterprise:有软件全称>企业环保及污染排放管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR015493</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产安全管理系统">
+	<enterprise:有批准日期>13-2-21</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产安全管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR015495</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业能源质量管理系统">
+	<enterprise:有批准日期>13-2-20</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源质量管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR014759</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业能源成本管理系统">
+	<enterprise:有批准日期>13-2-21</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源成本管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR015492</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业能源实绩分析与对标管理系统">
+	<enterprise:有批准日期>13-2-20</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源实绩分析与对标管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR014947</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业设备检修管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>企业设备检修管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR008870</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业能源计量统计系统">
+	<enterprise:有批准日期>12-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>企业能源计量统计系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR000982</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业关键耗能设备能效分析系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>企业关键耗能设备能效分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR009182</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业计量器具管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>企业计量器具管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR009192</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：报表组态管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>报表组态管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR009202</enterprise:有登记号>
+	<enterprise:有分类号>30102-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦化企业化验数据管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>焦化企业化验数据管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR008875</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：企业生产设备档案管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>企业生产设备档案管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR009200</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦化企业料场管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>焦化企业料场管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR008877</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦化企业产量跟踪管理系统">
+	<enterprise:有批准日期>12-2-13</enterprise:有批准日期>
+	<enterprise:有软件全称>焦化企业产量跟踪管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR009193</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：CVSW监控组态软件 V2.0 [简称: CVSW]">
+	<enterprise:有批准日期>02-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>CVSW监控组态软件 V2.0 [简称: CVSW]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2773</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：RTDP实时数据平台软件 V2.0">
+	<enterprise:有批准日期>02-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>RTDP实时数据平台软件 V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2772</enterprise:有登记号>
+	<enterprise:有分类号>62000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：FFOPC通信服务器软件 [简称: FFOPC] V2.0">
+	<enterprise:有批准日期>02-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>FFOPC通信服务器软件 [简称: FFOPC] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2770</enterprise:有登记号>
+	<enterprise:有分类号>67500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：无线推焦记录管理系统 V1.0">
+	<enterprise:有批准日期>04-9-3</enterprise:有批准日期>
+	<enterprise:有软件全称>无线推焦记录管理系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR08789</enterprise:有登记号>
+	<enterprise:有分类号>66000-3500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：TI505系列PLC OPC通信服务器软件 V1.0">
+	<enterprise:有批准日期>02-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>TI505系列PLC OPC通信服务器软件 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2771</enterprise:有登记号>
+	<enterprise:有分类号>67500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：ICON21远程监控组态软件 [简称: ICON21] V1.0">
+	<enterprise:有批准日期>02-9-20</enterprise:有批准日期>
+	<enterprise:有软件全称>ICON21远程监控组态软件 [简称: ICON21] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2002SR2774</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦炉温度管理系统(网络版) V2.0">
+	<enterprise:有批准日期>04-9-3</enterprise:有批准日期>
+	<enterprise:有软件全称>焦炉温度管理系统(网络版) V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR08788</enterprise:有登记号>
+	<enterprise:有分类号>66000-3500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京三博中自科技有限公司的软件著作：焦炉温度管理系统(单机版) V2.0">
+	<enterprise:有批准日期>04-9-3</enterprise:有批准日期>
+	<enterprise:有软件全称>焦炉温度管理系统(单机版) V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR08787</enterprise:有登记号>
+	<enterprise:有分类号>66000-3500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京三博中自科技有限公司的网站备案：SCIT红外测温仪">
+	<enterprise:有审核时间>15-6-3</enterprise:有审核时间>
+	<enterprise:有网站全称>SCIT红外测温仪</enterprise:有网站全称>
+	<enterprise:有网站首页>www.hwcw.com</enterprise:有网站首页>
+	<enterprise:有域名>hwcw.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05002870号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京三博中自科技有限公司的网站备案：北京三博中自科技有限公司">
+	<enterprise:有审核时间>15-6-3</enterprise:有审核时间>
+	<enterprise:有网站全称>北京三博中自科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.sciample.com</enterprise:有网站首页>
+	<enterprise:有域名>sciample.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05002870号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京三博中自科技有限公司的员工基本信息">
+	<enterprise:有从业人数>94</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:76,25岁以下:5,45岁以上:13</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:65,高中及以下:9,专科:20</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:13,技术人员:61,作业人员:20</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:93人,未参加:1人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京三博中自科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未发生变化</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京三博中自科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>工业企业等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>近三年，公司营业收入呈下降趋势</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京三博中自科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>竞争激烈</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京三博中自科技有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 “瞪羚计划”重点培育企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京三博中自科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况> 市场需求较大。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京三博中自科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京三博中自科技有限公司的企业法人代表：陈良怀">
+	<enterprise:名称>陈良怀</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>52</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1964年</enterprise:出生年月>
+	<enterprise:身份证号码>110108196406091416</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>高级工程师</enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>获省部级科技进步一等奖2项，二等奖3项</enterprise:奖惩情况>
+	<enterprise:经历>1988年至今 中科院自动化研究所 工程中心主任 
+2001年至今 北京三博中自科技有限公司 董事长 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京三博中自科技有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京三博中自科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>加</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>269.79</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>56.74</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京三博中自科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>西门子工业控制类产品、周边外设、机柜加工等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>1886.90</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>4265.18</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京三博中自科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>发现</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现不良</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京三博中自科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京三博中自科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>300.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京三博中自科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京三博中自科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京三博中自科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>15</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>5</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>7</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>3</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京三博中自科技有限公司的专利数量">
+	<enterprise:专利总计>31</enterprise:专利总计>
+	<enterprise:专利数量2013>22</enterprise:专利数量2013>
+	<enterprise:专利数量2014>2</enterprise:专利数量2014>
+	<enterprise:专利数量2015>7</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京三博中自科技有限公司的商标数量">
+	<enterprise:商标总计>1</enterprise:商标总计>
+	<enterprise:商标数量2013>1</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京三博中自科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>2</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

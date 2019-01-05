@@ -1,0 +1,1259 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京卓识网安技术股份有限公司的企业概况">
+    <enterprise:有名称>北京卓识网安技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108695009123Y</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>1101020006617682</enterprise:有中征码>
+    <enterprise:有基本账户开户行>交通银行北京北清路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2011年10月28日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1226.50万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>1,120.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术咨询、技术服务、技术推广；计算机技术培训；会议服务；销售计算机、软件及辅助设备、电子产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术咨询、技术服务、技术推广；计算机技术培训；会议服务；销售计算机、软件及辅助设备、电子产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地信息路1号2号楼702</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市昌平区朱辛庄华北电力大学主楼C座803室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102206</enterprise:有邮政编码>
+    <enterprise:有联系人>杨春梅</enterprise:有联系人>
+    <enterprise:有联系电话>010-61771325</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.enst.org.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京卓识网安技术股份有限公司成立于2011年
+10月28日，注册地址为北京市海淀区上地信息
+路1号2号楼702，法定代表人王英彬。公司初
+始注册资本为120万元，后经多次增资及股权
+变更，公司目前注册资本为1226.50万元，全
+部为货币出资，其股东及持股比例如下表所示
+：
+表一：公司股东持股情况
+股东名称 股权比例 持股数量（股）
+积成电子股份有限 51.00% 6255300
+公司
+王英彬 20.11% 2466060
+何尚思 4.91% 602020
+王柏林 4.16% 510180
+赵丽国 4.16% 510180
+张阳 3.81% 467040
+张纯民 2.74% 336000
+刘韧 2.67% 327620
+李岩 2.01% 246400
+丁丽琼 1.86% 228480
+焦安春 1.64% 201600
+柴芳 0.93% 144120
+卓识网安是致力于工控信息安全领域服务
+的独立第三方专业测评机构，主要服务于电力
+行业,主营业务包括工控信息安全技术服务和
+硬件销售。2014年6月，公司获得由中国信息
+安全认证中心核发的“信息安全服务资质认证
+证书”；2014年10月，通过北京市科学技术委
+员会等四部门组织的“高新技术企业”认证；
+2014年11月，公司获得由中国合格评定国家认
+可委员会核发的“检验机构认可证书”；公司
+具有国家信息安全等级保护工作协调小组办公
+室核发的“信息安全等级保护测评机构推荐证
+书”；2015年7月，公司获得“中关村高新技
+术企业证书”；2016年7月，公司通过“ISO90
+01：2008质量管理体系认证”。
+截至2015年底，卓识网安资产总额为4849
+.15万元，净资产为3702.54万元；2015年累计
+实现主营业务收入4156.85万元，利润总额157
+2.33万元；2015年经营活动产生的现金净流量
+为45.81万元，投资活动产生的现金净流量为-
+8.57万元，筹资活动产生的现金净流量为-
+325.15万元，现金及现金等价物净增加额为-
+287.91万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京卓识网安技术股份有限公司的基础素质">
+    <enterprise:有管理素质>卓识网安法定代表人王英彬先生，本科学
+历。王英彬先生曾先后担任河北邢台发电厂职
+员、华北电力大学教师、中国工商银行教授级
+高级工程师、华北电力大学教授，现任公司董
+事长。王英彬先生具有丰富的行业认知及管理
+经验，利于其带领公司并制定适应行业趋势的
+经营策略，为公司发展提供助益。
+公司总经理于学军先生，本科学历。于学
+军先生曾先后担任济南高新开发区积成电子系
+统实验所软件工程师/系统软件部副部长、山
+东鲁能积成电子股份有限公司调度中心系统产
+品部副部长、积成电子电网自动化事业部经理
+、积成电子总经理助理，现任公司总经理。
+总体看，卓识网安核心管理团队专业素质
+较高，管理经验丰富，管理协调性较好，对于
+公司稳定发展具有一定积极作用。</enterprise:有管理素质>
+    <enterprise:有人员素质>卓识网安现有员工57人，其中研发人员39
+人。研发人员中具有博士学位2人、硕士学位4
+人，其余为本科学历，基本能够满足公司发展
+需要。
+公司核心技术人员刘韧女士，获有博士学
+位。刘韧女士曾先后担任航天部北京仿真中心
+工程师、融商集团项目经理、联想集团高级项
+目经理。刘韧女士于2013年1月6月获得公安部
+信息安全等级保护评估中心颁发的高级“信息
+安全等级测师证书”，证书编号：1300227113
+7220414；是中国合格评定国家认可委员会信
+息安全体系认证评审员、重要信息系统安全保
+护培训师（CIIP-
+T）；2010年获中国电子学会电子信息科学技
+术一等奖；2014年获中国技术市场协会金桥奖
+先进个人奖。
+公司总工程师焦安春先生，研究生学历。
+焦安春先生曾先后担任山东建材学院讲师、山
+东大学欧玛信息产业公司计算机室主任、集成
+电子测试室主任。焦安春先生获有公安部信息
+安全等级保护评估中心颁发的高级《信息安全
+等级测师证书》，证书编号：130027111445X0
+413。
+总体看，卓识网安技术人员专业素质较好
+，研发团队具备较好的科研实力和项目实施经
+验，为公司的研发活动提供了专业技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>卓识网安为保证研发活动的顺利进行，每
+年均投入充足的研发费用，2014-
+2015年投入的研发费用分别为241.37万元和28
+4.09万元，分别占当年收入的9.80%和6.67%。
+持续的研发投入为其产品技术的发展提供了较
+好保障。
+公司围绕着主营业务，分别从攻防对抗研
+究和模拟仿真测试环境构建两个维度来提升对
+工控系统的认识和安全服务能力。公司经过多
+年的行业积累，在实施的支撑工具层面，逐渐
+形成了工控系统安全知识库、测评服务支撑工
+具平台、工控设备和协议检测能力、工控仿真
+验证攻防环境等核心技术。
+公司具有国家级信息安全等级保护测评机
+构资质，电力行业网络与信息安全领导小组授
+权公司为电力行业信息安全等级保护测评中心
+第一实验室。国家信息安全等级保护工作协调
+小组办公室于2014年6月16日以《关于同意电
+力行业信息安全等级保护测评中心增设实验室
+等有关事项的函》（公信安[2014]1257号）又
+进一步明确公司为电力行业信息安全等级保护
+测评中心的第一实验室。电力行业信息安全测
+评中心是电力行业唯一的信息系统安全等级保
+护测评实施单位。测评中心下设五个实验室，
+目前全国范围内只有上述五家实验室能够进行
+电力行业的信息安全等级保护测评服务。公司
+业务具有很高的市场准入门槛，上述事项亦一
+定程度上说明公司具备较强的技术实力。
+截至报告日，卓识网安获有“电力行业信
+息系统脆弱性扫描系统软件V1.0”、“电力行
+业信息安全培训考试系统V2.0”、“电力行业
+信息安全等级测评检测工具系统V1.0”等13项
+计算机软件著作权。
+总体看，卓识网安具有较强的技术实力，
+其科研成果的市场转化效果较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>万元,241.37万元,284.09万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京卓识网安技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>卓识网安是工控领域信息安全服务的独立
+第三方测评机构，主要服务于电力行业，主营
+业务包括工控信息安全测评服务和咨询服务。
+公司的测评服务是通过专业评估工具测试
+、人工检查、顾问访谈等方法对目标信息系统
+进行安全状况实施专业技术评定，识别信息资
+产面临的威胁、存在的弱点、已有的安全措施
+，以及综合评估系统安全风险以及等级保护符
+合性测评等。目前主要开展的有电力监控系统
+安全防护评估、信息系统等级保护测评、信息
+系统风险评估和性能检测等业务；咨询服务是
+帮助客户建立完整有效的信息安全体系与信息
+安全管理框架，为客户的工控系统安全建设、
+管理与运行提供专业咨询服务；硬件销售是公
+司在拓展业务、提供技术服务的过程中，会根
+据部分客户的需求及具体要求进行硬件采购并
+销售给客户。根据公司业务特点，硬件销售中
+大部分服务于咨询业务。
+2015年，公司实现主营业务收入4156.85
+万元，收入主要来源于测评服务和咨询服务，
+少部分来源于偶发的硬件销售。
+采购方面，卓识网安采购大多为技术服务
+，主要供应商为中国电力科学研究院。公司采
+购的技术服务主要为供应商向公司提供测评项
+目的前期调研、收集基础数据、配合和辅助公
+司整理材料和测评报告等。由于公司业务拓展
+较快，项目地域分布较广，为保障服务效率和
+质量，公司技术服务采购活动有所增加，符合
+其经营状况。
+销售方面，卓识网安目前的销售模式是直
+接销售。测评服务和咨询服务合同多数通过招
+投标方式取得。公司的营销网络覆盖全国主要
+地区，目前在全国设有6个营销大区，相应大
+区负责所属地域的市场策划和销售。公司客户
+主要为国家电网公司、南方电网公司、地方电
+力公司、各发电集团以及政府等。目前上述客
+户的服务采购遵循严格的预算管理制度，客户
+根据各自职责和权限，进行投资立项的申请与
+审批，并采取招标方式实施采购。目前，项目
+主流操作模式为客户自行组织招投标或委托专
+业招标公司组织招投标，中标后由电网公司和
+各发电集团使用单位与公司直接签订技术服务
+合同，项目使用单位根据合同执行进度直接向
+公司付款。
+公司提供的技术服务收入具有在全年中不
+均衡的特点，因为公司主要服务于电力行业大
+型国有企业，多在上半年进行采购计划批准，
+执行招投标和谈判等工作，下半年签订采购合
+同，进行合同实施和验收，所以公司的销售具
+有明显的季节性特点，下半年是公司业务的高
+峰期，销售收入和利润的实现一般均集中在下
+半年。由于公司各月度的人员工资、研发投入
+等期间费用的支出相对均衡，导致公司利润和
+经营活动现金流量通常呈现一定的不均衡性，
+可能会造成公司上半年出现季节性亏损。此外
+，公司客户主要为大中型企业，付款审批流程
+较为复杂，应收账款的回款周期不甚稳定，上
+述因素一定程度上将造成公司业绩波动。
+卓识网安承接和参与了行业内多个大型技
+术服务项目，树立了一定的品牌知名度。在测
+评服务方面，公司从2011年开始项目试点，与
+国家电网调控中心和南方电网调控中心合作，
+承担国家电网和南方电网核心系统的测评和评
+估。在电厂端，公司于2015年参与国家重点工
+程三峡大坝网络与信息安全验证项目。同年，
+公司承担中国广核集团有限公司的信息安全保
+障体系的建设。
+图一：2013-2015年公司资产总额、净资产、主营业务    
+        收入、利润总额增长趋势图（万元）
+近三年，卓识网安不断发展积累，与行业
+内中大型企业建立了密切的合作关系，市场知
+名度不断提高。国家对于相关电力设施的等级
+准入制度，为公司收入规模的保持和扩大奠定
+了基础。同时君维诚也注意到，公司客户多为
+大中型企业，付款审批流程较复杂，使得公司
+账款回收存在一定滞后性，且客户的采购实施
+时点多集中于下半年，上述因素或一定程度上
+造成公司现金流量出现季节性波动，给公司正
+常结算带来一定压力。
+总体看，卓识网安具备较强技术优势，市
+场知名度不断提高，未来发展前景乐观。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司实行董事会领导下的总经理负责制，
+下设综合部、技术部、质控部、营销部等职能
+部门，公司建立了完善的管理制度，明确各岗
+位职能与职责、办事流程。公司目前管理模式
+较为清晰，能够满足其发展需要。
+从管理效率看，2013-
+2015年，卓识网安管理费用率分别为38.41%、
+31.46%和23.10%，管理费用控制能力有所提升
+；同期成本率分别为59.88%、58.85%和62.06%
+，成本控制能力较好。
+从运营效率看，2013-
+2015年，卓识网安应收账款周转率分别为1.96
+次、2.68次和3.32次，应收账款周转效率一般
+；同期总资产周转率分别为0.71次、0.71次和
+1.00次，资产运营效率一般。
+总体看，卓识网安内部治理结构较为合理
+，管理制度较为完善，满足公司现阶段发展需
+要，成本控制能力较好，资产运营效率一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一段时期，卓识网安将加大工控信息
+安全测评服务业务的市场拓展力度，进一步提
+高市场占有率。
+在咨询服务方面，公司将重点针对电力、
+水务、燃气等领域的工控及信息系统，从系统
+安全加固、事件处置、安全运维及安全整改等
+方面继续向用户提供咨询服务。
+在测评服务方面，公司将扩大在新能源电
+站（光伏电站、风电场等）、石油化工等领域
+测评服务的市场份额，进一步拓展在油气、交
+通、公用事业等领域的信息安全测评服务，努
+力开拓金融、教育等市场。
+市场营销方面，公司将进一步加大市场开
+拓力度，继续完善营销体系，继续完善营销人
+员的激励和约束机制，建立高效的运营管理制
+度。
+2016年，公司预计实现销售收入5500.00
+万元、利润总额2000.00万元，结合公司目前
+的收益及经营情况来看，该计划的实现具有一
+定可能性。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京卓识网安技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，卓识网安资产总额分别为3426.64万
+元、3482.66万元和4849.15万元。其中，流动
+资产分别占当年资产总额的90.06%、90.47%和
+94.40%；固定资产分别占6.85%、6.87%和3.85
+%，主要为电子设备及其他；无形资产及其他
+资产合计分别占3.09%、2.66%和1.75%，主要
+为软件。公司资产结构较为稳定，资产配置与
+其当前业务特征相匹配。
+截至2015年底，卓识网安流动资产为4577
+.49万元，主要由货币资金、应收票据和应收
+账款构成。其中，货币资金占流动资产的48.6
+6%；应收票据占6.55%，为银行承兑汇票；应
+收账款占41.79%，账龄在1年以内的占89.73%
+，债务人多为电力行业的国有机构，对销售债
+权的保障程度较高。
+截至2016年8月底，公司流动资产为4200.
+13万元，资产结构与年初大体相当，增加的部
+分主要为应收账款，符合公司经营状况。
+总体看，卓识网安资产质量和流动性尚可
+。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，卓识网安速动比率分别为2.39倍、3.
+85倍和3.99倍；同期流动比率分别为2.39倍、
+3.85倍和3.99倍，短期支付能力较强。
+2013-
+2015年，卓识网安息税折旧摊销前盈余EBITDA
+分别为805.63万元、975.15万元和1644.11万
+元，经营活动获取自由现金的能力得到增强，
+有利于债务偿还能力的提升。
+2016年，公司预计实现主营业务收入5500
+万元，利润总额2000万元。公司预计未来保持
+1500万元融资规模，假定该部分均为有息债务
+融资，若公司2016年预期经营计划得以实现，
+其盈余对可能发生的有息债务保障程度较高。</enterprise:偿债能力>
+    <enterprise:财务弹性>截至2016年8月底，卓识网安负债总额为5
+51.58万元，均为流动负债，主要由应付账款
+和预收账款构成。其中，应付账款占流动负债
+的91.98%；预收账款占流动负债的8.59%。
+2013-
+2015年，卓识网安资产负债率分别为37.66%、
+23.48%和23.65%，公司负债均为经营性负债，
+目前的债务压力较小。
+总体看，公司目前的负债水平较低，财务
+弹性较好，具备一定的外部债务融资空间。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，卓识网安主营业务收入分别为2137.0
+8万元、2462.25万元和4156.85万元；同期主
+营业务利润率分别为70.12%、64.16%和57.23%
+，公司技术服务具备一定竞争优势，主营业务
+获利能力较强。
+2013-
+2015年，公司总资产报酬率分别为22.54%、26
+.22%和32.42%；同期净资产收益率分别为31.6
+6%、30.12%和36.80%，资产获利能力较好。
+图二：卓识网安2013-
+2015年盈利能力状况（万元，%）
+总体看，卓识网安主营业务获利能力较强
+，整体盈利能力较强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京卓识网安技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司应收账款和存货合计占比较大，
+资产流动性较弱，资金使用效率较低。
+2.伴随公司经营规模的不断扩大，对资
+源管理、人员管理、经营管理、市场开拓等
+方面提出了更高的要求。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京卓识网安技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>3086.09 </enterprise:资产总额>
+    <enterprise:所有者权益>2136.10 </enterprise:所有者权益>
+    <enterprise:负债总额>1290.55 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2137.08 </enterprise:营业收入>
+    <enterprise:EBITDA>805.63 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京卓识网安技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>3150.77 </enterprise:资产总额>
+    <enterprise:所有者权益>2665.05 </enterprise:所有者权益>
+    <enterprise:负债总额>817.62 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2462.25 </enterprise:营业收入>
+    <enterprise:EBITDA>975.15 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京卓识网安技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>4577.50 </enterprise:资产总额>
+    <enterprise:所有者权益>3702.54 </enterprise:所有者权益>
+    <enterprise:负债总额>1146.60 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4156.85 </enterprise:营业收入>
+    <enterprise:EBITDA>1644.11 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京卓识网安技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.71 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.96 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京卓识网安技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.71 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京卓识网安技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.32 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京卓识网安技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>36.16 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>22.54 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>31.66 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京卓识网安技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>34.27 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>26.22 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>30.12 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京卓识网安技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>42.47 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>32.42 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>36.80 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京卓识网安技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>239.13 </enterprise:流动比率>
+    <enterprise:速动比率>239.13 </enterprise:速动比率>
+    <enterprise:资产负债率>41.82 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京卓识网安技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>385.36 </enterprise:流动比率>
+    <enterprise:速动比率>385.36 </enterprise:速动比率>
+    <enterprise:资产负债率>25.95 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京卓识网安技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>399.22 </enterprise:流动比率>
+    <enterprise:速动比率>399.22 </enterprise:速动比率>
+    <enterprise:资产负债率>25.05 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京卓识网安技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>125.63 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.91 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>43.59 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-20.98 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京卓识网安技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>156.03 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.34 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>126.94 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>15.22 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京卓识网安技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>200.31 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.69 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>4.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>68.22 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京卓识网安技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1782.67 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1247.05 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>24.82 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>31.55 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3086.09 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>234.66 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>101.29 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>4.60 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3086.09 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京卓识网安技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2489.45 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>590.34 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.81 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>70.17 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3150.77 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>239.13 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>90.52 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>2.23 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>3150.77 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京卓识网安技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2227.35 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>300.00 </enterprise:应收票据>
+    <enterprise:应收账款>1912.71 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>4.73 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>132.71 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4577.50 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>186.70 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>79.76 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>5.21 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>4577.50 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京卓识网安技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>650.56 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>46.43 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>106.55 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>14.08 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>817.62 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>817.62 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>223.33 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1321.72 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2665.05 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2665.05 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3482.67 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京卓识网安技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>650.56 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>46.43 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>106.55 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>14.08 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>817.62 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>817.62 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>223.33 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1321.72 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2665.05 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2665.05 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>3482.67 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京卓识网安技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>704.31 </enterprise:应付账款>
+    <enterprise:预收款项>38.80 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>121.65 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>238.48 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>43.36 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1146.60 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1146.60 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1120.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>359.60 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2222.94 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3702.54 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3702.54 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>4849.14 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京卓识网安技术股份有限公司2013年利润表">
+    <enterprise:营业收入>2137.08 </enterprise:营业收入>
+    <enterprise:主营业务收入>2137.08 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>1498.45 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>142.57 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>478.54 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-6.25 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>26.20 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>857.39 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>100.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>772.47 </enterprise:利润总额>
+    <enterprise:所得税费用>96.24 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>676.23 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>676.23 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京卓识网安技术股份有限公司2014年利润表">
+    <enterprise:营业收入>2462.25 </enterprise:营业收入>
+    <enterprise:主营业务收入>2462.25 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>1579.70 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>147.43 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>458.87 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-20.96 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-18.93 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1013.29 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>100.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>913.29 </enterprise:利润总额>
+    <enterprise:所得税费用>110.47 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>802.82 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>802.82 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京卓识网安技术股份有限公司2015年利润表">
+    <enterprise:营业收入>4156.85 </enterprise:营业收入>
+    <enterprise:主营业务收入>4156.85 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>2378.92 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>234.41 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>586.16 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-35.62 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>16.86 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1577.12 </enterprise:营业利润>
+    <enterprise:营业外收入>2.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>6.78 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1572.34 </enterprise:利润总额>
+    <enterprise:所得税费用>209.70 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1362.64 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1362.64 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京卓识网安技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1935.92 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>15.08 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>97.02 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2048.02 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>504.23  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>384.53 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>92.94 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>503.82 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1485.52 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>562.50 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>3.11 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3.11 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3.11 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>414.40 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>414.40 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-414.40 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>144.99 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京卓识网安技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>3297.05 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>81.75 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3378.80 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1173.98  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>431.20 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>225.73 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>509.99 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2340.90 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1037.90 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>57.24 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>57.24 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-57.24 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>273.87 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>273.87 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-273.87 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>706.79 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京卓识网安技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2879.27 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>143.84 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3023.11 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1505.70  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>477.30 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>324.32 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>669.97 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2977.29 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>45.82 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>8.57 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>8.57 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-8.57 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>325.15 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>325.15 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-325.15 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-287.90 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：积成电子股份有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>积成电子股份有限公司 </enterprise:股东名称>
+	 <enterprise:货币>625.53万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>51.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：王英彬 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王英彬 </enterprise:股东名称>
+	 <enterprise:货币>246.606万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.11%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：何尚思 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>何尚思 </enterprise:股东名称>
+	 <enterprise:货币>60.202万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：赵丽国 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵丽国 </enterprise:股东名称>
+	 <enterprise:货币>51.018万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.16%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：王柏林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王柏林 </enterprise:股东名称>
+	 <enterprise:货币>51.018万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.16%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：张阳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张阳 </enterprise:股东名称>
+	 <enterprise:货币>46.704万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.81%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：张纯民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张纯民 </enterprise:股东名称>
+	 <enterprise:货币>33.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.74%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：刘韧 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘韧 </enterprise:股东名称>
+	 <enterprise:货币>32.762万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.67%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：李岩 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李岩 </enterprise:股东名称>
+	 <enterprise:货币>24.64万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.01%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：丁丽琼 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>丁丽琼 </enterprise:股东名称>
+	 <enterprise:货币>22.848万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.86%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：焦安春 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>焦安春 </enterprise:股东名称>
+	 <enterprise:货币>20.16万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.64%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京卓识网安技术股份有限公司股东：柴芳 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>柴芳 </enterprise:股东名称>
+	 <enterprise:货币>11.412万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京卓识网安技术股份有限公司的商标信息：卓识网安">
+	<enterprise:有申请日期>16-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>卓识网安</enterprise:有商标名称>
+	<enterprise:有注册号>20701078</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京卓识网安技术股份有限公司的商标信息：ENST">
+	<enterprise:有申请日期>16-7-19</enterprise:有申请日期>
+	<enterprise:有商标名称>ENST</enterprise:有商标名称>
+	<enterprise:有注册号>20701239</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：生产系统安全审计平台">
+	<enterprise:有批准日期>17-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>生产系统安全审计平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR166454</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：生产系统安全运维平台">
+	<enterprise:有批准日期>17-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>生产系统安全运维平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR166466</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：海事系统网络信息安全竞赛系统">
+	<enterprise:有批准日期>16-8-16</enterprise:有批准日期>
+	<enterprise:有软件全称>海事系统网络信息安全竞赛系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR220563</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：企业系统风险管理系统">
+	<enterprise:有批准日期>16-7-27</enterprise:有批准日期>
+	<enterprise:有软件全称>企业系统风险管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR195205</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：企业系统资产管理系统">
+	<enterprise:有批准日期>16-7-11</enterprise:有批准日期>
+	<enterprise:有软件全称>企业系统资产管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR174541</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：信息安全通报管理系统">
+	<enterprise:有批准日期>16-6-29</enterprise:有批准日期>
+	<enterprise:有软件全称>信息安全通报管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR161119</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：应用安全漏洞扫描系统">
+	<enterprise:有批准日期>13-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>应用安全漏洞扫描系统</enterprise:有软件全称>
+	<enterprise:有软件简称>漏洞扫描系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR139636</enterprise:有登记号>
+	<enterprise:有分类号>30109-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力二次风评系统">
+	<enterprise:有批准日期>13-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>电力二次风评系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR139688</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力生产系统自评估工具系统">
+	<enterprise:有批准日期>13-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>电力生产系统自评估工具系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR139889</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力行业信息系统配置检查系统">
+	<enterprise:有批准日期>13-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>电力行业信息系统配置检查系统</enterprise:有软件全称>
+	<enterprise:有软件简称>配置检查系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR139721</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力二次系统安全等级保护测评检测系统">
+	<enterprise:有批准日期>13-2-19</enterprise:有批准日期>
+	<enterprise:有软件全称>电力二次系统安全等级保护测评检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电力二次测评系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR014078</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力二次系统等级保护测评及安全防护评估系统">
+	<enterprise:有批准日期>13-1-30</enterprise:有批准日期>
+	<enterprise:有软件全称>电力二次系统等级保护测评及安全防护评估系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电力二次评估系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR009807</enterprise:有登记号>
+	<enterprise:有分类号>30200-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力行业信息安全培训考试系统">
+	<enterprise:有批准日期>11-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>电力行业信息安全培训考试系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ1973</enterprise:有登记号>
+	<enterprise:有分类号>10900-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京卓识网安技术股份有限公司的软件著作：电力行业信息系统脆弱性扫描系统软件">
+	<enterprise:有批准日期>10-12-10</enterprise:有批准日期>
+	<enterprise:有软件全称>电力行业信息系统脆弱性扫描系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>SERCScanner</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR067340</enterprise:有登记号>
+	<enterprise:有分类号>68000-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京卓识网安技术股份有限公司的网站备案：北京卓识网安技术股份有限公司">
+	<enterprise:有审核时间>17-4-18</enterprise:有审核时间>
+	<enterprise:有网站全称>北京卓识网安技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.enst.org.cn</enterprise:有网站首页>
+	<enterprise:有域名>enst.org.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备17021999号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京卓识网安技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京卓识网安技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京卓识网安技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京卓识网安技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京卓识网安技术股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京卓识网安技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京卓识网安技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京卓识网安技术股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京卓识网安技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>636万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>612万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京卓识网安技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>接受劳务</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>厂商</enterprise:有供应商类型>
+	<enterprise:有交易地位>平等</enterprise:有交易地位>
+	<enterprise:有议价能力>协商定价</enterprise:有议价能力>
+	<enterprise:有延期支付>年结</enterprise:有延期支付>
+	<enterprise:有上年度发生额>1234万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>1208万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>26万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>152万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京卓识网安技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京卓识网安技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京卓识网安技术股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京卓识网安技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

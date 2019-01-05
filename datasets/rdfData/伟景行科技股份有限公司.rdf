@@ -1,0 +1,2509 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="伟景行科技股份有限公司的企业概况">
+    <enterprise:有名称>伟景行科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110100000384929201</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行魏公村支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2002</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5,100.00万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>专业承包；技术开发；技术推广；技术转让；技术咨询；技术服务；计算机技术培训；技术中介服务；计算机系统服务、数据处理；展厅的布置设计、电脑动画设计；测绘服务；工程管理服务；承办展览展示活动；生产计算机软硬件；销售计算机、软件及辅助设备；货物进出口、技术进出口、代理进出口。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)专业承包；技术开发；技术推广；技术转让；技术咨询；技术服务；计算机技术培训；技术中介服务；计算机系统服务、数据处理；展厅的布置设计、电脑动画设计；测绘服务；工程管理服务；承办展览展示活动；生产计算机软硬件；销售计算机、软件及辅助设备；货物进出口、技术进出口、代理进出口。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>企业性质</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区中关村南大街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区南路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100013</enterprise:有邮政编码>
+    <enterprise:有联系人>杨程</enterprise:有联系人>
+    <enterprise:有联系电话>58938236</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.gvitech.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>公司原名为北京伟景行数字城市科技有限
+公司，于2002年07月24日在北京市工商行政管
+理局海淀分局注册成立，初始注册资本60.00万
+元，其中，迟伟出资25.50万元，唐志明出资
+12.00万元，迟华出资12.00万元，朱杰出资
+9.00万元，迟红出资1.50万元。2011年05月
+22日，公司整体变更为股份有限公司。经多次
+增资及股权转让，截至2015年末，公司注册资
+本为5,100.00万元，员工总数为274人，公司法
+定代表人为迟伟，公司董事长迟伟为公司实际
+控制人。截至2016年04月末，公司股权结构如
+下图所示：
+表 1：公司股权结构情况       单位：万元、%
+出资
+股东名称 出资金额 出资比例
+形式
+迟伟 1,635.02 32.06 货币
+迟华 751.47 14.73 货币
+天津达晨创富股权投
+资基金中心（有限合 573.75 11.25 货币
+伙）
+唐志民 552.61 10.84 货币
+朱杰 552.61 10.84 货币
+余杏娣 101.37 1.99 货币
+达晨银雷高新（北京）
+191.25 3.75 货币
+创业投资有限公司
+北京智诚盛景创业投
+191.25 3.75 货币
+资有限责任公司
+李葛卫 114.75 2.25 货币
+朱旭平 102.02 2.00 货币
+北京清华同衡规划设
+102.00 2.00 货币
+计研究院有限公司
+迟红 97.31 1.91 货币
+梁伟 60.83 1.19 货币
+王惠舜 51.00 1.00 货币
+曲梁毅 16.65 0.32 货币
+王雪松 6.12 0.12 货币
+合计 5,100.00 100．00 --
+资料来源：公司提供，中国诚信整理
+股东迟伟、迟华和迟红为亲姐弟关系，其
+中迟华和迟红为姐姐，迟伟是弟弟。
+公司经营范围为：“专业承包；技术开发；
+技术推广；技术转让；技术咨询；技术服务；
+计算机技术培训；技术中介服务；计算机系统
+服务、数据处理；展厅的布置设计、电脑动画
+设计；测绘服务；工程管理服务；承办展览展
+示活动；生产计算机软硬件；销售计算机、软
+件及辅助设备；货物进出口、技术进出口、代
+理进出口。（依法须经批准的项目，经相关部
+门批准后依批准的内容开展经营活动。）”
+公司以从事三维地理信息系统（3D GIS）
+和数字展示技术开发及服务为主营业务。
+截至 2016年 04月末，公司有 3家控股及
+参股子公司。
+表 2：公司控股公司情况         
+注册资本 持股比例
+子公司名称
+（万元） (%)
+北京伟景行数字展示有限公司 2,000.00 100.00
+北京伟景行信息科技有限公司 1,000.00 100.00
+Givetch Macau Co.Ltd 5.00（万美元） 100.00
+资料来源：公司提供，中国诚信整理
+伟景行数字展示有限公司成立于 2006年
+09月 06日，注册资本 2,000.00万元，法定代
+表人迟伟，主要从事技术开发、技术推广、技
+术转让、技术咨询、技术服务；计算机技术培
+训；计算机系统服务；数据处理；产品设计；
+模型设计；展厅的布置设计；工艺美术设计；
+电脑动画设计；测绘服务；承办展览展示活动；
+销售电子产品、计算机及辅助设备；计算机系
+统集成；货物进出口、技术进出口、代理进出
+口。
+伟景行信息科技有限公司成立于 2011年
+12月 26日，注册资本 1,000.00万元，法定代
+表人迟伟，主要从事技术开发、技术推广、技
+术转让、技术咨询、技术服务；计算机技术培
+训；技术中介服务；计算机系统服务；数据处
+理；展厅布置设计、电脑动画设计；测绘服务；
+建设工程项目管理；承办展览展示活动；货物
+进出口、技术进出口、代理进出口；模型设计、
+产品设计、工艺美术设计；销售电子产品、计
+算机及辅助设备；计算机系统集成。
+Givetch Macau Co.Ltd成立于 2010年
+07月 07日，注册于中国澳门，注册资本
+5.00万美元，法定代表人迟伟，主要从事进口
+贸易业务。
+在子公司业务划分上，伟景行数字展示有
+限公司主要以经营展览展示业务为主，伟景行
+信息科技有限公司以尝试开展公司 3D GIS新业
+务为主。
+截至 2015年 12月 31日，公司的资产总额
+为 16,028.73万元，负债为 8,257.81万元，所
+有者权益合计为 7,770.92万元。2015 年度，公
+司实现营业收入 5,735.73万元，利润总额为-
+3,017.70万元，净利润-2,906.31 万元。
+截至 2016年 04月 30日，公司的资产总额
+为 16,887.65万元，负债为 10,704.28万元，
+所有者权益合计为 6,183.36万元。2016 年
+01至 04月，公司实现营业收入 487.00万元，
+利润总额为-1,587.56 万元，净利润-
+1,587.56万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="伟景行科技股份有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理人员简介如下：
+公司董事长迟伟先生是公司创始人之一，
+清华大学建筑学学士，清华大学建筑与技术硕
+士,是国内最早从事虚拟可视化技术研究的人员
+之一，目前担任中国地理信息产业协会副会长、
+中国城市规划学会会员。迟伟先生于 1998年成
+功主持开发城市规划虚拟现实平台
+CityMaker,该平台获国家创新基金支持。自创
+立公司以来，迟伟先生承担并参与上百个重要
+项目，是国内相关领域的学术带头人之一。
+公司总裁兼 CEO唐志民先生也为公司创始
+人之一。唐志民先生获得了上海大学工学学士
+学位，曾先后任职多家著名跨国公司，从事业
+务管理工作，具有丰富的营销和管理经验。
+1992年加入美国 3M中国有限公司；1996 年加
+入柯达中国公司(Kodak China)，组建柯达最新
+的事业部——数字影像部，并担任中国区首任
+经理，全面负责柯达数字影像产品在中国地区
+的市场开拓。1998 年加入戴尔计算机（中国）
+有限公司（Dell China）筹建管理团队，担任
+戴尔直销部中国区经理，是戴尔中国公司的创
+始成员之一。
+公司财务总监张琦女士，1978 年生，
+2004年毕业于东北财经大学会计学专业财务管
+理方向，硕士。2004 至 2005年就职于港湾网络
+有限公司主管会计；2005 年至 2008年任华友世
+纪通讯有限公司财务主管；2008 年至 2011年任
+世纪互联宽带数据中心有限公司高级财务经理
+一职；2011 年至 2012年就职于和芯星通科技
+（北京）有限公司财务总监；2012 年至 2014年
+北京易才博普奥管理顾问有限公司（TMO 
+Group）集团财务总监；2014 年 05月加入公司
+至今，任财务总监一职，主要负责财务管理、
+融资、内控建设等工作。
+总体上看，公司管理层均拥有相关专业背
+景并积累了较丰富的技术经验，公司管理者以
+及部门设置可以满足现有业务的开展与管理需
+要。
+资质荣誉
+伟景行科技股份是业界领先的三维地理信
+息系统（3D GIS）和数字展示（Digital Media 
+& Display）技术开发及服务机构。自成立以来，
+伟景行一直专注于三维可视化技术、3D GIS、
+数字媒体及展示、高性能图形计算、大屏幕专
+业显示技术的研究和开发。截至 2016年 04月，
+公司所获得的主要资质、荣誉情况如下表所示：
+表 3：公司近期部分资质、荣誉情况
+资质名称 等级
+中国展览馆协会展览工程企业 一级
+瞪羚计划企业 --
+高新企业认证 --
+ISO质量管理体系认证 --
+环境管理证书 --
+信用三星级企业 三星
+信息系统集成及服务肆级 四级
+建筑装饰装修工程设计与施工贰级 二级
+安全生产许可证 --
+测绘乙级 乙级
+中关村高新技术企业 --
+互联网地图服务甲级测绘资质 甲级
+荣誉名称 获奖时间
+2015中关村高成长企业 TOP100贡献奖 2015-10
+智慧旅游学组副组长单位 2015-11-19
+全国优秀测绘工程奖-银奖-昆明城市规划数字
+2015-09-18
+沙盘
+扬州市三维数字规划综合平台荣获 2015中国地
+2015-11
+理信息产业优秀工程金奖。
+2015年全国优秀测绘工程奖-银奖
+2015-09-18
+信用双百企业证书
+2014-2015年度中关村信用培育双百工程    
+2015-11
+百家最具影响力信用企业
+经中国城市规划学会二届十一次常务理事会审
+2015-11-27
+议批准-中国城市规划学会单位会员
+“2016 ITS CHINA 年度盛典”2015（第四届）
+中国智能交通行业年度评选中，荣获 2015年度 2016-01
+最佳成长企业奖
+资料来源：公司提供，中国诚信整理</enterprise:有管理素质>
+    <enterprise:有人员素质>较高，研发实力较强；公司研发和技
+术储备较为丰富，具有较强的技术创新能力和
+新产品研发能力，为公司可持续发展奠定了坚
+实基础。</enterprise:有人员素质>
+    <enterprise:有科研条件>-</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="伟景行科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司的主营业务收入主要来源于为客户提
+供基于网络的完整三维数字城市解决方案，包
+括应用于城市管理的3D GIS软件、面向城市规
+划和建筑的三维设计及辅助决策软件，设备和
+相关技术等。
+公司自主研发的CityMaker系列软件，在城
+市规划、市政管线、国土、测绘、应急、交通、
+房管、电力、石油石化等数行业、多领域中得
+到应用，如：数字北京、数字澳门、上海世博
+会、数字圆明园、德国斯图加特、数字重庆、
+数字武汉、数字南宁、杭州钱江新城等。并在
+国内率先推出了超级图形计算集群系统以及多
+通道大屏幕投影系统技术，并成为国内展示领
+域第一个推出多通道环幕解决方案的供应商。
+公司目前承担国家“十一五”科技支撑计划、
+国家自然科学基金课题，并且获得科技部创新
+基金的支持。
+公司的主营业务收入依据产品划分可分为
+三类：1.3DGIS基础产品和应用端软件收入（以
+下简称软件收入）；2.数据服务和客户定制化
+服务收入（以下简称数据和服务收入）；
+3.“智慧城市”的综合立体展示解决方案收入
+（以下简称展示业务收入）。
+2013年至2015年末，公司细分业务收入及
+毛利率构成情况如下表所示：
+表 5：公司细分业务收入及毛利率情况  单位：
+万元、%
+业务种类/营
+2013年 2014年 2015年
+业收入
+软件收入 -- 2,545.50 1,269.04
+数据和服务收入 -- 6,847.72 3,090.53
+展示业务收入 -- 2,024.32 1,376.15
+合计 11,422.20 11,417.54 5,735.73
+业务种类
+2013年 2014年 2015年
+/毛利率
+软件收入 -- -- 100.00
+数据和服务收入 -- -- 43.00
+展示业务收入 -- -- 28.00
+综合 59.65 61.02 52.31
+资料来源：公司提供，中国诚信整理
+2013至2015年度，公司的营业收入受公司
+业务波动的影响呈先增加后减小的变动，
+2015年降幅较大。从毛利率上看，公司的毛利
+率也呈先上升后下降的变动。从业务结构来看，
+数据和服务收入是公司收入和利润的重点。该
+业务是基于自有技术进行按单生产，基本上不
+存在库存。数据和服务收入受人力资源和外包
+能力影响较大，目前公司有超过200人的三维数
+据生产团队，以及超过60个外包合作商。每年
+可以生产超过1,600平方公里的三维城市数据，
+在业内达领先水平。
+原材料采购及产品（服务）销售
+公司主要采购产品为数字展示系统的相关
+设备。采购周期不定，从10天-到90天。公司与
+供应商结算方式不一，有供货后60天付全款、
+供货后90天付全款、现货现款等结算方式，账
+期为2-3个月。公司与主要供应商合作时间较长，
+已建立相对稳定的合作关系。此外，公司同时
+采用多家供应商产品，利于公司在采购产品价
+格上形成制衡，降低采购成本。截至2015年末，
+公司前五大供应商采购情况如下表所示：
+表 6：2015 年度公司前五大供应商采购情况
+（万元、%）
+占营业成本比
+供应商名称 采购金额
+重
+上海仪电金槐显示技术
+402.50 14.71
+有限公司
+北京金品高端科技有限
+302.87 11.07
+公司
+河南中宏仕蓝电子科技
+185.00 6.76
+有限公司
+影钛宝迪信息工程技术
+147.00 5.37
+（北京）有限公司
+北京创科佳华电子科技
+127.30 4.65
+有限公司
+合计 762.17 42.56
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大供应商采购额占营
+业成本比重为42.56%，公司采购集中度不高。
+公司通过多家供应商询价采购方式，且供应商
+竞争充分，公司在采购上的议价能力较强。
+在销售上，公司主要采取直销的销售模式。
+公司下游客户主要集中于各地方的规划局以及
+大型建设公司。2015年受“三四线城市房地产
+投资和土地出让金收入大规模缩水” 导致“国
+内地方政府城市规划部门信息化建设”投资大
+规模下降的影响，公司的业务出现大幅下滑。
+在结算方式上，公司与客户采取分期付款的结
+算方式，账期为1-2年。2015年度，公司前五大
+客户销售情况如下表所示：
+表 7：2015 年度公司前五大客户销售情况（万
+元、%）
+占营业收入比
+客户名称 销售收入
+重
+长沙市规划局 1,410.10 23.00
+贵州鳛水生态文化旅
+872.22 14.00
+游投资有限责任公司
+北京市石景山区经济
+355.81 6.00
+和信息化委员会
+武汉城市职业学院   278.36  5.00
+荆州市城乡规划局 267.63 4.00
+合计 3,184.12 52.00
+资料来源：公司提供，中国诚信整理
+2015年度，公司前五大客户销售收入占主
+营业务收入比重为52.00%，销售客户的集中度
+偏高。公司的客户实力较强，公司在销售服务
+时议价能力较弱。
+综合来看，近三年公司的业务规模逐年减
+少，营业收入逐年下滑。公司与上下游企业的
+合作相对稳定，在供应商选择和议价上具有一
+定的主动权，但是在销售产品和服务上较为被
+动，议价能力较弱。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>截至2016年04月末，公司共有员工274人。
+按学历划分，其中本科及以上学历员工144人，
+专科学历员工93人，专科以下学历员工37人；
+按年龄划分，25岁以下员工49人，25至45岁员
+工217人，45岁以上员工8人；按职能划分，管
+理人员12人，市场人员1人，技术人员213人，
+其他职能人员48人。
+公司按照《公司法》的一般规定和公司章
+程的规定，并结合公司的实际情况，建立了由
+股东会、董事会、监事会和总经理领导的高级
+管理层组成的治理架构，形成了决策机构、监
+督机构和管理层之间的协调制衡机制。股东会
+由全体股东组成，是公司的权力机构；公司董
+事会成员9人，是公司的经营决策机构；公司监
+事会成员3人，负责监督董事会的决策行为及其
+落实；总经理和财务负责人负责公司的日常生
+产经营管理工作和公司的财务工作。
+公司坚持走以技术创新、产品创新、品牌
+建设、人才培养和产业化发展为核心的创新之
+路。公司本着为社会创造价值、为客户创造价
+值、为企业创造价值、为员工创造价值的核心
+理念，立足成为国际领先的“三维地理信息技
+术、智慧城市大数据可视化产品和服务提供商”
+；在公司管理方面，公司建立人员管理制度、
+产品研发和质量管理制度、财务管理制度，以
+及数据保密制度。同时为满足日常经营要求，
+公司设立了研发、生产、采购、人事行政部、
+财务部、统筹规划、质量等部门。目前，公司
+各部门协调性较好，能够满足公司经营的要求。
+公司目前的组织结构图详见附件一。
+综合来看，公司员工素质整体较好，而且
+较为年轻，为公司的创新提供了活力。公司的
+治理结构基本完善，体现了各权力层次之间相
+互制衡，有利于提高公司决策的科学性，符合
+公司目前发展阶段的需要。公司的部门设置完
+善合理，权责清晰，且相互协调，能满足公司
+日常运营的需要。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据工信部制定的《软件和信息技术服务
+业“十二五”发展规划》，截至 2015年末，我
+国软件和信息技术服务业将实现业务收入超过
+4万亿元，占信息产业比重达到 25.00%，年均
+增长超过 24.50%，软件出口达到 600亿美元。
+信息技术服务收入超过 2.50万亿元，占软件和
+信息技术服务业总收入比重超过 60.00%。此外，
+国家将于“十二五”期间，鼓励行业龙头继续
+壮大，规范行业制度，并扶持拥有自主创新或
+专利技术的企业发展。综合来看，未来我国软
+件和信息技术服务业将维持平稳较快发展，并
+将逐渐加强在各领域内的应用。
+根据“十二五”规划，国家将持续推动城
+市向集约、智能、绿色、低碳方向发展，并且
+于“十二五”期间内，完成我国全部地级市和
+部分县级市的数字城市建设。预计全国范围内，
+数字城市基础平台建设总投入约 200.00亿元，
+数字城市应用总投入约 1,800.00亿元，建成后
+每年数据更新和系统维护投入约 200.00亿元。
+数字城市的快速发展将有效刺激设备、软件和
+应用等子领域需求快速释放。
+综上所述，未来伴随软件和信息技术服务
+业的快速发展，以及数字城市建设进程的不断
+加快，公司数字展示系统以及三维地理信息系
+统市场需求将保持较快速的增长。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="伟景行科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至2015年末，公司资产情况如下表所示：
+表 8：公司资产情况           单位：万元
+数据/指标 2013年 2014年 2015年
+货币资金 2,534.33 2,701.32 929.44
+应收账款 8,620.84 7,690.82 6,486.46
+其他应收款 1,286.26 2,290.25 2,814.82
+存货 550.31 775.49 1,532.89
+流动资产 13,232.85 13,685.72 12,002.88
+固定资产合计 264.90 231.12 223.19
+长期股权投资 3,000.00 3,000.00 3,000.00
+资产总计 16,963.16 17,699.68 16,028.73
+资产总计增长率
+25.65 4.34 -9.44
+（%）
+资料来源：公司提供，中国诚信整理
+伴随公司近年来业务的下滑，公司总资产
+规模呈先增加后减少的变动，近三年的增长率
+分别为25.65%、4.34%和-9.44%。从资产结构来
+看，公司资产以流动资产为主，其占比分别为
+78.01%、77.32%和74.88%。
+截至2015年末，公司流动资产主要由货币
+资金、应收账款、其他应收款和存货构成。
+2015年末，公司货币资金同比去年大幅增长
+65.59%，主要是由于公司营业收入大幅下降导
+致净利润大幅减少所致；同期公司应收账款较
+去年减少15.66%，随着承接业务量的减少，公
+司应收账款保持有所下降。从账龄上看，公司
+应收账款账龄在1年以内的占比30.55%，1-2年
+的占35.74%，2-3年的占11.26%，3-5年的占
+22.05%，5年以上的占0.40%。应收账款企业主
+要以各地区的城乡规划局为主，不偿还欠款的
+可能性较小，但是公司回款力度有待提高。公
+司2015年前五大应收账款客户明细如下：
+表 9：2015 年公司前五大应收账款客户明细       
+单位：万元、%
+客户名称 金额 占总额比重
+随州市城乡规划局 773.15 9.93
+深圳洲际建筑装饰集团有限公司 654.38 7.90
+现实城市规划展览馆 650.66 7.86
+北京市伟景行数字展示科技有限公
+358.92 4.33
+司
+北京市石景山区经济和信息化委员 355.81 4.30
+会
+合计 2,792.92 33.72
+资料来源：公司提供，中国诚信整理
+2015年末，公司其他应收款为2,814.82万
+元，同比去年增加22.90%。其他应收款账龄在
+1年以内的占81.16%，1年以上的占18.84%，构
+成以履约保证金和往来款为主；此外，公司存
+货为1532.89万元，同比去年大幅增加97.67%，
+构成主要为原材料和项目成本。
+公司非流动资产主要由长期股权投资构成。
+2015年末，公司长期股权投资为3,000.00万元，
+主要为对3家子公司的投资。
+综合来看，受公司业务量有所下滑的影响，
+公司总资产规模呈先增加后减小的变动，资产
+构成以流动资产为主。同时，公司的应收账款、
+其他应收款和存货规模较高，在一定程度上影
+响了资产流动性。
+运营能力
+公司2013至2015年度运营指标情况，如下
+表所示：
+表 10：公司运营指标情况           单位：%
+数据/指标 2013年 2014年 2015年
+应收账款周转率 154.70 139.99 80.91 
+存货周转率 799.55 671.34 236.99 
+流动资产周转率 99.63 84.83 44.66 
+总资产周转率 74.99 65.88 34.01 
+资料来源：公司提供，中国诚信整理
+2013至2015年，受公司营业收入逐年下降
+的影响，公司的应收账款周转效率呈逐年下降
+态势，其中2015年降幅明显。
+2013年至2015年，公受公司存货规模逐年
+增加及营业成本逐年下降双因素影响，公司存
+货周转率均呈逐年下滑态势。
+同期，受公司应收账款、其他应收款和存
+货均处于较高水平，且营业收入逐年减少的影
+响，公司的流动资产周转率和总资产周转率均
+呈逐年下降态势。
+综合来看，受到公司应收账款、其他应收
+款及存货规模较高及营业收入逐年减少的影响，
+公司的资产运营效率逐年下滑，运营效率有待
+提高。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013至2015年公司主要偿债能力指标如下
+表所示：
+表 15：公司偿债能力指标情况          
+数据/指标 2013年 2014年 2015年
+流动比率（%） 176.02 197.70 147.13 
+速动比率（%） 168.70 186.50 128.34 
+现金流动负债比率（%） -19.00 24.09 -30.78 
+现金负债总额比率（%） -18.75 23.74 -30.41 
+资料来源：公司提供，中国诚信整理
+2013至2015年末，公司流动比率和速动比
+率呈先提高后下降的变动。2015年末公司流动
+资产对流动负债保障能力有所下降。
+公司2013至2015年度公司现金流情况如下
+图所示：
+表 16：公司现金流情况 单位：万元
+数据/指标 2013年 2014年 2015年
+经营活动产生现
+-1,428.50 1,667.41 -2,510.94 
+金净流量
+投资活动产生的现
+-116.59 -542.82 -52.45 
+金流量
+筹资活动产生的净
+2,249.26 -957.61 712.10</enterprise:偿债能力>
+    <enterprise:财务弹性>公司2013至2015年末偿债能力指标，如下
+表所示：
+表 11：公司负债情况             单位：万元、
+%
+数据/指标 2012年 2013年 2014 年
+流动负债总额 7,517.61 6,922.45 8,157.81 
+负债总额 7,617.61 7,022.45 8,257.81 
+资产负债率 44.91 39.68 51.52 
+资本化比率 21.77 14.77 26.14 
+资料来源：公司提供，中国诚信整理
+近年来，受公司短期债务波动的影响，公
+司负债规模呈先减少后增加的变动，但变动幅
+度高于资产规模变动幅度。公司负债在构成上
+以流动负债为主。同期，公司资产负债率成先
+下降后上升态势，且公司短期有息债务规模在
+2014年大幅减少后2015年大幅提升，短期偿债
+压力将大幅增加。
+公司流动负债主要由短期借款、应付账款
+和预收账款构成。2015年末公司短期借款为
+2,749.97万元，构成全部为股东担保的保证借
+款。其中包括2015年1-8月份公司陆续向中行香
+山支行借款合计1,000万元，截至2015年10月已
+偿还500.03万元。2015年3月，公司向民生银行
+成府路支行合计借款250万元，借款利率为5.22%，
+借款期限一年。2015年10-11月，公司向招商银
+行朝外大街支行借款500万元，借款利率
+5.22%，借款期限一年。2015年10-12月，公司
+向北京银行魏公村支行累计借款1,500万元，年
+利率5.22%，借款期限一年。截至2016年04月末，
+公司短期借款构成情况如下表所示：
+表 12：2015 年末公司短期借款情况单位：万元
+借款人 金额 借款期限
+2014-12-22至 2016-
+民生银行成府路支行 250.00
+03-30
+2015-10-29至 2016-
+北京银行魏公村支行 500.00
+10-29
+2015-11-10至 2016-
+北京银行魏公村支行 500.00
+11-10
+2015-12-04至 2016-
+北京银行魏公村支行 500.00
+12-04
+2015-01-30至 2016-
+中国银行香山支行 499.97
+01-30
+招商银行朝外支行 2015-10-09至 2016-
+200.00
+（股份公司） 08-08
+招商银行朝外支行 2015-11-10至 2016-
+300.00
+（股份公司） 11-11
+合计 2,749.97 --
+资料来源：公司提供，中国诚信整理
+2015年末，公司应付账款为2,051.82万元，
+构成主要为关联方款项；此外，公司预收款项
+为2,625.12万元，构成以预收客户的项目款为
+主。
+综合来看，近年来，受公司有息债务规模
+波动的影响，公司负债规模呈先减少后增加的
+变动，构成以流动负债为主。公司负债率呈先
+下降后上的变动，短期有息债务比重在2015年
+大幅增加，短期偿债压力随之大幅增加。</enterprise:财务弹性>
+    <enterprise:盈利能力>公司2013至2015年度盈利指标情况如下图
+所示：
+表 13：公司盈利指标情况       单位：万元
+数据/指标 2013年 2014年 2015年
+营业收入 11,422.20 11,417.54 5,735.73 
+毛利润 6,813.16 6,967.26 3,000.42
+利润总额 806.50 1,464.59 -3,017.70 
+净利润 762.49 1,331.69 -2,906.31 
+毛利率（%） 59.65 61.02 52.31 
+净利润率（%） 6.68 11.66 -50.67 
+净资产收益率
+4.25 13.30 -31.51 
+（%）
+成本费用利润率
+8.05 14.23 -35.75 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，随着业务的开展，公司
+营业收入在2014年小幅增长后2015年大幅减少，
+分别为11,422.20万元、11,417.54万元和
+5,735.73万元；同期公司毛利润随营业收入的
+变动而变动，分别为6,813.16万元、
+6,967.26万元和3,000.42万元；近三年公司毛
+利率分别为59.65%、61.02%和52.31%，受近年
+来人工及成本变动的影响，公司毛利率呈上升
+后下降的变动态势；但同时，公司产品技术含
+量较高，附加值较高，毛利率仍维持在相对较
+高水平。
+公司2013至2015年度期间费用情况，如下
+表所示：
+表 14：公司期间费用情况       单位：万元、%
+数据/指标 2013年 2014年 2015 年
+营业费用 2,369.73 2,353.31 2,316.44 
+管理费用 2,916.85 3,287.69 3,235.77 
+财务费用 119.29 203.57 154.56 
+期间费用合计 5,405.88 5,844.57 5,706.77 
+期间费用增长率
+1.15 8.12 -2.36 
+（%）
+资料来源：公司提供，中国诚信整理
+2013至2015年度，随着公司业务的持续开
+展，公司期间费用呈先增加后减少的变动。同
+期，公司期间费用占营业收入比重分别为47.33%、
+51.19%和99.50%，逐年递增。2015年度，由于
+公司营业收入的大幅下滑，使得公司期间费用
+占营业收入比重大幅提升。
+2013至2015年度，公司利润总额分别为
+806.50万元、1,464.59万元和-3,017.70万元；
+净利润分别为762.49万元、1,331.69万元和-
+2,906.31万元，随着业务量的下滑以及承接项
+目数量的减少，公司盈利能力大幅下滑。
+综合来看，近年来，随着业务量的下滑以
+及承接项目数量的减少，公司营业收入大幅下
+滑期间费用占营业收比重大幅上升，期间费用
+控制能力有待加强，公司盈利能力大幅下降，
+有待提升。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="伟景行科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>2013至2015年，经查未发现公司不良贷款
+记录，公司合同履约记录良好，无对外担保记
+录。
+截至2016年04月末，经查公司无不良诉讼
+案件、无违反国家法律法规的经营行为、无工
+商、环保、质监等行政处罚记录、无不良纳税
+记录，社会声誉良好。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所在行业为国家大力支持行业，受到
+政策的扶持，所以面临的政策风险较小。国内
+从事GIS三维技术的公司较多，而且各有优势，
+市场竞争比较激烈，公司的市场风险较大。公
+司的客户集中在城市规划局和大型建筑公司，</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司目前处于亏损状态，且亏损数额
+有所上升，关注公司未来盈利能力变化情况。 
+（2）公司医药客户占比较高，医药行业未
+来发展情况对公司业务有一定影响。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="伟景行科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>16963.16 </enterprise:资产总额>
+    <enterprise:所有者权益>9345.55 </enterprise:所有者权益>
+    <enterprise:负债总额>7617.61 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>11422.20 </enterprise:营业收入>
+    <enterprise:EBITDA>1035.64 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="伟景行科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>17699.68 </enterprise:资产总额>
+    <enterprise:所有者权益>10677.24 </enterprise:所有者权益>
+    <enterprise:负债总额>7022.45 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>11417.54 </enterprise:营业收入>
+    <enterprise:EBITDA>1943.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="伟景行科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>16028.73 </enterprise:资产总额>
+    <enterprise:所有者权益>7770.92 </enterprise:所有者权益>
+    <enterprise:负债总额>8257.81 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5735.73 </enterprise:营业收入>
+    <enterprise:EBITDA>-2667.64 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="伟景行科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.75 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.55 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>8.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="伟景行科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.66 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.40 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>6.71 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="伟景行科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.34 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.81 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.37 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="伟景行科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>3.04 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.04 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>8.16 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="伟景行科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>9.63 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.63 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>12.47 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="伟景行科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>-16.98 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-16.98 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-37.40 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="伟景行科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>176.02 </enterprise:流动比率>
+    <enterprise:速动比率>168.70 </enterprise:速动比率>
+    <enterprise:资产负债率>44.91 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>7.36 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="伟景行科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>197.70 </enterprise:流动比率>
+    <enterprise:速动比率>186.50 </enterprise:速动比率>
+    <enterprise:资产负债率>39.68 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>3.61 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="伟景行科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>147.13 </enterprise:流动比率>
+    <enterprise:速动比率>128.34 </enterprise:速动比率>
+    <enterprise:资产负债率>51.52 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="伟景行科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>1.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>52.67 </enterprise:毛利率>
+    <enterprise:成本费用利润率>14.91 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-19.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>21.77 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>8.48 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="伟景行科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.85 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>48.81 </enterprise:毛利率>
+    <enterprise:成本费用利润率>25.06 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>24.09 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>14.77 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-0.04 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="伟景行科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.45 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.50 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-52.88 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-30.78 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>26.14 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-49.76 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="伟景行科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>2534.33 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>8620.84 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>191.11 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1286.26 </enterprise:其他应收款>
+    <enterprise:存货>550.31 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>50.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>13232.85 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>264.90 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>264.90 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>36.76 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>301.66 </enterprise:非流动资产合计>
+    <enterprise:资产总计>16963.16 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="伟景行科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2701.32 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>7690.82 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>217.84 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2290.25 </enterprise:其他应收款>
+    <enterprise:存货>775.49 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>10.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>13685.72 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>231.12 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>231.12 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>30.75 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>261.87 </enterprise:非流动资产合计>
+    <enterprise:资产总计>17699.68 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="伟景行科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>6486.46 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6486.46 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>239.26 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2814.82 </enterprise:其他应收款>
+    <enterprise:存货>1532.89 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>-5557.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12002.89 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>223.19 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>223.19 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>25.10 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>248.29 </enterprise:非流动资产合计>
+    <enterprise:资产总计>16028.73 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="伟景行科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1850.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2589.95 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1140.65 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6922.45 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>7022.45 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>10677.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>17699.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="伟景行科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1850.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2589.95 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1140.65 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6922.45 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>7022.45 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>10677.24 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>17699.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="伟景行科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2749.97 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2051.82 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.00 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>324.75 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8157.81 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8257.81 </enterprise:负债合计>
+    <enterprise:实收资本或股本>0.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>0.00 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>0.00 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7770.92 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16028.73 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="伟景行科技股份有限公司2013年利润表">
+    <enterprise:营业收入>11422.20 </enterprise:营业收入>
+    <enterprise:主营业务收入>11422.20 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5405.88 </enterprise:营业成本>
+    <enterprise:主营业务成本>5405.88 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>6740.69 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>806.20 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>762.49 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>762.49 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="伟景行科技股份有限公司2014年利润表">
+    <enterprise:营业收入>11417.54 </enterprise:营业收入>
+    <enterprise:主营业务收入>11417.54 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5844.57 </enterprise:营业成本>
+    <enterprise:主营业务成本>5844.57 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>6845.29 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1464.59 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1331.69 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1331.69 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="伟景行科技股份有限公司2015年利润表">
+    <enterprise:营业收入>5735.73 </enterprise:营业收入>
+    <enterprise:主营业务收入>5735.73 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5706.77 </enterprise:营业成本>
+    <enterprise:主营业务成本>5706.77 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.00 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2917.62 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-3017.70 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-2906.31 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-2906.31 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年伟景行科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1428.50 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-116.59 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>2249.26 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>704.17 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年伟景行科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1667.41 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-542.82 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-957.61 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>166.98 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年伟景行科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-2510.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-52.45 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>712.10 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1851.29 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：迟伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>迟伟 </enterprise:股东名称>
+	 <enterprise:货币>1,482.9168万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>29.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：迟华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>迟华 </enterprise:股东名称>
+	 <enterprise:货币>751.4748万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>14.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：唐志民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>唐志民 </enterprise:股东名称>
+	 <enterprise:货币>552.6054万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.84%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：朱杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱杰 </enterprise:股东名称>
+	 <enterprise:货币>552.6054万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.84%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：天津达晨创富股权投资基金中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津达晨创富股权投资基金中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>382.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>7.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：余杏娣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>余杏娣 </enterprise:股东名称>
+	 <enterprise:货币>255.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：梁伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>梁伟 </enterprise:股东名称>
+	 <enterprise:货币>162.8328万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.19%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：北京锐新创科科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京锐新创科科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>154.02万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.02%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：北京新风瑞特科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京新风瑞特科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>153.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：达晨银雷高新（北京）创业投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>达晨银雷高新（北京）创业投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>127.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：北京智诚盛景创业投资有限责任公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京智诚盛景创业投资有限责任公司 </enterprise:股东名称>
+	 <enterprise:货币>127.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：朱旭平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱旭平 </enterprise:股东名称>
+	 <enterprise:货币>102.0204万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：迟红 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>迟红 </enterprise:股东名称>
+	 <enterprise:货币>97.308万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：李葛卫 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李葛卫 </enterprise:股东名称>
+	 <enterprise:货币>76.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：王惠舜 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王惠舜 </enterprise:股东名称>
+	 <enterprise:货币>51.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：杨剑锋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨剑锋 </enterprise:股东名称>
+	 <enterprise:货币>36.72万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.72%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：白雪松 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>白雪松 </enterprise:股东名称>
+	 <enterprise:货币>17.85万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.35%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="伟景行科技股份有限公司股东：曲良毅 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>曲良毅 </enterprise:股东名称>
+	 <enterprise:货币>16.6464万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.33%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>16-7-21</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>20716423</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>16-7-21</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>20716424</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>16-7-21</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>20716425</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-10-15</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>15511784</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：DMS">
+	<enterprise:有申请日期>14-10-15</enterprise:有申请日期>
+	<enterprise:有商标名称>DMS</enterprise:有商标名称>
+	<enterprise:有注册号>15511783</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：G ITECH">
+	<enterprise:有申请日期>09-6-4</enterprise:有申请日期>
+	<enterprise:有商标名称>G ITECH</enterprise:有商标名称>
+	<enterprise:有注册号>7444729</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>补发商标注册证完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：数城">
+	<enterprise:有申请日期>08-8-14</enterprise:有申请日期>
+	<enterprise:有商标名称>数城</enterprise:有商标名称>
+	<enterprise:有注册号>6897058</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：数城">
+	<enterprise:有申请日期>08-8-14</enterprise:有申请日期>
+	<enterprise:有商标名称>数城</enterprise:有商标名称>
+	<enterprise:有注册号>6897059</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：数城">
+	<enterprise:有申请日期>08-8-14</enterprise:有申请日期>
+	<enterprise:有商标名称>数城</enterprise:有商标名称>
+	<enterprise:有注册号>6897060</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：DICITI">
+	<enterprise:有申请日期>08-8-13</enterprise:有申请日期>
+	<enterprise:有商标名称>DICITI</enterprise:有商标名称>
+	<enterprise:有注册号>6896531</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：DICITI">
+	<enterprise:有申请日期>08-8-13</enterprise:有申请日期>
+	<enterprise:有商标名称>DICITI</enterprise:有商标名称>
+	<enterprise:有注册号>6896533</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>补发商标注册证完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：DICITI">
+	<enterprise:有申请日期>08-8-13</enterprise:有申请日期>
+	<enterprise:有商标名称>DICITI</enterprise:有商标名称>
+	<enterprise:有注册号>6896532</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREEWINDOW">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>FREEWINDOW</enterprise:有商标名称>
+	<enterprise:有注册号>5295154</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREESHOW">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>FREESHOW</enterprise:有商标名称>
+	<enterprise:有注册号>5295155</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREEZOOMER">
+	<enterprise:有申请日期>05-6-2</enterprise:有申请日期>
+	<enterprise:有商标名称>FREEZOOMER</enterprise:有商标名称>
+	<enterprise:有注册号>4693675</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREEEDGE">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>FREEEDGE</enterprise:有商标名称>
+	<enterprise:有注册号>4689423</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREEDESKTOP">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>FREEDESKTOP</enterprise:有商标名称>
+	<enterprise:有注册号>4689424</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FLASHPASS">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>FLASHPASS</enterprise:有商标名称>
+	<enterprise:有注册号>4689426</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：SAMEFRAME">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>SAMEFRAME</enterprise:有商标名称>
+	<enterprise:有注册号>4689421</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：ACCUPIXELS">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>ACCUPIXELS</enterprise:有商标名称>
+	<enterprise:有注册号>4689422</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：EDGEGEN">
+	<enterprise:有申请日期>05-5-31</enterprise:有申请日期>
+	<enterprise:有商标名称>EDGEGEN</enterprise:有商标名称>
+	<enterprise:有注册号>4689425</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREESHAPER">
+	<enterprise:有申请日期>05-5-16</enterprise:有申请日期>
+	<enterprise:有商标名称>FREESHAPER</enterprise:有商标名称>
+	<enterprise:有注册号>4659054</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：FREEMEDIA">
+	<enterprise:有申请日期>05-5-16</enterprise:有申请日期>
+	<enterprise:有商标名称>FREEMEDIA</enterprise:有商标名称>
+	<enterprise:有注册号>4659055</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：CITY MARK">
+	<enterprise:有申请日期>05-4-22</enterprise:有申请日期>
+	<enterprise:有商标名称>CITY MARK</enterprise:有商标名称>
+	<enterprise:有注册号>4620573</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：VIRTUALCITY">
+	<enterprise:有申请日期>05-4-22</enterprise:有申请日期>
+	<enterprise:有商标名称>VIRTUALCITY</enterprise:有商标名称>
+	<enterprise:有注册号>4620574</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVITECH">
+	<enterprise:有申请日期>05-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称>GVITECH</enterprise:有商标名称>
+	<enterprise:有注册号>4616630</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVITECH">
+	<enterprise:有申请日期>05-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称>GVITECH</enterprise:有商标名称>
+	<enterprise:有注册号>4616627</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVITECH">
+	<enterprise:有申请日期>05-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称>GVITECH</enterprise:有商标名称>
+	<enterprise:有注册号>4616628</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVITECH">
+	<enterprise:有申请日期>05-4-21</enterprise:有申请日期>
+	<enterprise:有商标名称>GVITECH</enterprise:有商标名称>
+	<enterprise:有注册号>4616629</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVISION">
+	<enterprise:有申请日期>03-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>GVISION</enterprise:有商标名称>
+	<enterprise:有注册号>3747970</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVISION">
+	<enterprise:有申请日期>03-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>GVISION</enterprise:有商标名称>
+	<enterprise:有注册号>3747967</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVISION">
+	<enterprise:有申请日期>03-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>GVISION</enterprise:有商标名称>
+	<enterprise:有注册号>3747968</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：GVISION">
+	<enterprise:有申请日期>03-10-10</enterprise:有申请日期>
+	<enterprise:有商标名称>GVISION</enterprise:有商标名称>
+	<enterprise:有注册号>3747969</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>03-6-2</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>3576018</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>03-6-2</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>3576019</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>03-6-2</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>3576017</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：伟景行">
+	<enterprise:有申请日期>03-6-2</enterprise:有申请日期>
+	<enterprise:有商标名称>伟景行</enterprise:有商标名称>
+	<enterprise:有注册号>3576020</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="伟景行科技股份有限公司的商标信息：CITYMAKER">
+	<enterprise:有申请日期>02-3-29</enterprise:有申请日期>
+	<enterprise:有商标名称>CITYMAKER</enterprise:有商标名称>
+	<enterprise:有注册号>3128334</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>补发变更/转让/续展证明申请中</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：智能穿戴系统、智能头盔及智能眼镜">
+	<enterprise:有申请公布日>2017-04-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能穿戴系统、智能头盔及智能眼镜</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620670607.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206133116U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：图像展示系统">
+	<enterprise:有申请公布日>2014-11-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>图像展示系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420148948.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203950294U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：一种基于显卡刷新率的多机视频同步播放方法">
+	<enterprise:有申请公布日>2013-07-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于显卡刷新率的多机视频同步播放方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010170754.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101833935B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：一种展现三维图像的方法及装置">
+	<enterprise:有申请公布日>2011-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种展现三维图像的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010148473.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101800907B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：一种展现三维图像的装置">
+	<enterprise:有申请公布日>2011-03-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种展现三维图像的装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020161424.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201757829U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：一种基于显卡刷新率的多机视频同步播放方法">
+	<enterprise:有申请公布日>2010-09-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于显卡刷新率的多机视频同步播放方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010170754.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101833935A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="伟景行科技股份有限公司的专利信息：一种展现三维图像的方法及装置">
+	<enterprise:有申请公布日>2010-08-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种展现三维图像的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010148473.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101800907A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker CIMS智慧城市运营管理系统">
+	<enterprise:有批准日期>17-8-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker CIMS智慧城市运营管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker CIMS</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR458879</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker CIM智慧城市大数据可视化平台">
+	<enterprise:有批准日期>17-8-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker CIM智慧城市大数据可视化平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker CIMV</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR459012</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Explorer Pro 软件">
+	<enterprise:有批准日期>17-6-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Explorer Pro 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Explorer Pro</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR311594</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder 软件">
+	<enterprise:有批准日期>17-6-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR311578</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker城市综合信息管理平台">
+	<enterprise:有批准日期>17-7-7</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker城市综合信息管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR352365</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Connect 软件">
+	<enterprise:有批准日期>17-2-23</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Connect 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Connect</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR054245</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：三维城市设计综合管控平台">
+	<enterprise:有批准日期>16-9-2</enterprise:有批准日期>
+	<enterprise:有软件全称>三维城市设计综合管控平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker City Designer Pro</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR245531</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Explorer Pro 软件">
+	<enterprise:有批准日期>16-7-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Explorer Pro 软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Explorer Pro</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR167928</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker城市综合信息管理平台">
+	<enterprise:有批准日期>16-4-15</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker城市综合信息管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker URBAN INFO</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR077951</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地下管线三维综合管理系统">
+	<enterprise:有批准日期>16-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地下管线三维综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>三维管线</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120083</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker集群版系统">
+	<enterprise:有批准日期>15-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker集群版系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR264810</enterprise:有登记号>
+	<enterprise:有分类号>30103-8000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker规划一张图平台">
+	<enterprise:有批准日期>15-11-4</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker规划一张图平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR212582</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维触摸式扁平化指挥系统">
+	<enterprise:有批准日期>15-11-4</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维触摸式扁平化指挥系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR212587</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：VirSight Feeling VR沉浸式体感互动旅游体验系统">
+	<enterprise:有批准日期>15-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>VirSight Feeling VR沉浸式体感互动旅游体验系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Feeling体感系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR206987</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地下管线移动查询系统">
+	<enterprise:有批准日期>16-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地下管线移动查询系统</enterprise:有软件全称>
+	<enterprise:有软件简称>地下管线移动查询系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR119712</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地下管线共享查询系统">
+	<enterprise:有批准日期>16-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地下管线共享查询系统</enterprise:有软件全称>
+	<enterprise:有软件简称>地下管线共享查询系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120126</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地下管线监理成图系统">
+	<enterprise:有批准日期>16-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地下管线监理成图系统</enterprise:有软件全称>
+	<enterprise:有软件简称>地下管线监理成图</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR119094</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地下管线综合管理系统">
+	<enterprise:有批准日期>16-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地下管线综合管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>管线综合管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR120117</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker空间信息支撑平台">
+	<enterprise:有批准日期>15-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker空间信息支撑平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR033140</enterprise:有登记号>
+	<enterprise:有分类号>10300-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker智慧楼宇信息系统">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker智慧楼宇信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker SBS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026163</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维规划方案会审（触摸版）软件">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维规划方案会审（触摸版）软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026135</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维规划会商系统">
+	<enterprise:有批准日期>15-2-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维规划会商系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR026140</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：Citymaker智慧城市共享平台">
+	<enterprise:有批准日期>15-1-12</enterprise:有批准日期>
+	<enterprise:有软件全称>Citymaker智慧城市共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR006167</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：3D Urban Planner Pro">
+	<enterprise:有批准日期>15-1-12</enterprise:有批准日期>
+	<enterprise:有软件全称>3D Urban Planner Pro</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR006157</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：三维数字沙盘互动系统">
+	<enterprise:有批准日期>15-1-14</enterprise:有批准日期>
+	<enterprise:有软件全称>三维数字沙盘互动系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008141</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker地理信息共享平台">
+	<enterprise:有批准日期>13-7-17</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker地理信息共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker共享平台</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR067071</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Presentation汇报演示系统">
+	<enterprise:有批准日期>13-5-18</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Presentation汇报演示系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Presentation</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR046586</enterprise:有登记号>
+	<enterprise:有分类号>30100-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Facility三维市政信息系统">
+	<enterprise:有批准日期>13-4-8</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Facility三维市政信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Facility</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR031828</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：GVITECH中央控制系统软件">
+	<enterprise:有批准日期>13-4-8</enterprise:有批准日期>
+	<enterprise:有软件全称>GVITECH中央控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>N-VControl</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR031832</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Explorer三维空间信息应用系统">
+	<enterprise:有批准日期>13-2-7</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Explorer三维空间信息应用系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Explorer</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR012681</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维规划信息系统">
+	<enterprise:有批准日期>13-3-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维规划信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>三维规划信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR027847</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：可视化会商系统">
+	<enterprise:有批准日期>13-2-26</enterprise:有批准日期>
+	<enterprise:有软件全称>可视化会商系统</enterprise:有软件全称>
+	<enterprise:有软件简称>FreeMeeting</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR017062</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Safety应急管理平台">
+	<enterprise:有批准日期>13-1-9</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Safety应急管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Safety</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR002654</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维数字城市共享平台">
+	<enterprise:有批准日期>13-2-27</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维数字城市共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称>三维共享平台</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR017650</enterprise:有登记号>
+	<enterprise:有分类号>30107-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Server三维空间信息服务系统">
+	<enterprise:有批准日期>12-10-29</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Server三维空间信息服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Server</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR101434</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker SDK三维空间信息应用开发系统">
+	<enterprise:有批准日期>12-10-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker SDK三维空间信息应用开发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker SDK</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR101182</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维空间信息数据生产系统">
+	<enterprise:有批准日期>12-10-26</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维空间信息数据生产系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR101178</enterprise:有登记号>
+	<enterprise:有分类号>30103-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：Gvitech Tango集群系统">
+	<enterprise:有批准日期>13-2-26</enterprise:有批准日期>
+	<enterprise:有软件全称>Gvitech Tango集群系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Gvitech Tango</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR017346</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：旅游实训虚拟教学系统">
+	<enterprise:有批准日期>12-2-6</enterprise:有批准日期>
+	<enterprise:有软件全称>旅游实训虚拟教学系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR006859</enterprise:有登记号>
+	<enterprise:有分类号>30209-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：在线虚拟旅游互动展示系统">
+	<enterprise:有批准日期>12-2-2</enterprise:有批准日期>
+	<enterprise:有软件全称>在线虚拟旅游互动展示系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR006149</enterprise:有登记号>
+	<enterprise:有分类号>30210-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：FreeDome数字球幕影院演示系统">
+	<enterprise:有批准日期>13-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>FreeDome数字球幕影院演示系统</enterprise:有软件全称>
+	<enterprise:有软件简称>FreeDome</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR030797</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Server三维空间信息服务系统">
+	<enterprise:有批准日期>11-12-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Server三维空间信息服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Server</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR098339</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维空间信息数据生产系统">
+	<enterprise:有批准日期>11-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维空间信息数据生产系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR095281</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Explorer三维空间信息应用系统">
+	<enterprise:有批准日期>11-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Explorer三维空间信息应用系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Explorer</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR095267</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker SDK三维空间信息应用开发系统">
+	<enterprise:有批准日期>11-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker SDK三维空间信息应用开发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker SDK</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR096988</enterprise:有登记号>
+	<enterprise:有分类号>30103-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维政务信息共享平台">
+	<enterprise:有批准日期>13-1-10</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维政务信息共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR003137</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Pipeline三维市政管理信息系统">
+	<enterprise:有批准日期>11-7-7</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Pipeline三维市政管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Pipeline</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR044417</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Desktop">
+	<enterprise:有批准日期>12-2-1</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Desktop</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR005761</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：基于3DGIS技术的数字城市网络开发平台">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>基于3DGIS技术的数字城市网络开发平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025765</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维地理信息共享平台">
+	<enterprise:有批准日期>11-5-11</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维地理信息共享平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR027320</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Safety应急管理平台">
+	<enterprise:有批准日期>11-7-4</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Safety应急管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Safety</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR043032</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker集群版系统">
+	<enterprise:有批准日期>11-5-16</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker集群版系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker集群版</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR028850</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：数字沙盘3DGIS及规划互动展示系统">
+	<enterprise:有批准日期>11-5-12</enterprise:有批准日期>
+	<enterprise:有软件全称>数字沙盘3DGIS及规划互动展示系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR027615</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：3S虚拟现实与三维仿真技术辅助城市设计和详细规划软件">
+	<enterprise:有批准日期>11-1-7</enterprise:有批准日期>
+	<enterprise:有软件全称>3S虚拟现实与三维仿真技术辅助城市设计和详细规划软件</enterprise:有软件全称>
+	<enterprise:有软件简称>3S虚拟现实与三维仿真技术辅助规划设计软件</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR000729</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker 3DGIS基础平台">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker 3DGIS基础平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR026063</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维视景制作软件">
+	<enterprise:有批准日期>11-2-18</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维视景制作软件</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR007809</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维空间信息数据生产系统">
+	<enterprise:有批准日期>11-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维空间信息数据生产系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR036016</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维空间信息数据生产系统">
+	<enterprise:有批准日期>11-5-5</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维空间信息数据生产系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR025953</enterprise:有登记号>
+	<enterprise:有分类号>30103-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker SDK三维空间信息应用开发系统">
+	<enterprise:有批准日期>11-2-18</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker SDK三维空间信息应用开发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker SDK</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR007702</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Server三维空间信息服务系统">
+	<enterprise:有批准日期>10-10-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Server三维空间信息服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Server</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR055331</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Explorer三维空间信息应用系统">
+	<enterprise:有批准日期>10-10-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Explorer三维空间信息应用系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Explorer</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR055334</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker三维城市规划辅助决策系统">
+	<enterprise:有批准日期>10-12-20</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker三维城市规划辅助决策系统</enterprise:有软件全称>
+	<enterprise:有软件简称>三维城市规划辅助决策系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR070521</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：基于DICITI平台的虚拟现实开发系统">
+	<enterprise:有批准日期>10-10-22</enterprise:有批准日期>
+	<enterprise:有软件全称>基于DICITI平台的虚拟现实开发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>基于DICITI的开发系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR055587</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Traveller互动城市游三维展示系统">
+	<enterprise:有批准日期>10-2-8</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Traveller互动城市游三维展示系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Traveller</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR007022</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker HomeFinder寻找家园三维展示系统">
+	<enterprise:有批准日期>10-2-8</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker HomeFinder寻找家园三维展示系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker HomeFinder</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR007024</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：DICITI互联网三维应用平台">
+	<enterprise:有批准日期>10-6-5</enterprise:有批准日期>
+	<enterprise:有软件全称>DICITI互联网三维应用平台</enterprise:有软件全称>
+	<enterprise:有软件简称>DICITI平台</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR027297</enterprise:有登记号>
+	<enterprise:有分类号>63000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker虚拟现实演示系统集群版">
+	<enterprise:有批准日期>09-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker虚拟现实演示系统集群版</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker集群版</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR019795</enterprise:有登记号>
+	<enterprise:有分类号>67000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Designer Pro三维虚拟设计软件增强版">
+	<enterprise:有批准日期>09-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Designer Pro三维虚拟设计软件增强版</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Designer Pro</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR013623</enterprise:有登记号>
+	<enterprise:有分类号>65500-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Network数字城市三维网络平台">
+	<enterprise:有批准日期>09-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Network数字城市三维网络平台</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Network</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR013622</enterprise:有登记号>
+	<enterprise:有分类号>65500-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Builder三维视景制作软件">
+	<enterprise:有批准日期>09-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Builder三维视景制作软件</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Builder</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR013620</enterprise:有登记号>
+	<enterprise:有分类号>65500-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Professional 城市规划三维辅助决策系统">
+	<enterprise:有批准日期>09-3-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Professional 城市规划三维辅助决策系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CityMaker Professional</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR013619</enterprise:有登记号>
+	<enterprise:有分类号>65500-9400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Desinger Pro 2007虚拟现实设计系统 [简称: CityMaker Desinger Pro 2007] V1.0">
+	<enterprise:有批准日期>08-8-1</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Desinger Pro 2007虚拟现实设计系统 [简称: CityMaker Desinger Pro 2007] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR15081</enterprise:有登记号>
+	<enterprise:有分类号>67000-9900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Professional虚拟可视化系统 V1.0 [简称: CityMaker Professional]">
+	<enterprise:有批准日期>08-1-22</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Professional虚拟可视化系统 V1.0 [简称: CityMaker Professional]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR01504</enterprise:有登记号>
+	<enterprise:有分类号>67000-8100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Manager Suite虚拟现实管理系统 V1.0 [简称:CityMaker Manager]">
+	<enterprise:有批准日期>08-1-7</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Manager Suite虚拟现实管理系统 V1.0 [简称:CityMaker Manager]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR00280</enterprise:有登记号>
+	<enterprise:有分类号>67000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Viz 2007虚拟现实可视化系统 V1.0 [简称: CityMaker Viz 2007]">
+	<enterprise:有批准日期>07-11-30</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Viz 2007虚拟现实可视化系统 V1.0 [简称: CityMaker Viz 2007]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR19019</enterprise:有登记号>
+	<enterprise:有分类号>67000-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：VirSight旅游实训虚拟现实网络教学系统 V1.0 [简称: VirSight网络教学系 统]">
+	<enterprise:有批准日期>07-11-30</enterprise:有批准日期>
+	<enterprise:有软件全称>VirSight旅游实训虚拟现实网络教学系统 V1.0 [简称: VirSight网络教学系 统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR19020</enterprise:有登记号>
+	<enterprise:有分类号>65500-8700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：旅游实训虚拟教学系统 V2.0">
+	<enterprise:有批准日期>07-5-11</enterprise:有批准日期>
+	<enterprise:有软件全称>旅游实训虚拟教学系统 V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR06786</enterprise:有登记号>
+	<enterprise:有分类号>67000-8700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker Designer 2007虚拟现实设计系统 V1.0 [简称: CityMaker Designer 2007]">
+	<enterprise:有批准日期>07-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker Designer 2007虚拟现实设计系统 V1.0 [简称: CityMaker Designer 2007]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR02811</enterprise:有登记号>
+	<enterprise:有分类号>67000-6900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：CityMaker虚拟现实演示系统集群版 V3.0 [简称: CityMaker集群版]">
+	<enterprise:有批准日期>06-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>CityMaker虚拟现实演示系统集群版 V3.0 [简称: CityMaker集群版]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2006SR11749</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="伟景行科技股份有限公司的软件著作：FreeMedia多通道媒体播放系统 V1.0 [简称: FreeMedia]">
+	<enterprise:有批准日期>05-7-18</enterprise:有批准日期>
+	<enterprise:有软件全称>FreeMedia多通道媒体播放系统 V1.0 [简称: FreeMedia]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2005SR07828</enterprise:有登记号>
+	<enterprise:有分类号>65500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：diciti产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>diciti产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.diciti.net</enterprise:有网站首页>
+	<enterprise:有域名>diciti.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：数字澳门">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>数字澳门</enterprise:有网站全称>
+	<enterprise:有网站首页>www.digitalmacau.cn;www.diciti.com</enterprise:有网站首页>
+	<enterprise:有域名>diciti.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：citymaker7产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>citymaker7产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymaker7.com</enterprise:有网站首页>
+	<enterprise:有域名>citymaker6.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：数字澳门">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>数字澳门</enterprise:有网站全称>
+	<enterprise:有网站首页>www.digitalmacau.cn;www.diciti.com</enterprise:有网站首页>
+	<enterprise:有域名>digitalmacau.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行科技股份有限公司citymakeronline产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行科技股份有限公司citymakeronline产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymakeronline.com</enterprise:有网站首页>
+	<enterprise:有域名>citymakeronline.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行科技股份有限公司">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.com</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行gvitech产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行gvitech产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.net</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行gvitech产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行gvitech产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.net</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：citymaker7产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>citymaker7产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymaker7.com</enterprise:有网站首页>
+	<enterprise:有域名>citymaker7.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：citymaker7产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>citymaker7产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymaker7.com</enterprise:有网站首页>
+	<enterprise:有域名>citymaker8.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行科技股份有限公司">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行科技股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.com</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行gvitech产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行gvitech产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.net</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：伟景行gvitech产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>伟景行gvitech产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gvitech.net</enterprise:有网站首页>
+	<enterprise:有域名>gvitech.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：citymaker7产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>citymaker7产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymaker7.com</enterprise:有网站首页>
+	<enterprise:有域名>citymaker7.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="伟景行科技股份有限公司的网站备案：citymaker7产品">
+	<enterprise:有审核时间>17-8-30</enterprise:有审核时间>
+	<enterprise:有网站全称>citymaker7产品</enterprise:有网站全称>
+	<enterprise:有网站首页>www.citymaker7.com</enterprise:有网站首页>
+	<enterprise:有域名>citymaker8.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06038008号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="伟景行科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="伟景行科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司技术和产品市场认可度高，公司业务拓展良好</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="伟景行科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>是</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>城市规划局、大型建筑公司</enterprise:现有主要客户>
+	<enterprise:目前经营状况>受到宏观经济的影响，公司业务出现一定程度的下滑</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="伟景行科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>保持特色，坚持差异化竞争，同时积极拓展市场</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="伟景行科技股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="伟景行科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>三维 GIS在各行业认同度高，长期需求不断增长。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="伟景行科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="伟景行科技股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="伟景行科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>8,540,699.10元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2,239,112.53元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="伟景行科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="伟景行科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="伟景行科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>23</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>12</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>11</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="伟景行科技股份有限公司的专利数量">
+	<enterprise:专利总计>2</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>1</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="伟景行科技股份有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>2</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="伟景行科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

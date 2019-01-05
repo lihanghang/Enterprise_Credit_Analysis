@@ -1,0 +1,1423 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京奇华智慧交通科技股份有限公司的企业概况">
+    <enterprise:有名称>北京奇华智慧交通科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局通州分局</enterprise:有登记机关>
+    <enterprise:有中征码>税务登记证号码</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国银行股份有限公司北京市分行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>36</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年08月30日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1246</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2030年08月29日</enterprise:有营业执照到期日>
+    <enterprise:有股本>1246</enterprise:有股本>
+    <enterprise:有经营范围>技术推广；软件开发；技术开发；销售电子产品、仪器仪表、计算机软件及辅助设备；技术进出口、货物进出口；增值电信业务（呼叫中心业务）；生产ETC设备（ETC车载设备、ETC车道设备）；网络预约出租汽车客运（网络预约出租汽车经营许可证有效期至2021年04月05日）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本区产业政策禁止和限制类项目的经营活动。）技术推广；软件开发；技术开发；销售电子产品、仪器仪表、计算机软件及辅助设备；技术进出口、货物进出口；增值电信业务（呼叫中心业务）；生产ETC设备（ETC车载设备、ETC车道设备）；网络预约出租汽车客运（网络预约出租汽车经营许可证有效期至2021年04月05日）。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>助设备</enterprise:有主营业务>
+    <enterprise:有行业分类>通信类</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市通州区中关村科技园区通州园金桥科技产业基地景盛南四街15号16D302室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市通州区中关村科技园区通州园金桥科技产业基地景盛南四街15号16D302室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102201</enterprise:有邮政编码>
+    <enterprise:有联系人>秘京华</enterprise:有联系人>
+    <enterprise:有联系电话>60592299-803</enterprise:有联系电话>
+    <enterprise:有传真电话>60592233</enterprise:有传真电话>
+    <enterprise:有E-mail>Bijinghua@qhzhjt.com</enterprise:有E-mail>
+    <enterprise:有网址>-</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京奇华智慧交通科技股份有限公司成立
+于2010年8月，是专业从事GPS运营和提供汽车
+一键呼导航服务的运营商，并获得了国家认定
+的软件企业证书和软件产品证书。公司经营范
+围包括：智通交通系统软件开发及推广、动态
+交通信息发布及服务、汽车电子产品的研发、
+生产及销售。
+公司开发的全国动态路况信息可通过广播
+频道（CMMB）下发到汽车车载导航终端，用户
+既可随时随地看电视，又能接收旅游指南、天
+气预报、汽车动态、生活时尚等信息。
+公司开发的飞嘀打车智能终端和飞嘀打车
+软件具备移动生活、一键导航、电子支付、无
+线WIFI等功能，实现了“互联网+智慧交通”的
+出行服务模式，让大众出行更加安全、公平、
+方便、舒心。公司在上海、河北、广西、重庆
+、成都、云南等40个地级以上城市将陆续开通
+飞嘀打车业务，未来两年，加入飞嘀打车系统
+的出租车将突破50万辆，日飞嘀打车业务将达
+到100万次以上并保持较快的增长态势。
+公司在城市交通信息服务、汽车电子识别
+标签（RFID）、北斗终端、移动互联网车载多
+媒体系统等产品研发、生产、销售等方面有着
+雄厚的技术实力、运行经验和市场资源。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京奇华智慧交通科技股份有限公司的基础素质">
+    <enterprise:有管理素质>北京奇华智慧交通科技股份有限公司法人
+代表周超宣，男，1955年8月出生，华南理工大
+学机械工程系学士学位。曾任汕头潮阳糖果饼
+干厂副厂长、广东省金洋进出口（集团）公司
+潮阳区公司副总经理、穗鑫国际贸易公司总经
+理。2015年至今，任北京奇华智慧交通科技股
+份有限公司董事长、总经理，具有十分丰富的
+管理经验。
+公司的其他几位高管均具备较为丰富的专
+业技术和从业经验，有利于公司的稳定发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>北京奇华智慧交通科技股份有限公司十分
+注重产品的研发，设有独立的技术中心，研发
+团队结构合理，具有强大的可持续研发能力。</enterprise:有人员素质>
+    <enterprise:有科研条件>北京奇华智慧交通科技股份有限公司具有
+一定的研发条件。公司拥有较好的研发条件，
+保证了技术研发的力度和更新速度。2015年公
+司研发投入172.22万元，能够保证研发工作的
+顺利进行。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京奇华智慧交通科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>北京奇华智慧交通科技股份有限公司成立
+于2010年8月，初始注册资金209万。公司现有
+注册资金1246万元，由12名股东构成，其中自
+然人股东10名，法人股东2名。
+公司经营范围包括智通交通系统软件开发
+及推广、动态交通信息发布及服务、汽车电子
+产品的研发、生产及销售。
+公司开发的全国动态路况信息可通过广播
+频道（CMMB）下发到汽车车载导航终端，用户
+既可随时随地看电视，又能接收旅游指南、天
+气预报、汽车动态、生活时尚等信息。
+公司开发的飞嘀打车智能终端和飞嘀打车
+软件具备移动生活、一键导航、电子支付、无
+线WIFI等功能，实现了“互联网+智慧交通”的
+出行服务模式，让大众出行更加安全、公平、
+方便、舒心。公司在上海、河北、广西、重庆
+、成都、云南等40个地级以上城市将陆续开通
+飞嘀打车业务，未来两年，加入飞嘀打车系统
+的出租车将突破50万辆，日飞嘀打车业务将达
+到100万次以上并保持较快的增长态势。
+随着公司业务的不断拓展和竞争实力的不
+断增强，公司产品销售情况好转，2015年的营
+业收入为2554.94万元，增幅为458.01%。
+图1：公司近三年营业收入（万元）
+数据来源：公司提供财务报表
+公司产品主要包括车载电视接收器集成芯
+片、奇华动态路况信息服务软件、监控调度系
+统等，客户有北京麦卡思为信息技术有限公司
+、北京畅易行科技有限公司和北京房安出租汽
+车有限责任公司等。多数客户采取分期付款方
+式，付款周期根据客户合同约定不同，分为一
+月、一季度、半年和一年。
+总体来看，目前公司具有一定技术优势和
+客户基础，有利于公司业务的持续发展。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>北京奇华智慧交通科技股份有限公司组织
+机构完整，建立了完善的法人治理结构。公司
+设董事会，由八名董事组成，负责执行股东会
+决议，负责对公司的战略规划、经营方针、财
+务法律、安全生产、技术革新、对外交易等内
+部管理工作提供总体规划和合理建议。公司设
+监事会，由三名监事组成，依法对公司的财务
+、业务状况，董事、总经理及其他高管人员是
+否履行职责情况和股东会决议执行等情况进行
+合理、合法的监督。公司无董事、经理兼任监
+事现象。
+目前公司按照现代企业制度的要求建立起
+较为规范的管理体系，有比较完善的组织架构
+及高管团队，生产经营各方面运转情况良好。
+公司建立了完善的现代管理制度，明确职能部
+门的划分和岗位职责，定岗定责，各职能部门
+间各司其责联系紧密。
+公司根据经营目标和员工个人状况，量才
+使用，人尽其才，发挥个人特长，体现个人价
+值。在一定程度上促使员工将公司的成功当成
+自己的义务，鼓励其创造性，营造和谐向上的
+工作氛围，培养了员工积极向上的作风。
+在员工权益保障方面，公司按照国家规定
+保障员工各项福利待遇，并按期为员工提供身
+体健康检查，有利于调动员工工作积极性，确
+保了公司整体经营管理的稳定性和长远性。
+在合同管理方面，公司在对外交易时，做
+到所有交易均通过书面合同形式来确定双方权
+责，在一定程度上积极有效的杜绝和减少交易
+的风险隐患。公司有较严格的合同管理制度，
+并严格按照制度执行，体现了公司良好的商业
+信誉。
+总体来说，公司信用管理体系流程基本建
+立，合同管理状况总体情况良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>随着智能手机和移动互联网的普及，手机
+在智能交通中扮演越来越重要的角色。早在201
+0年韩国召开的第17届ITS世界大会上，韩国就
+宣称其3G手机的应用中，与交通有关的占到50%
+以上；2012年10月在奥地利的第19届、2013年
+在日本东京的第20届ITS大会上，都有包括旅馆
+、公交与换乘、室内导航、大会注册和定制会
+议日程的APP。这种应用已经成为电信运营商、
+信息服务商乃至交通运营服务商均认同的一种
+商业模式。除此之外，世界各国（包括中国在
+内）利用智能手机和移动互联网开发的ITS应用
+越来越多，如基于手机地图的城市交通拥堵信
+息服务、基于手机拍照二维码和移动互联网的
+手机公交电子站牌、基于移动互联网云端的交
+通信息服务、手机打车服务等。
+回顾国内外ITS领域20年来的开发和应用状
+况，突出的特点是花巨资开发的各种系统在市
+场上悲欢各异。但近两年来，随着智能手机和
+移动互联网应用的普及，将出行服务与其他服
+务整合提供给手机用户已经成为电信运营商、
+信息服务商乃至交通运营商均认同的一种商业
+应用，其赢利模式并不是仅考虑交通应用，而
+是综合考虑。 以今年年初的打车软件“补贴战
+”为例，乘客打车时服务商不要说挣钱，甚至
+还给乘车者和出租司机补贴，这与近几年来国
+际ITS产业界总结的经验高度相似，这就是互联
+网发展过程中表现出的体验型应用越来越渗透
+到ITS中，电子信息技术和ITS技术发展积累的
+基础使得ITS应用越来越被创意和市场左右，IT
+S产业界开始越来越看重客户的数量和系统对客
+户的“黏性”。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京奇华智慧交通科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>图2：公司资产质量及流动性指标图
+表1:公司资产质量及流动性指标表
+  项　目 2013年 2014年 2015年
+资产总额(万元) 912.46 1131.77 2511.26 
+应收账款(万元) 189.49 400.23 656.73 
+存货(万元) 23.78 23.78 372.26 
+流动资产(万元) 820.79 1064.77 2455.17 
+固定资产(万元) 28.11 20.66 37.51 
+无形资产(万元) 0.00 0.00 0.58 
+应收账款周转率(次) 1.93 1.55 4.83 
+总资产周转率(次) 0.48 0.45 1.40 
+数据来源：公司提供财务报表
+随着公司经营的持续发展，公司总资产规
+模稳步增加，目前以流动资产为主。2013年至2
+015年资产总额分别是912.46万元、1131.77万
+元和2511.26万元，2015年较上一年度有所增大
+，增幅为121.89%。
+截止2015年末，公司资产总计为2511.26万
+元，由流动资产和非流动资产构成。其中流动
+资产占总资产的97.77%，主要由货币资金、应
+收账款、预付账款、存货、其他应收款、其他
+流动资产和一年内的到期的非流动资产构成；
+其中货币资金占流动资产比重最大，约占流动
+资产的54%，主要是银行存款及现金，这部分资
+产变现能力较强，公司所占比重较大，资金流
+动性较强。
+非流动资产占比2.23%，主要由长期股权投
+资和固定资产、无形资产、长期待摊费用和递
+延所得税资产构成，其中递延所得税资产占比
+最大。
+从公司总资产周转率来看，2015年数值为1
+.40次，较2014年的0.45次相比有所增加，主要
+是公司营业收入大规模增加，且增幅大于近两
+年资产总额的平均增幅所致，说明公司运用总
+资产获取利润的能力在增强。
+2015年末，公司的应收账款占流动资产比
+重为26.75%，较2014年的37.59%相比有所减小
+，说明公司加强了对应收账款的管理。欠款单
+位主要包括北京市麦卡思为信息技术有限公司
+、厦门雅迅网络科技有限公司、北京房安出租
+汽车有限公司等主要客户。从欠款单位性质来
+看，形成坏账的风险不大，欠款原因主要是账
+期较长所致。
+综合来看，公司资产结构较为合理，基本
+不存在不良资产。资金流动性较强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>图4：公司偿债能力指标图
+表3：公司偿债能力指标表
+项　目 2013年 2014年 2015年
+负债总额(万元) 10.43 86.19 90.08 
+资产负债率(%) 1.14 7.62 3.59 
+预收账款(万元) 2.00 0.00 0.00 
+速动比率(倍) 76.38 12.08 23.12 
+现金流动负债比(%) -1735.42 52.50 -5.68 
+数据来源：公司提供财务报表
+公司2015年末负债总额90.08万元。从负债
+结构来看，全部由流动负债构成。其中流动负
+债主要包括应付账款、应交税费和其他应付款
+构成。其中应付账款占比最大，主要是对供应
+商应支付的货款。
+公司长期偿债能力稳健有保障，目前没有
+负债压力，具有一定的融资空间，为企业的快
+速发展奠定了资金保障。公司2013年至2015年
+的资产负债率分别是1.14%、7.62%和3.59%，三
+年数值呈波动态势，但均保持在行业较好水平
+，说明公司长期偿债压力不大，公司长期偿债
+能力较强，具有一定的融资空间。
+公司运用现金流来保障企业按期偿还到期
+债务的能力尚可。从短期偿债能力指标中最重
+要的速动比率指标来看，2013年到2015年，公
+司速动比率分别为76.38、12.08和23.12，三年
+数值呈波动态势，但均处于行业较好水平，说
+明公司短期偿债压力不大。结合现金流动负债
+比来看，公司2015年的现金流动负债比为负，
+主要是经营支出较大所致。公司尚具有一定的
+筹资能力，目前用于短期债务支付的能力基本
+可以得到保障。
+2015年末，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司成立以来，业务规模不断扩大，对资
+金需求也在不断增加。截止2015年末，公司无
+短期借款，目前运营资金完全自有。
+公司有72.86万元的应付账款，主要是对
+供应商北京广田通电子有限责任公司、北京优力讯科
+技有限公司等单位在账期内应付的采购款。公司
+具有能够从上下游企业获得资金融通的能力，
+在一定程度上缓解了自身的资金压力。
+一般来说，一个企业如果完全通过权益资
+本筹集资金显然是不明智的，因为其筹集方式
+使之不能得到负债经营的好处。公司如果能够
+通过投资、外部借款、获得上下游企业账期等
+途径增加资金融通渠道，会进一步扩大经营规
+模，有利于公司的进一步发展。</enterprise:财务弹性>
+    <enterprise:盈利能力>图3：公司盈利能力指标图
+表2：公司盈利状况分析
+项　目 2013年 2014年 2015年
+主营业务收入(万元) 431.38 457.86 2554.94 
+主营业务利润(万元) 423.04 433.49 1012.45 
+营业利润(万元) 28.62 50.05 151.80 
+净利润(万元) 27.62 91.66 207.60 
+主营业务利润率(%) 98.07 94.68 39.63 
+净资产收益率(%) 3.12 9.41 11.98 
+总资产报酬率(%) 3.72 10.59 12.96 
+成本费用利润率(%) 8.33 26.94 10.04 
+数据来源：公司提供财务报表
+随着公司竞争实力的不断增强和业务的不
+断拓展。公司2015年主营业务收入较上一年度
+有所增加。2013年至2015年公司主营业务收入
+分别为431.38万元、457.86万元和2554.94万
+元，2015年增幅为458.01%，说明公司经营业
+绩良好。
+2015年公司主营业务利润为1012.45万元
+，也较上一年度的433.49万元有所增长。但公
+司主营业务利润率却由2014年的94.68%减小至
+2015年的39.63%，说明公司主营业务成本也增
+幅明显。 
+公司对成本费用的控制能力在减弱。从公
+司的成本费用利润率来看，2015年成本费用利
+润率为10.04%，数值较上一年度的26.94%相比
+有所减小，说明公司在经营过程中的各项费用
+也在增长。
+公司运用全部资产的盈利能力在增强。从
+资产的综合利用效率指标分析，2015年的总资
+产报酬率为12.96%，数值较上一年度的10.59%
+相比有所增大。说明公司经营期间全部资产从
+投入到产出的流转速度加快，全部资产的管理
+质量和利用效率在提高。
+综合分析，随着公司营业收入的快速增长
+，整体盈利能力增强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京奇华智慧交通科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司经营状况受行业政策和主要客户变动影响
+。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司主营业务成本增幅明显，主营业务获利能
+力显弱。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>9124593.70 </enterprise:资产总额>
+    <enterprise:所有者权益>9020243.95 </enterprise:所有者权益>
+    <enterprise:负债总额>104349.75 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4313783.97 </enterprise:营业收入>
+    <enterprise:EBITDA>47.23 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>11317695.27 </enterprise:资产总额>
+    <enterprise:所有者权益>10455781.88 </enterprise:所有者权益>
+    <enterprise:负债总额>861913.39 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4578626.01 </enterprise:营业收入>
+    <enterprise:EBITDA>108.20 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>25108628.47 </enterprise:资产总额>
+    <enterprise:所有者权益>24211787.93 </enterprise:所有者权益>
+    <enterprise:负债总额>900800.54 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>25549380.23 </enterprise:营业收入>
+    <enterprise:EBITDA>236.08 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>48.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>193.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>45.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>155.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>79.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>140.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>483.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>772.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>3.72 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.72 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>20.98 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>10.59 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>10.59 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>8.77 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>12.96 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>12.96 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>8.57 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>7865.74 </enterprise:流动比率>
+    <enterprise:速动比率>7637.87 </enterprise:速动比率>
+    <enterprise:资产负债率>1.14 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.22 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>1235.36 </enterprise:流动比率>
+    <enterprise:速动比率>1207.77 </enterprise:速动比率>
+    <enterprise:资产负债率>7.62 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.80 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奇华智慧交通科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>2725.10 </enterprise:流动比率>
+    <enterprise:速动比率>2311.84 </enterprise:速动比率>
+    <enterprise:资产负债率>3.59 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.38 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>100.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>80.93 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-1735.42 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-22.18 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>95.88 </enterprise:毛利率>
+    <enterprise:成本费用利润率>85.61 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>52.50 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>6.14 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>2.47 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奇华智慧交通科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>40.16 </enterprise:毛利率>
+    <enterprise:成本费用利润率>14.12 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-5.68 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>458.01 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>133.56 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京奇华智慧交通科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1787511.24 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1894892.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>82140.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4205550.25 </enterprise:其他应收款>
+    <enterprise:存货>237790.61 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>8207884.10 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>281109.60 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>635600.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>916709.60 </enterprise:非流动资产合计>
+    <enterprise:资产总计>9124593.70 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奇华智慧交通科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2058288.16 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4002314.50 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4349330.20 </enterprise:其他应收款>
+    <enterprise:存货>237790.61 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>10647723.47 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>206563.33 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>444615.02 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>18793.45 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>669971.80 </enterprise:非流动资产合计>
+    <enterprise:资产总计>11317695.27 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奇华智慧交通科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>13346069.74 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6567269.52 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>485254.31 </enterprise:其他应收款>
+    <enterprise:存货>3722642.82 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>90800.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>335671.61 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>24547708.00 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>70336.95 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>375050.58 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5783.46 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>31999.02 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>77750.46 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>560920.47 </enterprise:非流动资产合计>
+    <enterprise:资产总计>25108628.47 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奇华智慧交通科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>161700.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>524692.09 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>175521.30 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>861913.39 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>861913.39 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2090000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>836578.19 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7529203.69 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>10455781.88 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>10455781.88 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>11317695.27 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奇华智慧交通科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>161700.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>524692.09 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>175521.30 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>861913.39 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>861913.39 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2090000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>836578.19 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7529203.69 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>10455781.88 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>10455781.88 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>11317695.27 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奇华智慧交通科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>728628.93 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>162495.95 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>9675.66 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>900800.54 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>900800.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>12460000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>10530029.61 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>122175.84 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1099582.48 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>24211787.93 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>24211787.93 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>25112588.47 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京奇华智慧交通科技股份有限公司2013年利润表">
+    <enterprise:营业收入>4313783.97 </enterprise:营业收入>
+    <enterprise:主营业务收入>4313783.97 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>0.00 </enterprise:营业成本>
+    <enterprise:主营业务成本>0.00 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>83356.05 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2329871.61 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1616182.78 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-1845.25 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1902401.56 </enterprise:营业利润>
+    <enterprise:营业外收入>65774.86 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>16601.67 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1951574.75 </enterprise:利润总额>
+    <enterprise:所得税费用>59222.82 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1892351.93 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1892351.93 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京奇华智慧交通科技股份有限公司2014年利润表">
+    <enterprise:营业收入>4578626.01 </enterprise:营业收入>
+    <enterprise:主营业务收入>4578626.01 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>188511.44 </enterprise:营业成本>
+    <enterprise:主营业务成本>188511.44 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>55165.99 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1021064.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2754330.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-416.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>500529.64 </enterprise:营业利润>
+    <enterprise:营业外收入>581903.03 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1082432.67 </enterprise:利润总额>
+    <enterprise:所得税费用>165865.01 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>916567.66 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>916567.66 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京奇华智慧交通科技股份有限公司2015年利润表">
+    <enterprise:营业收入>25549380.23 </enterprise:营业收入>
+    <enterprise:主营业务收入>25549380.23 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>15289102.35 </enterprise:营业成本>
+    <enterprise:主营业务成本>15289102.35 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>135777.95 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1412269.16 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>6835527.01 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-13916.86 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1518013.72 </enterprise:营业利润>
+    <enterprise:营业外收入>856669.72 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2374683.44 </enterprise:利润总额>
+    <enterprise:所得税费用>298677.39 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2076006.05 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2076006.05 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京奇华智慧交通科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1810905.54 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-196293.99 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-2007199.53 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京奇华智慧交通科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>452496.98 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-126713.02 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>325783.96 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京奇华智慧交通科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-51204.98 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-341013.44 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>11680000.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>11287781.58 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京奇华智慧交通科技股份有限公司被投资单位：长春市飞嘀交通信息技术有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>长春市飞嘀交通信息技术有限公司</enterprise:名称>
+	<enterprise:单位代码>91220101MA0Y4KEP8M</enterprise:单位代码>
+	<enterprise:被投资金额>200万元</enterprise:被投资金额>
+	<enterprise:股权比率>20%%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京奇华智慧交通科技股份有限公司股东：周超宣 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周超宣 </enterprise:股东名称>
+	 <enterprise:货币>1,364.00万元时间：2015-06-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>66.98%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奇华智慧交通科技股份有限公司股东：陈家涌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈家涌 </enterprise:股东名称>
+	 <enterprise:货币>220.00万元时间：2015-06-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奇华智慧交通科技股份有限公司股东：陈家栋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈家栋 </enterprise:股东名称>
+	 <enterprise:货币>184.8万元时间：2015-06-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.07%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奇华智慧交通科技股份有限公司股东：周纯玲 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>周纯玲 </enterprise:股东名称>
+	 <enterprise:货币>105.6万元时间：2015-06-29</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.19%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奇华智慧交通科技股份有限公司股东：郭芬华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郭芬华 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-6-29</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24812167</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24063813</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24063888</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24064074</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息： ">
+	<enterprise:有申请日期>17-5-10</enterprise:有申请日期>
+	<enterprise:有商标名称> </enterprise:有商标名称>
+	<enterprise:有注册号>24063887</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>其他</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>16-2-2</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>19064406</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息：QHI">
+	<enterprise:有申请日期>16-2-2</enterprise:有申请日期>
+	<enterprise:有商标名称>QHI</enterprise:有商标名称>
+	<enterprise:有注册号>19064456</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>16-2-2</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>19064478</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>16-2-2</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>19064606</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京奇华智慧交通科技股份有限公司的商标信息：奇华E路通">
+	<enterprise:有申请日期>11-3-25</enterprise:有申请日期>
+	<enterprise:有商标名称>奇华E路通</enterprise:有商标名称>
+	<enterprise:有注册号>9261920</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京奇华智慧交通科技股份有限公司的专利信息：出租车电召装置及电召方法">
+	<enterprise:有申请公布日>17-4-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>出租车电召装置及电召方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410252215.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104021666B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：95128约车司机-网约车安卓版软件">
+	<enterprise:有批准日期>17-8-29</enterprise:有批准日期>
+	<enterprise:有软件全称>95128约车司机-网约车安卓版软件</enterprise:有软件全称>
+	<enterprise:有软件简称>95128约车软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR475947</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：95128约车司机安卓版软件">
+	<enterprise:有批准日期>17-8-29</enterprise:有批准日期>
+	<enterprise:有软件全称>95128约车司机安卓版软件</enterprise:有软件全称>
+	<enterprise:有软件简称>95128约车软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR475932</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：95128约车司机IOS版软件">
+	<enterprise:有批准日期>17-8-29</enterprise:有批准日期>
+	<enterprise:有软件全称>95128约车司机IOS版软件</enterprise:有软件全称>
+	<enterprise:有软件简称>95128约车软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR475942</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：95128约车IOS版软件">
+	<enterprise:有批准日期>17-8-29</enterprise:有批准日期>
+	<enterprise:有软件全称>95128约车IOS版软件</enterprise:有软件全称>
+	<enterprise:有软件简称>95128约车软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR476270</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：网约车智能终端通讯软件">
+	<enterprise:有批准日期>17-6-7</enterprise:有批准日期>
+	<enterprise:有软件全称>网约车智能终端通讯软件</enterprise:有软件全称>
+	<enterprise:有软件简称>网约车通讯软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR240641</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车网约车IOS版司机端软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车网约车IOS版司机端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀IOS网约车司机端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR194465</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车安卓版司机端软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车安卓版司机端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀安卓司机端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR194450</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车IOS版司机端软件">
+	<enterprise:有批准日期>17-6-6</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车IOS版司机端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀IOS司机端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR234995</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车IOS版乘客端软件">
+	<enterprise:有批准日期>17-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车IOS版乘客端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀IOS乘客端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR206849</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车安卓版乘客端软件">
+	<enterprise:有批准日期>17-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车安卓版乘客端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀安卓乘客端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR194477</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：一体式终端业务软件">
+	<enterprise:有批准日期>17-7-4</enterprise:有批准日期>
+	<enterprise:有软件全称>一体式终端业务软件</enterprise:有软件全称>
+	<enterprise:有软件简称>一体式业务软件</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR342502</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车IOS版司机端软件">
+	<enterprise:有批准日期>17-5-3</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车IOS版司机端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀IOS司机端</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR155131</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车稽查系统软件">
+	<enterprise:有批准日期>16-8-24</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车稽查系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>出租稽查</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR232073</enterprise:有登记号>
+	<enterprise:有分类号>30211-5300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车车载信息终端应用软件">
+	<enterprise:有批准日期>16-8-3</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车车载信息终端应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>车载终端软件</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR203452</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：车载终端汽车互联网生活应用软件">
+	<enterprise:有批准日期>16-9-23</enterprise:有批准日期>
+	<enterprise:有软件全称>车载终端汽车互联网生活应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>车载终端汽车互联网软件</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR272974</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：车载终端移动生活软件">
+	<enterprise:有批准日期>15-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>车载终端移动生活软件</enterprise:有软件全称>
+	<enterprise:有软件简称>车载终端软件</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR241660</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车安卓版乘客端软件">
+	<enterprise:有批准日期>15-6-23</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车安卓版乘客端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀安卓乘客端</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR111887</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车IOS版乘客端软件">
+	<enterprise:有批准日期>15-6-23</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车IOS版乘客端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀IOS乘客端</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR111881</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：飞嘀打车安卓版司机端软件">
+	<enterprise:有批准日期>15-6-23</enterprise:有批准日期>
+	<enterprise:有软件全称>飞嘀打车安卓版司机端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>飞嘀安卓司机端</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR111871</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车智能电召导航终端软件">
+	<enterprise:有批准日期>15-7-6</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车智能电召导航终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>电召导航终端软件</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR124710</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：北斗定位终端软件">
+	<enterprise:有批准日期>14-2-18</enterprise:有批准日期>
+	<enterprise:有软件全称>北斗定位终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>北斗终端软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR018957</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车统一电召平台软件">
+	<enterprise:有批准日期>13-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车统一电召平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>出租车电召平台软件</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR148119</enterprise:有登记号>
+	<enterprise:有分类号>30104-5300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：电召业务自动派发系统">
+	<enterprise:有批准日期>13-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>电召业务自动派发系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电召自动系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR147661</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：数据采集扩展盒软件">
+	<enterprise:有批准日期>14-1-26</enterprise:有批准日期>
+	<enterprise:有软件全称>数据采集扩展盒软件</enterprise:有软件全称>
+	<enterprise:有软件简称>扩展盒软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR011820</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车智能电召导航终端软件">
+	<enterprise:有批准日期>13-5-27</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车智能电召导航终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称>电召导航终端软件</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR049941</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租车智能叫车服务软件">
+	<enterprise:有批准日期>13-1-17</enterprise:有批准日期>
+	<enterprise:有软件全称>出租车智能叫车服务软件</enterprise:有软件全称>
+	<enterprise:有软件简称>智能叫车</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR005856</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：互联网约车终端系统">
+	<enterprise:有批准日期>13-1-22</enterprise:有批准日期>
+	<enterprise:有软件全称>互联网约车终端系统</enterprise:有软件全称>
+	<enterprise:有软件简称>约车终端</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR006642</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租汽车税控计价器计量微控制器核心功能软件">
+	<enterprise:有批准日期>13-1-17</enterprise:有批准日期>
+	<enterprise:有软件全称>出租汽车税控计价器计量微控制器核心功能软件</enterprise:有软件全称>
+	<enterprise:有软件简称>计价器计量微控制器软件</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR005859</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：奇华动态路况信息服务软件">
+	<enterprise:有批准日期>11-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>奇华动态路况信息服务软件</enterprise:有软件全称>
+	<enterprise:有软件简称>动态路况服务软件</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR031307</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：车载设备路况信息显示软件">
+	<enterprise:有批准日期>11-6-1</enterprise:有批准日期>
+	<enterprise:有软件全称>车载设备路况信息显示软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR033772</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：出租汽车运营数据采集分析系统">
+	<enterprise:有批准日期>11-5-24</enterprise:有批准日期>
+	<enterprise:有软件全称>出租汽车运营数据采集分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TaxiDA</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR031305</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：车辆指纹识别认证软件">
+	<enterprise:有批准日期>11-1-11</enterprise:有批准日期>
+	<enterprise:有软件全称>车辆指纹识别认证软件</enterprise:有软件全称>
+	<enterprise:有软件简称>指纹识别</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR001216</enterprise:有登记号>
+	<enterprise:有分类号>11000-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：奇华交通应急指挥调度系统软件">
+	<enterprise:有批准日期>10-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>奇华交通应急指挥调度系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>应急指挥调度系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR058370</enterprise:有登记号>
+	<enterprise:有分类号>65000-8600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作：奇华领航GPS监控软件">
+	<enterprise:有批准日期>10-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>奇华领航GPS监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称>GPS监控</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR072035</enterprise:有登记号>
+	<enterprise:有分类号>12000-5200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京奇华智慧交通科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京奇华智慧交通科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>主营业务未发生变化.一直以软件销售为主   
+(2)外部经营环境
+是否发生不利经营的重大变化：□是  ■否；
+对竞争变化或外部条件变化是否有应对措施：■是  □否；
+具体情况：  基本未发生变化.公司内部一直在不断开发新产品,应对市场需求    
+(3)主要客户及经营状况
+是否减少或流失：□是   ■否；
+现有主要客户：厦门雅迅网络股份有限公司、北京奇华通讯有限公司、北京畅易行科技有限公
+司、北京麦卡思为信息技术有限公司、北汽新能源等</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京奇华智慧交通科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>厦门雅迅网络股份有限公司、北京奇华通讯有限公司、北京畅易行科技有限公
+司、北京麦卡思为信息技术有限公司、北汽新能源等</enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京奇华智慧交通科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>基本未发生变化.公司内部一直在不断开发新产品,应对市场需求    
+(3)主要客户及经营状况
+是否减少或流失：□是   ■否；
+现有主要客户：厦门雅迅网络股份有限公司、北京奇华通讯有限公司、北京畅易行科技有限公
+司、北京麦卡思为信息技术有限公司、北汽新能源等</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京奇华智慧交通科技股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京奇华智慧交通科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>智能交通行业是国家重点发展行业,行业需求增长快,覆盖面广。  
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京奇华智慧交通科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京奇华智慧交通科技股份有限公司的企业法人代表：周超宣">
+	<enterprise:名称>周超宣</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>60</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1955.08</enterprise:出生年月>
+	<enterprise:身份证号码>44052419550818801X</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>68373388</enterprise:联系电话>
+	<enterprise:传真>68373300</enterprise:传真>
+	<enterprise:E-mail>zhouchaoxuan@car-gps.com</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>无</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>无</enterprise:奖惩情况>
+	<enterprise:经历>1974.9-1977.9 华南理工大学机械工程系 学士学位
+起止日期 在何地区何部门 任何职务
+1977.10-1986.6 汕头潮阳糖果饼干厂 副厂长
+广东省金洋进出口（集团）公司潮阳区公
+1986.7-1993.11 副总经理
+司
+1993.12-1998.12 穗鑫国际贸易公司 总经理
+1998.12-2015.05 北京奇华通讯有限公司 董事长\总经理
+2015.05-至今 北京奇华智慧交通科技有限公司 董事长\总经理</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京奇华智慧交通科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税17.00%，企业所得税15.00%。</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>850.11万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>847.50万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京奇华智慧交通科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>一般工商企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>较强</enterprise:有交易地位>
+	<enterprise:有议价能力>较强</enterprise:有议价能力>
+	<enterprise:有延期支付>--</enterprise:有延期支付>
+	<enterprise:有上年度发生额>--</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>无</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>1,342.62万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>10,839.27万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京奇华智慧交通科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无不良记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无不良记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京奇华智慧交通科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京奇华智慧交通科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京奇华智慧交通科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3900</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>700</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>3000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5800</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1000</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京奇华智慧交通科技股份有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4500</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京奇华智慧交通科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>13</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>6</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>2</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>5</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京奇华智慧交通科技股份有限公司的专利数量">
+	<enterprise:专利总计>0</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京奇华智慧交通科技股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

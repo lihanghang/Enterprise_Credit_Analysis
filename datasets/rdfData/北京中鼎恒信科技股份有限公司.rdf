@@ -1,0 +1,1389 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京中鼎恒信科技股份有限公司的企业概况">
+    <enterprise:有名称>北京中鼎恒信科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087552647094</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>—</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国农业银行股份有限公司北京北三环支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>55</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2003-10-21</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1200.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2023-10-20</enterprise:有营业执照到期日>
+    <enterprise:有股本>1200.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务、技术培训；数据处理（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；基础软件服务；计算机及通讯设备租赁；计算机系统集成；应用软件服务；专业承包；电脑动画设计；承办展览展示活动；组织文化艺术交流活动（不含营业性演出）；会议服务；广告设计、制作、代理、发布；企业管理咨询；企业策划、设计；销售化工产品（不含危险化学品及一类易制毒化学品）、电子产品、五金交电、计算机、软件及辅助设备。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术转让、技术咨询、技术服务、技术培训；数据处理（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；基础软件服务；计算机及通讯设备租赁；计算机系统集成；应用软件服务；专业承包；电脑动画设计；承办展览展示活动；组织文化艺术交流活动（不含营业性演出）；会议服务；广告设计、制作、代理、发布；企业管理咨询；企...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>系统集成和相关技术服务及培训</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区红山口甲三号239楼三层</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区红山口甲三号239楼三层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100091</enterprise:有邮政编码>
+    <enterprise:有联系人>刘麒</enterprise:有联系人>
+    <enterprise:有联系电话>010-82895170</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82897176</enterprise:有传真电话>
+    <enterprise:有E-mail>862617889@qq.com</enterprise:有E-mail>
+    <enterprise:有网址>www.zdhx.net</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京中鼎恒信科技股份有限公司（以下简
+称“公司”）于 2003年 10月 21日在北京市工
+商行政管理局海淀分局注册成立，前身为北京
+中鼎恒信数码科技有限公司（以下简称“有限
+公司”），由黄雪青、黄钊、于树芬等 3位自
+然人股东共同出资设立。有限公司初始注册资
+本 50.00 万元，后经过多次股权变更及增资，
+目前注册资本为 1200.00万元。2015年 8月，
+有限公司进行股份制改造，变更为股份有限公
+司，同时更名为现企业名称。截至评级时点，
+公司股东持股情况为：自然人黄雪青持有
+800.00万股，持股比例为 66.67%；自然人宋忠
+平持有 200.00万股，持股比例为 16.67%；其余
+7位出资人合计持有 200.00万股，持股比例为
+16.66%。 
+公司于 2016年 1月，公司在全国中小企业
+股份转让系统挂牌，证券简称：中鼎恒信，证
+券代码：835630。 
+公司经营范围：“技术开发、技术推广、
+技术转让、技术咨询、技术服务、技术培训；
+数据处理（数据处理中的银行卡中心、PUE值
+在 1.5 以上的云计算数据中心除外）；基础软
+件服务；计算机及通讯设备租赁；计算机系统
+集成；应用软件服务；专业承包；电脑动画设
+计；承办展览展示活动；组织文化艺术交流活
+动（不含营业性演出）；会议服务；广告设计、
+制作、代理、发布；企业管理咨询；企业策划、
+设计；销售化工产品（不含危险化学品及一类
+易制毒化学品）、电子产品、五金交电、计算
+机、软件及辅助设备”。目前公司主要从事数
+字化博物馆设计、专用数据库建设、软件平台
+建设及数据采集、软件开发计算机软件开发、
+系统集成和相关技术服务及培训。 
+截至 2016年 6月底，公司资产总额 1919.18
+万元，固定资产净额 62.10 万元，所有者权益
+1294.37 万元；2015 年公司实现营业收入
+1820.52万元，利润总额 635.00万元；2016年
+1~6月，公司实现营业收入 859.59万元，利润
+总额 45.60万元。公司现有员工 55人，在北京
+市属于小型企业。 
+公司注册及办公地址：北京市海淀区红山
+口甲三号 239 楼三层；法定代表人：黄雪青；
+统一社会信用代码：911101087552647094；经
+营期限：自 2003年 10月 21日至长期。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京中鼎恒信科技股份有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长黄雪青，52岁，
+EMBA学历，曾任陕西省地矿局人事干部、北
+京雪光科技发展有限公司总经理，2003年创办
+公司，现任公司董事长。 
+公司总经理王刚，33岁，硕士研究生学历，
+毕业于陕西科技大学，曾任西安欧亚学院老师
+4年，2014年 6月加入公司，现任公司总经理，
+并兼任技术研发工作。 
+公司副总经理王艳锋，33岁，本科学历，
+曾任雅昌文化集团华北区域销售经理、物华天
+宝博物馆销售总监、西泠印社（北京）有限公
+司展览部主管，2016年加入公司，同业从业经
+验丰富。 
+公司财务总监欧淑玲，54岁，本科学历，
+毕业于北京市委党校，曾任职于北京昌平新世
+纪商场、北京浩太同益科技发展有限公司，拥
+有 30 年的财会工作经验，2014 年加入公司，
+财务管理经验丰富。 
+总体看，公司高管学历水平较高，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 55人。 
+从学历构成看，公司本科及以上学历者 39
+人，占比 70.91%；专科学历者 15 人，占比
+27.27%；高中及以下学历者 1人，占比 1.82%，
+公司员工学历水平较高。 
+从年龄构成看，公司 25岁以下员工 12人，
+占比 21.82%；25~45岁员工 40人，占比 72.73%；
+45岁以上员工 3人，占比 5.45%，员工以中青
+年为主。 
+从岗位构成看，公司现有管理人员 7人，
+占比 12.73%；技术人员 46人，占比 83.64%；
+作业人员 2 人，占比 3.63%，岗位构成能够满
+足公司目前经营需要。 
+总体看，公司员工学历水平较高，人员配
+备基本合理。 
+3．研发人员素质 
+公司现有研发人员 38人，其中：硕士研究
+生学历者 2人，本科学历者 26人，专科学历者
+10人。 
+公司主要研发人员有总经理王刚和技术总
+监张晓瑞。 
+公司技术总监张晓瑞，毕业于渤海大学，
+本科学历，曾任职于顺科出国咨询服务有限公
+司、向量动漫文化发展有限公司、水晶石教育
+建筑动画办公室，主持过科协科普部“大篷车”、
+中鼎恒信山东数字博物馆一期、北京自然博物
+馆“生命的支撑”展览、北京自然博物馆“动
+物大阅兵”展览等项目开发工作，项目研发经
+验丰富。 
+总体看，公司研发人员学历水平较高，主
+要研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司设有产品研发部，负责公司软件及系
+统产品的研发。 
+公司通过不断的技术创新、产品研发和严
+格管理，先后推出了网络税控发票管理系统、
+网络税控自助服务终端系统、网络税控综合集
+成应用系统、多款自助终端产品研发设计、办
+公自动化 OA 系统、档案管理系统等产品；开
+发了基于数字仿真技术的文物信息开发应用平
+台（D-Relic应用平台），包括不可移动文物复
+原及仿真应用系统、可移动文物高精度数据仿
+真应用系统，高价值历史遗物遗迹复原仿真应
+用系统等。 
+近三年，公司研发投入分别为 92.03万元、
+136.12万元、186.86万元，分别占当年营业收
+入的 30.07%、13.58%、10.26%，主要用于发放
+研发人员工资、购置研发设备及材料。 
+总体看，公司研发投入能够满足现阶段技
+术创新的需要，科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>92.03万元,136.12万元,186.86万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京中鼎恒信科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地址位于北京市海淀区红山口甲
+三号 239楼三层，建筑面积 150.12平方米，使
+用方式为租赁。 
+公司成立至今已有 13年，为国家高新技术
+企业、中关村高新技术企业，并通过软件企业
+认定，拥有“中鼎恒信”等 4 项注册商标，业
+内知名度较高。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业 
+1 
+（证书编号：GR201311001583，有效期至2016年12月） 
+中关村高新技术企业 
+2 
+（证书编号：20152010207701，有效期至 2018年 7月） 
+软件企业认定证书 
+3 
+（证书编号：京R-2004-0326） 
+资料来源：公司提供，联合信用整理 
+总体看，公司具备经营所需资质，业内知
+名度较高，经营条件较好。 
+2．业务运作 
+公司目前营业收入主要来源于传统业务方
+面的联通、电信等运营商电子发票管理系统运
+维业务和新业务方面的数字博物馆项目，2015
+年公司技术服务收入占总收入比重约 90.00%，
+商品销售收入占总收入比重约 10.00%。 
+传统业务方面，公司与联通合作业务主要
+包括发票管理系统升级维护、营业前台第三方
+自助终端软件接口维护等项目；与电信合作业
+务主要包括电子发票管理系统升级维护、营业
+前台我方自助终端采购和运维、无纸化办公系
+统运维（含硬件、软件）等项目。新型业务方
+面，为数字化博物馆的系统建设，2014年公司
+承接了山东省文物局万余件可移动文物的高精
+度建模项目，在山东省数字化博物馆的基础上，
+完成自助博物馆建设和网络课堂项目开发，并
+向不可移动文物项目开发方向延伸，开发了山
+东数字化博物馆互联网展示平台、移动互联网
+展示平台和大屏幕自助终端展示平台。 
+采购方面，公司根据项目需求进行采购，
+采购物主要应用于与联通、电信等运营商合作
+的传统业务方面，主要包括高拍仪、手写板、
+区，主要由深圳南天东华科技有限公司、环星
+触摸电脑有限公司等客户供应。公司设备供应
+商较稳定，采购周期为 2周~4周，结算方式一
+般为预付合同额的 50%，待货物验收后再支付
+余下的 50%。 
+销售方面，公司传统业务主要面向联通、
+电信等运营商，主要为运营商提供系统运维技
+术服务，并销售高拍仪、手写板、自助终端等
+专业设备，公司与运营商积累了多年的合作基
+础，传统业务板块收入较稳定。设备销售的结
+算方式主要以货到付款为主，技术服务的结算
+方式则为年结。在新业务方面，公司在 2014
+年承接了山东省文物局可移动文物的高精度建
+模业务，计划分两期完成，分别在同年 5月和
+9月签订了相关合同，一期项目为 2000件文物
+的扫描工作，合同额为 1300万元，二期项目为
+8000件文物的扫描工作，合同额为 1800万元，
+该项目的结算方式为合同签订后 5 天内预收合
+同款的 50%，项目完成后再结算剩余的 50%合
+同款。 
+总体看，公司传统业务收入实现稳定，新
+业务开展顺利，上下游渠道顺畅，经营状况良
+好。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 81.21 87.47 65.12 
+管理费用率(%) 53.42 26.88 48.74 
+存货周转次数(次) 2.82 7.98 17.75 
+应收账款周转次数(次) 1.15 11.41 10.80 
+总资产周转次数(次) 0.39 0.67 0.79 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率整体呈下降趋势，但
+始终处于行业较高水平，主要是公司除维持较
+大研发投入外，营业成本也随公司营业收入的
+增加而呈现上升趋势，新业务的大幅增加导致
+前者增幅超过后者；同期，管理费用率整体呈
+下降趋势，公司管理费用控制力度尚可。 
+近三年，公司存货周转次数呈上升趋势，
+2015年公司存货大幅减少，主要是公司控制采
+购成本，降低了库存商品，减少库存积压商品，
+做到以销定采；同期，应收账款周转次数整体
+呈上升趋势，特别是 2014年增长幅度较大，主
+要是公司承接了数字化博物馆的新业务，该项
+业务回款速度较快，一定程度上提升了公司整
+体应收账款的回收效率；同期，总资产周转次
+数呈上升趋势，但始终处于行业较低水平。 
+总体看，公司整体经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东大会是公司的权力机构，依法行使决
+定公司的经营方针和投资计划、审议批准董事
+会报告、审议批准公司的年度财务预算方案和
+决算方案、审议批准公司的利润分配方案和弥
+补亏损方案等职权。 
+公司设董事会，成员为 5 人，设董事长 1
+人，由控股股东黄雪青担任，董事会行使召集
+股东大会、并向股东大会报告工作，执行股东
+大会的决议等职权。 
+公司设监事会，成员为 3人，设监事会主
+席 1 人，监事会行使检查公司财务，对董事、
+高级管理人员执行公司职务的行为进行监督等
+职权。 
+公司设总经理 1名，由董事会聘任或者解
+聘，现由王刚担任总经理一职，行使主持公司
+的生产经营管理工作，组织实施董事会决定、
+并向董事会报告工作等职权。 
+公司创始人黄雪青为公司控股 66.67%的
+第一大股东，现担任董事长一职，为公司实际
+控制人。 
+公司内设财务部、行政人事部、市场部、
+产品研发部、技术工程部、数据采集部、图像
+设计等部门，部门设置清晰，权责划分较明确。 
+总体看，公司法人治理结构较完善，内部
+职能分工较明确，协调运作有序。 
+2．制度建设及执行 
+公司管理制度较完善，包括《财务管理制
+度》、《人力资源管理制度》、《财务报销管
+理制度》、《绩效考核制度》、《员工出差管
+理制度》、《销售提成制度》、《员工考勤管
+理制度》、《商品采购及销售制度》、《工作
+日志管理制度》等，并于 2016年 1月 28日通
+过 ISO 9001:2008《质量管理体系标准》认证（有
+效期至 2019年 1月 27日）。 
+总体看，公司管理制度完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+业务规划方面，公司将继续拓展传统业务
+并在原有系统软件维护及新需求开发基础上，
+开辟新市场，保障及时完成维护开发工作，为
+新业务拓展创造良好条件。同时，公司还将大
+力拓展数字文博业务，在山东数字化博物馆建
+设的基础之上，拓展其他省份的文物数字化市
+场。 
+根据联合信用数据预测方法，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016年将实现营业收入 2500.00万元，
+净利润 800.00 万元；预计 2016 年底资产总额
+3356.02万元，负债总额 1300.00万元，所有者
+权益 2056.02 万元。相比 2015 年，预计 2016
+年营业收入增长率为 37.32%，负债率变动幅度
+为-9.30%，净资产收益率变动幅度为-28.92%。 
+总体看，公司未来一年发展较好。 
+2．融资需求 
+公司短期内无融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京中鼎恒信科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 776.58 万元
+2221.05 万元、2417.12 万元，复合增长率为
+76.42%，2014年大幅增长主要是公司随着新业
+务的推广，应收账款以及交易性金融资产大幅
+增长所致。 
+ 截至 2016 年 6 月底，公司资产总额
+1919.18 万元，其中：流动资产占比 96.13%，
+非流动资产占比 3.87%。 
+图 1  公司 2016年 6月底流动资产构成图 
+截至 2016年 6月底，公司流动资产 1844.90
+万元，主要由货币资金、应收账款、其他流动
+资产构成，其中：货币资金 57.21 万元，占比
+3.10%；应收账款 495.50万元，占比 26.86%，
+主要为应收中国联通北京分公司、中国电信北
+京分公司、济南市博物馆、山东省文物局、山
+费，账龄均在 1年以内；其他流动资产 1232.83
+万元，占比 66.82%，为公司购买的银行理财产
+品。 
+截至 2016年 6月底，公司非流动资产 74.28
+万元，其中：固定资产净额 62.10 万元，占比
+83.61%，为办公家具、电子设备等；长期待摊
+费用 9.91万元，占比 13.34%，为装修费；递延
+所得税资产 2.27万元，占比 3.06%。 
+总体看，公司资产流动性较好，资产质量
+较高。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>截至 2016 年 6 月底，公司流动比率为
+295.27%，速动比率为 291.48%，均处于行业较
+高水平；2015 年现金流动负债比-42.15%，公
+司短期偿债能力一般。 
+2015年，公司 EBITDA利息倍数和债务保
+护倍数分别为 26.54倍和 3.20倍，长期偿债能
+力较强。 
+总体看，公司未来一年内偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 80.04%、 
+87.95%、48.04%；2013 年、2014 年，全部债
+务资本化比率分别为 39.30%、41.75%。截至
+2016年 6月底，公司资产负债率为 32.56%，公
+司流动负债中预收账款占比达 61.71%，预收账
+款未来可直接转入营业收入，剔除预收账款后
+的资产负债率为 12.46%，全部债务资本化比率
+为 18.03%，公司实际负债水平低，有息债务压
+力一般。 
+近三年，公司负债总额分别为 621.58 万
+元、1953.41 万元、1161.10 万元，复合增长率
+为 36.67%，整体呈上升趋势，主要由于公司新
+业务的拓展使得预收账款大幅增加。 
+图 2  公司 2016年 6月底流动负债构成图 
+截至 2016年 6月底，公司负债总额 624.81
+万元，全部为流动负债，主要由应付账款、预
+收账款和其他应付款构成，其中：应收账款
+93.46 万元，占比 14.96%，主要为应付北京数
+字证书有限公司、济南清美展览展示有限公司、
+北京至乐天下科技有限公司的货款及济南妙音
+配音有限公司的配音款，账龄均在 1年以内；
+预收账款 385.59万元，占比 61.71%，主要为预
+收山东省文物局数字博物馆项目合同款，账龄
+在 1 年以内；其他应付款 104.84 万元，占比
+16.78%，为应付房租押金及员工借款、社保等，
+账龄均在 1年以内。 
+近三年，公司所有者权益分别为 154.99 万
+元、267.64万元、1256.02万元，复合增长率为
+184.67%。截至 2016年 6月底，公司所有者权
+益 1294.37万元，其中：实收资本 1200.00万元；
+资本公积 258.64 万元；未分配利润-164.26 万
+元。 
+总体看，公司实际负债水平低，有息债务
+压力一般，所有者权益对债务的保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 306.08 万
+元、1002.36 万元、1820.52 万元，复合增长率
+为 148.88%；同期，利润总额分别为 57.52万元、
+125.60 万元、635.00 万元，复合增长率为
+232.25%，2014年、2015年营业收入和利润总
+额较 2013 年均有大幅增长主要是公司分两期
+承接了山东省文物局共计万余件可移动文物扫
+描项目，并拓宽了业务渠道。 
+图 3  公司近三年盈利能力指标变动趋势图 
+近三年，公司主营业务利润率分别为
+35.19%，处于行业一般水平；同期，总资产报
+酬率分别为 7.48%、9.25%、28.50%，加权平均
+值为 18.52%，处于行业一般水平；同期，净资
+产收益率分别为 13.66%、53.31%、77.23%，加
+权平均值为 57.34%，处于行业高水平， 2014
+年、2015 年较 2013 年大幅增长，主要是由于
+新增业务所促成的。 
+近三年，公司现金收入比分别为 152.56%、
+186.74%、86.86%，整体呈大幅下降趋势。 
+总体看，公司盈利能力一般，收入实现质
+量好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京中鼎恒信科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司在北京市工商
+行政管理局、税务局有行政处罚记录；通过在
+中国执行信息公开网查询，未发现公司有被执
+行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、对外担保、票据贴现等或有负债；
+未发现公司在银行有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现相关政
+策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司数字博物馆业务处于发展期，产
+品和服务的市场认可度存在不确定性，公司新
+业务发展有待进一步跟踪观察。 
+（2）公司经营活动获取现金的能力不稳
+定，筹资活动对现金流有一定影响，整体现金
+流状况仍有待改善。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>776.57 </enterprise:资产总额>
+    <enterprise:所有者权益>154.99 </enterprise:所有者权益>
+    <enterprise:负债总额>621.59 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>306.08 </enterprise:营业收入>
+    <enterprise:EBITDA>71.10 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>2219.94 </enterprise:资产总额>
+    <enterprise:所有者权益>267.64 </enterprise:所有者权益>
+    <enterprise:负债总额>1953.42 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1002.36 </enterprise:营业收入>
+    <enterprise:EBITDA>143.84 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>2416.38 </enterprise:资产总额>
+    <enterprise:所有者权益>1256.02 </enterprise:所有者权益>
+    <enterprise:负债总额>1161.10 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1820.52 </enterprise:营业收入>
+    <enterprise:EBITDA>685.62 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.39 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.15 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.82 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.67 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>11.41 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>7.98 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.79 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>10.80 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>17.75 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>7.48 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>122.39 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.25 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>130.16 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>28.50 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>92.85 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>122.66 </enterprise:流动比率>
+    <enterprise:速动比率>113.13 </enterprise:速动比率>
+    <enterprise:资产负债率>80.04 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>97.40 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>107.96 </enterprise:流动比率>
+    <enterprise:速动比率>102.17 </enterprise:速动比率>
+    <enterprise:资产负债率>87.99 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>11.05 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中鼎恒信科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>199.75 </enterprise:流动比率>
+    <enterprise:速动比率>197.89 </enterprise:速动比率>
+    <enterprise:资产负债率>48.05 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>26.54 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>44.06 </enterprise:毛利率>
+    <enterprise:成本费用利润率>109.59 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.53 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-23.72 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>39.30 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>31.33 </enterprise:毛利率>
+    <enterprise:成本费用利润率>51.46 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.87 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>53.97 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>41.75 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中鼎恒信科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>34.28 </enterprise:毛利率>
+    <enterprise:成本费用利润率>99.16 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.87 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-42.15 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京中鼎恒信科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>68.95 </enterprise:货币资金>
+    <enterprise:交易性金融资产>280.90 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>38.71 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>105.13 </enterprise:其他应收款>
+    <enterprise:存货>59.23 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>209.50 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>762.42 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>13.64 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.51 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14.15 </enterprise:非流动资产合计>
+    <enterprise:资产总计>776.57 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中鼎恒信科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>60.81 </enterprise:货币资金>
+    <enterprise:交易性金融资产>1062.57 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>136.93 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>10.32 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>174.19 </enterprise:其他应收款>
+    <enterprise:存货>113.18 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>550.95 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2108.95 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>82.51 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>28.48 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>110.99 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2219.94 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中鼎恒信科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>78.24 </enterprise:货币资金>
+    <enterprise:交易性金融资产>125.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>200.08 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>78.32 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>33.69 </enterprise:其他应收款>
+    <enterprise:存货>21.62 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>1782.39 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2319.34 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>70.34 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>26.70 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>97.04 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2416.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中鼎恒信科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>191.86 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>18.86 </enterprise:应付账款>
+    <enterprise:预收款项>1044.51 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>16.83 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>13.81 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>667.55 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1953.42 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1953.42 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-732.36 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>267.64 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>267.64 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2221.06 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中鼎恒信科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>191.86 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>18.86 </enterprise:应付账款>
+    <enterprise:预收款项>1044.51 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>16.83 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>13.81 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>667.55 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1953.42 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1953.42 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-732.36 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>267.64 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>267.64 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2221.06 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中鼎恒信科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>26.71 </enterprise:应付账款>
+    <enterprise:预收款项>802.36 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>28.11 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>4.01 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>299.91 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1161.10 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1161.10 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>258.64 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-202.62 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1256.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1256.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2417.12 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京中鼎恒信科技股份有限公司2013年利润表">
+    <enterprise:营业收入>306.08 </enterprise:营业收入>
+    <enterprise:主营业务收入>306.08 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>171.22 </enterprise:营业成本>
+    <enterprise:主营业务成本>171.22 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.70 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>132.79 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.73 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.89 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>29.86 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>28.91 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>190.31 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>190.31 </enterprise:利润总额>
+    <enterprise:所得税费用>0.62 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>189.69 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>189.69 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京中鼎恒信科技股份有限公司2014年利润表">
+    <enterprise:营业收入>1002.36 </enterprise:营业收入>
+    <enterprise:主营业务收入>1002.36 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>688.30 </enterprise:营业成本>
+    <enterprise:主营业务成本>688.30 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.06 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>235.71 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>12.72 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>3.98 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>154.07 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>-89.06 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>361.31 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>361.31 </enterprise:利润总额>
+    <enterprise:所得税费用>12.95 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>348.36 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>348.36 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京中鼎恒信科技股份有限公司2015年利润表">
+    <enterprise:营业收入>1820.52 </enterprise:营业收入>
+    <enterprise:主营业务收入>1820.52 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1196.40 </enterprise:营业成本>
+    <enterprise:主营业务成本>1196.40 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.58 </enterprise:营业税金及附加>
+    <enterprise:销售费用>0.00 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>577.80 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>26.11 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-2.47 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>526.94 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>85.96 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1212.80 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1212.80 </enterprise:利润总额>
+    <enterprise:所得税费用>46.62 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1166.18 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1166.18 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京中鼎恒信科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>466.95 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.25 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>467.20 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>157.22  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>93.17 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2.77 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>361.51 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>614.67 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-147.47 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>1411.74 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>1.20 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1412.94 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>1642.18 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1642.18 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-229.24 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>200.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>397.48 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>597.48 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>297.23 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.79 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>298.02 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>299.46 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-77.25 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京中鼎恒信科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1871.84 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>232.38 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2104.22 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>744.95  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>140.65 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>26.35 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>137.95 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1049.90 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1054.32 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>4184.80 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>2.40 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>4187.20 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>102.57 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>5225.58 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>5328.15 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1140.95 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1663.22 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1663.22 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1571.72 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>13.02 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1584.74 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>78.48 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-8.15 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京中鼎恒信科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1581.25 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.51 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1581.76 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1081.74  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>310.70 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>64.47 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>614.20 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2071.11 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-489.35 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>9809.61 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>1.31 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>9810.92 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>10.84 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>9475.62 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>9486.46 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>324.46 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>400.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>5283.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>5683.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>5474.89 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>25.84 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>5500.73 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>182.27 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>17.38 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京中鼎恒信科技股份有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>—万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京中鼎恒信科技股份有限公司股东：黄雪青 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄雪青 </enterprise:股东名称>
+	 <enterprise:货币>800.00万元时间：2015-01-05</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>66.67%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京中鼎恒信科技股份有限公司股东：宋忠平 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宋忠平 </enterprise:股东名称>
+	 <enterprise:货币>200.00万元时间：2015-09-14</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>16.67%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-6-24</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>17274153</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：中鼎恒信">
+	<enterprise:有申请日期>15-6-24</enterprise:有申请日期>
+	<enterprise:有商标名称>中鼎恒信</enterprise:有商标名称>
+	<enterprise:有注册号>17274191</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：中鼎恒信  EVERTRUST">
+	<enterprise:有申请日期>14-8-27</enterprise:有申请日期>
+	<enterprise:有商标名称>中鼎恒信  EVERTRUST</enterprise:有商标名称>
+	<enterprise:有注册号>15239388</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：D-RELIC">
+	<enterprise:有申请日期>14-8-27</enterprise:有申请日期>
+	<enterprise:有商标名称>D-RELIC</enterprise:有商标名称>
+	<enterprise:有注册号>15239123</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：中鼎恒信  EVERTRUST">
+	<enterprise:有申请日期>14-8-27</enterprise:有申请日期>
+	<enterprise:有商标名称>中鼎恒信  EVERTRUST</enterprise:有商标名称>
+	<enterprise:有注册号>15239189</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：中鼎恒信 EVERTRUST">
+	<enterprise:有申请日期>14-8-27</enterprise:有申请日期>
+	<enterprise:有商标名称>中鼎恒信 EVERTRUST</enterprise:有商标名称>
+	<enterprise:有注册号>15239279</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：中鼎恒信;EVERTRUST;Z">
+	<enterprise:有申请日期>06-10-27</enterprise:有申请日期>
+	<enterprise:有商标名称>中鼎恒信;EVERTRUST;Z</enterprise:有商标名称>
+	<enterprise:有注册号>5685980</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：EVERTRUST">
+	<enterprise:有申请日期>03-11-24</enterprise:有申请日期>
+	<enterprise:有商标名称>EVERTRUST</enterprise:有商标名称>
+	<enterprise:有注册号>3811079</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中鼎恒信科技股份有限公司的商标信息：恒信">
+	<enterprise:有申请日期>03-11-24</enterprise:有申请日期>
+	<enterprise:有商标名称>恒信</enterprise:有商标名称>
+	<enterprise:有注册号>3811080</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>变更商标申请人/注册人名义/地址完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：博物馆文物数字信息管理系统">
+	<enterprise:有批准日期>17-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>博物馆文物数字信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR046286</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电信自助终端电子发票系统">
+	<enterprise:有批准日期>17-2-17</enterprise:有批准日期>
+	<enterprise:有软件全称>电信自助终端电子发票系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR046584</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：基于角色扮演分布式弹道导弹发射模拟体验系统">
+	<enterprise:有批准日期>15-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>基于角色扮演分布式弹道导弹发射模拟体验系统</enterprise:有软件全称>
+	<enterprise:有软件简称>导弹打航母</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR289659</enterprise:有登记号>
+	<enterprise:有分类号>30105-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：安全灭火器互动模拟体验系统">
+	<enterprise:有批准日期>15-12-30</enterprise:有批准日期>
+	<enterprise:有软件全称>安全灭火器互动模拟体验系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR289664</enterprise:有登记号>
+	<enterprise:有分类号>30105-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：军事仿生知识库互动自评考核系统">
+	<enterprise:有批准日期>15-12-29</enterprise:有批准日期>
+	<enterprise:有软件全称>军事仿生知识库互动自评考核系统</enterprise:有软件全称>
+	<enterprise:有软件简称>小兵勇闯关</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR287553</enterprise:有登记号>
+	<enterprise:有分类号>30105-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：数字化博物馆网上即时洽谈系统">
+	<enterprise:有批准日期>15-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>数字化博物馆网上即时洽谈系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR260136</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：山东数字化博物馆网络安全监测系统">
+	<enterprise:有批准日期>15-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>山东数字化博物馆网络安全监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR260225</enterprise:有登记号>
+	<enterprise:有分类号>30104-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：数字化博物馆平台">
+	<enterprise:有批准日期>15-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>数字化博物馆平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR260228</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：数字化博物馆平台数据库管理软件">
+	<enterprise:有批准日期>15-12-15</enterprise:有批准日期>
+	<enterprise:有软件全称>数字化博物馆平台数据库管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR260220</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：基于D-RELIC技术的数字化博物馆软件">
+	<enterprise:有批准日期>15-1-26</enterprise:有批准日期>
+	<enterprise:有软件全称>基于D-RELIC技术的数字化博物馆软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR014822</enterprise:有登记号>
+	<enterprise:有分类号>30107-9000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：CBC核心区网络公共服务平台">
+	<enterprise:有批准日期>14-10-21</enterprise:有批准日期>
+	<enterprise:有软件全称>CBC核心区网络公共服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR156950</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：紧急救援大篷车平台演示软件">
+	<enterprise:有批准日期>14-10-22</enterprise:有批准日期>
+	<enterprise:有软件全称>紧急救援大篷车平台演示软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR158237</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：科普大篷车网络管理系统">
+	<enterprise:有批准日期>14-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>科普大篷车网络管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR161212</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电子商城应用服务系统">
+	<enterprise:有批准日期>14-10-22</enterprise:有批准日期>
+	<enterprise:有软件全称>电子商城应用服务系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR157724</enterprise:有登记号>
+	<enterprise:有分类号>30100-6500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：应急救援演示平台">
+	<enterprise:有批准日期>14-10-27</enterprise:有批准日期>
+	<enterprise:有软件全称>应急救援演示平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR161209</enterprise:有登记号>
+	<enterprise:有分类号>30209-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：安全健康主题科普大篷车演示软件">
+	<enterprise:有批准日期>14-10-22</enterprise:有批准日期>
+	<enterprise:有软件全称>安全健康主题科普大篷车演示软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR158145</enterprise:有登记号>
+	<enterprise:有分类号>30100-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电子发票管理系统">
+	<enterprise:有批准日期>12-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>电子发票管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>电子发票</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR067491</enterprise:有登记号>
+	<enterprise:有分类号>30203-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：基于RFID技术文物信息数据库管理系统">
+	<enterprise:有批准日期>12-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>基于RFID技术文物信息数据库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>文物信息数据库服务系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR067362</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电信行业综合业务支撑系统">
+	<enterprise:有批准日期>12-7-26</enterprise:有批准日期>
+	<enterprise:有软件全称>电信行业综合业务支撑系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR067662</enterprise:有登记号>
+	<enterprise:有分类号>30200-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电信行业综合收费平台">
+	<enterprise:有批准日期>12-7-26</enterprise:有批准日期>
+	<enterprise:有软件全称>电信行业综合收费平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR067657</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：电信行业综合结算系统">
+	<enterprise:有批准日期>12-7-25</enterprise:有批准日期>
+	<enterprise:有软件全称>电信行业综合结算系统</enterprise:有软件全称>
+	<enterprise:有软件简称>综合结算</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR067250</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：网络税控发票管理系统">
+	<enterprise:有批准日期>12-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>网络税控发票管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>网络税控</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR071406</enterprise:有登记号>
+	<enterprise:有分类号>30203-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：网络税控自助终端管理系统">
+	<enterprise:有批准日期>12-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>网络税控自助终端管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>自助终端</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR071399</enterprise:有登记号>
+	<enterprise:有分类号>30203-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：基于NGOSS系统的网络税控发票管理融合系统">
+	<enterprise:有批准日期>12-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>基于NGOSS系统的网络税控发票管理融合系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR070144</enterprise:有登记号>
+	<enterprise:有分类号>30203-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：营业厅自助服务终端系统 [简称: 自助服务系统] V1.0.8">
+	<enterprise:有批准日期>07-1-30</enterprise:有批准日期>
+	<enterprise:有软件全称>营业厅自助服务终端系统 [简称: 自助服务系统] V1.0.8</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR01776</enterprise:有登记号>
+	<enterprise:有分类号>67500-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：基于网络数据处理终端的网络税控发票管理系统 V1.0.1 [简称: 网通税控系统]">
+	<enterprise:有批准日期>06-5-11</enterprise:有批准日期>
+	<enterprise:有软件全称>基于网络数据处理终端的网络税控发票管理系统 V1.0.1 [简称: 网通税控系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2006SR05767</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中鼎恒信科技股份有限公司的软件著作：网络税控发票信息管理系统 [简称: 网络税控系统] V1.2">
+	<enterprise:有批准日期>04-8-9</enterprise:有批准日期>
+	<enterprise:有软件全称>网络税控发票信息管理系统 [简称: 网络税控系统] V1.2</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2004SR07841</enterprise:有登记号>
+	<enterprise:有分类号>65000-9500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:员工基本信息 rdf:ID="北京中鼎恒信科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数>55</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:40,25岁以下:12,45岁以上:3</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:39,高中及以下:1,专科:15</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:7,技术人员:46,作业人员:2</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:37人,未参加:18人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京中鼎恒信科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司经营情况正常、持续发展，主营业务收入逐年递增，数字化博物馆是主要业务
+方向，逐步从山东拓展至河北、陕西、山西、河南、上海等地；同时数字化博物馆运行后，对于系
+北京中鼎恒信科技股份有限公司 17
+统的运行维护和后期二次开发也是公司收入的持续创新点</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京中鼎恒信科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>北京联通、北京电信、山东省文物局</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京中鼎恒信科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>制定数字化博物馆行业标准，成为数字化博物馆的龙头企业</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京中鼎恒信科技股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京中鼎恒信科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>  无。  
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京中鼎恒信科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京中鼎恒信科技股份有限公司的企业法人代表：黄雪青">
+	<enterprise:名称>黄雪青</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>52</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1964年12月</enterprise:出生年月>
+	<enterprise:身份证号码>610103196412152824</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>EMBA研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1982.10至 1985.10 中国人民解放军国防大学通讯站 义务兵 
+1985.11至 2003.10 陕西省地矿局 人事干部 
+2003.10至 2008.5 北京雪光科技发展有限公司 总经理 
+2003.10至今 公司 董事长</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京中鼎恒信科技股份有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京中鼎恒信科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京中鼎恒信科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>机箱、电源等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>212.84</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>843.42</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京中鼎恒信科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京中鼎恒信科技股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2500.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京中鼎恒信科技股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>800.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京中鼎恒信科技股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京中鼎恒信科技股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京中鼎恒信科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>14</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>6</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>8</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京中鼎恒信科技股份有限公司的商标数量">
+	<enterprise:商标总计>6</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>4</enterprise:商标数量2014>
+	<enterprise:商标数量2015>2</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

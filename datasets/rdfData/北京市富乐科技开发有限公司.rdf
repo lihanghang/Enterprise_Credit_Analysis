@@ -1,0 +1,3143 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京市富乐科技开发有限公司的企业概况">
+    <enterprise:有名称>北京市富乐科技开发有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局平谷分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>从业人数（人）</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>278</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1996.06.28</enterprise:有注册登记日期>
+    <enterprise:有注册资本>10000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2026.06.27</enterprise:有营业执照到期日>
+    <enterprise:有股本>3000.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发及转让、技术服务；销售机械电子设备、办公用品、办公设备、医疗器械Ⅰ类、化工产品、日用品、五金交电、金属材料；货物进出口、技术进出口、代理进出口；生产Ⅲ类：Ⅲ-6846-1植入器材；Ⅱ类：Ⅱ-6810-8矫形（骨科）外科用其它器械，Ⅱ-6803-5神经外科脑内用其它器械、Ⅱ-6810-4矫形（骨科）外科用锯、凿、锉、Ⅱ-6810-3矫形（骨科）外科用钳、Ⅱ-6810-1矫形（骨科）外科用刀、锥。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发及转让、技术服务；销售机械电子设备、办公用品、办公设备、医疗器械Ⅰ类、化工产品、日用品、五金交电、金属材料；货物进出口、技术进出口、代理进出口；生产Ⅲ类：Ⅲ-6846-1植入器材；Ⅱ类：Ⅱ-6810-8矫形（骨科）外科用其它器械，Ⅱ-6803-5神经外科脑内用其它器械、Ⅱ-6810-4矫形（骨科）外科用锯、凿、锉、Ⅱ-6810-3...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>研发、生产、销售骨科植入器材</enterprise:有主营业务>
+    <enterprise:有行业分类>专用设备制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市平谷区马坊工业区西区</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市平谷区马坊工业区西区</enterprise:有通讯地址>
+    <enterprise:有邮政编码>101204</enterprise:有邮政编码>
+    <enterprise:有联系人>花海珍</enterprise:有联系人>
+    <enterprise:有联系电话>13718359973</enterprise:有联系电话>
+    <enterprise:有传真电话>010-60998741</enterprise:有传真电话>
+    <enterprise:有E-mail>hr@fulekeji.com</enterprise:有E-mail>
+    <enterprise:有网址>www.fulekeji.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京市富乐科技开发有限公司（以下简
+称“公司”）于 1996年 6月 28日在北京市
+工商行政管理局平谷分局注册成立。经数次
+增资及股东变更，截至评级时点，注册资本
+10000.00万元，实收资本 3000.00万元，股
+东认缴出资及持股比例：自然人胡桓宇出资
+8367.50万元，其中货币出资 1058.03万元、
+实物出资 309.47万元、知识产权—专利技术
+出资 7000.00万元，持股 83.68%；自然人胡
+志勇出资 1632.50 万元，其中货币出资
+1182.50万元、实物出资 450.00万元，持股
+16.32%。
+公司经营范围：“生产 Ⅲ类：Ⅲ-6846-1
+植入器材；Ⅱ类：Ⅱ-6810-8 矫形（骨科）
+外科用其它器械，Ⅱ-6803-5 神经外科脑内
+用其它器械、Ⅱ-6810-4 矫形（骨科）外科
+用锯、凿、锉、Ⅱ-6810-3 矫形（骨科）外
+科用钳、Ⅱ-6810-1矫形（骨科）外科用刀、
+锥；技术开发及转让、技术服务；销售机械
+电子设备、办公用品、办公设备、医疗器械
+（只限一类）、化工产品（不含危险化学品）、
+日用品、五金交电；货物进出口、技术进出
+口、代理进出口。（企业依法自主选择经营
+项目，开展经营活动；依法须经批准的项目，
+经相关部门批准后依批准的内容开展经营
+活动；不得从事本市产业政策禁止和限制类
+项目的经营活动。）”目前，公司主营业务
+为研发、生产、销售骨科植入器材。
+截至 2016 年 3 月底，公司资产总额为
+16134.89万元，所有者权益为 9050.91万元；
+2015年，公司实现营业收入 8903.55万元，
+利润总额 1390.52万元；2016年 1~3月，公
+司实现营业收入 2240.56 万元，利润总额
+51.79万元。公司现有员工 278人，在北京
+市属于中型企业。
+公司注册及经营地址：北京市平谷区马
+坊工业区西区 50 号；贷款卡编码：
+110100000505837701；统一社会信用代码：
+91110117102618418H；法定代表人：胡桓宇；
+营业期限：自 1996年 6月 28日至 2026年 6
+月 27日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京市富乐科技开发有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>1.高管素质
+公司法定代表人、执行董事胡桓宇，男，
+45 岁，硕士研究生学历。1996年至今任公
+司执行董事，1997年~2008年参加三次医疗
+器械内审员培训并获得证书。胡桓宇先生获
+得多项荣誉：2005年度获得经济技术创新标
+兵证书；2014 年 5 月荣获首都劳动奖章；
+2013 年任北京市平谷区工商联合会马坊商
+会副会长兼秘书长；2016年任平谷区工商联
+科学技术协会理事；2016年任北京市平谷区
+工商联合会马坊商会会长。在职期间获得
+“单侧多功能尺桡骨外固定架”、“自锁式
+万向椎弓根钉”、“单侧多功能骨盆外固定
+架”等 30 项实用新型专利，另有 1 项发明
+专利已进入实质审查阶段。
+公司总经理赵红芸，女，43岁，本科学
+历，1996年至今任公司总经理，同业从业年
+限 20年。
+公司常务副总经理白云生，男，35岁，
+本科学历，高级工程师，2004年至今在公司
+历任技术部设计师、质管部主任、技术总监、
+常务副总经理兼生产总监，曾参加质量管理
+体系内审员、医疗器械风险管理、随机抽样
+和统计检验、医疗器械生产质量管理规范等
+培训并获得证书。在职期间获得“方尾环槽
+螺纹骨针”、“一种新型可拆卸式的扳手”、
+“一种具有万向关节的膨胀钉扳手”等 21
+项实用新型专利和“动态非融合连接器”、
+“生长可调式单向钉”2项发明专利。
+公司副总经理徐秉智，男，35岁，本科
+学历，工程师，2004年至今任公司副总经理，
+同业从业年限 12年。
+公司副总经理仇万裕，男，35岁，本科
+学历，工程师，2004年至今任公司副总经理，
+同业从业年限 12年。
+总体看，公司高管学历水平高，从业及
+管理经验丰富。
+2.员工素质
+截至评级时点，公司员工总数 278人。
+从学历构成看，员工中本科及以上学历者占
+比 18.35%，专科学历者占比 58.27%，专科
+以下学历者占比 23.38%，员工学历水平一
+般；从年龄构成看，员工年龄在 25~45岁占
+比 81.29%，员工年龄以中青年为主；从岗
+位构成看，员工中管理人员占比 23.02%，
+技术人员占比 33.09%，作业人员占比
+43.88%，岗位符合高新技术企业特点。
+总体看，公司员工学历水平一般，员工
+年龄以中青年为主，岗位符合高新技术企业
+特点。
+（二）技术水平与研发</enterprise:有人员素质>
+    <enterprise:有科研条件>公司以自主研发为主，内设技术部、法
+规办、制造厂试制组。技术部主要负责产品
+设计，工艺设计、专利申报、及技术存档管
+理工作。法规办主要负责产品标准、产品第
+三方检测、产品临床实验及注册报批工作。
+制造厂试制组，配备有专用机床，负责样品
+试制工作。
+近三年，公司研发投入分别为 451.00
+万元、355.00万元、963.80万元，分别占比
+当年总收入的 4.87%、4.14%、10.82%，研
+发投入主要用于发放人员工资及购置研发
+设备和材料等，公司研发投入力度较大。
+总体看，公司科研条件好，研发投入力
+度较大。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>451.00万元,355.00万元,963.80万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京市富乐科技开发有限公司的经营管理">
+    <enterprise:其经营分析为>（一）经营条件
+公司经营地址为北京市平谷区马坊工
+业区西区 50 号，为征用北京市平谷区马坊
+镇人民政府土地，征用面积 30 亩，征用期
+限 50年（至 2052年 3月），使用用途为办
+公、厂房，该经营地办公设施齐全，交通便
+利。
+公司 1996 年成立，拥有一项图文注册
+商标，是国家高新技术企业（证书编号：
+GR201511001722，有效期至 2018年 11月）、
+中 关 村 高 新 技 术 企 业 （ 证 书 编 号 ：
+20162110097404，有效期至 2019年 3月）。
+公司曾获得“北京市模范职工之家”、“北
+京市儿童外科矫形器具工程技术研究中心”、
+“医疗器械质量管理示范企业”、“北京市
+社会领域‘争优先进基层党组织’”、“2011
+年首都文明单位”、“国家火炬计划重点高
+新技术企业”、“北京市科学技术奖”、“中
+国医疗器械行业协会外科植入物专业委员
+会理事单位”、“中国医疗器械行业协会会
+员”的荣誉。
+总体看，公司业内知名度高，资质较齐
+全。
+（二）业务运营
+1.主要业务及产品
+公司主营业务为研发、生产、销售骨科
+植入器材，公司以生物技术产品市场为导
+向，以新型适用研发设计、实验过程中不同
+材质、生产过程中特殊工艺过程等工程化关
+键技术为目标，针对当前常见病、多发病为
+对象，将各阶段具有国内外先进水平的创新
+性研究成果或生产技术源源不断的贡献社
+会，提高企业的竞争力，为新医疗产业的发
+展做出贡献。
+公司产品包括骨科外固定架系列器械、
+脊柱固定系列产品、四肢创伤系列产品、多
+功能外固定架系列产品、半月板缝合器、膝
+关节康复支具及配套手术器械等五大类上
+百种器械的产品加工 生产线，目前已在解
+放军 304 医院、305 医院、306 医院、309
+医院、协和医院、北医三院、积水潭医院等
+大、中型医院得到广泛的应用，并全力展开
+海外市场贸易，已涉及欧美、东南亚等多个
+国家进出口交易。
+2.采购模式
+采购方面，公司采购的原材料主要为钛
+及钛合金、医用不锈钢等，采购区域主要集
+中在宝鸡、西安，长期合作的供货商有宝鸡
+钛业股份有限公司、西安赛特金属材料开发
+有限公司，少量材料（新产品所需要的新材
+料）需通过代理商从国外进口。采购结算方
+面，公司采购付款方式根据材料、采购量而
+定，比较灵活，一般会留 5%的质保金，原
+材料采购价格较高，但价格基本稳定。
+3.生产模式
+生产方面，公司主要采取“以销定产”
+的方式，对于市场需求量大的产品，公司备
+有一定的安全库存。目前公司拥有脊柱车间
+（生产脊柱后路钉棒系统、脊柱前路钉板系
+统）、创伤车间（生产四肢创伤产品）2个
+生产车间，分别拥有 1条生产线，其中脊柱
+车间的生产线产能约为 2.5万套/年；创伤车
+间的生产线产能约为 1.5万套/年，由于目前
+公司收入主要由生产脊柱后路钉棒系统构
+成，因此该生产线实际产量较少。公司现有
+立式加工中心、车床、铣床以及各种检测设
+备等，设备均从德国、瑞士进口。
+4.销售模式
+从销售方面看，公司业务区域覆盖全
+国，销售方式主要为代理销售及直销，其中
+代理销售占公司销售收入的 90.00%左右，
+公司在全国区域寻求经营口碑好，资质齐全
+的代理商，目前在全国已拥有上百家代理
+商。公司订单的获取主要经过投标，其中多
+数为委托代理商进行投标，部分大额的订单
+由公司直接进行投标。目前公司主要客户为
+南昌柯林公司、广州俊达公司、解放军 304
+医院、人民医院等。销售结算方面，对于新
+合作的代理商，公司采取先收款后发货的结
+算方式，其余代理商采取先发货后收款的结
+算方式，为加强对老客户维护，有利于双方
+建立长期稳固的合作，一般公司给予老客户
+一定的账期；对于医院等直接客户，一般根
+据具体合同进行结算，由于医院预算一般在
+下半年，因此回款较集中，一般集中在每年
+的下半年。
+表 2 2015年前五大销售客户
+单位：万元
+合作 历史交
+销售客户 销售额
+年限 易总额
+洛阳翔科医疗器械公司 930.31 10年 4000.00
+上海显庆贸易有限公司 718.02 3年 1500.00
+宜昌市康鑫医药经销有限公司 521.31 7年 2800.00
+云南善远医疗器械有限公司 515.00 1年 515.00
+广东风博亿贸易有限公司 458.00 1年 458.00
+资料来源：公司提供，中企信用整理。
+总体看，公司主营业务突出，客户较为
+优质，上下游渠道通畅，业务运营情况较好。
+（三）经营效率
+表 3 公司近三年主要经营指标
+经营指标 2013年 2014 年 2015年
+成本率(%) 78.42 89.16 84.64
+管理费用率(%) 18.41 32.66 26.37
+应收账款周转次数(次) 3.67 2.63 3.04
+存货周转次数(次) 1.09 0.92 0.83
+总资产周转次数(次) 0.77 0.62 0.57
+资料来源：公司提供，中企信用整理。
+近三年，公司成本率呈波动趋势，主要
+为人工成本、采购成本、及研发投入成本，
+成本控制较好；同期，管理费用率较高，管
+理费用控制有待加强。
+近三年，公司存货周转次数加权平均值
+为 0.91次，处于行业较低水平；同期，应收
+账款周转次数加权平均值为 3.05次，处于行
+业一般水平；同期，总资产周转次数加权平
+均值为 0.63次，处于行业一般水平。
+总体看，公司经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>（一）法人治理及组织架构
+公司根据《中国人民共和国公司法》及
+其他有关规定，制订了《北京市富乐科技开
+发有限公司章程》。
+股东会是公司的权力机构，依法行使决
+定公司的经营方针和投资计划、审议批准公
+司的年度财务预算方案、决算方案等职权。
+公司不设董事会，设执行董事 1名，对
+股东会负责，执行董事行使召集股东会议，
+并向股东会报告工作，执行股东会的决议等
+职权。
+公司不设监事会，设监事 1名，监事行
+使检查公司财务、对执行董事、高级管理人
+员执行公司职务的行为进行监督等职权。
+公司设总经理 1名，总经理对执行董事
+负责，行使主持公司的经营管理工作，组织
+实施股东会决议等职权。
+截至评级时点，公司内设财务部、办公
+室（行政管理、后勤管理）、法规部（产品
+注册、法规管理）、质管部（产品检验、理
+化实验、质量体系、计量管理）、人力资源
+部、生产部（生产计划、成品库）、制造部
+（脊柱车间、创伤车间、生产库房、机修动
+力组）、物资保障部（物资采购、材料库）、
+工程部（工艺组、试制组）、技术部（脊柱
+研发组、创伤研发组）、商务部、市场部、
+外贸部、销售部（华东大区、华南大区、华
+中大区、东北大区、西南大区、西北大区），
+部门设置清晰。
+总体看，公司法人治理结构基本建立，
+部门设置清晰。
+（二）内控制度及执行
+公司根据经营管理需要，制定了较为完
+善的财务管理、人事管理、项目管理、技术
+管理、采购管理、销售管理等制度，2016
+年 1月，公司获得 ISO9001：2008《质量管
+理 体 系 认 证 》 证 书 （ 证 书 编 号 ：
+04716Q10024R4M，有效期至 2019年 1月）、
+ISO13485:2003《医疗器械质量管理体系认
+证》证书（证书编号：04716Q10000024，有
+效期至 2019 年 1 月），实际业务操作中严
+格按标准执行。
+总体看，公司内部管理制度完善，制度
+执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>结合公司提供的财务数据，按照谨慎性
+原则，中企信用预测公司 2016年将实现营
+业收入 9000.00万元，净利润 1200.00万元；
+预计2016年底公司资产总额18888.99万元，
+负债总额 9000.00万元，所有者权益 9888.99
+万元。相比 2015年，预计 2016年营业收入
+增长 1.08%，负债率变动幅度为-0.81%，预
+计净资产收益率变动幅度-0.75%。
+总体看，公司未来一年业务发展趋势较
+好好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京市富乐科技开发有限公司的财务分析">
+    <enterprise:资产质量及流动性>截至 2016 年 3 月底，公司资产总额
+16134.89万元，其中流动资产占比 59.92%，
+非流动资产占比 40.08%。
+1.流动资产
+截至 2016 年 3 月底，公司流动资产
+9667.88 万元，主要为：应收账款 2336.90
+万元，占比 24.17%，为应收洛阳翔科医疗
+器械公司、济南中北精细化工有限公司、济
+南贝鑫生物科技有限公司等货款，账龄在
+1~2年之间；预付款项 2461.44万元，占比
+25.46%，为预付西安赛特金属材料开发有限
+公司、常州康鼎医疗器械有限公司、佛山市
+密钮康贸易有限公司、三河市迈迪克医疗器
+械有限公司、派瑞格医疗器械(常州)有限公
+司等货款，账龄在 1 年以内占 4.30%，1~2
+年占 95.70%；存货 3464.95 万元，占比
+59.92%，主要为公司产成品、器械以及原材
+料。
+2.非流动资产
+截至 2016 年 3 月底，公司非流动资产
+6467.01 万元，主要为：固定资产 4565.70
+万元，占比 70.60%，为公司厂房、电子设
+备、交通工具、办公设备等；开发支出
+1245.54万元，占比 19.26%。
+总体看，公司资产流动性较强，资产质
+量较好。
+（三）负债及所有者权益
+1.负债
+截至 2016 年 3 月底，公司资产负债率
+为 43.90%，负债水平较低，有有息债务。
+截至 2016 年 3 月底，公司负债总额为
+7083.97万元，全部为流动负债，主要为：
+短期借款 1750.00万元，占比 24.70%，为中
+国工商银行北京平谷支行抵押和信用贷款、
+北京银行平谷支行信用贷款、中国建设银行
+马坊支行信用贷款；预收款项 2795.29万元，
+占比 39.46%，为预收赤峰携手助康医疗器
+械有限责任公司、菏泽久鸿医疗器械有限公
+司、浙江乐信医疗器械有限公司、上海显庆
+贸易有限公司、荆门市仁源等货款，账龄在
+1年以内占 35.13%，1~2年占 64.87%；其他
+应付款 1929.34万元，占比 27.24%，账龄均
+在 2年以上。
+2.所有者权益
+近三年，公司所有者权益分别为6695.36
+万元、7495.30万元、8688.99万元，呈逐年
+增长趋势，主要系公司留存收益增加所致，
+公司所有者权益对负债保障能力较强。
+截至2016年3月底，公司所有者权益
+9050.91万元，其中实收资本3000.00万元，
+占比33.15%；资本公积10.00万元，占比
+0.11%；盈余公积438.31万元，占比4.84%；
+未分配利润5602.60万元，占比61.90%。
+总体看，公司所有者权益增长性良好，
+对负债的保障能力较强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力指标看，截至 2016年 3
+月底，公司流动比率、速动比率分别为
+136.48%、87.56%，均处于行业低水平，公
+司短期偿债能力弱。
+从长期偿债能力指标看，近三年，公司
+EBITDA 值分别为 2169.85 万元、1039.70
+万元、1390.52 万元，处于行业一般水平，
+公司长期偿债能力一般。
+结合公司业务发展及规模看，公司整体</enterprise:偿债能力>
+    <enterprise:财务弹性>-</enterprise:财务弹性>
+    <enterprise:盈利能力>显著增强。相比其他类型的制造
+业，专用设备制造业具有技术含量高、资金
+需求量大、毛利率较高等特点。
+从行业经营特点看，专业设备制造业户
+源分散，税源结构复杂，固定资产一次性投
+入较大，产品生产周期相对较长，对流动资
+金的充裕度要求较高，品种繁杂，材料耗用
+难掌握。
+（三）行业制约因素
+基于专用设备制造业资金需求大、规模
+化要求高的特点，使得小型企业很难进入这
+个行业，新成立的企业若没有强大的自有资
+金做后盾，也很难成长壮大起来。
+随着中国工业 4.0时代的开启，专用设
+备制造业迎来了一个新的机遇，同时也是一
+个新的挑战期。近年来，东南亚地区的制造
+业迅猛增长，其廉价的劳动力成本，使得产
+品价格也被压得较低。中国的制造业企业再
+依托价格战，去占领国际市场的机会在减
+少。若要继续在国际市场中占领一席之位，
+务必要掌握产品的核心技术，自主研发和升
+级核心技术。
+（四）行业现状及未来展望
+专用设备制造业是为国民经济各部门
+以及国防和基础设施建设提供装备的先进
+制造产业。随着我国经济水平和科学技术的
+快速发展，在国家自主创新能力提升、国家
+投资快速增长及产业技术升级的需求加大
+的背景下，专用设备制造业的发展速度也会
+增长迅猛。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京市富乐科技开发有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，中企信用通过在北京市
+企业信用信息网查询，未发现公司在北京市
+工商行政管理局、税务局有不良信用记录；
+通过在中国执行信息公开网查询，未发现公
+司有被执行记录；中企信用未发现公司有对
+外担保等或有负债；未发现公司有银行不良
+信用记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>中企信用暂未发现公司政策、行业及市
+场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>1.公司管理费用率较高，关注未来期间
+费用的控制情况。
+2.公司存货周转速度较慢，营运资金周
+转面临一定的压力。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>中企信用暂未发现其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京市富乐科技开发有限公司2013年基本财务指标">
+    <enterprise:资产总额>8789.53 </enterprise:资产总额>
+    <enterprise:所有者权益>6695.37 </enterprise:所有者权益>
+    <enterprise:负债总额>6314.07 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>2169.85 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京市富乐科技开发有限公司2014年基本财务指标">
+    <enterprise:资产总额>9545.67 </enterprise:资产总额>
+    <enterprise:所有者权益>7495.30 </enterprise:所有者权益>
+    <enterprise:负债总额>6915.40 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>1039.70 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京市富乐科技开发有限公司2015年基本财务指标">
+    <enterprise:资产总额>12180.38 </enterprise:资产总额>
+    <enterprise:所有者权益>8688.99 </enterprise:所有者权益>
+    <enterprise:负债总额>8168.63 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:EBITDA>1390.52 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京市富乐科技开发有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.77 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.67 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.09 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京市富乐科技开发有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.62 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.63 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.92 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京市富乐科技开发有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.57 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.04 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.83 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京市富乐科技开发有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-93.10 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京市富乐科技开发有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-70.47 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京市富乐科技开发有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-66.87 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京市富乐科技开发有限公司2013年偿债能力指标">
+    <enterprise:流动比率>136.65 </enterprise:流动比率>
+    <enterprise:速动比率>85.70 </enterprise:速动比率>
+    <enterprise:资产负债率>71.84 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京市富乐科技开发有限公司2014年偿债能力指标">
+    <enterprise:流动比率>130.52 </enterprise:流动比率>
+    <enterprise:速动比率>80.94 </enterprise:速动比率>
+    <enterprise:资产负债率>72.45 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京市富乐科技开发有限公司2015年偿债能力指标">
+    <enterprise:流动比率>130.75 </enterprise:流动比率>
+    <enterprise:速动比率>78.73 </enterprise:速动比率>
+    <enterprise:资产负债率>67.06 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京市富乐科技开发有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-98.68 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>17.99 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京市富乐科技开发有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-97.85 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>22.05 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京市富乐科技开发有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-103.30 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>19.46 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京市富乐科技开发有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>390.03 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3236.20 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1189.46 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>396.23 </enterprise:其他应收款>
+    <enterprise:存货>3098.43 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>8310.35 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>19.92 </enterprise:无形资产>
+    <enterprise:开发支出>454.11 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>5.15 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>479.18 </enterprise:非流动资产合计>
+    <enterprise:资产总计>8789.53 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京市富乐科技开发有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>715.78 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3272.91 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>447.89 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1161.06 </enterprise:其他应收款>
+    <enterprise:存货>3428.24 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>9025.88 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>18.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>33.11 </enterprise:无形资产>
+    <enterprise:开发支出>463.53 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>5.15 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>519.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>9545.67 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京市富乐科技开发有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1970.63 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2580.87 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>614.64 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1265.29 </enterprise:其他应收款>
+    <enterprise:存货>4248.73 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>10680.16 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>149.10 </enterprise:在建工程>    
+    <enterprise:工程物资>18.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>491.58 </enterprise:无形资产>
+    <enterprise:开发支出>806.46 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>35.08 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1500.22 </enterprise:非流动资产合计>
+    <enterprise:资产总计>12180.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京市富乐科技开发有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2120.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>406.67 </enterprise:应付账款>
+    <enterprise:预收款项>2001.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>182.85 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2204.83 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6915.40 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6915.40 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>10.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>438.31 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>4046.99 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>7495.30 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7495.30 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>14410.70 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京市富乐科技开发有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2120.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>406.67 </enterprise:应付账款>
+    <enterprise:预收款项>2001.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>182.85 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2204.83 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6915.40 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6915.40 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>10.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>438.31 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>4046.99 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>7495.30 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>7495.30 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>14410.70 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京市富乐科技开发有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>2100.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>50.20 </enterprise:应付账款>
+    <enterprise:预收款项>4696.73 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>140.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>479.90 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>701.80 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8168.63 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8168.63 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>10.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>438.31 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>5240.68 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>8688.99 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>8688.99 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16857.62 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京市富乐科技开发有限公司2013年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3891.37 </enterprise:营业成本>
+    <enterprise:主营业务成本>3891.37 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>87.88 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1936.53 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1336.22 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>98.56 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>92.61 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-6106.95 </enterprise:营业利润>
+    <enterprise:营业外收入>206.40 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>34.12 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-5934.67 </enterprise:利润总额>
+    <enterprise:所得税费用>298.60 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-6233.27 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-6233.27 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京市富乐科技开发有限公司2014年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3009.76 </enterprise:营业成本>
+    <enterprise:主营业务成本>3009.76 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>88.52 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1913.89 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2494.72 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>130.74 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-5142.91 </enterprise:营业利润>
+    <enterprise:营业外收入>119.76 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>9.11 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-5032.26 </enterprise:利润总额>
+    <enterprise:所得税费用>249.76 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-5282.02 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-5282.02 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京市富乐科技开发有限公司2015年利润表">
+    <enterprise:营业收入>0.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3183.40 </enterprise:营业成本>
+    <enterprise:主营业务成本>3183.40 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>99.53 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1924.98 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1987.27 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>141.57 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>199.52 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-5549.00 </enterprise:营业利润>
+    <enterprise:营业外收入>28.12 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>4.87 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-5525.75 </enterprise:利润总额>
+    <enterprise:所得税费用>284.77 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-5810.52 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-5810.52 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京市富乐科技开发有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京市富乐科技开发有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京市富乐科技开发有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京市富乐科技开发有限公司股东：胡桓宇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>胡桓宇 </enterprise:股东名称>
+	 <enterprise:货币>8,367.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>83.68%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京市富乐科技开发有限公司股东：胡志勇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>胡志勇 </enterprise:股东名称>
+	 <enterprise:货币>1,632.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>16.32%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>16-4-22</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>19724465</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422672</enterprise:有注册号>
+	<enterprise:有类别>25-服装鞋帽</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422860</enterprise:有注册号>
+	<enterprise:有类别>18-皮革、雨伞</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422866</enterprise:有注册号>
+	<enterprise:有类别>19-非金属建材</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422907</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422278</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422279</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422264</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422265</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423067</enterprise:有注册号>
+	<enterprise:有类别>15-乐器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423165</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423166</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422428</enterprise:有注册号>
+	<enterprise:有类别>28-玩具、体育用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423180</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422734</enterprise:有注册号>
+	<enterprise:有类别>22-绳、网及包装物</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422783</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422870</enterprise:有注册号>
+	<enterprise:有类别>17-绝缘材料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422989</enterprise:有注册号>
+	<enterprise:有类别>12-交通工具</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422263</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422301</enterprise:有注册号>
+	<enterprise:有类别>34-烟草烟具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422318</enterprise:有注册号>
+	<enterprise:有类别>32-饮料啤酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422344</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423116</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422709</enterprise:有注册号>
+	<enterprise:有类别>23-纺织用纱、线</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422768</enterprise:有注册号>
+	<enterprise:有类别>21-厨房器皿洁具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422753</enterprise:有注册号>
+	<enterprise:有类别>24-布料床上用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422949</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422299</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422291</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423007</enterprise:有注册号>
+	<enterprise:有类别>13-军火烟花</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422316</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422376</enterprise:有注册号>
+	<enterprise:有类别>30-糖、茶、糕点、调味品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422369</enterprise:有注册号>
+	<enterprise:有类别>31-新鲜蔬果</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423088</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422384</enterprise:有注册号>
+	<enterprise:有类别>29-肉、蛋、奶、食用油</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422425</enterprise:有注册号>
+	<enterprise:有类别>27-地毯挂毯</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423189</enterprise:有注册号>
+	<enterprise:有类别>08-手动机械</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423190</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16423202</enterprise:有注册号>
+	<enterprise:有类别>04-工业油脂燃料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16422474</enterprise:有注册号>
+	<enterprise:有类别>26-服饰用品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418978</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418644</enterprise:有注册号>
+	<enterprise:有类别>29-肉、蛋、奶、食用油</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418240</enterprise:有注册号>
+	<enterprise:有类别>12-交通工具</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418178</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418687</enterprise:有注册号>
+	<enterprise:有类别>32-饮料啤酒</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418721</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418365</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418785</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418813</enterprise:有注册号>
+	<enterprise:有类别>34-烟草烟具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418852</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418863</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418927</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418569</enterprise:有注册号>
+	<enterprise:有类别>27-地毯挂毯</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418552</enterprise:有注册号>
+	<enterprise:有类别>26-服饰用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418646</enterprise:有注册号>
+	<enterprise:有类别>30-糖、茶、糕点、调味品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418663</enterprise:有注册号>
+	<enterprise:有类别>31-新鲜蔬果</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418158</enterprise:有注册号>
+	<enterprise:有类别>08-手动机械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418135</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418171</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418326</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418329</enterprise:有注册号>
+	<enterprise:有类别>18-皮革、雨伞</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418503</enterprise:有注册号>
+	<enterprise:有类别>22-绳、网及包装物</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418818</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418513</enterprise:有注册号>
+	<enterprise:有类别>23-纺织用纱、线</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418880</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418971</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418562</enterprise:有注册号>
+	<enterprise:有类别>24-布料床上用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418568</enterprise:有注册号>
+	<enterprise:有类别>28-玩具、体育用品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418149</enterprise:有注册号>
+	<enterprise:有类别>04-工业油脂燃料</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418133</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418154</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418220</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418242</enterprise:有注册号>
+	<enterprise:有类别>13-军火烟花</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418215</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418291</enterprise:有注册号>
+	<enterprise:有类别>15-乐器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418302</enterprise:有注册号>
+	<enterprise:有类别>17-绝缘材料</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418341</enterprise:有注册号>
+	<enterprise:有类别>21-厨房器皿洁具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418342</enterprise:有注册号>
+	<enterprise:有类别>19-非金属建材</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>15-2-27</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16418516</enterprise:有注册号>
+	<enterprise:有类别>25-服装鞋帽</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16262154</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16262373</enterprise:有注册号>
+	<enterprise:有类别>04-工业油脂燃料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16262352</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16261860</enterprise:有注册号>
+	<enterprise:有类别>13-军火烟花</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16262144</enterprise:有注册号>
+	<enterprise:有类别>16-书刊、办公用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐 FL">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐 FL</enterprise:有商标名称>
+	<enterprise:有注册号>16262471</enterprise:有注册号>
+	<enterprise:有类别>02-颜料涂料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-29</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16261955</enterprise:有注册号>
+	<enterprise:有类别>13-军火烟花</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-20</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16193907</enterprise:有注册号>
+	<enterprise:有类别>29-肉、蛋、奶、食用油</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16121155</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120176</enterprise:有注册号>
+	<enterprise:有类别>24-布料床上用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16121038</enterprise:有注册号>
+	<enterprise:有类别>12-交通工具</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120474</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120648</enterprise:有注册号>
+	<enterprise:有类别>15-乐器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120543</enterprise:有注册号>
+	<enterprise:有类别>19-非金属建材</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120400</enterprise:有注册号>
+	<enterprise:有类别>21-厨房器皿洁具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120768</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120269</enterprise:有注册号>
+	<enterprise:有类别>23-纺织用纱、线</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-9</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16120305</enterprise:有注册号>
+	<enterprise:有类别>22-绳、网及包装物</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115594</enterprise:有注册号>
+	<enterprise:有类别>28-玩具、体育用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115964</enterprise:有注册号>
+	<enterprise:有类别>25-服装鞋帽</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115815</enterprise:有注册号>
+	<enterprise:有类别>26-服饰用品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114125</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115120</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115076</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16113995</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114658</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114860</enterprise:有注册号>
+	<enterprise:有类别>34-烟草烟具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115731</enterprise:有注册号>
+	<enterprise:有类别>27-地毯挂毯</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114691</enterprise:有注册号>
+	<enterprise:有类别>40-材料加工</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115474</enterprise:有注册号>
+	<enterprise:有类别>30-糖、茶、糕点、调味品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115222</enterprise:有注册号>
+	<enterprise:有类别>32-饮料啤酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114206</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114481</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16115535</enterprise:有注册号>
+	<enterprise:有类别>31-新鲜蔬果</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-8</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16114929</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105741</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101213</enterprise:有注册号>
+	<enterprise:有类别>45-社交、法律服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105935</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101459</enterprise:有注册号>
+	<enterprise:有类别>41-教育、娱乐服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101386</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101652</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐 FL">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐 FL</enterprise:有商标名称>
+	<enterprise:有注册号>16101810</enterprise:有注册号>
+	<enterprise:有类别>38-电讯、通信服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐  FULE">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐  FULE</enterprise:有商标名称>
+	<enterprise:有注册号>16105100</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105223</enterprise:有注册号>
+	<enterprise:有类别>08-手动机械</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16102340</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16102422</enterprise:有注册号>
+	<enterprise:有类别>34-烟草烟具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105611</enterprise:有注册号>
+	<enterprise:有类别>04-工业油脂燃料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105975</enterprise:有注册号>
+	<enterprise:有类别>02-颜料涂料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105468</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐 FL">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐 FL</enterprise:有商标名称>
+	<enterprise:有注册号>16102101</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16102234</enterprise:有注册号>
+	<enterprise:有类别>36-保险、金融、不动产服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101307</enterprise:有注册号>
+	<enterprise:有类别>44-医疗、园艺服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16101346</enterprise:有注册号>
+	<enterprise:有类别>43-餐饮、住宿服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105397</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16105298</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-6</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16091946</enterprise:有注册号>
+	<enterprise:有类别>33-酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-6</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16092020</enterprise:有注册号>
+	<enterprise:有类别>32-饮料啤酒</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-6</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16092088</enterprise:有注册号>
+	<enterprise:有类别>31-新鲜蔬果</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16084205</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16083677</enterprise:有注册号>
+	<enterprise:有类别>08-手动机械</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16083618</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16083816</enterprise:有注册号>
+	<enterprise:有类别>06-金属材料器具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16083862</enterprise:有注册号>
+	<enterprise:有类别>05-医药制品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-5</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16084135</enterprise:有注册号>
+	<enterprise:有类别>03-日化用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079404</enterprise:有注册号>
+	<enterprise:有类别>24-布料床上用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079540</enterprise:有注册号>
+	<enterprise:有类别>23-纺织用纱、线</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079146</enterprise:有注册号>
+	<enterprise:有类别>28-玩具、体育用品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079660</enterprise:有注册号>
+	<enterprise:有类别>20-家具、非金属工艺品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079588</enterprise:有注册号>
+	<enterprise:有类别>21-厨房器皿洁具</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079692</enterprise:有注册号>
+	<enterprise:有类别>22-绳、网及包装物</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079714</enterprise:有注册号>
+	<enterprise:有类别>19-非金属建材</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16080201</enterprise:有注册号>
+	<enterprise:有类别>12-交通工具</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16080257</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16080155</enterprise:有注册号>
+	<enterprise:有类别>14-珠宝钟表</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079870</enterprise:有注册号>
+	<enterprise:有类别>17-绝缘材料</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079989</enterprise:有注册号>
+	<enterprise:有类别>15-乐器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079210</enterprise:有注册号>
+	<enterprise:有类别>27-地毯挂毯</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079291</enterprise:有注册号>
+	<enterprise:有类别>26-服饰用品</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079339</enterprise:有注册号>
+	<enterprise:有类别>25-服装鞋帽</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16079786</enterprise:有注册号>
+	<enterprise:有类别>18-皮革、雨伞</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>15-1-4</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>16078897</enterprise:有注册号>
+	<enterprise:有类别>30-糖、茶、糕点、调味品</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>14574116</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文等待实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>14574116</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>14574116</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574114</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>14574115</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：图形">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>14574116</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574114</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574114</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>14574115</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117A</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请驳回通知发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574114</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>14574115</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：FULE">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>FULE</enterprise:有商标名称>
+	<enterprise:有注册号>14574115</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>14-5-30</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>14574117A</enterprise:有注册号>
+	<enterprise:有类别>39-旅游、物流服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>12-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>10540585</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>12-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>10540586</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>12-2-28</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>10540587</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京市富乐科技开发有限公司的商标信息：富乐">
+	<enterprise:有申请日期>98-1-7</enterprise:有申请日期>
+	<enterprise:有商标名称>富乐</enterprise:有商标名称>
+	<enterprise:有注册号>1277094</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种双U螺钉">
+	<enterprise:有申请公布日>17-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种双U螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710563843.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107260282A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：穿刺植骨系统">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>穿刺植骨系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510601717.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105286976B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种跟腱微创缝合组合器械">
+	<enterprise:有申请公布日>17-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种跟腱微创缝合组合器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710236599.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107028631A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种前侧入路锁骨接骨板">
+	<enterprise:有申请公布日>17-8-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种前侧入路锁骨接骨板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710237062.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107007342A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种腰椎零切迹融合器系统">
+	<enterprise:有申请公布日>17-6-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种腰椎零切迹融合器系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620993476.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206252566U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：股骨颈侧孔引流减压空心拉力螺钉系统">
+	<enterprise:有申请公布日>17-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>股骨颈侧孔引流减压空心拉力螺钉系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510560073.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105078553B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种弧形撑开融合器">
+	<enterprise:有申请公布日>17-5-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种弧形撑开融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510902606.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105342729B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种撑开型椎间融合器">
+	<enterprise:有申请公布日>17-5-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种撑开型椎间融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510903300.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105326587B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：防退撑开式颈椎前路融合器">
+	<enterprise:有申请公布日>17-5-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>防退撑开式颈椎前路融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510887005.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105310805B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：胫骨平台后外侧接骨板">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>胫骨平台后外侧接骨板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310395832.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103417284B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种腰椎零切迹融合器系统">
+	<enterprise:有申请公布日>17-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种腰椎零切迹融合器系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610768871.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106344220A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能骨针扳手">
+	<enterprise:有申请公布日>16-5-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能骨针扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310021972.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103111971B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨桥镶嵌技术及器械">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨桥镶嵌技术及器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536819.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103054633B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：自锁万向钉">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>自锁万向钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510887046.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105496533A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：脊柱畸形牵引轮椅支架">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>脊柱畸形牵引轮椅支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520841117.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205163442U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：髂骨螺钉">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>髂骨螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520840923.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205126396U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：植骨漏斗组件">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>植骨漏斗组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520730143.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205126397U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种骨折内固定气动射钉枪">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种骨折内固定气动射钉枪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520747018.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205126400U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：骨折内固定钉">
+	<enterprise:有申请公布日>16-3-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>骨折内固定钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520708790.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205073011U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种颈椎融合器">
+	<enterprise:有申请公布日>16-3-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种颈椎融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510903290.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105361981A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：脊柱肿瘤全脊椎切除术V型挡板拉钩">
+	<enterprise:有申请公布日>16-3-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>脊柱肿瘤全脊椎切除术V型挡板拉钩</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520761294.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205054306U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：弧形平头椎板去皮质骨刀">
+	<enterprise:有申请公布日>16-3-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>弧形平头椎板去皮质骨刀</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520761015.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205054368U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：脊髓保护挡板">
+	<enterprise:有申请公布日>16-3-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>脊髓保护挡板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520761276.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205054452U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种弧形撑开融合器">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种弧形撑开融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510902606.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105342729A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种骨折内固定气动射钉枪">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种骨折内固定气动射钉枪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510616542.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105342691A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：拼接型腰椎后路融合器">
+	<enterprise:有申请公布日>16-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>拼接型腰椎后路融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510891582.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105326586A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种撑开型椎间融合器">
+	<enterprise:有申请公布日>16-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种撑开型椎间融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510903300.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105326587A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：防退撑开式颈椎前路融合器">
+	<enterprise:有申请公布日>16-2-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>防退撑开式颈椎前路融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510887005.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105310805A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种侧入路零切迹融合器">
+	<enterprise:有申请公布日>16-2-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种侧入路零切迹融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510900981.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105287062A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：穿刺植骨系统">
+	<enterprise:有申请公布日>16-2-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>穿刺植骨系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510601717.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105286976A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：椎板成型钉板系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>椎板成型钉板系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520715225.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971537U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：股骨颈侧孔引流减压空心拉力螺钉系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>股骨颈侧孔引流减压空心拉力螺钉系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520682439.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971530U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：薄片式椎弓根截骨刀">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>薄片式椎弓根截骨刀</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520761281.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971449U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：生长可调式单向钉">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>生长可调式单向钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310021971.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103110452B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：新型持针钳">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>新型持针钳</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520761295.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971404U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：穿刺植骨系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>穿刺植骨系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520729194.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971501U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种骨折内固定电动射钉枪">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种骨折内固定电动射钉枪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520747920.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204971561U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：微创双螺塞螺钉">
+	<enterprise:有申请公布日>16-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>微创双螺塞螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510727012.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105213009A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：植骨漏斗组件">
+	<enterprise:有申请公布日>15-12-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>植骨漏斗组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510601624.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105147386A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种骨折内固定电动射钉枪">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种骨折内固定电动射钉枪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510617338.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105125276A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：可调复位桡骨板">
+	<enterprise:有申请公布日>15-12-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>可调复位桡骨板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520550154.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204814145U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：股骨颈侧孔引流减压空心拉力螺钉系统">
+	<enterprise:有申请公布日>15-11-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>股骨颈侧孔引流减压空心拉力螺钉系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510560073.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105078553A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：医用外固定支具">
+	<enterprise:有申请公布日>15-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>医用外固定支具</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520337137.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204708952U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：椎体内撑开器">
+	<enterprise:有申请公布日>15-9-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>椎体内撑开器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520125627.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204636518U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：PEEK材料的颈椎板">
+	<enterprise:有申请公布日>15-8-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>PEEK材料的颈椎板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520125628.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204581474U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种后路寰椎骨折复位内固定系统">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种后路寰椎骨折复位内固定系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420732107.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204520926U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：螺钉盒滚轮">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>螺钉盒滚轮</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420842887.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204520974U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：倒梯形螺纹椎弓根螺钉">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>倒梯形螺纹椎弓根螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420842710.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204520936U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：新骨水泥螺钉">
+	<enterprise:有申请公布日>15-7-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>新骨水泥螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420842911.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204500932U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：撑开型融合器">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>撑开型融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420732252.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204411031U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：腰骶骨螺钉">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>腰骶骨螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420842933.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204410953U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：COX螺钉">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>COX螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420732179.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204351915U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能牵引复位器">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能牵引复位器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310395831.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103431899B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：小螺钉持取器">
+	<enterprise:有申请公布日>15-4-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>小螺钉持取器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420732255.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204293250U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨栓固定技术及器械">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨栓固定技术及器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536825.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103054634B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种新型腰椎融合器">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型腰椎融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420357083.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204246273U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种新型的弯板弯棒复合钳">
+	<enterprise:有申请公布日>15-1-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型的弯板弯棒复合钳</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420357084.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204121139U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：肩锁关节脱位弧形解剖压力板">
+	<enterprise:有申请公布日>14-12-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>肩锁关节脱位弧形解剖压力板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420229018.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204049815U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种新型可拆卸式的扳手">
+	<enterprise:有申请公布日>14-12-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型可拆卸式的扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420357097.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204049827U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种新型可调节的颈椎成形板">
+	<enterprise:有申请公布日>14-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型可调节的颈椎成形板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420409551.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203988314U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：脊柱微创椎间盘摘除工具">
+	<enterprise:有申请公布日>14-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>脊柱微创椎间盘摘除工具</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420409552.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203988227U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种具有万向关节的膨胀钉扳手">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有万向关节的膨胀钉扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420357085.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203970531U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：卡口式椎板成形钛板">
+	<enterprise:有申请公布日>14-8-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>卡口式椎板成形钛板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320689882.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203790017U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：颈椎椎弓根钉滑动固定系统">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>颈椎椎弓根钉滑动固定系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320728473.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203677227U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：滑槽式椎板成形钛板">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>滑槽式椎板成形钛板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320689881.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203634272U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能牵引复位器">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能牵引复位器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320545513.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203634267U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：旋转拉杆式膨胀钉">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>旋转拉杆式膨胀钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320689883.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203634275U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：胫骨平台后外侧接骨板">
+	<enterprise:有申请公布日>14-3-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>胫骨平台后外侧接骨板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320545512.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203493721U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能牵引复位器">
+	<enterprise:有申请公布日>13-12-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能牵引复位器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310395831.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103431899A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：胫骨平台后外侧接骨板">
+	<enterprise:有申请公布日>13-12-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>胫骨平台后外侧接骨板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310395832.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103417284A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：通用椎弓根钉扳手">
+	<enterprise:有申请公布日>13-10-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>通用椎弓根钉扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320056923.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203226891U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨桥镶嵌器械">
+	<enterprise:有申请公布日>13-10-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨桥镶嵌器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220686130.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203226883U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：加长臂微创旋转单轴钉">
+	<enterprise:有申请公布日>13-10-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>加长臂微创旋转单轴钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320056922.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203226890U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨栓固定器械">
+	<enterprise:有申请公布日>13-10-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨栓固定器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220686154.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203226884U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：椎板成形钢板">
+	<enterprise:有申请公布日>13-8-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>椎板成形钢板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320178927.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203153926U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能骨针扳手">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能骨针扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320030631.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203107246U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：生长可调式单向钉">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>生长可调式单向钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320030668.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203107264U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：微创加长臂椎弓根钉">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>微创加长臂椎弓根钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320016324.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203107257U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：椎弓根钉防退扳手">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>椎弓根钉防退扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320102340.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203107269U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多功能骨针扳手">
+	<enterprise:有申请公布日>13-5-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>多功能骨针扳手</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310021972.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103111971A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：生长可调式单向钉">
+	<enterprise:有申请公布日>13-5-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>生长可调式单向钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310021971.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103110452A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：微创加长臂椎弓根钉">
+	<enterprise:有申请公布日>13-5-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>微创加长臂椎弓根钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310011605.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103070725A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨桥镶嵌技术及器械">
+	<enterprise:有申请公布日>13-4-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨桥镶嵌技术及器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536819.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103054633A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板移植骨栓固定技术及器械">
+	<enterprise:有申请公布日>13-4-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板移植骨栓固定技术及器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536825.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103054634A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多向可调式尺桡骨外固定架">
+	<enterprise:有申请公布日>13-4-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>多向可调式尺桡骨外固定架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220570111.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202859269U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：机翼型腰椎峡部内固定器">
+	<enterprise:有申请公布日>13-3-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>机翼型腰椎峡部内固定器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220387299.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202761418U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：多向可调式尺桡骨外固定架">
+	<enterprise:有申请公布日>13-1-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>多向可调式尺桡骨外固定架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210429897.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102895022A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：微创套筒式撑开器及加长臂椎弓根钉">
+	<enterprise:有申请公布日>13-1-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>微创套筒式撑开器及加长臂椎弓根钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220337828.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202699262U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：一种新型经皮植骨器械">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型经皮植骨器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220059262.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202619818U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板缝合器械">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板缝合器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220179245.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202619739U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：单芯椎弓根钉">
+	<enterprise:有申请公布日>12-12-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>单芯椎弓根钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120516256.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202619835U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：机翼型腰椎峡部内固定器">
+	<enterprise:有申请公布日>12-11-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>机翼型腰椎峡部内固定器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210277855.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102793578A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：全内置式可膨胀型脊柱前路内固定器系统">
+	<enterprise:有申请公布日>12-9-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>全内置式可膨胀型脊柱前路内固定器系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220059249.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202446235U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：防溅植骨器">
+	<enterprise:有申请公布日>12-8-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>防溅植骨器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120408961.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202376207U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：万向螺钉及单轴螺钉">
+	<enterprise:有申请公布日>12-8-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>万向螺钉及单轴螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120429406.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202376217U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：动态非融合连接器">
+	<enterprise:有申请公布日>12-8-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>动态非融合连接器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010206730.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101856260B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：半月板缝合器械">
+	<enterprise:有申请公布日>12-8-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>半月板缝合器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210123374.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102626332A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：全内置式可膨胀型脊柱前路内固定器系统">
+	<enterprise:有申请公布日>12-7-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>全内置式可膨胀型脊柱前路内固定器系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210041304.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102579120A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：灌装导管">
+	<enterprise:有申请公布日>12-7-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>灌装导管</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120429414.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202288430U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：微增量支撑椎弓根钉">
+	<enterprise:有申请公布日>12-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>微增量支撑椎弓根钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120108439.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202136405U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：具有可调节和微动装置的管型外固定架">
+	<enterprise:有申请公布日>11-9-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有可调节和微动装置的管型外固定架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120013990.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201968807U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：可调式膨胀融合器">
+	<enterprise:有申请公布日>11-6-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>可调式膨胀融合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020586262.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201861800U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：髓核撑开器">
+	<enterprise:有申请公布日>11-3-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>髓核撑开器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020505143.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201775673U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：动态非融合连接器">
+	<enterprise:有申请公布日>11-1-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>动态非融合连接器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020233698.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201692035U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：经皮微创腰椎椎弓根螺钉固定系统及配套器械">
+	<enterprise:有申请公布日>10-12-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>经皮微创腰椎椎弓根螺钉固定系统及配套器械</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020141415.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201684011U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：股骨头单刀潜行钻扩两用器">
+	<enterprise:有申请公布日>10-11-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>股骨头单刀潜行钻扩两用器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020129309.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201617897U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：动态非融合连接器">
+	<enterprise:有申请公布日>10-10-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>动态非融合连接器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010206730.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101856260A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：柔性连接棒">
+	<enterprise:有申请公布日>10-7-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>柔性连接棒</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920175651.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201533865U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：脊柱动态支撑固定系统">
+	<enterprise:有申请公布日>10-6-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>脊柱动态支撑固定系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920171045.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201492489U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京市富乐科技开发有限公司的专利信息：自锁防退颈椎钉板系统">
+	<enterprise:有申请公布日>10-6-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>自锁防退颈椎钉板系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920170424.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201492491U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:作品著作权 rdf:ID="北京市富乐科技开发有限公司的作品著作：图形">
+	<enterprise:有登记号>国作登字-2014-F-00151392</enterprise:有登记号>
+	<enterprise:有作品名称>图形</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>2012-01-20</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2014-09-22</enterprise:有登记日期>
+	<enterprise:有首次发布日期>2012-01-25<enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:作品著作权 rdf:ID="北京市富乐科技开发有限公司的作品著作：富乐+fule+图形">
+	<enterprise:有登记号>国作登字-2014-F-00151391</enterprise:有登记号>
+	<enterprise:有作品名称>富乐+fule+图形</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>2012-01-20</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2014-09-22</enterprise:有登记日期>
+	<enterprise:有首次发布日期>2012-02-25<enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:作品著作权 rdf:ID="北京市富乐科技开发有限公司的作品著作：富乐+图形">
+	<enterprise:有登记号>国作登字-2014-F-00151393</enterprise:有登记号>
+	<enterprise:有作品名称>富乐+图形</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>1997-04-17</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2014-09-22</enterprise:有登记日期>
+	<enterprise:有首次发布日期>1997-07-11<enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:作品著作权 rdf:ID="北京市富乐科技开发有限公司的作品著作：富乐">
+	<enterprise:有登记号>国作登字-2015-F-00221298</enterprise:有登记号>
+	<enterprise:有作品名称>富乐</enterprise:有作品名称>
+	<enterprise:有类别>美术</enterprise:有类别>
+	<enterprise:有创作完成日期>2010-04-03</enterprise:有创作完成日期>
+	<enterprise:有登记日期>2015-08-06</enterprise:有登记日期>
+	<enterprise:有首次发布日期><enterprise:有首次发布日期>
+</enterprise:作品著作权>
+<enterprise:网站备案 rdf:ID="北京市富乐科技开发有限公司的网站备案：富乐骨科">
+	<enterprise:有审核时间>17-8-1</enterprise:有审核时间>
+	<enterprise:有网站全称>富乐骨科</enterprise:有网站全称>
+	<enterprise:有网站首页>www.fuleguke.com</enterprise:有网站首页>
+	<enterprise:有域名>fuleguke.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14006280号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京市富乐科技开发有限公司的网站备案：北京市富乐科技开发有限公司">
+	<enterprise:有审核时间>17-8-1</enterprise:有审核时间>
+	<enterprise:有网站全称>北京市富乐科技开发有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.fulekeji.com</enterprise:有网站首页>
+	<enterprise:有域名>fulekeji.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14006280号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京市富乐科技开发有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京市富乐科技开发有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>未提供</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京市富乐科技开发有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>洛阳翔科医疗器械公司、上海显庆贸易有限公司、宜昌市康鑫医药经销
+有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京市富乐科技开发有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>未提供</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京市富乐科技开发有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京市富乐科技开发有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>详见“行业分析”。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京市富乐科技开发有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京市富乐科技开发有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京市富乐科技开发有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>1518.87万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>338.36万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京市富乐科技开发有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>板卡、电子元器件、机箱和显示器</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>-</enterprise:有供应商类型>
+	<enterprise:有交易地位>-</enterprise:有交易地位>
+	<enterprise:有议价能力>-</enterprise:有议价能力>
+	<enterprise:有延期支付>-</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>-</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>-</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京市富乐科技开发有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>A级</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京市富乐科技开发有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京市富乐科技开发有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京市富乐科技开发有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>0.00</enterprise:负债项目金额>
+	<enterprise:负债项目期限>-</enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:预测项目  rdf:ID="北京市富乐科技开发有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>9000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京市富乐科技开发有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1200.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京市富乐科技开发有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京市富乐科技开发有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+	<enterprise:专利总计>50</enterprise:专利总计>
+<enterprise:商标数量 rdf:ID="北京市富乐科技开发有限公司的商标数量">
+	<enterprise:商标总计>177</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>18</enterprise:商标数量2014>
+	<enterprise:商标数量2015>159</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:著作作品数量 rdf:ID="北京市富乐科技开发有限公司的著作作品数量">
+	<enterprise:著作作品总计>4</enterprise:著作作品总计>
+	<enterprise:著作作品数量2013>0</enterprise:著作作品数量2013>
+	<enterprise:著作作品数量2014>3</enterprise:著作作品数量2014>
+	<enterprise:著作作品数量2015>1</enterprise:著作作品数量2015>
+</enterprise:著作作品数量>
+<enterprise:网站备案数量 rdf:ID="北京市富乐科技开发有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

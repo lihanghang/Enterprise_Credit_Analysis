@@ -1,0 +1,1553 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京关键科技股份有限公司的企业概况">
+    <enterprise:有名称>北京关键科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBZC+</enterprise:有信用等级>
+    <enterprise:有信用代码>投资金额(万元)</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>-</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>-</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务；应用软件服务；计算机系统服务；销售电子产品、计算机、软件及辅助设备。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务；应用软件服务；计算机系统服务；销售电子产品、计算机、软件及辅助设备。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>-</enterprise:有行业分类>
+    <enterprise:有注册地址>-</enterprise:有注册地址>
+    <enterprise:有通讯地址>-</enterprise:有通讯地址>
+    <enterprise:有邮政编码>-</enterprise:有邮政编码>
+    <enterprise:有联系人>-</enterprise:有联系人>
+    <enterprise:有联系电话>-</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>caroline@keyware.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>-</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>基本情况
+北京关键科技股份有限公司（以下简称
+“关键科技”或“公司”）成立于2005年2月
+22日，注册机关为北京市工商行政管理局海淀
+分局，注册地址为北京市海淀区上地十街1号院
+3号楼六层606室，办公地址为北京市昌平区回
+龙观龙城花园五期2号楼2单元4到6层。公司注
+册资本和实收资本均为1400万元，法定代表人
+张元军，主要为国防、军工、政府、电信等领
+域提供软件工程化管理、软件测试等方面的产
+品、咨询和技术服务。
+公司是北京市高新技术企业、中关村高新
+技术企业，现已通过武器装备质量体系认证，
+现拥有9个软件著作权，已获批三级涉密单位资
+质。
+截至2015年末，公司资产总额1430.67万元，
+负债总额171.62万元，净资产1259.04万元，固
+定资产408.79万元；2015全年实现营业收入
+1583.46万元，利润总额28.97万元，净利润
+6.49万元。
+截至2016年7月末，公司资产总额
+1836.71万元，负债总额514.56万元，净资产
+1322.15万元，固定资产877.73万元；2016年前
+7个月实现营业收入935.60万元，利润总额
+101.21万元，净利润71.95万元。
+股权结构
+截至2016年7月，公司股权结构如下表所示。
+表1 公司股权结构表
+股东名称 股权比例 出资额（万元） 出资形式
+焦华春 80% 897.68 货币
+张元军 20% 502.32 货币
+合计 100% 1400 货币
+资料来源：公司提供
+历史沿革
+公司原名关键科技（北京）有限公司，成
+立于2005年，由焦华春、张元军出资组建，初
+始注册地址为北京市海淀区卧虎桥甲6号工作区
+(南)65号楼6层608室。公司初始注册资本400万
+元，均以无形资产出资，其中焦华春投入价值
+320万元非专利技术“嵌入式仿真测评系统技术”
+，张元军投入价值40万元非专利技术“嵌入式
+仿真测评系统技术”。公司后经多次增资，至
+2015年8月，注册资本增至1400万元，名称变更
+为北京关键科技股份有限公司，注册地址变更
+为北京市海淀区上地十街1号院3号楼六层606室，
+现股权结构如表1所示。2015年12月7日，公司
+在全国中小企业股份转让系统挂牌，证券代码
+834883。公司成立至今，法定代表人和经营范
+围未发生变化。
+关联关系
+1.公司子公司基本情况
+关键国际集团有限公司（以下简称“关键
+国际”）是关键科技的全资控股子公司，注册
+地位于香港，注册资金20000港币，主要是为方
+便上下游渠道客户通过美金账户付款交易而设
+立。该公司纳入关键科技2015年合并报表。
+公司目前还投资了北京关键金源科技有限
+公司，相关收入未纳入公司2015年合并报表。
+2.关联交易
+本报告2015年财务分析采用公司合并报表，
+与关键国际的内部关联交易已抵消，与关键金
+源不存在关联交易。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京关键科技股份有限公司的基础素质">
+    <enterprise:有管理素质>-</enterprise:有管理素质>
+    <enterprise:有人员素质>截至评级时评点，公司在职员工合计84人，
+具体人员构成情况如表2所示。
+表2 公司人员构成情况
+年龄构成 人员学历构成 岗位构成
+人 人 人
+年龄 学历 职称
+数 数 数
+45岁以
+0 本科及以上 81 管理人员 5
+上
+25-45岁 66 专科 3 技术人员 19
+25岁以
+18 高中及以下 0 作业人员 60
+下
+资料来源：公司提供
+公司员工人数与去年同期人数相比增加
+44人，主要为业务拓展造成的人员需求增加。
+公司员工年龄结构较为合理，整体素质符合经
+营要求；员工岗位构成较为合理，符合公司业
+务特点。总体看，公司人员素质和结构可以满
+足当前及未来岗位需求。</enterprise:有人员素质>
+    <enterprise:有科研条件>和成果
+公司设有专门的研发部，拥有多位软件开
+发、软件测试和软件工程化方面的专家，他们
+曾参与多个国家级大型软件测试平台的搭建和
+GJB5000A的认证支持。
+公司的技术来源主要以自主研发为主，共
+获得了9个软件著作权，分别为KPFLow项目管理
+平台系统、TestQuest pro 仿真测试系统、
+KRFLow需求管理系统、KCFLow配置管理工具系
+统、KTCase回归测试工具系统、Cuttle ITE软
+件、KTFLow测试过程管理工具系统、文档管理
+系统、集成测试环境系统。公司结合
+GJB5000A和最新标准GJB438B、GJB2786A等国家
+标准和规范，吸取国内军工企业软件研制的实
+际经验，研制出了配套的需求管理、配置管理、
+项目管理及测试管理等系列工具。公司近三年
+的研发费用均占当年营业收入的14%左右，研发
+费用主要是科研开发费用以及支付研发人员工
+资等。
+总体看，公司重视研发投入，具备一定的
+研发实力，能够较好满足业务发展的需要；研
+发方向兼顾军用和民用领域，为进一步拓展民
+用市场奠定一定技术基础。但同时，公司研发
+人员资质要求高，工资开支较大，人力成本控
+制难度较高。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京关键科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>1、产品
+公司主要收入来源于两部分，软件测试和
+软件工程化管理系统。
+软件测试产品一部分来自国外代理产品，
+一部分自主研发。软件测试是将已经确认的软
+件、计算机硬件、外设、网络等其他元素结合
+在一起，发现所开发的软件系统与用户需求不
+符和矛盾的地方，从而提出更加完善方案。其
+任务是尽可能检查出程序中的错误，提高软件
+系统的可靠性，其目的是检验软件系统“做得
+怎样”。软件测试以标准化产品为主，公司会
+根据客户需求进行产品的升级换代，并收取技
+术服务费用。
+软件工程化管理是指对软件项目在进度、
+成本、质量、资源等进行集成管理的需要为目
+标而进行的集成化软件项目管理，能够实现软
+件项目的策划、跟踪与监督、软件质量保证等
+三个关键域的管理要求。目前软件工程化管理
+平台主要用于军工单位，确保国防科研生产任
+务保质保量地按时完成，同时使现有科研资源
+发挥最大效益。公司从客户的软件项目开始到
+后期全程跟进，以卖出的软件产品加服务的方
+式收费，给予客户1年的免费技术服务期。
+从近年销售收入构成来看，公司处于发展
+初期，产品销售需对接军工企业研发生产需求，
+产品结构不稳定。2014年，公司软件工程化管
+理业务收入占比为42.62%，而2015年公司所有
+收入均来自软件测试业务，产品毛利率在25%左
+右。
+总的来看，公司业务主要集中在军工领域，
+受军工财政拨款政策影响较大，但由于处于发
+展初期，经营业绩呈现一定的波动。
+2、销售
+公司产品的销售以直销为主，销售区域均
+在国内。公司一般通过参加行业展览会、行业
+研讨会以及活动赞助等方式进行产品的市场推
+广，并在成都、武汉、西安各地建立了办事处，
+行业客户多集中于军工下属研究所。
+公司2015年主要客户包括：上海科学仪器
+厂、中国电子科技集团公司第二十八研究所、
+西安航空制动科技有限公司、北京博创科信息
+技术有限公司、解放军某部队等。为了进一步
+降低客户集中性风险，公司组建专门销售团队
+努力开拓民用市场，但目前实现的相关业务收
+入相对较少。
+与下游客户结算方面，公司对产品采取分
+期收款方式：预收30%合同款项，工具安装并运
+行后收取合同款的60%，留10%的质保金。但军
+工单位的付款审批流程长，回款周期一般在一
+年左右，且客户多集中于年底回款。
+软件测试方面公司主要的竞争对手是北大
+青鸟和中科院下属的中科方德公司，软件工程
+化方面主要竞争对手有旋极股份。与上述公司
+的市场竞争上，公司在成立时间、资金实力、
+经营稳定性方面均有所差距，但在技术精专的
+侧重方面具有一定优势。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1.治理机制
+公司设股东大会，是公司的权力机构，行
+使决定公司经营方针和投资计划等职权。公司
+设董事会，成员5人；设监事会，成员3人。公
+司设总经理1人，负责公司的日常经营、管理工
+作，由董事长张元军先生兼任。公司下设行政
+部、财务部、研发部、技术支持部、销售部等
+职能部门。
+总体而言，公司组织机构设置基本合理，
+决策和监督机制较为规范，能够保障公司现阶
+段正常运营和未来发展。
+2.内控制度
+公司根据管理实际需要，建立了相应的财
+务管理、技术服务管理、研发管理、销售管理、
+人事行政管理等业务及管理制度，具有一定的
+可执行性。
+总体而言，公司设计和制定了基本的治理
+机制和内部控制制度，能够保障公司现阶段正
+常运营和未来发展。
+经营效率
+公司2013-2015年总资产分别为1289.38万
+元、1002.64万元、1430.67万元，净资产分别
+为-165.78万元、-56.02万元、1259.04万元，
+2015年股东增资1000万元，资本实力得到充实。
+近三年营业收入别为505.56万元、1117.22万元、
+1583.46万元，净利润分别为-289.52万元、
+109.76万元、6.49万元。公司近三年运营效率
+指标如表3所示。
+表 3 公司运营效率衡量指标
+时间 2013年 2014年 2015年
+总资产增长率 - -22.24% 42.69%
+总资产周转率 39.21% 97.49% 130.15%
+流动资产周转率 58.52% 149.89% 194.55%
+应收账款周转率 459.31% 540.15% 476.63%
+存货周转率 - 4986%% 2374%
+近年来，国家日趋重视国防和军队信息化
+建设，加大相关科研经费投入，公司收入增长
+较快，但由于公司正处于发展初期，业务的稳
+定性不强，管理和销售费用高企，营业利润率
+不高且呈现较大波动；2014年公司营业利润结
+余较多主要因公司将部分成本计入香港子公司
+所致。
+对比行业整体指标来看，2015年公司总资
+产增长率、总资产周转率、流动资产周转率处
+于行业平均水平，应收账款周转率低于行业平
+均水平；由于对外采购硬件较少，存货周转率
+高于行业优秀水平。
+综合来看，公司各项资产衡量指标一般，
+总体经营效率一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司2015年实现销售收入1583.46万元，利
+润总额6.49万元。从市场资源来看，在保持原
+有军工领域的市场份额外，公司积极开拓民用
+市场，相关业务实现的收入占比正逐年上升。
+公司凭借以往在军工领域所积累的经验向拓展
+民用软件测试市场，但因不同市场的部分技术
+需求有所差异，仍需要持续加大科研投入。公
+司2015年在全国中小企业股份转让系统挂牌，
+2016年申请的三级保密单位资质也已获得批准，
+为进一步承接军工项目创造了条件。
+公司预计全年实现营业收入2000万元左右，
+照目前趋势，公司实现本年收入目标的可能性
+大。截至2016年7月末，公司已实现营业收入
+935.6万元，净利润71.95万元，高于去年同期
+水平；由于大部分客户将集中于年底确认工程
+量，且部分业务尚未验收入账，公司实际运营
+好于账面表现。
+总体看，公司创始人具有一定的军工行业
+经验和人脉资源，具有较好的发展前景，但由
+于资产规模较小，其经营状况易受行业系统性
+风险的影响而产生波动，未来业务拓展情况需
+谨慎关注。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京关键科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>公司近三年资产结构变化情况如图1所示。
+万万万万万
+2,000_ 100%
+90%
+80%
+1,500_
+70%
+60%
+1,000_ 50%
+40%
+30%
+500_
+20%
+10%
+0_ 0%
+2013万 2014万 2015万
+万万万万 万万万万万 万万万万万万
+图 1 2013-2015年末公司资产结构变化
+2013-2015年末，公司资产规模分别是
+1289.38万元、1002.64万元、1430.67万元，同
+期流动资产分别为863.96万元、626.74万元、
+1001.05万元，分别占资产总额的比重为
+67.01%、62.51%和69.97%。
+2015年末公司流动资产构成如图2所示
+万万万万,
+万万, 6% 34%
+万万万万万,
+23% 万万万万
+万万万万
+万万万万, 1%
+万万万万
+万万万万万
+万万
+万万万万,
+36%
+图2 2015年末公司流动资产构成图
+截至2015年末，公司流动资产主要是由货
+币资金、应收账款、其他应收款、存货等构成。
+其中，货币资金340.37万元，系公司银行存款
+和库存现金；应收账款360.84万元，主要是公
+司应收客户货款，已计提坏账准备16.77万元，
+账龄全部在1年以内，主要涉及军队和军事科研
+院所等单位；其他应收款233.27万元，主要为
+往来款和备用金，账龄在1年以内的占50.72%，
+3年以上占39.77%，已计提坏账准备122.07万元
+；存货57.69万元，主要为用于研发网络测试工
+具而外采的软件产品；另有预付款项8.88万元。
+2015年末，公司固定资产408.79万元，系
+公司房产、运输工具和电子设备，已计提累计
+折旧126.68万元；另有递延所得税资产20.83万
+元。
+截至2016年7月，公司资产总额为
+1836.71万元，较年初增长28.38%。非流动资产
+中固定资产增加468.93万元，为新购置的房产；
+流动资产中货币资金、应收账款分别较年初下
+降76.87%和40.47%，其他应收款、存货分别较
+年初增长69.65%和249.81%，主要因公司外采软
+件、技术服务及拆借增加所致。
+总体看，公司资产规模较小，资产流动性
+一般，资产质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>公司近三年偿债能力衡量指标如表6所示。
+从短期看，2015年因公司股东增资并清偿了大
+量拆借款项，流动比率、速动比率较前2年有大
+幅提升，资产负债率也大幅降低。
+表 5 公司偿债能力衡量指标
+时间 2013年 2014年 2015年
+流动比率 0.59 0.59 5.83 
+速动比率 0.59 0.59 5.50 
+现金流动负债比 24.70% 3.36% -285.1%
+资产负债率 112.86% 105.59% 12.00%
+EBITDA利息保障倍数 - 687.67 110.40 
+现金负债总额比 24.70% 3.36% -285.1%
+从短期看，目前公司流动比率、速动比率
+属行业较好值，但现金流动负债总额比为负，
+经营活动产生的现金对流动负债的保障程度较
+差，短期负债压力较大；从长期看，公司资产
+负债率不高，盈利能力和债务保障水平一般，
+长期偿债能力一般。
+总体看，公司整体偿债能力一般，受内外
+部不确定因素影响，偿债能力或将发生较大波
+动。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司2013-2015年末负债结构如图3所示。
+万万万万万
+2,000_ 120%
+100%
+1,500_
+80%
+1,000_ 60%
+40%
+500_
+20%
+0_ 0%
+2013万 2014万 2015万
+万万万万 万万万万万 万万万万万
+图3 2013-2015年末公司负债结构变化图
+2013-2015年，公司负债规模分别是
+1455.16万元、1058.66万元、171.62万元，全
+部为流动负债。近三年，负债规模大幅下降，
+主要为公司清偿了大部分拆借款项。
+公司 2015年末流动负债构成情况图 4所示。
+截至 2015年末，流动负债主要是应交税费、应
+付职工薪酬、预收账款、其他应付款等构成。
+其中，应交税费、应付职工薪酬合计 104.46万
+元，占负债总额的 60.87%；预收款项 43.95万
+元，为预收客户货款；其他应付款 22.07万元，
+为往来拆借款；另有应付账款 1.14万元。
+万万万万
+万万万万, 万万万万
+万万万万万万万万,万, 1% 26%
+13% 万万万万万万
+万万万万
+万万万万万
+万万万万万万,
+23%
+万万万万,
+38%
+图4 2015年末公司流动负债构成图
+截至 2016年 7月，公司预收款项、应付职
+工薪酬、其他应付款较期初增加明显，主要为
+业务扩展、人员增加、临时往来拆借增加所致。
+截至资料清单提交日，公司无或有负债。
+公司近三年所有者权益分别为-165.78万元、
+-56.02万元、1259.04万元；2013和2014年资产
+负债率超100%主要因历史亏损、对外拆借数额
+较大所致，2015年资产负债率大幅降低至12%主
+要因股东增资所致。公司近三年未分配利润分
+别为-565.78万元、-456.02万元、-158.65万元，
+整体利润积累能力较差。
+总体看，公司通过股东增资降低了负债率，
+但随着业务的扩大，仍存在一定的营运资金缺
+口，整体财务弹性不强。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-2015年公司盈利情况如图5所示。近
+年来，国家日趋重视国防和军队信息化建设，
+加大相关科研经费投入，公司收入增长较快，
+但由于公司正处于发展初期，业务的稳定性不
+强，管理和销售费用高企，营业利润率不高且
+呈现较大波动；2014年公司营业利润结余较多
+主要因公司将部分成本计入香港子公司所致。
+公司近三年盈利能力指标如表4所示，整体
+呈现一定波动，对比行业指标来看表现不佳。
+万万万万万
+2,000_ 200%
+150%
+1,500_
+100%
+1,000_ 50%
+500_ 0%
+-50%
+0_
+-100%
+2013万 2014万 2015万
+-500_ -150%
+万万万万 万万万 万万万万万万
+万万万万万万
+图5 2013-2015年末公司盈利情况分布图
+表 4公司盈利能力衡量指标
+　时间 2013年 2014年 2015
+年
+营业收入增长率 - 120.99% 41.73%
+营业利润率 -66.01% 9.14% -3.90%
+总资产报酬率 -22.89% 9.28% 2.38%
+净资产收益率 174.64% -98.98% 1.08%
+2015年公司营业收入增长率处于行业优秀
+水平，但营业利润率、总资产报酬率、净资产
+收益率均处于行业较差水平。综合看，公司盈
+利能力不强且缺乏稳定性。
+现金流
+公司近三年 EBITDA分别为-295.16 万元、
+106.38万元、28.97 万元，现金收入比分别为
+1.48、0.79、1.06，整体收入实现质量一般。
+2013-2015年，公司现金流量状况如图 6所示。
+公司近三年经营性净现金流分别为
+359.38万元、35.58 万元、-489.24 万元，整体
+偏紧，主要因股东资金拆借频繁及筹办下属子
+公司所致；投资性净现金流分别为-346.9 万元、
+-16.66万元、-92.23 万元， 2013年投资性现
+金流出较大主要为购置房产所支付的现金，其
+余年份为购置办公和运输设备所支付的现金，
+规模较小；2015 年公司筹资性现金净流入
+850万元，股东增资所支付的现金。
+万万万万万
+1,000_
+500_
+0_
+-500_
+-1,000_
+2013万 2014万 2015万
+万万万万万万万 万万万万万万万 万万万万万万万
+图6 2013-2015年末公司现金流量状况变化图
+综上，公司经营性净现金流偏紧，短期营
+运资金缺口通过股东拆借满足，资金周转能力
+不强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京关键科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>目前公司无信用风险与合规性风险。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>目前行业无政策风险，市场发展前景较好。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司资产规模较小，整体抗风险能力不强，
+经营状况易受行业系统性风险的影响而产生波
+动，盈利缺乏稳定性，未来业务拓展的效果以
+及经营状况需谨慎关注。
+公司融资渠道相对匮乏，主要依靠股权融
+资和自有资金运营，公开市场股权交易活跃度
+不高，对外拆借较为频繁，需关注相关融资情
+况。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司暂无其他风险。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京关键科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>1289.38 </enterprise:资产总额>
+    <enterprise:所有者权益>-165.78 </enterprise:所有者权益>
+    <enterprise:负债总额>1455.16 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>505.56 </enterprise:营业收入>
+    <enterprise:EBITDA>-295.16 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京关键科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>1002.64 </enterprise:资产总额>
+    <enterprise:所有者权益>-56.02 </enterprise:所有者权益>
+    <enterprise:负债总额>1058.66 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1117.22 </enterprise:营业收入>
+    <enterprise:EBITDA>106.38 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京关键科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>1430.67 </enterprise:资产总额>
+    <enterprise:所有者权益>1259.04 </enterprise:所有者权益>
+    <enterprise:负债总额>171.62 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1583.46 </enterprise:营业收入>
+    <enterprise:EBITDA>28.97 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京关键科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.39 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.59 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京关键科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.97 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.40 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>49.86 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京关键科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.30 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.77 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>23.74 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京关键科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-22.89 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-22.89 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>174.64 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京关键科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>9.28 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.28 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-98.98 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京关键科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>2.38 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>2.38 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>1.08 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京关键科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>59.37 </enterprise:流动比率>
+    <enterprise:速动比率>58.64 </enterprise:速动比率>
+    <enterprise:资产负债率>112.86 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-3456.21 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京关键科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>59.20 </enterprise:流动比率>
+    <enterprise:速动比率>59.18 </enterprise:速动比率>
+    <enterprise:资产负债率>105.59 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>687.67 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京关键科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>583.29 </enterprise:流动比率>
+    <enterprise:速动比率>549.68 </enterprise:速动比率>
+    <enterprise:资产负债率>12.00 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>110.40 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京关键科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.59 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>56.61 </enterprise:毛利率>
+    <enterprise:成本费用利润率>66.71 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.48 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>24.70 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京关键科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>75.84 </enterprise:毛利率>
+    <enterprise:成本费用利润率>181.59 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.79 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>3.36 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>1.21 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-1.31 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京关键科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>1.95 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>55.04 </enterprise:毛利率>
+    <enterprise:成本费用利润率>105.19 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.06 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-285.07 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.42 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-1.60 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京关键科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>52.63 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>110.07 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>690.63 </enterprise:其他应收款>
+    <enterprise:存货>10.63 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>863.96 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>359.56 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>50.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>15.86 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>425.42 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1289.38 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京关键科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>71.56 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>303.60 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>251.38 </enterprise:其他应收款>
+    <enterprise:存货>0.20 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>626.74 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>346.65 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>10.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>19.25 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>375.90 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1002.64 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京关键科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>340.37 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>360.84 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>8.88 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>233.27 </enterprise:其他应收款>
+    <enterprise:存货>57.69 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1001.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>408.79 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>20.83 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>429.62 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1430.67 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京关键科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>31.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>36.28 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>38.34 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>952.99 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1058.66 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1058.66 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-456.02 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-56.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-56.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1002.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京关键科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>31.05 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>36.28 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>38.34 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>952.99 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1058.66 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1058.66 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-456.02 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>-56.02 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>-56.02 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1002.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京关键科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1.14 </enterprise:应付账款>
+    <enterprise:预收款项>43.95 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>39.55 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>64.91 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>22.07 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>171.62 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>171.62 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>17.69 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-158.65 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1259.04 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1259.04 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1430.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京关键科技股份有限公司2013年利润表">
+    <enterprise:营业收入>505.56 </enterprise:营业收入>
+    <enterprise:主营业务收入>505.56 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>227.31 </enterprise:营业成本>
+    <enterprise:主营业务成本>227.31 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.55 </enterprise:营业税金及附加>
+    <enterprise:销售费用>72.83 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>497.83 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.09 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>37.66 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>164.12 </enterprise:营业利润>
+    <enterprise:营业外收入>38.53 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>202.65 </enterprise:利润总额>
+    <enterprise:所得税费用>-5.65 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>208.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>208.30 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京关键科技股份有限公司2014年利润表">
+    <enterprise:营业收入>1117.22 </enterprise:营业收入>
+    <enterprise:主营业务收入>1117.22 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>269.92 </enterprise:营业成本>
+    <enterprise:主营业务成本>269.92 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>13.20 </enterprise:营业税金及附加>
+    <enterprise:销售费用>106.97 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>602.25 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.15 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>22.57 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>704.41 </enterprise:营业利润>
+    <enterprise:营业外收入>4.23 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>708.64 </enterprise:利润总额>
+    <enterprise:所得税费用>-3.39 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>712.03 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>712.03 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京关键科技股份有限公司2015年利润表">
+    <enterprise:营业收入>1583.46 </enterprise:营业收入>
+    <enterprise:主营业务收入>1583.46 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>687.08 </enterprise:营业成本>
+    <enterprise:主营业务成本>687.08 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>15.20 </enterprise:营业税金及附加>
+    <enterprise:销售费用>108.28 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>823.93 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.26 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>10.50 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>762.14 </enterprise:营业利润>
+    <enterprise:营业外收入>90.77 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>852.91 </enterprise:利润总额>
+    <enterprise:所得税费用>22.49 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>830.42 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>830.42 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京关键科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>749.81 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>38.53 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1332.80 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>2121.14 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>280.53  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>165.86 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>174.16 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1141.22 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1761.77 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>359.37 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>346.90 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>346.90 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-346.90 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>12.47 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京关键科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>880.51 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>4.23 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3958.06 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4842.80 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>293.81  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>196.93 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>171.12 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4145.36 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>4807.22 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>35.58 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>16.66 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>16.66 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-16.66 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>18.92 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京关键科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1679.78 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>90.77 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3204.54 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>4975.09 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>752.32  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>257.56 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>185.27 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4269.18 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>5464.33 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-489.24 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>92.23 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>92.23 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-92.23 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>850.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>850.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>850.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>268.53 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京关键科技股份有限公司被投资单位：关键国际集团有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>关键国际集团有限公司</enterprise:名称>
+	<enterprise:单位代码>-</enterprise:单位代码>
+	<enterprise:被投资金额>-万元</enterprise:被投资金额>
+	<enterprise:股权比率>-%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京关键科技股份有限公司被投资单位：北京关键金源科技有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>北京关键金源科技有限公司</enterprise:名称>
+	<enterprise:单位代码>91110108MA004TED3B</enterprise:单位代码>
+	<enterprise:被投资金额>-万元</enterprise:被投资金额>
+	<enterprise:股权比率>-%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京关键科技股份有限公司股东：焦华春 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>焦华春 </enterprise:股东名称>
+	 <enterprise:货币>545.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>38.93%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京关键科技股份有限公司股东：张元军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张元军 </enterprise:股东名称>
+	 <enterprise:货币>305.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>21.79%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：有容">
+	<enterprise:有申请日期>09-10-22</enterprise:有申请日期>
+	<enterprise:有商标名称>有容</enterprise:有商标名称>
+	<enterprise:有注册号>7776887</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KTCASE">
+	<enterprise:有申请日期>09-2-17</enterprise:有申请日期>
+	<enterprise:有商标名称>KTCASE</enterprise:有商标名称>
+	<enterprise:有注册号>7204182</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KRFLOW">
+	<enterprise:有申请日期>08-10-31</enterprise:有申请日期>
+	<enterprise:有商标名称>KRFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>7031467</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KCFLOW">
+	<enterprise:有申请日期>08-10-31</enterprise:有申请日期>
+	<enterprise:有商标名称>KCFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>7031468</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：RMFLOW">
+	<enterprise:有申请日期>07-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>RMFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>6397146</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KPFLOW">
+	<enterprise:有申请日期>07-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>KPFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>6397147</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KTFLOW">
+	<enterprise:有申请日期>07-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>KTFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>6397148</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：CMFLOW">
+	<enterprise:有申请日期>07-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>CMFLOW</enterprise:有商标名称>
+	<enterprise:有注册号>6397149</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：CUTTLE">
+	<enterprise:有申请日期>07-6-14</enterprise:有申请日期>
+	<enterprise:有商标名称>CUTTLE</enterprise:有商标名称>
+	<enterprise:有注册号>6109455</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京关键科技股份有限公司的商标信息：KEYBUILD">
+	<enterprise:有申请日期>05-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>KEYBUILD</enterprise:有商标名称>
+	<enterprise:有注册号>4641266</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：Kinterface接口协议测试系统">
+	<enterprise:有批准日期>16-8-9</enterprise:有批准日期>
+	<enterprise:有软件全称>Kinterface接口协议测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Kinterface</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR211469</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：软件状态控制管理系统">
+	<enterprise:有批准日期>16-12-7</enterprise:有批准日期>
+	<enterprise:有软件全称>软件状态控制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KeyState</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR358623</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：嵌入式系统开发环境软件">
+	<enterprise:有批准日期>16-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>嵌入式系统开发环境软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR201935</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：全数字系统仿真验证平台">
+	<enterprise:有批准日期>17-6-22</enterprise:有批准日期>
+	<enterprise:有软件全称>全数字系统仿真验证平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR299590</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：软件产品研制管理系统">
+	<enterprise:有批准日期>16-2-3</enterprise:有批准日期>
+	<enterprise:有软件全称>软件产品研制管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR026759</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：科研管理信息系统">
+	<enterprise:有批准日期>16-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>科研管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR369986</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：软件研发测试工具软件">
+	<enterprise:有批准日期>16-8-9</enterprise:有批准日期>
+	<enterprise:有软件全称>软件研发测试工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR211349</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：网络性能测试工具">
+	<enterprise:有批准日期>15-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>网络性能测试工具</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR184492</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：代码静态测试工具软件">
+	<enterprise:有批准日期>16-7-21</enterprise:有批准日期>
+	<enterprise:有软件全称>代码静态测试工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR188481</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：测试管理工具软件">
+	<enterprise:有批准日期>14-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>测试管理工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>测试管理软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR137129</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：回归测试工具软件">
+	<enterprise:有批准日期>14-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>回归测试工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>回归测试软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR137286</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：配置管理工具软件">
+	<enterprise:有批准日期>14-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>配置管理工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>配置管理软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR136264</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：项目管理工具软件">
+	<enterprise:有批准日期>14-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>项目管理工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>项目管理软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR136302</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：集成测试环境系统">
+	<enterprise:有批准日期>14-7-3</enterprise:有批准日期>
+	<enterprise:有软件全称>集成测试环境系统</enterprise:有软件全称>
+	<enterprise:有软件简称>集成测试环境</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR090542</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：需求管理工具软件">
+	<enterprise:有批准日期>14-9-11</enterprise:有批准日期>
+	<enterprise:有软件全称>需求管理工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>需求管理软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR136276</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：文档管理系统">
+	<enterprise:有批准日期>14-2-14</enterprise:有批准日期>
+	<enterprise:有软件全称>文档管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>文档管理</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR017491</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KDFlow文档管理系统">
+	<enterprise:有批准日期>13-8-27</enterprise:有批准日期>
+	<enterprise:有软件全称>KDFlow文档管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KDFlow</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR090536</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KRFlow需求管理系统">
+	<enterprise:有批准日期>11-12-13</enterprise:有批准日期>
+	<enterprise:有软件全称>KRFlow需求管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KRFlow</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR094326</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KTFlow测试过程管理工具系统">
+	<enterprise:有批准日期>11-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>KTFlow测试过程管理工具系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KTlow</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR092500</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KCFlow配置管理工具系统">
+	<enterprise:有批准日期>11-12-9</enterprise:有批准日期>
+	<enterprise:有软件全称>KCFlow配置管理工具系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KCFlow</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR092467</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KPFlow项目管理平台系统">
+	<enterprise:有批准日期>11-12-7</enterprise:有批准日期>
+	<enterprise:有软件全称>KPFlow项目管理平台系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KPFlow</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR091433</enterprise:有登记号>
+	<enterprise:有分类号>30106-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KTCase回归测试工具系统">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>KTCase回归测试工具系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KTCase</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR090831</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：TestQuest pro仿真测试系统">
+	<enterprise:有批准日期>11-11-30</enterprise:有批准日期>
+	<enterprise:有软件全称>TestQuest pro仿真测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TestQuest</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR088983</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：Cuttle Integrated Test Enviroment software">
+	<enterprise:有批准日期>11-11-8</enterprise:有批准日期>
+	<enterprise:有软件全称>Cuttle Integrated Test Enviroment software</enterprise:有软件全称>
+	<enterprise:有软件简称>Cuttle ITE</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR080876</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：TestQuest pro仿真测试系统">
+	<enterprise:有批准日期>10-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>TestQuest pro仿真测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TestQuest</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR071751</enterprise:有登记号>
+	<enterprise:有分类号>67000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KTCase回归测试工具系统 [简称:KTCase] V11">
+	<enterprise:有批准日期>08-12-29</enterprise:有批准日期>
+	<enterprise:有软件全称>KTCase回归测试工具系统 [简称:KTCase] V11</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR38257</enterprise:有登记号>
+	<enterprise:有分类号>66000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KPFlow项目管理平台系统 [简称: KPFlow] V2.1">
+	<enterprise:有批准日期>08-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>KPFlow项目管理平台系统 [简称: KPFlow] V2.1</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR37667</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KRFlow需求管理系统 [简称: KRFlow] V2.1">
+	<enterprise:有批准日期>08-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>KRFlow需求管理系统 [简称: KRFlow] V2.1</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR37668</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KCFlow配置管理工具系统 [简称: KCflow] V2.0">
+	<enterprise:有批准日期>08-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>KCFlow配置管理工具系统 [简称: KCflow] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR37669</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：KTFlow测试过程管理工具系统 [简称: KTFlow] V2.4.1">
+	<enterprise:有批准日期>08-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>KTFlow测试过程管理工具系统 [简称: KTFlow] V2.4.1</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR37666</enterprise:有登记号>
+	<enterprise:有分类号>65000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京关键科技股份有限公司的软件著作：Cuttle Integrated Test Enviroment software [简称: Cuttle ITE] V5.2">
+	<enterprise:有批准日期>07-11-12</enterprise:有批准日期>
+	<enterprise:有软件全称>Cuttle Integrated Test Enviroment software [简称: Cuttle ITE] V5.2</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2007SR17744</enterprise:有登记号>
+	<enterprise:有分类号>32000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京关键科技股份有限公司的网站备案：关键科技（北京）有限公司">
+	<enterprise:有审核时间>16-6-21</enterprise:有审核时间>
+	<enterprise:有网站全称>关键科技（北京）有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.keyware.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>keyware.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备13010965号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京关键科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京关键科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司机构设置基本合理，管理制度能够保证公司正常运营，近年来业务拓展迅速</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京关键科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>军工企业，军事科研院所、军队、企业等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>公司基本处于正常状态                                            。                                                  
+四、企业信用状况
+1.税务信息
+（国税）北京市国家税务局 登记证号 110108771981847
+税务机关
+（地税）北京市地方税务局 纳税信用 A级企业  是   □否
+欠税信息 无
+主要税种及税率 增值税  17%
+上年度缴税额 -
+上年末应交额 64.91万元
+2.经营性负债偿付情况
+采购业务（接受劳务） 芯片、软件
+供应商类型 私营企业、外资企业
+付款方式 信用证、货到付款 交易地位 -
+议价能力 一般 延期支付 -
+上年度应付账款变动额 增加 1.14万元 上年末应付账款余额 1.14万元
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 经查，未涉诉
+信用网查询记录 经查，无违规信息
+纳税信用等级 A级（2014 年）
+互联网查询情况 无负面信息
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+无
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+无
+3.现金流预测（万元）
+项目 本年 未来第一年 备注
+预测合同额
+预测收入 2000
+预测净利润 500
+预测成本、费用支出 1500
+经营性流入
+经营性流出
+经营性净流量
+筹资性流入
+筹资性流出
+筹资性净流量
+投资性流入
+投资性流出
+投资性净流量
+净现金流
+用款计划及还款来源说明： 暂无新增融资计划</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京关键科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>公司在稳定军用领域业务的同时加强开拓民用软件测试市场</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京关键科技股份有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 全国中小企业股份转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京关键科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>我国软件产业在政策推动、市场需求、技术发展的带动下，呈现快速的发展
+趋势，市场前景比较乐观；具备先进技术优势、较强研发实力企业面临良好的发展契机。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京关键科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京关键科技股份有限公司的企业法人代表：张元军">
+	<enterprise:名称>张元军</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码>370624197311142217</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>无</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>无</enterprise:奖惩情况>
+	<enterprise:经历>1996年 2000年 航天工业总公司第 513研究所 技术工程师
+2003年 2005年 北京天碁科技有限公司 工程师
+2005年 至今 北京关键科技股份有限公司 董事长
+其他兼职和社会任职(从最近年份开始填写)
+起始日期 结束日期 在何地区、何部门 任何职务
+无</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京关键科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>17%，6%，</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>202976.30</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>0</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京关键科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>芯片</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>电子信息</enterprise:有供应商类型>
+	<enterprise:有交易地位>一般客户</enterprise:有交易地位>
+	<enterprise:有议价能力>高</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>3238328.20</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>4619988.10</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>上年末应付账款余额</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3.或有负债情况</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京关键科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）-</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京关键科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京关键科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京关键科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京关键科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>9</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>7</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>1</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="北京关键科技股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京关键科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

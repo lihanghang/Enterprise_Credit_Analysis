@@ -1,0 +1,1561 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京邦天信息技术有限公司的企业概况">
+    <enterprise:有名称>北京邦天信息技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>91110105672352906D</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局朝阳分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020004253545</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司北京朝外大街支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>72</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2008年3月21日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>2222.22</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2033年3月20日</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000.00</enterprise:有股本>
+    <enterprise:有经营范围>数字视频软件产品的研发、生产及集成；网络技术开发；网络系统及计算机系统集成；销售自产产品；提供技术服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）数字视频软件产品的研发、生产及集成；网络技术开发；网络系统及计算机系统集成；销售自产产品；提供技术服务。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>数字视频软件产品的研发、生产及宽带数据服务服务</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区后屯南路26号2层2</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区知春路23号量子银座第9层904、906-914室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100191</enterprise:有邮政编码>
+    <enterprise:有联系人>赵海京</enterprise:有联系人>
+    <enterprise:有联系电话>010-82351078转866</enterprise:有联系电话>
+    <enterprise:有传真电话>010-82351078转801</enterprise:有传真电话>
+    <enterprise:有E-mail>haijing@baustem.com</enterprise:有E-mail>
+    <enterprise:有网址>www.baustem.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京邦天信息技术有限公司（以下简称“
+公司”）于2008年3 
+月21日在北京市工商行政管理局朝阳分局注册
+成立，初始注册资本1818.00 
+万元，截至评级时点，公司注册资本2222.22
+万元，实缴出资金额2000.00万元，股东出资
+金额和持股情况分别为：详见附录二之表13。
+公司经营范围：“数字视频软件产品的研
+发、生产及集成；网络技术开发；网络系统及
+计算机系统集成；销售自产产品；提供技术服
+务。（企业依法自主选择经营项目，开展经营
+活动；依法须经批准的项目，经相关部门批准
+后依批准的内容开展经营活动；不得从事本市
+产业政策禁止和限制类项目的经营活动。）”
+。目前，公司主营业务为数字视频软件产品的
+研发、生产及宽带数据服务服务。
+截至2016年7月底，公司资产总额8872.60
+万元，固定资产净额61.35万元，所有者权益3
+864.98万元；2015年，公司实现营业收入3689.
+83万元，利润总额969.29万元。公司现有员工
+72人，在北京市属于小型企业。
+公司注册地址：北京市朝阳区关东店11号
+楼四层(呼家楼集中办公区1135号)；经营地址
+：北京市海淀区知春路23号量子银座第9层904
+、906-
+914室；法定代表人：lixiaoli(李晓荔)；统一社
+会信用代码：91110105672352906D；经营期
+限：自2008年3月21日至2033年3月20 日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京邦天信息技术有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质
+公司法定代表人、总经理李晓荔，硕士研
+究生学历，44岁，曾担任华诺信息技术有限公
+司技术副总裁、加拿大沃德实验室高级软件工
+程师，李晓荔女士在数字图像处理、数字机顶
+盒软件解决方案、嵌入式操作系统和条件接收
+方面取得了多项世界领先水平的核心技术，20
+08年创立公司，任公司总经理。
+公司副总经理杜聚龙，硕士研究生学历，
+51岁，曾担任北京华诺信息技术公司总经理，
+加拿大沃德实验室首席工程师，2008年加入公
+司，任公司副总经理。
+公司技术总监鲍海兵，本科学历，38岁，
+曾担任华诺信息技术有限责任公司研发经理，
+2008年加入公司，任公司技术总监。
+公司财务总监周立群，本科学历，44岁，
+曾担任北京华诺信息技术公司财务经理，2008
+年加入公司，任公司财务总监。
+总体看，公司高管人员学历水平高，从业
+经验丰富。
+截至评级时点，公司员工总数72人。
+从学历构成看，公司员工学历在本科及以
+上学历者61人，占比84.72%；专科学历者11人
+，占比15.28%，公司员工学历水平高。
+从年龄构成看，公司员工年龄在45岁以上
+者2人，占比2.78%；25~45岁者68人，占比94.
+44%；25岁以下者2人，占比2.78%，公司员工
+年龄结构呈现年轻化。
+从岗位构成看，公司作业人员15人，占比
+20.83%；技术人员53人，占比73.61%；管理
+人员4人，占比5.56%，公司岗位结构合理，符
+合公司的经营特点。
+总体看，公司员工学历水平高，年龄结构
+呈现年轻化，岗位结构合理。
+3．研发人员素质
+公司现有研发人员53人，均为本科及以上
+学历，研发人员学历水平高。
+公司主要研发人员艾本仁，34岁，硕士研
+究生学历，2008年加入公司，任公司研发部部
+门经理。
+公司主要研发人员陈毅平，34岁，硕士研
+究生学历，曾担任摩托罗拉（中国）技术有限
+公司移动事业部射频工程师、北京握奇数据系
+统有限公司副研究员，2012年加入公司，任公
+司硬件部经理。
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>近三年，公司研发投入为1135.34万元、1
+924.30万元、2165.20万元，分别占当年主营业
+务收入的47.10%、47.18%、58.68%，研发费
+用主要用于采购研发材料和研发人工支出。
+总体看，公司研发投入力度大，科研条件
+较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京邦天信息技术有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件
+公司经营地址位于北京市海淀区知春路23
+号量子银座第9层904、906-
+914室，为公司租赁，办公场所建筑面积1453.
+72平方米，该地交通便利，办公设备齐全。
+公司已成立8年，拥有“BAuStem”第42
+项商标，为中关村高新技术企业、国家高新技
+术企业。
+表 2  公司所获资质
+序
+资质名称
+号
+中关村高新技术企业证书
+1
+（编号：20152010778101；有效期至：2018年8月30日）
+国家高新技术企业证书　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+2
+（编号：GR201411000111；有效期至：2017年7月29日）
+北京市诚信创建企业
+3
+（编号：CX-2014-0089；有效期至：2016年12月7日）
+资料来源：公司提供，齐平有孚整理
+总体看，公司经营条件较好。
+2．业务运作
+公司主营业务为数字视频软件产品的研发
+、生产及宽带数据服务服务。公司通过自主销
+其中包括华为、海尔、创维、Panasonic等。目
+前公司主要产品有网络安全产品、家庭智能网
+关系统，公司与客户结算方式一般为：预付部
+分货款，验收后付全款。
+采购方面，公司主要采购iPanel 
+DVB终端中间件、安全控制系统终端模块等产
+品，主要供货商有深圳市茁壮网络股份有限公
+司、北京数码视讯软件技术发展有限公司、北
+京威扬科技有限公司等，采购周期均为以销定
+采，结算方式为预付30%货款，到货后付全款
+。
+总体看，公司经营状况良好，上下游渠道
+通畅。
+3．经营效率
+表3  公司近三年主要经营指标
+财务指标 2013年 2014年 2015年
+成本率(%) 196.01 97.98 83.72
+管理费用率(%) 72.65 56.55 42.03
+存货周转次数(次) 1.84 4.68 55.05
+应收账款周转次数(次) 10.38 6.36 2.48
+总资产周转次数(次) 0.95 0.76 0.59
+资料来源：公司提供，齐平有孚整理
+近三年，公司成本率呈下降趋势，但始终
+处于行业高水平；同期，公司管理费用呈下降
+趋势，公司研发投入力度较大，管理费用在成
+本费用总额中的占比较为合理。
+近三年，公司存货周转次数呈上升趋势，
+处于行业较高水平；同期，公司应收账款周转
+次数呈下降趋势，处于行业较低水平；同期，
+公司总资产周转次数呈下降趋势，处于行业一
+般水平。
+总体看，公司整体经营效率一般。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构
+为维护公司、股东和债权人的合法权益，
+规范公司的组织和行为，根据《中华人民共和
+国公司法》、《中华人民共和国证券法》及其
+公司制订《章程》。公司《章程》明确规定公
+司设立股东会及高级管理人员。
+公司股东会由全体股东组成，是公司的权
+力机构，行使决定公司的经营方针和投资计划
+等职权。
+公司设董事会，由股东会选举产生，主要
+负责召集股东会，并向股东会议报告工作、执
+行股东会协议等。
+公司不设监事会，设监事1人，由股东会
+选举产生，主要负责检查公司财务。
+公司实行总经理负责制，设总经理1名，
+由董事会决定聘任或者解聘，总经理负责公司
+日常的生产、经营、管理等工作。
+公司内部主要设有：运营部、项目管理部
+、信息管理部、产品部、研发部、测试部、营
+销部等部门。公司各部门职能分工明确，协作
+有序。
+公司拥有2家子公司，分别为：北京副邦
+天成信息技术有限公司、成都恒云世纪网络技
+术有限公司。
+总体看，公司法人治理结构简单，部门设
+置合理。
+2．制度建设及执行
+公司制定了《信息系统安全管理制度》、
+《人事行政制度》、《财务管理制度》等一系
+列管理制度。公司于2014年4月通过ISO 
+9001:2008《质量管理体系标准》认证，进一
+步规范了公司内部管理。
+总体看，公司制度建设较完善，可操作性
+强，制度执行情况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划
+根据齐平有孚数据预测规则，按照谨慎性
+原则，并结合公司近三年财务报告数据，齐平
+有孚预测公司2016年将实现营业收入4000.00
+万元，净利润1100.00万元；预计2016年底公
+司资产总额8132.95万元，负债总额4500.00万
+元，所有者权益3632.95万元。相比2015年，
+齐平有孚预计公司2016年营业收入增长8.41%
+，负债率变动幅度为-
+7.75%，净资产收益率变动幅度为1.25%。
+总体看，公司短期内经营向好。
+2．融资需求
+公司未来一年内计划从银行融资1000.00
+万元，主要用于补充流动资金，公司股东愿意
+做个人连带保证，同时股东也有可抵押资产。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京邦天信息技术有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为5078.33 
+万元、5600.02万元、6860.13万元，复合增长
+率为16.23%，主要得益于业务增长所致。
+截至2016年7月底，公司资产总额8872.60
+万元，其中：流动资产占比44.26%、固定资产
+净额占比55.74%。
+图 1  公司2016年7月底流动资产构成
+截至2016年7底，公司流动资产8872.60万
+元，主要为：货币资金15.29万元，占比0.39%
+为应收北京创维海通数字技术有限公司、成都
+长虹网络科技有限责任公司、深圳市同洲电子
+股份有限公司、北京宏天德美数码科技有限公
+司、北京歌华有限电视网络股份有限公司的货
+款，账龄多在1年以内；其他应收款1964.63万
+元，占比50.02%，为与成都恒云世纪网络技术
+有限公司、北京富邦天成信息技术有限公司的
+往来款，账龄在1年以内的占比18.00%、1-
+2年以内的占比82.00%。
+截至2016年7月底，公司非流动负债4945.
+24万元，其中：长期股权投资1200.00万元，
+占比24.27%，为对子公司的投资；固定资产61
+.35万元，占比1.24%，主要为电子设备及办公
+设备；无形资产266.63万元，占比5.39%，为
+软件著作权；开发支出3417.26万元，占比69.1
+0%。
+总体看，公司资产流动性一般，整体资产
+质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年7底，公司流
+动比率、速动比率分别为78.43%、76.51%，
+均处于行业低水平，公司短期偿债能力弱。
+从长期偿债能力看，2017年，公司EBITD
+A利息倍数13.83倍；债务保护倍数1.50倍，公
+司长期偿债能力一般。
+结合公司资产规模和债务结构看，公司整
+体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为43.28%、
+43.49%、63.08%，呈上升趋势； 
+同期全部债务资本化比分别为6.37%、10.59%
+、26.22%；2016年7月底，公司资产负债率为5
+6.44%，全部债务资本化比为25.39%，负债水
+平较高，有息债务压力一般。
+近三年，公司负债总额分别为2197.68 
+万元、2435.61万元、4327.18万元，复合增长
+率为40.32%。
+截至2016年7月底，公司负债总额5007.62
+万元，全部为流动负债，其中：短期借款1315
+.46万元，详情见表4；应付账款1900.14万元，
+主要为应付深圳市茁壮网络股份有限公司、北
+京威扬科技有限公司、北京数码视讯软件技术
+发展有限公司、成都华天阳科技有限公司、广
+东东研网络科技股份有限公司的货款，账龄均
+在1-
+2年以内；预收账款21.90万元，占比73.41%，
+主要为预收邦民商业保理有限公司的技术开发
+费，账龄在1-
+2年以内；其他应付账款5.06万元，占比16.96
+%，主要为应付北京市海淀区社会保险基金管
+理中心的社保费。
+表4 公司2016年7月底短期借款情况
+单位：万元
+贷款
+贷款 放款 还款 担保
+余额（万
+银行 日 日 方式
+元）
+民生银行
+抵押
+中关村支 496.98 2014-05-14 2019-05-14
+贷款
+行
+民生银行
+抵押
+中关村支 219.28 2015-06-10 2017-6-10
+贷款
+行
+招行银行
+抵押
+亚运村支 399.20 2014-01-10 2016-12-25
+贷款
+行
+招行银行
+抵押
+亚运村支 200.00 2016-5-9 2017-05-8
+贷款
+行
+资料来源：公司提供，齐平有孚整理
+近三年，公司所有者权益分别为2880.65 
+万元、3164.41万元、2532.95万元，呈下降趋
+势，复合变动率为-
+6.23%，2016年所有者权益有所减少，主要为
+股东减资所致。
+近三年，公司未进行利润分配。
+截至2016年7月底，公司所有者权益3864.
+98万元，其中：实收资本2000.00万元，占比5
+1.75；盈余公积181.07万元，占比4.68%；未分
+配利润1683.91万元，占比43.57%。
+总体看，公司负债水平较高，有息债务压
+力一般，所有者权益对债务保障能力弱。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为2410.25 
+万元、4078.69万元、3689.83万元，复合增长
+率为23.73%，随着公司销售力度的加大以及产
+品销售量的增加呈增长趋势；同期，公司利润
+总额分别为-
+1986.57万元、276.93万元、969.29万元，公司
+利润随营业收入增长而增加。
+近三年，公司主营业务利润率分别为75.9
+1%、61.64%、58.71%，加权平均值为63.03%
+，处于行业较高水平；同期，公司净资产收益
+率分别为-
+137.36%、9.39%、34.43%，加权平均值为-
+7.44%，处于行业低水平；同期，公司总资产
+报酬率分别为-
+78.20%、5.95%、17.23%，加权平均值为-
+5.24%，处于行业低水平，公司整体盈利能力
+有待提高。
+总体看，公司整体盈利能力有待提高。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京邦天信息技术有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，齐平有孚用通过在北京市
+企业信用信息网查询，未发现公司有行政处罚
+记录；通过在中国执行信息公开网查询，未发
+现公司有被执行记录；未发现公司有对外担保
+等或有负债；未发现公司有银行不良信贷记录
+。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策和行业风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险></enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>由于公司产品的供货时间受基础建设的进
+度影响较大，因此回款多以施工进度结算，周
+期相对较长，公司垫资压力较大。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京邦天信息技术有限公司2013年基本财务指标">
+    <enterprise:资产总额>5078.34 </enterprise:资产总额>
+    <enterprise:所有者权益>2880.65 </enterprise:所有者权益>
+    <enterprise:负债总额>2197.67 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2410.25 </enterprise:营业收入>
+    <enterprise:EBITDA>-1399.57 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京邦天信息技术有限公司2014年基本财务指标">
+    <enterprise:资产总额>5600.02 </enterprise:资产总额>
+    <enterprise:所有者权益>3164.41 </enterprise:所有者权益>
+    <enterprise:负债总额>2435.61 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>4078.69 </enterprise:营业收入>
+    <enterprise:EBITDA>877.93 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京邦天信息技术有限公司2015年基本财务指标">
+    <enterprise:资产总额>6860.12 </enterprise:资产总额>
+    <enterprise:所有者权益>2532.95 </enterprise:所有者权益>
+    <enterprise:负债总额>4327.19 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3689.83 </enterprise:营业收入>
+    <enterprise:EBITDA>1438.39 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京邦天信息技术有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.95 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>10.38 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.84 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京邦天信息技术有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.76 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.36 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.68 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京邦天信息技术有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.59 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.48 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>55.05 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京邦天信息技术有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>50.48 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京邦天信息技术有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0</enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>80.38 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京邦天信息技术有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>89.98 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京邦天信息技术有限公司2013年偿债能力指标">
+    <enterprise:流动比率>110.43 </enterprise:流动比率>
+    <enterprise:速动比率>82.94 </enterprise:速动比率>
+    <enterprise:资产负债率>43.28 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-1399.57 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京邦天信息技术有限公司2014年偿债能力指标">
+    <enterprise:流动比率>113.73 </enterprise:流动比率>
+    <enterprise:速动比率>111.86 </enterprise:速动比率>
+    <enterprise:资产负债率>43.49 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>21.41 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京邦天信息技术有限公司2015年偿债能力指标">
+    <enterprise:流动比率>95.72 </enterprise:流动比率>
+    <enterprise:速动比率>95.53 </enterprise:速动比率>
+    <enterprise:资产负债率>63.08 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>13.83 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京邦天信息技术有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>77.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>139.40 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>6.37 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京邦天信息技术有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>62.71 </enterprise:毛利率>
+    <enterprise:成本费用利润率>150.01 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>10.59 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京邦天信息技术有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>59.93 </enterprise:毛利率>
+    <enterprise:成本费用利润率>132.34 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>26.22 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京邦天信息技术有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>778.53 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>464.36 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>579.86 </enterprise:其他应收款>
+    <enterprise:存货>604.13 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2426.88 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>261.61 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>2381.65 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>8.20 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2651.46 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5078.34 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京邦天信息技术有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>492.40 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>819.05 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1413.03 </enterprise:其他应收款>
+    <enterprise:存货>45.62 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2770.10 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>163.91 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>1983.33 </enterprise:无形资产>
+    <enterprise:开发支出>667.66 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>15.02 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2829.92 </enterprise:非流动资产合计>
+    <enterprise:资产总计>5600.02 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京邦天信息技术有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>342.98 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2152.29 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>17.61 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1620.95 </enterprise:其他应收款>
+    <enterprise:存货>8.10 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4141.93 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>96.74 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>305.07 </enterprise:无形资产>
+    <enterprise:开发支出>2289.74 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>26.64 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>2718.19 </enterprise:非流动资产合计>
+    <enterprise:资产总计>6860.12 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京邦天信息技术有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>375.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1165.51 </enterprise:应付账款>
+    <enterprise:预收款项>65.84 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>129.29 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>118.59 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>581.38 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>2435.61 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2435.61 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3300.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1318.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>185.63 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1639.22 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3164.41 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3164.41 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5600.02 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京邦天信息技术有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>375.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1165.51 </enterprise:应付账款>
+    <enterprise:预收款项>65.84 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>129.29 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>118.59 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>581.38 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>2435.61 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2435.61 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3300.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>1318.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>185.63 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1639.22 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3164.41 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3164.41 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>5600.02 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京邦天信息技术有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>900.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1930.09 </enterprise:应付账款>
+    <enterprise:预收款项>176.18 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>103.96 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1216.96 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>4327.19 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>4327.19 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>532.95 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>2532.95 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>2532.95 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>6860.14 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京邦天信息技术有限公司2013年利润表">
+    <enterprise:营业收入>2410.25 </enterprise:营业收入>
+    <enterprise:主营业务收入>2410.25 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>554.40 </enterprise:营业成本>
+    <enterprise:主营业务成本>554.40 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>26.17 </enterprise:营业税金及附加>
+    <enterprise:销售费用>452.51 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>3432.40 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>254.66 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1118.39 </enterprise:营业利润>
+    <enterprise:营业外收入>331.36 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>3.93 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1445.82 </enterprise:利润总额>
+    <enterprise:所得税费用>-8.20 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1454.02 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1454.02 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京邦天信息技术有限公司2014年利润表">
+    <enterprise:营业收入>4078.69 </enterprise:营业收入>
+    <enterprise:主营业务收入>4078.69 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1521.06 </enterprise:营业成本>
+    <enterprise:主营业务成本>1521.06 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>43.66 </enterprise:营业税金及附加>
+    <enterprise:销售费用>79.39 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2259.68 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>46.86 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>45.50 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2342.22 </enterprise:营业利润>
+    <enterprise:营业外收入>194.40 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2536.62 </enterprise:利润总额>
+    <enterprise:所得税费用>-6.82 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2543.44 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2543.44 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京邦天信息技术有限公司2015年利润表">
+    <enterprise:营业收入>3689.83 </enterprise:营业收入>
+    <enterprise:主营业务收入>3689.83 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1478.63 </enterprise:营业成本>
+    <enterprise:主营业务成本>1478.63 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>44.73 </enterprise:营业税金及附加>
+    <enterprise:销售费用>64.73 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1298.20 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>125.32 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>77.44 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1898.98 </enterprise:营业利润>
+    <enterprise:营业外收入>370.43 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.93 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2267.48 </enterprise:利润总额>
+    <enterprise:所得税费用>-11.62 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2279.10 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2279.10 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京邦天信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京邦天信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京邦天信息技术有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京邦天信息技术有限公司被投资单位：北京副邦天成信息技术有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京副邦天成信息技术有限公司</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>200.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京邦天信息技术有限公司被投资单位：成都恒云世纪网络技术有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>成都恒云世纪网络技术有限公司</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>1000.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>—%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京邦天信息技术有限公司股东：北京邦天科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京邦天科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>900.00万元时间：2009-09-10</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>40.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京邦天信息技术有限公司股东：北京邦天投资管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京邦天投资管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>629.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>28.31%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京邦天信息技术有限公司股东：北京家世通广通讯设备有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京家世通广通讯设备有限公司 </enterprise:股东名称>
+	 <enterprise:货币>420.00万元时间：2015-12-31</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>18.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京邦天信息技术有限公司股东：华融天泽投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>华融天泽投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>222.222万元时间：2016-07-31</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>10.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京邦天信息技术有限公司股东：常州永宣资源股权投资基金管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>常州永宣资源股权投资基金管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>51.204万元时间：2015-12-31</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京邦天信息技术有限公司的商标信息：BAUSTEM">
+	<enterprise:有申请日期>09-11-24</enterprise:有申请日期>
+	<enterprise:有商标名称>BAUSTEM</enterprise:有商标名称>
+	<enterprise:有注册号>7856844</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京邦天信息技术有限公司的商标信息：BAUSTEM">
+	<enterprise:有申请日期>09-11-24</enterprise:有申请日期>
+	<enterprise:有商标名称>BAUSTEM</enterprise:有商标名称>
+	<enterprise:有注册号>7856845</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：支持多终端设备播放的连接设备">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>支持多终端设备播放的连接设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630383311.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304151061S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种多功能网关底座及包含其的网关组件">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多功能网关底座及包含其的网关组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621091077.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206212027U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种网络适配器">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网络适配器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621089206.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206211217U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种网关及包含其的网关组件">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种网关及包含其的网关组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621089150.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206212026U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种实现用户集合号的信息交互的方法及装置">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现用户集合号的信息交互的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610917855.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106656526A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种物联网IOT设备接入家庭网关的系统、装置和方法">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种物联网IOT设备接入家庭网关的系统、装置和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610876013.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106549836A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种实现播控业务的方法和装置">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现播控业务的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610941222.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106535005A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种电缆调制解调器终端系统以及报文传输方法">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电缆调制解调器终端系统以及报文传输方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610958106.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106533748A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：数据通讯装置">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据通讯装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620925828.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206022764U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种管理核心业务平台的方法和装置">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种管理核心业务平台的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610912489.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106506197A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种对物联网设备进行虚拟化的方法和装置">
+	<enterprise:有申请公布日>17-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对物联网设备进行虚拟化的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610839425.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106484544A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种提供服务的方法和装置">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提供服务的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610875545.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106452998A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种实现服务续播的方法、UPnP设备及系统">
+	<enterprise:有申请公布日>17-2-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现服务续播的方法、UPnP设备及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610812034.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106453255A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：智能插座面板">
+	<enterprise:有申请公布日>17-2-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能插座面板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630473027.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN304048142S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种部署业务的方法、装置和系统">
+	<enterprise:有申请公布日>17-2-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种部署业务的方法、装置和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610950699.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106412096A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种实现应用处理的方法、播放终端及系统">
+	<enterprise:有申请公布日>17-2-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现应用处理的方法、播放终端及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610839170.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106375813A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种数据服务保护方法和装置">
+	<enterprise:有申请公布日>17-1-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据服务保护方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610875534.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106339635A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种频道切换方法和装置、以及视频终端">
+	<enterprise:有申请公布日>17-1-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频道切换方法和装置、以及视频终端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610878858.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106341727A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种使智能设备支持多协议共存协作的装置及方法">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种使智能设备支持多协议共存协作的装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610839169.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106302523A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种同轴电缆宽带组网方法及网络系统">
+	<enterprise:有申请公布日>16-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种同轴电缆宽带组网方法及网络系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610676469.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106161160A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：发送系统、接收系统、媒体流合法性的识别方法和系统">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>发送系统、接收系统、媒体流合法性的识别方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010238653.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101902477B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：机顶盒及其实现设备和功能扩展的系统及方法">
+	<enterprise:有申请公布日>16-7-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>机顶盒及其实现设备和功能扩展的系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110362179.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103108220B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：获取直播图片元数据并刷新的方法及系统及转换设备">
+	<enterprise:有申请公布日>16-5-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>获取直播图片元数据并刷新的方法及系统及转换设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510969276.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105611327A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：嵌入式系统中资源分配方法和系统">
+	<enterprise:有申请公布日>13-8-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>嵌入式系统中资源分配方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210034222.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103257898A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：机顶盒及其实现设备和功能扩展的系统及方法">
+	<enterprise:有申请公布日>13-5-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>机顶盒及其实现设备和功能扩展的系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110362179.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103108220A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：发送系统、接收系统、媒体流合法性的识别方法和系统">
+	<enterprise:有申请公布日>10-12-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>发送系统、接收系统、媒体流合法性的识别方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010238653.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101902477A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：对单向网络中的接收终端进行合法性认证的方法及系统">
+	<enterprise:有申请公布日>10-10-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>对单向网络中的接收终端进行合法性认证的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610112978.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101145906B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京邦天信息技术有限公司的专利信息：一种实现广播网络条件接收的方法和系统">
+	<enterprise:有申请公布日>10-2-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现广播网络条件接收的方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200710062726.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN100588244C</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天网络终端授权软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天网络终端授权软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR393984</enterprise:有登记号>
+	<enterprise:有分类号>30109-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天IP机顶盒系统软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天IP机顶盒系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR393967</enterprise:有登记号>
+	<enterprise:有分类号>40000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天HMT网关平台软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天HMT网关平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR394015</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天机顶盒安全下载软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天机顶盒安全下载软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KeyLoader</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR394021</enterprise:有登记号>
+	<enterprise:有分类号>30104-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天VoIP网关软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天VoIP网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR394025</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天HMT-D3100 网关软件">
+	<enterprise:有批准日期>16-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天HMT-D3100 网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR394033</enterprise:有登记号>
+	<enterprise:有分类号>40000-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天宽带接入家庭网关软件">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天宽带接入家庭网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181795</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天有线电视网络家庭网关软件">
+	<enterprise:有批准日期>14-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天有线电视网络家庭网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR182707</enterprise:有登记号>
+	<enterprise:有分类号>10400-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天有线网络信号采集和监控软件">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天有线网络信号采集和监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181779</enterprise:有登记号>
+	<enterprise:有分类号>30000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：网络终端授权软件">
+	<enterprise:有批准日期>14-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>网络终端授权软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR183698</enterprise:有登记号>
+	<enterprise:有分类号>30000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天家庭网关网元管理软件">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天家庭网关网元管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181767</enterprise:有登记号>
+	<enterprise:有分类号>30000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：集成广电安全认证系统">
+	<enterprise:有批准日期>14-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>集成广电安全认证系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KeyMatrix-CA</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR182525</enterprise:有登记号>
+	<enterprise:有分类号>30000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：机顶盒安全下载软件">
+	<enterprise:有批准日期>13-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>机顶盒安全下载软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KeyLoader</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR029478</enterprise:有登记号>
+	<enterprise:有分类号>10102-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：家庭网络系统软件">
+	<enterprise:有批准日期>11-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>家庭网络系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR068363</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：MPE数据转发软件">
+	<enterprise:有批准日期>11-9-29</enterprise:有批准日期>
+	<enterprise:有软件全称>MPE数据转发软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR070934</enterprise:有登记号>
+	<enterprise:有分类号>30104-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：WIFI AP软件">
+	<enterprise:有批准日期>11-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>WIFI AP软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR068362</enterprise:有登记号>
+	<enterprise:有分类号>30104-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：家庭多业务终端网关软件">
+	<enterprise:有批准日期>11-9-15</enterprise:有批准日期>
+	<enterprise:有软件全称>家庭多业务终端网关软件</enterprise:有软件全称>
+	<enterprise:有软件简称>HMT GW</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR066219</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：家庭多业务终端网管软件">
+	<enterprise:有批准日期>11-9-15</enterprise:有批准日期>
+	<enterprise:有软件全称>家庭多业务终端网管软件</enterprise:有软件全称>
+	<enterprise:有软件简称>HMT NM</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR066221</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天加密签名软件">
+	<enterprise:有批准日期>14-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天加密签名软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR181935</enterprise:有登记号>
+	<enterprise:有分类号>30000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：数字签名校验软件">
+	<enterprise:有批准日期>10-8-4</enterprise:有批准日期>
+	<enterprise:有软件全称>数字签名校验软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ3569</enterprise:有登记号>
+	<enterprise:有分类号>68000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：双向高清多业务终端软件">
+	<enterprise:有批准日期>10-8-4</enterprise:有批准日期>
+	<enterprise:有软件全称>双向高清多业务终端软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ3568</enterprise:有登记号>
+	<enterprise:有分类号>67500-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：VOIP语音电话软件">
+	<enterprise:有批准日期>10-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>VOIP语音电话软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014788</enterprise:有登记号>
+	<enterprise:有分类号>67500-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：终端安全证书软件">
+	<enterprise:有批准日期>10-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>终端安全证书软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014787</enterprise:有登记号>
+	<enterprise:有分类号>68000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：SNMP应用设备网络管理软件">
+	<enterprise:有批准日期>10-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>SNMP应用设备网络管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SR014789</enterprise:有登记号>
+	<enterprise:有分类号>67500-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：邦天加密签名软件">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>邦天加密签名软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056915</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：交互式机顶盒应用软件">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>交互式机顶盒应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056919</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：网络终端授权软件">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>网络终端授权软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056921</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：机顶盒安全下载软件">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>机顶盒安全下载软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BEL</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056917</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：KeyMatrix网管软件系统">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>KeyMatrix网管软件系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056918</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：机顶盒应用软件">
+	<enterprise:有批准日期>09-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>机顶盒应用软件</enterprise:有软件全称>
+	<enterprise:有软件简称>BAS</enterprise:有软件简称>
+	<enterprise:有登记号>2009SR056923</enterprise:有登记号>
+	<enterprise:有分类号>11000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：CableGuard条件接入系统 V1.0">
+	<enterprise:有批准日期>08-7-31</enterprise:有批准日期>
+	<enterprise:有软件全称>CableGuard条件接入系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ2382</enterprise:有登记号>
+	<enterprise:有分类号>68000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：集成广电安全认证系统 [简称: KeyMatrix-CA] V2.0">
+	<enterprise:有批准日期>08-7-18</enterprise:有批准日期>
+	<enterprise:有软件全称>集成广电安全认证系统 [简称: KeyMatrix-CA] V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR13737</enterprise:有登记号>
+	<enterprise:有分类号>65000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京邦天信息技术有限公司的软件著作：机顶盒管理系统 V1.0 [简称: KeyMatrix-BM]">
+	<enterprise:有批准日期>08-7-18</enterprise:有批准日期>
+	<enterprise:有软件全称>机顶盒管理系统 V1.0 [简称: KeyMatrix-BM]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR13738</enterprise:有登记号>
+	<enterprise:有分类号>65000-8900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京邦天信息技术有限公司的网站备案：北京邦天信息技术有限公司">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>北京邦天信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.baustem.net</enterprise:有网站首页>
+	<enterprise:有域名>baustem.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12004252号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京邦天信息技术有限公司的网站备案：北京邦天信息技术有限公司">
+	<enterprise:有审核时间>15-11-30</enterprise:有审核时间>
+	<enterprise:有网站全称>北京邦天信息技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.baustem.com</enterprise:有网站首页>
+	<enterprise:有域名>baustem.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12004252号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京邦天信息技术有限公司的员工基本信息">
+	<enterprise:有从业人数>72</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:68,25岁以下:2,45岁以上:2</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:61,高中及以下:0,专科:11</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:4,技术人员:53,作业人员:15</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:70人,未参加:2人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京邦天信息技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京邦天信息技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>四川长虹网络科技有限责任公司、成都长虹网络科技有限责任公司、北京创维
+海通数字技术有限公司、北京宏天德美数码科技有限公司、深圳市同洲电子股
+份有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况>较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京邦天信息技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京邦天信息技术有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京邦天信息技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京邦天信息技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京邦天信息技术有限公司的企业法人代表：李晓荔">
+	<enterprise:名称>李晓荔</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>44</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>—</enterprise:出生年月>
+	<enterprise:身份证号码>GA383714</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>研究生</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2004年2月-2009年8月 北京邦天科技有限公司 总经理
+1999年5月-2004年1月 北京华诺信息技术有限公司 技术副总
+起止日期 在何地区何部门 任何职务
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京邦天信息技术有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京邦天信息技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>-无</enterprise:欠税信息>
+	<enterprise:有其它信息>-无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（17%）；城建税（5%）；教育及附加（3%）；地方教育及附加（2%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>301万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>225万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京邦天信息技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>原料（高线）</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>厂家、经销商</enterprise:有供应商类型>
+	<enterprise:有交易地位>平等</enterprise:有交易地位>
+	<enterprise:有议价能力>较好</enterprise:有议价能力>
+	<enterprise:有延期支付>按合同约定</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>-</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>-</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京邦天信息技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经查，暂无涉诉信息</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经查，暂无违规信息</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>-</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经查，暂无负面信息</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京邦天信息技术有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>4000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京邦天信息技术有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>1100.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京邦天信息技术有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京邦天信息技术有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京邦天信息技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>8</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>7</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京邦天信息技术有限公司的专利数量">
+	<enterprise:专利总计>2</enterprise:专利总计>
+	<enterprise:专利数量2013>2</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京邦天信息技术有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京邦天信息技术有限公司的网站备案数量">
+	<enterprise:网站备案总计>2</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>2</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

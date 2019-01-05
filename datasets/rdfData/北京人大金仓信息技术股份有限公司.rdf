@@ -1,0 +1,2407 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京人大金仓信息技术股份有限公司的企业概况">
+    <enterprise:有名称>北京人大金仓信息技术股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商局行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>110108717712101</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行北京双榆树支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1999-06-30</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发；技术转让；技术咨询；计算机技术培训；技术服务；经济信息咨询；承接计算机网络工程；销售开发后的产品、计算机软硬件及外围设备、机械电器设备、办公设备、电子元器件。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发；技术转让；技术咨询；计算机技术培训；技术服务；经济信息咨询；承接计算机网络工程；销售开发后的产品、计算机软硬件及外围设备、机械电器设备、办公设备、电子元器件。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>数据库开发</enterprise:有主营业务>
+    <enterprise:有行业分类>软件和信息技术服务业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地西路8号院4号楼601室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地西路8号院4号楼601室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100010</enterprise:有邮政编码>
+    <enterprise:有联系人>李新影</enterprise:有联系人>
+    <enterprise:有联系电话>18701621002</enterprise:有联系电话>
+    <enterprise:有传真电话>58851900</enterprise:有传真电话>
+    <enterprise:有E-mail>lixinying@kingbase.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.kingbase.com,.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京人大金仓信息技术股份有限公司（以
+下简称“人大金仓”或“公司”）于1999年6月
+30日注册成立，初始注册资本53万元，后经数
+次增资与股权变更，公司最新注册资本为6950
+万元，最新股权结构如表1所示：
+表1：公司最新股权结构
+出资金额（万元
+股东名称 比例（%）
+）
+普华基础软件股份
+3140.01 45.18
+有限公司
+太极计算机股份有
+2275.49 32.74
+限公司
+中关村科技园区海
+334.50 4.81
+淀园创业服务中心
+人大世纪科技发展
+221.90 3.19
+有限公司
+王珊等29名自然人 978.10 14.08
+合计 6950.00 100.00
+数据来源：公司提供
+公司是一家从事软件开发及信息服务的
+专业企业。公司致力于研发和销售具有自主
+知识产权的数据库管理系统，其主要产品包
+括金仓数据库KingbaseES、金仓商业智能平
+台系列产品、嵌入式数据库管理系统等，并
+在此基础上推出了数据库行业应用解决方案
+等服务。
+公司股东普华基础软件股份有限公司（
+以下简称“普华”）成立于2008年10月20日
+，是中国电子科技集团公司下属一级公司，
+专注于国产基础软件产品研发和产业化工作
+。
+公司股东太极计算机股份有限公司（以
+下简称“太极股份”，股份代码002368）始
+创于1987年。在2010年太极股份在深圳证券
+交易所中小板上市，现为中国电子科技集团
+公司的旗下企业。太极股份是我国重大信息
+系统总体设计和工程建设的主要承担企业，
+也是国内政务、金融、能源、制造、公共事
+业等行业信息化建设的领先企业。
+目前公司旗下拥有两家子公司以及一家
+参股公司，其详细信息如下表所示：
+表2：公司对外投资情况
+注册资本（万元
+公司名称 持有比例（%）
+）
+广州思迈特软
+1020.00 60.00
+件有限公司
+金仓数据库（
+上海）有限公 1200.00 100.00
+司
+北京核高基软
+150.00 33.34
+件有限公司
+数据来源：公司提供
+截至2015年末，公司资产总额20479.45万
+元，负债总额4610.95万元，资产负债率22.52%
+。当年公司实现营业收入8067.99万元，利润总
+额212.36万元。
+截至2016年4月末，公司资产总额20663.07
+万元，负债总额5652.52万元，资产负债率27.3
+6%。2016年1-
+4月公司实现累计营业收入1013.04万元，利润
+总额-857.93万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京人大金仓信息技术股份有限公司的基础素质">
+    <enterprise:有管理素质>公司主要管理者均为创始人，其管理层相
+对稳定，主要高管信息如下所示：
+任永杰，公司总裁，高级工程师。北京大
+学计算机系理学学士, 
+中国人民大学信息系工学硕士，香港中文大学
+系统工程与工程管理学系博士。曾获得北京市
+科技进步一等奖（2005年度，排名第三），海
+淀区有突出贡献专家（2007年），中国软件网
+中国软件行业领军人物（2007年），先后在国
+际期刊、会议和国内主要刊物上发表论文二十
+余篇；其主持的科研项目包括：国家863“数据
+库管理系统及其应用”重大专项课题“通用数
+据库管理系统KingbaseES 
+V2.0研发”课题组长（2002-
+2003）、国家863“数据库管理系统及其应用”
+重大专项课题“通用数据库管理系统KingbaseE
+S V4.0研发及其应用”课题组长（2003-
+2004）、国家863“数据库管理系统及其应用”
+重大专项课题“国产数据库应用于防汛抗旱指
+挥系统关键技术研究”主要负责人（2004-
+2005）、国家人事部留学回国人员科研择优资
+助项目（2004）、国家863数据库管理系统及其
+应用重大专项课题“通用数据库管理系统Kingb
+ase V6.0研发及应用”课题组长（2005）等。
+李祥凯，公司副总裁，硕士，17年相关从
+业经验。1997年开始在中科院软件研究所从事
+操作系统及其运行环境相关的研究工作，于199
+8年开发出第一个完全符合国际化和本地化标准
+的SCO 
+Unix平台下的炎黄中文平台，1999年加入中科
+红旗从事Linux的研发工作，先后担任平台研发
+部经理、高级经理、研发总监、技术副总裁等
+职位，2008年担任由中科红旗、人大金仓和东
+方通公司共同合资成立的长风联盟基础软件联
+合实验室总经理一职，2010年进入人大金仓，
+主管技术平台工作，同年被中国人民大学聘为
+硕士研究生导师；曾先后获得北京市科学技术
+二等奖，电子政务信息安全标准优秀应用案例
+二等奖，中国电子工业标准化技术协会高性能
+计算机标准化工作委员会联络员等荣誉。
+王建华，项目管理办公室总监，高级系统
+分析师，11年相关从业经验。2003年加入人大
+金仓研发中心，主要负责会商系统向KingbaseE
+S的移植工作，参与了KingbaseES 
+V3.1、V4.1、V5.0、V5.1 
+、V6、V7等多个版本的研发工作，并负责若干K
+ingbaseES应用项目的技术支持，包括超图Supe
+rMap、中联部电子政务平台系统、中组部《中
+国共产党基本信息管理系统2005》（简称《系
+统2005》）、《系统2005（网络版）》，主要
+解决了应用接口的问题和进行应用系统性能调
+优。
+总体来看，公司主要管理人员素质较高，
+具有多年相关从业经验和管理经验，能够满足
+现有业务发展的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>公司现有员工225人，其中技术和研发人员
+共计147人，其中多数均为计算机软件相关专业
+的硕士或博士，具备良好的教育背景和丰富的
+数据库产品研发经验，其中核心研发人员信息
+如下所示：
+王珊，公司首席科学家，教授，41年相关
+从业经验。王珊教授是我国数据工程与知识工
+程学科的主要开创者以及人大金仓创始人之一
+，在国际国内相关学科领域具有重要学术地位
+，已出版数据库方向的著作二十余本，发表论
+文百余篇；负责和主持了“七五”、“八五”
+、“九五"国家科技攻关项目、863高科技计划
+项目、国家自然科学基金项目等20多项数据库
+研发项目；获得国家科技进步二等奖一次，电
+子部科技进步特等奖一次，北京市科技进步二
+等奖两次，教育部科技进步奖一次；曾获香港
+柏宁顿(中国)教育基金会孺子牛金球奖、吴玉
+章教学奖、北京市优秀教师称号和全国优秀教
+师称号；1999年荣获全国“五一劳动奖章”、
+“首都劳动奖章”。
+冯玉，公司技术平台总工程师，博士，高
+级系统分析师，18年相关从业经验。毕业后在
+中国人民大学担任硕士研究生导师，期间作为
+骨干参与了多项国家“863”计划课题、国家自
+然科学基金项目，对数据库管理系统、数据仓
+库、数据挖掘等方面的问题进行了深入研究，
+在国际、国内重要学术刊物上发表论文数篇，
+并参与多个原型系统的研制；参加的项目包括
+国家“八五”、“九五”重点攻关项目“国产
+数据库管理系统（COBASE）”、国家自然科学
+基金和“863计划”高技术项目“并行数据库系
+统技术研究”、中国人民大学青年基金项目“
+基于数据仓库的数据挖掘技术研究”、国家自
+然科学基金项目“数据仓库系统技术研究”等
+，其中，“并行数据库和知识库系统”项目获
+得北京市科技进步二等奖；2002年加入人大金
+仓后作为骨干参与了国家“863”计划高技术项
+目“通用数据库管理系统Kingbase ES 
+V2.0研发”、国家‘863’高技术项目“通用数
+据库管理系统Kingbase ES 
+V4.0研发”、国家‘863’高技术项目“通用数
+据库管理系统Kingbase ES 
+V6.0研发”、核高基重大专项“大型通用数据
+库管理系统与套件研发及产业化”等重大项目
+的研发；曾获得北京市科学技术奖一等奖。
+白芸，解决方案中心总监，高级系统分析
+师，11年相关从业经验。2003年硕士研究生毕
+业后加入人大金仓研发中心，主要负责以下研
+发任务：参与KingbaseES V4.0项目，负责OLE 
+DB的设计实现；参与KingbaseES 
+V4.1项目，负责应用接口组，在指导ODBC、JDB
+C开发的同时，负责OLE 
+DB的开发；参与KingbaseES V4.1 
+单机版项目，设计实现数据库服务器对共享内
+存通讯的支持，同时指导ODBC、JDBC、OLE 
+DB等应用接口对共享内存通讯的支持；参与Kin
+gbaseES 
+V5.1项目，实现若干数据库服务器的功能，同
+时指导ODBC、JDBC OLE 
+DB等应用接口5.1版本的开发；参与KingbaseES 
+V6.1项目，指导ODBC、JDBC OLE 
+DB等应用接口6.1版本的开发。
+总体来看，公司目前技术团队整体实力较
+强，技术经验丰富，能够满足企业现有业务的
+需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司与中国人民大学信息学院合作建立了
+教育部数据工程与知识工程重点实验室和教育
+部数据库与商务智能工程研究中心，双方还建
+立了双向人才机制。公司拥有近2000平米的办
+公场所，拥有大中型服务器50多台套，大型存
+储设备10余套，各类台式机、笔记本近500套；
+建有符合国家标准的计算机房，拥有完善的网
+络等硬件基础设施。公司经过多年的建设，拥
+有各类开发工具，以及用于数据库测试及验证
+的大型软件；拥有Tpc系列性能测试工具，可以
+进行数据库性能测试；围绕安全技术，购买了
+数据库漏洞检测工具、代码检查工具等数据库
+安全相关的研发、测试工具，具有高水平的数
+据库安全验证、检测能力。在管理方面，公司
+遵循ISO系列标准规范，公司研发过程通过了CM
+M2，配备有版本管理、Bug管理、过程管理等相
+关管理软件，确保软件研发过程及质量满足较
+高标准。
+公司在成立之初，就十分重视高级工程师
+的招募和培养，每年在研发费用当中都保持了
+相对较高的投入比例。
+表4：公司研发投入情况（万元）
+年份 研发投入 营业收入 比例
+2013年 1015.64 7131.13 14.24%
+2014年 1150.88 8657.74 13.29%
+2015年 1093.40 8067.99 13.55%
+合   计 3259.92 23856.86 -
+数据来源：公司提供
+公司与中国人民大学的战略合作关系以及
+完整的硬件设施配备对提高公司的研发能力、
+确保项目的顺利进行起到了正面作用。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京人大金仓信息技术股份有限公司的经营管理">
+    <enterprise:其经营分析为>公司主要从事数据库软件的研发与销售业
+务，同时以此为基础不断开发新产品
+公司作为本土数据库行业龙头企业之一，
+主要产品包括金仓企业级通用数据库、金仓安
+全数据库、金仓商业智能平台、金仓数据整合
+工具、金仓复制服务器等，覆盖数据库、安全
+、商业智能、云计算、嵌入式和应用服务等领
+域，在高性能、分布式处理、并行处理、海量
+数据管理、数据库安全、数据分析展现等数据
+库相关技术方面有较强优势。
+公司的核心产品是具有自主知识产权的企
+业级通用数据库KingbaseES,是可替代Oracle的
+大型通用关系型数据库。
+金仓数据库KingbaseES获得2005年度北京
+市科技进步一等奖、2012年度北京市科技进步
+二等奖。产品已列入原信息产业部《政府使用
+正版软件产品推荐目录》。2009年，金仓数据
+库成为入选首批国家自主创新产品目录的唯一
+数据库产品，并入选北京市自主创新产品目录
+。此外，金仓数据库还入选北京市和中关村科
+技园区自主创新产品目录。金仓数据库SQL语言
+标准全面超过国外主流产品，TPC-C/TPC-
+W性能指标与国外主流产品相当，并获得公安部
+计算机信息系统安全专用产品销售许可证。
+和国内同类产品相比，KingbaseES在产品
+与技术创新、产品成熟度以及市场占有率等方
+面有一定优势；和国外同类产品相比，金仓数
+据库KingbaseES已基本具备国外主流数据库产
+品的功能，在兼容性、标准符合性和安全特性
+等方面超过国外产品，在一定程度上打破了国
+外产品在我国数据库市场上的垄断。
+同时，公司其他产品还有：Kingbase 
+DI、Kingbase SmartBI、KingbaseDBCloud。
+其中，KingbaseDBCloud是人大金仓突破创
+新的数据库集群，是面向PB级海量数据存储管
+理与处理的大型数据支撑平台，能够支撑复杂
+的OLTP+OLAP（联机事务处理+联机分析处理）
+综合业务场景，降低系统拥有成本，可适用于
+下一代云数据库方案。KingbaseDBCloud拥有强
+大的负载均衡及在线动态扩展能力，结点可按
+需要扩展；故障切换时间短，故障结点自动切
+换保障系统的高可用性和高可靠性。
+Kingbase 
+DI打破各数据源间的壁垒，实现数据的标准化
+；KingbaseES将标准化的数据构建成Database
+；Kingbase 
+SmartBI则实现基于数据库的各种应用；Kingba
+seDBCloud实现数据库的集成和交互；金仓数据
+家族以“数据”为核心，集数据存储、管理、
+集成、分析、展示于一体，丰富了客户的用户
+体验，较好的挖掘了数据的价值。在金仓数据
+家族的基础上，公司还提供产品、企业集团和
+行业的整体数据解决方案。
+总体来看，公司产品具有较强的先进性，
+尤其在安全性方面强于本土市场同类国外产品
+，对产品的竞争力起到了较强的支撑作用。此
+外，公司产品可为客户量身订制，本土化服务
+性较强。  
+图3：公司近三年主营业务收入（万元
+）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年，公司分别实现主营业务收入7131.13万
+元、8657.74万元、8067.99万元，收入规模具
+有一定波动。
+公司客户主要集中在国内政府和军队等领
+域，稳定性较强；同时公司也在积极拓展市场
+，不断向电力、电信等行业发展
+公司销售渠道分为直销和分销两种模式，
+未来将大力拓展分销渠道。公司直销是针对政
+府、军队以及各大行业的大客户销售。公司的
+分销渠道则主要是和系统集成商（SI）、独立
+软件开发商（ISV），独立硬件供应商（IHV）
+签署战略合作协议，相互捆绑销售。
+公司客户主要集中在政府和军队。已使用
+公司产品的客户有：中国人民解放军总装备部
+、总参谋部、总后勤部、第二炮兵，中共中央
+组织部、统战部，中华人民共和国最高人民法
+院、最高人民检察院、公安部、卫生部、审计
+署、农业部、水利部、国家档案局，国家保密
+局，北京市人民政府等等。公司数据库产品独
+特的用户体验、不断升级的产品以及政府军队
+机构不轻易更换基础软件系统的特性使得公司
+产品有很强的客户黏性。公司稳固的销售渠道
+，有利于公司主营业务收入的稳定。
+表7：2015年前五大销售客户信息
+金额（万元 比例（%
+名称
+） ）
+国家电网各省市电力公 444.96 5.52
+司
+北京动力天下科技发展
+265.41 3.29
+有限公司  
+北京中视裕华医疗科技
+260.00 3.22
+有限公司
+中国人民解放军装备学
+209.69 2.60
+院 
+青岛市电子政务和信息
+100.00 1.24
+资源管理办公室
+合计 1280.06 15.87
+数据来源：公司提供，东方金诚整理
+另外，公司正在探索电力、电信、金融、
+教育、卫生医疗等行业的应用市场，通过大数
+据服务，在民用领域获取一定的市场份额。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司管理制度较为完善，能够满足现有业
+务发展的需要
+公司实行董事会领导下的总经理负责制。
+总经理负责公司总体目标的确定、实施与协调
+分工，技术总监负责公司技术管理、产品项目
+的实现以及公司技术发展战略的制定等。成立
+渠道部，强化合作伙伴开拓与管理；合并客户
+服务部、应用解决方案部和嵌入式产品部，成
+立运营平台下的技术部，强化整体解决方案能
+力和售前支持，采取稳健策略，根据市场和销
+售情况，逐步建立和壮大“数据处理与数据分
+析一体化”平台解决方案和服务的交付实施团
+队。
+总体来看，目前公司组织结构设置合理，
+管理制度较为完善，能够满足现有业务发展的
+需要。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>出于安全性优势，国产数据库软件在国内
+党政军领域依然处于优势地位；在民用市场，
+国际数据库服务商依然占据优势
+由于国家信息化建设的需求，电子政务正
+处于深化应用阶段，对数据的开发利用将成为
+新的方向，这样就给国产数据库发展带来非常
+好的市场机会。特别是由于政府、能源等关键
+行业比较注重信息安全保障，因此国产数据库
+软件获得政府青睐。经过十多年发展，国产数
+据库在技术研发方面取得了长足进步，产品日
+趋成熟。与国外数据库软件相比，国产数据库
+企业借助安全、本土化优势已在政府、电力等
+局部领域击败国外竞争对手。
+在民用数据库领域，国产数据库厂商因为
+起步晚，导致目前只能在夹缝中生存的不利局
+面。从2013年-
+2015年，国际数据库软件服务商在国内的市场
+份额由80.1%上升至89.9%，我国本土企业无论
+是在技术方面还是在品牌上都处于劣势地位。
+财务分析
+公司提供了2013-
+2016年4月的财务报表，其中，2013-
+2015年财务报表经众环海华会计师事务所（特
+殊普通合伙）审计，并均出具了标准无保留意
+见的审计报告，2016年1-
+4月的财务报表未经审计。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京人大金仓信息技术股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+2013-
+2015年末，公司资产总额分别为19808.44万元
+、18588.18万元、20479.45万元，增长幅度近
+两年分别为-
+6.16%、10.17%，资产规模存总体上略有一定波
+动。
+图4：公司近三年资产构成（万元）
+数据来源：公司提供，东方金诚整理
+从资产结构变化看，2013-
+2015年末，公司流动资产分别为12849.58万元
+、11116.31万元、11854.17万元，增长幅度近
+两年分别为-
+13.49%、6.64%；非流动资产分别为6958.86万
+元、7471.87万元、8625.28万元，增长幅度近
+两年分别为7.37%、15.44%。截至2015年末，公
+司流动资产为11854.17万元，非流动资产为862
+5.28万元，分别占资产总额的57.88%和42.12%
+，流动资产占主要部分。
+图5：公司近三年流动资产构成（万元
+）
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司货币资金、应收账款
+、其他应收款、预付账款、存货分别占流动资
+产的11.87%、21.83%、1.09%、0.16%、65.06%
+，其中存货占有较大比重。
+图6：公司最近一年流动资产构成
+数据来源：公司提供，东方金诚整理
+截至2015年末，公司存货的期末余额为771
+2.67万元，较去年同期增长9.4%，公司存货主
+要包括：自制半成品及在产品、库存商品（产
+成品），其主要源于业务的需求而对外采购的
+软硬件产品、以及公司本身所提供的数据库软
+件等，在项目完工时才能确认收入。
+截至2015年末，公司长期股权投资、固定
+资产、无形资产、其他分别占非流动资产的0.4
+5%、16.13%、82.23%、1.19%，其中无形资产占
+有较大比重。
+截至2015年末，公司无形资产账面价值为7
+092.78万元，较去年同期增长25.02%，公司无
+形资产主要包括：专利权、非专利技术、著作
+权等，其分别占无形资产总额的0.02%、2.53%
+、97.45%。
+表8：公司近两年资产运营状况
+2015年
+项  目 2014年 2015年
+行业均值
+应收账款周转率 5.20 4.03 5.80
+存货周转率 0.86 0.66 14.50
+流动资产周转率 0.72 0.70 2.50
+总资产周转率 0.45 0.41 1.20
+数据来源：公司提供，东方金诚整理
+从运营效率来看，2015年各项运营指标较
+去年同期有所降低，且低于行业平均水平。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年末，公司总负债分别为4870.09万元、28
+67.54万元、4610.95万元，最近两年的增长幅
+度分别为-
+41.12%、60.80%，总体波动幅度较大。
+表11：公司近三年负债结构
+2015年
+项  目 2013年 2014年 2015年
+行业均值
+资产负债率（%
+24.59 15.43 22.52 65.00
+）
+全部资本化比率
+10.75 5.98 10.19 0
+（%）
+4870.0 2867.5 4610.9
+总负债（万元） -
+9 4 5
+短期借款（万元 1800.0 1000.0 1800.0
+-
+） 0 0 0
+长期借款（万元
+0.00 0.00 0.00 -
+）
+数据来源：公司提供，东方金诚整理
+从负债结构看，公司流动负债、长期负债
+分别为3252.74万元、1358.21万元，分别占总
+负债的70.54%、29.46%，表明公司目前的负债
+结构主要以流动负债为主。流动负债中，短期
+借款、应付账款、其他应付款、预收款项所占
+的比例分别为55.34%、28.05%、1.64%、3.57%
+，其中短期借款为主要部分；长期负债中，以
+其他非流动负债为主。
+截至2015年末，公司短期借款余额1800万
+元，主要从招商银行上地支行取得，其借款利
+率上浮20%-40%，期限均为1年。
+截至2015年末，公司其他非流动负债期末
+余额为1358.21万元，其主要为递延性质，与政
+府补助相关。
+2013-
+2015年末，公司流动比率分别为4.11、7.59、3
+.64，速动比率分别为2.30、2.78、1.27，公司
+最新年度的速动比率处于行业一般水平。目前
+，公司经营现金净流量与流动负债的比例分别
+为-12.89%、-
+64.71%、10.29%，近年公司经营性现金净流量
+水平相对较低，难以对流动负债进行有效覆盖
+。综合考虑到公司盈利能力有所减弱，且存在
+在一定额度短期借款，同时其负债结构以流动
+性负债为主，公司短期内存在一定短期支付压
+力。
+表12：公司近三年主要偿债指标
+2015年
+项  目 2013年 2014年 2015年 行业均
+值
+流动比率 4.11 7.59 3.64 -
+速动比率 2.30 2.78 1.27 87.50
+经营活动产生
+的现金净流量/ -12.89 -64.71 10.29 -
+流动负债（%）
+利息保障倍数 13.45 16.42 3.21 -
+EBITDA利息倍数 13.45 16.42 3.21 -
+总债务/EBITDA 2.04 1.16 5.84 -
+经营活动产生
+的现金净流量/ -22.37 -94.79 18.59 -
+总债务（%）
+经营活动产生
+的现金净流量/ -8.27 -33.06 7.26 -
+总负债（%）
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司资产负债率分别为24.59%、15.
+43%、22.52%，其负整体负债水平相对较低。综
+合考虑公司整体经营趋势向好，且非流动性负
+债规模较低等因素，公司长期偿债压力小。
+截至报告期，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>未来公司资金来源除自身正常经营产生的
+净现金流之外，还具有或可获得以下的资金来
+源：
+一、近年国家出台了针对中小企业、四技
+企业的税收和融资扶持政策。同时中关村科技
+园区对区内企业的融资也出台了相应的管理办
+法，在补贴利息及担保费方面均制订了优惠政
+策，公司在获得外部融资及补贴方面具有有利
+条件。
+二、公司资产相对优良，能够从银行等金
+融机构获得资金支持，目前，公司从招商银行
+获得短期借款1800万元。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年末，公司分别实现营业收入7131.13万元
+、8657.74万元、8067.99万元，最近两年的增
+长幅度分别为21.41%、-
+6.81%，其营业收入具有一定波动。
+2013-
+2015年末，公司营业成本分别为4611.58万元、
+5488.46万元、4848.27万元，增长幅度分别为1
+9.01%、-
+11.66%，其变化趋势与营业收入相仿。近三年
+公司毛利率分别为35.33%、36.61%、39.91%，
+有一定程度上涨。
+表9：公司盈利能力主要指标（一）
+项  目 2013年 2014年 2015年
+营业收入（万元
+7131.13 8657.74 8067.99
+）
+营业成本（万元
+4611.58 5488.46 4848.27
+）
+利润总额（万元
+816.90 811.75 212.36
+）
+净利润（万元） 721.77 782.27 147.84
+数据来源：公司提供，东方金诚整理
+2013-
+2015年末，公司期间费用分别为6914.72万元、
+3112.62万元、3677.32万元，占营业收入的比
+重分别为96.97%、35.95%、45.48%，公司期间
+费用整体波动性较大，主要原因在于公司在参
+与各种国家专项研究时，所需投入的研发费用
+不固定，例如公司在2013年参与了国家“核高
+基”专项研究，投入了较多的科研费用，从而
+导致整体管理费用偏高。
+表10：公司盈利能力主要指标（二）
+2013 2014 2015 2015年
+项  目
+年 年 年 行业均值
+毛利率（%） 35.33 36.61 39.91 -
+营业利润率（% -
+-0.03 -7.35 15.50
+） 60.84
+净资产收益率（%
+4.83 5.10 0.94 5.00
+）
+总资产报酬率（%
+4.46 4.50 1.58 3.50
+）
+数据来源：公司提供，东方金诚整理。
+从资产获利角度看，近两年公司总资产报
+酬率分别为4.50%、1.58%，净资产收益率分别
+为5.10%、0.94%，总体获利能力有所降低，且
+低于同年行业平均水平，总体来看，公司盈利
+能力有所降低。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京人大金仓信息技术股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>随着经营规模的扩大，生产和管理人员也将相
+应增加，公司的组织结构和管理体系将趋于复杂，
+对公司的管理模式、人力资源、市场营销、内部控
+制等各方面均提出更高要求。如果公司不能及时完
+善经营理念和管理方式，将可能面临企业规模扩张
+带来的管理风险。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>公司的热量表产品销售具有一定的季节性。由于北
+方地区的供暖一般从第四季度开始，因此热量表市
+场的整体表现会呈现出下半年尤其是第四季度的销
+售量高于其他季度的情况，从而会导致公司经营成
+果在上下半年之间呈现不均衡的情况，对公司经营
+计划的合理安排和资金的合理运用也构成一定的影
+响。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>19808.44 </enterprise:资产总额>
+    <enterprise:所有者权益>14938.37 </enterprise:所有者权益>
+    <enterprise:负债总额>4870.09 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>7131.13 </enterprise:营业收入>
+    <enterprise:EBITDA>882.52 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>18588.18 </enterprise:资产总额>
+    <enterprise:所有者权益>15720.64 </enterprise:所有者权益>
+    <enterprise:负债总额>2867.54 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>8657.74 </enterprise:营业收入>
+    <enterprise:EBITDA>864.39 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>20479.45 </enterprise:资产总额>
+    <enterprise:所有者权益>15868.48 </enterprise:所有者权益>
+    <enterprise:负债总额>4610.95 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>8067.99 </enterprise:营业收入>
+    <enterprise:EBITDA>308.48 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.36 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.73 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.81 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.45 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.20 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.86 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.41 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.03 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.66 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.46 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>46.02 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.50 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>19.08 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>1.58 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>15.18 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>411.32 </enterprise:流动比率>
+    <enterprise:速动比率>229.90 </enterprise:速动比率>
+    <enterprise:资产负债率>24.59 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>13.45 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>758.91 </enterprise:流动比率>
+    <enterprise:速动比率>277.59 </enterprise:速动比率>
+    <enterprise:资产负债率>15.43 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>16.42 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京人大金仓信息技术股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>364.44 </enterprise:流动比率>
+    <enterprise:速动比率>127.32 </enterprise:速动比率>
+    <enterprise:资产负债率>22.52 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>3.21 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.72 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>35.33 </enterprise:毛利率>
+    <enterprise:成本费用利润率>128.56 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-12.89 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>10.75 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.70 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>36.61 </enterprise:毛利率>
+    <enterprise:成本费用利润率>46.99 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-64.71 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>5.98 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京人大金仓信息技术股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>2.50 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>39.91 </enterprise:毛利率>
+    <enterprise:成本费用利润率>39.12 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>10.29 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>10.19 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京人大金仓信息技术股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>5162.69 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1911.86 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>39.38 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>68.13 </enterprise:其他应收款>
+    <enterprise:存货>5667.52 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12849.58 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>41.75 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1097.41 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5729.38 </enterprise:无形资产>
+    <enterprise:开发支出>68.44 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>21.88 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>6958.86 </enterprise:非流动资产合计>
+    <enterprise:资产总计>19808.44 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京人大金仓信息技术股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2548.86 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1418.15 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>3.68 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>95.38 </enterprise:其他应收款>
+    <enterprise:存货>7050.24 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11116.31 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>42.47 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1671.29 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>5673.61 </enterprise:无形资产>
+    <enterprise:开发支出>68.44 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>16.06 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>7471.87 </enterprise:非流动资产合计>
+    <enterprise:资产总计>18588.18 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京人大金仓信息技术股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>1406.99 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>2587.44 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>18.43 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>128.64 </enterprise:其他应收款>
+    <enterprise:存货>7712.67 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11854.17 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>38.63 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1391.09 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>7092.78 </enterprise:无形资产>
+    <enterprise:开发支出>68.44 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>34.34 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>8625.28 </enterprise:非流动资产合计>
+    <enterprise:资产总计>20479.45 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京人大金仓信息技术股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>166.14 </enterprise:应付账款>
+    <enterprise:预收款项>54.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>55.77 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>145.89 </enterprise:应交税费>
+    <enterprise:应付利息>2.05 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>40.92 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1464.77 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>1402.77 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1402.77 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2867.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6950.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>4940.46 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>328.70 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2830.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15049.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>670.90 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15720.64 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>18588.18 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京人大金仓信息技术股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>166.14 </enterprise:应付账款>
+    <enterprise:预收款项>54.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>55.77 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>145.89 </enterprise:应交税费>
+    <enterprise:应付利息>2.05 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>40.92 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1464.77 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>1402.77 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1402.77 </enterprise:非流动负债合计>
+    <enterprise:负债合计>2867.54 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6950.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>4940.46 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>328.70 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2830.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15049.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>670.90 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15720.64 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>18588.18 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京人大金仓信息技术股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1800.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>912.26 </enterprise:应付账款>
+    <enterprise:预收款项>116.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>66.96 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>302.46 </enterprise:应交税费>
+    <enterprise:应付利息>1.65 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>53.41 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>3252.74 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>1358.21 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>1358.21 </enterprise:非流动负债合计>
+    <enterprise:负债合计>4610.95 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6950.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>4940.46 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>368.96 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2897.06 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15156.48 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>712.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15868.48 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>20479.43 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京人大金仓信息技术股份有限公司2013年利润表">
+    <enterprise:营业收入>7131.13 </enterprise:营业收入>
+    <enterprise:主营业务收入>7131.13 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>4611.58 </enterprise:营业成本>
+    <enterprise:主营业务成本>4611.58 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>48.66 </enterprise:营业税金及附加>
+    <enterprise:销售费用>695.88 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>6153.22 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>65.62 </enterprise:财务费用>
+    <enterprise:利息支出>83.10 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-95.34 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>10.12 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1814.85 </enterprise:营业利润>
+    <enterprise:营业外收入>5158.36 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>2.89 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>6970.32 </enterprise:利润总额>
+    <enterprise:所得税费用>95.13 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>6875.19 </enterprise:净利润>
+    <enterprise:少数股东损益>112.81 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>6762.38 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京人大金仓信息技术股份有限公司2014年利润表">
+    <enterprise:营业收入>8657.74 </enterprise:营业收入>
+    <enterprise:主营业务收入>8657.74 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>5488.46 </enterprise:营业成本>
+    <enterprise:主营业务成本>5488.46 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>62.96 </enterprise:营业税金及附加>
+    <enterprise:销售费用>842.29 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2217.69 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>52.64 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-3.16 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.72 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2215.27 </enterprise:营业利润>
+    <enterprise:营业外收入>817.33 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>3.16 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3029.44 </enterprise:利润总额>
+    <enterprise:所得税费用>29.48 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2999.96 </enterprise:净利润>
+    <enterprise:少数股东损益>167.47 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2832.49 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京人大金仓信息技术股份有限公司2015年利润表">
+    <enterprise:营业收入>8067.99 </enterprise:营业收入>
+    <enterprise:主营业务收入>8067.99 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>4848.27 </enterprise:营业成本>
+    <enterprise:主营业务成本>4848.27 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>58.79 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1319.99 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2261.21 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>96.12 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>72.50 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>-3.84 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1668.48 </enterprise:营业利润>
+    <enterprise:营业外收入>821.55 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>16.46 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2473.57 </enterprise:利润总额>
+    <enterprise:所得税费用>64.52 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2409.05 </enterprise:净利润>
+    <enterprise:少数股东损益>41.10 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2367.95 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京人大金仓信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-402.74 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-53.20 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1379.11 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>923.17 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京人大金仓信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-947.90 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-781.85 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-884.07 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-2613.82 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京人大金仓信息技术股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>334.70 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>2203.58 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>727.01 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>3265.29 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京人大金仓信息技术股份有限公司被投资单位：金仓数据库（上海）有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>金仓数据库（上海）有限公司</enterprise:名称>
+	<enterprise:单位代码>555956612</enterprise:单位代码>
+	<enterprise:被投资金额>1200万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：杜小勇 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杜小勇 </enterprise:股东名称>
+	 <enterprise:货币>42.475万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.27%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：刘怡 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘怡 </enterprise:股东名称>
+	 <enterprise:货币>34.975万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.69%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：冯玉 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>冯玉 </enterprise:股东名称>
+	 <enterprise:货币>34.7万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.67%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：萨师煊 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>萨师煊 </enterprise:股东名称>
+	 <enterprise:货币>33.975万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.61%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：麻占全 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>麻占全 </enterprise:股东名称>
+	 <enterprise:货币>26.47万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.04%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：晋良颖 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>晋良颖 </enterprise:股东名称>
+	 <enterprise:货币>17.965万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：何军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>何军 </enterprise:股东名称>
+	 <enterprise:货币>16.965万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：任永杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>任永杰 </enterprise:股东名称>
+	 <enterprise:货币>10.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.77%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：张文亮 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张文亮 </enterprise:股东名称>
+	 <enterprise:货币>6.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.46%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：张露露 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张露露 </enterprise:股东名称>
+	 <enterprise:货币>4.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.31%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：白芸 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>白芸 </enterprise:股东名称>
+	 <enterprise:货币>3.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.23%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：李海翔 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李海翔 </enterprise:股东名称>
+	 <enterprise:货币>2.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.19%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：初建军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>初建军 </enterprise:股东名称>
+	 <enterprise:货币>2.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.15%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：王海军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王海军 </enterprise:股东名称>
+	 <enterprise:货币>2.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.15%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：曾浩 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>曾浩 </enterprise:股东名称>
+	 <enterprise:货币>1.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：刘淼 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘淼 </enterprise:股东名称>
+	 <enterprise:货币>1.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：顾彬 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>顾彬 </enterprise:股东名称>
+	 <enterprise:货币>1.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：王学锋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王学锋 </enterprise:股东名称>
+	 <enterprise:货币>1.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：刘新征 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘新征 </enterprise:股东名称>
+	 <enterprise:货币>1.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京人大金仓信息技术股份有限公司股东：宿锐 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宿锐 </enterprise:股东名称>
+	 <enterprise:货币>0.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.04%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：人大金仓">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>人大金仓</enterprise:有商标名称>
+	<enterprise:有注册号>21190239</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：B">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>B</enterprise:有商标名称>
+	<enterprise:有注册号>21191379</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：金仓大数据">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>金仓大数据</enterprise:有商标名称>
+	<enterprise:有注册号>21191201</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：KINGBASE">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>KINGBASE</enterprise:有商标名称>
+	<enterprise:有注册号>21190595</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：金仓大数据">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>金仓大数据</enterprise:有商标名称>
+	<enterprise:有注册号>21190186</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：KINGBASE">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>KINGBASE</enterprise:有商标名称>
+	<enterprise:有注册号>21191213</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>21190312</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：人大金仓">
+	<enterprise:有申请日期>16-9-2</enterprise:有申请日期>
+	<enterprise:有商标名称>人大金仓</enterprise:有商标名称>
+	<enterprise:有注册号>21191346</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：KINGBASE">
+	<enterprise:有申请日期>09-4-29</enterprise:有申请日期>
+	<enterprise:有商标名称>KINGBASE</enterprise:有商标名称>
+	<enterprise:有注册号>7362030</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：金仓数据库;KINGBASEES">
+	<enterprise:有申请日期>08-2-1</enterprise:有申请日期>
+	<enterprise:有商标名称>金仓数据库;KINGBASEES</enterprise:有商标名称>
+	<enterprise:有注册号>6541368</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：金仓移动警务">
+	<enterprise:有申请日期>03-4-17</enterprise:有申请日期>
+	<enterprise:有商标名称>金仓移动警务</enterprise:有商标名称>
+	<enterprise:有注册号>3529213</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：药通">
+	<enterprise:有申请日期>01-8-10</enterprise:有申请日期>
+	<enterprise:有商标名称>药通</enterprise:有商标名称>
+	<enterprise:有注册号>1913597</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>撤销连续三年停止使用注册商标申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：金仓">
+	<enterprise:有申请日期>01-3-19</enterprise:有申请日期>
+	<enterprise:有商标名称>金仓</enterprise:有商标名称>
+	<enterprise:有注册号>1734272</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>01-3-19</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>1762976</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京人大金仓信息技术股份有限公司的商标信息：参谋通">
+	<enterprise:有申请日期>00-9-15</enterprise:有申请日期>
+	<enterprise:有商标名称>参谋通</enterprise:有商标名称>
+	<enterprise:有注册号>1670504</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于共享磁盘架构的集群数据库系统及数据处理方法">
+	<enterprise:有申请公布日>2017-04-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于共享磁盘架构的集群数据库系统及数据处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310282114.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103365987B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：数据库管理系统及其数据处理方法">
+	<enterprise:有申请公布日>2017-03-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据库管理系统及其数据处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310281873.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103353891B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种用于列数据库的单表多列序存储方法">
+	<enterprise:有申请公布日>2016-08-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于列数据库的单表多列序存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110392033.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521303B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种可灵活配置的数据库分层存储优化方法">
+	<enterprise:有申请公布日>2016-06-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可灵活配置的数据库分层存储优化方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610009405.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105653720A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于偏序关系的缓冲区版本产生方法">
+	<enterprise:有申请公布日>2016-04-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于偏序关系的缓冲区版本产生方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263513.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102314505B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种嵌入式数据库加密存储方法">
+	<enterprise:有申请公布日>2016-04-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种嵌入式数据库加密存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110339485.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426637B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种实现数据库表格与地图联动展现的方法">
+	<enterprise:有申请公布日>2016-02-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现数据库表格与地图联动展现的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445203.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411635B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于区间编码和查询重写的假设分析方法">
+	<enterprise:有申请公布日>2016-01-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于区间编码和查询重写的假设分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110394021.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521314B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于行指针的数据库垂直分区存储方法">
+	<enterprise:有申请公布日>2016-01-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于行指针的数据库垂直分区存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110382224.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521282B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种提升嵌入式数据库实时性的数据存储方法">
+	<enterprise:有申请公布日>2016-01-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提升嵌入式数据库实时性的数据存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445187.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411634B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：嵌入式内存数据库的内存页面管理调度方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>嵌入式内存数据库的内存页面管理调度方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110447991.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402622B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于插件的数据迁移方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于插件的数据迁移方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110436236.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521387B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种数据库接口的结果集缓存方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据库接口的结果集缓存方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110439878.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102542034B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于动态索引的分布式缓冲区管理方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于动态索引的分布式缓冲区管理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263655.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102314506B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：无共享数据库集群中实现系统动态扩展的方法">
+	<enterprise:有申请公布日>2015-09-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>无共享数据库集群中实现系统动态扩展的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110390930.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521297B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：面向内存数据库OLTP应用的日志检查点恢复方法">
+	<enterprise:有申请公布日>2015-01-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>面向内存数据库OLTP应用的日志检查点恢复方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445145.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102541691B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于数据库会话变量的数据双向复制方法">
+	<enterprise:有申请公布日>2014-12-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于数据库会话变量的数据双向复制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110341414.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102436486B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于动态口令的数据库初始化方法">
+	<enterprise:有申请公布日>2014-10-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于动态口令的数据库初始化方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110338658.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426592B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于偏序关系日志的数据库集群故障恢复方法">
+	<enterprise:有申请公布日>2014-10-08</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于偏序关系日志的数据库集群故障恢复方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263335.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102339305B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于链表的内存数据库页式存储方法">
+	<enterprise:有申请公布日>2014-08-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于链表的内存数据库页式存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445101.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411632B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于共享磁盘架构的集群数据库系统及数据处理方法">
+	<enterprise:有申请公布日>2013-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于共享磁盘架构的集群数据库系统及数据处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310282114.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103365987A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：数据库管理系统及其数据处理方法">
+	<enterprise:有申请公布日>2013-10-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>数据库管理系统及其数据处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310281873.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103353891A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种快速向数据库加载数据的方法">
+	<enterprise:有申请公布日>2013-04-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种快速向数据库加载数据的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210566075.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103049533A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种快速销毁数据库数据的方法">
+	<enterprise:有申请公布日>2013-04-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种快速销毁数据库数据的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210566568.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103049534A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种数据库接口的结果集缓存方法">
+	<enterprise:有申请公布日>2012-07-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据库接口的结果集缓存方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110439878.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102542034A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：面向内存数据库OLTP应用的日志检查点恢复方法">
+	<enterprise:有申请公布日>2012-07-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>面向内存数据库OLTP应用的日志检查点恢复方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445145.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102541691A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于哈希的聚簇表存储方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于哈希的聚簇表存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110392274.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521304A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种对数据库系统表设置强制访问控制的方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对数据库系统表设置强制访问控制的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110433709.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521385A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种云计算环境下的无共享数据库集群并行查询处理方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种云计算环境下的无共享数据库集群并行查询处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110392677.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521307A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种通过JDBC接口访问平面文件的方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种通过JDBC接口访问平面文件的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445127.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521408A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于通信协议的数据库数据批量更新方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于通信协议的数据库数据批量更新方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445417.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521409A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：无共享数据库集群中实现系统动态扩展的方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>无共享数据库集群中实现系统动态扩展的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110390930.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521297A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于插件的数据迁移方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于插件的数据迁移方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110436236.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521387A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于功能插件的数据库管理监控系统">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于功能插件的数据库管理监控系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110436870.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521390A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于行指针的数据库垂直分区存储方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于行指针的数据库垂直分区存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110382224.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521282A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种用于列数据库的单表多列序存储方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于列数据库的单表多列序存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110392033.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521303A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于区间编码和查询重写的假设分析方法">
+	<enterprise:有申请公布日>2012-06-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于区间编码和查询重写的假设分析方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110394021.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102521314A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于数据库会话变量的数据双向复制方法">
+	<enterprise:有申请公布日>2012-05-02</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于数据库会话变量的数据双向复制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110341414.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102436486A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种基于动态口令的数据库初始化方法">
+	<enterprise:有申请公布日>2012-04-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于动态口令的数据库初始化方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110338658.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426592A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种嵌入式数据库加密存储方法">
+	<enterprise:有申请公布日>2012-04-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种嵌入式数据库加密存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110339485.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102426637A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种提升嵌入式数据库实时性的数据存储方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提升嵌入式数据库实时性的数据存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445187.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411634A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于模板的数据库审计设置方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于模板的数据库审计设置方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445114.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411633A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于链表的内存数据库页式存储方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于链表的内存数据库页式存储方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445101.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411632A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种对数据库管理员权限进行控制的方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种对数据库管理员权限进行控制的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110433712.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411689A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：一种实现数据库表格与地图联动展现的方法">
+	<enterprise:有申请公布日>2012-04-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种实现数据库表格与地图联动展现的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110445203.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102411635A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：嵌入式内存数据库的内存页面管理调度方法">
+	<enterprise:有申请公布日>2012-04-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>嵌入式内存数据库的内存页面管理调度方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110447991.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402622A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：面向嵌入式数据库系统的无日志事务处理方法">
+	<enterprise:有申请公布日>2012-04-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>面向嵌入式数据库系统的无日志事务处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448163.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102402623A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于偏序关系日志的数据库集群故障恢复方法">
+	<enterprise:有申请公布日>2012-02-01</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于偏序关系日志的数据库集群故障恢复方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263335.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102339305A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于偏序关系的缓冲区版本产生方法">
+	<enterprise:有申请公布日>2012-01-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于偏序关系的缓冲区版本产生方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263513.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102314505A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京人大金仓信息技术股份有限公司的专利信息：基于动态索引的分布式缓冲区管理方法">
+	<enterprise:有申请公布日>2012-01-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于动态索引的分布式缓冲区管理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110263655.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102314506A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：目标可视化分析系统">
+	<enterprise:有批准日期>17-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>目标可视化分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR093246</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据服务平台">
+	<enterprise:有批准日期>16-11-11</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDSP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR326712</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据质量管理平台">
+	<enterprise:有批准日期>16-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据质量管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseQM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR328930</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓服务总线平台">
+	<enterprise:有批准日期>16-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓服务总线平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseESB</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR328872</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓分析型数据库系统">
+	<enterprise:有批准日期>16-7-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓分析型数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseAnalyticsDB</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR197143</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据同步工具软件">
+	<enterprise:有批准日期>16-7-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据同步工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseSS</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR197142</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓元数据管理平台">
+	<enterprise:有批准日期>16-11-11</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓元数据管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseMDM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR326719</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据迁移工具软件">
+	<enterprise:有批准日期>16-7-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据迁移工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDT</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR196792</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓大数据平台">
+	<enterprise:有批准日期>16-7-22</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓大数据平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR190320</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓医院数据中心管理平台">
+	<enterprise:有批准日期>17-3-29</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓医院数据中心管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseHosDC</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR095667</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据库企业级管理平台">
+	<enterprise:有批准日期>16-4-13</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据库企业级管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseEM</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR075618</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据资源管理平台">
+	<enterprise:有批准日期>16-7-22</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据资源管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDRP</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR190324</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：服务器网络监控管理系统软件">
+	<enterprise:有批准日期>15-12-10</enterprise:有批准日期>
+	<enterprise:有软件全称>服务器网络监控管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>服务器网络监控</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR254190</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓空间数据引擎软件">
+	<enterprise:有批准日期>15-11-6</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓空间数据引擎软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Kingbase-iwhere Spatial Engine</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR215258</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据库管理系统">
+	<enterprise:有批准日期>15-10-14</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseES</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR196827</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓网银数据库系统">
+	<enterprise:有批准日期>14-11-18</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓网银数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseES EBANK</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR175018</enterprise:有登记号>
+	<enterprise:有分类号>10200-6800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据对比工具软件">
+	<enterprise:有批准日期>14-8-12</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据对比工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KDC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR118943</enterprise:有登记号>
+	<enterprise:有分类号>30100-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓并行分布式云数据集群系统">
+	<enterprise:有批准日期>16-3-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓并行分布式云数据集群系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDBCloud</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR058195</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓KingbaseRAC集群数据库软件">
+	<enterprise:有批准日期>14-8-12</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓KingbaseRAC集群数据库软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseRAC</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR118937</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓集群数据库软件">
+	<enterprise:有批准日期>15-10-15</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓集群数据库软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseRAC</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR197433</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据迁移管理系统">
+	<enterprise:有批准日期>14-8-12</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据迁移管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KDT</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR118698</enterprise:有登记号>
+	<enterprise:有分类号>30100-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓目录服务器JMDS软件">
+	<enterprise:有批准日期>14-5-22</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓目录服务器JMDS软件</enterprise:有软件全称>
+	<enterprise:有软件简称>JMDS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR065026</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓目录服务器kingbaseDS软件">
+	<enterprise:有批准日期>14-5-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓目录服务器kingbaseDS软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KDS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR063824</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓嵌入式数据库系统">
+	<enterprise:有批准日期>14-12-8</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓嵌入式数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseReal</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR190475</enterprise:有登记号>
+	<enterprise:有分类号>10102-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓目录服务器webDS软件">
+	<enterprise:有批准日期>14-5-23</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓目录服务器webDS软件</enterprise:有软件全称>
+	<enterprise:有软件简称>webDS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR065420</enterprise:有登记号>
+	<enterprise:有分类号>30900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：集中身份认证服务器系统">
+	<enterprise:有批准日期>14-2-11</enterprise:有批准日期>
+	<enterprise:有软件全称>集中身份认证服务器系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Authentication Server</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR015250</enterprise:有登记号>
+	<enterprise:有分类号>10900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：信息检索系统">
+	<enterprise:有批准日期>13-11-19</enterprise:有批准日期>
+	<enterprise:有软件全称>信息检索系统</enterprise:有软件全称>
+	<enterprise:有软件简称>Information retrieval system</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR128756</enterprise:有登记号>
+	<enterprise:有分类号>30301-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓商业智能移动终端展现平台软件">
+	<enterprise:有批准日期>14-1-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓商业智能移动终端展现平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>Intelligent mobile terminals show</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR008294</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据整合工具软件">
+	<enterprise:有批准日期>13-11-19</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据整合工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDI</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR128672</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓kingbaseXMLDB数据库系统">
+	<enterprise:有批准日期>14-4-2</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓kingbaseXMLDB数据库系统</enterprise:有软件全称>
+	<enterprise:有软件简称>kingbaseXMLDB</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR037155</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据挖掘工具软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据挖掘工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDataMiner</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR018941</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据整合套件软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据整合套件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDI Suite</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR018938</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓报表软件">
+	<enterprise:有批准日期>13-3-1</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓报表软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseReport</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR018944</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：干部考察信息管理系统">
+	<enterprise:有批准日期>14-2-8</enterprise:有批准日期>
+	<enterprise:有软件全称>干部考察信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>干部考察系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR014543</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：RFID射频应用中间件软件">
+	<enterprise:有批准日期>12-8-31</enterprise:有批准日期>
+	<enterprise:有软件全称>RFID射频应用中间件软件</enterprise:有软件全称>
+	<enterprise:有软件简称>RFID Application Middleware</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR081846</enterprise:有登记号>
+	<enterprise:有分类号>20100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓轻量型数据库管理系统">
+	<enterprise:有批准日期>12-12-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓轻量型数据库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>金仓数据库 KingbaseES</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR130827</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓军用数据库管理系统">
+	<enterprise:有批准日期>12-12-20</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓军用数据库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>金仓数据库 KingbaseES</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR128939</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓并行分布式云数据集群软件">
+	<enterprise:有批准日期>12-9-3</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓并行分布式云数据集群软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDBCloud</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR082973</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据迁移工具软件">
+	<enterprise:有批准日期>12-5-2</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据迁移工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDTS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR034475</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓统一数据管理平台软件">
+	<enterprise:有批准日期>12-5-2</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓统一数据管理平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseUDM</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR034461</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据整合工具软件">
+	<enterprise:有批准日期>12-2-7</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据整合工具软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDI</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR007328</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓安全数据审计系统软件">
+	<enterprise:有批准日期>12-5-10</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓安全数据审计系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseSecureAudit</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR037487</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓增量数据捕获软件">
+	<enterprise:有批准日期>11-12-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓增量数据捕获软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseCDC</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR102606</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据保护软件">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据保护软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseDataGuard</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR090934</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓地理信息多维数据展示软件">
+	<enterprise:有批准日期>11-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓地理信息多维数据展示软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseGO</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR085140</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓数据库管理系统">
+	<enterprise:有批准日期>11-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓数据库管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseES</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR085137</enterprise:有登记号>
+	<enterprise:有分类号>30104-6200</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓逻辑数据复制软件">
+	<enterprise:有批准日期>11-11-21</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓逻辑数据复制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseReplicator</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR085130</enterprise:有登记号>
+	<enterprise:有分类号>30205-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓假设分析软件">
+	<enterprise:有批准日期>11-11-19</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓假设分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseWA</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR085004</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓商业智能平台软件">
+	<enterprise:有批准日期>11-11-18</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓商业智能平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KingbaseBI</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR084394</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：农作物有害生物监控数字化平台软件 V1.0">
+	<enterprise:有批准日期>08-11-10</enterprise:有批准日期>
+	<enterprise:有软件全称>农作物有害生物监控数字化平台软件 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR28221</enterprise:有登记号>
+	<enterprise:有分类号>65000-0100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：干部考察信息管理系统 V1.0 [简称: 干部考察信息系统]">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>干部考察信息管理系统 V1.0 [简称: 干部考察信息系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17494</enterprise:有登记号>
+	<enterprise:有分类号>65000-9500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：小金灵嵌入式移动数据库系统 [简称: 小金灵] V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>小金灵嵌入式移动数据库系统 [简称: 小金灵] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17480</enterprise:有登记号>
+	<enterprise:有分类号>37000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：防洪优化调度系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>防洪优化调度系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17484</enterprise:有登记号>
+	<enterprise:有分类号>64000-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：人大金仓数据库管理系统 KingbaseES V6.0 [简称: 金仓数据库KingbaseES]">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>人大金仓数据库管理系统 KingbaseES V6.0 [简称: 金仓数据库KingbaseES]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17492</enterprise:有登记号>
+	<enterprise:有分类号>37000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓移动警务系统 V2.0 [简称: 金仓移动警务]">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓移动警务系统 V2.0 [简称: 金仓移动警务]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17485</enterprise:有登记号>
+	<enterprise:有分类号>14000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：电子政务系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>电子政务系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17483</enterprise:有登记号>
+	<enterprise:有分类号>67500-9900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：工情信息系统 V2.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>工情信息系统 V2.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17487</enterprise:有登记号>
+	<enterprise:有分类号>67500-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：参谋通军用移动信息系统 [简称: 参谋通] V2.1">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>参谋通军用移动信息系统 [简称: 参谋通] V2.1</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17482</enterprise:有登记号>
+	<enterprise:有分类号>64000-9900</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：农作物有害生物监控信息系统软件 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>农作物有害生物监控信息系统软件 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17490</enterprise:有登记号>
+	<enterprise:有分类号>67500-0100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：人大金仓金鼎数据库管理系统软件KingbaseES V4.1 [简称: 金仓数据库KingbaseES]">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>人大金仓金鼎数据库管理系统软件KingbaseES V4.1 [简称: 金仓数据库KingbaseES]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17488</enterprise:有登记号>
+	<enterprise:有分类号>37000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：农作物有害生物预警系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>农作物有害生物预警系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17495</enterprise:有登记号>
+	<enterprise:有分类号>64000-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：交互式门户系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>交互式门户系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17486</enterprise:有登记号>
+	<enterprise:有分类号>67500-9500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：水利行业数据支撑平台系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>水利行业数据支撑平台系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17491</enterprise:有登记号>
+	<enterprise:有分类号>67500-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：人大金仓金鼎数据库管理系统KingbaseES V5.0 [简称: 金仓数据库KingbaseES]">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>人大金仓金鼎数据库管理系统KingbaseES V5.0 [简称: 金仓数据库KingbaseES]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17489</enterprise:有登记号>
+	<enterprise:有分类号>37000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：人大金仓地震信息WEB GIS应用服务系统 V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>人大金仓地震信息WEB GIS应用服务系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17493</enterprise:有登记号>
+	<enterprise:有分类号>64000-9100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓实时信息采集与管理系统 [简称: 金仓实时信息采集与管理系统] V1.0">
+	<enterprise:有批准日期>08-8-28</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓实时信息采集与管理系统 [简称: 金仓实时信息采集与管理系统] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SR17481</enterprise:有登记号>
+	<enterprise:有分类号>64000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓移动警务系统">
+	<enterprise:有批准日期>17-6-7</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓移动警务系统</enterprise:有软件全称>
+	<enterprise:有软件简称>金仓移动警务</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR241750</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京人大金仓信息技术股份有限公司的软件著作：金仓实时信息采集与管理系统">
+	<enterprise:有批准日期>17-6-7</enterprise:有批准日期>
+	<enterprise:有软件全称>金仓实时信息采集与管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>金仓实时信息采集与管理系统　</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR241745</enterprise:有登记号>
+	<enterprise:有分类号>10200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京人大金仓信息技术股份有限公司的网站备案：北京金仓信息技术股份有限公司">
+	<enterprise:有审核时间>17-4-19</enterprise:有审核时间>
+	<enterprise:有网站全称>北京金仓信息技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.kingbase.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>basesoft.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05058485号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京人大金仓信息技术股份有限公司的网站备案：北京金仓信息技术股份有限公司">
+	<enterprise:有审核时间>17-4-19</enterprise:有审核时间>
+	<enterprise:有网站全称>北京金仓信息技术股份有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.kingbase.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>kingbase.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备05058485号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京人大金仓信息技术股份有限公司的员工基本信息">
+	<enterprise:有从业人数>225</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:165,25岁以下:35,45岁以上:25</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:187,高中及以下:1,专科:37</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:22,技术人员:147,作业人员:0</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:225人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京人大金仓信息技术股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京人大金仓信息技术股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户>国家电网各省市调度系统、中国人民解放军装备学院、北京动力天下科技有限公司</enterprise:现有主要客户>
+	<enterprise:目前经营状况>目前经营状况良好，</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京人大金仓信息技术股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京人大金仓信息技术股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京人大金仓信息技术股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                                             
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京人大金仓信息技术股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京人大金仓信息技术股份有限公司的企业法人代表：刘淮松">
+	<enterprise:名称>刘淮松</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>49</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1967-10-27</enterprise:出生年月>
+	<enterprise:身份证号码>120104196710276817</enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>58851118</enterprise:联系电话>
+	<enterprise:传真>59951900</enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>主导完成了太极公司的第一次变革，实现了太极由国有企业向规范化股份制公司的转轨</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>1986-1989 南开大学计算机系 本科
+1989-1992 南开大学计算机系 硕士
+北京人大金仓信息技术股份有限公司 P25
+ecpa
+东方金诚国际信用评估有限公司                             中关村科技园区企业信用评级
+起止日期 在何地区何部门 任何职务
+2010至今 太极计算机股份有限公司 总裁</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京人大金仓信息技术股份有限公司的下属单位：金仓数据库（上海）有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>金仓数据库（上海）有限公司</enterprise:名称>
+	<enterprise:主要职能>负责华东区域数据库产品销售</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:下属单位 rdf:ID="北京人大金仓信息技术股份有限公司的下属单位：广州思迈特软件有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>广州思迈特软件有限公司</enterprise:名称>
+	<enterprise:主要职能>商业智能产品销售及开发</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京人大金仓信息技术股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京人大金仓信息技术股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京人大金仓信息技术股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京人大金仓信息技术股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>21</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>5</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>12</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>4</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京人大金仓信息技术股份有限公司的专利数量">
+	<enterprise:专利总计>14</enterprise:专利总计>
+	<enterprise:专利数量2013>4</enterprise:专利数量2013>
+	<enterprise:专利数量2014>4</enterprise:专利数量2014>
+	<enterprise:专利数量2015>6</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京人大金仓信息技术股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京人大金仓信息技术股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

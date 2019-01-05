@@ -1,0 +1,1184 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京奥贝克电子股份有限公司的企业概况">
+    <enterprise:有名称>北京奥贝克电子股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010860006960XN</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>1101000004443031</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行双秀支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1998年3月23日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1800万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>销售自行开发后的产品、电子产品、计算机及辅助设备、通讯设备、机械设备；技术开发、技术转让、技术咨询、技术服务；计算机系统服务；经济贸易咨询；委托制造集成电路；委托制造智能机器人与无人机产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）销售自行开发后的产品、电子产品、计算机及辅助设备、通讯设备、机械设备；技术开发、技术转让、技术咨询、技术服务；计算机系统服务；经济贸易咨询；委托制造集成电路；委托制造智能机器人与无人机产品。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>集成电路</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区北三环中路31号泰思特大厦606室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区北三环中路31号泰思特大厦A606</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100088</enterprise:有邮政编码>
+    <enterprise:有联系人>隋丽静</enterprise:有联系人>
+    <enterprise:有联系电话>010-82658637</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>http://www.opectek.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京奥贝克电子股份有限公司成立于1998
+年3月23日，法定代表人徐立，注册地址及办公
+地址为北京市海淀区北三环中路31号泰思特大
+厦606室。
+奥贝克于2012年5月完成股份制改造，并于
+2012年12月25日在全国中小企业股份转让系统
+挂牌，股份代码为430188。公司初始注册资本3
+53万元，后经多次增资及股权转让，目前注册
+资本为1800万元，截至2016年7月底，其前十大
+股东及持股比例如表一所示。
+表一：公司十大股东及股权比例
+出资金额
+股东名称 股权比例
+（万元）
+徐  立 24.00% 432.00
+郭兵兵 21.18% 388.80
+吴俊杰 19.99% 359.80
+杨金锦 6.08% 109.40
+温庚红 5.40% 97.20
+王素琴 5.00% 90.00
+杜乐 5.00% 90.00
+张素梅 4.60% 82.80
+祁巧玲 3.33% 60.00
+方德才 2.22% 40.00
+奥贝克主要致力于提供集成电路芯片的开
+发、设计、销售以及技术服务。2013年12月，
+公司通过北京半导体行业协会审核，获得国家
+工业和信息化部颁发的“集成电路设计企业”
+认定证书；2015年7月，通过中关村科技园区管
+理委员会组织的“中关村高新技术企业”资格
+复审，同年11月，通过北京市科学技术委员会
+等四部门组织的“高新技术企业”资格复审。
+截至2015年底，奥贝克资产总额为1825.62
+万元，净资产为931.78万元；2015年累计实现
+主营业务收入1189.23万元，利润总额-
+98.18万元；2015年公司经营活动产生的现金流
+量净额为57.60万元，投资活动产生的现金流量
+净额为-
+27.30万元，现金及现金等价物净增加额为30.3
+0万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京奥贝克电子股份有限公司的基础素质">
+    <enterprise:有管理素质>公司董事长兼总经理、技术负责人徐立先
+生，1988年毕业于清华大学，获博士研究生学
+历；1988年9月至1998年8月于北京大学微电子
+研究所担任讲师，获有副教授职称，教学期间
+曾任美国伊利诺伊大学电子与计算机系访问学
+者；1998年3月至今任奥贝克董事长兼总经理、
+高级工程师职务。徐立先生在管理岗位工作多
+年，且具有较为深厚的专业知识，熟悉行业发
+展，能够较好地制定公司经营战略、发展方针
+。
+公司财务总监温庚红女士，毕业于北京广
+播电视大学，大专学历，获注册税务师、会计
+师职称；1987年8月至1994年12月任原电子工业
+部国营第八七八厂财务处会计、总账会计；199
+4年12月至2002年7月任中华通信系统有限责任
+公司主管会计；2002年8月至2008年2月受中华
+通信系统有限责任公司委派任中电华通通信有
+限公司财务主管；2008年3月至今任北京麦邦光
+电仪器有限公司财务负责人；2016年5月至今任
+奥贝克财务总监，为公司董事。温庚红女士从
+事财务工作多年，具有较丰富的财务管理经验
+。
+公司商务主管马召莉女士，毕业于滕州市
+民政职业学校，专科学历；2005年至2009年在
+北京华润上华半导体有限公司任职，主要负责
+区域设备的操作管理，配合其他部门同事完成
+芯片的产出；2011年加入奥贝克，主要负责选
+择、评审、管理供应商，编制采购文件，组织
+外包供方的选择、评价活动，外包产品验收等
+。马召莉女士对公司采购、生产活动较为了解
+，能够较为顺畅的管理相关活动。
+总体看，公司高层管理人员从业经验及管
+理经验较为丰富，能够较好地把握公司的经营
+管理和未来发展方向。</enterprise:有管理素质>
+    <enterprise:有人员素质>奥贝克现有研发人员10人，占员工总数的5
+6%。公司研发人员从学历构成来看，拥有博士
+学位1人，硕士学位3人，学士学位6人；从所获
+职称来看，1人具有高级职称、3人具有中级职
+称，基本满足公司技术研发需求。
+公司研发部经理王鸿志先生，2000年毕业
+于北京理工大学，获本科学历；2000年9月加入
+奥贝克，历任研发部设计工程师、经理，主要
+从事IC设计，曾参与多款公司产品的研发设计
+，研发经验较为丰富。
+公司研发工程师徐丹女士，毕业于北京联
+合大学，本科学历；2002年加入公司，任研发
+部IC版图设计工程师。徐丹女士从事研发工作
+多年，熟知相关专业知识，科研经验丰富，对
+公司的产品研发较有助益。
+总体看，公司核心技术人员专业素质较好
+，研发经验丰富，为公司发展提供了较好的技
+术支撑。</enterprise:有人员素质>
+    <enterprise:有科研条件>奥贝克2013-
+2015年研发费用投入分别占当年总收入的6%、6
+%和9%。公司目前拥有一支长期从事集成电路开
+发设计的技术小组，并且租用了一批先进的大
+型研发设备，硬件设施较为完善。截至报告日
+，奥贝克共取得集成电路布图设计登记证14项
+（详见表二），其技术已全部转化为产品；此
+外，公司获得实用新型专利1项，为“一种广谱
+电子驱虫器”。
+表二：奥贝克获得的集成电路布图设计登记列表
+布图设计名称 布图设计登记号 日期
+OP4063B BS.08500609.2 2009.01.13
+OP4061B BS.08500610.6 2009.01.13
+SPT6056 BS.08500611.4 2009.01.13
+SPT0705-3 BS.08500612.2 2009.01.13
+OP7025B BS.08500670.X 2009.02.06
+OP0701-1 BS.08500669.6 2009.02.06
+OP0701-3 BS.08500668.8 2009.02.06
+OP0701-4 BS.08500667.X 2009.02.06
+SPT6052 BS.08500666.1 2009.02.06
+OP0902-5 BS.10500903.2 2011.01.20
+OP0405-4 BS.10500902.4 2011.01.20
+OP4052 BS.155504835 2015.06.12
+OP4053 BS.155504843 2015.06.12
+OP4051 BS.155504940 2015.07.02
+编码类集成电路芯片产品是奥贝克的传统
+业务，主要分为无线遥控编解码收发电路系列
+和红外遥控编解码收发电路系列两大类，产品
+主要应用于消费类电子产品。其中，无线遥控
+编解码收发电路系列主要应用于车辆防盗系统
+、家庭防盗系统、遥控玩具、其他工业遥控；
+红外遥控编解码收发电路系列产品中编解码器
+除具备无线方式收发功能外，还具有红外方式
+收发功能，包括风扇控制器和传感信号处理器
+，包含了从编码、传输、数据执行等一系列功
+能，可以构筑一套完整的系统，可实现远距离
+控制、非接触式控制、感应式便利性控制，可
+应用范围较广。
+目前公司产品已广泛应用于电视控制、录
+像机控制、风扇控制、自动灯光照明控制、车
+辆防盗系统、家庭防盗系统、商业报警系统、
+遥控玩具及其他工业遥控系统等领域。
+2015年公司新产品电源控制系列芯片上市
+，电源控制芯片在电子设备系统中担负着电能
+的变换、分配、检测及其他电能管理的职责，
+应用范围十分广泛。新产品的上市较大程度丰
+富公司产品类型，目前该产品已进行投产，主
+要用于LED、DVD、VCD和电源充电器等方面，在
+公司销售收入中占比约为10%至15%，为2015年
+销售业绩的增长提供一定助力。
+现阶段，公司根据市场需求正在着手研发
+用于穿戴设备中的温度控制器，预计2016年下
+半年完成样品交付客户试用，并计划于2017年
+实现量产。
+此外，公司与上海某研究所合作，进行智
+能家电、智能机器人、无人机领域的产品研发
+，进一步扩宽产品应用范围，目前技术产品正
+处于测试阶段。
+总体看，奥贝克科研条件基本支撑起公司
+当前研发需求，技术产品市场转化效果尚可。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京奥贝克电子股份有限公司的经营管理">
+    <enterprise:其经营分析为>奥贝克主要从事集成电路芯片的设计、开
+发、销售，以及芯片产品研发技术咨询类服务
+。目前奥贝克业务分为自有产权集成电路芯片
+销售业务、电子产品贸易业务，以及集成电路
+技术开发服务。截至2015年底，公司实现主营
+业务收入1189.23万元，其中，产品销售业务约
+占总收入的89%，技术服务业务约占总收入的11
+%。
+目前公司主要产品为无线射频遥控编解码
+收发系列、红外遥控编解码收发系列、传感信
+号控制系列和触摸调光等消费类集成电路芯片
+，以及新开发的电源控制系列芯片，集成电路
+芯片产品集中应用于中低端的消费电子领域，2
+015年公司新开发了机器人与无人机产品，由于
+新加入的产品仍处于试验阶段，未形成批量生
+产，所以公司业务仍以集成电路为主。2015年
+公司新产品电源控制系列芯片上市，为改善公
+司经营状况起到一定作用。
+在采购方面，奥贝克主要采购圆片、封装
+芯片、集成电路等原材料，采购时公司根据订
+单决定采购数量，每季度进行一次采购，采购
+地域集中在西安、无锡、深圳、杭州。选择供
+应商时，公司严格执行ISP9000文件《供应商选
+择及评价管理制度》，对供应商进行调查、评
+价和筛选，其供货商较为稳定，主要有无锡华
+润上华半导体有限公司、无锡中微晶园电子有
+限公司、无锡市泰思特测试有限公司、西安微
+电子技术研究所和中航（重庆）微电子有限公
+司。在原材料质量控制方面，公司与供应商签
+署技术合同、质量保证协议等文件，并进行PCM
+测试和中测，产品检测合格后方可接收。由于
+公司与其供货商建立了长期合作关系，除无锡
+华润上华半导体有限公司和无锡中微晶园电子
+有限公司需支付30%的预付款以外，其他供货商
+通常给予奥贝克1至2个月的账期，一定程度上
+缓解公司支付压力。
+生产方面，公司生产、测试、封装环节均
+采用委托生产模式，主要委托西安微电子所等
+生产商进行长期合作，能够及时满足公司生产
+需求，并且付款账期大多为60天。公司在产品
+研发过程中把控产品质量的同时，在生产中严
+格执行产品的工艺控制参数，使产品质量得到
+较好的保障。
+销售方面，奥贝克产品主要通过代理商进
+行销售，辅以直销的方式，并通过区域代理的
+方式开拓市场，目前已在苏州设置代理人负责
+开拓市场。公司主要客户包括杭州点耀科技有
+限公司、苏州永晟电子科技有限公司、苏州文
+曦微电子有限公司和西安睿思微电子设计有限
+公司等，销售区域主要集中在长江三角洲和珠
+江三角洲地区。公司较为依靠代理商进行销售
+，且集中度较高，易受代理商经营状况影响，
+不利于市场风险的分散。回款方面，公司一般
+与代理商采用月结的方式。
+公司于2015年10月将全资子公司杭州玖禾
+玖科技有限公司出售给自然人王广宝的交易已
+完成，标志着公司不再拥有杭州玖禾玖科技有
+限公司。由于该子公司经营不善，公司近几年
+承担了较大的投资亏损。
+从经营成果来看，2013-
+2015年由于亏损，奥贝克净资产规模总体呈下
+降趋势，不利于公司整体竞争力和抗风险能力
+的提升。2015年公司主营业务收入稍有回升，
+在较前一段时期中由于公司产品更新换代不及
+时，流失了一定的市场资源，2015年随着新产
+品电源控制系列芯片的上市，该情况发生一定
+程度的好转。2015年公司亏损程度明显缩小，
+主要是由于公司已将子公司剥离，不再受到子
+公司经营状况的影响。
+图一：公司2013-
+2015年总资产、净资产、主营业务收入、利润总额增长
+趋势图（万元）
+总体看，公司产品多用于中低端消费类电
+子产品生产，市场门槛低，产品技术可复制性
+强，更新换代快，竞争压力较大，需要不断丰
+富产品类型用以维持及扩大销售规模；转让全
+资子公司后，对公司的经营压力有一定的缓解
+。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>奥贝克实行董事会领导下的总经理负责制
+，下设研发部、产品部、市场部、行政人事部
+以及财务部等职能部门。2012年12月，公司成
+功在全国中小企业股份转让系统挂牌，公司在
+经过股改、挂牌后，逐步形成了较为完善的企
+业管理制度、财务管理制度、业务流程，内部
+管理和内部控制体系均得到了进一步优化，与
+其目前的经营状况相适应。
+从管理效率看，2013-
+2015年奥贝克管理费用率分别为17.89%、15.89
+%和13.00%，公司管理费用控制能力尚可；同期
+成本率分别为108.32%、204.52%和108.29%，由
+于原材料价格、委托生产费用和人员成本的上
+涨，公司成本率不断上升，制约利润表现。201
+5年公司出售全资子公司后，这两项指标均有所
+降低。
+从运营效率看，2013-
+2015年奥贝克应收账款周转率分别为1.13次、1
+.11次和1.27次，应收账款周转效率一般；同期
+公司存货周转率分别为3.02次、2.01次和2.00
+次，存货周转效率尚可；同期公司总资产周转
+率分别为0.55次、0.55次和0.66次，整体资产
+运营效率一般。
+综合来看，奥贝克的组织结构设置较为合
+理，内部管理运作模式基本满足公司当前发展
+需要，公司成本费用控制能力较弱，资产运营
+效率一般。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一定时期内，公司将不断发掘市场需
+求、持续创新，公司计划在稳定现有客户资源
+的同时，着重拓展产品销售渠道，通过发展代
+理商来拓展市场，加大产品的推广力度，以代
+理销售和自主销售相结合的方式，提高产品销
+售额，增强企业盈利能力，目前公司已开始着
+手在深圳发展代理商。
+奥贝克预计2016年实现主营业务收入3000
+万元左右，利润总额310万元。从公司新产品上
+市销售情况和签约合同情况来看，该经营预期
+实现的可能性一般。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京奥贝克电子股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，奥贝克资产总额分别为2324.09万元、
+1763.66万元和1825.62万元，其中流动资产分
+别占当年总资产的73.30%、81.90%和83.04%，
+应收账款与存货所占比重较大，一定程度上影
+响了公司流动资产短期变现能力；同期固定资
+产分别占当年总资产的1.35%、1.09%和0.88%，
+为机器设备、运输工具、电子设备等；无形资
+产及其他资产分别占当年总资产的3.79%、17.0
+1%和16.08%，为专利权、财务软件、递延所得
+税资产。从近三年的资产占比变化来看，2014
+年起公司不再对子公司持有长期股权投资，致
+使流动资产占比提高；同时，2015年递延所得
+税资产有所增加，致使无形资产及其他资产占
+比提高。总体来看，公司资产结构变化符合其
+实际经营状况。
+截至2015年底，奥贝克流动资产为1515.98
+万元，主要由应收账款和存货构成。其中，货
+币资金占流动资产的2.39%，货币资金保有量较
+低，存在一定资金周转压力；应收账款占流动
+资产的64.87%，主要债务人为苏州文曦微电子
+科技有限公司、北京鑫健伟业科贸有限公司、
+杭州点耀科技有限公司、硕微科技（上海）有
+限公司等，部分应收账款账期较长，回款滞后
+，对公司资金使用效率具有一定负面影响，并
+且存在发生坏账的风险；其他应收款占流动资
+产的0.02%，主要为社会保险和房租押金；预付
+账款占流动资产的0.52%；存货占流动资产的31
+.88%，主要为库存商品、原材料等，结合其存
+货周转率来看，该部分资产质量一般。
+与年初相比，截至2016年6月底，公司总资
+产降低至1738.99万元，主要是流动资产的减少
+，部分应收账款和其他应收款得到回收，但资
+金用于经营支出，公司货币资金保有量仍然偏
+低，存在资金周转压力。
+总体看，奥贝克资产质量和资产流动性一
+般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，奥贝克速动比率分别为3.64倍、1.20
+倍和1.16倍，同期保守速动比率分别为0.10倍
+、0.01倍和0.04倍，公司短期支付能力偏弱。
+2013-
+2015年，奥贝克息税折旧摊销前盈余EBITDA分
+别为-73.67万元、-1095.03万元和-
+87.29万元，公司经营获取盈余的能力偏弱。
+2013-
+2015年，公司经营活动产生的现金流量净额分
+别为-
+62.76万元、76.49万元和57.60万元，经营活动
+产生净现金流的能力一般，资金周转压力较大
+。
+奥贝克目前无有息债务负担，短期内亦无
+贷款计划。
+综合考虑公司的经营状况、资产构成、盈
+利状况及财务结构等因素，君维诚认为奥贝克
+未来一个时期发生信用风险的可能性一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年公司负债均为流动负债，主要由应付账
+款构成。公司近三年资产负债率分别为15.37%
+、42.43%和48.96%，公司近期负债压力加大，
+但整体仍处于适中水平。
+截至2016年6月底，奥贝克负债总额为839.
+63万元，均为流动负债，主要为应付账款，是
+圆片、封装芯片等原材料采购款，以及委托生
+产封装费用。
+结合目前的经营状况看，奥贝克财务弹性
+一般，外部债务融资能力有限。</enterprise:财务弹性>
+    <enterprise:盈利能力>受产品更新换代较慢影响，奥贝克近三年
+主营业务收入波动下降。同时，由于原材料价
+格及生产成本的上升，加之产品可复制性强，
+市场竞争加剧，导致公司利润一直处于较低水
+平，呈现亏损。2014年由于子公司经营不善，
+奥贝克计提1135.42万元的资产减值损失，致使
+公司当年亏损程度大幅扩大。2015年随着新产
+品的上市，公司销售规模略有回升，同时对全
+资子公司的剥离已经完成，整体经营状况有所
+好转。
+2013-
+2015年，奥贝克总资产报酬率和净资产收益率
+均为负值，公司整体资产获利能力偏弱。
+图二：2013-2015年公司盈利能力状况（万元，%）
+从收入实现质量来看，2013-
+2015年公司现金收入比分别为1.18倍、0.93倍
+和1.02倍，公司整体收入实现质量尚可。同期
+，经营现金流入流出比分别为0.96倍、1.07倍
+和1.05倍，公司经营活动获取现金的能力尚可
+。
+总体看，奥贝克主营业务获利能力和整体
+资产盈利能力偏弱，收入实现质量尚可。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京奥贝克电子股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+记录；通过在中国执行信息公开网查询，未发
+现公司存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>油田化学品的生产和油田技术服务的市场
+需求直接受到油气勘探开发和生产投资规模的
+影响。如果油气价格持续低迷，将会抑制或延
+迟油田公司的勘探开发和生产投资，从而减少
+或延缓对油田化学品及油田技术服务的需求，
+将对公司业务发展造成不利的影响。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司客户以大型央企为主，客户结算
+采用预算制，付款流程繁琐，导致公司资金回
+笼相对较慢。 
+（2）公司其他应收款占流动资产比重较
+大，且账龄主要在 1~2 年以内，在一定程度上
+影响了公司流动资金的周转。 
+（3）公司经营活动获取现金的能力弱，整
+体现金流状况有待改善。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京奥贝克电子股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>2324.10 </enterprise:资产总额>
+    <enterprise:所有者权益>1966.78 </enterprise:所有者权益>
+    <enterprise:负债总额>357.31 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1308.95 </enterprise:营业收入>
+    <enterprise:EBITDA>-73.67 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奥贝克电子股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>1763.66 </enterprise:资产总额>
+    <enterprise:所有者权益>1015.27 </enterprise:所有者权益>
+    <enterprise:负债总额>748.39 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1128.63 </enterprise:营业收入>
+    <enterprise:EBITDA>-1095.03 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京奥贝克电子股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>1825.62 </enterprise:资产总额>
+    <enterprise:所有者权益>931.77 </enterprise:所有者权益>
+    <enterprise:负债总额>893.84 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1189.23 </enterprise:营业收入>
+    <enterprise:EBITDA>-87.29 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京奥贝克电子股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>55.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>113.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>302.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奥贝克电子股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>55.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>111.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>201.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京奥贝克电子股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>66.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>127.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>200.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奥贝克电子股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-3.65 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-3.25 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>9.50 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奥贝克电子股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-109.84 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-63.23 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>-75.39 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京奥贝克电子股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>-10.54 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-5.38 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>8.01 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奥贝克电子股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>476.77 </enterprise:流动比率>
+    <enterprise:速动比率>364.10 </enterprise:速动比率>
+    <enterprise:资产负债率>15.37 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奥贝克电子股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>193.01 </enterprise:流动比率>
+    <enterprise:速动比率>120.26 </enterprise:速动比率>
+    <enterprise:资产负债率>42.43 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京奥贝克电子股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>169.60 </enterprise:流动比率>
+    <enterprise:速动比率>115.53 </enterprise:速动比率>
+    <enterprise:资产负债率>48.96 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京奥贝克电子股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>13.03 </enterprise:毛利率>
+    <enterprise:成本费用利润率>14.99 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.18 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-17.57 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>4.84 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-14.98 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>51.19 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奥贝克电子股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>15.73 </enterprise:毛利率>
+    <enterprise:成本费用利润率>-94.56 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.93 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>10.22 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-13.78 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>1318.65 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京奥贝克电子股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>13.67 </enterprise:毛利率>
+    <enterprise:成本费用利润率>5.65 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.02 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>6.44 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>5.37 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>91.23 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京奥贝克电子股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>35.47 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1145.42 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>14.68 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>105.41 </enterprise:其他应收款>
+    <enterprise:存货>402.58 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1703.56 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>501.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>31.39 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.54 </enterprise:无形资产>
+    <enterprise:开发支出>65.70 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>21.91 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>620.54 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2324.10 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奥贝克电子股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>5.94 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>886.40 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>3.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>4.66 </enterprise:其他应收款>
+    <enterprise:存货>544.46 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1444.46 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>19.22 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>32.24 </enterprise:无形资产>
+    <enterprise:开发支出>78.14 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>189.60 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>319.20 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1763.66 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京奥贝克电子股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>36.23 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1139.50 </enterprise:应收账款>
+    <enterprise:坏账准备>156.13 </enterprise:坏账准备>
+    <enterprise:预付款项>7.87 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>0.26 </enterprise:其他应收款>
+    <enterprise:存货>483.30 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>4.95 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1515.98 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>16.06 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>24.50 </enterprise:无形资产>
+    <enterprise:开发支出>64.80 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>204.28 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>309.64 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1825.62 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奥贝克电子股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>653.78 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-13.80 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>108.41 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>748.39 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>748.39 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>278.62 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1063.35 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1015.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1015.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1763.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奥贝克电子股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>653.78 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-13.80 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>108.41 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>748.39 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>748.39 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>278.62 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1063.35 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1015.27 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1015.27 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1763.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京奥贝克电子股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>880.49 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>9.86 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>3.49 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>893.84 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>893.84 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1800.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>278.62 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1146.85 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>931.77 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>931.77 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1825.61 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京奥贝克电子股份有限公司2013年利润表">
+    <enterprise:营业收入>1308.95 </enterprise:营业收入>
+    <enterprise:主营业务收入>1308.95 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1138.37 </enterprise:营业成本>
+    <enterprise:主营业务成本>1138.37 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.42 </enterprise:营业税金及附加>
+    <enterprise:销售费用>23.13 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>253.74 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>3.36 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-2.19 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>144.86 </enterprise:营业利润>
+    <enterprise:营业外收入>30.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>174.86 </enterprise:利润总额>
+    <enterprise:所得税费用>-11.99 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>186.85 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>186.85 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京奥贝克电子股份有限公司2014年利润表">
+    <enterprise:营业收入>1128.63 </enterprise:营业收入>
+    <enterprise:主营业务收入>1128.63 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>951.08 </enterprise:营业成本>
+    <enterprise:主营业务成本>951.08 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.79 </enterprise:营业税金及附加>
+    <enterprise:销售费用>29.72 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>186.11 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4.17 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>1135.42 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>-993.55 </enterprise:营业利润>
+    <enterprise:营业外收入>60.46 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>-933.09 </enterprise:利润总额>
+    <enterprise:所得税费用>-167.69 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>-765.40 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>-765.40 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京奥贝克电子股份有限公司2015年利润表">
+    <enterprise:营业收入>1189.23 </enterprise:营业收入>
+    <enterprise:主营业务收入>1189.23 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1026.68 </enterprise:营业成本>
+    <enterprise:主营业务成本>1026.68 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>2.02 </enterprise:营业税金及附加>
+    <enterprise:销售费用>32.05 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>158.16 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.13 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>68.83 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>59.52 </enterprise:营业利润>
+    <enterprise:营业外收入>0.47 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>59.99 </enterprise:利润总额>
+    <enterprise:所得税费用>-14.68 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>74.67 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>74.67 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京奥贝克电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1545.56 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>30.20 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1575.76 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1349.25  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>124.72 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>13.42 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>151.15 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1638.54 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-62.78 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>64.43 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>100.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>164.43 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-164.43 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>100.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>100.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3.41 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>3.41 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>96.59 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-130.62 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京奥贝克电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1049.92 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>168.50 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1218.42 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>848.67  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>166.44 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>22.42 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>104.41 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1141.94 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>76.48 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>10.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>10.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>11.97 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>11.97 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1.97 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>100.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>4.05 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>104.05 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-104.05 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-29.54 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京奥贝克电子股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1207.47 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1.78 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1209.25 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>779.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>151.01 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>17.46 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>204.19 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1151.66 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>57.59 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>27.30 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>27.30 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-27.30 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>30.29 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：徐立 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>徐立 </enterprise:股东名称>
+	 <enterprise:货币>432.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>24.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：郭兵兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>郭兵兵 </enterprise:股东名称>
+	 <enterprise:货币>388.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>21.60%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：温克效 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>温克效 </enterprise:股东名称>
+	 <enterprise:货币>360.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：王广宝 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王广宝 </enterprise:股东名称>
+	 <enterprise:货币>169.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.40%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：温庚红 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>温庚红 </enterprise:股东名称>
+	 <enterprise:货币>97.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.40%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：祁巧玲 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>祁巧玲 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：杜乐 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杜乐 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：王素琴 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王素琴 </enterprise:股东名称>
+	 <enterprise:货币>90.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京奥贝克电子股份有限公司股东：张素梅 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张素梅 </enterprise:股东名称>
+	 <enterprise:货币>82.8万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.60%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京奥贝克电子股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>11-7-13</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>9712452</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京奥贝克电子股份有限公司的专利信息：一种适用于体硅CMOS可抑制寄生闩锁效应的器件结构">
+	<enterprise:有申请公布日>15-1-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种适用于体硅CMOS可抑制寄生闩锁效应的器件结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410608886.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104319286A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京奥贝克电子股份有限公司的专利信息：一种广谱电子驱虫器">
+	<enterprise:有申请公布日>13-7-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种广谱电子驱虫器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320045300.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203027990U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:员工基本信息 rdf:ID="北京奥贝克电子股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京奥贝克电子股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京奥贝克电子股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京奥贝克电子股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京奥贝克电子股份有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京奥贝克电子股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京奥贝克电子股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京奥贝克电子股份有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京奥贝克电子股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息></enterprise:欠税信息>
+	<enterprise:有其它信息></enterprise:有其它信息>
+	<enterprise:有主要税种及税率></enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额></enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额></enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京奥贝克电子股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京奥贝克电子股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录></enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录></enterprise:信用网查询记录>
+	<enterprise:纳税信用等级></enterprise:纳税信用等级>
+	<enterprise:互联网查询情况></enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+	<enterprise:专利总计>2</enterprise:专利总计>
+<enterprise:商标数量 rdf:ID="北京奥贝克电子股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

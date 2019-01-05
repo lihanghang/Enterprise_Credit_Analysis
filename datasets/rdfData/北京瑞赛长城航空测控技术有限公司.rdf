@@ -1,0 +1,2153 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京瑞赛长城航空测控技术有限公司0的企业概况">
+    <enterprise:有名称>北京瑞赛长城航空测控技术有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>91110302633055140C</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局</enterprise:有登记机关>
+    <enterprise:有中征码>11010000055324630</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京经济技术开发区宏达北路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>173</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1990年</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1200.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2052年</enterprise:有营业执照到期日>
+    <enterprise:有股本>1200.00</enterprise:有股本>
+    <enterprise:有经营范围>制造自动化测控设备、普通机械、仪器仪表、电子产品、通讯设备；施工总承包；自动化测控系统、机电一体化运动仿真设备、特种机械加工设备、计算机、通讯设备、传感器、仪表、液压伺服元件、机械设备、电子产品的技术开发、技术咨询、技术转让、技术服务；销售机械设备（不含小汽车）、电子产品、计算机软件及辅助设备（不含行政许可的项目）、电子元器件、仪器仪表、通讯设备；货物进出口、技术进出口；安全技术防范系统设计、计算机系统设计；设备安装（不含行政许可的项目）。（领取本执照后，应到住建委取得行政许可；应到市商务委或区县商务委备案）（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）制造自动化测控设备、普通机械、仪器仪表、电子产品、通讯设备；施工总承包；自动化测控系统、机电一体化运动仿真设备、特种机械加工设备、计算机、通讯设备、传感器、仪表、液压伺服元件、机械设备、电子产品的技术开发、技术咨询、技术转让、技术服务；销售机械设备（不含小汽车）、电子产品、计算机软件及辅助设备（不含行政许可的项目）、电子元器件、仪器仪表、...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>易燃易爆和特种环境测控系统及测控设备的研发、制造及销售</enterprise:有主营业务>
+    <enterprise:有行业分类>工业自动化控制系统装置制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市北京经济技术开发区隆庆街甲</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市北京经济技术开发区隆庆街甲</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100176</enterprise:有邮政编码>
+    <enterprise:有联系人>季军陶</enterprise:有联系人>
+    <enterprise:有联系电话>010-67884007</enterprise:有联系电话>
+    <enterprise:有传真电话>010-67863442</enterprise:有传真电话>
+    <enterprise:有E-mail>—</enterprise:有E-mail>
+    <enterprise:有网址>www.c-bmc.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京瑞赛长城航空测控技术有限公司（以
+下简称“公司”）是以长城工业控制计算机技术
+公司为主体，将北京长城工业控制计算机技术
+公司、北京安航高科技公司、北京长安矿山测
+控技术公司及北京瑞赛科技有限公司科技发展
+部、石化测控工程部、电子衡器部合并改制而
+来，于 1990年 7月 30日在北京市工商行政管
+理局注册成立，初始注册资本为 800.00万元，
+后经多次增资及股权结构变更，截至评级时点，
+公司注册资本 1200.00 万元，股东出资及持股
+情况为：中航高科智能测控有限公司出资
+480.00万元，持股 40.00%；航天科工惯性技术
+有限公司出资 180.00 万元，持股 15.00%；沈
+阳黎明航空发动机（集团）有限责任公司出资
+180.00万元，持股 15.00%；其余出资人合计出
+资 360.00 万元，共持股 30.00%；以上股东均
+以货币出资。 
+公司经营范围：“制造自动化测控设备、普
+通机械、仪器仪表、电子产品、通讯设备；施
+工总承包；自动化测控系统、机电一体化运动
+仿真设备、特种机械加工设备、计算机、通讯
+设备、传感器、仪表、液压伺服元件、机械设
+备、电子产品的技术开发、技术咨询、技术转
+让、技术服务；销售机械设备（不含小汽车）、
+电子产品、计算机软件及辅助设备（不含行政
+许可的项目）、电子元器件、仪器仪表、通讯设
+备；货物进出口、技术进出口；安全技术防范
+系统设计、计算机系统设计；设备安装（不含
+行政许可的项目）”。公司主营业务为易燃易爆
+和特种环境测控系统及测控设备的研发、制造
+及销售。 
+截至 2016 年 6 月底，公司资产总额
+20518.08万元，固定资产净额 985.70万元，所
+有者权益 12306.29万元；2015年，公司实现营
+业收入 19456.46万元，利润总额 179.12万元；
+2016年 1~6月，公司实现营业收入 3233.33万
+元，利润总额 19.89 万元。公司现有员工 173
+人，在北京市属于中型企业。 
+公司注册及经营地址：北京市北京经济技
+术开发区隆庆街甲 10号；法定代表人：梅方清；
+统一社会信用代码：91110302633055140C；贷
+款卡编码：11010000055324630；营业期限：自
+2002年 12月 18日至 2052年 12月 17日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京瑞赛长城航空测控技术有限公司0的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司董事长梅方清，51岁，硕士研究生学
+历，2010 年至 2012 年任北京航空工程制造研
+究所副处长，2012年至 2016年 3月任中航工
+业技术基础院科研管理部部长，2016年 4月至
+今任公司法定代表人、董事长，并任中航高科
+智能测控有限公司总经理、党委副书记和北京
+长城航空测控技术研究所所长、智控中心主任。 
+公司总经理申燕双，53岁，硕士研究生学
+历，1985 年至 2002 年就职于中航工业第 634
+研究所，2002年加入公司，行业和管理经验丰
+富。申燕双 1987年参加撰写的《KJ4煤矿安全
+监测系统》获航空部科技成果一等奖，2000年
+因主持开发“KJ2000N煤矿安全监测系统软件”
+获航空部 634所“科技先进工作者”称号。 
+公司副总经理张劲广，43岁，硕士研究生
+学历，1997年 4月至 2006年 6月就职于中航
+工业第 634研究所石化测控部，2006年 6月至
+今历任公司石化测控部副部长、副总经理兼石
+化测控部部长、党总支书记兼副总经理等职务，
+分管党政工团、质量、安全和石化业务，行业
+和管理经验丰富。 
+公司行政总监张文放，35岁，硕士研究生
+学历，曾担任中华财务咨询有限公司项目经理，
+2011年加入公司，曾担任综合部部长、总经理
+助理，现任公司行政总监，行政管理经验丰富。 
+公司副总工程师于戈，49岁，本科学历，
+2009年加入公司，曾担任安全测控部销售、销
+售主管、副部长、部长，现任公司副总工程师，
+同业从业经验丰富。 
+总体看，公司高管人员学历水平高，从业
+经验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 173人。 
+从年龄构成看，公司员工年龄在 25岁以下
+者 3人，占比 1.73%；25~45岁者 21人，占比
+12.14%；45岁以上者 149人，占比 86.13%。 
+从学历构成看，公司员工中本科及以上学
+历者 107人，占比 61.85%；专科学历者 46人，
+占比 26.59%；高中及以下学历者 20人，占比
+11.56%。 
+从岗位构成看，公司现有管理人员 64人，
+占比 36.99%；技术人员 96人，占比 55.49%；
+作业人员 13人，占比 7.52%。 
+总体看，公司员工学历水平较高，员工岗
+位构成符合公司的经营特点。 
+3．研发人员素质 
+公司现有研发人员 96人，其中：本科及以
+上学历者 63 人，占研发人员总数的 65.63%，
+研发人员学历水平较高。 
+公司副总工程师刘洪斌，45岁，博士研究
+生学历，曾就职于中航工业第 634研究所，2003
+年加入公司，曾担任仿真测控部技术员、副部
+长，同业从业经验丰富。 
+公司主要研发人员苗丙，34岁，硕士研究
+生学历，2007年加入公司，现任安全测控部副
+部长。 
+公司主要研发人员王彪，54岁，本科学历，
+2002年加入公司，现任石化测控部副部长，主
+管科研生产工作，至今已完成十余项产品研发
+及系统集成设计项目。 
+公司主要研发人员张明华，40岁，硕士研
+究生学历，2003年加入公司，现任仿真测控部
+副部长。 
+总体看，公司研发人员学历水平较高，研
+发人员配备能够满足公司现阶段研发需求。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司研究开发任务由四个事业部（安全测
+控部、石化测控部、仿真测控部、加载测控部）
+承担。安全测控部、石化测控部主要负责民用
+领域科研、生产项目的研制，仿真测控部、加
+载测控部主要负责国防科研、生产项目的研制。 
+公司根据战略发展规划、技术储备、市场
+动态、用户需求等，在公司立项或承接横向合
+同的过程中，涉及到合作攻关等方面的研发项
+目，有部分会联合科研院所、各大高校等，进
+行产学研合作的研发活动。 
+公司每年定期召开行业内的专门研讨会，
+适时就专业技术的共性问题、特殊问题及测控
+产业军、民用发展方向等方面进行学术性研讨
+与规划。此外，针对研究开发的学习、培训、
+会议、调研、走访，也是公司开展产学研活动
+与开展科研管理组织工作的重要组成部分。 
+近三年，公司的研发费用分别为 1131.00
+万元、1104.54万元、1197.64万元，主要用于
+支付研发人员工资、购买研发材料等，分别占
+当年营业收入的 6.10%、5.87%、6.16%，研发
+投入基本稳定。 
+总体看，公司研发投入能够满足公司现阶
+段研发需求，科研条件较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>1131.00万元,1104.54万元,1197.64万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例>6.10%,5.87%,6.16%,</enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京瑞赛长城航空测控技术有限公司0的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营场所位于北京市北京经济技术开
+发区隆庆街甲 10号，使用方式为租赁，租用面
+积 5671.00 平方米，该地交通便利。公司拥有
+一处自有房产，位于北京经济技术开发区地盛
+北街 1号，目前评估总价 3412.00万元。 
+公司成立至今26年，产品在煤矿、石化、
+军工等领域具有一定市场占有率，知名度较高。 
+公司资质情况详见下表 2所示，现有资质
+能够满足公司生产、经营需求。 
+表 2  公司所获资质 
+序号 资质名称及有效期 
+国家高新技术企业证书 
+1 
+（编号：GR201511003463；有效期至 2018年 10月） 
+建筑智能化工程专业承包叁级 
+2 
+（编号：B3204011011519） 
+安全生产许可证 
+3 
+（编号：（京）JZ安许证字【2011】236377） 
+资料来源：公司提供，联合信用整理 
+总体看，公司经营条件较好，业内知名度
+较高。 
+2．业务运作 
+公司主营业务为易燃易爆和特种环境测控
+系统及测控设备的研发、制造及销售，主导产
+品包括煤矿安全生产监控系统、制氮机、油罐
+自动计量系统、伺服控制系统及转台，其中：
+制氮机主要应用于煤矿防火防爆；油罐自动计
+量系统主要应用于中石油、中石化的油库；伺
+服控制系统主要应用于钢厂；转台主要应用于
+航空、航天、兵器等领域的实验室内。 
+生产方面，公司具有一定的机加工和焊接
+能力，主要设备有交直流弧焊机、卧式带锯床、
+空压机等。转台属于定制产品，生产周期较长，
+主要是研发设计阶段耗时较长，一般从签订订
+单到交货需要 2~3年时间；其他产品基本上是
+通用产品，生产周期在 1~2个月。 
+采购方面，公司主要采购空气压缩机及配
+件、计算机、服务器、电子元器件、机箱、机
+柜等。空气压缩机为制氮机核心部件，结算方
+式通常为货到付款。上述原材料中硬件采购价
+格近三年有所上升，致使公司营业成本逐年上
+升，议价能力较低，总成本较高。 
+销售方面，公司主要通过直销、招投标方
+式销售，公司下游客户主要集中在煤矿、石化、
+军工（航空、航天、兵器）等领域，产品分布
+在全国的二十多个省、市（直辖市）、自治区。
+结算方面，公司一般会预收 20%~30%货款，交
+货评审后收 30%货款，设备正常运行后收至
+90%，余款 10%作为质保金，质保期 1-2年。 
+总体看，公司上下游渠道通畅，经营状况
+稳定。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 97.36  97.36  99.32  
+管理费用率(%)  8.42   8.41   8.03  
+存货周转次数(次) 14.42   13.33  13.02  
+应收账款周转次数(次)  1.43   1.47  1.55 
+总资产周转次数(次)  1.00   0.99  1.00  
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率呈小幅上升趋势，始
+终处于行业高水平，主要是由于产品硬件采购
+价格上升致使采购成本有所增加；同期，管理
+费用率呈现小幅下降，处于较低水平，管理费
+近三年，公司存货周转次数呈下降趋势，
+但仍处于行业高水平，公司存货主要为公司日
+常经营所需的备货；同期，应收账款周转次数
+始终处于行业低水平，主要原因是转台产品生
+产周期较长，其次是除转台外的其他产品客户
+付款周期较长所致；同期，总资产周转次数表
+现较平稳，但仍保持在行业较高水平。 
+总体看，公司经营效率尚可。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会为公司的权力机构，决定公司的经
+营方针和投资计划等事宜；公司设立董事会，
+由 5名董事组成，设董事长 1名，现由梅方清
+担任，董事会行使负责召集股东会并向股东会
+报告工作、执行股东会的决议等职权；公司设
+监事会，由 3名监事组成，行使检查公司财务、
+对董事和高级管理人员的行为进行监督等职
+权；公司设总经理 1人，现由申燕双担任，总
+经理对董事会负责，行使主持公司的生产经营
+管理工作、组织实施董事会决议等职权。 
+本着专业分工与协作、稳定性与适应性相
+结合的原则，公司设立了五大职能部、四大事
+业部和新技术推广办公室，其中：五大职能部
+分别为综合管理部、科技发展部、资产财务部、
+质量管理部、经营管理部；四大事业部分别为
+安全测控事业部、石化测控事业部、仿真测控
+事业部和加载测控事业部。公司各部门职能划
+分明确，协作有序。 
+总体看，公司法人治理结构基本建立，部
+门设置合理。 
+2．制度建设及执行 
+公司制定了《人事管理制度》、《行政管理
+制度》、《生产管理制度》、《财务管理制度》等
+一系列规章制度，并在实际工作中严格执行。
+公司于 2015年 7月通过了 ISO 9001:2008《质
+量管理体系》认证（有效期至 2018年 7月），
+各部门业务流程严格按照管理体系标准运作。 
+总体看，公司制度建设完善，制度执行情
+况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测规则，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016年将实现营业收入 17000.00万元，
+净利润 400.00万元，资产总额 20689.38万元，
+负债总额 8000.00 万元，所有者权益 12689.38
+万元。相比 2015 年，联合信用预测公司 2016
+年营业收入增长率为-12.63%，负债率变动幅度
+为 0.70%，净资产收益率变动幅度为 1.80%。 
+总体看，公司未来短期内发展稳定。 
+2．融资需求 
+公司有 1400.00万元融资需求，主要用于
+补充流动资金。公司计划通过银行贷款来筹集
+资金，股东有可供抵押的资产。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京瑞赛长城航空测控技术有限公司0的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 19167.92万
+元、18983.26万元、19810.31万元，复合增长
+率为 1.66%，增幅较小。 
+截至 2016 年 6 月底，公司资产总额
+20518.08万元，其中：流动资产占比 91.01%，
+非流动资产占比 8.99%。 
+图 1  公司 2016年 6月底流动资产构成 
+截至 2016 年 6 月底，公司流动资产
+18672.89万元，其中：货币资金 1654.91万元，
+占比 8.86%；应收账款 12174.94 万元，占比
+65.20%，主要为应收阳泉煤业集团有限公司、
+淮南矿业集团有限公司、黑龙江龙煤鹤岗矿业
+有限责任公司、淮北矿业集团、平顶山天安煤
+业股份有限公司的货款，账龄在 1年以内的占
+比 48.25%，1~2年的占比 28.79%，2年以上的
+占比 23.00%，账龄较长主要为部分产品生产周
+期长及部分产品因约定结算方式影响，回款较
+慢所致，公司已按账龄分析法计提坏账准备；
+预付款项 800.39万元，占比 4.29%，主要为预
+付内蒙古方圆铝业有限公司、永鼎永信国际科
+贸（北京）有限公司、无锡市海航电液伺服系
+统股份有限公司、沈阳航天新星机电有限责任
+公司、沈阳明腾科技有限公司的货款，账龄在
+1年以内的占比 46.03%，1~2年的占比 20.32%，
+2年以上的占比 33.65%；存货 3372.90万元，
+占比 18.06%，主要为半成品及产成品（大部分
+为转台及煤矿安全生产监控系统）。 
+1845.19 万元，其中：固定资产净额 985.70 万
+元，占比 53.42%，主要为房屋及建筑物、运输
+工具及机器设备；开发支出 377.89万元，占比
+20.48%；递延所得税资产 469.45 万元，占比
+25.44%。 
+总体看，公司资产以流动性资产为主，资
+产质量尚可，但应收账款占比较大，账龄超过
+1 年的相对较多，且周转速度慢，导致资产流
+动性一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016年 6月底，公司
+流动比率为 227.56%，速动比率为 186.46%，
+均处于行业一般水平；2015年，公司现金流动
+负债比为-0.48%，经营活动获取现金尚不能对
+流动负债提供保障，公司短期偿债能力一般。 
+从长期偿债能力看，2015年，公司EBITDA
+利息倍数和债务保护倍数分别为 5.58倍和 0.21
+倍，均处于行业较低水平，公司长期偿债能力
+较弱。 
+总体看，公司偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为 7463.86 万
+元、6815.97万元、7520.93万元，复合增长率
+为 0.38%，较为平稳。 
+近三年，公司资产负债率分别为 38.94%、
+35.91%、37.96%，全部债务资本化比率分别为
+7.51%、6.89%、10.23%，呈上升降趋势。2016
+年 6月底，公司资产负债率为 40.02%，全部债
+务资本化比率为 10.21%，负债水平一般，有息
+债务压力一般。 
+截至 2016年 6月底，公司负债总额 8211.80
+万元，其中：流动负债占比 99.92%，非流动负
+债占比 0.08%。 
+截至2016年6月底，公司流动负债8205.73
+万元，其中：短期借款 1400.00 万元（详见下
+表 4所示）；应付账款 3104.97万元，主要为应
+付上海坤嘉自动化科技有限公司、西安嘉业航
+空科技有限公司、阳泉红海机电有限公司、上
+海永晋自动化仪表公司、上海穆格动力控制有
+限公司的采购款，账龄在 1 年以内的占比
+68.43%，1~2年的占比 9.87%，2年以上的占比
+21.70%；预收款项 1480.15 万元，主要为预收
+中国兵器工业第 203研究所、西安现代控制技
+术研究所、义马煤业集团股份有限公司、中国
+航空工业第一集团公司西安飞行自控所、山西
+国阳新能股份有限公司的货款，账龄在 1年以
+以上的占比 40.43%；应付职工薪酬 1031.47万
+元；其他应付款 1280.02 万元，主要为应付补
+充养老金、技术开发费、中航工业北京长城航
+空测控研究所的借款，以及个税返还，账龄全
+部集中在 2年以上。 
+表 4  公司 2016年 6月底短期借款情况 
+贷款 贷款额 担保 
+放款日 还款日 
+银行 (万元) 方式 
+招商银行 
+股份有限公司 500.00 2015.9.24 2016.9.23 
+北京青年路支行 
+股东 
+中航工业集团 
+400.00 2015.11.28 2016.11.27 房产 
+财务有限责任公司 
+抵押 
+招商银行 
+股份有限公司 500.00 2015.9.28 2016.9.27 
+北京青年路支行 
+资料来源：公司提供，联合信用整理 
+截至 2016年 6月底，公司非流动负债 6.07
+万元，全部为递延所得税负债。 
+近三年，公司所有者权益分别为 11704.05
+万元、12167.29万元、12289.38万元，呈逐年
+上升趋势，复合增长率为 2.47%，为留存收益
+的积累所促成。 
+截至 2016 年 6 月底，公司所有者权益
+12306.29万元，其中：实收资本 1200.00万元，
+占比 9.75%；资本公积 23.51万元，占比 0.19%，
+为资本溢价；盈余公积 1415.65 万元，占比
+11.50%；未分配利润 9667.13 万元，占比
+78.55%。 
+近三年，公司已进行利润分配。 
+总体看，公司负债水平一般，有息债务压
+力一般，所有者权益对债务的保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 18543.31万
+元、18829.12万元、19456.46万元，复合增长
+率为 2.43%，收入增长较平稳；同期，利润总
+额分别为 553.45万元、607.10万元、179.12万
+元，复合变动率为-43.11%，利润大幅下降，主
+要是由于原材料中硬件采购成本上升所致。 
+近三年，公司主营业务利润率分别为
+14.93%、14.32%、12.69%，净资产收益率分别
+为 4.11%、4.30%、1.41%，总资产报酬率分别
+为 3.22%、3.65%、1.26%，上述三个指标均呈
+现下降趋势，公司现阶段盈利能力较弱。 
+图 2  公司近三年盈利能力指标变动趋势 
+近三年，公司现金收入比分别为 103.85%、
+107.22%、106.04%，整体呈现上升趋势，加权
+平均值为 105.95%，处于行业一般水平。 
+总体看，公司盈利能力较弱，收入实现质
+量一般。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京瑞赛长城航空测控技术有限公司0的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司在北京市工商行政
+管理局、北京市税务局有行政处罚记录；通过
+在中国执行信息公开网查询，未发现公司有被
+执行记录。 
+截至评级时点，联合信用未发现公司有未
+决诉讼、票据贴现、对外担保等或有负债；公
+司以往银行借款还本付息情况正常，未发现公
+司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司应收账款占比较大，账龄较长，
+且周转速度慢，导致资产流动性一般，关注应
+收账款的的回款情况。 
+（2）公司盈利能力较弱，收入实现质量一
+般。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年基本财务指标">
+    <enterprise:资产总额>19167.92 </enterprise:资产总额>
+    <enterprise:所有者权益>11704.05 </enterprise:所有者权益>
+    <enterprise:负债总额>7461.22 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>18543.31 </enterprise:营业收入>
+    <enterprise:EBITDA>711.94 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年基本财务指标">
+    <enterprise:资产总额>18983.27 </enterprise:资产总额>
+    <enterprise:所有者权益>12167.29 </enterprise:所有者权益>
+    <enterprise:负债总额>6810.98 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>18829.12 </enterprise:营业收入>
+    <enterprise:EBITDA>813.28 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年基本财务指标">
+    <enterprise:资产总额>19810.31 </enterprise:资产总额>
+    <enterprise:所有者权益>12289.38 </enterprise:所有者权益>
+    <enterprise:负债总额>7514.86 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>19456.46 </enterprise:营业收入>
+    <enterprise:EBITDA>365.51 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02013运营能力指标">
+    <enterprise:总资产周转次数>1.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>17.06 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>31.31 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02014运营能力指标">
+    <enterprise:总资产周转次数>0.99 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>9.18 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>15.35 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02015运营能力指标">
+    <enterprise:总资产周转次数>1.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.86 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>16.82 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>17.05 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>16.83 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>14.02 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年偿债能力指标">
+    <enterprise:流动比率>234.24 </enterprise:流动比率>
+    <enterprise:速动比率>218.79 </enterprise:速动比率>
+    <enterprise:资产负债率>38.93 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>15.34 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年偿债能力指标">
+    <enterprise:流动比率>255.15 </enterprise:流动比率>
+    <enterprise:速动比率>236.79 </enterprise:速动比率>
+    <enterprise:资产负债率>35.88 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>9.22 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年偿债能力指标">
+    <enterprise:流动比率>243.36 </enterprise:流动比率>
+    <enterprise:速动比率>225.41 </enterprise:速动比率>
+    <enterprise:资产负债率>37.93 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>5.58 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>15.45 </enterprise:毛利率>
+    <enterprise:成本费用利润率>12.55 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.09 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>17.49 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>7.51 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>14.92 </enterprise:毛利率>
+    <enterprise:成本费用利润率>12.75 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.07 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>1.81 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>6.89 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>13.06 </enterprise:毛利率>
+    <enterprise:成本费用利润率>9.86 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.06 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-0.48 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>10.23 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年资产负债表（资产）">
+    <enterprise:货币资金>1965.34 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>15.68 </enterprise:应收票据>
+    <enterprise:应收账款>12988.39 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>992.20 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>362.62 </enterprise:其他应收款>
+    <enterprise:存货>1152.62 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>17476.85 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1234.68 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>20.35 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>436.04 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1691.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>19167.92 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年资产负债表（资产）">
+    <enterprise:货币资金>1925.38 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>33.00 </enterprise:应收票据>
+    <enterprise:应收账款>12601.05 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1502.05 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>66.47 </enterprise:其他应收款>
+    <enterprise:存货>1250.02 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>17377.97 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1149.04 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>20.66 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>435.60 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1605.30 </enterprise:非流动资产合计>
+    <enterprise:资产总计>18983.27 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年资产负债表（资产）">
+    <enterprise:货币资金>2271.10 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>499.26 </enterprise:应收票据>
+    <enterprise:应收账款>12477.65 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1643.13 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>47.98 </enterprise:其他应收款>
+    <enterprise:存货>1348.93 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>18288.05 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1037.82 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>14.99 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>469.45 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1522.26 </enterprise:非流动资产合计>
+    <enterprise:资产总计>19810.31 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>900.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2058.99 </enterprise:应付账款>
+    <enterprise:预收款项>1292.37 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1025.31 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>204.62 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1329.69 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6810.98 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6810.98 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.51 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1415.65 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9528.13 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>12167.29 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>12167.29 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>18978.27 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>900.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2058.99 </enterprise:应付账款>
+    <enterprise:预收款项>1292.37 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1025.31 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>204.62 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1329.69 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6810.98 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6810.98 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.51 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1415.65 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9528.13 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>12167.29 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>12167.29 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>18978.27 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1400.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>2189.93 </enterprise:应付账款>
+    <enterprise:预收款项>1291.62 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1026.14 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>385.96 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1221.21 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>7514.86 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>7514.86 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1200.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.51 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1415.65 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>9650.22 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>12289.38 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>12289.38 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>19804.24 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京瑞赛长城航空测控技术有限公司02013年利润表">
+    <enterprise:营业收入>18543.31 </enterprise:营业收入>
+    <enterprise:主营业务收入>18543.31 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>15677.69 </enterprise:营业成本>
+    <enterprise:主营业务成本>15677.69 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>96.93 </enterprise:营业税金及附加>
+    <enterprise:销售费用>692.69 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1520.90 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>62.52 </enterprise:财务费用>
+    <enterprise:利息支出>46.42 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>3.33 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2010.15 </enterprise:营业利润>
+    <enterprise:营业外收入>66.34 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>2.12 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2074.37 </enterprise:利润总额>
+    <enterprise:所得税费用>79.09 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1995.28 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1995.28 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京瑞赛长城航空测控技术有限公司02014年利润表">
+    <enterprise:营业收入>18829.12 </enterprise:营业收入>
+    <enterprise:主营业务收入>18829.12 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>16018.97 </enterprise:营业成本>
+    <enterprise:主营业务成本>16018.97 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>113.93 </enterprise:营业税金及附加>
+    <enterprise:销售费用>575.91 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1542.48 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>84.19 </enterprise:财务费用>
+    <enterprise:利息支出>88.25 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>3.98 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2032.14 </enterprise:营业利润>
+    <enterprise:营业外收入>126.94 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>17.46 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2141.62 </enterprise:利润总额>
+    <enterprise:所得税费用>93.86 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2047.76 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2047.76 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京瑞赛长城航空测控技术有限公司02015年利润表">
+    <enterprise:营业收入>19456.46 </enterprise:营业收入>
+    <enterprise:主营业务收入>19456.46 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>16915.48 </enterprise:营业成本>
+    <enterprise:主营业务成本>16915.48 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>72.53 </enterprise:营业税金及附加>
+    <enterprise:销售费用>499.33 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1551.09 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>61.06 </enterprise:财务费用>
+    <enterprise:利息支出>66.61 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>223.75 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1684.31 </enterprise:营业利润>
+    <enterprise:营业外收入>51.14 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>5.24 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1730.21 </enterprise:利润总额>
+    <enterprise:所得税费用>7.03 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1723.18 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1723.18 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京瑞赛长城航空测控技术有限公司0现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>19257.04 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>5.26 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>209.55 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>19471.85 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>12474.87  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2975.84 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1218.03 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1498.07 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>18166.81 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1305.04 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.03 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.03 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>44.73 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>44.73 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-44.70 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>900.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>900.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>900.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>196.42 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1096.42 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-196.42 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>1063.92 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京瑞赛长城航空测控技术有限公司0现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>20189.18 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>49.80 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>20238.98 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>14664.58  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2818.33 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1028.19 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1604.54 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>20115.64 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>123.34 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.93 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.93 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>33.76 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>33.76 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-32.83 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>900.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>900.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>900.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>130.45 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1030.45 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-130.45 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-39.94 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京瑞赛长城航空测控技术有限公司0现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>20630.91 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>43.43 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>63.75 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>20738.09 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>16748.59  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2375.94 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>524.89 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1124.57 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>20773.99 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-35.90 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.06 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.06 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>3.18 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>3.18 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-3.12 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1400.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1400.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>900.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>115.25 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1015.25 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>384.75 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>345.73 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:被投资单位 rdf:ID="北京瑞赛长城航空测控技术有限公司被投资单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:单位代码>－</enterprise:单位代码>
+	<enterprise:被投资金额>－万元</enterprise:被投资金额>
+	<enterprise:股权比率>－%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：朱正祥 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>朱正祥 </enterprise:股东名称>
+	 <enterprise:货币>27.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.25%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：张振伟 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张振伟 </enterprise:股东名称>
+	 <enterprise:货币>21.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：李霞 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李霞 </enterprise:股东名称>
+	 <enterprise:货币>18.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：何溪波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>何溪波 </enterprise:股东名称>
+	 <enterprise:货币>18.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：董海风 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>董海风 </enterprise:股东名称>
+	 <enterprise:货币>18.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：黄岑越 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>黄岑越 </enterprise:股东名称>
+	 <enterprise:货币>18.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.50%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：金钢 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>金钢 </enterprise:股东名称>
+	 <enterprise:货币>14.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：刘恩朋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘恩朋 </enterprise:股东名称>
+	 <enterprise:货币>14.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：程新智 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>程新智 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：杨冬健 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨冬健 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：张明 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张明 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：王金兰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王金兰 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：高忠伯 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>高忠伯 </enterprise:股东名称>
+	 <enterprise:货币>9.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.75%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：王兵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王兵 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：方昆 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>方昆 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：项东 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>项东 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：张择耕 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张择耕 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：张毅 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张毅 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：刘洪斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘洪斌 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京瑞赛长城航空测控技术有限公司股东：王彪 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王彪 </enterprise:股东名称>
+	 <enterprise:货币>1.44万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京瑞赛长城航空测控技术有限公司的商标信息：OMNIRACK">
+	<enterprise:有申请日期>96-4-25</enterprise:有申请日期>
+	<enterprise:有商标名称>OMNIRACK</enterprise:有商标名称>
+	<enterprise:有注册号>1048388</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京瑞赛长城航空测控技术有限公司的商标信息：BMC">
+	<enterprise:有申请日期>92-2-12</enterprise:有申请日期>
+	<enterprise:有商标名称>BMC</enterprise:有商标名称>
+	<enterprise:有注册号>626473</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京瑞赛长城航空测控技术有限公司的商标信息：BMC">
+	<enterprise:有申请日期>92-2-11</enterprise:有申请日期>
+	<enterprise:有商标名称>BMC</enterprise:有商标名称>
+	<enterprise:有注册号>626423</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种汽轮机控制器">
+	<enterprise:有申请公布日>17-9-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种汽轮机控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621200330.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206515671U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种半实物仿真转台用电气限位保护模块">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半实物仿真转台用电气限位保护模块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720055238.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206440944U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种半实物仿真测试转台及其联轴结构">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半实物仿真测试转台及其联轴结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510896886.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105547348B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：液化天然气加气机检定方法和系统">
+	<enterprise:有申请公布日>17-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>液化天然气加气机检定方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611062075.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107063401A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：金属罐径向偏差测量方法及测量装置">
+	<enterprise:有申请公布日>17-8-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>金属罐径向偏差测量方法及测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611002269.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107036540A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种相机扫描成像的摄影测量方法">
+	<enterprise:有申请公布日>17-8-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种相机扫描成像的摄影测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710248287.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107014293A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：大空间线扫描成像三维测量方法">
+	<enterprise:有申请公布日>17-6-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>大空间线扫描成像三维测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710242392.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106871787A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：液化天然气加气机检定系统">
+	<enterprise:有申请公布日>17-6-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>液化天然气加气机检定系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621282304.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206223267U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：不同温度下油液水分饱和度测试装置及方法">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>不同温度下油液水分饱和度测试装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611158669.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106769303A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种电磁窗测试用八轴转台">
+	<enterprise:有申请公布日>17-5-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁窗测试用八轴转台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611111289.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106771388A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种金属罐径向偏差测量机器人">
+	<enterprise:有申请公布日>17-5-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种金属罐径向偏差测量机器人</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621224158.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206177250U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：直流力矩电机驱动滚珠丝杠副加载的原位校准装置">
+	<enterprise:有申请公布日>17-5-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>直流力矩电机驱动滚珠丝杠副加载的原位校准装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410768141.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104515684B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种电液伺服阀故障诊断方法">
+	<enterprise:有申请公布日>17-4-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电液伺服阀故障诊断方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611161353.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106594000A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种用于气路的碎屑静电监测传感器">
+	<enterprise:有申请公布日>17-4-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于气路的碎屑静电监测传感器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610965588.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106569045A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：智能压紧安装末端执行器及其控制方法">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能压紧安装末端执行器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510707560.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105196299B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：隔爆旋钮机构">
+	<enterprise:有申请公布日>17-3-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>隔爆旋钮机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611064674.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106531524A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于油液粘度在线检测传感器的测量系统和测量方法">
+	<enterprise:有申请公布日>17-3-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于油液粘度在线检测传感器的测量系统和测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410775828.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104502228B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种微型油液检测计量泵">
+	<enterprise:有申请公布日>17-2-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种微型油液检测计量泵</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610993913.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106401893A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：高分子薄膜电容油液水分传感器标定装置及方法">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>高分子薄膜电容油液水分传感器标定装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410532641.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104237330B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种智能涂胶末端执行器">
+	<enterprise:有申请公布日>16-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能涂胶末端执行器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620383688.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205701287U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：气垫式机器人移动平台">
+	<enterprise:有申请公布日>16-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>气垫式机器人移动平台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620383697.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205706939U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种基于PXIe总线的任意波形发生器">
+	<enterprise:有申请公布日>16-8-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于PXIe总线的任意波形发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610169562.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105866482A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：气垫式机器人移动平台及其控制方法">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>气垫式机器人移动平台及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610282318.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105835971A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：单一载体催化元件实现全量程甲烷浓度测量的检测装置">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>单一载体催化元件实现全量程甲烷浓度测量的检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520908447.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205426838U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种电磁屏蔽测试装置">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电磁屏蔽测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521010596.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205426975U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种智能涂胶末端执行器及其控制方法">
+	<enterprise:有申请公布日>16-7-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种智能涂胶末端执行器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610285416.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105750157A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于易燃易爆环境的便携式瓦斯超限及违章操作取证仪">
+	<enterprise:有申请公布日>16-6-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于易燃易爆环境的便携式瓦斯超限及违章操作取证仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521046300.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205315044U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种半实物仿真测试转台及其联轴结构">
+	<enterprise:有申请公布日>16-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种半实物仿真测试转台及其联轴结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510896886.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105547348A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种发动机滑油金属颗粒在线监测的信号检波方法">
+	<enterprise:有申请公布日>16-5-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种发动机滑油金属颗粒在线监测的信号检波方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510893946.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105547932A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：智能压紧安装末端执行器">
+	<enterprise:有申请公布日>16-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能压紧安装末端执行器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520839618.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205184780U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：矿用本安型多总线数据分析仪">
+	<enterprise:有申请公布日>16-4-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>矿用本安型多总线数据分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201521042075.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205195725U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种发动机滑油金属颗粒在线监测的信号降噪方法">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种发动机滑油金属颗粒在线监测的信号降噪方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510894369.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105509771A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：利用周期性供电方式驱动催化元件实现甲烷测量的方法">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>利用周期性供电方式驱动催化元件实现甲烷测量的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510781742.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105466975A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：转角范围0～±360°可选式转台限位机构">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>转角范围0～±360°可选式转台限位机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410418548.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105353774A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：基于PXI总线的多功能故障注入装置">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于PXI总线的多功能故障注入装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510937360.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105353755A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：滑油金属屑末在线监测器的检测电路及载波信号解调方法">
+	<enterprise:有申请公布日>16-1-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>滑油金属屑末在线监测器的检测电路及载波信号解调方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510673963.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105241949A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：智能压紧安装末端执行器及其控制方法">
+	<enterprise:有申请公布日>15-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>智能压紧安装末端执行器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510707560.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105196299A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：发动机叶片叶尖间隙测量传感器的动态标定试验台">
+	<enterprise:有申请公布日>15-11-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>发动机叶片叶尖间隙测量传感器的动态标定试验台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310146313.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103267503B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种闭环自动汽水混合器">
+	<enterprise:有申请公布日>15-8-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种闭环自动汽水混合器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520009339.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204594276U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种液压泵磨损的实时检测方法">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液压泵磨损的实时检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110427037.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102562560B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：高湿易爆环境中多种气体的分布式光纤检测装置">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>高湿易爆环境中多种气体的分布式光纤检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520207531.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204536185U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种风电机组齿轮箱安装阀块">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种风电机组齿轮箱安装阀块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210544580.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103016699B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：工业机器人室内精确定位系统及方法">
+	<enterprise:有申请公布日>15-7-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>工业机器人室内精确定位系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545275.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103033183B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种基于可编程逻辑控制器的串行通信接口分时复用装置">
+	<enterprise:有申请公布日>15-6-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于可编程逻辑控制器的串行通信接口分时复用装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010210262.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101882125B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于风洞全柔壁喷管的同步控制系统和控制方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于风洞全柔壁喷管的同步控制系统和控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510078767.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104655392A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种变流量条件下油液颗粒计数器的污染度实时检测方法">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种变流量条件下油液颗粒计数器的污染度实时检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210330010.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102866097B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：手提式油液粘度检测仪">
+	<enterprise:有申请公布日>15-5-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>手提式油液粘度检测仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420773681.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204359639U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：直流力矩电机驱动滚珠丝杠副加载的原位校准装置">
+	<enterprise:有申请公布日>15-4-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>直流力矩电机驱动滚珠丝杠副加载的原位校准装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410768141.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104515684A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：车载便携式大气环境实时监测装置">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载便携式大气环境实时监测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410776269.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104502534A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：多通道协调加载控制系统同步数据传输及同步实现方法">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>多通道协调加载控制系统同步数据传输及同步实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210581008.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103092185B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：自闭式油液粘度在线检测传感器及其方法">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>自闭式油液粘度在线检测传感器及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410778292.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104502235A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种可自吸的便携式油液检测装置">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可自吸的便携式油液检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420546683.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204255948U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于油液粘度在线检测传感器的测量系统和测量方法">
+	<enterprise:有申请公布日>15-4-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于油液粘度在线检测传感器的测量系统和测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410775828.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104502228A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：高分子薄膜电容油液水分传感器标定装置及方法">
+	<enterprise:有申请公布日>14-12-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>高分子薄膜电容油液水分传感器标定装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410532641.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104237330A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：便携式锪窝深度测量仪">
+	<enterprise:有申请公布日>14-10-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>便携式锪窝深度测量仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201430156825.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302973049S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：跟踪调压标示笔盒">
+	<enterprise:有申请公布日>14-10-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>跟踪调压标示笔盒</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210234702.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102765279B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种航空发动机尾气成分检测装置">
+	<enterprise:有申请公布日>14-9-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种航空发动机尾气成分检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420096783.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203838139U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种基于FPGA的检定脉冲采集比对板">
+	<enterprise:有申请公布日>14-9-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于FPGA的检定脉冲采集比对板</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420265317.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203837783U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种自组织可自愈无线树型网络及其组建方法">
+	<enterprise:有申请公布日>14-7-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自组织可自愈无线树型网络及其组建方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410177139.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103929344A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种燃烧器">
+	<enterprise:有申请公布日>14-5-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种燃烧器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320772935.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203615329U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：便携式油液粘度检测仪">
+	<enterprise:有申请公布日>14-5-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>便携式油液粘度检测仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201330565631.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN302829346S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种清疤装置">
+	<enterprise:有申请公布日>14-5-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种清疤装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320773211.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203615823U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于蓝宝石高温光纤传感器的黑体辐射腔">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于蓝宝石高温光纤传感器的黑体辐射腔</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310646435.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103630248A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：基于CSS和ZigBee技术的煤矿人员定位终端">
+	<enterprise:有申请公布日>14-3-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于CSS和ZigBee技术的煤矿人员定位终端</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310648151.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103619063A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种语音对讲及在线监测本安电源的矿用安全监控分站">
+	<enterprise:有申请公布日>14-3-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种语音对讲及在线监测本安电源的矿用安全监控分站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310646130.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103615290A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：用于油液颗粒计数的入射光镜片">
+	<enterprise:有申请公布日>14-2-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于油液颗粒计数的入射光镜片</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310493437.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103558138A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种基于S型皮托管的风向风速测量装置及方法">
+	<enterprise:有申请公布日>14-1-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于S型皮托管的风向风速测量装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310493340.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103543288A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：法向角测量单元">
+	<enterprise:有申请公布日>14-1-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>法向角测量单元</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310493155.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103538081A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种用于雷达罩安装定位的夹持装置">
+	<enterprise:有申请公布日>13-10-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于雷达罩安装定位的夹持装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320285212.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203254326U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：发动机叶片叶尖间隙测量传感器的动态标定试验台">
+	<enterprise:有申请公布日>13-8-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>发动机叶片叶尖间隙测量传感器的动态标定试验台</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310146313.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103267503A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：多通道协调加载控制系统同步数据传输及同步实现方法">
+	<enterprise:有申请公布日>13-5-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>多通道协调加载控制系统同步数据传输及同步实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210581008.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103092185A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种车载式大口径流量计全自动在线检定装置及检定方法">
+	<enterprise:有申请公布日>13-5-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种车载式大口径流量计全自动在线检定装置及检定方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110328378.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103076067A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种井下设备及互锁单元">
+	<enterprise:有申请公布日>13-4-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种井下设备及互锁单元</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220346287.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202904299U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种风电机组齿轮箱油液在线监测装置及监测方法">
+	<enterprise:有申请公布日>13-4-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种风电机组齿轮箱油液在线监测装置及监测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210544665.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103033450A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：工业机器人室内精确定位系统及方法">
+	<enterprise:有申请公布日>13-4-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>工业机器人室内精确定位系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545275.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103033183A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种风电机组齿轮箱安装阀块">
+	<enterprise:有申请公布日>13-4-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种风电机组齿轮箱安装阀块</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210544580.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103016699A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种隔爆设备及联锁装置">
+	<enterprise:有申请公布日>13-2-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种隔爆设备及联锁装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220390733.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202738285U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种具有起拔装置的印制电路板支架">
+	<enterprise:有申请公布日>13-1-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有起拔装置的印制电路板支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220329638.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202697098U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：印制电路板测试探针活动托架">
+	<enterprise:有申请公布日>13-1-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>印制电路板测试探针活动托架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220329636.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202693627U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种变流量条件下油液颗粒计数器的污染度实时检测方法">
+	<enterprise:有申请公布日>13-1-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种变流量条件下油液颗粒计数器的污染度实时检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210330010.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102866097A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：跟踪调压标示笔盒">
+	<enterprise:有申请公布日>12-11-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>跟踪调压标示笔盒</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210234702.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102765279A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种车载式大口径流量计全自动在线检定装置">
+	<enterprise:有申请公布日>12-9-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种车载式大口径流量计全自动在线检定装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120411889.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202453048U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种液压泵磨损的实时检测方法">
+	<enterprise:有申请公布日>12-7-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液压泵磨损的实时检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110427037.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102562560A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种16路多信号制抗干扰井下分站">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种16路多信号制抗干扰井下分站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120188804.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202108545U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：停车场控制装置">
+	<enterprise:有申请公布日>11-2-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>停车场控制装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020240831.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201749499U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：螺旋式机电快速连接器">
+	<enterprise:有申请公布日>11-2-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>螺旋式机电快速连接器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201020205376.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201750018U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种基于可编程逻辑控制器的串行通信接口分时复用装置">
+	<enterprise:有申请公布日>10-11-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于可编程逻辑控制器的串行通信接口分时复用装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010210262.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101882125A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：电液伺服控制系统液压保护装置">
+	<enterprise:有申请公布日>10-7-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>电液伺服控制系统液压保护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200810224577.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101382158B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：一种直流驱动转台结构">
+	<enterprise:有申请公布日>10-5-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直流驱动转台结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200610149629.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101162857B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京瑞赛长城航空测控技术有限公司的专利信息：双余度伺服控制器">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>双余度伺服控制器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107953.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201464836U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：姿态试验系统软件">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>姿态试验系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR388426</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：电缆导通测试分析软件">
+	<enterprise:有批准日期>16-12-2</enterprise:有批准日期>
+	<enterprise:有软件全称>电缆导通测试分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR351189</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：激光线扫式机器人自动轨迹修正系统">
+	<enterprise:有批准日期>16-7-7</enterprise:有批准日期>
+	<enterprise:有软件全称>激光线扫式机器人自动轨迹修正系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR170588</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：飞机地面集成测试主控管理软件">
+	<enterprise:有批准日期>16-6-24</enterprise:有批准日期>
+	<enterprise:有软件全称>飞机地面集成测试主控管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR155610</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：飞机机载系统地面综合测试软件">
+	<enterprise:有批准日期>16-6-24</enterprise:有批准日期>
+	<enterprise:有软件全称>飞机机载系统地面综合测试软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR155609</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：煤矿安全监控信息短信系统">
+	<enterprise:有批准日期>17-2-15</enterprise:有批准日期>
+	<enterprise:有软件全称>煤矿安全监控信息短信系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR043246</enterprise:有登记号>
+	<enterprise:有分类号>30200-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：飞行控制系统试验测试资源管理软件">
+	<enterprise:有批准日期>16-4-21</enterprise:有批准日期>
+	<enterprise:有软件全称>飞行控制系统试验测试资源管理软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR083370</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：喷气燃料颗粒污染物在线监测系统">
+	<enterprise:有批准日期>16-4-21</enterprise:有批准日期>
+	<enterprise:有软件全称>喷气燃料颗粒污染物在线监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR083383</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：装备测试性试验抽样与预计软件">
+	<enterprise:有批准日期>16-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>装备测试性试验抽样与预计软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR081236</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：机器人压紧安装控制软件">
+	<enterprise:有批准日期>15-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>机器人压紧安装控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PRCS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR212275</enterprise:有登记号>
+	<enterprise:有分类号>10300-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：全视角三维测量平台软件">
+	<enterprise:有批准日期>15-9-15</enterprise:有批准日期>
+	<enterprise:有软件全称>全视角三维测量平台软件</enterprise:有软件全称>
+	<enterprise:有软件简称>MeasurePlateform</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR178400</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：煤与瓦斯突出自动报警系统">
+	<enterprise:有批准日期>15-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>煤与瓦斯突出自动报警系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR241739</enterprise:有登记号>
+	<enterprise:有分类号>30200-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：油库综合信息管理系统">
+	<enterprise:有批准日期>15-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>油库综合信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR241753</enterprise:有登记号>
+	<enterprise:有分类号>30200-5800</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：飞机簿膜件曲面展开系统">
+	<enterprise:有批准日期>15-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>飞机簿膜件曲面展开系统</enterprise:有软件全称>
+	<enterprise:有软件简称>ASPDS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR212265</enterprise:有登记号>
+	<enterprise:有分类号>10100-3600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：自动对准精确测量系统">
+	<enterprise:有批准日期>15-3-17</enterprise:有批准日期>
+	<enterprise:有软件全称>自动对准精确测量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR047279</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：光源与导引子系统控制软件">
+	<enterprise:有批准日期>15-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>光源与导引子系统控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR241734</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：测试性试验系统软件">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>测试性试验系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR204447</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：油液粘度在线检测传感器嵌入式软件">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>油液粘度在线检测传感器嵌入式软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR204094</enterprise:有登记号>
+	<enterprise:有分类号>40000-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：试验测控集成一体化软件">
+	<enterprise:有批准日期>15-3-23</enterprise:有批准日期>
+	<enterprise:有软件全称>试验测控集成一体化软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR050450</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：面向服务架构的可移植TPS软件平台">
+	<enterprise:有批准日期>14-10-14</enterprise:有批准日期>
+	<enterprise:有软件全称>面向服务架构的可移植TPS软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TPS-SOA</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR152283</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：油液检测实验室管理系统">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>油液检测实验室管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR204085</enterprise:有登记号>
+	<enterprise:有分类号>30200-7500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：安全监控系统双机热备软件">
+	<enterprise:有批准日期>14-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>安全监控系统双机热备软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR204582</enterprise:有登记号>
+	<enterprise:有分类号>30208-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：公路发油系统过程监控软件">
+	<enterprise:有批准日期>14-6-13</enterprise:有批准日期>
+	<enterprise:有软件全称>公路发油系统过程监控软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR077630</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：基于移动互联网的风电机组油液监测系统">
+	<enterprise:有批准日期>14-5-23</enterprise:有批准日期>
+	<enterprise:有软件全称>基于移动互联网的风电机组油液监测系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR065571</enterprise:有登记号>
+	<enterprise:有分类号>30207-4400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：天线稳定平台运动仿真测试系统">
+	<enterprise:有批准日期>14-4-22</enterprise:有批准日期>
+	<enterprise:有软件全称>天线稳定平台运动仿真测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR046643</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：基于ATML的自动测试系统软件">
+	<enterprise:有批准日期>14-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>基于ATML的自动测试系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>ATMLTest</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR024790</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：可视化试验实时监控及数据处理组态软件平台">
+	<enterprise:有批准日期>14-2-28</enterprise:有批准日期>
+	<enterprise:有软件全称>可视化试验实时监控及数据处理组态软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>VCsoft</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR024797</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：储罐自动计量系统">
+	<enterprise:有批准日期>13-8-13</enterprise:有批准日期>
+	<enterprise:有软件全称>储罐自动计量系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR084314</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：KJ223(B)煤矿井下人员管理系统">
+	<enterprise:有批准日期>13-5-3</enterprise:有批准日期>
+	<enterprise:有软件全称>KJ223(B)煤矿井下人员管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR040029</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：综合诊断信息系统软件平台">
+	<enterprise:有批准日期>12-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>综合诊断信息系统软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>IDIS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR109960</enterprise:有登记号>
+	<enterprise:有分类号>40000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：雷达罩电厚度(IPD)测量与校正系统主机软件">
+	<enterprise:有批准日期>13-6-4</enterprise:有批准日期>
+	<enterprise:有软件全称>雷达罩电厚度(IPD)测量与校正系统主机软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR054685</enterprise:有登记号>
+	<enterprise:有分类号>30000-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：光纤通道数据测试软件平台">
+	<enterprise:有批准日期>11-11-17</enterprise:有批准日期>
+	<enterprise:有软件全称>光纤通道数据测试软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>FCtest</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR083869</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：测试性辅助设计与分析软件平台">
+	<enterprise:有批准日期>11-12-6</enterprise:有批准日期>
+	<enterprise:有软件全称>测试性辅助设计与分析软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称>TDCAS</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR090757</enterprise:有登记号>
+	<enterprise:有分类号>30108-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：油液污染检测系统">
+	<enterprise:有批准日期>11-1-28</enterprise:有批准日期>
+	<enterprise:有软件全称>油液污染检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>油液检测</enterprise:有软件简称>
+	<enterprise:有登记号>2011SR004521</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：矿井瓦斯抽采与消突数字化管理系统软件">
+	<enterprise:有批准日期>10-8-29</enterprise:有批准日期>
+	<enterprise:有软件全称>矿井瓦斯抽采与消突数字化管理系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>矿井瓦斯抽采与消突数字化管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR044501</enterprise:有登记号>
+	<enterprise:有分类号>65000-0700</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：PXJV飞控铁鸟台电液伺服加载系统软件">
+	<enterprise:有批准日期>10-1-25</enterprise:有批准日期>
+	<enterprise:有软件全称>PXJV飞控铁鸟台电液伺服加载系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>PXJV</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR004315</enterprise:有登记号>
+	<enterprise:有分类号>66000-3600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作：KJ2000N煤矿安全生产监控系统软件">
+	<enterprise:有批准日期>10-9-29</enterprise:有批准日期>
+	<enterprise:有软件全称>KJ2000N煤矿安全生产监控系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>KJ2000N</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR051768</enterprise:有登记号>
+	<enterprise:有分类号>69900-0600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京瑞赛长城航空测控技术有限公司的网站备案：北京瑞赛长城航空测控技术有限公司">
+	<enterprise:有审核时间>17-3-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京瑞赛长城航空测控技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-bmc.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>c-bmc.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12019698号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京瑞赛长城航空测控技术有限公司的网站备案：北京瑞赛长城航空测控技术有限公司">
+	<enterprise:有审核时间>17-3-31</enterprise:有审核时间>
+	<enterprise:有网站全称>北京瑞赛长城航空测控技术有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.c-bmc.com</enterprise:有网站首页>
+	<enterprise:有域名>c-bmc.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12019698号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京瑞赛长城航空测控技术有限公司的员工基本信息">
+	<enterprise:有从业人数>173</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:21,25岁以下:3,45岁以上:149</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:107,高中及以下:20,专科:46</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:64,技术人员:96,作业人员:13</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:173人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京瑞赛长城航空测控技术有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>无</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京瑞赛长城航空测控技术有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>阳泉煤业集团有限公司、淮北矿业集团、中国神华能源股份有限公司神东煤
+炭分公司、中国石化江苏石油分公司、扎赉诺尔煤业有限责任公司</enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京瑞赛长城航空测控技术有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京瑞赛长城航空测控技术有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京瑞赛长城航空测控技术有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京瑞赛长城航空测控技术有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京瑞赛长城航空测控技术有限公司的企业法人代表：梅方清">
+	<enterprise:名称>梅方清</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>51</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>—</enterprise:出生年月>
+	<enterprise:身份证号码>—</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>副主任医师</enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>—</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>—</enterprise:奖惩情况>
+	<enterprise:经历>2010年 1月～2012年 9月 北京航空工程制造研究所 副处长 
+2012年 10月～2016年 3月 中航工业技术基础院科研管理部 部长 
+2016年 4月至今 中航高科智能测控有限公司 总经理、党委副书记 
+2016年 4月至今 北京长城航空测控技术研究所 所长、智控中心主任 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京瑞赛长城航空测控技术有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>－</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>－</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京瑞赛长城航空测控技术有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110111661562924K</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京瑞赛长城航空测控技术有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>植物原材料</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>具有独立法人资质的企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>401.80</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>779.22</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京瑞赛长城航空测控技术有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京瑞赛长城航空测控技术有限公司的软件著作数量">
+	<enterprise:软件著作总计>21</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>3</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>10</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>8</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京瑞赛长城航空测控技术有限公司的专利数量">
+	<enterprise:专利总计>44</enterprise:专利总计>
+	<enterprise:专利数量2013>12</enterprise:专利数量2013>
+	<enterprise:专利数量2014>15</enterprise:专利数量2014>
+	<enterprise:专利数量2015>17</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京瑞赛长城航空测控技术有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京瑞赛长城航空测控技术有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

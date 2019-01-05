@@ -1,0 +1,1825 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京清大天达光电科技股份有限公司的企业概况">
+    <enterprise:有名称>北京清大天达光电科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局平谷分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020000045324</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行平谷支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>122</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2016年5月10日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3600</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2022年1月8日</enterprise:有营业执照到期日>
+    <enterprise:有股本>3600</enterprise:有股本>
+    <enterprise:有经营范围>生产平板显示器生产线设备、太阳能生产线设备、半导体生产线设备及配件；平板显示器生产线设备、太阳能生产线设备、半导体生产线设备及配件的技术开发及转让、技术培训与咨询（中介除外）、销售；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）生产平板显示器生产线设备、太阳能生产线设备、半导体生产线设备及配件；平板显示器生产线设备、太阳能生产线设备、半导体生产线设备及配件的技术开发及转让、技术培训与咨询（中介除外）、销售；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>切割机</enterprise:有主营业务>
+    <enterprise:有行业分类>其他电子设备制造</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市平谷区马坊镇金马北街61号院2号楼1至2层101</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市平谷区马坊镇金马北街61号院2号楼1至2层101</enterprise:有通讯地址>
+    <enterprise:有邮政编码>101204</enterprise:有邮政编码>
+    <enterprise:有联系人>李东芳</enterprise:有联系人>
+    <enterprise:有联系电话>18001193778</enterprise:有联系电话>
+    <enterprise:有传真电话>010-67385154</enterprise:有传真电话>
+    <enterprise:有E-mail>Lidongfang@bjtstd.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>www.bjtstd.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京清大天达光电科技股份有限公司原名
+为北京清大天达光电设备有限责任公司，成立
+于2002年1月9日，现有注册资本人民币3600万
+元。
+公司组建时是由北京北量工量具有限责任
+公司联合清华工业开发研究院及部分科研人员
+共同组建。公司自成立以来一直致力于专用设
+备制造领域的自动化生产线的研发、设计、生
+产与销售，公司以技术为依托为客户提供系统
+解决方案。公司的关键技术已具备良好的可移
+植性，可广泛应用电子信息产业、新能源、消
+费类电子、工业仪器仪表、医药、通信、汽车
+电子等多个领域。由于资源制约以及高世代平
+板显示及薄膜太阳能产业需求增长迅速，公司
+目前主要集中于平板显示及太阳能领域。公司
+已掌握自动化生产线所需的核心技术，拥有完
+全知识产权，申报专利四十余项。在平板显示
+行业及薄膜太阳能行业已经成长为国内龙头企
+业。
+公司目前所涉足的平板显示及太阳能领域
+工艺技术壁垒较高，公司整体毛利率维持在较
+高水平。随着国家推行信息化与工业化融合，
+形成对自动化产线设备的强大需求。公司依靠
+自身技术优势已经成长为细分行业的领跑者。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京清大天达光电科技股份有限公司的基础素质">
+    <enterprise:有管理素质>北京清大天达光电科技股份有限公司法人
+代表焦炳华，女，1962年12月出生，硕士学位
+，高级工程师，曾任北京量具刃具厂副厂长、
+北京北量机电工量具有限责任公司董事长。200
+2年公司组建至今，担任董事长，具有十分丰富
+的管理经验和行业经验。
+公司总经理陆峰，本科学位，高级工程师
+，1990-
+1999年在中国电子科技集团公司第二研究所工
+作，从事电子专用设备的研发工作；2006年至
+今担任北京清大天达光电科技有限公司、北京
+京城清达电子设备有限公司总经理。屡获山西
+省工办、团省委、省劳动厅等部门颁发的“山
+西省青年岗位能手”、“优秀青年岗位能手”
+、“杰出青年科技工作者”、“十大科技标兵
+”、省工办“优秀共产党员”、“劳动模范”
+等光荣称号。2004年4月，荣获“山西省劳动模
+范”称号。他参与的“P18-
+L25A红外再流机产品”荣获部科技进步三等奖
+，并申请两项专利。他不仅具有十分丰富的管
+理经验和行业经验。
+公司的其他几位高管均具备较为丰富的专
+业技术和从业经验，有利于公司的稳定发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>北京清大天达光电科技股份有限公司十分
+注重产品的研发，公司拥有一支高素质的人才
+队伍，科研力量雄厚。公司研发部共有技术人
+员69人，能够保证公司产品的研发和生产。
+公司副总经理张绍衡，1983-
+2001年在中国电子科技集团公司第二研究所工
+作，从事电子专用设备的研发工作，先后担任
+该所七室副主任、一室主任等职务，2006年至
+今担任北京清大天达光电科技有限公司副总经
+理、总工程师，能够为公司的技术研发提供充
+足的技术支撑。</enterprise:有人员素质>
+    <enterprise:有科研条件>北京清大天达光电科技股份有限公司具有
+一定的研发条件。公司拥有较好的研发场地和
+完善的生产和测试设备，保证了技术研发的力
+度和更新速度。2015年公司研发费用613万元，
+有效保障了研发工作的顺利进行。
+公司拥有9000平方米的洁净无尘车间，用
+于设备的精密装配、调试和工艺试验。生产车
+间按机械加工、电子加工装配、检验、装配调
+试分别布置，配备有车床、数控铣床、大型平
+面磨床、外圆磨床、工具磨床、多台进口立式
+加工中心，水、电、压缩空气、真空等动力设
+施配置完整。公司拥有双频激光干涉仪、三坐
+标测量仪等高精度测量装置。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京清大天达光电科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>北京清大天达光电科技股份有限公司成立
+于2002年1月9日，原名为北京清大天达光电设
+备有限责任公司。由北京量具刃具厂、北京清
+华工业开发研究院、北京市科迪嘉新技术发展
+公司三家法人单位，以及焦炳华等13位自然人
+股东共投入资本1200万元组建。2004年5月19日
+，变更为北京清大天达光电科技有限公司，注
+册资金2500万元。目前公司注册资金增加至360
+0万元。
+公司的主导产品包括激光划线机、TFT、US
+清洗机、玻璃切割机、偏振片切割机、摩擦机
+、对位贴合机、丝印机、PI印刷机等生产设备
+；公司的其它产品主要是TFT物流设备、机器人
+上、下料机、激光上、下料机、打标机、电池
+基板传输机、USC清洗机、缓存机、PECVD炉分
+配装载机、电池极板涂胶机、接线盒自动粘贴
+机、接线盒灌封机、固化机等。
+在TFT高世代设备需求领域，目前国内已经
+建成的生产线包括北京京东方5代线，成都京东
+方4.5代线，昆山龙腾光电5代线，上海天马4.5
+代线，成都天马4.5代线，上海天马5代线，深
+超光电5代线。正在建设的生产线包括北京京东
+方8代线，合肥京东方6代线，深圳TCL8代线，
+深圳TCL8.5代线，南京熊猫6代线，武汉天马4.
+5代线和昆山龙飞8代线。通常4.5代线投资30亿
+，5代线投资120亿，6代线投资175亿，8代线投
+资245亿，设备投资一般占总投资的70%，生产
+线建成后的设备每年的维护费用一般占总投资
+的10%。
+在TFT高世代设备方面，公司在成都京东方
+4.5代线订单总额超过1500万，在合肥京东方6
+代线订单超过7000万；在US干洗机设备，摩擦
+线，Index物流设备，切割设备中，清大天达已
+经连续在京东方5代线扩产，4.5代线，6代线，
+8代线，TCL8代线中多次中标，建立了一定的竞
+争优势。另外，在合肥六代线中，清大天达还
+拓展了相关制程的其他设备，其他中标订单包
+括11条Aging line, 3条ODF Line，12台Burr 
+Checking设备等。
+在薄膜太阳能电池领域，已建和在建的薄
+膜生产线包括深圳创益太阳能年产115MW，河北
+廊坊新奥太阳能年产70MW等等。通常一条60MW
+的生产线投资会在12亿元，设备投资占总投资
+的80%。市场调查公司DisplaySearch指出，200
+5年时全球多晶硅太阳能电池产能比重高达95%
+，其余5%为薄膜太阳能电池，不过2009年薄膜
+太阳能电池产能便已增长至20%以上。
+在中小尺寸平板显示设备方面，多年来，
+公司在摩擦设备，ITO图形检测设备有着90%以
+上的市场占有率，在自动液晶屏切割机设备上
+面有着35%以上的市场占有率。随着台湾厂商大
+量把后工序转移到大陆来以及切割玻璃薄化的
+要求(单片0.2毫米)和尺寸变大的要求，清大天
+达的自动液晶屏切割机系列设备销售正在逐年
+稳步上升，也逐渐向大型化，自动化方向在发
+展。
+随着公司业务的不断发展，早在2003年，
+公司就已经在深圳成立了售后服务办事处，一
+方面是应对客户设备的紧急服务需求，另一方
+面，也是方便销售人员进行业务拓展。到目前
+为止，公司已经在深圳，成都，合肥都设立了
+售后服务办事处，分别来应对华南，西南和华
+中地区的客户需求。华北地区的业务和服务，
+会直接由北京公司直接安排人员进行。
+公司现有员工128人，其中本科及以上92人
+，员工素质较高。近年来，随着公司业务的发
+展，企业财务状况优良。但是受市场整体大环
+境因素影响，2015年实现收入12766.30万，较
+上年略有减小，降幅为1.72%。
+图1：公司近三年营业收入（万元）
+数据来源：公司提供财务报表
+公司的主导产品为激光划线机、TFT、US清
+洗机、玻璃切割机、偏振片切割机、摩擦机、
+对位贴合机、丝印机、PI印刷机等生产设备；
+公司的其它产品主要是TFT物流设备、机器人上
+、下料机、激光上、下料机、打标机、电池基
+板传输机、USC清洗机、缓存机、PECVD炉分配
+装载机、电池极板涂胶机、接线盒自动粘贴机
+、接线盒灌封机、固化机等。公司目前采购物
+品主要包括清洗单元、配件和软件服务费等。
+公司合作的供应商覆盖国内和日本。采购商包
+括SHINKO CO.,LTD、CSI System 
+INC、吴江振达净化工程有限公司等，供货效果
+良好。付款方式主要采用网银汇款、银行承兑
+汇票。上游产品多为通用产品，供货充足，公
+司可根据需求及供应商价格、服务等因素自由
+的组合选择，从而获得有利的采购条件。
+公司销售范围遍布华中、华北和华南等地
+区。主要客户包括京东方（重庆）光电科技有
+限公司、楼氏电子（北京）有限公司、深圳市
+华星光电技术有限公司等。其中京东方（重庆
+）光电科技有限公司的市场份额占公司销售收
+入最大，销售产品包括USC清洗机、老化线装
+置等，销售额约占公司总营业收入的77%左右，
+客户集中度略高，可能存在客户依赖程度较大
+的风险。公司目前与客户的结算方式主要采用
+银行汇款、银行转账和银行承兑汇票等。公司
+主要为机械设备企业提供生产线，受客户行业
+因素影响较大，可能会因其产业政策变动，而
+影响到公司的销售收入。
+公司与京东方属于战略合作关系，京东方
+是国内较为知名的显示器生产厂家，在国内的
+合作厂商约为6-
+7家。据了解，京东方合作方中，有80%为日韩
+企业，但随着国家政策力度的推进，目前有20%
+为国内生产厂家。公司作为国内合作厂家之一
+，研发实力较强，加之该行业入门门槛较高，
+因此与其有一定的合作基础，合作较为稳定。
+总体来看，目前，公司具有一定技术优势
+和客户基础，有利于公司业务的持续发展。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>北京清大天达光电科技股份有限公司组织
+机构完整，建立了完善的法人治理结构。公司
+设董事会，由九名董事组成，负责执行股东会
+决议，负责对公司的战略规划、经营方针、财
+务法律、安全生产、技术革新、对外交易等内
+部管理工作提供总体规划和合理建议。公司不
+设监事会，设执行监事一人，依法对公司的财
+务、业务状况，董事、总经理及其他高管人员
+是否履行职责情况和股东会决议执行等情况进
+行合理、合法的监督。公司无董事、经理兼任
+监事现象。
+目前公司按照现代企业制度的要求建立起
+较为规范的管理体系，有比较完善的组织架构
+及高管团队，生产经营各方面运转情况良好。
+公司建立了完善的现代管理制度，明确职能部
+门的划分和岗位职责，定岗定责，各职能部门
+间各司其责联系紧密。
+公司根据经营目标和员工个人状况，量才
+使用，人尽其才，发挥个人特长，体现个人价
+值。在一定程度上促使员工将公司的成功当成
+自己的义务，鼓励其创造性，营造和谐向上的
+工作氛围，培养了员工积极向上的作风。
+在员工权益保障方面，公司按照国家规定
+保障员工各项福利待遇，并按期为员工提供身
+体健康检查，有利于调动员工工作积极性，确
+保了公司整体经营管理的稳定性和长远性。
+在合同管理方面，公司在对外交易时，做
+到所有交易均通过书面合同形式来确定双方权
+责，在一定程度上积极有效的杜绝和减少交易
+的风险隐患。公司有较严格的合同管理制度，
+并严格按照制度执行，体现了公司良好的商业
+信誉。
+总体来说，公司信用管理体系流程基本建
+立，合同管理状况总体情况良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>公司目前所涉足的平板显示及太阳能领域
+工艺技术壁垒较高，公司整体毛利率维持在较
+高水平。随着国家推行信息化与工业化融合，
+这将形成对自动化产线设备的强大需求。公司
+依靠自身技术优势已经成长为细分行业的领跑
+者。而中国光学光电子行业协会液晶分会产业
+研究部主任胡春明表示，根据协会的统计数据
+，中国大陆地区平板显示企业在2011年至2012
+年持续亏损，2013年反转盈利，目前盈利能力
+已跃居全球第二，仅次于韩国；而这一景气周
+期将在2014年得到延续。近日，研究机构IDC发
+布报告称，第二季度全球智能手机发货量达到3
+.013。
+多年来，公司销售队伍也形成了以核心骨
+干带动团队的老中青梯队建设。销售岗位也从
+之前单纯的销售业务，转变为包括销售担当，
+销售助理，技术支持，日语翻译，韩语翻译等
+在内的多个工作岗位。销售队伍的专业化素质
+进一步提高，多年的配合也使整体作战能力也
+得到了相应增强。
+随着公司业务的迅猛增长，公司的规模扩
+张、内部整合、技术研发、生产制造等发面都
+存在着大量的资金需求，因此公司目前正在采
+取全方位的资源整合，并希望能够通过多种融
+资渠道为公司提供资金，从而使得公司能够在
+保持业务、利润的持续高速增长。在融资方面
+，公司正在积极进行股份制改制，同时引进战
+略合作伙伴，希望通过深圳创业板上市打通公
+司的长期融资渠道，同时公司也积极的与银行
+等金融机构合作，通过贷款等方式补充公司短
+期的流动资金需求。从目前公司的整体情况来
+看，公司未来发展前景向好。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京清大天达光电科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>图2：公司资产质量及流动性指标图
+表1:公司资产质量及流动性指标表
+  项　目 2013年 2014年 2015年
+资产总额(万元) 15784.90 14281.12 14559.71 
+应收账款(万元) 3764.40 3611.37 4938.48 
+存货(万元) 988.50 2545.72 1411.49 
+流动资产(万元) 8989.45 10246.44 10685.58 
+固定资产(万元) 2037.53 1909.25 1799.99 
+无形资产(万元) 2062.37 458.14 447.96 
+应收账款周转率(次) 2.87 3.52 2.99 
+总资产周转率(次) 0.62 0.86 0.89 
+数据来源：公司提供财务报表
+公司近三年的资产规模呈波动态势，以流
+动资产为主。2013年至2015年资产总额分别是1
+5784.90万元、14281.12万元和14559.71万元，
+2015年较上一年度有所增加，增幅为1.95%，说
+明公司经营规模在扩张。
+截止2015年末，公司资产总计为14559.71
+万元，由流动资产和非流动资产构成。其中流
+动资产占总资产的73.39%，主要由货币资金、
+应收票据、应收账款、预付账款、存货和其他
+流动资产构成；其中应收账款占比最大，约占
+流动资产的46.22%，主要是一年以内的应收款
+项，这部分资产会企业资金形成一定占压。货
+币资金约占流动资产的23%，主要是银行存款及
+现金，这部分资产变现能力很强。
+非流动资产占比26.61%，主要由长期股权
+投资、固定资产、无形资产、长期待摊费用及
+递延所得税资产构成。其中，固定资产占比最
+大。主要是公司的房产、机械设备及电子设备
+、运输设备等。
+从公司总资产周转率来看，2015年数值为0
+.89次，较2014年的0.86次相比有所增加，主要
+是公司营业收入增加，且增幅大于资产总额的
+平均增幅所致。公司运用总资产获取利润的能
+力在增强。
+2015年末，公司的应收账款占流动资产比
+重为46.22%，较2014年的35.25%相比有所增加
+。从欠款单位性质来看，主要包括重庆京东方
+光电科技有限公司、合肥鑫晟光电科技有限公
+司、鄂尔多斯源盛光电有限责任公司、深圳市
+华星光电技术有限公司等公司主要合作客户。
+这些单位形成坏账的风险不大，但普遍结算周
+期较长，也会对企业回款形成一定压力。
+综合来看，公司资产结构较为合理，基本
+不存在不良资产。但应收账款占流动资产比重
+较大，可能会对企业资金形成一定占压，资金
+流动性有待增强。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>图4：公司偿债能力指标图
+表3：公司偿债能力指标表
+项　目 2013年 2014年 2015年
+负债总额(万元) 13224.34 11943.89 10836.25 
+资产负债率(%) 83.78 83.63 74.43 
+预收账款(万元) 1370.04 844.94 780.28 
+速动比率(倍) 0.65 0.66 0.87 
+现金流动负债比(%) 27.73 12.17 18.20 
+数据来源：公司提供财务报表
+公司2015年末负债总额10836.25万元。从
+负债结构来看，由流动负债和非流动负债构成
+。其中流动负债主要包括短期借款、应付账款
+、应付票据、预收账款、应付职工薪酬、应交
+税费和其他应付款构成。其中短期借款占比最
+大，主要是金融机构贷款。
+公司目前长期偿债压力略大，长期偿债能
+力尚有进一步增强的空间。公司2013年至2015
+年的资产负债率分别是83.78%、83.63%和74.43
+%，尽管三年数值呈减小态势，但均偏高，说明
+公司短期偿债压力较大，长期偿债能力有待增
+强。
+公司运用现金流来保障企业按期偿还到期
+债务的能力尚可。从短期偿债能力指标中最重
+要的速动比率指标来看，2013年到2015年，公
+司速动比率分别为0.65、0.66和0.87，三年数
+值呈增大趋势，说明公司短期偿债压力在减小
+。结合现金流动负债比来看，公司2015年的现
+金流动负债比为18.20，数值尚好，主要得益于
+经营情况良好。且公司尚具有一定的筹资能力
+，目前用于短期债务支付的能力基本可以得到
+充分保障。
+2015年末，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司成立以来，业务规模不断扩大，对资
+金需求也在不断增加。截止2015年末，公司短
+期借款共计3500万元，是通过北京中关村科技
+融资担保有限公司取得的北京银行平谷支行的
+贷款。
+公司有3297.77万元的应付账款，主要是
+对供应商SHINKO 
+CO.,LTD、北京京城清达电子设备有限公司、
+北京恒威物流有限公司等单位在账期内应支付
+的货款。公司还有780.28万元的预收账款，主
+要是公司客户北量机电、武汉华星光电技术有
+限公司、楼氏电子（北京）有限公司等单位提
+前支付的货款。公司具有能够从上下游企业获
+得资金融通的能力，在一定程度上缓解了自身
+的资金压力。
+一般来说，一个企业如果完全通过权益资
+本筹集资金显然是不明智的，因为其筹集方式
+使之不能得到负债经营的好处。公司如果能够
+通过投资、外部借款、获得上下游企业账期等
+途径增加资金融通渠道，会进一步扩大经营规
+模，有利于公司的进一步发展。</enterprise:财务弹性>
+    <enterprise:盈利能力>图3：公司盈利能力指标图
+表2：公司盈利状况分析
+项　目 2013年 2014年 2015年
+主营业务收入(万元) 9459.11 12989.2 12766.3
+主营业务利润(万元) 2068.22 3614.95 4885.49 
+营业利润(万元) -626.84 968.76 1130.30 
+净利润(万元) -457.04 953.89 1386.25 
+主营业务利润率(%) 21.86 27.83 38.27 
+净资产收益率(%) -16.39 38.95 45.75 
+总资产报酬率(%) -0.09 9.72 12.38 
+成本费用利润率(%) -4.46 8.01 11.89 
+数据来源：公司提供财务报表
+受外部大环境因素的影响，公司2015年主
+营业务收入较上一年度略有减小。2013年至20
+15年公司主营业务收入分别为9459.11万元、1
+2989.20万元和12766.30万元，2015年降幅分
+别为1.72%，说明公司经营业绩有待进一步提
+高。
+2015年公司主营业务利润为4885.49万元
+，较上一年度的3614.95万元有所增长。且公
+司主营业务利润率也由2014年的27.83%增大至
+2015年的38.27%，说明公司主营业务成本控制
+得到。 
+公司对成本费用的控制能力在增强。从公
+司的成本费用利润率来看，2015年成本费用利
+润率为11.89%，数值较上一年度的8.01%相比有
+所增大，说明公司在经营过程中也关注了对各
+项费用的控制。
+公司运用全部资产的盈利能力在增强。从
+资产的综合利用效率指标分析，2015年的总资
+产报酬率为12.38%，数值较上一年度的9.72%有
+所增加，说明公司经营期间全部资产从投入到
+产出的流转速度加快，全部资产的管理质量和
+利用效率在提高。
+综合分析，尽管公司营业收入略有减小，
+但是各项成本费用控制得当，整体盈利能力增
+强。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京清大天达光电科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司经营状况受行业政策和主要客户变动影响
+。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司应收账款占流动资产比重较大，可能会对
+企业资金形成一定占压。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京清大天达光电科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>154344724.43 </enterprise:资产总额>
+    <enterprise:所有者权益>25605545.46 </enterprise:所有者权益>
+    <enterprise:负债总额>122415789.15 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>94591095.74 </enterprise:营业收入>
+    <enterprise:EBITDA>916.52 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京清大天达光电科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>139860224.41 </enterprise:资产总额>
+    <enterprise:所有者权益>23372227.08 </enterprise:所有者权益>
+    <enterprise:负债总额>117183925.33 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>129891959.47 </enterprise:营业收入>
+    <enterprise:EBITDA>1461.52 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京清大天达光电科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>0.00 </enterprise:资产总额>
+    <enterprise:所有者权益>37234687.29 </enterprise:所有者权益>
+    <enterprise:负债总额>106137460.27 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>127662979.63 </enterprise:营业收入>
+    <enterprise:EBITDA>1785.72 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京清大天达光电科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>7.47 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京清大天达光电科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.52 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.30 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京清大天达光电科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.99 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.98 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京清大天达光电科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-0.09 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>51.08 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京清大天达光电科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>9.72 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>108.35 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京清大天达光电科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>12.38 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>99.70 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京清大天达光电科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>73.43 </enterprise:流动比率>
+    <enterprise:速动比率>65.36 </enterprise:速动比率>
+    <enterprise:资产负债率>79.31 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>14.43 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京清大天达光电科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>87.44 </enterprise:流动比率>
+    <enterprise:速动比率>65.71 </enterprise:速动比率>
+    <enterprise:资产负债率>83.79 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>8.17 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京清大天达光电科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>0.00 </enterprise:流动比率>
+    <enterprise:速动比率>0.00 </enterprise:速动比率>
+    <enterprise:资产负债率>0.00 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.07 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京清大天达光电科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>21.92 </enterprise:毛利率>
+    <enterprise:成本费用利润率>15.72 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.35 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>27.73 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>86.16 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京清大天达光电科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>27.90 </enterprise:毛利率>
+    <enterprise:成本费用利润率>24.21 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.94 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>12.17 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>37.32 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>74.79 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京清大天达光电科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>38.33 </enterprise:毛利率>
+    <enterprise:成本费用利润率>39.94 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.93 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>18.20 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-1.72 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>35.15 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京清大天达光电科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>12632513.02 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>10000.00 </enterprise:应收票据>
+    <enterprise:应收账款>37644020.43 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>14388602.91 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>15334341.74 </enterprise:其他应收款>
+    <enterprise:存货>9885007.38 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>89894485.48 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>22796080.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>20375287.09 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>20623714.66 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>655157.20 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>64450238.95 </enterprise:非流动资产合计>
+    <enterprise:资产总计>154344724.43 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京清大天达光电科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>7908693.18 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>36113690.15 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2807442.45 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>30177455.17 </enterprise:其他应收款>
+    <enterprise:存货>25457150.57 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>102464431.52 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>11398040.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>19092481.16 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4581360.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>2323911.73 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>37395792.89 </enterprise:非流动资产合计>
+    <enterprise:资产总计>139860224.41 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京清大天达光电科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>24699353.33 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>57450.00 </enterprise:应收票据>
+    <enterprise:应收账款>49384798.92 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>749361.51 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>17850014.31 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>0.00 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>11398040.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>17999855.12 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4479552.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>2466227.46 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>36343674.58 </enterprise:非流动资产合计>
+    <enterprise:资产总计>0.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京清大天达光电科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>38000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>21999041.11 </enterprise:应付票据>
+    <enterprise:应付账款>37383167.82 </enterprise:应付账款>
+    <enterprise:预收款项>8449443.69 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>11894.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>376421.51 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>10963956.86 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>117183925.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>117183925.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>30000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>18486581.05 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>3785780.73 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-28900134.70 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>23372227.08 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>23372227.08 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>140556152.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京清大天达光电科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>38000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>21999041.11 </enterprise:应付票据>
+    <enterprise:应付账款>37383167.82 </enterprise:应付账款>
+    <enterprise:预收款项>8449443.69 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>11894.34 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>376421.51 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>10963956.86 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>117183925.33 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>117183925.33 </enterprise:负债合计>
+    <enterprise:实收资本或股本>30000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>18486581.05 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>3785780.73 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-28900134.70 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>23372227.08 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>23372227.08 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>140556152.41 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京清大天达光电科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>35000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>12495370.12 </enterprise:应付票据>
+    <enterprise:应付账款>32977737.09 </enterprise:应付账款>
+    <enterprise:预收款项>7802825.20 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>9933.94 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>708227.12 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>17143366.80 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>106137460.27 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>106137460.27 </enterprise:负债合计>
+    <enterprise:实收资本或股本>30000000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>5503928.09 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1730759.20 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>37234687.29 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>37234687.29 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>143372147.56 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京清大天达光电科技股份有限公司2013年利润表">
+    <enterprise:营业收入>94591095.74 </enterprise:营业收入>
+    <enterprise:主营业务收入>94591095.74 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>73852196.73 </enterprise:营业成本>
+    <enterprise:主营业务成本>73852196.73 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>56689.18 </enterprise:营业税金及附加>
+    <enterprise:销售费用>4865668.80 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>19341591.89 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4434553.98 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>11381987.05 </enterprise:营业利润>
+    <enterprise:营业外收入>1702978.51 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>5000.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>13079965.56 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>13079965.56 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>13079965.56 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京清大天达光电科技股份有限公司2014年利润表">
+    <enterprise:营业收入>129891959.47 </enterprise:营业收入>
+    <enterprise:主营业务收入>129891959.47 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>93653121.35 </enterprise:营业成本>
+    <enterprise:主营业务成本>93653121.35 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>89386.10 </enterprise:营业税金及附加>
+    <enterprise:销售费用>5957685.84 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>16794195.16 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4897615.88 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>25294150.30 </enterprise:营业利润>
+    <enterprise:营业外收入>30000.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>25324150.30 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>25324150.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>25324150.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京清大天达光电科技股份有限公司2015年利润表">
+    <enterprise:营业收入>127662979.63 </enterprise:营业收入>
+    <enterprise:主营业务收入>127662979.63 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>78724114.15 </enterprise:营业成本>
+    <enterprise:主营业务成本>78724114.15 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>83970.73 </enterprise:营业税金及附加>
+    <enterprise:销售费用>10011673.07 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>22420047.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4137028.94 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>34706192.74 </enterprise:营业利润>
+    <enterprise:营业外收入>2610470.89 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>193300.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>37123363.63 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>37123363.63 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>37123363.63 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京清大天达光电科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>128083549.59 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>33941624.98 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-97987.60 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-29536447.87 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>4307189.51 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京清大天达光电科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>121922136.16 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>14255681.38 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-45529.68 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-15834777.63 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-1624625.93 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京清大天达光电科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>118715870.68 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>19316283.14 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-93925.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-310096.94 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>18912261.20 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京清大天达光电科技股份有限公司被投资单位：北京京城清达电子设备有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京京城清达电子设备有限公司</enterprise:名称>
+	<enterprise:单位代码>73765084-1</enterprise:单位代码>
+	<enterprise:被投资金额>3306.0950万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：祁姝 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>祁姝 </enterprise:股东名称>
+	 <enterprise:货币>466.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>11.95%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：焦炳华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>焦炳华 </enterprise:股东名称>
+	 <enterprise:货币>231.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.92%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：陆峰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陆峰 </enterprise:股东名称>
+	 <enterprise:货币>209.7万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.38%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：段杰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>段杰 </enterprise:股东名称>
+	 <enterprise:货币>88.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.27%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：蔡克 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>蔡克 </enterprise:股东名称>
+	 <enterprise:货币>55.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>1.41%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：范兆周 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>范兆周 </enterprise:股东名称>
+	 <enterprise:货币>35.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.90%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：王跃光 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王跃光 </enterprise:股东名称>
+	 <enterprise:货币>34.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：方顺林 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>方顺林 </enterprise:股东名称>
+	 <enterprise:货币>31.1万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：王本方 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王本方 </enterprise:股东名称>
+	 <enterprise:货币>28.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：吴波 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴波 </enterprise:股东名称>
+	 <enterprise:货币>24.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.62%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：陈焕军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>陈焕军 </enterprise:股东名称>
+	 <enterprise:货币>22.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.56%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：王步奎 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王步奎 </enterprise:股东名称>
+	 <enterprise:货币>18.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.46%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：赵程 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵程 </enterprise:股东名称>
+	 <enterprise:货币>18.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.46%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：吴国华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴国华 </enterprise:股东名称>
+	 <enterprise:货币>17.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.45%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：李虎 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李虎 </enterprise:股东名称>
+	 <enterprise:货币>12.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.32%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：李傧 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李傧 </enterprise:股东名称>
+	 <enterprise:货币>11.75万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：庞兰春 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>庞兰春 </enterprise:股东名称>
+	 <enterprise:货币>11.75万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.30%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：时念珍 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>时念珍 </enterprise:股东名称>
+	 <enterprise:货币>3.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京清大天达光电科技股份有限公司股东：刘守英 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>刘守英 </enterprise:股东名称>
+	 <enterprise:货币>3.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：清大天达">
+	<enterprise:有申请日期>11-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>清大天达</enterprise:有商标名称>
+	<enterprise:有注册号>10225369</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：TSTD">
+	<enterprise:有申请日期>11-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>TSTD</enterprise:有商标名称>
+	<enterprise:有注册号>10225598</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：清大天达">
+	<enterprise:有申请日期>11-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>清大天达</enterprise:有商标名称>
+	<enterprise:有注册号>10224373</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：TSTD">
+	<enterprise:有申请日期>11-11-23</enterprise:有申请日期>
+	<enterprise:有商标名称>TSTD</enterprise:有商标名称>
+	<enterprise:有注册号>10225563</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：清大天达">
+	<enterprise:有申请日期>09-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>清大天达</enterprise:有商标名称>
+	<enterprise:有注册号>7380072</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京清大天达光电科技股份有限公司的商标信息：清大天达">
+	<enterprise:有申请日期>09-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>清大天达</enterprise:有商标名称>
+	<enterprise:有注册号>7380071</enterprise:有注册号>
+	<enterprise:有类别>07-机械设备</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种浮动缓冲装置">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种浮动缓冲装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620829977.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206017556U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种载体开合机构">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种载体开合机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620829986.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206020853U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种线轴的预放线装置">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种线轴的预放线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620830634.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206024116U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种带气动夹手的夹线装置">
+	<enterprise:有申请公布日>17-3-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种带气动夹手的夹线装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620831854.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206010159U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种新型的分料机构">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型的分料机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620517633.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205772043U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种点胶轨迹修改装置">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种点胶轨迹修改装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620517631.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205731844U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种新型取料装置">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型取料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620517515.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205739464U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种音圈振膜充分粘合装置">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种音圈振膜充分粘合装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620517514.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205736319U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种双螺杆圆管横向送料装置">
+	<enterprise:有申请公布日>15-9-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种双螺杆圆管横向送料装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420750272.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204606905U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种用于采血管生产的自动翻管机构">
+	<enterprise:有申请公布日>15-9-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于采血管生产的自动翻管机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420750265.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204606313U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种用于整箱大尺寸玻璃的上料架装置">
+	<enterprise:有申请公布日>15-9-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于整箱大尺寸玻璃的上料架装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420750264.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204606465U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种全自动压合机">
+	<enterprise:有申请公布日>15-7-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种全自动压合机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420551932.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204451205U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种大板玻璃翻转装置">
+	<enterprise:有申请公布日>15-7-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种大板玻璃翻转装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420750273.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204453742U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种锥齿轮随动装置">
+	<enterprise:有申请公布日>15-7-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种锥齿轮随动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420750274.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204459059U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种激光切割上下料传送机">
+	<enterprise:有申请公布日>13-1-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种激光切割上下料传送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090847.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101624260B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种射频插头自动对接装置">
+	<enterprise:有申请公布日>12-5-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频插头自动对接装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090025.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101626122B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种可调支架">
+	<enterprise:有申请公布日>12-1-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可调支架</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120231183.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202124148U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种工作台顶杆升降装置">
+	<enterprise:有申请公布日>12-1-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工作台顶杆升降装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120232569.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202116441U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种龙门运动式切割机">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种龙门运动式切割机</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120232570.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202107628U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种工作平台安装调平装置">
+	<enterprise:有申请公布日>12-1-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种工作平台安装调平装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201120231193.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202107631U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种重载工件的回转传送装置">
+	<enterprise:有申请公布日>11-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种重载工件的回转传送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090508.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628663B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车">
+	<enterprise:有申请公布日>11-11-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088693.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628588B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车定位机">
+	<enterprise:有申请公布日>11-7-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车定位机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088692.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628785B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车定位机">
+	<enterprise:有申请公布日>11-1-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车定位机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109085.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201721983U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车">
+	<enterprise:有申请公布日>10-9-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109084.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201580411U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种射频插头自动对接装置">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频插头自动对接装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110400.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201562820U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种重载工件的回转传送装置">
+	<enterprise:有申请公布日>10-8-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种重载工件的回转传送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110498.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201538587U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种输送线传送连接机构">
+	<enterprise:有申请公布日>10-8-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输送线传送连接机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110515.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201538578U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种风刀组合装置以及清洗设备">
+	<enterprise:有申请公布日>10-6-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种风刀组合装置以及清洗设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107204.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201516433U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种激光切割上下料传送机">
+	<enterprise:有申请公布日>10-5-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种激光切割上下料传送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920172829.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201485380U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种重载工件环形运动多工位分配定位装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种重载工件环形运动多工位分配定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110398.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201464920U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：激光刻线机及基板传送装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>激光刻线机及基板传送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109689.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201455552U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：激光加工设备和被加工件的对位装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>激光加工设备和被加工件的对位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109690.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201455546U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种清洗机">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种清洗机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109087.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201454961U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种去毛刺机">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种去毛刺机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109086.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201466052U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种通过气缸进行运动位置精确控制的装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种通过气缸进行运动位置精确控制的装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107258.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201461618U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种气相沉积炉气路连接装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种气相沉积炉气路连接装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110399.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201459238U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：双层直线运动装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>双层直线运动装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110275.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201466955U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种光电元件的隔热保护装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光电元件的隔热保护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920110516.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201466034U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：激光加工设备及除尘装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>激光加工设备及除尘装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109688.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201455545U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：激光加工设备和多激光头定位装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>激光加工设备和多激光头定位装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109686.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201455549U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：激光加工设备及除尘装置">
+	<enterprise:有申请公布日>10-5-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>激光加工设备及除尘装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920109687.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201455544U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种液晶显示屏标记识别及对位系统">
+	<enterprise:有申请公布日>10-3-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种液晶显示屏标记识别及对位系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107091.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201425674Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种整形装置">
+	<enterprise:有申请公布日>10-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种整形装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107673.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201406372Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种顶尖外防尘密封装置">
+	<enterprise:有申请公布日>10-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种顶尖外防尘密封装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920108014.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201408303Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种螺钉">
+	<enterprise:有申请公布日>10-2-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种螺钉</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920107611.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201407267Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种输送线传送连接机构">
+	<enterprise:有申请公布日>10-2-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输送线传送连接机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090059.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101643147A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车定位机">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车定位机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088692.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628785A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种篮具车">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种篮具车</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088693.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628588A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种清洗机">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种清洗机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088691.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628291A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种重载工件的回转传送装置">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种重载工件的回转传送装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090508.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101628663A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种去毛刺机">
+	<enterprise:有申请公布日>10-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种去毛刺机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910088694.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101630705A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种激光切割上下料传送机">
+	<enterprise:有申请公布日>10-1-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种激光切割上下料传送机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090847.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101624260A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种射频插头自动对接装置">
+	<enterprise:有申请公布日>10-1-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频插头自动对接装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910090025.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101626122A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种微动精密转台机构">
+	<enterprise:有申请公布日>08-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种微动精密转台机构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190430.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201133554Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：一种浮动和固定两用刮刀架">
+	<enterprise:有申请公布日>08-9-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种浮动和固定两用刮刀架</enterprise:有专利名称>
+	<enterprise:有申请号>CN200720190429.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201120764Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：微米级楔形微调结构">
+	<enterprise:有申请公布日>07-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>微米级楔形微调结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620167628.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200993886Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：精确控制压力的运动组件">
+	<enterprise:有申请公布日>07-12-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>精确控制压力的运动组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620167630.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200991998Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京清大天达光电科技股份有限公司的专利信息：玻璃切割机">
+	<enterprise:有申请公布日>07-8-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>玻璃切割机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200620119342.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN200940115Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京清大天达光电科技股份有限公司的软件著作：北京清大天达HZF210型真空采血管自动封装机软件">
+	<enterprise:有批准日期>17-8-14</enterprise:有批准日期>
+	<enterprise:有软件全称>北京清大天达HZF210型真空采血管自动封装机软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR444462</enterprise:有登记号>
+	<enterprise:有分类号>30208-3600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京清大天达光电科技股份有限公司的软件著作：清大天达转台机设备软件">
+	<enterprise:有批准日期>16-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>清大天达转台机设备软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR225629</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京清大天达光电科技股份有限公司的软件著作：清大天达TGZ341型促凝剂干燥设备软件">
+	<enterprise:有批准日期>16-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>清大天达TGZ341型促凝剂干燥设备软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR225628</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京清大天达光电科技股份有限公司的软件著作：清大天达VUV-F 型超声波干式清洗机软件">
+	<enterprise:有批准日期>16-8-18</enterprise:有批准日期>
+	<enterprise:有软件全称>清大天达VUV-F 型超声波干式清洗机软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR225627</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京清大天达光电科技股份有限公司的软件著作：北京清大天达全自动在线式TOP/PI印刷机软件">
+	<enterprise:有批准日期>12-3-23</enterprise:有批准日期>
+	<enterprise:有软件全称>北京清大天达全自动在线式TOP/PI印刷机软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR022848</enterprise:有登记号>
+	<enterprise:有分类号>30208-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京清大天达光电科技股份有限公司的网站备案：清大天达">
+	<enterprise:有审核时间>17-7-17</enterprise:有审核时间>
+	<enterprise:有网站全称>清大天达</enterprise:有网站全称>
+	<enterprise:有网站首页>www.bjtstd.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>bjtstd.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备06054073号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京清大天达光电科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京清大天达光电科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>一般</enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京清大天达光电科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>目前经营状况：      良好                
+ (4)经营趋势分析
+项目 2014年 2015年 2016年
+签约量（可分类）
+履约量（实际完成 (含未确认收入部分)
+）
+在执行量
+收入
+利润
+四、企业信用状况
+1.税务信息
+（国税）平谷国税 登记证号 110117733450826
+税务机关
+（地税）平谷地税 纳税信用A级企业 ■是    □否
+欠税信息
+其他信息
+主要税种及税率 增值税17%、所得税15%、城建税5%、教育费附加3%、地方教育费附加2%
+上年度缴税额 25.1万
+上年末应交额 0
+2.经营性负债偿付情况
+采购业务（接受劳务）
+供应商类型
+付款方式 电汇、承兑 交易地位
+议价能力 延期支付
+上年度发生额 9304万 上年度支付额 9065万
+上年度应付账款变动额 239 上年末应付账款余额 4601万
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 AAA
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+-
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额
+预测收入
+预测净利润
+预测成本、费用支出
+经营性流入
+经营性流出
+经营性净流量
+筹资性流入
+筹资性流出
+筹资性净流量
+投资性流入
+投资性流出
+投资性净流量
+项目
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 北京清大天达光电科技股份有限公司 组织机构代码 73345082-6
+登记机关 北京市工商行政管理局平谷分局 登记注册号 91110117733450826k
+贷款卡编码 1101020000045324 税务登记证号码 110117733450826
+基本账户行 北京银行平谷支行 从业人数（人） 122
+注册登记日期 2016年5月10日 注册资本（万元） 3600
+营业执照到期日 2022年1月8日 实收资本（万元） 3600
+许可经营项目：生产平板显示器生产线设备、太阳能生产线设备、半导体生产线设备及配件</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京清大天达光电科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京清大天达光电科技股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 集成电路设计企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京清大天达光电科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                     
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京清大天达光电科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京清大天达光电科技股份有限公司的企业法人代表：焦炳华">
+	<enterprise:名称>焦炳华</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>52</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1962.12</enterprise:出生年月>
+	<enterprise:身份证号码>110102196212242767</enterprise:身份证号码>
+	<enterprise:政治面貌>-</enterprise:政治面貌>
+	<enterprise:学历>硕士</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>高级经济师</enterprise:职称>
+	<enterprise:现任职务>董事长</enterprise:现任职务>
+	<enterprise:联系电话>-</enterprise:联系电话>
+	<enterprise:传真>-</enterprise:传真>
+	<enterprise:E-mail>-</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历>2002年至今 北京清大天达光电科技有限公司 董事长
+2002年至今 北京京城清达电子设备有限公司 董事长
+2001-2001 北京北量机电工量具有限责任公司 副厂长
+2004-2006 中欧国际商学院 取得MBA学位
+起止日期 在何地区何部门 任何职务</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京清大天达光电科技股份有限公司的下属单位：北京京城清达电子设备有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>北京京城清达电子设备有限公司</enterprise:名称>
+	<enterprise:主要职能>、测量仪器、电子设备；自产产品的安</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>高</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京清大天达光电科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>企业所得税，增值税等</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>—</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京清大天达光电科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>—</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>—</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京清大天达光电科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>—</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="北京清大天达光电科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京清大天达光电科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="北京清大天达光电科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:软件著作数量 rdf:ID="北京清大天达光电科技股份有限公司的软件著作数量">
+	<enterprise:软件著作总计>0</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京清大天达光电科技股份有限公司的专利数量">
+	<enterprise:专利总计>7</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>6</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京清大天达光电科技股份有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京清大天达光电科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

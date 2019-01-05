@@ -1,0 +1,3605 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京普源精电科技有限公司的企业概况">
+    <enterprise:有名称>北京普源精电科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc+</enterprise:有信用等级>
+    <enterprise:有信用代码>91110108802037040C</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101000004421952</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司北京上地支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>224</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2000-12-27</enterprise:有注册登记日期>
+    <enterprise:有注册资本>3000.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2020-12-26</enterprise:有营业执照到期日>
+    <enterprise:有股本>3000.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术服务、技术咨询、技术转让、技术推广；销售自行开发的产品、仪器仪表、计算机、软件及辅助设备；计算机系统服务；基础软件服务、应用软件服务；技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术服务、技术咨询、技术转让、技术推广；销售自行开发的产品、仪器仪表、计算机、软件及辅助设备；计算机系统服务；基础软件服务、应用软件服务；技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>测试/测量仪器、化学分析仪器的研发和销售业务</enterprise:有主营业务>
+    <enterprise:有行业分类>仪器仪表制造业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地四街</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市昌平区沙河镇踩河村</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102206</enterprise:有邮政编码>
+    <enterprise:有联系人>刘代香</enterprise:有联系人>
+    <enterprise:有联系电话>15151460800</enterprise:有联系电话>
+    <enterprise:有传真电话>010-80720067</enterprise:有传真电话>
+    <enterprise:有E-mail>liudaixiang@rigol.com</enterprise:有E-mail>
+    <enterprise:有网址>www.rigol.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京普源精电科技有限公司（以下简称“公
+司”）于 2000年 12月 27日在北京市工商行政
+管理局海淀分局注册成立，初始注册资本 50.00
+万元，后经多次增资及股权变更，截至评级时
+点，公司注册资本 3000.00 万元，股东出资及
+持股比例见附录二之表 13。 
+公司经营范围：“组装虚拟仪器及示波器；
+技术推广服务、货物进出口、技术进出口、代
+理进出口业务。（依法须经批准的项目，经相
+关部门批准后依批准的内容开展经营活动。）”
+公司主营业务为测试/测量仪器、化学分析仪器
+的研发和销售业务。 
+截至 2016 年 8 月底，公司资产总额
+25979.15万元，固定资产净额 265.10万元，所
+有者权益 18272.71万元；2015年公司实现营业
+收入 18044.17万元，利润总额 1382.96万元；
+2016年 1~8月，公司实现营业收入 5510.10万
+元，利润总额 980.98万元。公司员工总数为 224
+人，在北京市属于中型企业。 
+公司注册地址：北京市海淀区上地四街 8
+号楼 501-11室；经营地址：北京市昌平区沙河
+镇踩河村 156 号；法定代表人：王悦；统一社
+会信用代码：91110108802037040C；经营期限：
+自 2000年 12月 27日至 2020年 12月 26日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京普源精电科技有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长兼总经理王悦，
+42 岁，硕士研究生学历。王悦 1998 年与王铁
+军、李维森等人创立了 RIGOL工作室（现为公
+司研发部），2000 年创建公司，在多年的创业
+过程中，主持开发了具有自主知识产权、国内
+首台达到 100M以上宽带的RVO系列虚拟示波
+器、国内首台 100M以上带宽的数字示波器等，
+具有丰富的数字化技术研发经验和管理经验。 
+公司副总经理李维森，42岁，硕士研究生
+学历。自公司成立以来，李维森一直负责公司
+产品的市场开拓，具有敏锐的市场洞察力和丰
+富的销售经验。 
+公司副总经理王铁军，42岁，本科学历，
+曾荣获国家机械工业联合会科学技术二等奖、
+北京市科学技术进步奖和昌平区科学技术奖，
+曾自主设计多项产品：国内第一台规模化生产
+的数字示波器-DS3000 系列的全部硬件电路、
+国内第一台大量出口的数字示波器-DS5000 系
+列的全部硬件电路、基于 PC 的数字示波器、
+函数波形/任意波形发生器-DG3000 系列的全
+部硬件电路等，管理和研发经验丰富。 
+总体看，公司高管人员学历水平较高，从
+业经验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 224人。 
+从学历构成看，公司本科及以上学历者占
+比 89.73%，专科学历者占比 10.27%；从年龄
+结构看，公司员工年龄在 45 岁及以下者占比
+95.09%，员工呈现年轻化特点；从岗位构成看，
+公司管理人员占比 18.75%，技术人员占比
+43.30%，作业人员占比 37.95%。 
+总体看，公司员工学历水平高，人员结构
+合理。 
+3．研发人员素质 
+公司现有专职研发人员 95人，均为本科及
+以上学历。 
+公司主要研发人员史慧，34岁，硕士研究
+生学历，曾在电子测量与仪器学报（增刊）发
+表论文，并获得“2006测控、计量、仪器仪表
+学术年会优秀论文三等奖”。史慧参与了公司多
+项产品的研制工作，包括：实时动态信号分析
+仪、地下管道漏水检测仪、简易逻辑分析仪等，
+研发经验较丰富。 
+总体看，公司研发人员学历水平高，主要
+研发人员研发经验较丰富。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>研发部负责公司研发工作，并和北京工业
+大学共同建立创新实验室进行科研合作。公司
+研发分为硬件开发、软件开发、结构设计和平
+面设计四大部分。 
+近三年，公司研发投入均占当年营业收入
+的10%以上，公司研发投入力度大。 
+总体看，公司研发投入力度大，科研条件
+较好。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京普源精电科技有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司经营地址位于北京市昌平区沙河镇踩
+河村 156 号，建筑面积 3000.00 平方米，由股
+东无偿提供给公司使用，公司经营场所稳定，
+办公设施齐全。 
+公司为北京电子仪器行业协会理事单位、
+北京市高新技术成果转化示范企业，拥有《国
+家 高 新 技 术 企 业 证 书 》（ 编 号 ：
+GR201411003115，有效期至 2017 年 10 月 29
+日）、《中关村高新技术企业证书》（编号：
+20152010581804，有效期至 2018年 7月 8日）。 
+公司成立 16年，拥有 1项注册商标，业内
+知名度较高。 
+总体看，公司具备经营所需资质，业内知
+名度较高，经营条件好。 
+2．业务运作 
+公司成立之初主要从事测试/测量仪器、化
+学分析仪器的研发、生产和销售业务。2014年，
+公司将产品生产转移至子公司苏州普源精电科
+技有限公司（以下简称“苏州普源”），苏州普
+源拥有6条测试/测量仪器生产线和2条化学分
+析仪器生产线。2015年，公司将部分销售业务
+转移给苏州普源，导致公司当年营业收入较之
+前年度出现下降。现阶段，公司只负责研发和
+部分销售业务。 
+测试/测量仪器单台价格2000元左右，该项
+产品2015年形成的收入约占总收入的90%；化
+学分析仪器单台价格2万元~10万元不等，该项
+产品2015年形成的收入约占总收入的10%。公
+司产品可广泛适用于生产制造、工业控制、广
+播电视、药物分析、食品安全、环保、化工、
+农林畜牧和科研教学等诸多领域。 
+采购方面，公司主要从苏州普源采购整机，
+按合同约定向苏州普源付款；实验使用的少量
+电容、芯片、电阻等物品，公司一般从国外采
+购，一般为清关后付款。 
+销售方面，公司销售分为内销和出口，2015
+年，内销收入约占总收入的40%，出口收入约
+占总收入的60%。公司主要出口欧洲、美国等
+地区，结算方式为预收全款，出口业务占比较
+大，汇率变动将对公司的利润产生一定的影响。
+公司内销以经销为主，以直销为辅，结算方式
+一般为预收50%的货款，客户收货后付全款，
+公司给予部分经销商90天以下账期。公司2012
+为平台，销售部门和经销商均经过销售管理系
+统在网上下单。 
+总体看，公司上下游渠道通畅，经营情况
+良好。 
+3．经营效率 
+表 2  公司近三年主要经营指标 
+财务指标 2013年 2014年 2015年 
+成本率(%) 92.51 95.98 94.18 
+管理费用率(%) 24.87 7.24 7.27 
+应收账款周转次数(次) 6.92 6.87 6.93 
+存货周转次数(次) 1.93 6.64 22.54 
+总资产周转次数(次) 0.77 1.02 0.65 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率始终处于行业高水平，
+主要原因为采购成本和人员成本较高；同期，
+公司管理费用率呈下降趋势，管理费用控制力
+度好。 
+近三年，公司应收账款周转次数变化不大，
+加权平均值为 6.91次，处于行业较高水平；同
+期，公司存货周转次数呈上升趋势，加权平均
+值为 13.65 次，处于行业高水平；同期，公司
+总资产周转次数整体呈下降趋势，加权平均值
+为 0.79次，处于行业一般水平。 
+总体看，公司经营效率较高。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+公司股东会为公司的权力机构，行使决定
+公司的经营方针和投资计划等职权；公司设董
+事会，董事会由 3名董事组成，设董事长 1名，
+董事会行使召集股东会，并向股东会报告工作
+等职权；公司不设监事会，设监事 1名，监事
+行使检查公司财务等职权；公司设总经理 1名，
+负责主持公司的经营管理工作。 
+公司内设财务部、战略发展部、人力资源
+相互配合，协作有序。 
+公司拥有 3家全资子公司，分别为：苏州
+普源，投资金额 8000.00 万元，该子公司负责
+公司产品的生产和部分销售工作；北京普源精
+仪科技有限公司，投资金额 1810.00 万元，该
+子公司还未开展业务，公司计划未来将化学分
+析仪器相关业务分配给该子公司；Rigol 
+Technologies EU GmbH，投资金额 2.5万欧元，
+该子公司位于欧洲，主要负责公司产品的海外
+销售。三个子公司由公司高管人员统一管理。 
+总体看，公司法人治理结构完善，部门设
+置合理，内部协作有序。 
+2．制度建设及执行 
+公司已制定了财务会计、劳动人事、经营
+管理等相关规章制度，形成了一整套现代化的
+管理模式。 
+总体看，公司制度建设较完善，执行情况
+较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+根据联合信用数据预测方法，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016年将实现营业收入 10000.00万元，
+净利润 650.00 万元；预计公司 2016 年底资产
+总额 26006.29万元，负债总额 8000.00万元，
+所有者权益 18006.29 万元，相比 2015 年，联
+合信用预计公司 2016 年营业收入下降
+-44.58%，负债率变动幅度为-3.42%，净资产收
+益率变动幅度为-3.40% 。 
+总体看，公司预测收入较之前年度出现下
+降源于将部分销售业务分给子公司，未来发展
+有待跟踪。 
+2．融资需求 
+公司无新增融资需求。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京普源精电科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 26442.04万
+元、28764.69 万元、26369.17 万元，复合变动
+率为-0.14%。截至 2016年 8月底，公司资产总
+额 25979.15万元，其中：流动资产占比 11.74%；
+非流动资产占比 88.26%。 
+图 1  公司 2016年 8月流动资产构成图 
+截至 2016年 8月底，公司流动资产 3049.67
+万元，主要为：货币资金 1204.66 万元，占比
+39.50%；应收账款 865.25万元，占比 28.37%，
+主要为应收 Rigol Technologies EU GmbH等公
+司的货款，账龄在 1年以内的占比 91.82%，账
+龄在 1~2 年的占比 7.94%，2 年以上的占比
+0.24%，公司已按账龄分析法计提了坏账准备；
+预付款项 586.43万元，占比 19.23%，为预付北
+京科明雷德科技有限公司、北京京港逍遥旅游
+用品有限公司等公司的采购款，账龄均在 1 年
+以内；存货 250.26万元，占比 8.21%，主要为
+原材料、半成品和产成品。 
+截至 2016 年 8 月底，公司非流动资产
+22929.48万元，主要为：长期股权投资 8356.11
+万元，占比 36.44%，为公司对全资子公司的股
+权投资；固定资产净额 265.10 万元，占比
+1.16%，为办公设备；无形资产 3574.14万元，
+占比 15.59%，为办公系统软件和研发成果资产
+化；开发支出 10734.12万元，占比 46.81%，为
+公司在研产品的开发支出。 
+总体看，公司资产流动性较弱，整体资产
+质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2016年 8月底，公司流动比率为 39.57%，
+公司速动比率为 36.33%，均处于行业低水平。
+2015年，公司现金流动负债比为 30.48%，经营
+活动获取的现金流量净额对流动负债保障能力
+一般，公司短期偿债能力较弱。 
+2015 年，公司 EBITDA 利息倍数为 5.61
+倍，债务保护倍数为 0.26倍，长期偿债能力较
+弱。 
+结合公司的负债结构、所有者权益对债务
+的保障能力看，公司未来一年整体偿债能力较</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 47.72%、
+44.79%、34.18%；同期，全部债务资本化比率
+分别为 35.38%、35.66%、29.32%。2016 年 8
+月底，公司资产负债率为 29.66%，全部债务资
+本化比率为 25.50%，负债水平一般，有息债务
+压力一般。 
+近三年，公司负债总额分别为 12618.17万
+元、12883.91万元、9012.87万元，复合变动率
+为-15.49%。 
+图 2  公司 2016年 8月流动负债构成图 
+截至 2016年 8月底，公司负债总额 7706.44
+万元，均为流动负债，主要为：短期借款 5550.00
+万元，占比 72.02%，详细情况见表 3；应付票
+据 704.19万元，占比 9.14%；应付账款 494.01
+万元，占比 6.41%，主要为应付艺达思贸易（上
+海）有限公司、深圳市信利康供应链管理有限
+公司的采购款；其他应付款 625.28万元，占比
+8.11%，主要为往来款。 
+表 3  公司 2016年 8月底短期借款情况 
+贷款 贷款额 贷款 
+贷款类型 
+银行 (万元) 起止日期 
+500.00 2015.09.16~2016.09.15 信用 
+150.00 2015.11.11~2016.10.10 房产抵押 
+北
+京 
+150.00 2015.11.11~2016.11.10 房产抵押 
+银
+行 
+125.00 2015.10.10~2016.09.09 房产抵押 
+125.00 2015.10.10~2016.10.09 房产抵押 
+500.00 2015.10.16~2016.10.15 信用担保 
+600.00 2015.11.02~2016.11.01 信用担保 
+500.00 2015.11.04~2016.11.03 信用担保 
+300.00 2015.11.11~2016.11.10 信用担保 
+招
+商
+300.00 2015.12.08~2016.12.08 信用担保 
+银
+行 
+800.00 2015.12.08~2016.12.08 信用担保 
+600.00 2015.12.14~2016.12.13 信用担保 
+300.00 2015.12.14~2016.12.13 信用担保 
+600.00 2016.01.08~2017.01.07 信用担保 
+资料来源：公司提供，联合信用整理 
+近三年，公司所有者权益分别为 13823.87
+万元、15880.78万元、17356.29万元，复合增
+长率为 12.05%，主要得益于股东增资。 
+截至 2016 年 8 月底，公司所有者权益
+18272.71万元，其中：实收资本 3000.00万元，
+占比 16.42%；资本公积 23.02万元，占比 0.13%；
+盈余公积 800.00万元，占比 4.38%；未分配利
+润 14449.69万元，占比 79.08%。 
+总体看，公司负债水平一般，有息债务压
+力一般，所有者权益对债务保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 19617.90万
+元、28023.98 万元、18044.17 万元，复合变动
+率为-4.09%；同期，利润总额分别为 1693.49
+万元、2600.23万元、1382.96 万元，复合变动
+率为-9.63%；随着公司将部分销售业务拨给子
+公司，营业收入和利润总额均有所下降。 
+近三年，公司主营业务利润率分别为
+47.60%、23.30%、26.43%，呈下降趋势，目前
+处于行业一般水平；同期，净资产收益率分别
+为 10.60%、13.73%、7.07%，加权平均值为
+9.78%，处于行业较低水平；同期，总资产报酬
+率分别为 8.42%、11.25%、6.68%，加权平均值
+为 8.40%，处于行业较低水平。 
+图 3  公司近三年盈利能力指标变动趋势图 
+从收入实现质量看，近三年，公司现金收
+入比分别为 98.62%、103.20%、93.67%，加权
+平均值为 97.52%，公司收入实现质量一般。 
+总体看，公司盈利能力一般，收入实现质</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京普源精电科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。 
+截至评级时点，联合信用未发现公司有未
+决诉讼；联合信用未发现公司有票据贴现、对
+外担保等或有负债；未发现公司有银行不良信
+贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司流动资产较少，资产流动性较弱。 
+（2）公司出口业务占比较大，汇率变动将
+对公司的利润产生一定的影响。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>截至评级时点，联合信用未发现公司存在</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京普源精电科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>26442.04 </enterprise:资产总额>
+    <enterprise:所有者权益>13823.87 </enterprise:所有者权益>
+    <enterprise:负债总额>12618.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>19617090.00 </enterprise:营业收入>
+    <enterprise:EBITDA>3138.18 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京普源精电科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>28764.68 </enterprise:资产总额>
+    <enterprise:所有者权益>15880.78 </enterprise:所有者权益>
+    <enterprise:负债总额>12883.91 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>28023098.00 </enterprise:营业收入>
+    <enterprise:EBITDA>4045.35 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京普源精电科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>26200.61 </enterprise:资产总额>
+    <enterprise:所有者权益>17356.29 </enterprise:所有者权益>
+    <enterprise:负债总额>9012.87 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>18044017.00 </enterprise:营业收入>
+    <enterprise:EBITDA>2564.03 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京普源精电科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.77 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.92 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.93 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京普源精电科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.02 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.87 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>6.64 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京普源精电科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.65 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.93 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>22.54 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京普源精电科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>10.60 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京普源精电科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>13.73 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京普源精电科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>7.07 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京普源精电科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>91.19 </enterprise:流动比率>
+    <enterprise:速动比率>48.02 </enterprise:速动比率>
+    <enterprise:资产负债率>47.72 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>7.13 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京普源精电科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>75.22 </enterprise:流动比率>
+    <enterprise:速动比率>67.70 </enterprise:速动比率>
+    <enterprise:资产负债率>44.79 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>7.99 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京普源精电科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>43.01 </enterprise:流动比率>
+    <enterprise:速动比率>40.79 </enterprise:速动比率>
+    <enterprise:资产负债率>34.40 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>5.61 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京普源精电科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>98.62 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>29.89 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>35.38 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京普源精电科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>103.20 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>49.55 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>35.66 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京普源精电科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>0.00 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.00 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>93.67 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>30.48 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>29.32 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京普源精电科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>2167.93 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3401.81 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>241.48 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>237.18 </enterprise:其他应收款>
+    <enterprise:存货>5436.99 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>11485.39 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>4296.20 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2095.68 </enterprise:固定资产净额>
+    <enterprise:在建工程>546.07 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4932.37 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>28.42 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>3057.91 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>14956.65 </enterprise:非流动资产合计>
+    <enterprise:资产总计>26442.04 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京普源精电科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>3649.65 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4760.78 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>29.98 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>282.28 </enterprise:其他应收款>
+    <enterprise:存货>969.16 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>9691.85 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>7796.20 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>395.67 </enterprise:固定资产净额>
+    <enterprise:在建工程>12.59 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>4376.09 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>6492.28 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>19072.83 </enterprise:非流动资产合计>
+    <enterprise:资产总计>28764.68 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京普源精电科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2916.77 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>447.64 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>200.38 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>111.37 </enterprise:其他应收款>
+    <enterprise:存货>200.38 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>3876.54 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>8356.11 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>322.51 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>3850.69 </enterprise:无形资产>
+    <enterprise:开发支出>9794.76 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>22324.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>26200.61 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京普源精电科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>7800.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1000.00 </enterprise:应付票据>
+    <enterprise:应付账款>3678.11 </enterprise:应付账款>
+    <enterprise:预收款项>132.14 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>62.27 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>211.39 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>12883.91 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>12883.91 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1600.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>800.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>13457.76 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15880.78 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15880.78 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>28764.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京普源精电科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>7800.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1000.00 </enterprise:应付票据>
+    <enterprise:应付账款>3678.11 </enterprise:应付账款>
+    <enterprise:预收款项>132.14 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>62.27 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>211.39 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>12883.91 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>12883.91 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1600.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>800.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>13457.76 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>15880.78 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>15880.78 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>28764.69 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京普源精电科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>6200.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>1000.00 </enterprise:应付票据>
+    <enterprise:应付账款>430.76 </enterprise:应付账款>
+    <enterprise:预收款项>28.26 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>1.97 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>170.91 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1180.97 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>9012.87 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>9012.87 </enterprise:负债合计>
+    <enterprise:实收资本或股本>3000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>23.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>800.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>13533.27 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>17356.29 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>17356.29 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>26369.16 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京普源精电科技有限公司2013年利润表">
+    <enterprise:营业收入>19617090.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>10136.75 </enterprise:营业成本>
+    <enterprise:主营业务成本>10136.75 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>142.66 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2677.14 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4513.75 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>678.92 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1468068.00 </enterprise:营业利润>
+    <enterprise:营业外收入>243.56 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>18.74 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1693049.00 </enterprise:利润总额>
+    <enterprise:所得税费用>302.03 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1391046.00 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1391046.00 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京普源精电科技有限公司2014年利润表">
+    <enterprise:营业收入>28023098.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>21267.94 </enterprise:营业成本>
+    <enterprise:主营业务成本>21267.94 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>225.42 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2730.57 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1948.04 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>725.17 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1126085.00 </enterprise:营业利润>
+    <enterprise:营业外收入>1544.53 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>71.14 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2600023.00 </enterprise:利润总额>
+    <enterprise:所得税费用>560.28 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2039096.00 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2039096.00 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京普源精电科技有限公司2015年利润表">
+    <enterprise:营业收入>18044017.00 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>13182.68 </enterprise:营业成本>
+    <enterprise:主营业务成本>13182.68 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>91.61 </enterprise:营业税金及附加>
+    <enterprise:销售费用>2034.40 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1235.15 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>450.68 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1049063.00 </enterprise:营业利润>
+    <enterprise:营业外收入>342.37 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>9.04 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1382096.00 </enterprise:利润总额>
+    <enterprise:所得税费用>207.44 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1175052.00 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1175052.00 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京普源精电科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>19347.85 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>938.97 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4737.32 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>25024.14 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>10377.85  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2633.39 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1331.04 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>6917.23 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>21259.51 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>3764.63 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>1.27 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1.27 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>3808.74 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>6917.23 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>10725.97 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-10724.70 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>7600.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>7600.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>6600.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>538.46 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>106.03 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>7244.49 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>355.51 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>107.18 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-6497.38 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京普源精电科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>28920.32 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>1307.67 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1671.73 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>31899.72 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>17394.74  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2533.60 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2011.84 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3575.47 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>25515.65 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>6384.07 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>2178.95 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>2178.95 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>3780.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>3500.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3575.47 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>10855.47 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-8676.52 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>10400.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>73.35 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>10473.35 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>9600.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>494.34 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>165.57 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>10259.91 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>213.44 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>14.75 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-2064.26 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京普源精电科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>16902.40 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>7844.50 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>24746.90 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>11644.53  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>2857.04 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>4392.22 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3105.92 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>21999.71 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>2747.19 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2720.16 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>559.91 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>3105.92 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>6385.99 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-6385.99 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1600.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1600.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-1600.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-5238.80 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京普源精电科技有限公司被投资单位：苏州普源精电科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>苏州普源精电科技有限公司</enterprise:名称>
+	<enterprise:单位代码>68834444-1</enterprise:单位代码>
+	<enterprise:被投资金额>8000.00万元万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京普源精电科技有限公司被投资单位：北京普源精仪科技有限公司">
+	<enterprise:序号>2</enterprise:序号>
+	<enterprise:名称>北京普源精仪科技有限公司</enterprise:名称>
+	<enterprise:单位代码>79511629-2</enterprise:单位代码>
+	<enterprise:被投资金额>1810.00万元万元</enterprise:被投资金额>
+	<enterprise:股权比率>100.00%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:被投资单位 rdf:ID="北京普源精电科技有限公司被投资单位：Rigol">
+	<enterprise:序号>3</enterprise:序号>
+	<enterprise:名称>Rigol</enterprise:名称>
+	<enterprise:单位代码>Technologies</enterprise:单位代码>
+	<enterprise:被投资金额>EU万元</enterprise:被投资金额>
+	<enterprise:股权比率>%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：北京普源精电投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京普源精电投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>1,620.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>54.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：李维森 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李维森 </enterprise:股东名称>
+	 <enterprise:货币>394.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.14%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：王铁军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王铁军 </enterprise:股东名称>
+	 <enterprise:货币>394.2万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.14%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：王悦 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>王悦 </enterprise:股东名称>
+	 <enterprise:货币>291.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>9.72%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：北京锐进合众科技中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京锐进合众科技中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>150.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京普源精电科技有限公司股东：北京锐格合众科技中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京锐格合众科技中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>150.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>5.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRA REAL">
+	<enterprise:有申请日期>16-5-18</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRA REAL</enterprise:有商标名称>
+	<enterprise:有注册号>19993522</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-5-8</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>16900453</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：X">
+	<enterprise:有申请日期>15-5-5</enterprise:有申请日期>
+	<enterprise:有商标名称>X</enterprise:有商标名称>
+	<enterprise:有注册号>16870877</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：RIGOL">
+	<enterprise:有申请日期>13-5-9</enterprise:有申请日期>
+	<enterprise:有商标名称>RIGOL</enterprise:有商标名称>
+	<enterprise:有注册号>12552252</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：RIGOL">
+	<enterprise:有申请日期>10-6-24</enterprise:有申请日期>
+	<enterprise:有商标名称>RIGOL</enterprise:有商标名称>
+	<enterprise:有注册号>8418765</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>许可合同备案完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRAVISION">
+	<enterprise:有申请日期>09-4-8</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRAVISION</enterprise:有商标名称>
+	<enterprise:有注册号>7311992</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRAZOOM">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRAZOOM</enterprise:有商标名称>
+	<enterprise:有注册号>5296682</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRAZOOM">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRAZOOM</enterprise:有商标名称>
+	<enterprise:有注册号>5295951</enterprise:有注册号>
+	<enterprise:有类别>10-医疗器械</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRAZOOM">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRAZOOM</enterprise:有商标名称>
+	<enterprise:有注册号>5295952</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：ULTRAZOOM">
+	<enterprise:有申请日期>06-4-18</enterprise:有申请日期>
+	<enterprise:有商标名称>ULTRAZOOM</enterprise:有商标名称>
+	<enterprise:有注册号>5295991</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：RIGOL">
+	<enterprise:有申请日期>06-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>RIGOL</enterprise:有商标名称>
+	<enterprise:有注册号>5128409</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：RIGOL">
+	<enterprise:有申请日期>06-1-19</enterprise:有申请日期>
+	<enterprise:有商标名称>RIGOL</enterprise:有商标名称>
+	<enterprise:有注册号>5128408</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标变更完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：锐格">
+	<enterprise:有申请日期>02-11-6</enterprise:有申请日期>
+	<enterprise:有商标名称>锐格</enterprise:有商标名称>
+	<enterprise:有注册号>3360654</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标续展完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京普源精电科技有限公司的商标信息：RIGOL">
+	<enterprise:有申请日期>01-2-2</enterprise:有申请日期>
+	<enterprise:有商标名称>RIGOL</enterprise:有商标名称>
+	<enterprise:有注册号>1710066</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>许可合同备案完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频信号源及其工作方法">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频信号源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530239.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873005B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多路线性隔离电路及其示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多路线性隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210558977.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884895B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有模板测试功能的示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有模板测试功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210451961.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103808999B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可产生多路同步时钟的示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可产生多路同步时钟的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210088600.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103364602B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有自校准功能的数据采集卡及其数据采集装置">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有自校准功能的数据采集卡及其数据采集装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431600.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103177551B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形缩放方法、装置及示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形缩放方法、装置及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110435603.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176009B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310698160.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104730181B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频信号源及其工作方法">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频信号源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530377.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873033B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可变增益放大器的测量装置">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可变增益放大器的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210089053.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103368514B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多通道信号获取探头及其使用方法">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多通道信号获取探头及其使用方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210560852.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884879B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种计算差异度的方法及其示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种计算差异度的方法及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545554.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869129B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可编程多通道数据采集装置的控制方法">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可编程多通道数据采集装置的控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431214.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176411B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种分路线性隔离电路及其示波器">
+	<enterprise:有申请公布日>17-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分路线性隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210559700.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884893B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有CAN口的二极管阵列检测器及液相色谱仪">
+	<enterprise:有申请公布日>17-9-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有CAN口的二极管阵列检测器及液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610160064.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107219319A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种电源数据的显示方法及监视器">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电源数据的显示方法及监视器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531071.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467436B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有改进视频触发功能的示波器">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有改进视频触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210378445.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713172B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：正交幅度调制信号的产生方法、装置和数字信号发生器">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>正交幅度调制信号的产生方法、装置和数字信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431543.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103179079B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种接口的接地装置及具有静电防护功能的频谱分析仪">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种接口的接地装置及具有静电防护功能的频谱分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720051785.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206440766U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种提供时钟信号的方法、装置及频谱分析仪">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提供时钟信号的方法、装置及频谱分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431634.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178836B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可控测量功能的示波器及其实现方法">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可控测量功能的示波器及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110435581.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176008B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有密闭性接口的测量装置">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有密闭性接口的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528520.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868542B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有波形消抖功能的信号发生器及消抖方法">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有波形消抖功能的信号发生器及消抖方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110432013.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178810B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量资源控制系统和测量资源控制方法">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量资源控制系统和测量资源控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534883.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467372B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有波形录制回放功能的示波器">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有波形录制回放功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110403961.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103149402B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有延迟触发功能的示波器">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有延迟触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210377999.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713171B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可变衰减器的射频测量装置">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可变衰减器的射频测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530622.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873158B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种DDS信号发生器及其幅度控制方法">
+	<enterprise:有申请公布日>17-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种DDS信号发生器及其幅度控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431655.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176503B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种数据采集卡及数据采集测量装置">
+	<enterprise:有申请公布日>17-8-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据采集卡及数据采集测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539419.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868543B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自定义波形的方法及信号发生器">
+	<enterprise:有申请公布日>17-8-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自定义波形的方法及信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110432028.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178808B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有热插拔保护功能的数据采集装置及其通道卡">
+	<enterprise:有申请公布日>17-6-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有热插拔保护功能的数据采集装置及其通道卡</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431240.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176034B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：测量资源控制系统和测量资源控制方法">
+	<enterprise:有申请公布日>17-6-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>测量资源控制系统和测量资源控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534838.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467369B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有前端衰减功能的数字示波器">
+	<enterprise:有申请公布日>17-4-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有前端衰减功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448945.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185821B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有截屏功能的测量装置">
+	<enterprise:有申请公布日>17-4-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有截屏功能的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431211.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103175570B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：用于电气隔离和时钟同步的电路及多通道信号发生装置">
+	<enterprise:有申请公布日>17-4-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于电气隔离和时钟同步的电路及多通道信号发生装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606976.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102571078B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种总线结构的数据采集装置">
+	<enterprise:有申请公布日>17-4-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种总线结构的数据采集装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431239.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176021B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：快沿信号产生电路及其有源前端、测试系统">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>快沿信号产生电路及其有源前端、测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621029444.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206057546U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有超低输入电容的有源差分探头">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有超低输入电容的有源差分探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110449258.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185818B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有断电自保护功能的数据采集装置和数据采集卡">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有断电自保护功能的数据采集装置和数据采集卡</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431210.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103177131B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有输入电阻保护功能的示波器">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有输入电阻保护功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210294980.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103592485B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：偏移正交相移键控调制方法、装置和数字信号发生器">
+	<enterprise:有申请公布日>17-3-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>偏移正交相移键控调制方法、装置和数字信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431687.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103179065B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形编辑方法及装置">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形编辑方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606217.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102542589B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有扫频功能的信号源及其生成方法">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有扫频功能的信号源及其生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431639.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178843B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种振荡键控调制方法、装置和函数信号发生器">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种振荡键控调制方法、装置和函数信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110432015.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178784B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：求和调制信号发生器">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>求和调制信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431664.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178783B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510266515.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106290675A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有传感器的色谱装置">
+	<enterprise:有申请公布日>17-1-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有传感器的色谱装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510266703.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106290593A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：鼠标绘制波形的处理方法及装置">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>鼠标绘制波形的处理方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606977.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102566867B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种快速的异常波形的检测方法">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种快速的异常波形的检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012234.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207298B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形编辑方法和装置">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形编辑方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606216.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102545840B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量脉冲宽度的方法、装置和频率计">
+	<enterprise:有申请公布日>16-12-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量脉冲宽度的方法、装置和频率计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431652.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176059B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：从测量仪器读取具有状态位信息的测量数据的方法及系统">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>从测量仪器读取具有状态位信息的测量数据的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534722.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467347B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有ECL鉴相器的锁相环信号源及其生成方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有ECL鉴相器的锁相环信号源及其生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431636.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178842B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的异常波形的显示方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的异常波形的显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012366.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207294B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有总线结构的机箱">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有总线结构的机箱</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110116347.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102770002B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量资源控制系统和测量资源控制方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量资源控制系统和测量资源控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534815.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467368B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种方便的异常波形的检测方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种方便的异常波形的检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012367.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207295B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：实现完整显示测量数据的直方图的方法和装置">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>实现完整显示测量数据的直方图的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534705.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466746B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种射频信号源">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频信号源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431621.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178798B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有通道复制功能的信号发生器及通道复制方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有通道复制功能的信号发生器及通道复制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431631.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176003B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可提高测量准确度的示波器及测量方法">
+	<enterprise:有申请公布日>16-12-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可提高测量准确度的示波器及测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110434961.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176012B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种支持热插拔的总线结构数据采集装置的控制方法">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种支持热插拔的总线结构数据采集装置的控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431999.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176413B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：频谱数据处理方法、装置及频谱分析仪">
+	<enterprise:有申请公布日>16-12-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>频谱数据处理方法、装置及频谱分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530603.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102455383B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有消除前端偏移误差功能的示波器">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有消除前端偏移误差功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210258062.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103575948B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种插接缆线、探头及其制作方法">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种插接缆线、探头及其制作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110418425.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103166011B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可以产生同步信号的信号发生器及其方法">
+	<enterprise:有申请公布日>16-11-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可以产生同步信号的信号发生器及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431518.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178841B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：电流探头">
+	<enterprise:有申请公布日>16-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>电流探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201630202811.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN303928371S</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种谐波生成方法、装置和信号发生器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种谐波生成方法、装置和信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431263.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176002B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于精确触发的数字示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于精确触发的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110128582.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102788892B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的异常波形的检测方法">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的异常波形的检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012235.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207299B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有频响补偿电路的示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有频响补偿电路的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448977.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185823B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种双触发电平的配置方法及示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种双触发电平的配置方法及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110434945.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176011B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有外触发功能的示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有外触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110285769.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103018512B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于显示异常波形的数字示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于显示异常波形的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012212.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207296B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量资源控制方法和测量资源控制系统">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量资源控制方法和测量资源控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534869.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467371B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种白噪声信号发生器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种白噪声信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531129.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468806B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可以显示数学运算结果的数字示波器">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可以显示数学运算结果的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110449260.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185824B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频率测量方法、装置和频率计">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频率测量方法、装置和频率计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431534.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176042B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有通道耦合功能的信号发生器及方法">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有通道耦合功能的信号发生器及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431624.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176412B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有序列触发功能的数字示波器及其控制方法">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有序列触发功能的数字示波器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237502.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053189B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形数据解码装置及示波器">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形数据解码装置及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110434965.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176014B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量资源控制方法和测量资源控制系统">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量资源控制方法和测量资源控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010545576.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467090B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：频谱分析仪的读值应用方法及装置">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>频谱分析仪的读值应用方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531103.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467313B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有多用途复用接口的示波器">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有多用途复用接口的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110435594.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176016B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有自动光标追踪功能的示波器">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有自动光标追踪功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448944.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185820B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自适应生成电源上位机界面的方法及装置">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自适应生成电源上位机界面的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531087.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467364B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有多个功能设置按键的数据采集装置">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有多个功能设置按键的数据采集装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431212.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176065B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱数据标记显示方法和装置">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱数据标记显示方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530494.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102456061B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种直观的异常波形的显示方法">
+	<enterprise:有申请公布日>16-8-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直观的异常波形的显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012232.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207297B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有幅度补偿功能的信号发生器及其方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有幅度补偿功能的信号发生器及其方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431520.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178779B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱数据显示方法和装置">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱数据显示方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530482.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102455859B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有频率计的信号发生器及信号处理方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有频率计的信号发生器及信号处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431261.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176043B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：多窗体打开及多窗体关闭管理方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>多窗体打开及多窗体关闭管理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010618548.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102566874B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有等效采样功能的数字示波器及用于数字示波器的等效采样方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有等效采样功能的数字示波器及用于数字示波器的等效采样方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534893.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466748B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：万用表校准源">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>万用表校准源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534866.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466788B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有全数字计频功能的示波器">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有全数字计频功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110359956.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103105514B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种高功率线性功率放大器">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高功率线性功率放大器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531126.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468809B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种扫频信号发生器">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扫频信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431637.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178782B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种示波器及其配置装置和配置方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种示波器及其配置装置和配置方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110435602.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176017B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有驻波测量功能的频谱分析仪及其驻波测量方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有驻波测量功能的频谱分析仪及其驻波测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110433205.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176044B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有配置文件管理功能的测量装置、系统及配置文件复制方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有配置文件管理功能的测量装置、系统及配置文件复制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910119836.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839930B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱数据存储方法及装置">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱数据存储方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530683.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467579B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种函数信号发生装置及方法">
+	<enterprise:有申请公布日>16-8-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种函数信号发生装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431671.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178814B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量数据压缩显示装置及其控制方法">
+	<enterprise:有申请公布日>16-6-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量数据压缩显示装置及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534897.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466747B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种高速放大器低频参数及性能控制方法及装置">
+	<enterprise:有申请公布日>16-6-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高速放大器低频参数及性能控制方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531086.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468811B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种跳频信号发生器及确定频率控制字的方法">
+	<enterprise:有申请公布日>16-6-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种跳频信号发生器及确定频率控制字的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431533.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103178871B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：双通道信号源通道耦合的方法和装置">
+	<enterprise:有申请公布日>16-5-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>双通道信号源通道耦合的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606965.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102570982B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形预览方法、装置及示波器">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形预览方法、装置及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110435591.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103176015B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种电流测量装置">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电流测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534451.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466751B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有输出噪声信号功能的信号发生器和输出噪声信号的方法">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有输出噪声信号功能的信号发生器和输出噪声信号的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243141.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102111129B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：测量资源控制系统和测量资源控制方法">
+	<enterprise:有申请公布日>16-4-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>测量资源控制系统和测量资源控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534854.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467370B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有屏蔽罩的探头">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有屏蔽罩的探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110418279.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103163338B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：计算机与测量仪器的通讯控制方法及系统">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>计算机与测量仪器的通讯控制方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534895.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467092B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：方波的输出方法及装置">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>方波的输出方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531141.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468847B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种信号发生器及其波表重组方法">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种信号发生器及其波表重组方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531137.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468829B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多功能信号发生器">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多功能信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531082.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468826B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：测试设备的多窗口显示方法">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>测试设备的多窗口显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010617589.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102565480B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：在信号源中避免继电器切档噪声的方法和装置">
+	<enterprise:有申请公布日>16-4-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>在信号源中避免继电器切档噪声的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531158.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468822B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有梯度阀控制电路的液相色谱仪及其控制方法">
+	<enterprise:有申请公布日>16-2-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有梯度阀控制电路的液相色谱仪及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410277806.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105301153A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：n元比例阀的控制方法及具有n元比例阀的液相色谱仪">
+	<enterprise:有申请公布日>16-1-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>n元比例阀的控制方法及具有n元比例阀的液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410277810.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105277641A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种扫频信号发生器及扫频信号的产生方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种扫频信号发生器及扫频信号的产生方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531101.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468805B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字示波器及波形处理方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字示波器及波形处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010618549.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102539866B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：波形输出方法及装置">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>波形输出方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531144.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467151B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种差分测量电路的零点误差消除方法及差分测量电路">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种差分测量电路的零点误差消除方法及差分测量电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531135.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466756B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：电路板散热装置及电路板散热方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>电路板散热装置及电路板散热方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531091.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102469741B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：从测量仪器接收数据的方法及系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>从测量仪器接收数据的方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534885.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102467348B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字控制振荡器、正交载波的产生方法及正交调幅调制系统">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字控制振荡器、正交载波的产生方法及正交调幅调制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010606218.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102571083B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字示波器及信号测量方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字示波器及信号测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010616918.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102539864B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多通道数据采集装置的数据处理方法">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多通道数据采集装置的数据处理方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243905.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109539B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱分析仪的参数设置方法及装置">
+	<enterprise:有申请公布日>16-1-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱分析仪的参数设置方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531124.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466762B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有柱塞结构的液相色谱仪">
+	<enterprise:有申请公布日>16-1-6</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有柱塞结构的液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410279497.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105223298A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动确定合适量程的方法及万用表">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动确定合适量程的方法及万用表</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531064.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466749B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有精细触发功能的数字示波器">
+	<enterprise:有申请公布日>15-12-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有精细触发功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010618550.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102565484B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：在信号源中避免继电器切档噪声的方法和装置">
+	<enterprise:有申请公布日>15-12-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>在信号源中避免继电器切档噪声的方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531176.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102468823B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有聚光系统的检测器及其高效液相色谱仪">
+	<enterprise:有申请公布日>15-11-4</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有聚光系统的检测器及其高效液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520337260.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204740238U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字示波器及其控制方法">
+	<enterprise:有申请公布日>15-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字示波器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010618546.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102565483B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：状态同步方法及装置">
+	<enterprise:有申请公布日>15-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>状态同步方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530609.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102455384B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有流通池的色谱装置">
+	<enterprise:有申请公布日>15-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有流通池的色谱装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520365911.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204731213U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有独立光源的检测器及高效液相色谱仪">
+	<enterprise:有申请公布日>15-10-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有独立光源的检测器及高效液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201520351982.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN204731212U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可配置复用数字内插和数字滤波功能的数字示波器">
+	<enterprise:有申请公布日>15-10-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可配置复用数字内插和数字滤波功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243906.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109542B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种分光光度计及其控制方法">
+	<enterprise:有申请公布日>15-9-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分光光度计及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010268959.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102384786B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字示波器及其控制方法">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字示波器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010617713.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102565482B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱超限测量模板的生成方法和装置">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱超限测量模板的生成方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531179.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466764B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可控发光按键的测量设备">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可控发光按键的测量设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243122.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109558B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动开机电路">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动开机电路</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243896.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109829B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用波形显示测量结果的数字万用表">
+	<enterprise:有申请公布日>15-8-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用波形显示测量结果的数字万用表</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534702.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466745B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱超限测量方法和装置">
+	<enterprise:有申请公布日>15-8-5</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱超限测量方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531178.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466763B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：波形数据读取速度较高的信号发生器">
+	<enterprise:有申请公布日>15-7-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>波形数据读取速度较高的信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243138.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109876B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可以控制流动相混合比例的液相色谱仪">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可以控制流动相混合比例的液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310698216.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104730179A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有混合比例修正功能的液相色谱仪">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有混合比例修正功能的液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310697759.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104730180A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：自动阈值获取方法及具有自动阈值获取功能的色谱工作站">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>自动阈值获取方法及具有自动阈值获取功能的色谱工作站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310698197.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104730182A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站">
+	<enterprise:有申请公布日>15-6-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>谱峰终点调整方法及具有谱峰终点调整功能的色谱工作站</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310698160.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104730181A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：动态调节系统能量的分光光度计及其动态调节方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>动态调节系统能量的分光光度计及其动态调节方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010268953.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102384784B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种交流信号测量装置、系统和方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种交流信号测量装置、系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910119839.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839931B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种分光光度计的全波段波长校正方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分光光度计的全波段波长校正方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010268956.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102384785B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种数字频谱分析仪及其快速定位测量信号的方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数字频谱分析仪及其快速定位测量信号的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243907.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109553B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字万用表的交流测量系统及交流测量方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字万用表的交流测量系统及交流测量方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531145.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466750B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：自动调节存储深度与固定选择存储深度相结合的方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>自动调节存储深度与固定选择存储深度相结合的方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010617265.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102539865B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：获取完成频谱数据的方法、装置与系统">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>获取完成频谱数据的方法、装置与系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010531106.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102466761B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有脉冲信号产生功能的信号发生器和脉冲信号产生方法">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有脉冲信号产生功能的信号发生器和脉冲信号产生方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243149.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109875B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种跳频图案的显示方法及装置">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种跳频图案的显示方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530543.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102457301B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有高速ADC芯片的示波器">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有高速ADC芯片的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237778.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102062798B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：跳频图案的处理方法及装置">
+	<enterprise:有申请公布日>15-5-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>跳频图案的处理方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010530553.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102457302B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有电流输出型放大单元的信号发生器">
+	<enterprise:有申请公布日>15-4-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有电流输出型放大单元的信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243140.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102111125B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：多路信号发生器">
+	<enterprise:有申请公布日>15-4-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>多路信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243139.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109874B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有阻抗匹配功能的数字示波器">
+	<enterprise:有申请公布日>15-4-22</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有阻抗匹配功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237372.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053183B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种恒压恒流电源及其过压、过流保护的自校准方法">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种恒压恒流电源及其过压、过流保护的自校准方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910238518.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102074928B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种精密数字电源">
+	<enterprise:有申请公布日>15-1-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种精密数字电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910238517.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102075084B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于显示电变量装置的探头">
+	<enterprise:有申请公布日>14-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于显示电变量装置的探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237373.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053175B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种有源差分电压探头">
+	<enterprise:有申请公布日>14-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种有源差分电压探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237397.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053177B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：液相测量装置">
+	<enterprise:有申请公布日>14-12-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>液相测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910131083.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101871923B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有数字中频信号处理系统的频谱分析仪及其实现方法">
+	<enterprise:有申请公布日>14-11-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有数字中频信号处理系统的频谱分析仪及其实现方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243898.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109555B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于数字示波器的变量输入面板及其输入方法">
+	<enterprise:有申请公布日>14-11-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于数字示波器的变量输入面板及其输入方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910243897.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102109541B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于控制系统压力脉动的高效液相色谱仪">
+	<enterprise:有申请公布日>14-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于控制系统压力脉动的高效液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310122107.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104101669A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可以控制流速的高效液相色谱仪">
+	<enterprise:有申请公布日>14-10-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可以控制流速的高效液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310122106.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104101658A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种混合器及高效液相色谱仪">
+	<enterprise:有申请公布日>14-10-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种混合器及高效液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310101935.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104076112A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可变阶数数字滤波器的数字示波器">
+	<enterprise:有申请公布日>14-8-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可变阶数数字滤波器的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237398.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053186B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有时钟驱动电路的测量仪器">
+	<enterprise:有申请公布日>14-7-16</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有时钟驱动电路的测量仪器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310015260.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103929160A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：校准方法及其校准装置">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>校准方法及其校准装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210572980.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103901380A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有高触发精度的示波器">
+	<enterprise:有申请公布日>14-7-2</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有高触发精度的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210573118.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103901243A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多通道信号获取探头及其使用方法">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多通道信号获取探头及其使用方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210560852.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884879A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的多通道信号获取探头">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的多通道信号获取探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210562799.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884880A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有高波形捕获率的数字示波器及其控制方法">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有高波形捕获率的数字示波器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237374.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053184B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：测量设备">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>测量设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910119840.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839932B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有高波形刷新率的数字示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有高波形刷新率的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210564647.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884891A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种分路线性隔离电路及其示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种分路线性隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210559700.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884893A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于逻辑分析的多通道探头及其探头组件">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于逻辑分析的多通道探头及其探头组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210563369.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884883A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多功能的多通道信号获取探头">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多功能的多通道信号获取探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210562982.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884882A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有适配器的多通道信号获取探头">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有适配器的多通道信号获取探头</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210562819.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884881A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有霍尔元件的隔离电路及其示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有霍尔元件的隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210559000.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884887A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的分路线性隔离电路及其示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的分路线性隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210560838.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884894A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种多路线性隔离电路及其示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种多路线性隔离电路及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210558977.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884895A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有解码功能的示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有解码功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210564558.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884890A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有万用表功能的示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有万用表功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210557314.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884888A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有改进的前端电路的示波器">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有改进的前端电路的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210562286.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103884889A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有降低杂散功能的射频信号源">
+	<enterprise:有申请公布日>14-6-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有降低杂散功能的射频信号源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210559133.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103888135A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形显示装置及方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形显示装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545551.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869121A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种产生π/4-DQPSK调制信号的调制器、信号发生器及方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种产生π/4-DQPSK调制信号的调制器、信号发生器及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210537368.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873409A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种计算差异度的方法及其示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种计算差异度的方法及其示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545554.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869129A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有精细等效触发功能的示波器及其精细等效触发方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有精细等效触发功能的示波器及其精细等效触发方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210540971.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869120A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有温度补偿功能的射频测量装置及温度补偿方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有温度补偿功能的射频测量装置及温度补偿方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530320.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869150A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种紫外分光光度计及其检测系统">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种紫外分光光度计及其检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536630.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868872A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有开关延时功能的电源及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有开关延时功能的电源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210536657.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869713A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有密闭性接口的测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有密闭性接口的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528520.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868542A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有触发输出功能的电源及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有触发输出功能的电源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210545861.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873029A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：示波器触发方法及具有触发功能的示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>示波器触发方法及具有触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210541438.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869128A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有串联柱塞泵的液相色谱仪及其控制方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有串联柱塞泵的液相色谱仪及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210551412.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869030A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改善数字相位调制的相位跳变的方法及装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改善数字相位调制的相位跳变的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210535660.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873160A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有时钟参考源电路的信号发生器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有时钟参考源电路的信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210533257.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869875A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有零频抑制功能的频谱分析仪">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有零频抑制功能的频谱分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530318.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873157A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种光标移动的方法及示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种光标移动的方法及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539595.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869118A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有录制功能的电源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有录制功能的电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210535968.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103871445A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种数据采集卡及数据采集测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种数据采集卡及数据采集测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539419.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868543A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有往复式串联柱塞泵的液相色谱仪">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有往复式串联柱塞泵的液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210550526.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869029A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：基于FPGA的伪随机序列发生器及其生成方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于FPGA的伪随机序列发生器及其生成方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528488.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103870238A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有调制功能的射频信号源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有调制功能的射频信号源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528519.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873408A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有轨迹显示功能的数字示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有轨迹显示功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210537423.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869127A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种射频信号源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频信号源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210540109.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873020A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种通道组移动方法及装置、通道组操作方法及系统">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种通道组移动方法及装置、通道组操作方法及系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530585.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869126A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形检测方法及示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形检测方法及示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539554.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869117A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有氘灯控制电路的紫外分光光度计">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有氘灯控制电路的紫外分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210560936.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868594A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有通道配置功能的装置及方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有通道配置功能的装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210546549.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873313A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种波形显示方法及显示装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种波形显示方法及显示装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530317.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869116A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种紫外分光光度计">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种紫外分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210546617.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868874A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：可调整输入电压的测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>可调整输入电压的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539212.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103871720A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有定时器功能的电源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有定时器功能的电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530212.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103872942A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种射频信号源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频信号源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539536.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873019A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种输出可控的电源及其控制方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种输出可控的电源及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530641.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103872928A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可变衰减器的射频测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可变衰减器的射频测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530622.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873158A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有放大器的射频测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有放大器的射频测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528687.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873156A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有改进界面显示功能的测试测量仪器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有改进界面显示功能的测试测量仪器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210540131.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869119A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有脉宽测量功能的示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有脉宽测量功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210546573.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869123A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种监测柱温箱的方法及装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种监测柱温箱的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539540.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868606A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频信号源及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频信号源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530377.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873033A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种频谱分析仪">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种频谱分析仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530248.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869158A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种三角波信号产生方法及三角波发生器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种三角波信号产生方法及三角波发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528517.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873025A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：产生单峰的方法及装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>产生单峰的方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210540132.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869005A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种提高脉冲边沿时间分辨率的装置及方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种提高脉冲边沿时间分辨率的装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210529760.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873017A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530246.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869177A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频信号源及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频信号源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530239.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873005A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：射频信号测量装置及其使用方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频信号测量装置及其使用方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530621.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873049A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有分析功能的电源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有分析功能的电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210537366.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869261A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有交织采样功能的数字示波器及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有交织采样功能的数字示波器及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210528548.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869124A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有录制波形分析功能的示波器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有录制波形分析功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530319.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869125A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有开关控制功能的电源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有开关控制功能的电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210537416.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873037A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种色谱处理方法及色谱仪">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种色谱处理方法及色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210535718.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868998A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有触发输入功能的电源及其工作方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有触发输入功能的电源及其工作方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210546250.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869122A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：基于可编程逻辑器件进行异步通信的数据采集装置及方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>基于可编程逻辑器件进行异步通信的数据采集装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539574.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103870414A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种生成谐波信号的方法及谐波信号发生器">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种生成谐波信号的方法及谐波信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530225.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873018A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种射频测量装置">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种射频测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539525.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103869136A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种线性电源">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种线性电源</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210539690.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103872912A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有时钟同步电路的测量仪器及时钟同步方法">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有时钟同步电路的测量仪器及时钟同步方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210530562.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103873055A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有橡胶按键的紫外分光光度计">
+	<enterprise:有申请公布日>14-6-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有橡胶按键的紫外分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210546561.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103868873A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种芯片植球装置及方法">
+	<enterprise:有申请公布日>14-6-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种芯片植球装置及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210519573.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103855041A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有模板测试功能的示波器">
+	<enterprise:有申请公布日>14-5-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有模板测试功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210451961.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103808999A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有重物支撑平台的测量仪器及其装配方法">
+	<enterprise:有申请公布日>14-5-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有重物支撑平台的测量仪器及其装配方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210454452.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103808344A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有低频频响补偿电路的信号处理装置">
+	<enterprise:有申请公布日>14-5-14</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有低频频响补偿电路的信号处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210423069.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103795371A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种测量资源控制系统和测量资源控制方法">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种测量资源控制系统和测量资源控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534899.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102004952B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有电容测量功能的测量装置">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有电容测量功能的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201010534901.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102072989B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有延迟触发功能的示波器">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有延迟触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210377999.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713171A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有改进视频触发功能的示波器">
+	<enterprise:有申请公布日>14-4-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有改进视频触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210378445.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103713172A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有周期触发功能的示波器">
+	<enterprise:有申请公布日>14-3-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有周期触发功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210362469.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103675380A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有周期触发功能的并行采样的示波器">
+	<enterprise:有申请公布日>14-3-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有周期触发功能的并行采样的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210362933.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103675381A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有键盘的分光光度计">
+	<enterprise:有申请公布日>14-3-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有键盘的分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201320552048.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203479696U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有输入电阻保护功能的示波器">
+	<enterprise:有申请公布日>14-2-19</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有输入电阻保护功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210294980.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103592485A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有消除前端偏移误差功能的示波器">
+	<enterprise:有申请公布日>14-2-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有消除前端偏移误差功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210258062.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103575948A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有频率响应补偿电路的示波器">
+	<enterprise:有申请公布日>14-1-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有频率响应补偿电路的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210238510.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103543310A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有输出信号显示功能的可编程电源的显示控制方法">
+	<enterprise:有申请公布日>14-1-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有输出信号显示功能的可编程电源的显示控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237310.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102063080B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种恒压恒流电源的控制方法">
+	<enterprise:有申请公布日>14-1-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种恒压恒流电源的控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910238531.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102081417B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动进样器的注射泵">
+	<enterprise:有申请公布日>14-1-1</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动进样器的注射泵</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210190364.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103487535A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动进样器">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动进样器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210185169.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103472244A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动进样器的样品盘结构">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动进样器的样品盘结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210185156.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103472164A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动进样器及取样针">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动进样器及取样针</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210185145.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103472243A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有压瓶功能的自动进样器及液相色谱仪">
+	<enterprise:有申请公布日>13-12-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有压瓶功能的自动进样器及液相色谱仪</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210184343.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103472163A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种自动进样器及其洗针槽">
+	<enterprise:有申请公布日>13-12-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种自动进样器及其洗针槽</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210183902.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103447268A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有触发装置的数字示波器">
+	<enterprise:有申请公布日>13-11-27</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有触发装置的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237399.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053187B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有可变增益放大器的测量装置">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有可变增益放大器的测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210089053.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103368514A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可产生多路同步时钟的示波器">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可产生多路同步时钟的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210088600.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103364602A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：具有衰减功能的探头、信号采集系统和方法">
+	<enterprise:有申请公布日>13-10-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有衰减功能的探头、信号采集系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210088619.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103364599A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有标签显示功能的数字示波器及其控制方法">
+	<enterprise:有申请公布日>13-9-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有标签显示功能的数字示波器及其控制方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237501.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102053188B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种电流测量装置">
+	<enterprise:有申请公布日>13-9-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电流测量装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910119838.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839936B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有高频低频路径分离电路的示波器">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有高频低频路径分离电路的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910237777.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102062797B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：数字示波器">
+	<enterprise:有申请公布日>13-8-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200910119842.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN101839929B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有密封功能的紫外可见分光光度计">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有密封功能的紫外可见分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220696083.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203069506U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种用于显示异常波形的数字示波器">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种用于显示异常波形的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012212.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207296A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的异常波形的检测方法">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的异常波形的检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012235.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207299A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种方便的异常波形的检测方法">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种方便的异常波形的检测方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012367.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207295A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有轴承固定座的紫外可见分光光度计">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有轴承固定座的紫外可见分光光度计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220682877.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203069267U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种直观的异常波形的显示方法">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种直观的异常波形的显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012232.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207297A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种改进的异常波形的显示方法">
+	<enterprise:有申请公布日>13-7-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种改进的异常波形的显示方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210012366.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103207294A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有前端衰减功能的数字示波器">
+	<enterprise:有申请公布日>13-7-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有前端衰减功能的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448945.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185821A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种具有自动光标追踪功能的示波器">
+	<enterprise:有申请公布日>13-7-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种具有自动光标追踪功能的示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110448944.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185820A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：一种可以显示数学运算结果的数字示波器">
+	<enterprise:有申请公布日>13-7-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种可以显示数学运算结果的数字示波器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110449260.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103185824A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：正交幅度调制信号的产生方法、装置和数字信号发生器">
+	<enterprise:有申请公布日>13-6-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>正交幅度调制信号的产生方法、装置和数字信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431543.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103179079A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京普源精电科技有限公司的专利信息：偏移正交相移键控调制方法、装置和数字信号发生器">
+	<enterprise:有申请公布日>13-6-26</enterprise:有申请公布日>
+	<enterprise:有专利名称>偏移正交相移键控调制方法、装置和数字信号发生器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110431687.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103179065A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS5000JY系列数字示波器系统">
+	<enterprise:有批准日期>17-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>DS5000JY系列数字示波器系统</enterprise:有软件全称>
+	<enterprise:有软件简称>DS5000JY操作系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR123815</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS1000JY系列数字示波器系统">
+	<enterprise:有批准日期>17-4-18</enterprise:有批准日期>
+	<enterprise:有软件全称>DS1000JY系列数字示波器系统</enterprise:有软件全称>
+	<enterprise:有软件简称>DS1000JY操作系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR123823</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：MSO7000系列示波器系统软件">
+	<enterprise:有批准日期>17-3-10</enterprise:有批准日期>
+	<enterprise:有软件全称>MSO7000系列示波器系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR075474</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：RSA5000系列实时频谱分析仪系统软件">
+	<enterprise:有批准日期>17-3-2</enterprise:有批准日期>
+	<enterprise:有软件全称>RSA5000系列实时频谱分析仪系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR064410</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L6000系列荧光检测器系统软件">
+	<enterprise:有批准日期>16-11-11</enterprise:有批准日期>
+	<enterprise:有软件全称>L6000系列荧光检测器系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR327342</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L6000系列超高压输液泵控制系统软件">
+	<enterprise:有批准日期>16-11-8</enterprise:有批准日期>
+	<enterprise:有软件全称>L6000系列超高压输液泵控制系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR322829</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DP700系列可编程线性直流电源远程控制软件">
+	<enterprise:有批准日期>16-4-7</enterprise:有批准日期>
+	<enterprise:有软件全称>DP700系列可编程线性直流电源远程控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR070023</enterprise:有登记号>
+	<enterprise:有分类号>30219-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L6000系列二极管阵列检测器系统软件">
+	<enterprise:有批准日期>16-11-11</enterprise:有批准日期>
+	<enterprise:有软件全称>L6000系列二极管阵列检测器系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR327344</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：MSO4000系列混合信号示波器控制软件">
+	<enterprise:有批准日期>13-5-30</enterprise:有批准日期>
+	<enterprise:有软件全称>MSO4000系列混合信号示波器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR051939</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG1000Z系列函数/任意波形发生器控制软件">
+	<enterprise:有批准日期>13-4-17</enterprise:有批准日期>
+	<enterprise:有软件全称>DG1000Z系列函数/任意波形发生器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR034567</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：MSO1000系列数字示波器控制软件">
+	<enterprise:有批准日期>13-1-25</enterprise:有批准日期>
+	<enterprise:有软件全称>MSO1000系列数字示波器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2013SR008034</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：Ultra Acqoller控制软件">
+	<enterprise:有批准日期>12-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>Ultra Acqoller控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR108916</enterprise:有登记号>
+	<enterprise:有分类号>40000-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：Ultra-3000系列紫外-可见分光光度计系统软件">
+	<enterprise:有批准日期>12-9-18</enterprise:有批准日期>
+	<enterprise:有软件全称>Ultra-3000系列紫外-可见分光光度计系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR088904</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DP800系列可编程线性直流电源控制软件">
+	<enterprise:有批准日期>12-8-20</enterprise:有批准日期>
+	<enterprise:有软件全称>DP800系列可编程线性直流电源控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR076306</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：UltraChrom色谱工作站控制软件">
+	<enterprise:有批准日期>12-6-28</enterprise:有批准日期>
+	<enterprise:有软件全称>UltraChrom色谱工作站控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR055941</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L-3240四元低压梯度泵控制软件">
+	<enterprise:有批准日期>12-2-16</enterprise:有批准日期>
+	<enterprise:有软件全称>L-3240四元低压梯度泵控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR010510</enterprise:有登记号>
+	<enterprise:有分类号>10100-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：M300开关矩阵控制软件">
+	<enterprise:有批准日期>12-1-10</enterprise:有批准日期>
+	<enterprise:有软件全称>M300开关矩阵控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR001688</enterprise:有登记号>
+	<enterprise:有分类号>10102-3500</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSA3000系列频谱分析仪系统软件">
+	<enterprise:有批准日期>11-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>DSA3000系列频谱分析仪系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ4357</enterprise:有登记号>
+	<enterprise:有分类号>10102-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L-3320自动进样器控制软件">
+	<enterprise:有批准日期>11-10-18</enterprise:有批准日期>
+	<enterprise:有软件全称>L-3320自动进样器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR074551</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS4000系列数字示波器控制软件">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>DS4000系列数字示波器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ2948</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS2000 数字示波器控制软件">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>DS2000 数字示波器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ3267</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSA3000A系列频谱分析仪系统软件">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>DSA3000A系列频谱分析仪系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ3478</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSG3000A系列射频信号源系统软件">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>DSG3000A系列射频信号源系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ3479</enterprise:有登记号>
+	<enterprise:有分类号>10102-6000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG1000E系列函数/任意波形发生器控制软件">
+	<enterprise:有批准日期>11-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>DG1000E系列函数/任意波形发生器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ2038</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：Ultra Signal Studio控制软件">
+	<enterprise:有批准日期>11-4-25</enterprise:有批准日期>
+	<enterprise:有软件全称>Ultra Signal Studio控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ1299</enterprise:有登记号>
+	<enterprise:有分类号>30219-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：UV6000系列紫外可见分光光度计控制软件">
+	<enterprise:有批准日期>11-4-25</enterprise:有批准日期>
+	<enterprise:有软件全称>UV6000系列紫外可见分光光度计控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ1298</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSA1000E系列频谱分析仪系统软件">
+	<enterprise:有批准日期>11-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>DSA1000E系列频谱分析仪系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ2037</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DM3068数字万用表系统软件">
+	<enterprise:有批准日期>10-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>DM3068数字万用表系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ5243</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DP1116A可编程直流电源系统软件">
+	<enterprise:有批准日期>10-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>DP1116A可编程直流电源系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ5246</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG5000系列函数/任意波形发生器控制软件">
+	<enterprise:有批准日期>10-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>DG5000系列函数/任意波形发生器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ5245</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：UltraPower上位机软件">
+	<enterprise:有批准日期>10-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>UltraPower上位机软件</enterprise:有软件全称>
+	<enterprise:有软件简称>UltraPower</enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ2174</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSA1000系列上位机软件">
+	<enterprise:有批准日期>10-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>DSA1000系列上位机软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ2175</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：UltraSigma通用上位机软件">
+	<enterprise:有批准日期>10-5-28</enterprise:有批准日期>
+	<enterprise:有软件全称>UltraSigma通用上位机软件</enterprise:有软件全称>
+	<enterprise:有软件简称>UltraSigma</enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ2176</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：TX1000系列RF Demo Kit系统软件">
+	<enterprise:有批准日期>11-5-25</enterprise:有批准日期>
+	<enterprise:有软件全称>TX1000系列RF Demo Kit系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ2104</enterprise:有登记号>
+	<enterprise:有分类号>10102-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS6000系列数字示波器控制软件">
+	<enterprise:有批准日期>09-12-17</enterprise:有批准日期>
+	<enterprise:有软件全称>DS6000系列数字示波器控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ7452</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DM3058数字万用表系统软件">
+	<enterprise:有批准日期>09-11-16</enterprise:有批准日期>
+	<enterprise:有软件全称>DM3058数字万用表系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DM3058系统软件</enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ7081</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DSA1000/1000A系列频谱分析仪系统软件">
+	<enterprise:有批准日期>09-10-23</enterprise:有批准日期>
+	<enterprise:有软件全称>DSA1000/1000A系列频谱分析仪系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>DSA1000/1000A系统软件</enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ6407</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：L-3000系列液相色谱仪控制软件">
+	<enterprise:有批准日期>11-3-16</enterprise:有批准日期>
+	<enterprise:有软件全称>L-3000系列液相色谱仪控制软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR012646</enterprise:有登记号>
+	<enterprise:有分类号>30208-4100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：RIGOL 色谱工作站软件">
+	<enterprise:有批准日期>11-3-16</enterprise:有批准日期>
+	<enterprise:有软件全称>RIGOL 色谱工作站软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR012644</enterprise:有登记号>
+	<enterprise:有分类号>30208-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DP1308A可编程线性直流电源系统软件[简称：DP1308A系统软件]V1.0">
+	<enterprise:有批准日期>09-7-22</enterprise:有批准日期>
+	<enterprise:有软件全称>DP1308A可编程线性直流电源系统软件[简称：DP1308A系统软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ4718</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：PA1000系列功率放大器控制软件[简称：PA1000控制软件]V1.0">
+	<enterprise:有批准日期>09-5-11</enterprise:有批准日期>
+	<enterprise:有软件全称>PA1000系列功率放大器控制软件[简称：PA1000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ2879</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：VG1000系列虚拟函数/任意波形发生器控制软件[简称：VG1000控制软件]V1.0">
+	<enterprise:有批准日期>09-5-11</enterprise:有批准日期>
+	<enterprise:有软件全称>VG1000系列虚拟函数/任意波形发生器控制软件[简称：VG1000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2009SRBJ2849</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DM3000系列数字万用表测控软件[简称：UltraLogger控制软件]V1.0">
+	<enterprise:有批准日期>08-9-16</enterprise:有批准日期>
+	<enterprise:有软件全称>DM3000系列数字万用表测控软件[简称：UltraLogger控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ2939</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS1000/1000A系列数字示波器控制软件[简称：Ultrascope控制软件]V1.0">
+	<enterprise:有批准日期>08-9-16</enterprise:有批准日期>
+	<enterprise:有软件全称>DS1000/1000A系列数字示波器控制软件[简称：Ultrascope控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ2941</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG系列函数/任意波形发生器控制软件[简称：Ultrawave控制软件]V1.0">
+	<enterprise:有批准日期>08-9-16</enterprise:有批准日期>
+	<enterprise:有软件全称>DG系列函数/任意波形发生器控制软件[简称：Ultrawave控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ2944</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS1000A系列数字示波器控制软件[简称：DS1000A控制软件]V1.0">
+	<enterprise:有批准日期>08-9-12</enterprise:有批准日期>
+	<enterprise:有软件全称>DS1000A系列数字示波器控制软件[简称：DS1000A控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ2701</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG1000系列函数/任意波形发生器控制软件[简称：DG1000控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>DG1000系列函数/任意波形发生器控制软件[简称：DG1000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1857</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DM3000系列数字万用表控制软件[简称：DM3000控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>DM3000系列数字万用表控制软件[简称：DM3000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1871</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：UltraSensor For DM3000 任意传感器控制软件[简称：UltraSensor控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>UltraSensor For DM3000 任意传感器控制软件[简称：UltraSensor控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1872</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG2000系列函数/任意波形发生控制软件[简称：DG2000控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>DG2000系列函数/任意波形发生控制软件[简称：DG2000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1876</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DG3000系列函数/任意波形发生器控制软件[简称：DG3000控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>DG3000系列函数/任意波形发生器控制软件[简称：DG3000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1856</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：VS5000系列虚拟数字示波器控制软件[简称：VS5000控制软件]V1.0">
+	<enterprise:有批准日期>08-7-1</enterprise:有批准日期>
+	<enterprise:有软件全称>VS5000系列虚拟数字示波器控制软件[简称：VS5000控制软件]V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2008SRBJ1875</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS1000系列数字示波器系统V01.00.00[简称：DS1000操作系统]">
+	<enterprise:有批准日期>06-4-24</enterprise:有批准日期>
+	<enterprise:有软件全称>DS1000系列数字示波器系统V01.00.00[简称：DS1000操作系统]</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2006SRBJ0811</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS5000系列数字存储示波器系统[简称:DS5000操作系统] V1.0">
+	<enterprise:有批准日期>03-10-20</enterprise:有批准日期>
+	<enterprise:有软件全称>DS5000系列数字存储示波器系统[简称:DS5000操作系统] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2003SR10773</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京普源精电科技有限公司的软件著作：DS-3000B数字存储示波器系统[简称: DS3000B示波器] V1.0">
+	<enterprise:有批准日期>03-4-11</enterprise:有批准日期>
+	<enterprise:有软件全称>DS-3000B数字存储示波器系统[简称: DS3000B示波器] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2003SR2462</enterprise:有登记号>
+	<enterprise:有分类号>66000-6300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.rigol.com</enterprise:有网站首页>
+	<enterprise:有域名>rigol.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.rigol.com</enterprise:有网站首页>
+	<enterprise:有域名>rigol.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.rigol.com</enterprise:有网站首页>
+	<enterprise:有域名>rigol.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.中国</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.公司</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.网络</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.中国</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.公司</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.网络</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源.中国</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>北京普源.网址</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源.网络</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.net</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.网址</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>锐格.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源仪器.中国</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>神州仪器.中国</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京普源精电科技有限公司的网站备案：北京普源精电科技有限公司">
+	<enterprise:有审核时间>16-6-20</enterprise:有审核时间>
+	<enterprise:有网站全称>北京普源精电科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.普源精电.com</enterprise:有网站首页>
+	<enterprise:有域名>普源精电.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12039486号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京普源精电科技有限公司的员工基本信息">
+	<enterprise:有从业人数>224</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:183,25岁以下:30,45岁以上:11</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:201,高中及以下:0,专科:23</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:42,技术人员:97,作业人员:85</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:224人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京普源精电科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>是</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>一般</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司成立初之初主要从事测试/测量仪器，化学分析仪器的研发、生产和销售业务</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京普源精电科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>北京神州技测科技有限公司、Emona Instruments Pty Ltd</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京普源精电科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京普源精电科技有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京普源精电科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成熟期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京普源精电科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京普源精电科技有限公司的企业法人代表：王悦">
+	<enterprise:名称>王悦</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>—</enterprise:民族>
+	<enterprise:年龄>42</enterprise:年龄>
+	<enterprise:国籍>—</enterprise:国籍>
+	<enterprise:出生年月>1974年</enterprise:出生年月>
+	<enterprise:身份证号码>110108197406052219</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>董事长兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>DS5000操作系统，DS3000B示波器</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>全国二等奖</enterprise:奖惩情况>
+	<enterprise:经历>2000.12至今 公司 董事长兼总经理 
+1998.10~2000.11 RIGOL工作室 技术总监 
+其他职务 
+起止日期 在何地区何部门 任何职务 
+— — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京普源精电科技有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京普源精电科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税、企业所得税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>102万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>0</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京普源精电科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>—</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>往来客户</enterprise:有供应商类型>
+	<enterprise:有交易地位>北京市</enterprise:有交易地位>
+	<enterprise:有议价能力>无</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>0</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>0</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>0</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>0</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京普源精电科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现公司在北京市工商行政管理局、税务局有不良信用记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>-</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良信用记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京普源精电科技有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>10000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京普源精电科技有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>650.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京普源精电科技有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>未提供</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京普源精电科技有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>未提供</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:软件著作数量 rdf:ID="北京普源精电科技有限公司的软件著作数量">
+	<enterprise:软件著作总计>3</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>3</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>0</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京普源精电科技有限公司的专利数量">
+	<enterprise:专利总计>164</enterprise:专利总计>
+	<enterprise:专利数量2013>25</enterprise:专利数量2013>
+	<enterprise:专利数量2014>102</enterprise:专利数量2014>
+	<enterprise:专利数量2015>37</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京普源精电科技有限公司的商标数量">
+	<enterprise:商标总计>3</enterprise:商标总计>
+	<enterprise:商标数量2013>1</enterprise:商标数量2013>
+	<enterprise:商标数量2014>2</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京普源精电科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

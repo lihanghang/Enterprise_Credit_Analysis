@@ -1,0 +1,1504 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京中科国技信息系统有限公司的企业概况">
+    <enterprise:有名称>北京中科国技信息系统有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>招商银行股份有限公司大运村支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>40</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2005</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1000</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>1000</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术咨询、技术服务；销售自行开发后的产品；计算机系统服务；货物进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术咨询、技术服务；销售自行开发后的产品；计算机系统服务；货物进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>口。</enterprise:有主营业务>
+    <enterprise:有行业分类>通信系统集成</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区蓝靛厂东路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区蓝靛厂东路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100097</enterprise:有邮政编码>
+    <enterprise:有联系人>胡磊</enterprise:有联系人>
+    <enterprise:有联系电话>010-59799882</enterprise:有联系电话>
+    <enterprise:有传真电话>010-59799882-8002</enterprise:有传真电话>
+    <enterprise:有E-mail>Lei.hu@hwa-tech.com</enterprise:有E-mail>
+    <enterprise:有网址>om/</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京中科国技信息系统有限公司（简称“中
+科国技”或“公司”）成立于2005年6月7日, 初
+始注册资本为100万元，后经过多次股权变更和
+增资，最新注册资本1000万元，目前股权结构见
+下表所示。公司注册地址北京市海淀区蓝靛厂东
+路2号金源时代商务中心A座8C,法定代表人张志
+华。
+表 1：公司目前股权结构
+股东 出资金额(万元) 出资比例(%)
+张志华 900.00 90.00
+肖向春 100.00 10.00
+合计 1000.00 100.00
+数据来源：公司章程
+公司主要从事无线通信和射频微波测试技
+术研发及相关设备的进口、组装、销售。主要向
+客户提供EMC、RFID、MIMO OTA三类测试系统及
+技术支持服务。
+公司是中关村高新技术企业，2015年1月成
+为中国通信标准化协会会员，同年7月，成为美
+国无线通信和互联网协会(CTIA)会员。
+截至2015年底，公司资产总额2107.63万元，
+负债总额1061.56万元，资产负债率50.37%。当
+年公司实现营业收入2894.24万元，利润总额
+717.65万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京中科国技信息系统有限公司的基础素质">
+    <enterprise:有管理素质>公司法定代表人、总经理张志华，男，52岁，
+毕业于北方交通大学通信与自动控制专业，硕士
+学位，享受政府特殊津贴。曾获美国项目管理协
+会（PMI）项目管理专家资格（PMP），并完成对
+外经贸管理大学企业管理硕士班学习。曾参与多
+项国家级重大项目的电磁兼容测试及设计项目。
+1988年为中国IT产品进行电磁兼容设计获得美
+国FCC认证，为国内首例。曾组织领导中科国技
+开发了中国第一套具有全部软件和硬件知识产
+权的RFID仿真器（物联网领域）。工作经历：1985
+年-1995年，先后在电子工业部第四研究所电子
+工业安全与电磁兼容检测中心（现属于信产部）
+任助理工程师、高工；1995年-1999年，任北京
+中石电子有限公司总工程师（CTO）；1999年-2009
+年，任安捷伦（中国）科技有限公司系统及解决
+方案部经理；2009年至今，任中科国技总经理。
+总体来看，公司核心管理人员从业时间较
+长，相关专业背景实力较强，管理经验较丰富，
+有利于公司未来的发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>目前公司现有员工40人，其中研发人员共35
+人。从学历构成来看，具有本科及以上学历的员
+工38人，占员工总数的95%。
+公司研发总监李雨翔，男，31岁，硕士学历。
+2009年毕业于北京邮电大学通信与信息系统专
+业。2009年2月至今就职于中科国技，目前担任
+公司研发总监，具有多年的研发和管理经验，曾
+参与Gbps无线传输关键技术与试验系统研究开
+发、3GPP-LTE链路级仿真平台设计与开发、
+IMT-Advanced新型无线传输技术研究等项目，提
+出一项3GPP标准化提案（已被华为公司认领），
+获得一项专利。
+总体来看，公司目前技术团队实力较强，研
+发负责人研发经验较丰富，整体素质能够满足公
+司现有业务的需要。</enterprise:有人员素质>
+    <enterprise:有科研条件>公司目前拥有300平米的试验室，试验室具
+有专业防静电地板、防静电实验台，专业电子屏
+蔽暗室等专业配置和设备。目前企业配备了较高
+水平的研发设备和检测设备，详见下表。
+表 2：公司主要研发设备和检测设备
+序号 设备名称 数量 用途
+1 信号源 信号发生
+2
+2 功率计 检测测试
+1
+3 射频接口箱 信号接收
+3
+4 频谱仪 检测测试
+2
+5 信号分析仪 检测测试
+1
+6 极化天线 检测测试
+2
+7 仿真器 检测测试
+5
+8 网络分析仪 检测测试
+1
+9 示波器 检测测试
+3
+10 读卡器 检测测试
+2
+11 电脑 开发使用
+48
+资料来源：公司提供，东方金诚整理
+公司研发投入主要用于系统软件和通信检
+测设备的研发，2013年至今研发投入情况详见下
+表。
+表 3：公司近三年研发投入情况
+占当年管理费用
+年份 投入研发金额
+比重
+2013 年 396 万元 55.32%
+2014 年 413 万元 73.93%
+2015 年 170万元 23.97%
+资料来源：公司提供，东方金诚整理
+公司研发投入费用较高，尤其是2013年、
+2014年占管理费用比重较高，为公司未来发展奠
+定一定基础。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京中科国技信息系统有限公司的经营管理">
+    <enterprise:其经营分析为>公司主要提供无线通信和射频微波测试系
+统解决方案,营业收入来自于EMC、RFID、MIMO
+OTA三类测试系统，2015年营业收入大幅上升
+公司主要从事无线通信和射频微波测试技
+术研发及相关设备的进口、组装、销售。营业收
+入来自于EMC、RFID、MIMO OTA三类测试系统。
+公司MIMO OTA测试系统为高度集成的全自动
+测试系统，通过软件一键式操作实现校准、验证、
+测试等功能切换，可从空间多径信道角度出发,
+分析其被测设备的天线方向图在不同信道模型
+中的性能,在多簇信道模型和单簇信道模型的场
+景下比较并区分不同接收天线特性的能力。目前
+该项技术为新兴技术，近年公司在新技术开发上
+投入较大研发力度，可测试项目有throughput、
+BLER测试，支持SCM, SCME, WINNER, WINNER II,
+IMT-Advanced等多种信道模型以及用户自定义
+信道模型。公司近年与广电规划院合作MIMO OTA
+实验室项目，并于2015年获得广电规划院颁发的
+2014年度《广播与电视技术》十佳优秀论文奖。
+MIMO OTA测试系统主要产品有MIMO OTA无线测试
+系统Z6000A等。
+公司RFID测试系统可提供FRGA、芯片、标签、
+读写器产品问题定位测试以及实验室测试方案，
+覆盖频段包括HF、UHF、2.45GHz、5.8GHz，可为
+电力资产管理、汽车电子标识、金库人民币管理
+等较大型应用提供测试方案。公司是RFID测试提
+供商-芬兰Voyantic公司的长期合作对象，同时
+通过与芯片、标签和读写器研发企业以及科研机
+构、实验室的合作，加强自身服务质量，2014年
+公司荣获中国RFID行业十大最具影响力创新产
+品奖。目前RFID测试系统是公司的主要收入及利
+润来源，主要产品包括UHF RFID射频协议一致性
+测试系统、UHF RFID标签性能测试系统等。
+公司EMC测试系统可以根据受试设备（产品）
+的特点，对某些测试功能进行定制化设计，综合
+评定电子产品在电磁场方面干扰大小（EMI）和
+抗干扰的能力（EMS），主要产品包括无线EMC测
+试系统、EMC预兼容测试系统、SmartTone-高效
+抗扰度测试方案等。
+2013年-2015年，公司营业收入分别为
+1158.92万元、1554.66万元、2894.24万元，总
+体呈持续上升趋势。
+图 1：公司近三年主营业务收入（万元）
+数据来源：公司提供经审计财务报告，东方金诚整理
+表 8：公司近三年主营业务构成情况
+单位：万元，%
+业务 2013 2014 2015
+构成 收入 占比 收入 占比 收入 占比
+EMC 555.12 41.95 54.72 3.27 767.77 25.82
+1396.4
+RFID 768.21 58.05 83.52 1522.03 51.18
+5
+OTA 0 - 220.87 13.21 683.75 23
+1323.3 1672.0
+合计 100 100 2973.55 100
+3 4
+数据来源：公司提供，东方金诚整理
+表 9：公司近三年毛利润构成情况
+单位：万元，%
+业务 2013 2014 2015
+构成 数额 占比 数额 占比 数额 占比
+EMC 348.52 73.28 -73.88 -8.07 360.37 21.26
+RFID 267.48 56.25 889.61 97.17 805.42 47.52
+-140.4
+OTA -29.53 99.83 10.90 529.03 31.22
+4
+1694.8
+合计 475.56 100 915.56 100 100
+2
+数据来源：公司提供，东方金诚整理
+从业务构成来看，公司2005年成立之初以提
+供EMC测试方案开展业务，逐步发展成EMC、RFID、
+MIMO OTA三类测试方案鼎立的现状，2015年由于
+公司拓展业务情况良好，收入均有所提高。近三
+年EMC测试方案收入占总收入比例呈下降趋势。
+主推业务RFID测试系统近三年收入持续占总收
+入的50%以上，为目前主要的收入来源。另外，
+公司近年投入大量研发费用在OTA测试方案领
+域，近三年收入占比逐年上升，预计未来将成为
+公司收入主要来源。目前公司的业务主要集中在
+华北、华中、华南三大区域，其中OTA测试方案
+主要在华北地区，RFID测试方案主要在华中、华
+南地区。
+从毛利润来看，2015年三类测试方案业务毛
+利润均有所提高。近三年EMC测试方案毛利润占
+总毛利润比率呈下降趋势。RFID作为公司主要收
+入来源，近三年毛利润贡献率均为最多，但呈现
+减少态势。OTA测试方案不仅收入逐年上升，毛
+利润贡献率也呈递增趋势，预计将逐步发展成为
+公司新的主要利润来源。
+在上游关系方面，公司从美国是德科技
+（Keysight）、芬兰 Voyantic、加拿大EMSCAN
+等多家国际知名测试设备公司采购原材料、代理
+销售硬件产品，已建立长期稳定的合作伙伴关
+系。公司作为是德科技系统集成授权合作伙伴，
+荣获是德科技卓越成长明星奖励，并分享其丰富
+渠道。在销售方面，公司下游客户主要是研究所、
+实验室、大学和移动通信行业内企业。总体来看，
+公司上下游客户关系较稳定。
+公司2015年新签合同量有所增长，在手合同
+量较充足，对其未来业务收入形成正面影响
+通过2013、2014两年研发积累，公司2015年
+业务拓展情况较为良好，新增合同较多，在手合
+同量较为丰富，主要合同详情见下表。另外，2016
+年在谈合同情况亦较好，预计下半年新增中标合
+同额在1500万元-2000万元之间，其中1000万元
+为RFID测试方案业务，其余为OTA测试方案业务。
+表 10： 公司2015年主要新签合同列表
+合同金额
+序号 合同项目名称 需方 类型
+（万元）
+物联网性能测 工业和信
+试系统采购项 息化部电
+1 469.77 RFID
+目（RFID 综合 子第五研
+测试系统包） 究所
+军用射频识别
+中国人民
+空中接口标准
+2 107.60 解放军 RFID
+符合性检测系
+91224 部队
+统采购
+北京南瑞
+数据采集和信
+智芯微电
+3 号分析系统采 95 RFID
+子科技有
+购合同
+限公司
+射频识别综合
+测试仪和高稳 公安部第
+4 78.80 RFID
+定性工控机采 三研究所
+购合同
+RFID 设备智能 中国安全
+5 检测系统采购 60 生产科学 RFID
+合同 研究院
+是德 N9030A 矢 公安部交
+6 量信号分析仪 47.90 通管理科 RFID
+采购 学研究所
+城市电磁辐射 北京市劳
+7 水平监测技术 340.23 动保护科 EMC
+支撑平台建设 学研究所
+材料复介电常 浙江华正
+8 72 EMC
+数测量系统销 新材料股
+售合同 份有限公
+司
+北京蓝拓
+MIMO OTA 测试
+扑电子技
+9 子系统销售合 245.66 OTA
+术有限公
+同
+司
+北京蓝拓
+信道仿真器单
+扑电子技
+10 元及软固件销 134.96 OTA
+术有限公
+售合同
+司
+南方科技大学
+货物采购-多探 南方科技
+11 49.84 OTA
+头法 SISO 基础 大学
+测试系统
+南方科技大学
+货物采购 南方科技
+12 49.80 OTA
+-SISO/MIMO 测 大学
+试平台
+南方科技大学
+南方科技
+13 货物采购-MIMO 49.60 OTA
+大学
+基础测试系统
+数据来源：公司提供，东方金诚整理
+2015年公司的主要客户为工业和信息化部
+电子第五研究所、北京市劳动保护科学研究所、
+北京蓝拓扑电子技术有限公司、重庆市质量和标
+准化研究院等，多为较大型企事业单位，以研究
+所类为主。公司在研究所类客户积累了较丰富的
+微波测试系统解决方案服务经验和客户资源，有
+助于行业客户的纵深开发、提升收入水平。
+总体来看，公司在手合同量较充足，客户多
+为较大型企事业单位，以研究所类为主，能够对
+未来业务收入产生正面影响。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>公司治理结构较为合理，制度建设较健全，
+能够满足现有业务发展的需要
+1、治理结构
+公司目前设董事长一名，董事长兼任总经理
+一职，总经理下设财务部、人事行政部、系统产
+品部、硬件部、软件部、销售部、市场部、技术
+支持部。
+2、制度建设
+在部门制度建设方面，公司目前制定了财务
+管理制度，主要涉及各项费用收入、支出、报销
+等；行政人事制度：主要涉及办公室管理、员工
+激励与考核、薪酬制度等管理制度；业务人员管
+理制度：主要涉及员工出差管理规定、奖惩制度、
+项目编号编写等。（公司组织结构图详情见附录） </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据公司提供的发展战略书，公司将继续重
+视科研投入及自主研发能力建设；其次，未来将
+继续发展现有的EMC、RFID、MIMO OTA三大测试
+系统业务，不同之处在于会拓展MIMO OTA测试方
+案业务从而逐步取代RFID测试方案业务为主要
+收入及利润来源的目前业务格局。
+公司较重视自主技术研发，研发人员比重较
+大，有利于未来业务发展。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京中科国技信息系统有限公司的财务分析">
+    <enterprise:资产质量及流动性>与营运能力
+近三年公司总资产分别为1278.71万元、
+1195.95万元、2107.63万元，增长幅度近两年分
+别为-6.47%、76.23%，总体呈上升趋势，尤其2015
+年增长幅度较大。
+图 2：公司近三年资产构成（万元）
+数据来源：公司提供经审计财务报告，东方金诚整理
+从资产结构的变化看，过去三年公司流动资
+产分别为1190.49万元、1152.58万元、2050.80
+万元，增长幅度近两年分别为-3.18%、77.93%；
+非流动资产分别为88.22万元、43.37万元、56.83
+万元，增长幅度近两年分别为-50.84%、31.04%。
+截至2015年底，公司流动资产为2050.80万元，
+非流动资产为56.83万元，分别占资产总额的
+97.30%和2.70%，流动资产占有较大比重。
+图 3：公司近三年流动资产构成（万元）
+数据来源：公司提供经审计财务报告，东方金诚整理
+图 4：公司最近一年流动资产构成
+数据来源：公司提供经审计财务报告，东方金诚整理
+2015年底，公司货币资金、应收账款、其他
+应收款、预付账款、存货分别占流动资产的
+36.36%、32.91%、5.13%、4.52%、21.09%，其中
+货币资金和应收账款占有较大比重。货币资金、
+应收账款占流动资产比重较大，且分别较上年增
+长236.51%、38.43%，主要原因是公司2015年业
+务拓展情况较好，销售额大幅增加，下游客户付
+款方式导致。目前下游客户给予付款方式主要分
+两种情况：1、合同额在100万元以上的，主要是
+预付30%，项目实施完成后支付合同额的
+90%-95%，待一年质保期满后支付剩余的5%-10%
+尾款；2、合同额在100万元以下的，预付50%-70%，
+剩余待项目完成后全部结清。
+截至2015年底，公司应收账款总额为674.95
+万元，主要是南方科技大学、铁路信号、北京劳
+保所、重庆标研院、北京盈频数码科技有限公司
+等客户的项目款。从应收账款账龄来看，公司应
+收账款账龄在1年以内的有580.63万元，占应收
+账款总额的86.03%；账龄在1－2年之间的有
+42.07万元，占应收账款总额的6.23%；账龄在2
+－3年的有52.25万元，占应收账款总额的7.74%。
+其中前五名应收账款大部分账龄在1年以内。目
+前没有账龄3年以上的应收账款。
+2015年，公司固定资产、长期待摊费用分别
+占非流动资产的70.28%、29.72%，其中固定资产
+占有较大比重。
+公司固定资产中，主要是办公设备、电子设
+备；长期待摊费用主要是装修费用。2015年装修
+费用较上年增长259.81%，原因系公司于本年初
+装修现有办公场所所致。
+表 11：公司近两年资产运营状况
+2015 年
+项 目 2014 年 2015 年
+行业均值
+应收账款周转率 2.85 4.98 5.80
+存货周转率 2.45 3.42 14.50
+流动资产周转率 1.33 1.81 2.50
+总资产周转率 1.26 1.75 1.20
+数据来源：公司提供经审计财务报告，东方金诚整理
+从运营效率来看，公司各项运营指标均较
+2014年有所提高，但除总资产周转率之外均低于
+行业平均水平。
+总体而言公司资产以流动资产为主，资产质
+量和流动性水平有所提升，账面资金相对充裕，
+但公司应收账款规模偏高，会对资产的流动性形
+成一定程度占压。公司整体运营效率与行业整体
+水平相比仍存在一定差距。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>近三年公司总负债分别为975.01万元、
+867.53万元、1061.56万元，最近两年的增长幅
+度分别为-11.02%、22.37%，总体看呈增长趋势。
+表 14：公司近三年负债结构
+2015 年
+项 目 2013 年 2014 年 2015 年
+行业均
+值
+资产负债率（%） 76.25 72.54 50.37 65.00
+全部资本化比率（%） 0.00 0.00 0.00 0
+总负债（万元） 975.01 867.53 1061.56 -
+短期借款（万元） 0.00 0.00 0.00 -
+长期借款（万元） 0.00 0.00 0.00 -
+数据来源：公司提供经审计财务报告，东方金诚整理
+从债务结构看，截至2015年年底，公司负债
+全部为流动负债，无长期负债。流动负债中，应
+付账款、其他应付款、预收款项所占的比例分别
+为8.01%、37.73%、39.33%，其中其他应付款和
+预收款项占比重较大。截至2015年底，公司其他
+应付款400.53万元，主要是股东个人抵押贷款为
+公司所用，应付股东的借款。
+截至目前，公司无任何直接有息债务，不存
+在直接刚性债务偿还压力。
+近三年公司流动比率分别为1.22、1.33、
+1.93，速动比率分别为0.91、0.97、1.52，公司
+最新年度的速动比率处于行业一般水平。公司速
+动比率较低，主要系存货较多所致。公司存货全
+部为原材料，存货数额逐年上升，主要是由于近
+年、尤其2015年业务拓展情况较好，购置原材料
+以满足业务量上升需求所致。公司经营现金净流
+量与流动负债的比例分别为5.56%、9.98%、
+54.54%，说明公司经营性现金流量对流动负债的
+保障程度有所提高。当前公司流动资产周转能力
+处于行业一般水平，应收账款周转呈增长趋势，
+存货周转呈增长趋势。综合上述各种因素来看，
+公司短期偿债能力有所提高。
+表 15：公司近三年主要偿债指标
+2015 年
+项 目 2013 年 2014 年 2015 年
+行业均值
+流动比率 1.22 1.33 1.93 -
+速动比率 0.91 0.97 1.52 87.50
+经营活动产生的
+现金净流量/流 5.56 9.98 54.54 -
+动负债（%）
+利息保障倍数 -34.83 1029.60 145.40 -
+EBITDA利息倍数 -34.83 1029.60 145.40 -
+总债务/EBITDA 0.00 0.00 0.00 -
+经营活动产生的
+现金净流量/总 - - - -
+债务（%）
+经营活动产生的 5.56 9.98 54.54 -
+现金净流量/总
+负债（%）
+数据来源：公司提供经审计财务报告，东方金诚整理
+公司近三年资产负债率分别为76.25%、
+72.54%、50.37%，负债水平目前在同行业中处于
+较低水平。同期公司利息保障倍数分别为
+-34.83、1029.60、145.40，对利息偿还的保障
+程度较高，但有所下降。
+总体看，公司负债水平较低且无直接有息债
+务，近三年营业收入持续增长，盈利能力有所提
+升，综合分析，公司偿债能力尚可。
+截至报告期，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司没有直接有息债务，目前公司规模较
+小，资金运转正常，未来随着公司的发展，公司
+资金来源除自身经营产生的现金流之外，还可获
+得以下的资金来源：
+近年国家出台了针对中小企业、四技企业的
+税收和融资扶持政策。同时中关村科技园区对区
+内企业的融资也出台了相应的管理办法，在补贴
+利息及担保费方面均制订了优惠政策，公司在获
+得外部融资及补贴方面具有有利条件。公司为国
+家高新技术企业，享受企业所得税按15%减征的
+优惠政策，另外公司的五项软件享受增值税即征
+即退政策，公司技术服务业务收入自2012年9月1
+日起改为增值税。</enterprise:财务弹性>
+    <enterprise:盈利能力>表 12：公司盈利能力主要指标（一）
+项 目 2013 年 2014 年 2015 年
+营业收入（万元） 1158.92 1554.66 2894.24
+营业成本（万元） 847.78 756.48 1278.78
+利润总额（万元） -528.89 51.43 717.65
+净利润（万元） -528.89 51.43 717.65
+数据来源：公司提供经审计财务报告，东方金诚整理
+近三年公司营业收入分别为1158.92万元、
+1554.66万元、2894.24万元，最近两年的增长幅
+度分别为34.15%、86.17%，总体看呈持续增长趋
+势。2015年营业收入较上年增长幅度较大，主要
+原因系本年度业务拓展情况良好，新签合同较
+多，在手合同数量较丰富导致。
+近三年，公司营业成本分别为847.78万元、
+756.48万元、1278.78万元，增长幅度分别为
+-10.77%、69.04%，总体上呈上升趋势，基本与
+主营业务收入变化保持一致。
+近三年公司毛利率分别为26.85%、51.34%、
+55.82%。总体上呈上升走势，是由于营业收入持
+续增长，营业成本增长速度不及营业收入增长速
+度所致，说明公司成本控制较好。
+最近两年，包括营业费用、管理费用、财务
+费用在内的公司期间费用的增长率分别为
+-12.94%、17.95%。
+近三年期间费率分别为72.25%、46.89%、
+29.71%，表明最近一年，公司期间费用相对主营
+业务的收入变动有所降低、公司整体费用控制能
+力有所提升。
+2015年，公司营业费用增长率为-14.97%、
+管理费用增长率为27.11%、财务费用增长率为
+9840.00%，分别比同期营业收入的增长率相差
+-101.13、-59.06、9753.83个百分点，说明最近
+一年公司期间费用的变化主要原因在于财务费
+用增长所致。财务费用增长较多主要是由于公司
+股东个人抵押贷款为公司所用，计入其他应付
+款，产生的利息支出计入此费用所致。期间费用
+的变化也对公司营业利润率的变化产生重要影
+响。
+2015年，公司非经常性损益中，营业外收入
+0.36万元，全部为政府补贴收入，占当年利润总
+额的0.05%，公司非经常性损益对利润总额的影
+响很小。
+近三年，公司成本费用利润率分别为
+-31.32%、3.42%、32.97%，呈增长趋势，与行业
+中同类企业相比处于较高水平。
+近两年总资产报酬率分别为4.16%、43.75%，
+增长率为951.48%，与行业平均值相比，公司总
+资产报酬率当前处于较高水平。同期，公司净资
+产收益率分别为16.27%、104.42%，增长率为
+541.73%，与行业平均值相比，公司净资产收益
+率当前处于较高水平。
+表 13：公司盈利能力主要指标（二）
+2015 年
+项 目 2013年 2014 年 2015 年
+行业均值
+毛利率（%） 26.85 51.34 55.82 -
+营业利润率（%） -45.73 3.30 24.78 15.50
+-174.1
+净资产收益率（%） 16.27 104.42 5.00
+5
+总资产报酬率（%） -40.21 4.16 43.75 3.50
+数据来源：公司提供经审计财务报告，东方金诚整理
+近三年，公司经营活动产生的净现金流量分
+别为54.24万元、86.58万元、578.94万元。公司
+2015年经营活动产生的现金流量增长较多，主要
+原因系近两年公司业务拓展情况较好，预收和分
+期收回款项所致。同期，公司现金回笼率分别为
+104.15%、124.86%、97.69%，表明近年公司实现
+销售时，现金回收能力一般；同期公司现金收入
+比率分别为4.68%、5.57%、20.00%，波动幅度较
+大；净利润现金比率分别为-10.26%、168.35%、
+80.67%，波动幅度较大。
+综上所述，公司营业收入逐年增长，盈利能
+力有所提升。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京中科国技信息系统有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司合作客户数量不多，且主要处于石化领域。公
+司客户集中度较高，经营业绩对主要客户的依赖性</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京中科国技信息系统有限公司2013年基本财务指标">
+    <enterprise:资产总额>1278.71 </enterprise:资产总额>
+    <enterprise:所有者权益>303.70 </enterprise:所有者权益>
+    <enterprise:负债总额>975.01 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1158.92 </enterprise:营业收入>
+    <enterprise:EBITDA>-514.13 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中科国技信息系统有限公司2014年基本财务指标">
+    <enterprise:资产总额>1195.95 </enterprise:资产总额>
+    <enterprise:所有者权益>328.42 </enterprise:所有者权益>
+    <enterprise:负债总额>867.53 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1554.66 </enterprise:营业收入>
+    <enterprise:EBITDA>51.48 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京中科国技信息系统有限公司2015年基本财务指标">
+    <enterprise:资产总额>2107.63 </enterprise:资产总额>
+    <enterprise:所有者权益>1046.07 </enterprise:所有者权益>
+    <enterprise:负债总额>1061.56 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2894.24 </enterprise:营业收入>
+    <enterprise:EBITDA>722.62 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京中科国技信息系统有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.91 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.93 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.79 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中科国技信息系统有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>1.26 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.85 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.45 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京中科国技信息系统有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.75 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.98 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.42 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中科国技信息系统有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-40.21 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>61.57 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中科国技信息系统有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>4.16 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>185.76 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京中科国技信息系统有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>43.75 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>136.48 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中科国技信息系统有限公司2013年偿债能力指标">
+    <enterprise:流动比率>122.10 </enterprise:流动比率>
+    <enterprise:速动比率>90.91 </enterprise:速动比率>
+    <enterprise:资产负债率>76.25 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>-34.83 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中科国技信息系统有限公司2014年偿债能力指标">
+    <enterprise:流动比率>132.86 </enterprise:流动比率>
+    <enterprise:速动比率>96.62 </enterprise:速动比率>
+    <enterprise:资产负债率>72.54 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1029.60 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京中科国技信息系统有限公司2015年偿债能力指标">
+    <enterprise:流动比率>193.19 </enterprise:流动比率>
+    <enterprise:速动比率>152.45 </enterprise:速动比率>
+    <enterprise:资产负债率>50.37 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>145.40 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京中科国技信息系统有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.97 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>26.85 </enterprise:毛利率>
+    <enterprise:成本费用利润率>19.22 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.04 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>5.56 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中科国技信息系统有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>1.33 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>51.34 </enterprise:毛利率>
+    <enterprise:成本费用利润率>64.58 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.25 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>9.98 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京中科国技信息系统有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>1.81 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>55.82 </enterprise:毛利率>
+    <enterprise:成本费用利润率>97.33 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.98 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>54.54 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京中科国技信息系统有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>136.04 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>601.78 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>68.25 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>80.31 </enterprise:其他应收款>
+    <enterprise:存货>304.11 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1190.49 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>85.09 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>3.13 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>88.22 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1278.71 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中科国技信息系统有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>221.58 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>487.59 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>52.44 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>76.60 </enterprise:其他应收款>
+    <enterprise:存货>314.37 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1152.58 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>42.74 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.63 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>43.37 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1195.95 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京中科国技信息系统有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>745.63 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>674.95 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>92.67 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>105.11 </enterprise:其他应收款>
+    <enterprise:存货>432.44 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>2050.80 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>39.94 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>16.89 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>56.83 </enterprise:非流动资产合计>
+    <enterprise:资产总计>2107.63 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中科国技信息系统有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>56.06 </enterprise:应付账款>
+    <enterprise:预收款项>297.09 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>-2.65 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>69.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>447.28 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>867.53 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>867.53 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-671.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>328.42 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>328.42 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1195.95 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中科国技信息系统有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>56.06 </enterprise:应付账款>
+    <enterprise:预收款项>297.09 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>-2.65 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>69.75 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>447.28 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>867.53 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>867.53 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-671.58 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>328.42 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>328.42 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1195.95 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京中科国技信息系统有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>85.04 </enterprise:应付账款>
+    <enterprise:预收款项>417.55 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>8.64 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>149.80 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>400.53 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>1061.56 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>1061.56 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>46.07 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1046.07 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1046.07 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>2107.63 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京中科国技信息系统有限公司2013年利润表">
+    <enterprise:营业收入>1158.92 </enterprise:营业收入>
+    <enterprise:主营业务收入>1158.92 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>847.78 </enterprise:营业成本>
+    <enterprise:主营业务成本>847.78 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.71 </enterprise:营业税金及附加>
+    <enterprise:销售费用>106.74 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>715.87 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>14.76 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>185.93 </enterprise:营业利润>
+    <enterprise:营业外收入>1.05 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>186.98 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>186.98 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>186.98 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京中科国技信息系统有限公司2014年利润表">
+    <enterprise:营业收入>1554.66 </enterprise:营业收入>
+    <enterprise:主营业务收入>1554.66 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>756.48 </enterprise:营业成本>
+    <enterprise:主营业务成本>756.48 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>17.83 </enterprise:营业税金及附加>
+    <enterprise:销售费用>170.29 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>558.64 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.05 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>610.01 </enterprise:营业利润>
+    <enterprise:营业外收入>0.06 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>610.07 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>610.07 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>610.07 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京中科国技信息系统有限公司2015年利润表">
+    <enterprise:营业收入>2894.24 </enterprise:营业收入>
+    <enterprise:主营业务收入>2894.24 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1278.78 </enterprise:营业成本>
+    <enterprise:主营业务成本>1278.78 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>38.33 </enterprise:营业税金及附加>
+    <enterprise:销售费用>144.80 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>710.07 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4.97 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1427.36 </enterprise:营业利润>
+    <enterprise:营业外收入>0.36 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1427.72 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1427.72 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1427.72 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京中科国技信息系统有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1206.99 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>625.47 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1832.46 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>975.60  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>576.55 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>33.57 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>192.50 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1778.22 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>54.24 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>10.09 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>10.09 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-10.09 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>150.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>302.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>452.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>182.03 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>13.27 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>195.30 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>256.70 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>300.85 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京中科国技信息系统有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>1941.15 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>3.71 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>1944.86 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>836.23  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>431.55 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>128.26 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>462.24 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1858.28 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>86.58 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1.04 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1.04 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1.04 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>85.54 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京中科国技信息系统有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>2827.34 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>520.97 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>3348.31 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>1408.10  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>483.27 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>243.99 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>634.01 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>2769.37 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>578.94 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>54.89 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>54.89 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-54.89 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>524.05 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京中科国技信息系统有限公司股东：张志华 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张志华 </enterprise:股东名称>
+	 <enterprise:货币>1000 万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京中科国技信息系统有限公司的商标信息：QUICKMIMO">
+	<enterprise:有申请日期>14-5-19</enterprise:有申请日期>
+	<enterprise:有商标名称>QUICKMIMO</enterprise:有商标名称>
+	<enterprise:有注册号>14543088</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审评审实审裁文等待实审裁文发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京中科国技信息系统有限公司的商标信息：中科国技">
+	<enterprise:有申请日期>13-9-27</enterprise:有申请日期>
+	<enterprise:有商标名称>中科国技</enterprise:有商标名称>
+	<enterprise:有注册号>13298908</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：伺服电机的控制系统">
+	<enterprise:有申请公布日>2017-10-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>伺服电机的控制系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720280104.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206584221U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：用于无线通信的测试装置">
+	<enterprise:有申请公布日>2017-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于无线通信的测试装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720268991.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206575618U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：NB‑IoT设备的OTA测试系统和方法">
+	<enterprise:有申请公布日>2017-09-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>NB‑IoT设备的OTA测试系统和方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710495407.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107154825A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：辐射抗扰度多信号源测量系统及方法">
+	<enterprise:有申请公布日>2017-08-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>辐射抗扰度多信号源测量系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710181538.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107102216A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：RFID标签性能测试系统">
+	<enterprise:有申请公布日>2017-08-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>RFID标签性能测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710154534.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN107064704A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：基站测试系统及方法">
+	<enterprise:有申请公布日>2017-06-13</enterprise:有申请公布日>
+	<enterprise:有专利名称>基站测试系统及方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201611222791.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106851710A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：暗室多波面控制器测试系统、方法及装置">
+	<enterprise:有申请公布日>2017-05-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>暗室多波面控制器测试系统、方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610930974.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106788791A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：倍率采样天线测试系统">
+	<enterprise:有申请公布日>2017-04-12</enterprise:有申请公布日>
+	<enterprise:有专利名称>倍率采样天线测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201621091260.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206096274U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：多探头法测试系统及其校准方法和装置">
+	<enterprise:有申请公布日>2017-02-15</enterprise:有申请公布日>
+	<enterprise:有专利名称>多探头法测试系统及其校准方法和装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610862582.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106412953A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：杂散测试系统">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>杂散测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620633442.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205864433U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：应用于MIMO OTA测试的天线环和MIMO OTA测试系统">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>应用于MIMO OTA测试的天线环和MIMO OTA测试系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620645169.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205864435U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：用于大规模MIMO系统基站的测试方法及装置">
+	<enterprise:有申请公布日>2016-11-23</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于大规模MIMO系统基站的测试方法及装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610417735.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106160892A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：射频识别信号处理方法、电路、装置及标签读写器">
+	<enterprise:有申请公布日>2016-09-28</enterprise:有申请公布日>
+	<enterprise:有专利名称>射频识别信号处理方法、电路、装置及标签读写器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610430781.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105978569A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：同时支持MIMO 和SISO OTA 的紧凑型混合暗室">
+	<enterprise:有申请公布日>2016-08-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>同时支持MIMO 和SISO OTA 的紧凑型混合暗室</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620229179.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205490563U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京中科国技信息系统有限公司的专利信息：一种抑制系统噪声的RFID反向信号接收方法">
+	<enterprise:有申请公布日>2012-07-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种抑制系统噪声的RFID反向信号接收方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201110005637.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102592153A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：RFID OTA测试软件">
+	<enterprise:有批准日期>17-7-3</enterprise:有批准日期>
+	<enterprise:有软件全称>RFID OTA测试软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR336636</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：SISO OTA软件测试平台">
+	<enterprise:有批准日期>17-7-3</enterprise:有批准日期>
+	<enterprise:有软件全称>SISO OTA软件测试平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR338386</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：2.4GHz RFID射频协议一致性测试软件平台">
+	<enterprise:有批准日期>17-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>2.4GHz RFID射频协议一致性测试软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR219863</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：UHF RFID射频协议一致性测试软件平台">
+	<enterprise:有批准日期>17-5-26</enterprise:有批准日期>
+	<enterprise:有软件全称>UHF RFID射频协议一致性测试软件平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR211715</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：信号生成软件">
+	<enterprise:有批准日期>15-10-15</enterprise:有批准日期>
+	<enterprise:有软件全称>信号生成软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR198024</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：信号解析软件">
+	<enterprise:有批准日期>15-10-15</enterprise:有批准日期>
+	<enterprise:有软件全称>信号解析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR197224</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：传导抗扰度测试系统">
+	<enterprise:有批准日期>15-7-21</enterprise:有批准日期>
+	<enterprise:有软件全称>传导抗扰度测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CS测试系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR139568</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：辐射发射测试系统">
+	<enterprise:有批准日期>15-7-21</enterprise:有批准日期>
+	<enterprise:有软件全称>辐射发射测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>RE测试系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR139477</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：传导发射测试系统">
+	<enterprise:有批准日期>15-7-21</enterprise:有批准日期>
+	<enterprise:有软件全称>传导发射测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>CE测试系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR139467</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：辐射抗扰度测试系统">
+	<enterprise:有批准日期>15-7-21</enterprise:有批准日期>
+	<enterprise:有软件全称>辐射抗扰度测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>RS测试系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR139574</enterprise:有登记号>
+	<enterprise:有分类号>30206-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：含信道模型的RFID标签测试系统软件">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>含信道模型的RFID标签测试系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR122074</enterprise:有登记号>
+	<enterprise:有分类号>10109-7600</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：多天线终端接收性能测试系统">
+	<enterprise:有批准日期>14-8-21</enterprise:有批准日期>
+	<enterprise:有软件全称>多天线终端接收性能测试系统</enterprise:有软件全称>
+	<enterprise:有软件简称>MIMO OTA测试系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR125320</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：RFID标签综合测试系统平台">
+	<enterprise:有批准日期>12-5-8</enterprise:有批准日期>
+	<enterprise:有软件全称>RFID标签综合测试系统平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR036170</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：价格自动识别系统">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>价格自动识别系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ3135</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：RFID Type D 信号分析软件">
+	<enterprise:有批准日期>11-8-11</enterprise:有批准日期>
+	<enterprise:有软件全称>RFID Type D 信号分析软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SRBJ3134</enterprise:有登记号>
+	<enterprise:有分类号>30200-4000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：RFID矢量信号分析仪软件">
+	<enterprise:有批准日期>10-9-30</enterprise:有批准日期>
+	<enterprise:有软件全称>RFID矢量信号分析仪软件</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2010SRBJ5109</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京中科国技信息系统有限公司的软件著作：多频段多标准兼容RFID基带信号源软件">
+	<enterprise:有批准日期>10-4-20</enterprise:有批准日期>
+	<enterprise:有软件全称>多频段多标准兼容RFID基带信号源软件</enterprise:有软件全称>
+	<enterprise:有软件简称>RFID信号源软件</enterprise:有软件简称>
+	<enterprise:有登记号>2010SR017346</enterprise:有登记号>
+	<enterprise:有分类号>69900-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京中科国技信息系统有限公司的网站备案：中科国技">
+	<enterprise:有审核时间>14-6-17</enterprise:有审核时间>
+	<enterprise:有网站全称>中科国技</enterprise:有网站全称>
+	<enterprise:有网站首页>www.hwa-tech.com</enterprise:有网站首页>
+	<enterprise:有域名>hwa-tech.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备10015638号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京中科国技信息系统有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京中科国技信息系统有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京中科国技信息系统有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>工业和信息化部、公安部、上海集成电路技术与产业促进中心、北
+京邮电大学、南方科技大学、北京铁路信号有限公司、北京南瑞智芯微电子科技有限公司公
+司、中电基础产品装备有限公司、中国航空综合技术研究所、苏州新亚几点设备有限公司等</enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京中科国技信息系统有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>我公司拥有自主研发的技术所有权，
+(3)主要客户及经营状况
+是否减少或流失：□是 √否；
+现有主要客户： 工业和信息化部、公安部、上海集成电路技术与产业促进中心、北
+京邮电大学、南方科技大学、北京铁路信号有限公司、北京南瑞智芯微电子科技有限公司公
+司、中电基础产品装备有限公司、中国航空综合技术研究所、苏州新亚几点设备有限公司等</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京中科国技信息系统有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京中科国技信息系统有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京中科国技信息系统有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京中科国技信息系统有限公司的企业法人代表：张志华">
+	<enterprise:名称>张志华</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉族</enterprise:民族>
+	<enterprise:年龄>52</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1964-08-14</enterprise:出生年月>
+	<enterprise:身份证号码>110101196408141558</enterprise:身份证号码>
+	<enterprise:政治面貌>党员</enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京中科国技信息系统有限公司的税务信息">
+	<enterprise:有国税机关>北京市昌平区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市昌平区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现公司欠税信息</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（17%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>184万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>28万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京中科国技信息系统有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>采购委托生产的催化剂</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>外协生产厂商</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>尚可</enterprise:有议价能力>
+	<enterprise:有延期支付>一般</enterprise:有延期支付>
+	<enterprise:有上年度发生额>930万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>1029万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>减少99万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>122万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京中科国技信息系统有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京中科国技信息系统有限公司的软件著作数量">
+	<enterprise:软件著作总计>9</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>1</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>1</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>7</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京中科国技信息系统有限公司的专利数量">
+	<enterprise:专利总计>0</enterprise:专利总计>
+	<enterprise:专利数量2013>0</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>0</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京中科国技信息系统有限公司的商标数量">
+	<enterprise:商标总计>2</enterprise:商标总计>
+	<enterprise:商标数量2013>1</enterprise:商标数量2013>
+	<enterprise:商标数量2014>1</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京中科国技信息系统有限公司的网站备案数量">
+	<enterprise:网站备案总计>1</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>1</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

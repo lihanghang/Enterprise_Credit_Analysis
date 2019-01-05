@@ -1,0 +1,1223 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京基亚特环保科技有限公司的企业概况">
+    <enterprise:有名称>北京基亚特环保科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc+</enterprise:有信用等级>
+    <enterprise:有信用代码>91110116600427323N</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局怀柔分局</enterprise:有登记机关>
+    <enterprise:有中征码>110100000409494501</enterprise:有中征码>
+    <enterprise:有基本账户开户行>北京银行上地支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>80</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1995.10.27</enterprise:有注册登记日期>
+    <enterprise:有注册资本>2000</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2035.10.26</enterprise:有营业执照到期日>
+    <enterprise:有股本>2000</enterprise:有股本>
+    <enterprise:有经营范围>限分支机构经营制造环保设备；专业承包；环境工程（废水）专项工程设计；环境污染治理及净化技术开发；销售、安装环保设备；环保设备及配件技术开发、培训、咨询（不含中介服务）；零售五金交电、建筑材料；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）限分支机构经营制造环保设备；专业承包；环境工程（废水）专项工程设计；环境污染治理及净化技术开发；销售、安装环保设备；环保设备及配件技术开发、培训、咨询（不含中介服务）；零售五金交电、建筑材料；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>工业污水、市政污水和农村污水的处理</enterprise:有主营业务>
+    <enterprise:有行业分类>水污染治理</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市怀柔区雁栖工业开发区七区36号</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地东路1号盈创动力E座401A</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>陈莉</enterprise:有联系人>
+    <enterprise:有联系电话>010-58858378</enterprise:有联系电话>
+    <enterprise:有传真电话>010-58858155</enterprise:有传真电话>
+    <enterprise:有E-mail>chenli@gat.com.cn</enterprise:有E-mail>
+    <enterprise:有网址>-</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京基亚特环保科技有限公司（以下简称
+“公司”）于1995年10月27日在北京市工商行
+政管理局怀柔分局注册成立，公司注册资本为
+2000.00万元，实收资本为2000.00万元。截至
+评级始点，股东认缴金额及持股情况详见表8
+。
+公司经营范围：限分支机构经营制造环保
+设备；专业承包、环境工程（废水）专项工程
+设计；环境污染治理及净化技术开发；销售、
+安装环保设备；环保设备及配件技术开发、培
+训、咨询（不含中介服务）；零售五金交电、
+建筑材料；货物进出口、技术进出口、代理进
+出口。（企业依法自主选择经营项目，开展经
+营活动；依法须经批准的项目，经相关部门批
+准后依批准的内容进行经营活动；不得从事本
+市产业政策禁止和限制类项目的经营活动。）
+截至2015年12月31日，公司资产总额为14
+,057.00万元，固定资产净额为73.92万元，负
+债总额为10,128.26万元；2015年，公司实现营
+业收入3,489.99万元，利润总额为-
+474.62万元。公司现在员工80人，在北京市属
+于中小型企业。
+公司注册地址：北京市怀柔区雁栖工业开
+发区七区36号；办公地址：北京市海淀区上地
+东路1号盈创动力E座401A；统一社会信用代
+码：91110116600427323N；法定代表人：张
+亚军；经营期限：1995年10月27日至2035年10
+月26日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京基亚特环保科技有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质
+公司法定代表人、经理，张亚军，48岁，
+本科学历，高级工程师。张亚军先生1988年7
+月毕业于西北纺织工学院环境工程专业，2005
+年7月获清华大学经管学院EMBA学位。张亚
+军先生负责企业全面管理，包括公司战略制定
+、市场开发与企业人力资源工作，具有丰富的
+行业技术经验与企业管理经验。
+公司副经理，张利群，48岁，本科学历，
+高级工程师。张利群女士1990年7月毕业于北
+，分管公司采购部及设备开发工作，具有丰富
+的水处理工程设计与项目管理经验。
+公司副经理，康家伟，35岁，硕士研究生
+学历，工程师。康家伟先生2004年7月毕业于
+中国地质大学环境工程专业，2007年7月获中
+国地质大学环境工程硕士学位，2007年7月加
+入公司，分管公司项目工程施工、运营管理及
+总经办工作，具有丰富的工业污水工程设计、
+施工、调试经验。
+总体看，公司主要高管人员整体学历水平
+较高，专业能力较强，管理经验丰富。
+2．人力资源
+截至评级时点，公司共有员工80人。
+从学历构成看，公司员工中本科及以上学
+历25人，占比31.25%；专科学历41人，占比5
+1.25%；高中及以下14人，占比17.50%，公司
+员工整体学历水平一般。
+从年龄构成看，公司员工年龄在45岁以上
+16人，占比20.00%；年龄在25~45岁61人，占
+比76.25%；25岁以下3人，占比3.75%，公司
+员工年龄结构以中青年为主。
+从岗位构成看，公司技术人员45人，占比
+56.25%；管理人员15人，占比18.75%；作业
+人员20人，占比25.00%，公司岗位构成符合
+所处行业特点，能够满足公司现阶段发展需要
+。
+总体看，公司员工学历水平一般，年龄结
+构以中青年为主，岗位结构合理。
+3．研发人员素质
+公司共有研发人员52人，其中研究生学历
+6人,本科学历46人，均有一定的行业研究经验
+。
+公司总工程师，韩国义，50岁，研究生学
+历，高级工程师。韩国义先生1988年7月毕业
+于西北建工学院给排水专业，2005年7月获兰
+州交大给排水专业硕士学位；1988年7月至200
+4年4月就职于中国石油兰州石化公司设计研究
+院，担任设计院给水室主任，具有丰富的工业
+污水与市政污水工程的设计与管理经验，2006
+年10月加入公司，全面负责公司工程技术工作
+与成本核算工作。
+公司副总工程师，黄琳琳，40岁，本科学
+历，高级工程师。黄琳琳女士1999年7月毕业
+于西安建筑科技大学给排水专业，2000年10月
+加入公司，协助总工程师分管公司工程设计与
+技术开发工作，具有丰富的市政污水工程与工
+业污水工程设计经验。
+总体看，公司研发人员素质较好，可以保
+证公司研发工作的顺利进行。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司内设设计部和研发部，负责公司的研
+发工作。近三年，公司研发投入分别为339.00
+万元、447.00万元和499.00万元，分别占同期
+营业收入的比例为5.94%、8.90%和14.30%。
+总体看，公司研发投入力度逐年增大，能
+满足公司目前的研发需要。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>339.00万元,447.00万元,499.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京基亚特环保科技有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件
+公司注册地址位于北京市怀柔区雁栖工业
+开发区七区36号，使用方式为租赁，建筑面积
+400平方米。
+公司已取得《安全生产许可证》、《国家
+高新技术企业证书》（编号：GR20151100030
+3，有效期至2018年7月20日）；《中关村高新
+技术企业证书》（编号：20132160806308，有
+效期至2016年12月22日）。公司已取得《建筑
+业企业资质证书》，资质类别及等级为环保工
+程专业承包贰级2010/11/11，有效期至2021年
+4月27日；取得环境工程（水污染防治工程）
+专项甲级资质。
+2.业务运作
+公司经营主要以投标为主，客户群体集中
+在政府和工业企业等。截至2015年底，公司主
+营业务收入为3,489.99万元，利润总额为-
+474.62万元，销售地域主要集中在华北及西部
+地区。
+公司根据经营需要进行原材料采购，主要
+为垃圾车辆、垃圾压缩设备、超滤设备等。与
+公司长期合作的上游企业有湖北程力、天津膜
+天、河北汇洁、上海海巴等。公司付款方式为
+预付30%，发货65%，质保5%。公司在结算方面
+具有一定账期，账期集中在1年以内。
+公司2015年前五大客户分别为张家川县城
+区生活污水处理厂区工程、清水县城区生活污
+水处理工程、青海省能源发展（集团）公司矿
+井废水工程、神华蒙西棋盘井煤矿矿井水和生
+活污水处理利用EPC总承包工程、霍州市农村
+环境连片整治项目总包工程。公司前五大客户
+中，政府机构和工业企业占比较高。从执行情
+况来看，公司应收账款账龄在1年以内的占比5
+9.72%，账龄在1年至2年的占比40.28%，应收
+账款有一定的规模，对其运营资金的周转产生
+一定压力。
+图1 公司近三年资产及收入增长情况（万元）
+从近三年公司经营情况来看，营业收入和
+利润呈下滑趋势。从2016年1-
+9月的经营业绩来看，截至9月底，公司累计主
+营业务收入达到4,182.90万元，占去年收入的1
+19.85%，公司经营状况已有所改善。
+总体看，公司上下游运行通畅，已建立较
+为成熟的服务体系，客户质量较为优良，经营
+状况已有所改善。
+3．经营效率
+表 1 公司近三年主要经营指标
+财务指标 2013年 2014年 2015年
+成本率(%)  91.18  99.91  112.56 
+管理费用率(%)  23.57  12.72  12.94 
+应收账款周转次数(次)  5.56  0.98  0.40 
+存货周转次数(次)  189.78  3.26  0.82 
+总资产周转次数(次)  0.73  0.48  0.26 
+资料来源：公司提供，齐平有孚整理。
+近三年，公司成本率呈上升趋势，2015年
+上升幅度较大主要是由于营业收入下降幅度较
+大；同期，管理费用率整体呈下降趋势，主要
+是由于公司营业收入的下降和费用的减少所致
+。
+近三年，公司应收账款周转次数和存货周
+转次数呈下降趋势，处于行业较低水平，应加
+总资产周转次数呈下降趋势，资产运用效率低
+。
+总体看，公司整体经营效率较低。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构
+公司按照《中华人民共和国公司法》及有
+关法律、法规的规定制订了公司章程。
+公司设立股东会，股东会为公司权力机构
+，负责公司的重大经营决策。
+公司不设董事会，设执行董事1人，由股
+东会选举产生。公司执行董事为法定代表人，
+由张亚军先生担任，执行董事行使召集股东会
+并向股东会报告工作、执行股东会的决议、审
+定公司的经营计划和投资方案等职权。
+公司不设监事会，设监事1名，监事行使
+检查公司财务、向股东会会议提出提案等职权
+。
+公司设经理1名，由股东会决定聘任或者
+解聘，经理对股东会负责，经理负责公司日常
+的经营、管理等工作。
+公司在兰州、石家庄、山西设置办事处，
+主要职能是业务拓展。
+公司内设人力资源部、财务部、总经办、
+规划发展部、采购部、设备加工厂、外协部、
+设计部、研发部、土壤修复中心、运营管理事
+业部、合同预算部、工程管理部、客户服务部
+、项目拓展部、北京市场部，各部门分工明确
+。
+总体看，公司法人治理结构合理，与公司
+目前发展阶段相匹配。
+2．制度建设及执行
+公司目前已制定了财务、人事、研发、销
+售等方面的管理制度，实际经营中，公司严格
+执行各项操作规程。
+总体看，公司制度建设较为完善，执行情
+况较好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划
+公司2016年预计实现营业收入6000.00万
+元，净利润50.00万元；预计公司2016年底资
+产总额为8000.00万元，负债总额为3300.00万
+元，所有者权益为4700.00万元。相比2015年
+，预计公司2016年营业收入增长71.92%。根
+据齐平有孚数据预测规则，并结合公司提供的
+预测数据，按照谨慎性原则，齐平有孚预计公
+司实现该计划的可能性较高。
+总体看，我们对公司未来一年发展持谨慎
+乐观态度。
+2．融资需求
+截至评级时点，公司有500.00万元的融资
+需求，公司欲采取科技贷的方式或公司股东用
+房产抵押的方式进行融资，股东愿意作个人连
+带保证。融资主要用途是用于业务的垫资。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京基亚特环保科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为7,821.96万
+元、13,302.20万元、14,057.00万元，整体呈上
+升趋势，复合增长率为34.06%，主要是由于
+公司应收账款和存货的增加。
+截至2016年9月30日，公司资产总额为14,
+555.56万元，其中流动资产占比99.59%，非流
+动资产占比0.41%。
+截至2016年9月30日，公司流动资产为14,
+496.17万元，其中：货币资金560.95万元，占
+比3.87%；应收账款7,965.79万元，占比54.95
+%，主要为应收霍州市农村连片环境整治项目
+、神华项目、南大港农村项目、青煤二期、宁
+夏英力特煤业有限公司的工程款，账龄在1年
+以内的占比59.72%，账龄在1-
+2年的占比40.28%；存货4,859.84万元，占比3
+3.52%；预付账款747.66万元，占比5.16%，主
+要为预付北京华朋宏业科技发展有限公司、天
+水鹏立建筑工程有限公司、北京海嘉鑫源环境
+工程有限公司、北京华霖润基木塑科技有限公
+司、中大久莱特压滤机有限公司的工程款。
+总体看，公司资产流动性一般，整体资产
+质量一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2015年，公司流动比
+率和速动比率分别为138.06%、97.98%，处于
+行业较高水平，公司短期偿债能力较强。
+从长期偿债能力看， 
+公司近三年EBITDA分别为152.38万元、-
+50.30万元、-
+474.62万元，呈下降趋势，长期债务保障能力
+有所减弱。
+总体看，结合公司整体经营状况，公司未
+来一年整体偿债能力一般。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司负债总额分别为3,227.65万
+元、8,889.37万元、10,128.26万元，复合增长
+率为77.14%，主要是应付账款和预收账款的
+增加所致。
+截至2016年9月30日，公司负债总额10,26
+5.55万元，全部为流动负债，其中应付账款5,3
+36.34万元，占比51.98%，主要为应付沧州市
+南大港兴泰建筑安装工程公司、北京万侯环境
+技术开发有限公司、江苏沪扬建设、宁夏第五
+建筑工程公司第七分公司、江苏德环环保集团
+有限公司的工程款；预收款项4,646.93万元，
+占比45.27%，主要为预收清水市政、阳煤项
+目、张川县项目、清水供热项目、成安县东兴
+五牛种养有限公司的工程款；其他应付款671.
+16万元，占比6.54%。 
+近三年，公司资产负债率分别为41.26%
+、66.83%、72.05%，呈上升趋势；截至2016
+年9月30日，公司资产负债率为70.53%，考虑
+到公司负债中，预收款项占比较大，公司实际
+负债水平一般。
+近三年，公司所有者权益分别为4,594.31
+万元、4,412.83万元、3,928.74万元，呈下降趋
+势，复合变动率为-
+7.53%，主要是由于减少了实收资本中3000.00
+万元的无形资产。
+截至2016年9月30日，公司所有者权益为4
+,290.01万元，其中：实收资本2,000.00万元，
+占比46.62%；未分配利润2,290.01万元，占比
+53.38%。
+总体看，公司负债水平一般，所有者权益
+结构稳定性尚可。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为5,710.32万
+元、5,023.32万元、3,489.99万元，呈下降趋势
+；同期，公司利润总额分别为35.86万元、-
+50.30万元、-474.62万元，呈下降趋势。
+近三年，公司主营业务利润率分别为32.7
+9%、27.73%、24.86%，有下降趋势但仍处于
+行业一般水平；同期，公司净资产收益率分别
+为0.66%、-1.20%、-
+11.61%，呈下降趋势，处于行业低水平；同
+期，公司总资产报酬率分别为0.46%、-
+0.48%、-
+3.47%，呈下降趋势，处于行业较低水平，资
+产运用效率偏弱。
+总体看，公司整体盈利能力偏弱。
+图2 公司近三年盈利能力指标(万元、%)</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京基亚特环保科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，齐平有孚通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录。
+截至评级时点，齐平有孚未发现公司有未
+决诉讼、票据贴现、对外担保等或有负债；公
+司以往银行借款还本付息情况正常，未发现公
+司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司客户中政府单位所占比重较大，政府
+政策对公司所处行业具有一定的影响，因此公
+司存在一定的政策风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司应收账款和存货所占比重较高
+，且周转效率偏低，对公司运营资金周转产生
+一定压力。
+（2）公司盈利能力偏弱，对公司未来的
+持续发展产生一定风险。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>齐平有孚未现存在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京基亚特环保科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>7821.96 </enterprise:资产总额>
+    <enterprise:所有者权益>4594.31 </enterprise:所有者权益>
+    <enterprise:负债总额>3227.65 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5710.32 </enterprise:营业收入>
+    <enterprise:EBITDA>152.38 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京基亚特环保科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>13302.21 </enterprise:资产总额>
+    <enterprise:所有者权益>4412.83 </enterprise:所有者权益>
+    <enterprise:负债总额>8889.37 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>5023.32 </enterprise:营业收入>
+    <enterprise:EBITDA>235.72 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京基亚特环保科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>14057.00 </enterprise:资产总额>
+    <enterprise:所有者权益>3928.74 </enterprise:所有者权益>
+    <enterprise:负债总额>10128.25 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>3489.99 </enterprise:营业收入>
+    <enterprise:EBITDA>-442.26 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京基亚特环保科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>227.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>663.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京基亚特环保科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>111.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>176.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京基亚特环保科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>57.00 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>115.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>148.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京基亚特环保科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.46 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>27.37 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京基亚特环保科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-0.48 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>13.24 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京基亚特环保科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.47 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>0.62 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京基亚特环保科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>148.88 </enterprise:流动比率>
+    <enterprise:速动比率>148.27 </enterprise:速动比率>
+    <enterprise:资产负债率>41.26 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京基亚特环保科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>148.47 </enterprise:流动比率>
+    <enterprise:速动比率>124.45 </enterprise:速动比率>
+    <enterprise:资产负债率>66.83 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京基亚特环保科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>138.06 </enterprise:流动比率>
+    <enterprise:速动比率>97.98 </enterprise:速动比率>
+    <enterprise:资产负债率>72.05 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京基亚特环保科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>34.06 </enterprise:毛利率>
+    <enterprise:成本费用利润率>31.73 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-4.33 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京基亚特环保科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>30.14 </enterprise:毛利率>
+    <enterprise:成本费用利润率>13.43 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-12.03 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京基亚特环保科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>27.17 </enterprise:毛利率>
+    <enterprise:成本费用利润率>0.99 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-30.52 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京基亚特环保科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1551.40 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>1026.26 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1002.98 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1204.92 </enterprise:其他应收款>
+    <enterprise:存货>19.84 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>4805.40 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>91.56 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>2925.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3016.56 </enterprise:非流动资产合计>
+    <enterprise:资产总计>7821.96 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京基亚特环保科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>1099.26 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>9173.42 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>-166.93 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>957.34 </enterprise:其他应收款>
+    <enterprise:存货>2134.66 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>13197.75 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>104.46 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>104.46 </enterprise:非流动资产合计>
+    <enterprise:资产总计>13302.21 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京基亚特环保科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>311.01 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>8078.77 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>844.96 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>688.91 </enterprise:其他应收款>
+    <enterprise:存货>4059.43 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>13983.08 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>73.92 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>73.92 </enterprise:非流动资产合计>
+    <enterprise:资产总计>14057.00 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京基亚特环保科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4941.13 </enterprise:应付账款>
+    <enterprise:预收款项>3879.63 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>21.30 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>47.31 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8889.37 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8889.37 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2412.83 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>4412.83 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>4412.83 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>13302.20 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京基亚特环保科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4941.13 </enterprise:应付账款>
+    <enterprise:预收款项>3879.63 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>21.30 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>47.31 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>8889.37 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>8889.37 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2412.83 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>4412.83 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>4412.83 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>13302.20 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京基亚特环保科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>4791.49 </enterprise:应付账款>
+    <enterprise:预收款项>5420.19 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-145.03 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>61.60 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>10128.25 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>10128.25 </enterprise:负债合计>
+    <enterprise:实收资本或股本>2000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1928.74 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>3928.74 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>3928.74 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>14056.99 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京基亚特环保科技有限公司2013年利润表">
+    <enterprise:营业收入>5710.32 </enterprise:营业收入>
+    <enterprise:主营业务收入>5710.32 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3765.17 </enterprise:营业成本>
+    <enterprise:主营业务成本>3765.17 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>72.72 </enterprise:营业税金及附加>
+    <enterprise:销售费用>144.21 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1227.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-2.39 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>1730.61 </enterprise:营业利润>
+    <enterprise:营业外收入>5.27 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>473.01 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>1262.87 </enterprise:利润总额>
+    <enterprise:所得税费用>5.38 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>1257.49 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>1257.49 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京基亚特环保科技有限公司2014年利润表">
+    <enterprise:营业收入>5023.32 </enterprise:营业收入>
+    <enterprise:主营业务收入>5023.32 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3509.15 </enterprise:营业成本>
+    <enterprise:主营业务成本>3509.15 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>121.10 </enterprise:营业税金及附加>
+    <enterprise:销售费用>753.11 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>638.50 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>-3.06 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>643.02 </enterprise:营业利润>
+    <enterprise:营业外收入>2.25 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>57.07 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>588.20 </enterprise:利润总额>
+    <enterprise:所得税费用>3.94 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>584.26 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>584.26 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京基亚特环保科技有限公司2015年利润表">
+    <enterprise:营业收入>3489.99 </enterprise:营业收入>
+    <enterprise:主营业务收入>3489.99 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>2541.60 </enterprise:营业成本>
+    <enterprise:主营业务成本>2541.60 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>80.94 </enterprise:营业税金及附加>
+    <enterprise:销售费用>792.89 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>508.35 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>4.45 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>70.11 </enterprise:营业利润>
+    <enterprise:营业外收入>-0.32 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>36.07 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>33.72 </enterprise:利润总额>
+    <enterprise:所得税费用>9.48 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>24.24 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>24.24 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京基亚特环保科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京基亚特环保科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京基亚特环保科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京基亚特环保科技有限公司被投资单位：-">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>-</enterprise:名称>
+	<enterprise:单位代码>-</enterprise:单位代码>
+	<enterprise:被投资金额>-万元</enterprise:被投资金额>
+	<enterprise:股权比率>-%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京基亚特环保科技有限公司股东：张亚军 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张亚军 </enterprise:股东名称>
+	 <enterprise:货币>1,600.00万元时间：2013-09-30</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>80.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京基亚特环保科技有限公司股东：张利群 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张利群 </enterprise:股东名称>
+	 <enterprise:货币>400.00万元时间：2013-09-30</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.00%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京基亚特环保科技有限公司的商标信息：基亚特">
+	<enterprise:有申请日期>04-4-22</enterprise:有申请日期>
+	<enterprise:有商标名称>基亚特</enterprise:有商标名称>
+	<enterprise:有注册号>4030609</enterprise:有注册号>
+	<enterprise:有类别>11-家电照明设备</enterprise:有类别>
+	<enterprise:有流程状态>商标已注册</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种新型生态浮岛水处理装置">
+	<enterprise:有申请公布日>17-5-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型生态浮岛水处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620727329.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206188496U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种以固定化微生物为载体的污水处理装置">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种以固定化微生物为载体的污水处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620727224.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205933367U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种移动式垃圾压缩设备">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种移动式垃圾压缩设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620727222.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205932034U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种节能型生物脱氮污水处理装置">
+	<enterprise:有申请公布日>17-2-8</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种节能型生物脱氮污水处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201620727219.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN205933393U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种太阳能微动力污水处理设备">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种太阳能微动力污水处理设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420297522.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203976579U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种污水处理装置">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污水处理装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420296330.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203976471U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种厌氧脉冲布水装置">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种厌氧脉冲布水装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420297500.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203976472U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种除臭设备">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种除臭设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420297497.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203971715U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种纤维转盘过滤器">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种纤维转盘过滤器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420296844.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203971540U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种污水处理设备">
+	<enterprise:有申请公布日>14-12-3</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种污水处理设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN201420296236.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN203976578U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种新型旋转式滗水器">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型旋转式滗水器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246568.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201560146U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种新型周边传动刮泥机">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型周边传动刮泥机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246570.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201558578U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种新型转刷曝气机">
+	<enterprise:有申请公布日>10-8-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型转刷曝气机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246569.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201560144U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种新型转盘曝气机">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种新型转盘曝气机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246571.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553645U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一体化污泥脱水集成设备">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体化污泥脱水集成设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246573.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553672U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：悬挂链式移动曝气装置">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>悬挂链式移动曝气装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246566.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553646U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：多向可旋转式潜水搅拌装置">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>多向可旋转式潜水搅拌装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246567.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553642U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：高效反捞式格栅除污机">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>高效反捞式格栅除污机</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246564.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553625U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一体化高浓PAM加药装置">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>一体化高浓PAM加药装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246572.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553675U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：高效旋流除砂装置">
+	<enterprise:有申请公布日>10-8-18</enterprise:有申请公布日>
+	<enterprise:有专利名称>高效旋流除砂装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920246565.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201553634U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种高效厌氧反应器">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高效厌氧反应器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105431.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330197Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：车载移动式一体化设备">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>车载移动式一体化设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105427.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330215Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：一种厌氧反应器布水系统">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种厌氧反应器布水系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105430.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330196Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：新型高效二氧化氯发生器消毒设备">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>新型高效二氧化氯发生器消毒设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105425.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330156Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：新型EGSB一体化反应器">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>新型EGSB一体化反应器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105428.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330195Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：用于厌氧反应器的拼装式三相分离器">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>用于厌氧反应器的拼装式三相分离器</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105426.8</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330194Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：ABR反应器和SBR反应器处理有机废水的一体化装置">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>ABR反应器和SBR反应器处理有机废水的一体化装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105432.3</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330202Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京基亚特环保科技有限公司的专利信息：新型的水力澄清一体化水处理设备">
+	<enterprise:有申请公布日>09-10-21</enterprise:有申请公布日>
+	<enterprise:有专利名称>新型的水力澄清一体化水处理设备</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920105429.1</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201330185Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:网站备案 rdf:ID="北京基亚特环保科技有限公司的网站备案：北京基亚特环保科技有限公司">
+	<enterprise:有审核时间>17-8-25</enterprise:有审核时间>
+	<enterprise:有网站全称>北京基亚特环保科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.gat.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>gat.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12030656号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京基亚特环保科技有限公司的员工基本信息">
+	<enterprise:有从业人数>80</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:61,25岁以下:3,45岁以上:16</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:25,高中及以下:14,专科:41</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:15,技术人员:45,作业人员:20</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:80人,未参加:0人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京基亚特环保科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>主营业务没有变化，发展趋势良好</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京基亚特环保科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>张家川县城区生活污水处理厂区工程、清水县城区生活污水处理工程、青海省
+能源发展（集团）公司矿井废水工程、神华蒙西棋盘井煤矿矿井水和生活污水处理利用EPC总承包
+工程、霍州市农村环境连片整治项目总包工程</enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京基亚特环保科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>外部经营环境无不利经营的重大变化，公司对竞争变化或外部条件变化有应对措施</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京基亚特环保科技有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京基亚特环保科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 扶持 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>公司所处行业处于国家政策大力扶植阶段，发展前景较好。
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京基亚特环保科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>垄断竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京基亚特环保科技有限公司的企业法人代表：张亚军">
+	<enterprise:名称>张亚军</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>48</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>1967.06</enterprise:出生年月>
+	<enterprise:身份证号码>620103196706102015</enterprise:身份证号码>
+	<enterprise:政治面貌>-</enterprise:政治面貌>
+	<enterprise:学历>本科</enterprise:学历>
+	<enterprise:学位>学士</enterprise:学位>
+	<enterprise:职称>高级工程师</enterprise:职称>
+	<enterprise:现任职务>经理</enterprise:现任职务>
+	<enterprise:联系电话>58858455</enterprise:联系电话>
+	<enterprise:传真>58858155</enterprise:传真>
+	<enterprise:E-mail>zhangyajun@gat.com.cn</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京基亚特环保科技有限公司的税务信息">
+	<enterprise:有国税机关>北京市朝阳区国家税务局</enterprise:有国税机关>
+	<enterprise:有地税机关>北京市朝阳区地方税务局</enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110105101720461Y</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税（6%）</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>4560万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>6195万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京基亚特环保科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>计算机、检测仪器等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>计算机、检测仪器等供应商</enterprise:有供应商类型>
+	<enterprise:有交易地位>对等</enterprise:有交易地位>
+	<enterprise:有议价能力>一般</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>-1023万元</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>14679万元</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>减少15702万元</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>18316万元</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京基亚特环保科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>经调查，未发现公司在评级年度有涉诉记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>经调查，未发现公司在评级年度有失信违约记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>经调查，公司在评级年度无纳税信用A级企业证书</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>经调查，未发现公司在评级年度有获奖和被处罚或被投诉等相关记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+	<enterprise:专利总计>6</enterprise:专利总计>
+<enterprise:商标数量 rdf:ID="北京基亚特环保科技有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京基亚特环保科技有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

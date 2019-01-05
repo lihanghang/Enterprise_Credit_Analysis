@@ -1,0 +1,1185 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京洁绿科技发展有限公司的企业概况">
+    <enterprise:有名称>北京洁绿科技发展有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc+</enterprise:有信用等级>
+    <enterprise:有信用代码>911101087655303295</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020000058264</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国民生银行上地支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>151</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004-7-15</enterprise:有注册登记日期>
+    <enterprise:有注册资本>6300.00</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>2054-7-14</enterprise:有营业执照到期日>
+    <enterprise:有股本>6300.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务；施工总承包；污水处理；计算机系统服务；基础软件服务；产品设计；工程勘察设计；销售电子产品、通讯设备、机械设备；投资管理；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术转让、技术咨询、技术服务；施工总承包；污水处理；计算机系统服务；基础软件服务；产品设计；工程勘察设计；销售电子产品、通讯设备、机械设备；投资管理；货物进出口、代理进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>行到售后的配套服务</enterprise:有主营业务>
+    <enterprise:有行业分类>环保行业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区农大南路</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市昌平区何营路</enterprise:有通讯地址>
+    <enterprise:有邮政编码>102200</enterprise:有邮政编码>
+    <enterprise:有联系人>李雪</enterprise:有联系人>
+    <enterprise:有联系电话>13810865562</enterprise:有联系电话>
+    <enterprise:有传真电话>010-62976550</enterprise:有传真电话>
+    <enterprise:有E-mail>657603431@qq.com</enterprise:有E-mail>
+    <enterprise:有网址>http://www.jeegreen.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京洁绿科技发展有限公司（以下简称“公
+司”）于 2004 年 7 月 15 日在北京市工商行政管
+理局海淀分局注册成立。公司初始注册资本
+518.00 万元，后经多次增资及股权变更，目前
+注册资本为 6300.00 万元，股东出资及持股比
+例详见附录二之表 13。 
+公司经营范围：“技术开发、技术转让、技
+术咨询、技术服务；施工总承包；污水处理；
+计算机系统服务；基础软件服务；产品设计；
+工程勘察设计；销售电子产品、通讯设备、机
+械设备；投资管理；货物进出口、代理进出口、
+技术进出口”。目前，公司主要从事垃圾渗滤液
+技术的研发、工程建设、工程运营，并为客户
+提供从工艺设计、施工安装、调试、运行到售
+后的配套服务。 
+截至 2016 年 7 月底，公司资产总额
+19393.08 万元，固定资产净额 2315.48 万元，
+所有者权益 10867.04 万元；2015 年，公司实现
+营业收入 11484.94 万元，利润总额 2854.91 万
+元；2016 年 1~7 月，公司实现营业收入 6495.43
+万元，利润总额-958.21 万元；公司现有员工 151
+人，在北京市属于中型企业。 
+公司注册地址：北京市海淀区农大南路 1
+号院 2 号楼 B 座 618；经营地址：北京市昌平
+区何营路 8 号院 21 号楼；法定代表人：赵凤秋；
+贷款卡号：1101020000058264；统一社会信用
+代码：911101087655303295；经营期限：自 2004
+年 7 月 15 日至 2054 年 7 月 14 日。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京洁绿科技发展有限公司的基础素质">
+    <enterprise:有管理素质>1．高管素质 
+公司法定代表人、董事长兼总经理赵凤秋，
+46 岁，硕士研究生学历，曾任职于北京泰克尼
+环保设备有限公司、北京肇麟环境技术开发公
+司，2006 年加入公司，曾参与“一种垃圾渗滤
+液处理工艺”等 10 项专利的研发工作，赵凤秋
+具有丰富的管理经验和较强的研发能力。 
+公司副总经理景有海，55 岁，高中学历，
+先后在北京永昌盛给水设备厂、北京肇麟环境
+技术开发公司工作，2006 年加入公司，同业从
+业经验丰富。 
+总体看，公司高管学历水平一般，从业经
+验丰富。 
+2．人力资源 
+截至评级时点，公司员工总数 151 人。 
+从学历构成看，公司员工中本科及以上学
+历者占比 43.71%、专科学历者占比 31.13%。 
+从年龄构成来看，公司员工中年龄在 45
+岁及以下者占比 91.39%，员工年龄结构呈年轻
+化。 
+从岗位构成看，公司管理人员占比 7.28%、
+岗位结构符合公司的经营特点。 
+总体看，公司员工学历水平一般，年龄结
+构呈年轻化，岗位结构符合公司的经营特点。 
+3．研发人员素质 
+公司现有专职研发人员25人，全为本科及
+以上学历。 
+公司研发团队以董事长兼总经理赵凤秋为
+首，核心研发人员均具有一定的研发能力和技
+术背景。 
+总体看，研发人员学历水平高，主要研发
+人员均具有一定的研发能力和技术背景。</enterprise:有管理素质>
+    <enterprise:有人员素质>-</enterprise:有人员素质>
+    <enterprise:有科研条件>公司研发中心负责产品的研发和技术服务
+工作，研发中心下设技术部、设计部、电气部、
+渗滤液工程实验室、餐厨垃圾研究中心、填埋
+封场研究中心、技术咨询中心等部门。 
+除自主研发之外，公司还与北京农业大学
+等建立了产学研合作关系。 
+公司近三年研发投入分别为1170.34万元、
+942.00万元、772.00万元，分别占当期营业收入
+的16.32%、12.24%、6.72%，公司研发投入主
+要用于发放研发人员工资、购买研发设备等。 
+总体看，公司研发投入能够满足公司研发
+需求。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>1170.34万元,942.00万元,772.00万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京洁绿科技发展有限公司的经营管理">
+    <enterprise:其经营分析为>1．经营条件 
+公司办公地位为北京市昌平区何营路 8 号
+院 21 号楼，使用面积约 2000 平方米，为公司
+自有，内部办公设备齐全，环境整洁。 
+公司所获资质情况详见表 2。 
+表 2  公司所获资质情况 
+序
+名称 发证日期 
+号 
+国家高新技术企业（证书编号：
+1 GF201311000041，有效期至 2013.11.11 
+2016.11.10） 
+中关村高新技术企业（证书编号：
+2 2015.7.9 
+20152010457108，有效期至 2018.7.9） 
+3 环保工程专业承包贰级 2013.12.23 
+4 机电设备安装工程专业承包叁级 2014.10.13 
+5 生活污水处理三级 2015.5.20 
+6 工业废水处理二级 2015.5.20 
+资料来源：公司提供，联合信用整理 
+公司多项产品获得国家重点新产品证书、
+北京市自主创新产品证书、国家环保部环境保
+护科学技术奖。2011 年底，公司经北京市发展
+和改革委员会批准成为“垃圾渗滤液处理北京
+市工程实验室”。 
+好。 
+2．业务运作 
+公司采用的工艺以“中温厌氧处理系统+
+膜生物反应器（MBR）+膜深度处理”为核心
+技术，渗滤液经过厌氧、MBR（反硝化、硝化
+及MBR）系统，然后进入纳滤，出水部分进入
+反渗透，部分纳滤出水和反渗透出水勾兑排放
+或回用，同时工艺还涉及污泥减量化、污泥处
+理、浓水处理、沼气利用、腐植酸肥料提取等
+配套技术。该工艺具有能耗低、出水率高、运
+行费用低的特点。公司所处业务领域专业性较
+强，技术处于行业领先地位，已有能力承揽一
+些大型专业性总承包项目。从公司的收入构成
+看，根据开具发票不同基本上分为环保工程收
+入和环保设备收入。 
+采购方面，公司按照施工进度制定采购计
+划，开工前原材料已基本选定。技术人员在研
+究院作图完成后开始采购，采购物中有90%的
+原材料运往外协工厂加工后运往项目所在地，
+有10%的原材料直接运往项目所在地；货物的
+运费均由供应商及外协厂商承担。公司主要采
+购过滤膜、水泵和搪瓷拼装泵等部件，主要供
+应商有北京盈和瑞环保工程有限公司、天津泽
+坤科技有限公司、北京诺百金科技发展有限公
+司、上海川源机械工程有限公司北京分公司等
+单位，所采购部件的供货渠道较多，且原材料
+产品替代性较强，只有少量需进口，市场价格
+相对稳定。采购结算方面，公司与供应商的结
+算方式通常为签订合同后付款30%，货到付款
+65%（部分供应商给予公司3个月账期），留有
+5%质保金。 
+销售方面，公司通过投标方式承揽垃圾渗
+滤液处理工程总承包项目，项目工期在几个月
+到一年半不等，主要客户有北京中科通用能源
+环保有限责任公司、北京环卫集团等，公司与
+客户合作关系稳定。结算方面，公司一般会有
+30%~40%的预收款，安装、调试、验收后收至
+95%，另有5%质保金，工程质保期为1年，1年
+内提供免费的售后服务。 
+总体看，公司上下游畅通，经营情况较好。 
+3．经营效率 
+表 3  公司近三年主要经营指标 
+财务指标 2013 年 2014 年 2015 年 
+成本率(%) 89.52 92.98 76.23 
+管理费用率(%) 33.38 25.09 21.61 
+存货周转次数(次) 1.75 2.05 2.28 
+应收账款周转次数(次) 3.36 2.53 2.74 
+总资产周转次数(次) 0.57 0.50 0.65 
+资料来源：公司提供，联合信用整理 
+近三年，公司成本率呈下降趋势，处于行
+业较高水平，主要是采购成本、人工成本较高
+所致；同期，公司管理费用率呈下降趋势，主
+要为研发投入减少所致。 
+近三年，公司存货周转次数呈上升趋势，
+仍处于行业较低水平，主要由于项目完成但尚
+未验收的项目较多，使得存货中未结转成本较
+大，导致存货周转较慢；同期，公司应收账款
+周转次数呈下降趋势，但始终处于行业较低水
+平，主要由于公司客户主要为国企，其付款审
+批流程复杂，回款相对较慢所致；同期，公司
+总资产周转次数呈上升趋势，处于行业一般水
+平。 
+总体看，公司经营效率有待提高。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>1．法人治理及组织架构 
+股东会由全体股东组成，为公司权力机构，
+决定公司的经营方针和投资计划等事宜；公司
+设董事会，董事会成员4人，设董事长1人，董
+事长为公司的法定代表人，董事会行使执行股
+东会决议、审定公司经营计划和投资方案、制
+定公司年度财务预算方案和决算方案、决定公
+监事会成员3人，设主席1人，监事会行使检查
+公司财务等职权。公司实行董事长领导下的总
+经理负责制，总经理由董事长赵凤秋兼任，总
+经理全面负责公司日常经营、管理工作。 
+公司设有研发中心（下设技术部、设计部、
+电气部、渗滤液工程实验室、餐厨垃圾研究中
+心、填埋封场研究中心、技术咨询中心等）、总
+经理办公室、人力资源部、企业规划发展部、
+工程管理部、质量安全部、运营技术管理部、
+市场营销部、生产事业部、财务部、商务法务
+部等部门，部门设置合理，内部协作有序。 
+公司拥有 1 家全资子公司——珠海京珠绿
+江科技有限公司（投资 100 万元）、2 家参股公
+司——北京京环绿丰环境管理有限公司（持股
+10%）、广州侨绿固废循环利用科技有限公司
+（持股 35%），公司对全资子公司委派高管人员
+进行管理，财务独立核算。 
+总体看，公司法人治理结构较完善，部门
+设置合理。 
+2．制度建设及执行 
+根据业务需求，公司制订了《审批权限制
+度》、《财务管理制度》、《预算管理制度》、《存
+货管理制度》、《产品质量控制管理制度》等管
+理制度，并在日常经营活动中严格执行。公司
+通过了ISO 9001:2008《质量管理体系标准》认
+证（有效期至2018年9月10日）、ISO 14001:2004
+《环境管理体系标准》认证（有效期至2018年9
+月10日）、GB/T 28001-2011《职业健康安全管
+理体系标准》认证（有效期至2018年9月10日），
+进一步规范了公司内部控制的规范性。 
+总体看，公司制度建设完善，执行情况好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>1．发展计划 
+未来几年，公司将继续以垃圾渗滤液技术
+为基础，大力研发针对不同垃圾种类的处理技
+术，进一步提高垃圾处理工程的质量，从而推
+动公司进一步向前发展。 
+根据联合信用数据预测规则，结合公司提
+供的预测数据，按照谨慎性原则，联合信用预
+测公司 2016 年将实现营业收入 14000.00 万元，
+净利润 2100.00 万元；预计公司 2016 年底资产
+总额 22326.88 万元，负债总额 8400.00 万元，
+所有者权益 13926.88 万元。相比 2015 年，联
+合信用预计公司 2016年营业收入增长 21.90%，
+负债率变动幅度为-1.43%，净资产收益率变动
+幅度为-6.69%。 
+总体看，公司未来一年发展状况较好。 
+2．融资需求 
+公司短期内有 1000.00 万元的融资需求，
+希望通过银行信用贷款进行融资，主要用于新
+项目的建设，还款来源为公司营业收入。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京洁绿科技发展有限公司的财务分析">
+    <enterprise:资产质量及流动性>近三年，公司资产总额分别为 14717.82 万
+元、16056.25 万元、19404.72 万元，复合增长
+率为 14.82%，受业务增长影响，货币资金、应
+收账款、存货等资产大幅增长。 
+截至 2016 年 7 月底，公司资产总额
+19393.08 万元，其中：流动资产占比 81.07%，
+图 1  公司 2016 年 7 月底流动资产构成 
+截至 2016 年 7 月底，公司流动资产
+15721.42 万元，其中：货币资金 5574.25 万元，
+占比 35.46%；应收账款 3027.85 万元，占比
+19.26%，主要为应收北京城建一建设发展有限
+公司、北京首同致远节能环保科技有限公司、
+烟台润达垃圾处理环保股份有限公司、北京首
+钢生物质能源科技有限公司等的项目款，其中
+账龄在 1 年以内的占比 28.00%，1~2 年的占比
+47.00%，2 年以上的占比 25.00%，账龄超过 1
+年的应收账款主要由于项目周期长，政府回款
+较慢所致，公司已按账龄分析法计提坏账准备；
+预付账款 1275.26 万元，占比 8.11%，主要为预
+付徐州市开金环保科技有限公司、江苏康尔科
+技有限公司、北京诺百金科技发展有限公司的
+采购款，账龄主要集中在 1 年以内；存货
+5455.90 万元，占比 34.70%，主要为未结转成
+本。 
+截至 2016 年 7 月底，公司非流动资产
+3671.66 万元，其中：长期股权投资 582.82 万
+元，占比 15.87%，为对全资子公司及参股公司
+的股权投资；固定资产净额 2315.48 万元，占
+比 63.06%，主要为房屋建筑物、运输工具和办
+公设备；无形资产 682.72 万元，占比 18.59%，
+主要为 BOT 项目经营权；长期待摊费用 11.82
+万元，占比 0.32%；递延所得税资产 78.82 万元，
+总体看，公司资产流动性尚可，资产质量
+一般。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>从短期偿债能力看，2016 年 7 月底，公司
+流动比率为 184.39%，处于行业一般水平；同
+期，速动比率为 120.40%，处于行业较低水平；
+2015 年，公司现金流动负债比为 83.76%，公司
+经营活动获取现金的能力对流动负债保障程度
+较强，公司短期偿债能力较强。 
+从长期偿债能力看，2015 年，公司 EBITDA
+利息倍数和债务保护倍数分别为 52.91 倍和
+3.70 倍，公司长期偿债能力较强。 
+总体看，公司整体偿债能力较强。</enterprise:偿债能力>
+    <enterprise:财务弹性>近三年，公司资产负债率分别为 42.69%、
+41.53%、39.05%，呈下降趋势；同期，公司全
+部债务资本化比率分别为 9.45%、12.16%、
+6.34%，整体呈下降趋势；2016 年 7 月底，公
+司资产负债率为 43.96%，全部债务资本化比率
+为 10.68%，公司负债水平一般，有息债务压力
+较小。 
+近三年，公司负债总额分别为 6283.52 万
+元、6668.63 万元、7577.84 万元，复合增长率
+为 9.82%，主要为应付账款的增长。 
+表 4  公司短期借款情况 
+贷款类 贷款 
+贷款银行 余额（万元） 
+型 起止日期 
+担保贷
+1
+工行管庄支行 300 2015.8.2~2016.8.2  
+款 
+华夏中关村支 信用贷
+1000 2016.5.12~2017.5.12 
+行 款 
+资料来源：公司提供，联合信用整理 
+截至 2016年 7月底，公司负债总额 8526.04
+万元，全部为流动负债，主要为：短期借款
+1300.00 万元，占比 15.25%，为银行短期借款，
+详见表 4；应付账款 4811.02 万元，占比 56.43%，
+主要为应付中国地质有限公司、四川深蓝环保
+有限公司、北京京润海自动化技术研究所等的
+采购款，账龄均在 1 年以内；预收账款 1084.08
+万元，占比 12.71%，主要为预收中化节能环保
+控股有限公司、贵阳中电环保有限公司、北京
+久安建设投资集团有限公司、北京高能时代有
+限公司等的项目款；其他流动负债 830.00万元，
+占比 9.73%，为政府补贴款。 
+图 2  公司 2016 年 7 月底流动负债构成 
+近三年，公司所有者权益分别为 8434.30
+万元、9387.62 万元、11826.88 万元，复合增长
+率为 18.42%，主要受益于净利润的增长。近三
+年，公司未进行利润分配。 
+截至 2016 年 7 月底，公司所有者权益
+10867.04 万元，其中：实收资本 6300.00 万元，
+占比 57.97%；盈余公积 552.69 万元，占比
+5.09%；未分配利润 4014.35 万元，占比 36.94%。 
+总体看，公司负债水平一般，有息债务压
+力较小，所有者权益对债务保障能力强。</enterprise:财务弹性>
+    <enterprise:盈利能力>近三年，公司营业收入分别为 7170.59 万
+元、7694.11 万元、11484.94 万元，复合增长率
+为 26.56%；同期，公司利润总额分别为 952.33
+万元、1090.56 万元、2854.91 万元，复合增长
+率为 73.14%，随着公司业务的扩大，收入和利
+润均呈上升趋势。 
+图 3  公司近三年盈利能力指标 
+近三年，公司主营业务利润率分别为
+52.59%、 43.25%、 40.79%，加权平均值为
+43.89%，处于行业较高水平；近三年，公司净
+资产收益率分别为 13.33%、10.70%、23.00%，
+加权平均值为 17.37%，处于行业一般水平；近
+三年，公司总资产报酬率分别为 8.20%、7.53%、
+16.47%，加权平均值为 12.13%，处于行业一般
+水平。 
+近三年，公司现金收入比分别为 76.56%、
+61.97%、79.20%，加权平均值为 73.50%，公司
+收入实现质量有待提高。 
+总体看，公司整体盈利能力尚可，收入实
+现质量有待提高。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京洁绿科技发展有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用信息网查询，未发现公司有行政处罚记
+录；通过在中国执行信息公开网查询，未发现
+公司有被执行记录；未发现公司有对外担保等
+或有负债；未发现公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司所处行业为国家鼓励发展的行业，政
+策支持力度较大，政策和行业风险较小。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司客户多为国有企业，受其付款政
+策影响，公司应收账款周转较慢。 
+（2）公司收入实现质量有待提高。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京洁绿科技发展有限公司2013年基本财务指标">
+    <enterprise:资产总额>14613.29 </enterprise:资产总额>
+    <enterprise:所有者权益>8434.30 </enterprise:所有者权益>
+    <enterprise:负债总额>6283.53 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>7170.59 </enterprise:营业收入>
+    <enterprise:EBITDA>0.00 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京洁绿科技发展有限公司2014年基本财务指标">
+    <enterprise:资产总额>15986.88 </enterprise:资产总额>
+    <enterprise:所有者权益>9387.62 </enterprise:所有者权益>
+    <enterprise:负债总额>6668.63 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>7694.11 </enterprise:营业收入>
+    <enterprise:EBITDA>17.55 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京洁绿科技发展有限公司2015年基本财务指标">
+    <enterprise:资产总额>19288.69 </enterprise:资产总额>
+    <enterprise:所有者权益>11826.88 </enterprise:所有者权益>
+    <enterprise:负债总额>7577.84 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>11484.94 </enterprise:营业收入>
+    <enterprise:EBITDA>21.47 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京洁绿科技发展有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.57 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>3.36 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>1.75 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京洁绿科技发展有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.50 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.53 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.05 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京洁绿科技发展有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.65 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.74 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>2.28 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京洁绿科技发展有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>35.47 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京洁绿科技发展有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>29.27 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京洁绿科技发展有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.00 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.00 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>36.62 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京洁绿科技发展有限公司2013年偿债能力指标">
+    <enterprise:流动比率>202.04 </enterprise:流动比率>
+    <enterprise:速动比率>166.59 </enterprise:速动比率>
+    <enterprise:资产负债率>43.00 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>17.55 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京洁绿科技发展有限公司2014年偿债能力指标">
+    <enterprise:流动比率>201.69 </enterprise:流动比率>
+    <enterprise:速动比率>164.54 </enterprise:速动比率>
+    <enterprise:资产负债率>41.71 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>21.47 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京洁绿科技发展有限公司2015年偿债能力指标">
+    <enterprise:流动比率>225.97 </enterprise:流动比率>
+    <enterprise:速动比率>175.27 </enterprise:速动比率>
+    <enterprise:资产负债率>39.29 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>52.91 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京洁绿科技发展有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>54.63 </enterprise:毛利率>
+    <enterprise:成本费用利润率>79.77 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.77 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-40.03 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.45 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京洁绿科技发展有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>45.01 </enterprise:毛利率>
+    <enterprise:成本费用利润率>58.17 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.62 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>11.95 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>12.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京洁绿科技发展有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>42.36 </enterprise:毛利率>
+    <enterprise:成本费用利润率>64.56 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.79 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>83.76 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>6.34 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>0.00 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京洁绿科技发展有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>1083.09 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>200.00 </enterprise:应收票据>
+    <enterprise:应收账款>2223.45 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>5316.12 </enterprise:其他应收款>
+    <enterprise:存货>1877.42 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>10700.08 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2845.93 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>772.40 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>194.95 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>99.93 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3913.21 </enterprise:非流动资产合计>
+    <enterprise:资产总计>14613.29 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京洁绿科技发展有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2145.78 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>135.00 </enterprise:应收票据>
+    <enterprise:应收账款>3870.05 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>3851.09 </enterprise:其他应收款>
+    <enterprise:存货>2258.27 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>12260.19 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>89.44 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2618.45 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>737.69 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>124.06 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>157.05 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3726.69 </enterprise:非流动资产合计>
+    <enterprise:资产总计>15986.88 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京洁绿科技发展有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>7337.03 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>4502.76 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>407.83 </enterprise:其他应收款>
+    <enterprise:存货>3542.97 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>15790.59 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>231.82 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>2431.32 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>702.97 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>53.17 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>78.82 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>3498.10 </enterprise:非流动资产合计>
+    <enterprise:资产总计>19288.69 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京洁绿科技发展有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1300.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1583.32 </enterprise:应付账款>
+    <enterprise:预收款项>2362.01 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>204.30 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>489.80 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>139.20 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6078.63 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>590.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>590.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6668.63 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6300.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>308.76 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2778.86 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9387.62 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9387.62 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16056.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京洁绿科技发展有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1300.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>1583.32 </enterprise:应付账款>
+    <enterprise:预收款项>2362.01 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>204.30 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>489.80 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>139.20 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6078.63 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>590.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>590.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>6668.63 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6300.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>308.76 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>2778.86 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9387.62 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9387.62 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>16056.25 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京洁绿科技发展有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>800.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3349.36 </enterprise:应付账款>
+    <enterprise:预收款项>1890.28 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>202.02 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>598.97 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>147.21 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>6987.84 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>590.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>590.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>7577.84 </enterprise:负债合计>
+    <enterprise:实收资本或股本>6300.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>552.69 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>4974.19 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>11826.88 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>11826.88 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>19404.72 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京洁绿科技发展有限公司2013年利润表">
+    <enterprise:营业收入>7170.59 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>3253.42 </enterprise:营业成本>
+    <enterprise:主营业务成本>3253.42 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>146.24 </enterprise:营业税金及附加>
+    <enterprise:销售费用>406.05 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>2142.52 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>73.96 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>397.22 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2893.70 </enterprise:营业利润>
+    <enterprise:营业外收入>203.10 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.94 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>3094.86 </enterprise:利润总额>
+    <enterprise:所得税费用>103.28 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2991.58 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2991.58 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京洁绿科技发展有限公司2014年利润表">
+    <enterprise:营业收入>7694.11 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>4230.92 </enterprise:营业成本>
+    <enterprise:主营业务成本>4230.92 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>135.32 </enterprise:营业税金及附加>
+    <enterprise:销售费用>516.33 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1794.63 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>77.57 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>380.77 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>-18.56 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>2334.64 </enterprise:营业利润>
+    <enterprise:营业外收入>551.97 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>1.43 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>2885.18 </enterprise:利润总额>
+    <enterprise:所得税费用>137.23 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>2747.95 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>2747.95 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京洁绿科技发展有限公司2015年利润表">
+    <enterprise:营业收入>11484.94 </enterprise:营业收入>
+    <enterprise:主营业务收入>0.00 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>6619.36 </enterprise:营业成本>
+    <enterprise:主营业务成本>6619.36 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>180.67 </enterprise:营业税金及附加>
+    <enterprise:销售费用>506.40 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>1891.61 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>45.44 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>-517.78 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>-29.62 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>4621.23 </enterprise:营业利润>
+    <enterprise:营业外收入>128.29 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>3.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>4746.52 </enterprise:利润总额>
+    <enterprise:所得税费用>415.65 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>4330.87 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>4330.87 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京洁绿科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>5489.62 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>1411.63 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>6901.25 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3018.90  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>836.33 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>257.48 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>4908.37 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>9021.08 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-2119.83 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>373.20 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>373.20 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-373.20 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>3282.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>4282.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>920.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>72.58 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>992.58 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>3289.42 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>796.39 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京洁绿科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>4767.77 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>2373.71 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>7141.48 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>2794.31  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>988.37 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>223.48 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2409.10 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>6415.26 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>726.22 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>27.17 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>108.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>135.17 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-135.17 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1600.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1600.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1180.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>68.04 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1248.04 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>351.96 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>943.01 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京洁绿科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>9096.02 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>4485.63 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>13581.65 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>3825.28  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>1013.04 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>580.23 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2309.85 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>7728.40 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>5853.25 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>1096.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>1096.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>18.67 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>172.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>190.67 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>905.33 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>900.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>900.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1400.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>65.84 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>1465.84 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-565.84 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>6192.74 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="北京洁绿科技发展有限公司被投资单位：珠海京珠绿江科技有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>珠海京珠绿江科技有限公司</enterprise:名称>
+	<enterprise:单位代码>—</enterprise:单位代码>
+	<enterprise:被投资金额>100.00万元</enterprise:被投资金额>
+	<enterprise:股权比率>%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：杨帆 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨帆 </enterprise:股东名称>
+	 <enterprise:货币>189.00万元时间：2016-05-30</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>100%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：赵凤秋 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赵凤秋 </enterprise:股东名称>
+	 <enterprise:货币>3937.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>51.14%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：北京逐舜投资中心（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京逐舜投资中心（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>1260.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>16.36%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：天津天创华鑫现代服务产业创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津天创华鑫现代服务产业创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>315.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：张涛 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张涛 </enterprise:股东名称>
+	 <enterprise:货币>315.0万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>4.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：天津天创保鑫创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津天创保鑫创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>267.75万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>3.48%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：宁波天创鼎鑫股权投资管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>宁波天创鼎鑫股权投资管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>157.5万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.05%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：天津天创鼎鑫创业投资管理合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>天津天创鼎鑫创业投资管理合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>47.25万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.61%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：光控郑州国投新产业投资基金合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>光控郑州国投新产业投资基金合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：青岛金石灏汭投资有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>青岛金石灏汭投资有限公司 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京洁绿科技发展有限公司股东：李金峰 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>李金峰 </enterprise:股东名称>
+	 <enterprise:货币>未公开</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>未公开</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:员工基本信息 rdf:ID="北京洁绿科技发展有限公司的员工基本信息">
+	<enterprise:有从业人数>151</enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:111,25岁以下:27,45岁以上:13</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:66,高中及以下:38,专科:47</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:11,技术人员:101,作业人员:39</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:137人,未参加:14人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京洁绿科技发展有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>较好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>公司上下游畅通，经营情况较好</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京洁绿科技发展有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>北京中科通用能源环保有限责任公司、北京环卫集团</enterprise:现有主要客户>
+	<enterprise:目前经营状况>较好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京洁绿科技发展有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>无</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京洁绿科技发展有限公司的企业类型">
+	<enterprise:企业类型>中关村高新技术企业 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京洁绿科技发展有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>无。 
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京洁绿科技发展有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京洁绿科技发展有限公司的企业法人代表：赵风秋">
+	<enterprise:名称>赵风秋</enterprise:名称>
+	<enterprise:性别>女</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>46</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>—</enterprise:出生年月>
+	<enterprise:身份证号码>—</enterprise:身份证号码>
+	<enterprise:政治面貌>—</enterprise:政治面貌>
+	<enterprise:学历>硕士研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>—</enterprise:职称>
+	<enterprise:现任职务>董事长兼总经理</enterprise:现任职务>
+	<enterprise:联系电话>—</enterprise:联系电话>
+	<enterprise:传真>—</enterprise:传真>
+	<enterprise:E-mail>—</enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作>发明专利：一种垃圾渗滤液处理工艺</enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>—</enterprise:奖惩情况>
+	<enterprise:经历>1999.4 2000.3 北京泰克尼环保设备有限公司 技术工程师 
+2000.4 2006.1 北京肇麟环境技术开发公司 技术研发负责人 
+2006.2 至今 北京洁绿科技发展有限公司 董事长兼总经理 
+起止日期 在何地区何部门 任何职务 
+— — — —</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:下属单位 rdf:ID="北京洁绿科技发展有限公司的下属单位：无">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>无</enterprise:名称>
+	<enterprise:主要职能>—</enterprise:主要职能>
+	<enterprise:业务往来频繁程度>—</enterprise:业务往来频繁程度>
+</enterprise:下属单位>
+<enterprise:税务  rdf:ID="北京洁绿科技发展有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无欠税</enterprise:欠税信息>
+	<enterprise:有其它信息>无</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>1211万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>462万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京洁绿科技发展有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务></enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型></enterprise:有供应商类型>
+	<enterprise:有交易地位></enterprise:有交易地位>
+	<enterprise:有议价能力></enterprise:有议价能力>
+	<enterprise:有延期支付></enterprise:有延期支付>
+	<enterprise:有上年度发生额></enterprise:有上年度发生额>
+	<enterprise:有上年度支付额></enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额></enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额></enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京洁绿科技发展有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>无</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:预测项目  rdf:ID="北京洁绿科技发展有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>14000.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京洁绿科技发展有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>2100.00</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京洁绿科技发展有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="北京洁绿科技发展有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>—</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:商标数量 rdf:ID="北京洁绿科技发展有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京洁绿科技发展有限公司的网站备案数量">
+	<enterprise:网站备案总计>1</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>1</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

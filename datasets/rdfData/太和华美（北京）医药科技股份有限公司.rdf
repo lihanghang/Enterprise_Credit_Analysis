@@ -1,0 +1,1262 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="太和华美（北京）医药科技股份有限公司的企业概况">
+    <enterprise:有名称>太和华美（北京）医药科技股份有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBBzc-</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>北京市工商行政管理局海淀分局</enterprise:有登记机关>
+    <enterprise:有中征码>1101020001300702</enterprise:有中征码>
+    <enterprise:有基本账户开户行>兴业银行北京花园路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>41</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2004-06-02</enterprise:有注册登记日期>
+    <enterprise:有注册资本>550万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>长期</enterprise:有营业执照到期日>
+    <enterprise:有股本>550万元</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术咨询、技术推广；货物进出口、技术进出口、代理进出口；销售化工产品（不含危险化学品及一类易制毒化学品）、计算机、软件及辅助设备、电子产品、办公用机械、塑料制品、仪器仪表；自然科学研究与实验发展；销售医疗器械Ⅱ类Ⅲ类，《以医疗器械经营企业许可证》核定的范围为准。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）技术开发、技术咨询、技术推广；货物进出口、技术进出口、代理进出口；销售化工产品（不含危险化学品及一类易制毒化学品）、计算机、软件及辅助设备、电子产品、办公用机械、塑料制品、仪器仪表；自然科学研究与实验发展；销售医疗器械Ⅱ类Ⅲ类，《以医疗器械经营企业许可证》核定的范围为准。（依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>医疗器械高新技术产品的技术开发、技术咨询、技术推广；产品的售前售后服务。</enterprise:有主营业务>
+    <enterprise:有行业分类>生物工程</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区花园路3号院内4号楼307、308室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区花园路3号院内4号楼307、308室</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100191</enterprise:有邮政编码>
+    <enterprise:有联系人>英培娜</enterprise:有联系人>
+    <enterprise:有联系电话>62376862</enterprise:有联系电话>
+    <enterprise:有传真电话>62379237</enterprise:有传真电话>
+    <enterprise:有E-mail>yingpeina@huameibio.com</enterprise:有E-mail>
+    <enterprise:有网址>www.huameibio.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>太和华美（北京）医药科技股份有限公司
+是北京太和东方投资管理有限公司控股的高新
+技术企业，主要生产、经营分子生物学试剂、
+免疫学试剂、实验室耗材、仪器，代理国外十
+几个知名品牌的产品，服务于生命科学基础研
+究领域。
+公司现有职工45人，大专以上学历或中级
+以上技术职称的人员比例为95%，年销售额在国
+内市场名列前茅，是众多国内外知名公司首选
+合作伙伴。
+公司独家代理或一级签约代理的品牌包括N
+UNC——细胞培养耗材、Amresco——
+常备生化试剂，大量原装现货、Nalgene——
+实验室常用耗材、Merck（Calbiochem、Novage
+n）——
+生化试剂、蛋白研究、抑制剂、Sartorius——
+过滤、超滤产品，微生物检验，离心机，纯水
+机等、USbio——抗体、蛋白、Biozyme——
+生化酶原料、Bioind——
+血清、培养基、支原体处理、Thermo移液器、
+海尔冰箱及经销各种进口品牌。
+2014年的销售收入是40,193,203.01元，20
+15年的销售收入是48,073,135.33，与上年同比
+增长20%；截止2016年9月的实现销售收入39,69
+2,146.27元。
+2014年的净利润648，282.91元，2015年的
+净利润377,905.00元，截止2016年9月实现净利
+润-1,482,519.17元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="太和华美（北京）医药科技股份有限公司的基础素质">
+    <enterprise:有管理素质>太和华美（北京）医药科技股份有限公司
+法人代表吴飙，男，1968年3月出生，高级工程
+师，北京大学国际EMBA。中国医药质量管理协
+会副会长、中国医药生物技术协会常务理事、
+中国生物工程学会理事。《中国生物技术发展
+报告》体外诊断试剂篇撰稿人之一；《北大论
+剑》编委会委员。《RNase 
+Inhibitor》研制，获国家高新技术展评会奖励
+。现任公司总经理，公司实际管理者，具有十
+分丰富的行业专业知识和行业经验。
+公司的其他几位高管均具备较为丰富的专
+业技术和从业经验，有利于公司的稳定发展。</enterprise:有管理素质>
+    <enterprise:有人员素质>太和华美（北京）医药科技股份有限公司
+十分注重产品的研发，对新产品的研究开发给
+予高度重视。公司组建了生产研究中心，汇聚
+了一批硕士研究生及业内资深专家的技术研发
+团队。公司现有职工45人，大专以上学历或中
+级以上技术职称的人员比例为95%。科研人员中
+包括张树庸，中科院教授；孟颂东，中科院教
+授；吴飙，太和华美公司总经理；吴晓庞，太
+和华美公司技术研发项目经理。
+公司核心研发人员从业经验较为丰富，有
+利于公司技术研发的顺利进行。</enterprise:有人员素质>
+    <enterprise:有科研条件>太和华美（北京）医药科技股份有限公司
+具有一定的研发条件。公司拥有较好的研发条
+件，保证了技术研发的力度和更新速度。2015
+年公司研发投入80万元，能够保证研发工作的
+顺利进行。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="太和华美（北京）医药科技股份有限公司的经营管理">
+    <enterprise:其经营分析为>太和华美（北京）医药科技股份有限公司
+成立于2004年，是为生命科学研究提供高端设
+备、耗材、试剂的高新技术企业。通俗讲，就
+是为所有生命科学领域内的“瞪羚企业”提供
+粮草。公司独家代理或一级签约代理的品牌包
+括NUNC——细胞培养耗材、Amresco——
+常备生化试剂，大量原装现货、Nalgene——
+实验室常用耗材、Merck（Calbiochem、Novage
+n）——
+生化试剂、蛋白研究、抑制剂、Sartorius——
+过滤、超滤产品，微生物检验，离心机，纯水
+机等、USbio——抗体、蛋白、Biozyme——
+生化酶原料、Bioind——
+血清、培养基、支原体处理、Thermo移液器、
+海尔冰箱及经销各种进口品牌。
+目前公司由两个法人股东和三位自然人股
+东构成。其中北京太和东方投资管理有限公司
+占比62.73%、赢正科技（北京）有限公司占比0
+.91%；吴飙占比20.91%；葛红民占比15.09%；
+张树庸各占比0.36%。
+2015年的销售收入是4807.31万元，比2014
+年的4042.36万元有所增加，增幅为18.92%，说
+明公司经营状况良好。
+图1：公司近三年营业收入（万元）
+数据来源：公司提供财务报表
+公司采购主要是常备货实验室耗材，采购
+商包括美国的默克和Amresco，以及中国的上海
+的赛默飞世尔和安迪生物等，供货效果良好。
+付款方式主要是货到付款。上游产品对公司账
+期时间不长。
+公司产品中的实验室试剂、耗材等目前主
+要客户包括心肺血管疾病研究所、中科院生物
+物理所等研发机构；仪器的主要客户包括天津
+市康婷生物工程有限公司、中科院生物物理所
+、新乡医学院等。公司对客户主要是批发及零
+售。收款周期中，医院约为3-
+6个月，科研院校约为2-3个月。
+总体来看，目前公司具有一定技术优势和
+客户基础，有利于公司业务的持续发展。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>太和华美（北京）医药科技股份有限公司
+组织机构完整，建立了完善的法人治理结构。
+公司设董事会，负责执行股东会决议，负责对
+公司的战略规划、经营方针、财务法律、安全
+生产、技术革新、对外交易等内部管理工作提
+供总体规划和合理建议。公司设监事，依法对
+公司的财务、业务状况，董事、总经理及其他
+高管人员是否履行职责情况和股东会决议执行
+等情况进行合理、合法的监督。公司无董事、
+经理兼任监事现象。
+目前公司按照现代企业制度的要求建立起
+较为规范的管理体系，有比较完善的组织架构
+及高管团队，生产经营各方面运转情况良好。
+公司建立了完善的现代管理制度，明确职能部
+门的划分和岗位职责，定岗定责，各职能部门
+间各司其责联系紧密。
+公司根据经营目标和员工个人状况，量才
+使用，人尽其才，发挥个人特长，体现个人价
+值。在一定程度上促使员工将公司的成功当成
+自己的义务，鼓励其创造性，营造和谐向上的
+工作氛围，培养了员工积极向上的作风。
+在员工权益保障方面，公司按照国家规定
+保障员工各项福利待遇，并按期为员工提供身
+体健康检查，有利于调动员工工作积极性，确
+保了公司整体经营管理的稳定性和长远性。
+在合同管理方面，公司在对外交易时，做
+到所有交易均通过书面合同形式来确定双方权
+责，在一定程度上积极有效的杜绝和减少交易
+的风险隐患。公司有较严格的合同管理制度，
+并严格按照制度执行，体现了公司良好的商业
+信誉。
+总体来说，公司信用管理体系流程基本建
+立，合同管理状况总体情况良好。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>“十二五”期间，我国生物医药产业将进
+入以“量的规模扩张和质的起步追赶”为核心
+内容的整体提升阶段。近年来，我国生物医药
+产业保持高速增长。2010年生物医药产业完成
+总产值11934亿元，占全国GDP比重达到3%；“
+十一五”期间产值年均增长23.8%，市场规模从
+全球第九位上升到第三位。“十二五”时期，
+国内市场需求的快速增长为产业发展带来机遇
+和提供推进动力。
+受人口老龄化、人均用药水平的不断提高
+、用药的疾病谱变化和新医改政策的刺激等因
+素的影响，生物医药市场需求将强劲增长。根
+据国家规划，到“十二五”末，生物医药产业
+规模将达到3万亿元，复合增长率20%以上；形
+成10－20个龙头企业，产业集中度明显提高；
+研发投入强度显著提高，产业化技术和装备研
+制水平和配套性大幅提升。形成8－10家具有国
+际水平的创新药物企业研发平台。有30个以上
+自主知识产权新药投放市场，有30个制剂产品
+进入国际主流市场。在产业规模扩张的同时，
+我国生物医药产业原创能力较弱的状况将有所
+改变，在中低端产品产业化水平继续提高的基
+础上，在少数创新产品领域有所突破。改变新
+技术、新装备主要依赖进口的状况，在部分尚
+未形成垄断的领域占有一席之地，从而由生物
+医药产业发展的初级阶段进入质的起步提升阶
+段。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="太和华美（北京）医药科技股份有限公司的财务分析">
+    <enterprise:资产质量及流动性>图2：公司资产质量及流动性指标图
+表1:公司资产质量及流动性指标表
+  项　目 2013年 2014年 2015年
+资产总额(万元) 1561.65 2180.71 2738.01 
+应收账款(万元) 300.85 630.94 905.53 
+存货(万元) 754.96 963.75 1122.97 
+流动资产(万元) 1551.64 2161.28 2707.53 
+固定资产(万元) 10.01 7.90 18.99 
+无形资产(万元) 0.00 0.00 0.00 
+应收账款周转率(次) 11.35 8.68 6.26 
+总资产周转率(次) 2.06 2.16 1.95 
+数据来源：公司提供财务报表
+随着公司的不断发展，资产总额也稳步增
+加，目前以流动资产为主。2013年至2015年资
+产总额分别是1561.65万元、2180.71万元和273
+8.01万元，持续增长，增幅分别为40.66%和18.
+92%，说明公司经营规模不断增加。
+截止2015年末，公司资产总计为2738.01万
+元，由流动资产和非流动资产构成。其中流动
+资产占总资产的98.89%，主要由货币资金、应
+收账款、预付账款、存货、其他应收款和其他
+流动资产构成；其中存货占比最大，约占流动
+资产的41.48%，一部分存货是公司为降低采购
+成本而前期采购的代理产品。一部分为公司采
+购进来的半成品，这部分半成品将进行加工后
+进行销售。这部分资金会对企业资金形成一定
+占压。公司货币资金占流动资产的比重约为8%
+，主要是银行存款及现金，这部分资产变现能
+力较强。
+非流动资产占比1.11%，主要由固定资产和
+递延所得税资产构成，其中固定资产占比较大
+，主要是一些公司研发设备及办公设备等。
+从公司总资产周转率来看，2015年数值为1
+.95次，较2014年的2.16次相比有所减小，主要
+是公司资产总额的平均增幅大于营业收入的增
+幅所致，说明公司运用总资产获取利润的能力
+在减弱。
+2015年末，公司的应收账款占流动资产比
+重为33.44%，较2014年的29.19%相比有所增大
+，主要是随着营业收入的增长而形成的应收款
+项。欠款单位主要包括天津长和生物技术有限
+公司、成都军辉生物医学研究所、62039部队等
+主要客户。从欠款单位性质来看，形成坏账的
+风险不大。公司与客户的合同账期大多为当月
+或下个月。科研院校账期约为2-
+3个月，安全型较高。医院客户账期约为3-
+6个月。客户的性质决定企业坏账风险不大，且
+公司特别设定了信用专员，对应收账款的管理
+能力较高。
+综合来看，公司资产结构较为合理，基本
+不存在不良资产。但存货占流动资产比重较大
+，资金流动性尚有进一步提升的空间。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>图4：公司偿债能力指标图
+表3：公司偿债能力指标表
+项　目 2013年 2014年 2015年
+负债总额(万元) 970.66 1591.60 1796.11 
+资产负债率(%) 62.16 72.99 65.60 
+预收账款(万元) 0.00 895.52 996.82 
+速动比率(倍) 0.82 0.75 0.88 
+现金流动负债比(%) -5.72 1.26 -29.79 
+数据来源：公司提供财务报表
+公司2015年末负债总额1796.11万元。从负
+债结构来看，全部由流动负债构成。其中流动
+负债主要包括短期借款、应付账款、预收账款
+、应付职工薪酬、应交税费和其他应付款构成
+。其中预收账款占比最大，主要是客户提前支
+付的货款。
+公司长期偿债能力尚可，目前没有负债压
+力，具有一定的融资空间。公司2013年至2015
+年的资产负债率分别是62.16%、72.99%和65.60
+%，三年数值呈波动态势，但均基本保持在行业
+正常水平，说明公司长期偿债压力尚可，公司
+长期偿债能力一般，具有一定的融资空间。
+公司运用现金流来保障企业按期偿还到期
+债务的能力一般。从短期偿债能力指标中最重
+要的速动比率指标来看，2013年到2015年，公
+司速动比率分别为0.82、0.75和0.88，三年数
+值呈波动态势，但均基本保持在行业正常范围
+内，说明公司短期偿债压力不大。结合现金流
+动负债比来看，公司2015年的现金流动负债比
+为负，主要是经营支出较大所致。公司目前尚
+具有一定的筹资能力，目前用于短期债务支付
+的能力基本可以得到保障。
+2015年末，公司无对外担保事项。</enterprise:偿债能力>
+    <enterprise:财务弹性>公司成立以来，业务规模不断扩大，对资
+金需求也在不断增加。截止2015年末，公司短
+期借款共计300万元，是金融机构保证借款，
+贷款利率为基准利率上浮20%。
+公司有303.73万元的应付账款，主要是对
+供应商默克、科萌普瑞、昭天伟业等单位在账
+期内应付的采购款。公司还有996.82万元的预
+收账款，主要是客户天津市康婷生物工程有限
+公司、中国科学院生物物理研究所、北京市心
+肺血管疾病研究所等单位提前支付的货款。公
+司具有能够从上下游企业获得资金融通的能力
+，在一定程度上缓解了自身的资金压力。
+一般来说，一个企业如果完全通过权益资
+本筹集资金显然是不明智的，因为其筹集方式
+使之不能得到负债经营的好处。公司如果能够
+通过投资、外部借款、获得上下游企业账期等
+途径增加资金融通渠道，会进一步扩大经营规
+模，有利于公司的进一步发展。</enterprise:财务弹性>
+    <enterprise:盈利能力>图3：公司盈利能力指标图
+表2：公司盈利状况分析
+项　目 2013年 2014年 2015年
+主营业务收入(万元) 2873.93 4042.36 4807.31 
+主营业务利润(万元) 463.98 577.00 721.67 
+营业利润(万元) 48.86 73.73 40.52 
+净利润(万元) 58.62 56.83 37.79 
+主营业务利润率(%) 16.14 14.27 15.01 
+净资产收益率(%) 10.44 9.63 4.94 
+总资产报酬率(%) 5.80 5.07 3.39 
+成本费用利润率(%) 2.77 1.96 1.09 
+数据来源：公司提供财务报表
+随着公司竞争实力的不断增强和业务的不
+断拓展。公司2015年主营业务收入较上一年度
+有所增加。2013年至2015年公司主营业务收入
+分别为2873.93万元、4042.36万元和4807.31
+万元，2015年增幅为18.92%，说明公司经营业
+绩良好。
+2015年公司主营业务利润为721.67万元，
+也较上一年度的577.00万元有所增长。且公司
+主营业务利润也由2014年的14.27%增大至2015
+年的15.01%，说明公司主营业务成本控制得当
+。 
+公司对成本费用的控制能力在减弱。从公
+司的成本费用利润率来看，2015年成本费用利
+润率为1.09%，数值较上一年度的1.96%相比有
+所减小，说明公司在经营过程中的各项费用在
+增长。
+公司运用全部资产的盈利能力尚有进一步
+提升的空间。从资产的综合利用效率指标分析
+，2015年的总资产报酬率为3.39%，数值较上一
+年度的5.07%相比有所减小。说明公司经营期间
+全部资产从投入到产出的流转速度尚有待加快
+，全部资产的管理质量和利用效率尚有进一步
+提升的空间。
+综合分析，尽管公司营业收入在快速增长
+，但各项费用也增幅明显，公司整体盈利能力
+略有减弱。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="太和华美（北京）医药科技股份有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>公司经营状况受行业政策和主要客户变动影响
+。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>公司营业收入在增长，但各项费用也增幅明显
+，公司整体盈利能力略有减弱。
+公司存货占流动资产比重较大，资金流动性尚
+有进一步提升的空间。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2013年基本财务指标">
+    <enterprise:资产总额>15616480.30 </enterprise:资产总额>
+    <enterprise:所有者权益>5909912.94 </enterprise:所有者权益>
+    <enterprise:负债总额>9706567.36 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>28739299.20 </enterprise:营业收入>
+    <enterprise:EBITDA>80.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2014年基本财务指标">
+    <enterprise:资产总额>21807057.60 </enterprise:资产总额>
+    <enterprise:所有者权益>5891088.23 </enterprise:所有者权益>
+    <enterprise:负债总额>15915969.38 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>40423554.97 </enterprise:营业收入>
+    <enterprise:EBITDA>94.91 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2015年基本财务指标">
+    <enterprise:资产总额>27380095.16 </enterprise:资产总额>
+    <enterprise:所有者权益>9418993.23 </enterprise:所有者权益>
+    <enterprise:负债总额>17961101.93 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>48073135.33 </enterprise:营业收入>
+    <enterprise:EBITDA>83.36 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>2.06 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>11.35 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.18 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>2.16 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>8.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.02 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.95 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.26 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>3.90 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>5.80 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.80 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>9.92 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>5.07 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>5.07 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>9.65 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>3.39 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>3.39 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>4.01 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2013年偿债能力指标">
+    <enterprise:流动比率>159.85 </enterprise:流动比率>
+    <enterprise:速动比率>82.08 </enterprise:速动比率>
+    <enterprise:资产负债率>62.16 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>12.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2014年偿债能力指标">
+    <enterprise:流动比率>135.79 </enterprise:流动比率>
+    <enterprise:速动比率>75.24 </enterprise:速动比率>
+    <enterprise:资产负债率>72.99 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>16.77 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="太和华美（北京）医药科技股份有限公司2015年偿债能力指标">
+    <enterprise:流动比率>150.74 </enterprise:流动比率>
+    <enterprise:速动比率>88.22 </enterprise:速动比率>
+    <enterprise:资产负债率>65.60 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>21.55 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>16.35 </enterprise:毛利率>
+    <enterprise:成本费用利润率>2.77 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.97 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>18.15 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-</enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>14.51 </enterprise:毛利率>
+    <enterprise:成本费用利润率>2.20 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.20 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>14.51 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>40.66 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>24.36 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="太和华美（北京）医药科技股份有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>15.26 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1.22 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.10 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>24.16 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>18.92 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>25.07 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="太和华美（北京）医药科技股份有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>946593.47 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>3008515.97 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>2642080.46 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1150974.25 </enterprise:其他应收款>
+    <enterprise:存货>7549585.43 </enterprise:存货>
+    <enterprise:待摊费用>195763.49 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>22889.05 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>15516402.12 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>100078.18 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>100078.18 </enterprise:非流动资产合计>
+    <enterprise:资产总计>15616480.30 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="太和华美（北京）医药科技股份有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2791995.95 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>6309393.95 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1194099.42 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>1265633.01 </enterprise:其他应收款>
+    <enterprise:存货>9637465.62 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>414227.86 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>21612815.81 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>79008.30 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>115233.49 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>194241.79 </enterprise:非流动资产合计>
+    <enterprise:资产总计>21807057.60 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="太和华美（北京）医药科技股份有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2212351.22 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>9055300.53 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>1636400.42 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>2392063.02 </enterprise:其他应收款>
+    <enterprise:存货>11229712.21 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>549441.22 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>27075268.62 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>189910.82 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>114915.72 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>304826.54 </enterprise:非流动资产合计>
+    <enterprise:资产总计>27380095.16 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="太和华美（北京）医药科技股份有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3335552.51 </enterprise:应付账款>
+    <enterprise:预收款项>8955207.19 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>232154.88 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>179017.23 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2214037.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>15915969.38 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>15915969.38 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4600000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>101938.35 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1189149.88 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>5891088.23 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>5891088.23 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>21807057.61 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="太和华美（北京）医药科技股份有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3335552.51 </enterprise:应付账款>
+    <enterprise:预收款项>8955207.19 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>232154.88 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>179017.23 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>2214037.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>15915969.38 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>15915969.38 </enterprise:负债合计>
+    <enterprise:实收资本或股本>4600000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>101938.35 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1189149.88 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>5891088.23 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>5891088.23 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>21807057.61 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="太和华美（北京）医药科技股份有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>3000000.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>3037342.04 </enterprise:应付账款>
+    <enterprise:预收款项>9968205.71 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>326538.68 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>228565.97 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>1400449.53 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>17961101.93 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>17961101.93 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5500000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>2250000.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>139728.85 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>1529264.38 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>9418993.23 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>9418993.23 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>27380095.16 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="太和华美（北京）医药科技股份有限公司2013年利润表">
+    <enterprise:营业收入>28739299.20 </enterprise:营业收入>
+    <enterprise:主营业务收入>28739299.20 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>24039591.11 </enterprise:营业成本>
+    <enterprise:主营业务成本>24039591.11 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>59956.26 </enterprise:营业税金及附加>
+    <enterprise:销售费用>4124127.48 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>0.00 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>27066.59 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>488557.76 </enterprise:营业利润>
+    <enterprise:营业外收入>293695.60 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>593.64 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>781659.72 </enterprise:利润总额>
+    <enterprise:所得税费用>195414.93 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>586244.79 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>586244.79 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="太和华美（北京）医药科技股份有限公司2014年利润表">
+    <enterprise:营业收入>40423554.97 </enterprise:营业收入>
+    <enterprise:主营业务收入>40423554.97 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>34556180.51 </enterprise:营业成本>
+    <enterprise:主营业务成本>34556180.51 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>97385.43 </enterprise:营业税金及附加>
+    <enterprise:销售费用>577781.09 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>4215432.24 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>171392.63 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>737274.92 </enterprise:营业利润>
+    <enterprise:营业外收入>51098.30 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>10671.20 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>777702.02 </enterprise:利润总额>
+    <enterprise:所得税费用>209368.48 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>568333.54 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>568333.54 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="太和华美（北京）医药科技股份有限公司2015年利润表">
+    <enterprise:营业收入>48073135.33 </enterprise:营业收入>
+    <enterprise:主营业务收入>48073135.33 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>40735146.04 </enterprise:营业成本>
+    <enterprise:主营业务成本>40735146.04 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>121278.58 </enterprise:营业税金及附加>
+    <enterprise:销售费用>1235409.39 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5261817.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>315586.71 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>405168.28 </enterprise:营业利润>
+    <enterprise:营业外收入>117729.37 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>4871.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>518026.65 </enterprise:利润总额>
+    <enterprise:所得税费用>140121.65 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>377905.00 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>377905.00 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年太和华美（北京）医药科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年太和华美（北京）医药科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年太和华美（北京）医药科技股份有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:被投资单位 rdf:ID="太和华美（北京）医药科技股份有限公司被投资单位：中生华美（北京）科学器材有限公司">
+	<enterprise:序号>1</enterprise:序号>
+	<enterprise:名称>中生华美（北京）科学器材有限公司</enterprise:名称>
+	<enterprise:单位代码>91110108MA002MX08Y</enterprise:单位代码>
+	<enterprise:被投资金额>200万元</enterprise:被投资金额>
+	<enterprise:股权比率>100%</enterprise:股权比率>
+</enterprise:被投资单位>
+<enterprise:股东 rdf:ID="太和华美（北京）医药科技股份有限公司股东：北京太和东方投资管理有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>北京太和东方投资管理有限公司 </enterprise:股东名称>
+	 <enterprise:货币>345.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>62.73%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="太和华美（北京）医药科技股份有限公司股东：吴飙 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>吴飙 </enterprise:股东名称>
+	 <enterprise:货币>115.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>20.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="太和华美（北京）医药科技股份有限公司股东：葛红民 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>葛红民 </enterprise:股东名称>
+	 <enterprise:货币>83.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>15.09%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="太和华美（北京）医药科技股份有限公司股东：赢正科技（北京）有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>赢正科技（北京）有限公司 </enterprise:股东名称>
+	 <enterprise:货币>5.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.91%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="太和华美（北京）医药科技股份有限公司股东：张树庸 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>张树庸 </enterprise:股东名称>
+	 <enterprise:货币>2.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.36%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="太和华美（北京）医药科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-5-7</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>16896138</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="太和华美（北京）医药科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-5-7</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>16895910</enterprise:有注册号>
+	<enterprise:有类别>01-化工原料试剂</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="太和华美（北京）医药科技股份有限公司的商标信息：图形">
+	<enterprise:有申请日期>15-5-7</enterprise:有申请日期>
+	<enterprise:有商标名称>图形</enterprise:有商标名称>
+	<enterprise:有注册号>16895943</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待注册证发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:网站备案 rdf:ID="太和华美（北京）医药科技股份有限公司的网站备案：中生华美（北京）科技有限公司">
+	<enterprise:有审核时间>11-7-6</enterprise:有审核时间>
+	<enterprise:有网站全称>中生华美（北京）科技有限公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.huameibio.com</enterprise:有网站首页>
+	<enterprise:有域名>huameibio.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备11025330号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="太和华美（北京）医药科技股份有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="太和华美（北京）医药科技股份有限公司的主营业务（产品）">
+	<enterprise:是否发生变化>否</enterprise:是否发生变化>
+	<enterprise:生产经营是否正常>是</enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势>良好</enterprise:发展趋势>
+	<enterprise:主营业务具体情况>生物治疗有良好的发展前景，生物科研领域在不断扩大     
+，太和华美依靠高技术和高素质人才为基础，得到迅速发展的机遇</enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="太和华美（北京）医药科技股份有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失>否</enterprise:是否减少或流失>
+	<enterprise:现有主要客户>中科院系统、医科院系统、大专院校 、生物制药企业   
+目前经营状况：      良好                
+ (4)经营趋势分析
+项目 2016年 2017年 2018年
+签约量（可分类） 60000000 71000000 91000000
+履约量（实际完成 58000000
+）
+在执行量 11892000
+收入 53,333,333.33
+利润 200,000.00
+四、企业信用状况
+1.税务信息
+（国税）海淀区十所 登记证号 110108763543134
+税务机关
+（地税）海淀上地税务所 纳税信用A级企业 ■是    □否
+欠税信息 无
+其他信息
+主要税种及税率 增值税17%   服务6%
+上年度缴税额 1,064,434.42元
+上年末应交额 127,364.48元
+2.经营性负债偿付情况
+采购业务（接受劳务） 采购
+供应商类型 贸易供应商和厂家供应商
+付款方式 预付和到付账期 交易地位 普通客户
+议价能力 强 延期支付 无
+上年度发生额 上年度支付额
+上年度应付账款变动额 上年末应付账款余额
+3.或有负债情况
+项目 金额 期限
+应收票据贴现或背书转让 无
+对外担保 无
+未决诉讼或仲裁 无
+4.借款人资信状况
+涉诉查询记录 无
+信用网查询记录 无
+纳税信用等级 无
+互联网查询情况 （关键字：荣誉、表彰、处罚、投诉等）-
+五、非经营性现金流入情况
+1.关联方资金流入情况
+关联方名称 资金流入金额 是否有息 偿付时间
+赢正科技（北京）有限公司 350万
+北京太和东方投资管理有限公司 200万
+2.非银行借款其他资金流入情况
+项目 资金流入金额 是否有息 偿付时间
+-
+3.现金流预测
+项目 本年 未来第一年 备注
+预测合同额
+预测收入 5300万 7000万
+预测净利润 20万 100万
+预测成本、费用支出 5280万 6900万
+经营性流入 6917万 7200万
+经营性流出 6942万 7300万
+经营性净流量 -25万 -100万
+筹资性流入
+筹资性流出
+筹资性净流量
+投资性流入
+投资性流出
+投资性净流量
+项目
+用款计划及还款来源说明：  还款来源于公司经营收入        
+附录二 基本信息
+表1  企业概况
+企业名称 太和华美（北京）医药科技股份有限公司 组织机构代码 91110108763543134C
+登记机关 北京市工商行政管理局海淀分局 登记注册号 91110108763543134C
+贷款卡编码 1101020001300702 税务登记证号码 110108763543134
+基本账户行 兴业银行北京花园路支行 从业人数（人） 41
+注册登记日期 2004-06-02 注册资本（万元） 550万元
+营业执照到期日 长期 实收资本（万元） 550万元
+技术开发、技术咨询、技术推广；货物进出口、技术进出口、代理进出口；销售化工产品（
+不含危险化学品及一类易制毒化学品）、计算机、软件及辅助设备，电子产品、办公用机械
+经营范围
+、塑料制品、仪器仪表；自然科学研究与实验发展；销售医疗器械Ⅱ类Ⅲ类，以《医疗器械
+经营许可证》核定的范围为准</enterprise:现有主要客户>
+	<enterprise:目前经营状况>良好</enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="太和华美（北京）医药科技股份有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化>否</enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施>是</enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况>面对竞争变和外部条件变化，采取加强内部管理机制，扩大市场宣传等一系列应对
+措施</enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="太和华美（北京）医药科技股份有限公司的企业类型">
+	<enterprise:企业类型>瞪羚企业 中关村高新技术企业 中关村代办股权转让系统挂牌 </enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="太和华美（北京）医药科技股份有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况>鼓励 </enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段>成长期 </enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况>                                
+</enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="太和华美（北京）医药科技股份有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局>完全竞争 </enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势>价格竞争 产品差异化竞争 </enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="太和华美（北京）医药科技股份有限公司的企业法人代表：杨哲">
+	<enterprise:名称>杨哲</enterprise:名称>
+	<enterprise:性别>男</enterprise:性别>
+	<enterprise:民族>汉</enterprise:民族>
+	<enterprise:年龄>35</enterprise:年龄>
+	<enterprise:国籍>中国</enterprise:国籍>
+	<enterprise:出生年月>198102</enterprise:出生年月>
+	<enterprise:身份证号码>130524198102020015</enterprise:身份证号码>
+	<enterprise:政治面貌>群众</enterprise:政治面貌>
+	<enterprise:学历>研究生</enterprise:学历>
+	<enterprise:学位>硕士</enterprise:学位>
+	<enterprise:职称>无</enterprise:职称>
+	<enterprise:现任职务>董事,法人</enterprise:现任职务>
+	<enterprise:联系电话>18611128500</enterprise:联系电话>
+	<enterprise:传真>62379237</enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况>无</enterprise:奖惩情况>
+	<enterprise:经历>2015年5月至今 北京太和东方投资管理有限公司 总经理
+2016.1-至今 太和华美（北京）股份有限公司 董事长
+2013年4月2015年4月 南山集团资本投资有限公司 副总经理
+2009年12月至2013年3月 银行创新资本管理有限公司 执行总经理
+起止日期 在何地区何部门 任何职务</enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="太和华美（北京）医药科技股份有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>是</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>无</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税17%及6%；所得税15%</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>130万元</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>114万元</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="太和华美（北京）医药科技股份有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>等；技术服务</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>科技公司、电子公司、通讯公司、航空器材公司</enterprise:有供应商类型>
+	<enterprise:有交易地位>甲方</enterprise:有交易地位>
+	<enterprise:有议价能力>固定折扣</enterprise:有议价能力>
+	<enterprise:有延期支付>2周-2个月</enterprise:有延期支付>
+	<enterprise:有上年度发生额>7725876.92</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>9107612.47</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>9056776.88</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>1046479.00</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="太和华美（北京）医药科技股份有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>无</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>无</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）-</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:负债情况  rdf:ID="太和华美（北京）医药科技股份有限公司的负债情况-应收票据贴现或背书转让">
+	<enterprise:负债项目名称>应收票据贴现或背书转让</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="太和华美（北京）医药科技股份有限公司的负债情况-对外担保">
+	<enterprise:负债项目名称>对外担保</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:负债情况  rdf:ID="太和华美（北京）医药科技股份有限公司的负债情况-未决诉讼或仲裁">
+	<enterprise:负债项目名称>未决诉讼或仲裁</enterprise:负债项目名称>
+	<enterprise:负债项目金额>无</enterprise:负债项目金额>
+	<enterprise:负债项目期限></enterprise:负债项目期限>
+</enterprise:负债情况>
+<enterprise:关联方资金流入情况  rdf:ID="太和华美（北京）医药科技股份有限公司的关联方信息">
+	<enterprise:关联方名称>赢正科技（北京）有限公司</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>350万</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息></enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间></enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:关联方资金流入情况  rdf:ID="太和华美（北京）医药科技股份有限公司的关联方信息">
+	<enterprise:关联方名称>北京太和东方投资管理有限公司</enterprise:关联方名称>
+	<enterprise:关联方资金流入金额>200万</enterprise:关联方资金流入金额>
+	<enterprise:关联方是否有息></enterprise:关联方是否有息>
+	<enterprise:流入金额偿还时间></enterprise:流入金额偿还时间>
+</enterprise:关联方资金流入情况 >
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5300万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>20万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>5280万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>6917万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>6942万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2016年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-25万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2016年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：预测收入">
+	<enterprise:预测项目名称>预测收入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>7000万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：预测净利润">
+	<enterprise:预测项目名称>预测净利润</enterprise:预测项目名称>
+	<enterprise:预测项目金额>100万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：预测成本、费用支出">
+	<enterprise:预测项目名称>预测成本、费用支出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>6900万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：经营性流入">
+	<enterprise:预测项目名称>经营性流入</enterprise:预测项目名称>
+	<enterprise:预测项目金额>7200万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：经营性流出">
+	<enterprise:预测项目名称>经营性流出</enterprise:预测项目名称>
+	<enterprise:预测项目金额>7300万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:预测项目  rdf:ID="太和华美（北京）医药科技股份有限公司2017年的预测项目：经营性净流量">
+	<enterprise:预测项目名称>经营性净流量</enterprise:预测项目名称>
+	<enterprise:预测项目金额>-100万</enterprise:预测项目金额>
+	<enterprise:预测项目年限>2017年</enterprise:预测项目年限>
+</enterprise:预测项目>
+<enterprise:商标数量 rdf:ID="太和华美（北京）医药科技股份有限公司的商标数量">
+	<enterprise:商标总计>3</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>3</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="太和华美（北京）医药科技股份有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

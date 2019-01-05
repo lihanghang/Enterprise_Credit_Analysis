@@ -1,0 +1,1194 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="联泰集群（北京）科技有限责任公司的企业概况">
+    <enterprise:有名称>联泰集群（北京）科技有限责任公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>-</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>-</enterprise:有中征码>
+    <enterprise:有基本账户开户行>-</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>-</enterprise:有注册登记日期>
+    <enterprise:有注册资本>-</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>100.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务；计算机技术培训；基础软件服务；计算机系统服务；销售自行开发后的产品、计算机、软件及辅助设备；租赁计算机、通讯设备；机械设备租赁（不含汽车租赁）；代理进出口、货物进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术转让、技术咨询、技术服务；计算机技术培训；基础软件服务；计算机系统服务；销售自行开发后的产品、计算机、软件及辅助设备；租赁计算机、通讯设备；机械设备租赁（不含汽车租赁）；代理进出口、货物进出口、技术进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>-</enterprise:有行业分类>
+    <enterprise:有注册地址>-</enterprise:有注册地址>
+    <enterprise:有通讯地址>-</enterprise:有通讯地址>
+    <enterprise:有邮政编码>-</enterprise:有邮政编码>
+    <enterprise:有联系人>-</enterprise:有联系人>
+    <enterprise:有联系电话>-</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>-</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>联泰集群（北京）科技有限责任公司成立
+于2008年05月30日，公司原注册地址为北京市
+海淀区中关村大街18号中关村科贸电子城四层B
+047，后于2015年5月变更为北京市海淀区中关
+村东路8号东升大厦A座902室，法定代表人为杨
+玉良。公司初始注册资本为10万元，后经三次
+增资，现注册资本为1001万元，股东及其出资
+情况如表一所示。
+表一：公司股东出资及持股情况（单位：万元、%）
+股东名称 出资额 出资比例 出资形式
+398 39.76 货币
+杨政和
+601 60.04 知识产权
+杨玉良 1 0.10 货币
+吴艳华 1 0.10 货币
+联泰集群成立时专注于服务器、工作站、
+存储产品和高性能计算领域，主要提供基于高
+端服务器和高端工作站存储项目的实施和技术
+服务，2012年开始致力于高性能计算软件开发
+，生产服务器等硬件设备，为客户提供整体的
+解决方案和系统集成服务，并为用户提供超级
+工作站、大数据存储和云计算、高性能计算解
+决方案，代理英特尔工作站、NVIDIA、超微服
+务器。2013年12月，公司产品“存储服务器”
+通过中国国家强制性产品认证（CCC）；2015年
+9月，通过ISO14001:2004环境管理体系认证和I
+SO9001:2008质量管理体系认证；2015年11月，
+通过北京市科学技术委员会等四部门组织的“
+高新技术企业”认定；2016年9月，通过 
+“中关村高新技术企业”认定。
+截至2015年底，联泰集群资产总额为1467.
+63万元，净资产为991.57万元；2015年公司累
+计实现主营业务收入2196.91万元，利润总额为
+1.20万元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="联泰集群（北京）科技有限责任公司的基础素质">
+    <enterprise:有管理素质>联泰集群总经理杨政和先生，毕业于中国
+人民大学，研究生学历。2008年5月协同股东吴
+艳华和杨玉良出资创办公司，并担任总经理至
+今，主要负责公司经营管理以及主导销售、技
+术开发工作。杨政和先生长期从事数据中心、H
+PC软件及服务、大数据性能分析、优化、挖掘
+等方面的工作，提出并实现多项技术创新。在
+职期间参与了集群管理系统、集群作业调度系
+统、私有云平台、HPC作业监控系统等项目的研
+发与实施。杨政和先生在经营管理以及技术开
+发方面均具备一定的实力和经验，有利于公司
+经营业务的开展。
+公司副总经理刘振锋先生，本科学历，200
+7年7月-
+2015年8月担任环达电脑(上海)有限公司北京办
+事处中国区技术支持经理；2015年9月加入公司
+，担任副总经理。刘振锋先生熟悉项目运作流
+程，有丰富的项目管理知识，能够制定硬件产
+品技术方案及产品规格。刘振锋先生专业素质
+较高，能够对公司经营发展起到较好的促进作
+用。
+公司销售总监商丘林先生，本科学历，200
+8年10月-
+2012年7月担任惠普中国渠道销售经理；2012年
+8月至今担任公司销售总监。商丘林先生熟悉现
+代管理模式，可熟练运用各种激励措施，拥有
+丰富的市场营销策划经验，能够识别、确定潜
+在的商业合作伙伴，熟悉行业市场发展现状，
+对公司经营业绩的增长具有积极影响。
+公司财务总监李同燕女士，1998年2月-
+2014年5月担任北京江裕映美科技有限公司财务
+经理；现担任公司财务总监。李同燕女士熟悉
+国家财税法律规范、财务核算、财务管理、分
+析等财务制度和业务，熟悉国家会计法规，了
+解税务法规和相关税收政策；熟悉银行业务和
+报税流程，财务管理经验丰富，对公司财务管
+理起到积极作用。
+公司行政总监关一波女士，本科学历，201
+1年3月-
+2015年4月担任北京北斗方圆电子科技有限公司
+行政总监；2015年5月至今担任公司行政总监。
+关一波女士对企业人力资源管理模式有系统的
+了解和实践经验，对人力资源管理事务性的工
+作有娴熟的处理技巧，熟悉人事工作流程，熟
+悉国家、地区及企业关于合同管理、薪金制度
+、用人机制、保险福利和培训方针。关一波女
+士行政管理经验丰富。
+总体看，联泰集群核心管理人员从事相关
+工作多年，具有丰富的工作和管理经验，能够
+较好的满足公司目前的经营管理需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>联泰集群现有员工23人，其中从事研发工
+作的7人，占员工总人数的30.43%。从学历构成
+来看，研发人员中博士1人、硕士1人、本科4人
+、专科1人；从职称构成来看，2人拥有中级职
+称。
+公司技术总监郑谦先生，毕业于清华大学
+，博士学位，2008年4月-
+2009年7月，郑先生担任大展信息科技(深圳)有
+限公司系统分析师；2009年10月-
+2011年5月担任乐蜂网产品高级经理；2011年6
+月至今担任公司技术总监，主要研究如何通过
+编译技术、运行系统等手段来优化程序，提高
+程序的性能和可扩展性，参与过清华大学并行
+计算集群项目、中国人民解放军装备学院高性
+能并行计算机集群项目、中国人民解放军63831
+部队20万亿次计算集群项目、四川农业大学高
+性能并行计算机集群项目。
+公司技术部经理吉管良先生，毕业于北京
+师范大学，获得 RED HAT CERTIFIED 
+ENGINEER及 RED HAT CERTIFIED ARCHITECT 
+认证。2008年11月-
+2010年8月，吉先生担任北京趣拿信息技术有限
+公司产品经理；2010年9月-
+2012年5月，担任北京优视风尚汽车文化传播有
+限公司技术部经理；2012年6月至今，担任公司
+技术部经理，负责公司HPC项目的整体实施及客
+户培训工作，参与产品测试及项目验收，并编
+写测试用例、测试进度和测试报告。吉管良先
+生参与过清华大学并行计算集群项目、中国人
+民解放军装备学院高性能并行计算机集群项目
+、中国人民解放军63831部队20万亿次计算集群
+项目、四川农业大学高性能并行计算机集群项
+目，具有丰富高性能计算、集群项目的实施经
+验。
+整体看，联泰集群技术人员专业素质较高
+，经验丰富，有利于公司研发工作的顺利进行
+。</enterprise:有人员素质>
+    <enterprise:有科研条件>联泰集群组建了一支专业的研发队伍，研
+发工作主要依托自有的核心研发人员掌握的专
+业知识，总经理杨政和先生、技术总监郑谦先
+生和技术部经理吉管良先生等均为公司的技术
+开发提供了保障。2016年公司积极建立数据中
+心实验室，主要为计算服务提供相应的硬件设
+施，保证产品质量和服务质量。
+联泰集群的硬件产品包括服务器和工作站
+，其中，服务器分为塔式服务器、机架式服务
+器、存储服务器、直立式服务器、刀片服务器
+等。公司的服务器可用于大中型企业各种入门
+级应用、关键应用，能满足客户初级图形处理
+需求和客户全方位需求。
+近两年公司注重知识产权的申请，现已获
+得6项计算机软件著作权，具体内容如附表二所
+示。
+总体看，联泰集群依托自身研发人员开展
+研发工作，研发成果的推出产生了相应的市场
+效益，近期收入有明显的提升。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="联泰集群（北京）科技有限责任公司的经营管理">
+    <enterprise:其经营分析为>联泰集群成立之初业务以提供IT服务为主
+，后因几年的服务经验，深入的了解客户多重
+需求，于2012年积极投入研发，形成提供IT服
+务和销售软硬件产品为一体的格局。公司是一
+家IT服务和软硬件产品提供商，IT服务主要体
+现在为客户提供高性能计算整体解决方案和系
+统集成服务，软件产品主要是为客户开发高性
+能计算软件，硬件产品主要是生产服务器、工
+作站、存储，以及代理销售英特尔工作站、NVI
+DIA、超微服务器。通过代理销售品牌产品，在
+一定程度可提高客户对其产品的认可度，加之
+近几年公司投入精力进行自主研发，目的是在
+提供IT服务的同时，通过自有产品满足客户更
+多的需求，解决客户对高性能计算解决方案和
+产品的双重需求问题。
+采购方面，联泰集群主要采购适用于硬件
+产品的配件和代理的产品，配件采购部分需要
+进口，主要通过国内代理商采购。代理的产品
+主要供货商为美国超微，配件供应商主要为北
+京神州腾飞科技有限公司、北京蓝科视讯科技
+有限公司等。付款时，联泰集群代理的产品采
+用现款现货，配件供应商一般会给予公司1个月
+的账期。
+生产方面，联泰集群的生产场地位于水清
+木华园和永丰高新技术产业基地，主要负责产
+品的生产、软件测试，具有操作台、测试机房
+、数控设备等设施。公司两个生产基地共占地1
+000多平米，均为租赁获得，生产人员10人左右
+。
+销售方面，联泰集群的客户以高校、科研
+院所、政府部门（税务局、发改委等）及大型
+企业为主，其产品主要通过销售和租赁的形式
+供客户使用，租赁期根据客户的需求，未明确
+规定租赁时间，销售主要通过自主销售和发展
+代理商的形式，以代理商为主，在全国已有50
+多家代理商，主要是考虑到对代理商采用预收
+全款，账款回收较及时，自主销售除公司销售
+人员负责市场拓展外，在上海等地设有办事处
+，可覆盖更多的区域，自主销售公司采用预收3
+0%的款项，验收合格后收取剩余款项，公司提
+供的质保期为3年。为保证客户能合理的利用产
+品，公司销售人员会对直接客户和代理商进行
+培训。
+联泰集群在高性能计算机与技术领域积累
+了丰富的经验，针对客户的应用需求，提供硬
+件设备、软件产品以及IT技术支持，且依托于
+清华信息国家实验室公共平台与技术研究部的
+技术实力，整合英特尔等配套厂家的资源为众
+多高性能工作负载的客户提供了较好的服务及
+具有竞争优势的价格。从主营业务可以看出，
+联泰集群的服务过程主要涵盖了从提供单机服
+务器、工作站、存储，到多机集群系统，从硬
+件的搭建，网络的调优，到软件的部署，为公
+司获取更多的订单创造了条件。
+图一：公司2013-
+2015年主营业务收入、利润总额、总资                        
+产、净资产发展状况趋势（万元）
+从近三年经营情况看，联泰集群总资产和
+净资产稳定增长，为其持续经营奠定了基础，
+但依照公司当前的资产规模和业务规模看，仍
+属于中小型企业，市场竞争力优势不明显。公
+司近三年实现的主营业务收入不甚稳定，2014
+年较2013年收入下降达到34.44%，主要是2014
+年公司将更多的精力投身于研发工作以及申报
+自主知识产权，为后续获取更多的订单奠定基
+础，从2015年收入回升的状况看，公司自主研
+发的产品市场反响有所显现，但因公司除自主
+研发外，代理部分国外品牌，加之人员成本、
+生产成本处于较高值，造成综合成本加速提升
+，现阶段公司获取利润的能力偏弱。
+总体看，联泰集群在主营业务领域经营多
+年，以提供服务和销售产品相结合，有利于帮
+助客户解决双重需求问题，从而获得更多的订
+单，其收入有所回升，但利润维持较低值，显
+示出其经营质量欠佳。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>股东会是联泰集群的权力机构，下设执行
+董事、经理和监事，实行总经理负责制，内部
+设有销售部、技术部、财务部、运营部和行政
+部职能部门。根据自身管理的需要，公司对日
+常管理、安全管理、内部管理、市场推广和财
+务管理等方面制定有管理制度，明确了工作职
+责、工作任务和业务流程。联泰集群在经营过
+程中逐步形成了适应自身发展的管理模式、规
+章制度和业务流程。
+从管理效果看，联泰集群2013-
+2015年管理费用率分别为1.28%、2.76%和9.55%
+，公司管理费用控制能力较好；同期成本率分
+别为99.87%、99.57%和99.95%，作为集服务、
+研发、生产和代理于一身的公司，人员、科研
+经费、生产成本以及采购成本持续高涨，加之
+市场竞争激烈，在价格上亦有相应的退让，现
+阶段投入和产出基本持平，致使获取的利润处
+于较低值。
+从运营效率看，联泰集群2013-
+2015年应收账款周转率分别为4.78次、2.49次
+和6.85次，公司代理商回款较及时，但自主销
+售的客户回款相对滞后，公司总体回款相对较
+好；同期存货周转率分别为112.31次、14.93次
+和5.66次，2015年因市场状况趋好，公司备货
+相应的增加，该部分资产周转效率较好；同期
+总资产周转率分别为2.46次、0.98次和1.60次
+，资产运营效率尚可。
+总体看，联泰集群组织机构设置趋于合理
+，管理制度逐步完善，管理费用控制能力较好
+，但成本控制能力偏弱。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一段时期，公司在保持原有业务的同
+时，将完善硬件产品规模化品质，开发应用软
+件模块，并向云平台方向发展。公司计划西安
+、成都、长沙、深圳等地设立分公司或办事处
+，进行市场推广。
+2016年，联泰集群计划实现主营业务收入3
+000万元，利润总额较2015年有所提升，但仍可
+能为微利。截至2016年8月底，联泰集群已实现
+主营业务收入1928.83万元，利润总额4.42万元
+。结合公司2015年的收入增幅、已实现的收益
+以及未来发展状况看，该经营预期实现的可能
+性较大。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="联泰集群（北京）科技有限责任公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，联泰集群资产总额分别为930.01万元
+、1276.05万元和1467.63万元，2013年和2014
+年均由流动资产构成，2015年总资产由流动资
+产、固定资产和无形资产构成。2015年流动资
+产占总资产的65.19%；固定资产占0.11%，为办
+公设备，2013年和2014年无固定资产，主要是
+财务人员记账的问题，现该财务人员已离职；
+无形资产占34.70%，主要是软件，2014年公司
+开始申报自主知识产权，2015年获得6项计算机
+软件著作权。
+截至2015年底，联泰集群流动资产为956.6
+7万元，主要由货币资金、应收账款、预付账款
+和存货等构成。其中，货币资金占流动资产的1
+3.55%；应收账款占流动资产的23.13%，主要债
+务人为西北工业大学、北京航天联志科技有限
+公司、北京康邦科技有限公司、海克斯康和清
+华大学，从账龄构成看，应收账款账龄均在一
+年以内，占比较小，公司销售债权保障程度较
+好；预付账款占流动资产的5.56%；存货占流动
+资产的57.08%，2015年公司市场销售趋好，公
+司亦加大了备货量，该部分资产质量较好。
+与年初相比，截至2016年8月底，联泰集群
+流动资产增至1337.48万元，主要是预付账款的
+增加所致，市场需求量的加大，公司采购量亦
+不断增长，因此预付账款的增长与其经营情况
+相符。
+总体看，联泰集群资产质量和流动性较好
+。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，联泰集群的流动比率分别为1.09倍、1
+.44倍和2.01倍；同期，速动比率分别为1.09倍
+、1.28倍和0.86倍，公司短期支付能力尚可。
+2013-
+2015年，联泰集群的息税折旧摊销前盈余EBITD
+A分别为2.10万元、4.61万元和92.87万元，虽
+有所提升，但现阶段公司经营活动获取盈余的
+能力仍不强，不利于公司偿债能力的提升。
+截至报告日，联泰集群无有息债务负担，
+短期内无具体的融资计划。
+综合考虑联泰集群目前的经营状况、管理
+状况、盈利状况、财务结构等因素，君维诚认
+为联泰集群未来存在发生信用风险的可能性。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，联泰集群负债总额分别为855.23万元
+、888.17万元和476.06万元，均由流动负债构
+成；同期资产负债率分别为91.96%、69.60%和3
+2.44%，2015年公司负债较轻，但2016年8月底
+的资产负债率为44.95%，负债水平有所提升。
+截至2015年底，联泰集群流动负债为476.0
+6万元，主要由应付账款、预收账款和其他应付
+款构成，其中，应付账款占流动负债的45.03%
+，主要债权人为美国超微、鼎泽科技、东海巨
+星、天成益达和闪联纵横等，主要是尚未偿付
+的采购款；预收账款占流动负债的7.42%；其他
+应付款占流动负债的51.40%。
+总体看，联泰集群负债压力尚可，近期公
+司股东注资以及收入有所回升，其具备一定的
+债务融资能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，联泰集群实现的主营业务收入分别为1
+648.90万元、1080.95万元和2196.91万元，收
+入不甚稳定，主要是2014年公司将更多的精力
+投身于研发工作以及申报自主知识产权，为后
+续获取更多的订单奠定基础，从2015年收入回
+升的状况看，公司自主研发的产品市场反响有
+所显现；同期主营业务利润率分别为2.73%、5.
+22%和12.03%，呈增长趋势，但公司主营业务获
+利能力仍偏弱。
+2013-
+2015年，公司总资产报酬率分别为0.23%、0.36
+%和0.08%；同期净资产收益率分别为2.80%、0.
+89%和0.09%，公司的资产每年均有稳定的增长
+，但获取的利润一直不甚稳定且处于较低值，
+公司利用资产获利能力较弱。
+图二：公司2013-2015年盈利状况（万元，%）
+总体看，联泰集群主营业务收入有所回升
+，但整体获利能力仍偏弱。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="联泰集群（北京）科技有限责任公司的风险揭示">
+    <enterprise:信用风险及合规性风险>无。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>无</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>无</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>无</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2013年基本财务指标">
+    <enterprise:资产总额>930.01 </enterprise:资产总额>
+    <enterprise:所有者权益>74.78 </enterprise:所有者权益>
+    <enterprise:负债总额>855.22 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1648.90 </enterprise:营业收入>
+    <enterprise:EBITDA>2.10 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2014年基本财务指标">
+    <enterprise:资产总额>1276.04 </enterprise:资产总额>
+    <enterprise:所有者权益>387.87 </enterprise:所有者权益>
+    <enterprise:负债总额>888.18 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>1080.95 </enterprise:营业收入>
+    <enterprise:EBITDA>4.61 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2015年基本财务指标">
+    <enterprise:资产总额>1467.63 </enterprise:资产总额>
+    <enterprise:所有者权益>991.57 </enterprise:所有者权益>
+    <enterprise:负债总额>474.24 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>2196.91 </enterprise:营业收入>
+    <enterprise:EBITDA>92.87 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2013运营能力指标">
+    <enterprise:总资产周转次数>2.46 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>4.78 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>112.31 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.98 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>2.49 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>14.93 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2015运营能力指标">
+    <enterprise:总资产周转次数>1.60 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>6.85 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.66 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>2.80 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.23 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>30.86 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>1.19 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.36 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>8.52 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>0.12 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>0.08 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>21.21 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2013年偿债能力指标">
+    <enterprise:流动比率>108.75 </enterprise:流动比率>
+    <enterprise:速动比率>108.56 </enterprise:速动比率>
+    <enterprise:资产负债率>91.96 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2014年偿债能力指标">
+    <enterprise:流动比率>143.67 </enterprise:流动比率>
+    <enterprise:速动比率>128.42 </enterprise:速动比率>
+    <enterprise:资产负债率>69.60 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="联泰集群（北京）科技有限责任公司2015年偿债能力指标">
+    <enterprise:流动比率>201.73 </enterprise:流动比率>
+    <enterprise:速动比率>86.58 </enterprise:速动比率>
+    <enterprise:资产负债率>32.31 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>2.77 </enterprise:毛利率>
+    <enterprise:成本费用利润率>1.42 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>46.42 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-36.57 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>5.36 </enterprise:毛利率>
+    <enterprise:成本费用利润率>3.27 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>-34.44 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>119.99 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="联泰集群（北京）科技有限责任公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>12.18 </enterprise:毛利率>
+    <enterprise:成本费用利润率>10.60 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>0.00 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>103.24 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-73.97 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="联泰集群（北京）科技有限责任公司2013年资产负债表（资产）">
+    <enterprise:货币资金>99.20 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>448.45 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>360.22 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>20.55 </enterprise:其他应收款>
+    <enterprise:存货>1.59 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>930.01 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>930.01 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="联泰集群（北京）科技有限责任公司2014年资产负债表（资产）">
+    <enterprise:货币资金>185.71 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>419.71 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>472.83 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>62.34 </enterprise:其他应收款>
+    <enterprise:存货>135.45 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>1276.04 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.00 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>0.00 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>0.00 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1276.04 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="联泰集群（北京）科技有限责任公司2015年资产负债表（资产）">
+    <enterprise:货币资金>129.61 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>221.28 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>53.23 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>6.46 </enterprise:其他应收款>
+    <enterprise:存货>546.10 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>956.68 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1.62 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>509.33 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>510.95 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1467.63 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="联泰集群（北京）科技有限责任公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>540.21 </enterprise:应付账款>
+    <enterprise:预收款项>251.44 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.06 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>96.47 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>888.18 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>888.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-12.13 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>387.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>387.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1276.05 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="联泰集群（北京）科技有限责任公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>540.21 </enterprise:应付账款>
+    <enterprise:预收款项>251.44 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>0.06 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>96.47 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>888.18 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>888.18 </enterprise:负债合计>
+    <enterprise:实收资本或股本>400.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-12.13 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>387.87 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>387.87 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1276.05 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="联泰集群（北京）科技有限责任公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>214.35 </enterprise:应付账款>
+    <enterprise:预收款项>35.34 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-20.15 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>244.70 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>474.24 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>474.24 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1001.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>0.00 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-9.43 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>991.57 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>991.57 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1465.81 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="联泰集群（北京）科技有限责任公司2013年利润表">
+    <enterprise:营业收入>1648.90 </enterprise:营业收入>
+    <enterprise:主营业务收入>1648.90 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1603.18 </enterprise:营业成本>
+    <enterprise:主营业务成本>1603.18 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.74 </enterprise:营业税金及附加>
+    <enterprise:销售费用>21.63 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>20.99 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.27 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>23.08 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>23.08 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>23.08 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>23.08 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="联泰集群（北京）科技有限责任公司2014年利润表">
+    <enterprise:营业收入>1080.95 </enterprise:营业收入>
+    <enterprise:主营业务收入>1080.95 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1022.97 </enterprise:营业成本>
+    <enterprise:主营业务成本>1022.97 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>1.59 </enterprise:营业税金及附加>
+    <enterprise:销售费用>22.14 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>29.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.03 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>34.22 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>34.22 </enterprise:利润总额>
+    <enterprise:所得税费用>1.18 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>33.04 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>33.04 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="联泰集群（北京）科技有限责任公司2015年利润表">
+    <enterprise:营业收入>2196.91 </enterprise:营业收入>
+    <enterprise:主营业务收入>2196.91 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>1929.27 </enterprise:营业成本>
+    <enterprise:主营业务成本>1929.27 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>3.25 </enterprise:营业税金及附加>
+    <enterprise:销售费用>53.31 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>209.41 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.48 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>210.60 </enterprise:营业利润>
+    <enterprise:营业外收入>0.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>210.60 </enterprise:利润总额>
+    <enterprise:所得税费用>0.30 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>210.30 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>210.30 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年联泰集群（北京）科技有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年联泰集群（北京）科技有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年联泰集群（北京）科技有限责任公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>0.00 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>0.00 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>0.00 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>0.00  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>0.00 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>0.00 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>0.00 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>0.00 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>0.00 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>0.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>0.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>0.00 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>0.00 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="联泰集群（北京）科技有限责任公司股东：杨政和 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨政和 </enterprise:股东名称>
+	 <enterprise:货币>999.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>99.80%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="联泰集群（北京）科技有限责任公司股东：杨玉良 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>杨玉良 </enterprise:股东名称>
+	 <enterprise:货币>2.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>0.20%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：联泰集群">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>联泰集群</enterprise:有商标名称>
+	<enterprise:有注册号>19296753</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：LTHPC">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>LTHPC</enterprise:有商标名称>
+	<enterprise:有注册号>19296952</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：LTHPC">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>LTHPC</enterprise:有商标名称>
+	<enterprise:有注册号>19296952A</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：联泰集群">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>联泰集群</enterprise:有商标名称>
+	<enterprise:有注册号>19296753</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：联泰集群">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>联泰集群</enterprise:有商标名称>
+	<enterprise:有注册号>19296753</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：LTHPC">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>LTHPC</enterprise:有商标名称>
+	<enterprise:有注册号>19296952</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：LTHPC">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>LTHPC</enterprise:有商标名称>
+	<enterprise:有注册号>19296952</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>申请收文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：LTHPC">
+	<enterprise:有申请日期>16-3-14</enterprise:有申请日期>
+	<enterprise:有商标名称>LTHPC</enterprise:有商标名称>
+	<enterprise:有注册号>19296952A</enterprise:有注册号>
+	<enterprise:有类别>35-广告、销售、商业服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请等待驳回复审</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：联泰集群 LINKTEL">
+	<enterprise:有申请日期>10-4-15</enterprise:有申请日期>
+	<enterprise:有商标名称>联泰集群 LINKTEL</enterprise:有商标名称>
+	<enterprise:有注册号>8210975</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>打印驳回或部分驳回通知书</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="联泰集群（北京）科技有限责任公司的商标信息：金奥玛">
+	<enterprise:有申请日期>08-7-15</enterprise:有申请日期>
+	<enterprise:有商标名称>金奥玛</enterprise:有商标名称>
+	<enterprise:有注册号>6841961</enterprise:有注册号>
+	<enterprise:有类别>17-绝缘材料</enterprise:有类别>
+	<enterprise:有流程状态>商标转让完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：算例课件管理平台">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>算例课件管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR122252</enterprise:有登记号>
+	<enterprise:有分类号>30100-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：联泰集群作业调度系统">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>联泰集群作业调度系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR122241</enterprise:有登记号>
+	<enterprise:有分类号>30200-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：联泰私有云系统">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>联泰私有云系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR121993</enterprise:有登记号>
+	<enterprise:有分类号>10101-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：集群教育培训管理系统">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>集群教育培训管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR122000</enterprise:有登记号>
+	<enterprise:有分类号>30100-8400</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：联泰HPC作业管理系统">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>联泰HPC作业管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR121890</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="联泰集群（北京）科技有限责任公司的软件著作：联泰集群监控系统">
+	<enterprise:有批准日期>15-7-2</enterprise:有批准日期>
+	<enterprise:有软件全称>联泰集群监控系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2015SR122012</enterprise:有登记号>
+	<enterprise:有分类号>30100-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="联泰集群（北京）科技有限责任公司的网站备案：联泰集群（北京）科技有限责任公司">
+	<enterprise:有审核时间>14-11-13</enterprise:有审核时间>
+	<enterprise:有网站全称>联泰集群（北京）科技有限责任公司</enterprise:有网站全称>
+	<enterprise:有网站首页>www.lthpc.com</enterprise:有网站首页>
+	<enterprise:有域名>lthpc.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备14005379号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="联泰集群（北京）科技有限责任公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="联泰集群（北京）科技有限责任公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="联泰集群（北京）科技有限责任公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="联泰集群（北京）科技有限责任公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="联泰集群（北京）科技有限责任公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="联泰集群（北京）科技有限责任公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="联泰集群（北京）科技有限责任公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="联泰集群（北京）科技有限责任公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="联泰集群（北京）科技有限责任公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码></enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>其他信息</enterprise:欠税信息>
+	<enterprise:有其它信息>主要税种及税率</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税17%、6%、3%</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>1119.50</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>2430.29</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="联泰集群（北京）科技有限责任公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>供应商类型</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>付款方式</enterprise:有供应商类型>
+	<enterprise:有交易地位>议价能力</enterprise:有交易地位>
+	<enterprise:有议价能力>延期支付</enterprise:有议价能力>
+	<enterprise:有延期支付>上年度发生额</enterprise:有延期支付>
+	<enterprise:有上年度发生额>上年度支付额</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>上年度应付账款变动额</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>上年末应付账款余额</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>3.或有负债情况（单位：万元）</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="联泰集群（北京）科技有限责任公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>信用网查询记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>纳税信用等级</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>互联网查询情况</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>（关键字：荣誉、表彰、处罚、投诉等）</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="联泰集群（北京）科技有限责任公司的软件著作数量">
+	<enterprise:软件著作总计>6</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>0</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>0</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>6</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:商标数量 rdf:ID="联泰集群（北京）科技有限责任公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="联泰集群（北京）科技有限责任公司的网站备案数量">
+	<enterprise:网站备案总计>1</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>1</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>

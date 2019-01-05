@@ -1,0 +1,1255 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京氢璞创能科技有限公司的企业概况">
+    <enterprise:有名称>北京氢璞创能科技有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>BBzc</enterprise:有信用等级>
+    <enterprise:有信用代码>911101085658443906</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110061073018010088637</enterprise:有中征码>
+    <enterprise:有基本账户开户行>京学清路支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>2010年11月15日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>1764.7721万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>300.00</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术推广、技术转让、技术咨询、技术服务；产品设计；市场调查；销售自行开发后的产品；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）技术开发、技术推广、技术转让、技术咨询、技术服务；产品设计；市场调查；销售自行开发后的产品；货物进出口、技术进出口、代理进出口。（企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。）...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>新能源产业</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区清华东路16号3号楼（中国矿业大学留学人员创业园）0506-5室</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区黑泉路8号康健宝盛广场D座4003</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100192</enterprise:有邮政编码>
+    <enterprise:有联系人>孟</enterprise:有联系人>
+    <enterprise:有联系电话>51077219-610</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.nowogen.com</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京氢璞创能科技有限公司成立于2010年1
+1月15日，注册地址为北京市海淀区清华东路16
+号3号楼（中国矿业大学留学人员创业园）0506
+-
+5室，法定代表人为欧阳洵。公司初始注册资本
+为300万元，后增资及股权变更，目前注册资本
+增至1764.7721万元，公司股东及持股情况如表
+一所示。
+表一：公司股东及持股情况
+股东名称 出资金额 出资形式
+货币、股权、知
+欧阳洵 671万元
+识产权
+江苏嘉和机械集团有
+290.8874万元 股权
+限公司
+中关村科技园区海淀
+36.6667万元 货币
+园创业服务中心
+东莞市容颜创业投资
+合伙企业（有限合伙 244.4593万元 货币
+）
+深圳市鹏远自动化设
+383.6461万元 货币
+备有限公司
+彭斌 138.1126万元 货币、股权
+氢璞创能主要从事燃料电池系统及其它新
+能源系统的技术研发、产品化、市场销售及服
+务等。2011年1月，氢璞创能获得“中关村高新
+技术企业”证书，并于2015年7月通过复核；20
+15年11月，被北京市科学技术委员会等四部门
+认定为“高新技术企业”。 
+截至2015年底，氢璞创能资产总额为1495.
+66万元，净资产为1211.89万元；2015年累计实
+现主营业务收入259.50万元，利润总额-
+336.21万元；2015年公司经营活动产生的现金
+流量净额为-
+207.61万元，投资活动产生的现金流量净额为-
+2.72万元，筹资活动产生的现金流量净额为215
+.95万元，现金及现金等价物净增加额为5.62万
+元。 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京氢璞创能科技有限公司的基础素质">
+    <enterprise:有管理素质>氢璞创能董事长兼总经理欧阳洵先生，拥
+有美国史提芬斯理工学院化工与材料博士学位
+，后至法国国家实验室担任博士后研究员，200
+5-
+2010年在美国IdaTech.LLC公司先后担任产品架
+构设计师、产品经理和高级化学工程师兼项目
+经理，2010年创立氢璞创能，并担任董事长兼
+总经理至今。目前欧阳先生还是中关村储能产
+业技术联盟专家委员会委员及中国电器工业协
+会会员。
+公司市场部副总经理程亚非先生，本科学
+历，1993-1999年在达州邮电局任职；1999-
+2010年起在中国移动四川达州分公司的网络部
+无线中心、优化中心、贯标办、市场部和集团
+客户部任职；2011年1月起担任氢璞创能市场副
+总经理。
+公司副总经理董瑞萍女士，本科学历，199
+3-
+1995年5月担任Syba中国有限公司财务经理；19
+95-
+2005年3月担任太平洋软件（中国）有限公司行
+政经理；2005-
+2008年担任新世纪太平洋软件公司财务经理；2
+008-
+2010年担任上海和达信息系统有限公司财务经
+理；2010年至今担任氢璞创能副总经理，负责
+公司综合部、财务部的管理工作。
+公司主要管理人员均拥有较为丰富的行业
+从业及管理经验，相互间协调性较好，能够满
+足公司目前经营发展需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>氢璞创能现有研发人员13人，占员工总数
+的68.42%。研发人员中拥有博士3人、硕士3人
+、学士7人；其中1人具有中级职称。
+公司董事长兼总经理欧阳洵先生，在多年
+的科研工作中积累了丰富的经验，并取得了多
+项发明专利，包括3项美国发明专利：US2010/0
+055518利用成熟廉价的铝制造工艺设计的燃料
+电池处理器；US2011/0136027适用于各种材料
+加工工艺的大范围输出功率的燃料电池重整器
+；US2012/0208099 
+该发明解决了基于天然气的燃料电池系统的燃
+料配比问题。国内专利包括有“一种燃料处理
+器以及一种生成氢气的方法”、“一种用于电
+动汽车的电池系统”、“燃料电池系统”、“
+温控型单体反应器”、“一种变压吸附气体提
+纯器”、“一种具有前置气体成份分离装置的P
+SA分离提纯器”和“一种低压水冷燃料电池电
+堆设计”。欧阳先生在2011年被扬州市人才工
+作领导小组评为“2010年度创业领军人才”并
+获得200万元的资助资金；2011年11月被确定为
+“江苏省高层次创新创业人才引进计划”引进
+人才；2012年7月被中关村国家自主创新示范区
+领导小组办公室审定为“2012年中关村高端领
+军人才”；2012年11月被认定为“北京市海外
+高层次人才”并被聘为“北京市特聘专家”；
+并于2015年3月被芜湖市聘为“5111”产业创新
+团队建设“氢燃料电动汽车研发创新团队”带
+头人。
+公司总工程师赖平化，拥有克劳斯塔尔工
+业大学(TU 
+Clausthal)机械自动化工程硕士学位，2009-
+2010年担任德国大众控股公司IAV工程师，期间
+做过汽车发动机主动震动平衡系统研发和主动
+噪声平衡ANC系统研发；2010年至今担任公司总
+工程师，参与了甲醇燃料电池的研发和应用。
+公司高级机械工程师付云鹏，毕业于北京
+工业大学，2004年起先后担任北京艾力克自动
+门制造有限公司技术部机械工程师、华北计算
+技术研究所专装技术研发部机械工程师和北京
+宣爱智能模拟技术有限公司机械部项目经理/高
+级机械工程师，2011年至今担任公司高级机械
+工程师，具有丰富的机械设计和工程经验。
+公司研发团队技术素质较高，基本能够满
+足公司研发需求。</enterprise:有人员素质>
+    <enterprise:有科研条件>及科研成果
+氢璞创能2013-
+2015年的研发费用投入分别为183万元、199万
+元和288万元，分别占当年销售总收入的248.74
+%、85.65%和110.98%，持续较高的研发投入能
+够满足其研发需求。
+公司目前处于产品研发阶段，有办公、研
+发实验室用房近300平方米，合作单位现建有10
+0平方米核心产品研发实验室及200平方米产品
+模块与系统性能实验室，另外在建的包括产品
+系统与部件寿命测试实验室、部件与系统环境
+测试实验室及5000平米生产车间。实验室现拥
+有高分辨率气相色谱仪2台、进口数字荧光混合
+示波器2台、美国国家仪器综合控制模块6套、
+进口综合数据采集器2台、进口烟气分析仪2台
+、进口电子直流负载2台、各类交流直流可控模
+拟与数字电源10台、测试用计算机20台、燃料
+处理器综合测试台2台、水冷电堆综合测试台2
+台等设备仪器。
+甲醇燃料电池是将清洁燃料甲醇通过电化
+学反应转化为电能的发电装置。该产品拥有很
+少的运动部件，可连续长时间发电，通过工信
+部测试认证，该产品可应用于通信基站主、数
+据机房UPS、应急发电车以及其他应急电源EPS
+。
+甲醇燃料电池电力方舱，是在标准集装箱
+基础上开发而成的一款应急发电设备，内置100
+0L燃料箱，至少可发电800度，采用扩展燃料箱
+，一次加注最多可提供2000度电力。适用于全
+天候的野外露天作业，具有整体性能稳定可靠
+，操作简便、噪音低、排放性好、维护性好等
+优点。
+氢燃料电池拥有完整的系统集成，系统包
+含了点位模块、主控模块、蓄电池模块、电流
+变换模块、氢源接口可接高压氢瓶、低压氢管
+路、现场制氢设备等。该产品可快捷充电、节
+能高效，功率输出大，安全、维护量低。
+甲醇制氢机是以清洁燃料甲醇为原料的制
+高纯氢的产品。此系列产品采用燃料重整和燃
+料提纯等核心技术，实现甲醇至99.999%超高纯
+度氢的制备。该产品体积小，成本低，寿命长
+，可远程监控，应用于燃料电池供氢、工业用
+氢、学校测试、现场加氢站、移动加氢车等。
+水冷燃料电池电堆，该产品在无尘的车间
+进行生产，适合各种水冷电堆配套，可与各种
+供氢系统配套，可与各种用电负载匹配和通信
+，应用于电动汽车、燃料电池汽车、燃料电池
+动力系统，可代替锂电池。
+便携式电源，该产品综合了燃料电池设计
+和固体储氢技术解决方案，为客户提供不间断
+电源且减轻了重量，便于携带和放置，可应用
+于军事、应急、野外救援、勘察和户外运动等
+领域。
+燃料电池测试平台，提供普通的燃料电池
+电堆测试功能，研究流量、温度、负载对电堆
+性能的影响；而且提供与微电网智能供电的控
+制、与各种氢源协调工作的接口和开发、提供C
+HP热交换的控制和附件。适合于燃料电池在微
+电网的应用研究。可根据客户需求进行该平台
+的改造。                                                                                                         
+截至报告日，氢璞创能共取得3项发明专利
+，分别为“一种燃料处理器以及一种生成氢气
+的方法”、“温控型单体反应器”和“一种变
+压吸附气体提纯器”。
+总体看，氢璞创能具有持续的研发投入能
+力，技术创新能力逐步增强，为其日后发展创
+造条件。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入></enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京氢璞创能科技有限公司的经营管理">
+    <enterprise:其经营分析为>氢璞创能主要经营燃料电池系统及其它新
+能源系统的技术研发、产品化、销售和服务等
+，主要方向为甲醇与氢气燃料电池系统。公司
+成立前期以清洁能源电池为核心研发，主要针
+对通信客户，近两年，公司逐步将市场转移至
+汽车行业客户，为汽车领域客户提供清洁能源
+发电设备。2015年，氢璞创能实现主营业务收
+入259.50万元，其中技术收入117万元左右，其
+余为产品销售收入；从收入构成来看，甲醇制
+氢机是公司的核心产品，形成收入132万元，测
+试平台实现收入52万元，甲醇燃料电池5KW实现
+收入58.5万元。
+采购方面，公司的原材料采购及产品生产
+交由子公司江苏耀扬新能源科技有限公司进行
+（以下简称“江苏耀扬”），主要采购的原材
+料为重整器模块、PSA模块、电堆模块、燃料输
+送模块、电控模块、机柜等，主要供货商为上
+海恒煜分子筛有限公司、扬州市宏程电气设备
+有限公司、上海弘枫石墨科技中心和成都市轻
+工贸易公司，目前公司经营规模较小，采购量
+较小，均根据需要随时采购。公司与子公司间
+结算较为灵活。
+生产方面，氢璞创能生产厂区位于扬州市
+广陵产业科创园，已建投入使用生产面积3000
+平方米。包括生产车间和中试车间，其中生产
+区分为装配体组装区和总装区域，及后续的质
+检区、半成品和成品库区。主要生产设备为压
+力机、电焊机、色谱仪+气体分析仪、振晒机、
+气模机、干燥箱等。公司目前的生产厂房较为
+有限，仅从事小规模的生产及测试，为扩建生
+产厂房。公司正与德国厂商洽谈合作，计划设
+立电堆自动化生产线，目前正在筹措资金，若
+筹集资金顺利，公司将在2017年左右扩建厂房
+。
+销售方面，目前主要通过直销进行产品销
+售，近两年公司逐步发展了代理商，但截至目
+前代理商尚未实现销售。公司通过在官网、国
+内期刊及网络媒体上对公司的产品说明、视频
+等进行宣传，并已经完成了解决方案和产品手
+册等销售工具的制作，并参加了包括“全国通
+信电源会议”、“甲醇燃料电池产品发布会”
+、“上海国际氢能、燃料电池技术及应用展览
+会”和“中国科博会”等展会开展宣传工作。
+目前公司主要客户为汽车和通讯领域客户，其
+中汽车领域客户为公司贡献收入占主营业务收
+入的90%以上，公司已与东风汽车、中国第一汽
+车股份有限公司等汽车厂商合作研发能源汽车
+项目，但产品均处于研发测试阶段，短期内并
+不能形成规模化销售。
+公司凭借较强的技术研发能力先后签订了
+多个技术开发合同，并成为公司收入的重要组
+成部分，2016年，公司先后签订技术开发合同3
+00余万元，其中与国泰蓝天（北京）沂能源投
+资管理有限公司签订了240万元的技术开发合同
+，成为2016年上半年主要收入来源。
+回款方面，技术合同回款一般采用预收30%
+或者预收全款的方式；硬件销售方面，由于目
+前销量较小，一般采用预收部分款项，产品验
+收合格回收剩余款项的方式。公司的产品生产
+周期一般在4-8周，签订合同至回款周期较短。
+2016年公司先后与常州兰博净化有限公司
+、中国第一汽车股份有限公司、苏州中氢能源
+科技有限公司、深圳煜美沂能源汽车有限公司
+签订了销售合同，多个合同的签订，表明公司
+技术逐步得到客户认可，经营规模有望得到突
+破。
+图一：2013－2015年公司总资产、净资产、主营业务收
+入、利润总额趋势图（万元）
+从近三年经营情况来看，公司收入水平有
+一定上涨，但由于公司研发的清洁能源电池目
+前在国内尚处于研发初阶段，科研水平尚不能
+完全满足市场需求，且市场配套目前仍较为落
+后，一定程度上制约了公司的发展，不断的研
+发投入使得公司处于持续亏损状态。公司在201
+6年已取得2500万元融资资金，资产规模的扩大
+将有助于公司提升科研能力，提高抵御市场风
+险的能力。
+总体看，氢璞创能经营发展缓慢，技术成
+果市场化程度低，但随着国家政策扶持力度的
+加大，以及自身科研成果的不断成熟，公司未
+来经营规模有望得到突破。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>氢璞创能设有董事会和监事一名，实行总
+经理负责制，下设市场部、综合管理部、技术
+与行业应用部等职能部门。公司各职能中心分
+工较为明确，内部协调性较好，对公司整体经
+营有所助益。公司目前管理机构与其经营发展
+相匹配。
+公司为加强自身的规范化管理，完善各项
+工作制度，维护公司员工的合法权益，根据国
+家有关法律、法规并结合公司的实际情况建立
+了《员工守则》、《员工工资管理制度》、《
+纪律条例》、《财务制度》等规章制度。并设
+立了《实验室规章制度》规范公司技术研发工
+作。
+2014年，公司收购了江苏耀扬新能源科技
+有限公司，目前该子公司注册资本为1000万元
+，由氢璞创能全额控股，专门从事燃料电池的
+生产及售后工作。
+从管理效率看，公司2013-
+2015年管理费用率分别为86.73%、76.70%和68.
+82%；同期成本率分别为478.94%、183.60%和23
+4.96%，公司尚处于研发投入阶段，整体成本水
+平处于高值水平。
+从运营效率看，2014-
+2015年公司应收账款周转率分别为12.68次和5.
+82次，处于行业较好水平。2013-
+2015年总资产周转率分别为0.15次、0.23次和0
+.17次，资产运营效率较低。
+总体看，氢璞创能组织机构设置符合其经
+营发展需求，管理模式逐渐完善，资产运营状
+况较弱，成本费用控制能力较差。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>根据《中共中央关于制定国民经济和社会
+发展第十三个五年规划的建议》，在“十三五
+”期间，把新能源汽车推广列入国家的重要计
+划之中，要求提高电动汽车产业化水平。新能
+源汽车发展在整个国民经济和社会发展中将处
+在十分重要的地位，明确了新能源汽车在国民
+经济和社会发展中的战略定位。
+目前中国新能源汽车渗透率极低，未来提
+升空间广阔，随着新能源紧缺和环保压力的增
+加，新能源汽车是我国能源战略的重要组成部
+分。虽然目前纯电动仍是我国选择的新能源汽
+车的最重要的发展路线，但随着国际燃料电池
+产业环境的逐渐成熟，迫于国内外能源和环保
+的压力，燃料电池在我国的能源战略地位将有
+望快速提高。
+2015年5月8日，国务院发布的《中国制造2
+025》，对于节能与新能源汽车产业的发展，明
+确了继续支持电动汽车、燃料电池汽车发展，
+掌握汽车低碳化、信息化、智能化核心技术，
+提升动力电池、驱动电机、高效内燃机、先进
+变速器、轻量化材料、智能控制等核心技术的
+工程化和产业化能力，形成从关键零部件到整
+车的完整工业体系和创新体系，推动自主品牌
+节能与新能源汽车同国际先进水平接轨。提出
+纯电动和插电式混合动力汽车、燃料电池汽车
+、节能汽车、智能互联汽车是国内未来重点发
+展的方向。
+总体看，能源汽车产业是制造强国战略的
+必然选择。在国家政策的大力支持下，节能与
+新能源汽车领域的发展将会更快更强。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京氢璞创能科技有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，氢璞创能资产总额分别为467.51万元
+、1526.68万元和1495.66万元。2013-
+2015年，氢璞创能流动资产分别占当年总资产
+的4.41%、23.53%和25.70%；固定资产分别占当
+年总资产的0.23%、0.45%和0.04%，主要为电子
+设备及办公设备等；2014-
+2015年长期投资分别占当年总资产的49.19%和5
+0.21%，为对全资子公司的投资，无形资产占当
+年总资产的95.36%、26.83%和24.04%，为专利
+技术。资产结构变化与其实际经营情况相符。
+截至2015年底，公司流动资产主要由货币
+资金、应收账款、其他应收款和存货构成，其
+中货币资金100.31万元，占流动资产的26.09%
+；应收账款为52.52万元，占流动资产的13.66%
+，账龄在1年以内的占94.05%，应收账款中48.3
+0万元债务人为常州市蓝博净化科技有限公司、 
+1.10万元债务人为北京创世汇科技发展有限公
+司，主要是合同尚未执行完，此部分账款回收
+风险不大，但3.12万元账款债务人为上海电力
+学院，该账款账龄为1-
+2年，有一定坏账风险；存货47.09万元，占流
+动资产的12.25%，全部为库存商品，主要是单
+一项目形成的年底库存现象，公司往年并无存
+货；其他应收款为184.51万元，占流动资产的4
+8.00%，主要为与子公司的往来款。
+截至2016年8月底，与年初相比，公司资产
+总额提升至4127.01万元，主要由于公司进行了
+股权融资所致，公司暂用该笔资金做了短期理
+财，其他应收款大幅增加。
+总体看，氢璞创能资产质量尚可，资产流
+动性较好。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，氢璞创能速动比率分别为0.05倍、1.7
+9倍和1.19倍，流动比率为别为0.05倍、1.79倍
+和1.35倍，公司短期支付能力尚可。
+2013-
+2015年公司经营活动产生的净现金流量分别为-
+211.52万元、-602.03万元和-
+207.61万元，公司经营活动获取现金的能力偏
+弱，对其现金流周转产生一定压力。
+2013-
+2015年，公司息税折旧摊销前盈余EBITDA分别
+为-214.96万元、-153.38万元和-
+277.26万元，持续较弱，不利于偿债能力的提
+升。
+截至报告日，公司尚无有息债务。公司短
+期内有股权融资计划，融资规模将视具体情况
+而定，融得资金将对现有生产厂房进行扩建。
+考虑到氢璞创能目前的经营状况、资产构
+成、盈利状况及财务结构等因素，君维诚认为
+氢璞创能在未来一段时期存在一定发生信用风
+险的可能性。</enterprise:偿债能力>
+    <enterprise:财务弹性>2013-
+2015年，公司负债总额分别为401.87万元、200
+.78万元和283.77万元，均为流动负债，流动负
+债主要以其他应付款构成，呈波动下降趋势；
+同期，公司资产负债率分别为85.96%、13.15%
+和18.97%，负债压力较小。
+截至2016年8月底，公司负债总额为234.45
+万元，全部为流动负债，由应付账款、预收账
+款、应交税金和其他应付款构成。其中，应付
+账款为30.05万元，占流动负债的12.82%，主要
+债权人为西安峰家商贸有限公司和上海攀业氢
+能源科技有限公司；预收账款为26.88万元，占
+流动负债的11.47%，主要债权人为北京上善氢
+璞科技有限公司和碧青科技开发股份有限公司
+；应交税金为-17.90万元，占流动负债的-
+7.64%；其他应付款为195.42万元，占流动负债
+的83.35%，主要为关联往来款。
+总体看，氢璞创能财务构成合理，负债压
+力较小，存在一定的外部债务融资空间。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，氢璞创能主营业务收入分别为73.57万
+元、232.33万元和259.50万元，公司的主营业
+务有所增长，但增长缓慢，主要是公司的科研
+成果市场化程度较低所致；同期，公司主营业
+务利润率分别为80.01%、83.63%和51.93%，公
+司收入中有较大比重的技术开发收入，利润水
+平较高，随着硬件销售的增加公司主营业务获
+利能力有所降低，但整体看，公司主营业务获
+利能力仍较强。
+图二：2013－2015年氢璞创能盈利状况（万元，%）
+公司成立至今一直处于研发投入阶段，主
+要是国内基础配套较为落后等因素，使得公司</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京氢璞创能科技有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>-。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>-</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>-</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>-</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京氢璞创能科技有限公司2013年基本财务指标">
+    <enterprise:资产总额>478.69 </enterprise:资产总额>
+    <enterprise:所有者权益>65.64 </enterprise:所有者权益>
+    <enterprise:负债总额>401.87 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>73.57 </enterprise:营业收入>
+    <enterprise:EBITDA>-214.96 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京氢璞创能科技有限公司2014年基本财务指标">
+    <enterprise:资产总额>1545.91 </enterprise:资产总额>
+    <enterprise:所有者权益>1325.86 </enterprise:所有者权益>
+    <enterprise:负债总额>200.78 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>232.33 </enterprise:营业收入>
+    <enterprise:EBITDA>-153.38 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京氢璞创能科技有限公司2015年基本财务指标">
+    <enterprise:资产总额>1526.60 </enterprise:资产总额>
+    <enterprise:所有者权益>1211.89 </enterprise:所有者权益>
+    <enterprise:负债总额>283.77 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>259.50 </enterprise:营业收入>
+    <enterprise:EBITDA>-277.26 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京氢璞创能科技有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.15 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>0.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京氢璞创能科技有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.23 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>12.68 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>0.00 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京氢璞创能科技有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.17 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>5.82 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.30 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京氢璞创能科技有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>-358.03 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-57.93 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>40.65 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京氢璞创能科技有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>-14.39 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-12.49 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>10.26 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京氢璞创能科技有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>-27.74 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>-22.48 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>6.88 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京氢璞创能科技有限公司2013年偿债能力指标">
+    <enterprise:流动比率>5.13 </enterprise:流动比率>
+    <enterprise:速动比率>5.13 </enterprise:速动比率>
+    <enterprise:资产负债率>83.95 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京氢璞创能科技有限公司2014年偿债能力指标">
+    <enterprise:流动比率>178.89 </enterprise:流动比率>
+    <enterprise:速动比率>178.89 </enterprise:速动比率>
+    <enterprise:资产负债率>12.99 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京氢璞创能科技有限公司2015年偿债能力指标">
+    <enterprise:流动比率>135.47 </enterprise:流动比率>
+    <enterprise:速动比率>118.88 </enterprise:速动比率>
+    <enterprise:资产负债率>18.59 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>0.00 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京氢璞创能科技有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>80.35 </enterprise:毛利率>
+    <enterprise:成本费用利润率>56.81 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-52.64 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>13.22 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>0.00 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-1.62 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京氢璞创能科技有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>83.81 </enterprise:毛利率>
+    <enterprise:成本费用利润率>136.46 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.00 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-299.85 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>215.79 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>29.57 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京氢璞创能科技有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>51.93 </enterprise:毛利率>
+    <enterprise:成本费用利润率>43.88 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.98 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-73.16 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>0.00 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>11.69 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-76.28 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京氢璞创能科技有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>12.72 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>0.00 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>7.88 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>20.60 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>6.13 </enterprise:固定资产原价>
+    <enterprise:累计折旧>5.05 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1.08 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>445.83 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>458.09 </enterprise:非流动资产合计>
+    <enterprise:资产总计>478.69 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京氢璞创能科技有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>94.69 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>36.63 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>227.86 </enterprise:其他应收款>
+    <enterprise:存货>0.00 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>359.18 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>750.95 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>13.08 </enterprise:固定资产原价>
+    <enterprise:累计折旧>6.20 </enterprise:累计折旧>
+    <enterprise:固定资产净额>6.88 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>395.83 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>13.79 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1186.73 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1545.91 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京氢璞创能科技有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>100.31 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>52.52 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>0.00 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>184.51 </enterprise:其他应收款>
+    <enterprise:存货>47.09 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>384.43 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>750.95 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>15.80 </enterprise:固定资产原价>
+    <enterprise:累计折旧>15.15 </enterprise:累计折旧>
+    <enterprise:固定资产净额>0.65 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>345.83 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>13.79 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1142.17 </enterprise:非流动资产合计>
+    <enterprise:资产总计>1526.60 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京氢璞创能科技有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>2.37 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>198.41 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>200.78 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>200.78 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1258.89 </enterprise:实收资本或股本>
+    <enterprise:资本公积>808.06 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-741.09 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1325.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1325.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1526.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京氢璞创能科技有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>0.00 </enterprise:应付账款>
+    <enterprise:预收款项>0.00 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>2.37 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>198.41 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>200.78 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>200.78 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1258.89 </enterprise:实收资本或股本>
+    <enterprise:资本公积>808.06 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-741.09 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1325.86 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1325.86 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1526.64 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京氢璞创能科技有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>0.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>15.75 </enterprise:应付账款>
+    <enterprise:预收款项>10.02 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-12.57 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>270.57 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>283.77 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>283.77 </enterprise:负债合计>
+    <enterprise:实收资本或股本>1381.13 </enterprise:实收资本或股本>
+    <enterprise:资本公积>908.06 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>0.00 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>-1077.30 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>1211.89 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>1211.89 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>1495.66 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京氢璞创能科技有限公司2013年利润表">
+    <enterprise:营业收入>73.57 </enterprise:营业收入>
+    <enterprise:主营业务收入>73.57 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>14.46 </enterprise:营业成本>
+    <enterprise:主营业务成本>14.46 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.24 </enterprise:营业税金及附加>
+    <enterprise:销售费用>32.22 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>305.40 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>0.04 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>26.61 </enterprise:营业利润>
+    <enterprise:营业外收入>0.07 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>7.90 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>26.68 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>26.68 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>26.68 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京氢璞创能科技有限公司2014年利润表">
+    <enterprise:营业收入>232.33 </enterprise:营业收入>
+    <enterprise:主营业务收入>232.33 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>37.62 </enterprise:营业成本>
+    <enterprise:主营业务成本>37.62 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.42 </enterprise:营业税金及附加>
+    <enterprise:销售费用>44.15 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>326.82 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>17.54 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>132.60 </enterprise:营业利润>
+    <enterprise:营业外收入>3.49 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>136.09 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>136.09 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>136.09 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京氢璞创能科技有限公司2015年利润表">
+    <enterprise:营业收入>259.50 </enterprise:营业收入>
+    <enterprise:主营业务收入>259.50 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>124.75 </enterprise:营业成本>
+    <enterprise:主营业务成本>124.75 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>0.00 </enterprise:营业税金及附加>
+    <enterprise:销售费用>59.05 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>419.62 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>6.29 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>69.41 </enterprise:营业利润>
+    <enterprise:营业外收入>14.00 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>83.41 </enterprise:利润总额>
+    <enterprise:所得税费用>0.00 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>83.41 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>83.41 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京氢璞创能科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>73.57 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.07 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>125.17 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>198.81 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>12.53  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>188.99 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>8.05 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>200.77 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>410.34 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-211.53 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>0.38 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>0.38 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-0.38 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>208.09 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>208.09 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>0.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>208.09 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-3.82 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京氢璞创能科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>232.33 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>3.49 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>623.80 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>859.62 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>39.56  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>199.46 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>6.37 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>1216.26 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1461.65 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-602.03 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>492.06 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>492.06 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>6.95 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>150.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>156.95 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>335.11 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>358.89 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>358.89 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>10.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>10.00 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>348.89 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>81.97 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京氢璞创能科技有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>253.63 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>604.51 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>858.14 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>156.09  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>189.75 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>50.05 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>669.86 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>1065.75 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-207.61 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.72 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.72 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.72 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>222.24 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>0.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>222.24 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>0.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>0.00 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>6.29 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>6.29 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>215.95 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>5.62 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：欧阳洵 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>欧阳洵 </enterprise:股东名称>
+	 <enterprise:货币>671.00万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>38.02%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：深圳市鹏远自动化设备有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>深圳市鹏远自动化设备有限公司 </enterprise:股东名称>
+	 <enterprise:货币>383.6461万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>21.74%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：江苏嘉和机械集团有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>江苏嘉和机械集团有限公司 </enterprise:股东名称>
+	 <enterprise:货币>290.8874万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>16.48%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：东莞市熔岩创业投资合伙企业（有限合伙） ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>东莞市熔岩创业投资合伙企业（有限合伙） </enterprise:股东名称>
+	 <enterprise:货币>244.4593万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>13.85%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：彭斌 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>彭斌 </enterprise:股东名称>
+	 <enterprise:货币>138.1126万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>7.83%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京氢璞创能科技有限公司股东：中关村科技园区海淀园创业服务中心 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>中关村科技园区海淀园创业服务中心 </enterprise:股东名称>
+	 <enterprise:货币>36.6667万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>2.08%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京氢璞创能科技有限公司的商标信息：NOWOGEN">
+	<enterprise:有申请日期>16-8-4</enterprise:有申请日期>
+	<enterprise:有商标名称>NOWOGEN</enterprise:有商标名称>
+	<enterprise:有注册号>20869770</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京氢璞创能科技有限公司的商标信息：氢璞">
+	<enterprise:有申请日期>16-8-4</enterprise:有申请日期>
+	<enterprise:有商标名称>氢璞</enterprise:有商标名称>
+	<enterprise:有注册号>20869769</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>等待受理通知书发文</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种燃料电池控制器封装设计">
+	<enterprise:有申请公布日>17-5-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种燃料电池控制器封装设计</enterprise:有专利名称>
+	<enterprise:有申请号>CN201710006980.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106684404A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种电堆封装结构">
+	<enterprise:有申请公布日>16-9-7</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种电堆封装结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610404691.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105932318A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：大功率水冷电堆结构">
+	<enterprise:有申请公布日>16-8-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>大功率水冷电堆结构</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610493519.7</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105914385A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：水冷质子交换膜燃料电池电堆和水冷质子交换膜燃料电池">
+	<enterprise:有申请公布日>16-8-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>水冷质子交换膜燃料电池电堆和水冷质子交换膜燃料电池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410543495.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104347888B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：具有前置气体成份分离装置的变压吸附气体提纯器组件">
+	<enterprise:有申请公布日>16-8-17</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有前置气体成份分离装置的变压吸附气体提纯器组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410543516.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104436992B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种低温冷启动燃料电池系统及利用方法">
+	<enterprise:有申请公布日>16-3-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种低温冷启动燃料电池系统及利用方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510741934.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105390715A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种变压吸附气体提纯器">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种变压吸附气体提纯器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410302126.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104028077B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种快速冷启动甲醇制氢机系统">
+	<enterprise:有申请公布日>16-2-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种快速冷启动甲醇制氢机系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510707749.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105347300A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种高效的多罐进气式变压吸附提纯器">
+	<enterprise:有申请公布日>15-12-9</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种高效的多罐进气式变压吸附提纯器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510575279.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105126538A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：具有前置气体成份分离装置的变压吸附气体提纯器组件">
+	<enterprise:有申请公布日>15-3-25</enterprise:有申请公布日>
+	<enterprise:有专利名称>具有前置气体成份分离装置的变压吸附气体提纯器组件</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410543516.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104436992A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：水冷质子交换膜燃料电池电堆和水冷质子交换膜燃料电池">
+	<enterprise:有申请公布日>15-2-11</enterprise:有申请公布日>
+	<enterprise:有专利名称>水冷质子交换膜燃料电池电堆和水冷质子交换膜燃料电池</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410543495.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104347888A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京氢璞创能科技有限公司的专利信息：一种变压吸附气体提纯器">
+	<enterprise:有申请公布日>14-9-10</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种变压吸附气体提纯器</enterprise:有专利名称>
+	<enterprise:有申请号>CN201410302126.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN104028077A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:员工基本信息 rdf:ID="北京氢璞创能科技有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京氢璞创能科技有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京氢璞创能科技有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京氢璞创能科技有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京氢璞创能科技有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京氢璞创能科技有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京氢璞创能科技有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京氢璞创能科技有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京氢璞创能科技有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110102580859611C</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业>否</enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>营业税、城市维护建设税、教育附加、地方教育附加</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>—</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>46.46</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京氢璞创能科技有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>采购设备、技术服务</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>设备生产企业</enterprise:有供应商类型>
+	<enterprise:有交易地位>主动</enterprise:有交易地位>
+	<enterprise:有议价能力>强</enterprise:有议价能力>
+	<enterprise:有延期支付>无</enterprise:有延期支付>
+	<enterprise:有上年度发生额>1547.56</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>1529.09</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>-22.50</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>18.47</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京氢璞创能科技有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现公司有被执行记录</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现有行政处罚记录</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>无</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现公司有不良记录</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+	<enterprise:专利总计>4</enterprise:专利总计>
+<enterprise:商标数量 rdf:ID="北京氢璞创能科技有限公司的商标数量">
+	<enterprise:商标总计>0</enterprise:商标总计>
+	<enterprise:商标数量2013>0</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+</rdf:RDF>

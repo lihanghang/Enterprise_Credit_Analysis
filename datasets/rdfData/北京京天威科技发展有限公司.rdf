@@ -1,0 +1,1553 @@
+<?xml version="1.0" ?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:enterprise="http://ccip.ucas.ac.cn/ontology/company#"
+  xml:base="http://ccip.ucas.ac.cn/resource#">
+  <enterprise:企业概况 rdf:ID="北京京天威科技发展有限公司的企业概况">
+    <enterprise:有名称>北京京天威科技发展有限公司</enterprise:有名称>
+    <!-- 增加信用等级 -->
+    <enterprise:有信用等级>Azc+</enterprise:有信用等级>
+    <enterprise:有信用代码>9111010870005072X1</enterprise:有信用代码>
+    <enterprise:有登记机关>-</enterprise:有登记机关>
+    <enterprise:有中征码>110100000322378202</enterprise:有中征码>
+    <enterprise:有基本账户开户行>中国建设银行北京上地支行</enterprise:有基本账户开户行>
+    <enterprise:有从业人数>-</enterprise:有从业人数>
+    <enterprise:有注册登记日期>1998年9月1日</enterprise:有注册登记日期>
+    <enterprise:有注册资本>5000万元</enterprise:有注册资本>
+    <enterprise:有营业执照到期日>-</enterprise:有营业执照到期日>
+    <enterprise:有股本>-</enterprise:有股本>
+    <enterprise:有经营范围>技术开发、技术转让、技术咨询、技术服务；货物进出口、技术进出口、代理进出口；专业承包；销售自行开发后的产品、机械设备、计算机及辅助设备。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)技术开发、技术转让、技术咨询、技术服务；货物进出口、技术进出口、代理进出口；专业承包；销售自行开发后的产品、机械设备、计算机及辅助设备。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)...详细</enterprise:有经营范围>
+    <enterprise:有主营业务>-</enterprise:有主营业务>
+    <enterprise:有行业分类>铁路信息化</enterprise:有行业分类>
+    <enterprise:有注册地址>北京市海淀区上地信息路22号B座11层</enterprise:有注册地址>
+    <enterprise:有通讯地址>北京市海淀区上地信息路22号B座11层</enterprise:有通讯地址>
+    <enterprise:有邮政编码>100085</enterprise:有邮政编码>
+    <enterprise:有联系人>袁宏伟</enterprise:有联系人>
+    <enterprise:有联系电话>82780906</enterprise:有联系电话>
+    <enterprise:有传真电话>-</enterprise:有传真电话>
+    <enterprise:有E-mail>-</enterprise:有E-mail>
+    <enterprise:有网址>www.jtv.com.cn</enterprise:有网址>
+    <!-- 增加企业介绍对应信用报告——————企业概况 -->
+    <enterprise:有企业详细信息>北京京天威科技发展有限公司成立于1998
+年9月1日，法定代表人为赵俊彦，注册地址为
+北京市海淀区上地信息路22号B座11层。公司初
+始注册资本50万元，后经三次增资，目前注册
+资本为5000万元。公司股东及持股比例为：哈
+尔滨威克科技有限公司84.88%、哈尔滨威克技
+术开发公司15.12%，出资形式均为货币。
+京天威主要从事车辆信息化系统及其相关
+产品的销售。2007年8月，公司被认定为“软件
+企业”；2009年5月，公司首次获得“中关村高
+新技术企业”证书和“海淀区创新企业”证书
+，2015年7月通过“中关村高新技术企业”复核
+；2013年7月，公司被工信部核定为“计算机信
+息系统集成企业二级资质”；2014年1月，公司
+取得北京市住房和城乡建设委员会颁发的“安
+全生产许可证”；2014年9月，公司荣获“2014
+年度中国轨道行业信息化最具影响力企业奖”
+；2014年10月，公司通过北京市科学技术委员
+会等四部门组织的“高新技术企业”资格复核
+；2016年7月，公司通过ISO9001:2008质量管理
+体系、ISO14001:2004环境管理体系和OHSAS 
+18001:2007职业健康安全管理体系认证复核；2
+016年8月，公司成为“华为认证解决方案合作
+伙伴”。
+截至2015年底，京天威资产总额为    
+30682.81万元，净资产为16064.36万元；2015
+年累计实现主营业务收入27222.83万元，利润
+总额2053.84万元；2015年公司经营活动产生的 </enterprise:有企业详细信息>      
+  </enterprise:企业概况>
+<enterprise:基础素质 rdf:ID="北京京天威科技发展有限公司的基础素质">
+    <enterprise:有管理素质>京天威法定代表人兼总经理赵俊彦先生，
+本科学历，拥有高级工程师职称，1993-
+2010年在哈铁科研所第四研究室从事科研工作
+，2010年8月至今任京天威总经理。赵先生曾获
+得多项专业技术成果奖，包括:2001年哈尔滨铁
+路局颁发的“红外线轴温探测系统科技进步奖
+特等奖”；2011年哈尔滨市颁发的“铁路客车
+管理信息系统（KMIS）优秀新产品奖二等奖”
+；2013年哈尔滨铁路局颁发的“铁路数字化线
+路管理系统优秀科研成果奖”；2013年黑龙江
+省颁发的“动车组运行故障动态图像检测系统
+（TEDS）创新成果奖”等。此外，赵先生发表
+有《车号识别系统在轨道衡及超偏载检测系统
+中的应用》、《铁路货车轴温探测技术及应用
+概论》、《电气化铁路接触网成像检测系统在
+高铁上的应用》等多项著作。
+公司其他主要管理人员均有相关行业的技
+术背景和一定的管理经验。
+总体看，公司主要管理者综合素质较高，
+管理经验较为丰富，基本满足了公司目前经营
+和管理的需要。</enterprise:有管理素质>
+    <enterprise:有人员素质>京天威现有技术人员307人，约占员工总人
+数的83%，其中从事研发工作的166人。从学历
+构成来看，研发人员中博士1人、硕士26人、其
+余为本科及大专学历；从技术职称来看，拥有
+高级技术职称的6人、中级技术职称的3人、初
+级技术职称的2人。
+公司副总经理兼技术中心主任董典伟，毕
+业于山东大学信息与计算科学专业，毕业后一
+直从事铁路建设化的研发和管理工作，先后在
+多种专业学术期刊上发表文章，并参与了铁路
+信息化管理领域相关技术资料汇编。董先生曾
+任山东省计算中心工程师、北京瑞威世纪科技
+发展有限公司技术经理，2006年1月至今任京天
+威副总经理兼技术中心主任。
+产品经理郑杨先生，毕业于西南交通大学
+铁道车辆专业，多次参与铁路车辆领域百万级
+、千万级信息化项目建设，作为行业信息化管
+理专家，曾多次参与铁道部行业信息化管理的
+政策编制与研讨工作，研发了“铁道部企业自
+备货车技术管理信息系统”等，其中，“铁路
+货车段安全质量智能化管理系统”通过铁道部
+评审。此外，郑先生编制了青藏铁路公司乌鲁
+木齐车辆段等多家单位HMIS系统升级总体方案
+，具有丰富的项目实施经验。
+总体看，公司研发团队素质较高，核心人
+员具备较强的科研实力，为公司的研发活动提
+供了较好的专业技术保障。</enterprise:有人员素质>
+    <enterprise:有科研条件>京天威近三年投入的研发费用分别为2976
+万元、2804万元和2695万元，约占当年总收入
+的19.75%、13.10%和9.90%，相对充足的研发费
+用为公司科研工作提供了资金保障。
+京天威设有软件研发中心及硬件研发中心
+，其中，软件研发中心设有平台研发组、技术
+应用组和数据库管理服务组，主要负责研发Mir
+acle开发平台、工作流、基础类库，重大项目
+的基数支持和数据库维护和调优。此外，考虑
+到人力资源成本的因素，公司在哈尔滨新成立
+了一个研发中心，主要针对哈尔滨铁路局项目
+进行研发。
+京天威主要根据客户要求定向研发，其中
+，公司自主研发的“货车运行故障动态图像检
+测系统”获得2007年中国铁道学会科学技术三
+等奖；“铁路客车管理信息系统”于2010年12
+月被列入北京市高新技术成果转化项目；“哈
+尔滨铁路局互动教学考评系统”、“TFDS集中
+作业平台”、“铁路数字化工务管理系统”和
+“铁路车站示意图管理系统”等于2012年12月
+通过哈尔滨铁路局科技成果鉴定。
+截至目前，公司已获得48项计算机软件著
+作权证书，包括：“铁路客车厂修管理信息系
+统V1.0”、“TFDS抗阳光干扰系统V1.0”、“
+客车故障轨边图像检测系统”、“铁路安全风
+险管控系统”和“货车物资管理信息系统V1.0
+”、“miracle企业资产管理系统”、“TFDS动
+态检查集中作业系统”、“电气化铁路接触网
+成像检测系统”、“货车列检技术作业管理系
+统”和“铁路货车装载状态视频监视系统”等
+；并获有“防止环境光干扰的动态图像的拍摄
+系统”、“一种信号传输装置”、“一种户外
+相机的安装防护装置”、“一种磁钢板动态检
+测系统机箱”、“一种媒体控制器”等6项实用
+新型专利及1项发明专利。上述技术已取得了一
+定的市场收益，技术成果转化效果较好。
+此外，公司自主研发的“京天威TFDS动态
+检查集中作业系统软件V1.0”、“京天威Mirac
+le企业资产管理系统软件V1.0”和“京天威货
+车列检技术作业管理系统软件V1.1”等多款产
+品均获得了北京市经济和信息化委员会授予的
+软件产品登记证书。
+总体看，京天威目前研发成果的市场转化
+效果较好，推动了公司主营业务的发展。</enterprise:有科研条件>
+    <!-- 增加科研投入及占当年营业收入 -->
+    <enterprise:有科研投入>2976万元,2804万元,2695万元,</enterprise:有科研投入>
+    <enterprise:有科研投入占收入比例></enterprise:有科研投入占收入比例>
+</enterprise:基础素质>
+<enterprise:经营管理 rdf:ID="北京京天威科技发展有限公司的经营管理">
+    <enterprise:其经营分析为>京天威长期致力于轨道交通行业机车、车
+辆领域的应用软件开发及安全检测设备系统集
+成业务，是国内轨道交通行业机车、车辆、安
+全检测领域专业化的系统开发商、咨询服务商
+。
+京天威主导产品包括货车轨边图像监测系
+统、货车管理系统、客车管理系统、哈局经营
+分析系统、视频监控等，均属于软硬件结合的
+系统集成类产品。2015年，公司实现主营业务
+收入27222.83万元，以货车轨边图像监测系统
+和哈局经营分析系统收入为主。
+京天威的货车故障轨边图像检测系统通过
+布置于钢轨之间的高速相机陈列，拍摄通过列
+车整车车底、侧下部图像，存储于计算机，分
+析与处理后计算出通过列车的一系列相关信息
+，包括过车信息、车辆位置信息、车辆轴距信
+息、车号信息和图像信息，可以实现对整车车
+底和侧下部的检测，其已成为公司主要的收入
+来源；货车管理系统是公司另一大销售重点，
+是对全国70多万辆铁路货车及其配件资产的基
+数结构和基数状态进行日常管理和动态跟踪的
+综合管理系统，应用范围覆盖铁道部、铁路局
+、车辆段、车辆工厂以及部分配件厂等，目前
+在国内铁路市场的占有率约为80%-90%。
+2012年开始，京天威承接了哈尔滨铁路局
+的科研项目，主要包括铁路6S综合管理信息平
+台和工务超限问题的图像识别技术等方面系统
+的研发，研发人员主要是哈尔滨当地的技术人
+员，该项目研发产品在2013年下半年开始进行
+大规模推广，当年即形成约2000万元的收入。
+此外，公司推出的一些智能视频分析产品，主
+要应用于一些智能视频社区，该部分业务占公
+司收入比重不断提升。
+采购方面，公司的采购地域主要在北京、
+哈尔滨和河南等地，主要供货商为哈尔滨市科
+佳通用机电有限公司、北京威联腾达科技有限
+公司和北京凌云光技术有限责任公司，主要采
+购类别为TFDS机械设备配件，公司拥有200余平
+米的库房可供机械配件存货。公司一般采用货
+到付款的方式，由于公司部分配件在母公司采
+购，一般能够获得一年左右账期，有利于其资
+金周转。
+京天威主要通过投标的方式获得业务，由
+于公司在细分行业内所拥有的技术优势及多年
+发展形成的良好口碑，使公司与国内所有18个
+铁路局均已实现业务往来，与公司业务往来较
+多的包括哈尔滨铁路局、兰州铁路局、南昌铁
+路局、上海铁路局等。此外，公司于2014年中
+标南非铁路公司超限检测项目，成功实现了在
+海外市场的开拓。
+回款方面，公司客户一般在设备安装调试
+验收合格后支付货款的70%左右，正常运行一段
+时间后再付货款的20%，余款10%作为质保金，
+待设备正常使用一年后付清。由于客户均为铁
+路部门，受财政预算的影响，付款多集中在年
+底，不利于公司日常资金周转效率的提高。
+ 图一： 公司近三年总资产、净资产、主营业务收入、
+利润总额趋势图（万元）
+近三年，京天威的资产规模和权益性资本
+稳步增长，公司业务拓展状况较好，利润水平
+受研发投入影响略有波动，但仍属稳定，其整
+体发展趋势良好。
+总体看，京天威经营处于良性循环状态，
+随着产品市场推广力度的加大及技术研发的不
+断创新，公司未来发展态势较为乐观。</enterprise:其经营分析为>
+    <enterprise:其管理分析为>京天威实行董事会领导下的总经理负责制
+。公司董事会及各职能部门保持了较好的内部
+独立运作机制。总经理下设有5个副总经理，分
+管货车事业部、客车机车事业部、安全检测事
+业部、硬件技术部和软件技术部等职能部门，
+各部门间分工明确，并且协调性较好。目前公
+司的部门设置、规章制度和业务流程与其经营
+状况基本相适应。
+2013-
+2015年，京天威管理费用率分别为39.04%、28.
+12%和20.47%，管理费用以研发支出为主，整体
+处于合理范围，与公司目前的经营情况相符；
+同期成本率分别为88.81%、86.77%和92.48%，
+近几年人力资源成本逐年增长，成本费用支出
+较大，致使整体成本长期偏高，限制了利润的
+获取。
+2013-
+2015年，京天威应收账款周转率分别为1.00次
+、1.19次和1.30次，处于行业一般水平，受到
+客户付款习惯的影响，导致其账款回收较为滞
+后；同期存货周转率分别为7.39次、5.47次和4
+.98次，存货周转效率较高；同期总资产周转率
+分别为0.74次、0.85次和0.93次，资产运营效
+率尚可。
+总体看，京天威管理效率和资产运营效率
+尚可，成本控制能力仍有提升的空间。 </enterprise:其管理分析为>
+    <enterprise:其发展趋势为>未来一段时间，京天威将进一步提升技术
+研发和应用能力，在公司现有货车故障轨边图
+像检测技术、货车和客车信息管理系统等核心
+技术的基础上，继续加大与哈尔滨科研所的合
+作，不断提升产品的先进性和实用性。此外，
+公司将继续增加人力资源方面的投入，并成立
+相应项目组或全新的研发部门，实现在视频监
+控、物联网领域的突破。
+京天威预计2016年实现销售收入28000万元
+，实现利润总额3000万元。结合其往年销售情
+况及目前签订的合同来看，该经营计划实现的
+可能性较大。</enterprise:其发展趋势为>
+</enterprise:经营管理>
+<enterprise:财务分析 rdf:ID="北京京天威科技发展有限公司的财务分析">
+    <enterprise:资产质量及流动性>2013-
+2015年，京天威资产总额分别为22441.45万元
+、27758.63万元和30682.81万元，其中，流动
+资产分别占当年总资产的94.80%、95.96%和96.
+75%；固定资产分别占当年总资产的4.67%、3.4
+4%和2.71%。总体看，公司的资产构成与其行业
+类型和经营状况相符。
+截至2015年底，京天威流动资产为29684.8
+9万元，主要由货币资金、应收账款、其他应收
+款、预付账款和存货等构成。其中，货币资金
+占流动资产的6.93%；应收账款占流动资产的72
+.95%，为应收客户的设备款，账龄大多在一年
+以内，从客户资本实力和过往还款意愿情况看
+，账款回收保障程度较高；其他应收款占流动
+资产的1.25%，主要为职工挂支和保证金；预付
+账款占流动资产的2.44%；存货占流动资产的16
+.09%，主要为非运输企业原材料。
+截至2016年8月底，京天威资产总额增至36
+040.22万元，流动资产降至35116.14万元，主
+要体现为货币资金的减少及预付账款、存货的
+增加，其他流动资产项目无较大变化。
+总体看，京天威资产质量和资产流动性尚
+可。</enterprise:资产质量及流动性>
+    <enterprise:偿债能力>2013-
+2015年，公司息税折旧摊销前盈余EBITDA分别
+为2300.35万元、3257.39万元和2311.02万元，
+公司经营活动获取盈余的能力有所下降，不利
+于其长期偿债能力的提升。
+2013-
+2015年，京天威的速动比率分别为1.82倍、1.7
+4倍和1.70倍；同期流动比率分别为1.97倍、1.
+97倍和2.03倍，公司负债水平尚可，短期支付
+能力较好。
+截至报告出具时点，京天威有息债务为150
+0万元，贷款主要用于补充流动资金，后续贷款
+计划将根据其实际需求制定。若公司2016年经
+营计划得以实现，根据2015年底的财务数据测
+算，其EBITDA将可形成约3300万元，盈余对其
+现有有息债务的保障程度较高。
+综合分析京天威的经营状况、资产构成、
+盈利状况及财务结构等因素，君维诚认为京天
+威未来发生信用风险的可能性较小。</enterprise:偿债能力>
+    <enterprise:财务弹性>截至2015年底，京天威负债总额为14618.4
+5万元，均为流动负债，主要由短期借款、应付
+账款和预收账款等构成，其中，短期借款占流
+动负债的12.66%；应付账款占流动负债的78.36
+%，主要债权人为哈尔滨高远机械设备制造有限
+公司和北京威联腾达科技有限公司等，账龄均
+在一年以内，还款压力一般；预收账款占流动
+负债的9.58%，主要为预收货款。
+截至2016年8月底，京天威的负债总额为18
+990.26万元，其中，预收账款较年初大幅增加
+，短期借款1500万元，为北京银行双秀支行一
+年期知识产权质押借款，还款日期为2017年3月
+。整体看，公司负债规模相对稳定，负债压力
+尚可。
+从财务构成看，2013-
+2015年，京天威的资产负债率分别为48.68%、4
+8.69%和47.64%，负债以经营性负债为主，财务
+策略较为稳健，目前债务压力尚可；同期资本
+化比率分别为9.44%、3.39%和10.33%，财务弹
+性较好。
+结合目前的经营状况看，京天威负债压力
+尚可，财务弹性较好，具备一定外部债务融资
+能力。</enterprise:财务弹性>
+    <enterprise:盈利能力>2013-
+2015年，京天威主营业务收入分别为15065.44
+万元、21396.90万元和27222.83万元；同期主
+营业务利润率分别为46.66%、38.06%和27.03%
+，整体处于行业良好水平，伴随公司市场推广
+力度的加大，其销售规模及获利能力有望获得
+提升。
+2013-
+2015年，京天威总资产报酬率分别为9.36%、11
+.07%和6.97%；同期净资产收益率分别为16.74%
+、19.25%和11.50%，近年公司利用资产获利能
+力趋弱。
+图二：近三年公司盈利能力状况（万元，%）
+2013-
+2015年，京天威的现金收入比分别为1.04倍、0
+.95倍和1.04倍，整体收入实现质量较好；同期
+经营现金流入流出比分别为1.07倍、1.19倍和0
+.94倍，经营活动产生净现金流的能力尚可。
+总体看，京天威主营业务获利能力良好，
+收入实现质量较好。</enterprise:盈利能力>
+</enterprise:财务分析>
+<enterprise:风险揭示 rdf:ID="北京京天威科技发展有限公司的风险揭示">
+    <enterprise:信用风险及合规性风险>截至评级时点，联合信用通过在北京市企
+业信用网查询，未发现公司存在行政处罚记录；
+通过在中国执行信息公开网查询，未发现公司
+近五年存在被执行记录。 
+截至评级时点，联合信用未发现公司存在
+未决诉讼、票据贴现、对外担保等或有负债；
+公司以往银行借款还本付息情况正常，未发现
+公司有银行不良信贷记录。。</enterprise:信用风险及合规性风险>
+    <enterprise:政策行业及市场风险>本次评级过程中，联合信用未发现公司存
+在政策、行业及市场风险。</enterprise:政策行业及市场风险>
+    <enterprise:经营管理及财务风险>（1）公司成本率较高，经营效率较低。 
+（2）公司流动资产中应收账款和存货占比
+较大，收入实现质量较差。 
+（3）受宏观经济影响，公司营业收入有所
+下降，营业收入实现情况有待跟踪。 
+（4）公司在建项目金额较大，项目进展情
+况有待跟踪。</enterprise:经营管理及财务风险>
+    <enterprise:其他风险因素>本次评级过程中，联合信用未发现公司存
+在其他风险因素。</enterprise:其他风险因素>
+</enterprise:风险揭示>
+<!-- 企业财务数据 -->
+<enterprise:基本财务指标 rdf:ID="北京京天威科技发展有限公司2013年基本财务指标">
+    <enterprise:资产总额>22441.45 </enterprise:资产总额>
+    <enterprise:所有者权益>11516.32 </enterprise:所有者权益>
+    <enterprise:负债总额>10925.13 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>15065.44 </enterprise:营业收入>
+    <enterprise:EBITDA>2300.35 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京天威科技发展有限公司2014年基本财务指标">
+    <enterprise:资产总额>27699.30 </enterprise:资产总额>
+    <enterprise:所有者权益>14242.58 </enterprise:所有者权益>
+    <enterprise:负债总额>13516.05 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>21396.90 </enterprise:营业收入>
+    <enterprise:EBITDA>3257.39 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:基本财务指标 rdf:ID="北京京天威科技发展有限公司2015年基本财务指标">
+    <enterprise:资产总额>30624.44 </enterprise:资产总额>
+    <enterprise:所有者权益>16064.36 </enterprise:所有者权益>
+    <enterprise:负债总额>14618.45 </enterprise:负债总额>
+    <enterprise:带息负债>0.00 </enterprise:带息负债>
+    <enterprise:营业收入>27222.83 </enterprise:营业收入>
+    <enterprise:EBITDA>2311.02 </enterprise:EBITDA>
+</enterprise:基本财务指标>
+<enterprise:运营能力指标 rdf:ID="北京京天威科技发展有限公司2013运营能力指标">
+    <enterprise:总资产周转次数>0.74 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.00 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>7.39 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京天威科技发展有限公司2014运营能力指标">
+    <enterprise:总资产周转次数>0.85 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.19 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>5.47 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:运营能力指标 rdf:ID="北京京天威科技发展有限公司2015运营能力指标">
+    <enterprise:总资产周转次数>0.93 </enterprise:总资产周转次数>
+    <enterprise:应收账款周转次数>1.30 </enterprise:应收账款周转次数>
+    <enterprise:存货周转次数>4.98 </enterprise:存货周转次数>
+</enterprise:运营能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京天威科技发展有限公司2013年盈利能力指标">
+    <enterprise:总资本盈利率>16.52 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>9.36 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>61.60 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京天威科技发展有限公司2014年盈利能力指标">
+    <enterprise:总资本盈利率>20.85 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>11.07 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>55.43 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:盈利能力指标 rdf:ID="北京京天威科技发展有限公司2015年盈利能力指标">
+    <enterprise:总资本盈利率>11.93 </enterprise:总资本盈利率>
+    <enterprise:总资产报酬率>6.97 </enterprise:总资产报酬率>
+    <enterprise:净资产收益率>43.28 </enterprise:净资产收益率>
+</enterprise:盈利能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京天威科技发展有限公司2013年偿债能力指标">
+    <enterprise:流动比率>197.44 </enterprise:流动比率>
+    <enterprise:速动比率>182.07 </enterprise:速动比率>
+    <enterprise:资产负债率>48.68 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.92 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京天威科技发展有限公司2014年偿债能力指标">
+    <enterprise:流动比率>197.09 </enterprise:流动比率>
+    <enterprise:速动比率>174.15 </enterprise:速动比率>
+    <enterprise:资产负债率>48.80 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>6.51 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:偿债能力指标 rdf:ID="北京京天威科技发展有限公司2015年偿债能力指标">
+    <enterprise:流动比率>203.06 </enterprise:流动比率>
+    <enterprise:速动比率>170.39 </enterprise:速动比率>
+    <enterprise:资产负债率>47.73 </enterprise:资产负债率>
+    <enterprise:EBITDA利息倍数>1.25 </enterprise:EBITDA利息倍数>
+    <enterprise:带息负债或EBITDA></enterprise:带息负债或EBITDA>
+</enterprise:偿债能力指标>
+<enterprise:其他财务指标 rdf:ID="北京京天威科技发展有限公司2013年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>47.63 </enterprise:毛利率>
+    <enterprise:成本费用利润率>87.94 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.04 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>9.75 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>9.44 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>19.23 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-15.09 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京天威科技发展有限公司2014年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>39.20 </enterprise:毛利率>
+    <enterprise:成本费用利润率>60.97 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>0.95 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>24.27 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>3.39 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>42.03 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>47.15 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+<enterprise:其他财务指标 rdf:ID="北京京天威科技发展有限公司2015年其他财务指标">
+    <enterprise:流动资产周转次数>0.00 </enterprise:流动资产周转次数>
+    <enterprise:毛利率>27.92 </enterprise:毛利率>
+    <enterprise:成本费用利润率>35.67 </enterprise:成本费用利润率>
+    <enterprise:现金收入比>1.04 </enterprise:现金收入比>
+    <enterprise:现金流动负债比率或EBITDA>-13.66 </enterprise:现金流动负债比率或EBITDA>
+    <enterprise:资产现金回收率>0.00 </enterprise:资产现金回收率>
+    <enterprise:债务资本化比率>10.33 </enterprise:债务资本化比率>
+    <enterprise:银行借款比率>0.00 </enterprise:银行借款比率>
+    <enterprise:担保比率></enterprise:担保比率>
+    <enterprise:营业收入增长率或EBITDA>27.23 </enterprise:营业收入增长率或EBITDA>
+    <enterprise:营业利润增长率或EBITDA>-32.13 </enterprise:营业利润增长率或EBITDA>
+</enterprise:其他财务指标>
+  <enterprise:资产负债表或资产 rdf:ID="北京京天威科技发展有限公司2013年资产负债表（资产）">
+    <enterprise:货币资金>3399.39 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>60.00 </enterprise:应收票据>
+    <enterprise:应收账款>15724.19 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>302.19 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>133.04 </enterprise:其他应收款>
+    <enterprise:存货>1655.62 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>21274.43 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>1048.42 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>118.60 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1167.02 </enterprise:非流动资产合计>
+    <enterprise:资产总计>22441.45 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京天威科技发展有限公司2014年资产负债表（资产）">
+    <enterprise:货币资金>2789.51 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>0.00 </enterprise:应收票据>
+    <enterprise:应收账款>20145.49 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>276.09 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>327.36 </enterprise:其他应收款>
+    <enterprise:存货>3099.78 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>26638.23 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>955.18 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>105.89 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>0.00 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>1061.07 </enterprise:非流动资产合计>
+    <enterprise:资产总计>27699.30 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或资产 rdf:ID="北京京天威科技发展有限公司2015年资产负债表（资产）">
+    <enterprise:货币资金>2057.70 </enterprise:货币资金>
+    <enterprise:交易性金融资产>0.00 </enterprise:交易性金融资产>
+    <enterprise:短期投资>0.00 </enterprise:短期投资>
+    <enterprise:应收票据>100.00 </enterprise:应收票据>
+    <enterprise:应收账款>21655.56 </enterprise:应收账款>
+    <enterprise:坏账准备>0.00 </enterprise:坏账准备>
+    <enterprise:预付款项>724.79 </enterprise:预付款项>
+    <enterprise:应收股利>0.00 </enterprise:应收股利>
+    <enterprise:应收利息>0.00 </enterprise:应收利息>
+    <enterprise:其他应收款>370.96 </enterprise:其他应收款>
+    <enterprise:存货>4775.89 </enterprise:存货>
+    <enterprise:待摊费用>0.00 </enterprise:待摊费用>
+    <enterprise:一年内到期的非流动资产>0.00 </enterprise:一年内到期的非流动资产>
+    <enterprise:其他流动资产>0.00 </enterprise:其他流动资产>
+    <enterprise:流动资产合计>29684.90 </enterprise:流动资产合计>
+    <enterprise:可供出售金融资产>0.00 </enterprise:可供出售金融资产>
+    <enterprise:持有至到期投资>0.00 </enterprise:持有至到期投资>
+    <enterprise:长期债权投资>0.00 </enterprise:长期债权投资>
+    <enterprise:长期应收款>0.00 </enterprise:长期应收款>
+    <enterprise:长期股权投资>0.00 </enterprise:长期股权投资>
+    <enterprise:股权分置流通权>0.00 </enterprise:股权分置流通权>
+    <enterprise:投资性房地产>0.00 </enterprise:投资性房地产>
+    <enterprise:固定资产原价>0.00 </enterprise:固定资产原价>
+    <enterprise:累计折旧>0.00 </enterprise:累计折旧>
+    <enterprise:固定资产净额>832.13 </enterprise:固定资产净额>
+    <enterprise:在建工程>0.00 </enterprise:在建工程>    
+    <enterprise:工程物资>0.00 </enterprise:工程物资>
+    <enterprise:固定资产清理>0.00 </enterprise:固定资产清理>
+    <enterprise:生产性生物资产>0.00 </enterprise:生产性生物资产>
+    <enterprise:油气资产>0.00 </enterprise:油气资产>
+    <enterprise:无形资产>105.03 </enterprise:无形资产>
+    <enterprise:开发支出>0.00 </enterprise:开发支出>
+    <enterprise:长期待摊费用或递延资产>0.00 </enterprise:长期待摊费用或递延资产>
+    <enterprise:递延所得税资产>0.00 </enterprise:递延所得税资产>
+    <enterprise:递延税款借项>2.38 </enterprise:递延税款借项>
+    <enterprise:其他非流动资产或其他长期资产>0.00 </enterprise:其他非流动资产或其他长期资产>
+    <enterprise:非流动资产合计>939.54 </enterprise:非流动资产合计>
+    <enterprise:资产总计>30624.44 </enterprise:资产总计>
+</enterprise:资产负债表或资产>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京天威科技发展有限公司2013年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>11261.80 </enterprise:应付账款>
+    <enterprise:预收款项>441.24 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1085.18 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>227.83 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>13516.05 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>13516.05 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>431.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1480.64 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7330.92 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>14242.58 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>14242.58 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>27758.63 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京天威科技发展有限公司2014年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>500.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>11261.80 </enterprise:应付账款>
+    <enterprise:预收款项>441.24 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>0.00 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>1085.18 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>227.83 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>13516.05 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>13516.05 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>431.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1480.64 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>7330.92 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>14242.58 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>14242.58 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>27758.63 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:资产负债表或负债及所有者权益 rdf:ID="北京京天威科技发展有限公司2015年资产负债表（负债及所有者权益）">
+    <enterprise:短期借款>1850.00 </enterprise:短期借款>
+    <enterprise:交易性金融负债>0.00 </enterprise:交易性金融负债>
+    <enterprise:应付权证>0.00 </enterprise:应付权证>
+    <enterprise:应付票据>0.00 </enterprise:应付票据>
+    <enterprise:应付账款>11454.69 </enterprise:应付账款>
+    <enterprise:预收款项>1399.90 </enterprise:预收款项>
+    <enterprise:应付职工薪酬>2.83 </enterprise:应付职工薪酬>
+    <enterprise:应交税费>-139.63 </enterprise:应交税费>
+    <enterprise:应付利息>0.00 </enterprise:应付利息>
+    <enterprise:应付股利及应付利润>0.00 </enterprise:应付股利及应付利润>
+    <enterprise:其他应付款>50.66 </enterprise:其他应付款>
+    <enterprise:一年内到期的非流动负债>0.00 </enterprise:一年内到期的非流动负债>
+    <enterprise:其他流动负债>0.00 </enterprise:其他流动负债>
+    <enterprise:流动负债合计>14618.45 </enterprise:流动负债合计>
+    <enterprise:长期借款>0.00 </enterprise:长期借款>
+    <enterprise:应付债券>0.00 </enterprise:应付债券>
+    <enterprise:长期应付款>0.00 </enterprise:长期应付款>
+    <enterprise:专项应付款>0.00 </enterprise:专项应付款>
+    <enterprise:预计负债>0.00 </enterprise:预计负债>
+    <enterprise:递延所得税负债>0.00 </enterprise:递延所得税负债>
+    <enterprise:递延税款贷项>0.00 </enterprise:递延税款贷项> 
+    <enterprise:其他非流动负债>0.00 </enterprise:其他非流动负债>
+    <enterprise:非流动负债合计>0.00 </enterprise:非流动负债合计>
+    <enterprise:负债合计>14618.45 </enterprise:负债合计>
+    <enterprise:实收资本或股本>5000.00 </enterprise:实收资本或股本>
+    <enterprise:资本公积>431.02 </enterprise:资本公积>
+    <enterprise:减库存股>0.00 </enterprise:减库存股>
+    <enterprise:盈余公积>1665.42 </enterprise:盈余公积>
+    <enterprise:一般风险准备>0.00 </enterprise:一般风险准备>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:未分配利润>8967.92 </enterprise:未分配利润>
+    <enterprise:外币报表折算差额>0.00 </enterprise:外币报表折算差额>
+    <enterprise:归属于母公司所有者权益合计>16064.36 </enterprise:归属于母公司所有者权益合计>
+    <enterprise:少数股东权益>0.00 </enterprise:少数股东权益>
+    <enterprise:所有者权益合计>16064.36 </enterprise:所有者权益合计>
+    <enterprise:负债和所有者权益总计>30682.81 </enterprise:负债和所有者权益总计>
+</enterprise:资产负债表或负债及所有者权益>
+<enterprise:利润表 rdf:ID="北京京天威科技发展有限公司2013年利润表">
+    <enterprise:营业收入>15065.44 </enterprise:营业收入>
+    <enterprise:主营业务收入>15065.44 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>7890.23 </enterprise:营业成本>
+    <enterprise:主营业务成本>7890.23 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>145.36 </enterprise:营业税金及附加>
+    <enterprise:销售费用>126.60 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5166.60 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>50.99 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>6852.26 </enterprise:营业利润>
+    <enterprise:营业外收入>370.82 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.00 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>7223.08 </enterprise:利润总额>
+    <enterprise:所得税费用>128.67 0</enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>7094.41 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>7094.41 </enterprise:归属于母公司所有者的净利润>
+</enterprise:利润表>
+<enterprise:利润表 rdf:ID="北京京天威科技发展有限公司2014年利润表">
+    <enterprise:营业收入>21396.90 </enterprise:营业收入>
+    <enterprise:主营业务收入>21396.90 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>13008.31 </enterprise:营业成本>
+    <enterprise:主营业务成本>13008.31 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>244.56 </enterprise:营业税金及附加>
+    <enterprise:销售费用>95.11 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5152.71 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>65.31 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>7983.61 </enterprise:营业利润>
+    <enterprise:营业外收入>195.45 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>0.34 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>8178.72 </enterprise:利润总额>
+    <enterprise:所得税费用>284.01 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>7894.71 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>7894.71 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+ <enterprise:利润表 rdf:ID="北京京天威科技发展有限公司2015年利润表">
+    <enterprise:营业收入>27222.83 </enterprise:营业收入>
+    <enterprise:主营业务收入>27222.83 </enterprise:主营业务收入>
+    <enterprise:其他业务收入>0.00 </enterprise:其他业务收入>
+    <enterprise:营业成本>19622.98 </enterprise:营业成本>
+    <enterprise:主营业务成本>19622.98 </enterprise:主营业务成本>
+    <enterprise:其他业务成本>0.00 </enterprise:其他业务成本>
+    <enterprise:营业税金及附加>240.54 </enterprise:营业税金及附加>
+    <enterprise:销售费用>113.55 </enterprise:销售费用>
+    <enterprise:业务招待费>0.00 </enterprise:业务招待费>
+    <enterprise:管理费用>5105.67 </enterprise:管理费用>   
+    <enterprise:研究与开发费>0.00 </enterprise:研究与开发费>
+    <enterprise:财务费用>93.78 </enterprise:财务费用>
+    <enterprise:利息支出>0.00 </enterprise:利息支出>
+    <enterprise:利息收入>0.00 </enterprise:利息收入>
+    <enterprise:汇兑净损失>0.00 </enterprise:汇兑净损失>
+    <enterprise:资产减值损失>0.00 </enterprise:资产减值损失>
+    <enterprise:其他>0.00 </enterprise:其他>  
+    <enterprise:投资收益>0.00 </enterprise:投资收益>
+    <enterprise:对联营企业和合营企业的投资收益>0.00 </enterprise:对联营企业和合营企业的投资收益>
+    <enterprise:公允价值变动损益>0.00 </enterprise:公允价值变动损益>
+    <enterprise:营业利润>7151.98 </enterprise:营业利润>
+    <enterprise:营业外收入>11.80 </enterprise:营业外收入>
+    <enterprise:非流动资产处置利得>0.00 </enterprise:非流动资产处置利得>
+    <enterprise:政府补助>0.00 </enterprise:政府补助>
+    <enterprise:债务重组利得>0.00 </enterprise:债务重组利得>
+    <enterprise:营业外支出>4.27 </enterprise:营业外支出>
+    <enterprise:非流动资产处置损失>0.00 </enterprise:非流动资产处置损失>
+    <enterprise:债务重组损失>0.00 </enterprise:债务重组损失>
+    <enterprise:利润总额>7159.51 </enterprise:利润总额>
+    <enterprise:所得税费用>206.06 </enterprise:所得税费用>
+    <enterprise:未确认的投资损失>0.00 </enterprise:未确认的投资损失>
+    <enterprise:净利润>6953.45 </enterprise:净利润>
+    <enterprise:少数股东损益>0.00 </enterprise:少数股东损益>
+    <enterprise:归属于母公司所有者的净利润>6953.45 </enterprise:归属于母公司所有者的净利润>
+  </enterprise:利润表>
+  <enterprise:现金流量表 rdf:ID="2013年北京京天威科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>15742.25 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>373.95 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>415.48 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>16531.68 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>6493.94  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>4415.94 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2127.01 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2444.41 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>15481.30 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>1050.38 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>2.00 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>2.00 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-2.00 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>1800.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>1800.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>800.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>44.78 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>844.78 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>955.22 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>2003.60 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2014年北京京天威科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>20276.36 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>3.53 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>521.85 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>20801.74 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>7828.40  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>5310.95 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>1807.46 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>2575.15 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>17521.96 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>3279.78 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>79.51 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>79.51 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-79.51 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>800.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>800.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>1500.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>3110.13 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>4610.13 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>-3810.13 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-609.86 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+    <enterprise:现金流量表 rdf:ID="2015年北京京天威科技发展有限公司现金流量表">
+        <enterprise:销售商品及提供劳务收到的现金>28360.32 </enterprise:销售商品及提供劳务收到的现金>
+        <enterprise:收到的税费返还>0.00 </enterprise:收到的税费返还>
+        <enterprise:收到的其他与经营活动有关的现金>835.74 </enterprise:收到的其他与经营活动有关的现金>
+        <enterprise:经营活动现金流入小计>29196.06 </enterprise:经营活动现金流入小计>
+        <enterprise:购买商品及接受劳务支付的现金>19887.78  </enterprise:购买商品及接受劳务支付的现金>
+        <enterprise:支付给职工以及为职工支付的现金>5728.92 </enterprise:支付给职工以及为职工支付的现金>
+        <enterprise:支付的各项税费>2397.46 </enterprise:支付的各项税费>
+        <enterprise:支付其他与经营活动有关的现金>3179.22 </enterprise:支付其他与经营活动有关的现金>
+        <enterprise:经营活动现金流出小计>31193.38 </enterprise:经营活动现金流出小计>
+        <enterprise:经营活动产生的现金流量净额>-1997.32 </enterprise:经营活动产生的现金流量净额>
+        <enterprise:收回投资收到的现金>0.00 </enterprise:收回投资收到的现金>
+        <enterprise:取得投资收益收到的现金>0.00 </enterprise:取得投资收益收到的现金>
+        <enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>0.00 </enterprise:处置固定资产及无形资产和其他长期资产收回的现金净额>
+        <enterprise:处置子公司及其他营业单位收到的现金净额>0.00 </enterprise:处置子公司及其他营业单位收到的现金净额>
+        <enterprise:收到其他与投资活动有关的现金>0.00 </enterprise:收到其他与投资活动有关的现金>
+        <enterprise:投资活动现金流入小计>0.00 </enterprise:投资活动现金流入小计>
+        <enterprise:购建固定资产及无形资产和其他长期资产支付的现金>1.15 </enterprise:购建固定资产及无形资产和其他长期资产支付的现金>
+        <enterprise:投资支付的现金>0.00 </enterprise:投资支付的现金>
+        <enterprise:取得子公司及其他营业单位支付的现金净额>0.00 </enterprise:取得子公司及其他营业单位支付的现金净额>
+        <enterprise:支付其他与投资活动有关的现金>0.00 </enterprise:支付其他与投资活动有关的现金>
+        <enterprise:投资活动现金流出小计>1.15 </enterprise:投资活动现金流出小计>
+        <enterprise:投资活动产生的现金流量净额>-1.15 </enterprise:投资活动产生的现金流量净额>
+        <enterprise:吸收投资所收到的现金>0.00 </enterprise:吸收投资所收到的现金>
+        <enterprise:取得借款收到的现金>2000.00 </enterprise:取得借款收到的现金>
+        <enterprise:收到其他与筹资活动有关的现金>0.00 </enterprise:收到其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流入小计>2000.00 </enterprise:筹资活动现金流入小计>
+        <enterprise:偿还债务所支付的现金>650.00 </enterprise:偿还债务所支付的现金>
+        <enterprise:分配股利及利润或偿付利息所支付的现金>83.33 </enterprise:分配股利及利润或偿付利息所支付的现金>
+        <enterprise:支付其他与筹资活动有关的现金>0.00 </enterprise:支付其他与筹资活动有关的现金>
+        <enterprise:筹资活动现金流出小计>733.33 </enterprise:筹资活动现金流出小计>
+        <enterprise:筹资活动产生的现金流量净额>1266.67 </enterprise:筹资活动产生的现金流量净额>
+        <enterprise:汇率变动对现金及现金等价物的影响>0.00 </enterprise:汇率变动对现金及现金等价物的影响>
+        <enterprise:现金及现金等价物净增加额>-731.80 </enterprise:现金及现金等价物净增加额>
+    </enterprise:现金流量表>
+</rdf:RDF>
+<enterprise:股东 rdf:ID="北京京天威科技发展有限公司股东：哈尔滨威克科技有限公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>哈尔滨威克科技有限公司 </enterprise:股东名称>
+	 <enterprise:货币>2,546.4万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>84.88%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:股东 rdf:ID="北京京天威科技发展有限公司股东：哈尔滨威克技术开发公司 ">
+	<enterprise:序号></enterprise:序号>
+	<enterprise:股东名称>哈尔滨威克技术开发公司 </enterprise:股东名称>
+	 <enterprise:货币>453.6万元</enterprise:货币>
+	<enterprise:实权></enterprise:实权>
+	<enterprise:知识产权></enterprise:知识产权>
+	<enterprise:其他></enterprise:其他>
+	<enterprise:持股比例>15.12%</enterprise:持股比例>
+</enterprise:股东>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230690</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230691</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230692</enterprise:有注册号>
+	<enterprise:有类别>42-科研服务</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230693</enterprise:有注册号>
+	<enterprise:有类别>37-安装修理、建筑装潢服务</enterprise:有类别>
+	<enterprise:有流程状态>驳回复审注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230694</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:商标信息 rdf:ID="北京京天威科技发展有限公司的商标信息：京天威 JTV">
+	<enterprise:有申请日期>13-9-12</enterprise:有申请日期>
+	<enterprise:有商标名称>京天威 JTV</enterprise:有商标名称>
+	<enterprise:有注册号>13230695</enterprise:有注册号>
+	<enterprise:有类别>09-软件产品、科学仪器</enterprise:有类别>
+	<enterprise:有流程状态>商标注册申请注册公告排版完成</enterprise:有流程状态>
+</enterprise:商标信息>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种机车受电弓滑板监测装置">
+	<enterprise:有申请公布日>2017-10-20</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种机车受电弓滑板监测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720143475.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206573496U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种基于线阵扫描及3D成像的机车行走部检测装置">
+	<enterprise:有申请公布日>2017-08-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种基于线阵扫描及3D成像的机车行走部检测装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201720143517.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN206446603U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种峰尾平面调车车列推进作业时的领车设备和领车方法">
+	<enterprise:有申请公布日>2017-01-04</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种峰尾平面调车车列推进作业时的领车设备和领车方法</enterprise:有专利名称>
+	<enterprise:有申请号>CN201610727656.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN106274972A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：侵限智能监测系统及监控中心数据库">
+	<enterprise:有申请公布日>2016-02-24</enterprise:有申请公布日>
+	<enterprise:有专利名称>侵限智能监测系统及监控中心数据库</enterprise:有专利名称>
+	<enterprise:有申请号>CN201510631405.X</enterprise:有申请号>
+	<enterprise:有申请公布号>CN105346565A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：接触网悬挂状态监测系统">
+	<enterprise:有申请公布日>2015-12-30</enterprise:有申请公布日>
+	<enterprise:有专利名称>接触网悬挂状态监测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201310736951.0</enterprise:有申请号>
+	<enterprise:有申请公布号>CN103661449B</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种货车车辆水堵丢失故障的检测方法和系统">
+	<enterprise:有申请公布日>2013-01-09</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种货车车辆水堵丢失故障的检测方法和系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN201210295795.4</enterprise:有申请号>
+	<enterprise:有申请公布号>CN102867182A</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种户外相机的安装防护装置">
+	<enterprise:有申请公布日>2012-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种户外相机的安装防护装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220040555.5</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202512348U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：一种信号传输装置">
+	<enterprise:有申请公布日>2012-10-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>一种信号传输装置</enterprise:有专利名称>
+	<enterprise:有申请号>CN201220040546.6</enterprise:有申请号>
+	<enterprise:有申请公布号>CN202513313U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：制动缸鞲鞴状态自动检测系统">
+	<enterprise:有申请公布日>2010-09-29</enterprise:有申请公布日>
+	<enterprise:有专利名称>制动缸鞲鞴状态自动检测系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920270552.9</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201594044U</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:专利    rdf:ID="北京京天威科技发展有限公司的专利信息：防止环境光干扰的动态图像拍摄系统">
+	<enterprise:有申请公布日>2010-03-31</enterprise:有申请公布日>
+	<enterprise:有专利名称>防止环境光干扰的动态图像拍摄系统</enterprise:有专利名称>
+	<enterprise:有申请号>CN200920145768.2</enterprise:有申请号>
+	<enterprise:有申请公布号>CN201435772Y</enterprise:有申请公布号>
+</enterprise:专利>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路物料库存管理系统">
+	<enterprise:有批准日期>17-9-19</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路物料库存管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>物料管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR527371</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：多式联运信息服务平台">
+	<enterprise:有批准日期>17-7-13</enterprise:有批准日期>
+	<enterprise:有软件全称>多式联运信息服务平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2017SR368973</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：数字化大型养路机械管理系统">
+	<enterprise:有批准日期>17-8-7</enterprise:有批准日期>
+	<enterprise:有软件全称>数字化大型养路机械管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数字大机系统</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR428553</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：应急指挥综合智能平台">
+	<enterprise:有批准日期>17-8-2</enterprise:有批准日期>
+	<enterprise:有软件全称>应急指挥综合智能平台</enterprise:有软件全称>
+	<enterprise:有软件简称>应急指挥智能平台</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR417328</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：联运管家多式联运信息平台">
+	<enterprise:有批准日期>16-12-22</enterprise:有批准日期>
+	<enterprise:有软件全称>联运管家多式联运信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称>联运管家</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR387768</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路供电生产作业移动管理平台">
+	<enterprise:有批准日期>17-2-22</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路供电生产作业移动管理平台</enterprise:有软件全称>
+	<enterprise:有软件简称>供电管理APP</enterprise:有软件简称>
+	<enterprise:有登记号>2017SR051951</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：大客户营销及作业辅助平台">
+	<enterprise:有批准日期>16-11-3</enterprise:有批准日期>
+	<enterprise:有软件全称>大客户营销及作业辅助平台</enterprise:有软件全称>
+	<enterprise:有软件简称>营销及作业辅助平台</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR318381</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路资产经营平台">
+	<enterprise:有批准日期>16-11-2</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路资产经营平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR316034</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路工务作业机具管理系统">
+	<enterprise:有批准日期>16-11-8</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路工务作业机具管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>工机具系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR321634</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路工务现场作业数字化管理系统">
+	<enterprise:有批准日期>16-11-9</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路工务现场作业数字化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>工务现场作业</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR323789</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局数字地图平台">
+	<enterprise:有批准日期>16-11-9</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局数字地图平台</enterprise:有软件全称>
+	<enterprise:有软件简称>数字地图平台</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR323786</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路数字化供电管理系统">
+	<enterprise:有批准日期>16-11-28</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路数字化供电管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>铁路数字供电系统</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR343120</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：掌上货运信息平台">
+	<enterprise:有批准日期>16-10-9</enterprise:有批准日期>
+	<enterprise:有软件全称>掌上货运信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2016SR284545</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：数字铁路经营管理综合平台">
+	<enterprise:有批准日期>15-12-23</enterprise:有批准日期>
+	<enterprise:有软件全称>数字铁路经营管理综合平台</enterprise:有软件全称>
+	<enterprise:有软件简称>数字铁路</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR275293</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路货车装载状态视频监视系统">
+	<enterprise:有批准日期>16-3-28</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路货车装载状态视频监视系统</enterprise:有软件全称>
+	<enterprise:有软件简称>高清货检</enterprise:有软件简称>
+	<enterprise:有登记号>2016SR062957</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路线路巡检图像分析系统">
+	<enterprise:有批准日期>14-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路线路巡检图像分析系统</enterprise:有软件全称>
+	<enterprise:有软件简称>巡检图像系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR186551</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：电务综合管理信息平台">
+	<enterprise:有批准日期>14-11-2</enterprise:有批准日期>
+	<enterprise:有软件全称>电务综合管理信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称>电务综合平台</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR165981</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：货场综合管理信息系统">
+	<enterprise:有批准日期>14-9-22</enterprise:有批准日期>
+	<enterprise:有软件全称>货场综合管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR142404</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路货场综合管理信息系统">
+	<enterprise:有批准日期>14-12-3</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路货场综合管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2014SR186877</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路建设管理信息系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路建设管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>建设管理信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008685</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局非运输经济管理信息系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局非运输经济管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>非运输经济管理信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008582</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局财务管理信息系统">
+	<enterprise:有批准日期>15-1-15</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局财务管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>财务管理信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR008610</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路客车电子标签编程系统">
+	<enterprise:有批准日期>14-6-17</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路客车电子标签编程系统</enterprise:有软件全称>
+	<enterprise:有软件简称>客车标签编程网</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR079674</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局安全风险管理信息系统">
+	<enterprise:有批准日期>14-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局安全风险管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>安全风险管理信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR074225</enterprise:有登记号>
+	<enterprise:有分类号>30106-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局资产开发利用信息系统">
+	<enterprise:有批准日期>14-6-9</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局资产开发利用信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>资产开发利用信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR073921</enterprise:有登记号>
+	<enterprise:有分类号>30106-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局薪酬管理信息系统">
+	<enterprise:有批准日期>14-4-8</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局薪酬管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>薪酬管理信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR039268</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：经营指标评价体系信息平台">
+	<enterprise:有批准日期>14-4-8</enterprise:有批准日期>
+	<enterprise:有软件全称>经营指标评价体系信息平台</enterprise:有软件全称>
+	<enterprise:有软件简称>经营指标体系</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR039274</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路客货运输及物流服务产品管理系统">
+	<enterprise:有批准日期>14-6-20</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路客货运输及物流服务产品管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>RPMS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR081955</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路局人力资源开发管理信息系统">
+	<enterprise:有批准日期>14-4-8</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路局人力资源开发管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>人力资源信息系统</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR039271</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：高铁工务数字化管理系统">
+	<enterprise:有批准日期>13-12-14</enterprise:有批准日期>
+	<enterprise:有软件全称>高铁工务数字化管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>高铁工务数字化系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR146100</enterprise:有登记号>
+	<enterprise:有分类号>30106-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：窄带图片传输加速器软件">
+	<enterprise:有批准日期>14-6-17</enterprise:有批准日期>
+	<enterprise:有软件全称>窄带图片传输加速器软件</enterprise:有软件全称>
+	<enterprise:有软件简称>加速器软件</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR079672</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：动车组运行故障图像动态检测系统软件">
+	<enterprise:有批准日期>15-4-21</enterprise:有批准日期>
+	<enterprise:有软件全称>动车组运行故障图像动态检测系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>TEDS</enterprise:有软件简称>
+	<enterprise:有登记号>2015SR065842</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：六大体系配套信息系统软件">
+	<enterprise:有批准日期>13-8-27</enterprise:有批准日期>
+	<enterprise:有软件全称>六大体系配套信息系统软件</enterprise:有软件全称>
+	<enterprise:有软件简称>6S综合平台</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR090787</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：HMIS运用子系统非列检作业场综合信息管理系统">
+	<enterprise:有批准日期>13-3-7</enterprise:有批准日期>
+	<enterprise:有软件全称>HMIS运用子系统非列检作业场综合信息管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>HMIS综合信息管理系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR021396</enterprise:有登记号>
+	<enterprise:有分类号>30208-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路劳动和工资标准化管理信息系统">
+	<enterprise:有批准日期>13-2-26</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路劳动和工资标准化管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>铁劳资系统</enterprise:有软件简称>
+	<enterprise:有登记号>2013SR016893</enterprise:有登记号>
+	<enterprise:有分类号>30106-6100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：货车列检技术作业管理系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>货车列检技术作业管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>HMIS3.0</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135120</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：Miracle企业资产管理系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>Miracle企业资产管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>meam</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135096</enterprise:有登记号>
+	<enterprise:有分类号>30100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路货车临修质量控制系统-手持机子系统">
+	<enterprise:有批准日期>12-11-27</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路货车临修质量控制系统-手持机子系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR114492</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路货车临修质量控制系统-工位机子系统">
+	<enterprise:有批准日期>12-11-26</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路货车临修质量控制系统-工位机子系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR113839</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：手持机C#平台">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>手持机C#平台</enterprise:有软件全称>
+	<enterprise:有软件简称>手持机平台</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135110</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路互动教学考评平台">
+	<enterprise:有批准日期>12-10-26</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路互动教学考评平台</enterprise:有软件全称>
+	<enterprise:有软件简称>DLEARN</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR100993</enterprise:有登记号>
+	<enterprise:有分类号>30209-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：动车组运行故障动态图像检测系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>动车组运行故障动态图像检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TEDS</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR134254</enterprise:有登记号>
+	<enterprise:有分类号>30000-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路数字化工务管理系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路数字化工务管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称>数字化工务</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135112</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：电气化铁路接触网成像检测系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>电气化铁路接触网成像检测系统</enterprise:有软件全称>
+	<enterprise:有软件简称>接触网成像检测系统</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR134452</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路客车运用作业管理系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路客车运用作业管理系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135104</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：TFDS动态检查集中作业系统">
+	<enterprise:有批准日期>12-12-26</enterprise:有批准日期>
+	<enterprise:有软件全称>TFDS动态检查集中作业系统</enterprise:有软件全称>
+	<enterprise:有软件简称>TFDS集中作业平台</enterprise:有软件简称>
+	<enterprise:有登记号>2012SR135116</enterprise:有登记号>
+	<enterprise:有分类号>30200-5100</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：货车物资管理信息系统">
+	<enterprise:有批准日期>11-7-19</enterprise:有批准日期>
+	<enterprise:有软件全称>货车物资管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2011SR050016</enterprise:有登记号>
+	<enterprise:有分类号>30200-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：货车检修运用技术管理信息系统">
+	<enterprise:有批准日期>14-11-4</enterprise:有批准日期>
+	<enterprise:有软件全称>货车检修运用技术管理信息系统</enterprise:有软件全称>
+	<enterprise:有软件简称>HMIS</enterprise:有软件简称>
+	<enterprise:有登记号>2014SR168939</enterprise:有登记号>
+	<enterprise:有分类号>10100-0000</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁路货车技术管理信息系统 [简称: HMIS] V1.0">
+	<enterprise:有批准日期>06-5-31</enterprise:有批准日期>
+	<enterprise:有软件全称>铁路货车技术管理信息系统 [简称: HMIS] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2006SR06962</enterprise:有登记号>
+	<enterprise:有分类号>64000-7300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁道部货车技术管理信息系统 [简称: HMIS] V1.0">
+	<enterprise:有批准日期>01-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>铁道部货车技术管理信息系统 [简称: HMIS] V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4793</enterprise:有登记号>
+	<enterprise:有分类号>64000-7300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:软件著作权  rdf:ID="北京京天威科技发展有限公司的软件著作：铁道部货车财务清算系统 V1.0">
+	<enterprise:有批准日期>01-11-14</enterprise:有批准日期>
+	<enterprise:有软件全称>铁道部货车财务清算系统 V1.0</enterprise:有软件全称>
+	<enterprise:有软件简称> </enterprise:有软件简称>
+	<enterprise:有登记号>2001SR4794</enterprise:有登记号>
+	<enterprise:有分类号>65000-7300</enterprise:有分类号>
+</enterprise:软件著作权>
+<enterprise:网站备案 rdf:ID="北京京天威科技发展有限公司的网站备案：郑州信息管理系统平台">
+	<enterprise:有审核时间>17-7-18</enterprise:有审核时间>
+	<enterprise:有网站全称>郑州信息管理系统平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.zzpfm.com</enterprise:有网站首页>
+	<enterprise:有域名>zzpfm.com</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12049870号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京天威科技发展有限公司的网站备案：新铁营销平台">
+	<enterprise:有审核时间>17-7-18</enterprise:有审核时间>
+	<enterprise:有网站全称>新铁营销平台</enterprise:有网站全称>
+	<enterprise:有网站首页>www.hymarket.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>hymarket.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12049870号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:网站备案 rdf:ID="北京京天威科技发展有限公司的网站备案：北京京天威">
+	<enterprise:有审核时间>17-7-18</enterprise:有审核时间>
+	<enterprise:有网站全称>北京京天威</enterprise:有网站全称>
+	<enterprise:有网站首页>www.jtv.com.cn</enterprise:有网站首页>
+	<enterprise:有域名>jtv.com.cn</enterprise:有域名>
+	<enterprise:有备案号>京ICP备12049870号</enterprise:有备案号>
+	<enterprise:有状态>正常</enterprise:有状态>
+	<enterprise:有性质>企业</enterprise:有性质>
+</enterprise:网站备案>
+<enterprise:员工基本信息 rdf:ID="北京京天威科技发展有限公司的员工基本信息">
+	<enterprise:有从业人数></enterprise:有从业人数>
+	<enterprise:有年龄构成>25-45岁:,25岁以下:,45岁以上:</enterprise:有年龄构成>
+	<enterprise:有学历构成>本科及以上:,高中及以下:,专科:</enterprise:有学历构成>
+	<enterprise:有岗位构成>管理人员:,技术人员:,作业人员:</enterprise:有岗位构成>
+	<enterprise:有社会保障>参加社保:人,未参加:人</enterprise:有社会保障>
+</enterprise:员工基本信息>
+<enterprise:主营业务或产品 rdf:ID="北京京天威科技发展有限公司的主营业务（产品）">
+	<enterprise:是否发生变化></enterprise:是否发生变化>
+	<enterprise:生产经营是否正常></enterprise:生产经营是否正常>
+	<enterprise:收款方式及回款周期>无</enterprise:收款方式及回款周期>
+	<enterprise:发展趋势></enterprise:发展趋势>
+	<enterprise:主营业务具体情况></enterprise:主营业务具体情况>
+</enterprise:主营业务或产品>
+<enterprise:主要客户及经营情况    rdf:ID="北京京天威科技发展有限公司的主要客户及经营情况">
+	<enterprise:是否减少或流失></enterprise:是否减少或流失>
+	<enterprise:现有主要客户></enterprise:现有主要客户>
+	<enterprise:目前经营状况></enterprise:目前经营状况>
+</enterprise:主要客户及经营情况 >
+<enterprise:外部经营环境 rdf:ID="北京京天威科技发展有限公司的外部经营环境">
+	<enterprise:行业相关政策>无</enterprise:行业相关政策>
+	<enterprise:行业特征及制约因素>无</enterprise:行业特征及制约因素>
+	<enterprise:市场格局及业内竞争>无</enterprise:市场格局及业内竞争>
+	<enterprise:行业现状及未来展望>无</enterprise:行业现状及未来展望>
+	<enterprise:是否发生不利经营的重大变化></enterprise:是否发生不利经营的重大变化>
+	<enterprise:对竞争变化或外部条件变化是否有应对措施></enterprise:对竞争变化或外部条件变化是否有应对措施>
+	<enterprise:外部环境具体情况></enterprise:外部环境具体情况>
+</enterprise:外部经营环境 >
+<enterprise:企业类型 rdf:ID="北京京天威科技发展有限公司的企业类型">
+	<enterprise:企业类型></enterprise:企业类型>
+</enterprise:企业类型>
+<enterprise:行业政策及需求 rdf:ID="北京京天威科技发展有限公司的行业政策及需求">
+	<enterprise:有行业政策指向情况></enterprise:有行业政策指向情况>
+	<enterprise:有行业所处发展阶段></enterprise:有行业所处发展阶段>
+	<enterprise:有行业需求情况></enterprise:有行业需求情况>
+</enterprise:行业政策及需求>
+<enterprise:行业竞争 rdf:ID ="北京京天威科技发展有限公司的所处行业竞争">
+	<enterprise:有行业竞争格局></enterprise:有行业竞争格局>
+	<enterprise:有行业竞争优势></enterprise:有行业竞争优势>
+</enterprise:行业竞争>
+<enterprise:企业法人代表 rdf:ID="北京京天威科技发展有限公司的企业法人代表：">
+	<enterprise:名称></enterprise:名称>
+	<enterprise:性别></enterprise:性别>
+	<enterprise:民族></enterprise:民族>
+	<enterprise:年龄></enterprise:年龄>
+	<enterprise:国籍></enterprise:国籍>
+	<enterprise:出生年月></enterprise:出生年月>
+	<enterprise:身份证号码></enterprise:身份证号码>
+	<enterprise:政治面貌></enterprise:政治面貌>
+	<enterprise:学历></enterprise:学历>
+	<enterprise:学位></enterprise:学位>
+	<enterprise:职称></enterprise:职称>
+	<enterprise:现任职务></enterprise:现任职务>
+	<enterprise:联系电话></enterprise:联系电话>
+	<enterprise:传真></enterprise:传真>
+	<enterprise:E-mail></enterprise:E-mail>
+	<enterprise:发明创造或科研成果及著作></enterprise:发明创造或科研成果及著作>
+	<enterprise:奖惩情况></enterprise:奖惩情况>
+	<enterprise:经历></enterprise:经历>
+</enterprise:企业法人代表>
+<enterprise:税务  rdf:ID="北京京天威科技发展有限公司的税务信息">
+	<enterprise:有国税机关></enterprise:有国税机关>
+	<enterprise:有地税机关></enterprise:有地税机关>
+	<enterprise:有统一社会信用代码>91110108740402507R</enterprise:有统一社会信用代码>
+	<enterprise:纳税信用A级企业></enterprise:纳税信用A级企业>
+	<enterprise:欠税信息>未发现</enterprise:欠税信息>
+	<enterprise:有其它信息>未发现不良</enterprise:有其它信息>
+	<enterprise:有主要税种及税率>增值税</enterprise:有主要税种及税率>
+	<enterprise:有上年度缴税额>3978.72</enterprise:有上年度缴税额>
+	<enterprise:有上年末应交额>3794.80</enterprise:有上年末应交额>
+</enterprise:税务>
+<enterprise:负债偿还  rdf:ID="北京京天威科技发展有限公司的经营性负债偿还情况">
+	<enterprise:有采购业务或接受业务>结构件、回转窑、除尘器（含滤袋）等</enterprise:有采购业务或接受业务>
+	<enterprise:有供应商类型>—</enterprise:有供应商类型>
+	<enterprise:有交易地位>—</enterprise:有交易地位>
+	<enterprise:有议价能力>—</enterprise:有议价能力>
+	<enterprise:有延期支付>—</enterprise:有延期支付>
+	<enterprise:有上年度发生额>—</enterprise:有上年度发生额>
+	<enterprise:有上年度支付额>—</enterprise:有上年度支付额>
+	<enterprise:有上年度应付账款变动额>5342.12</enterprise:有上年度应付账款变动额>
+	<enterprise:有上年末应付账款余额>38739.29</enterprise:有上年末应付账款余额>
+</enterprise:负债偿还 >
+<enterprise:借贷人资信  rdf:ID="北京京天威科技发展有限公司的借贷人资信情况">
+	<enterprise:涉诉查询记录>未发现不良</enterprise:涉诉查询记录>
+	<enterprise:信用网查询记录>未发现不良</enterprise:信用网查询记录>
+	<enterprise:纳税信用等级>A</enterprise:纳税信用等级>
+	<enterprise:互联网查询情况>未发现不良</enterprise:互联网查询情况>
+</enterprise:借贷人资信 >
+<enterprise:软件著作数量 rdf:ID="北京京天威科技发展有限公司的软件著作数量">
+	<enterprise:软件著作总计>22</enterprise:软件著作总计>
+	<enterprise:软件著作数量2013>4</enterprise:软件著作数量2013>
+	<enterprise:软件著作数量2014>13</enterprise:软件著作数量2014>
+	<enterprise:软件著作数量2015>5</enterprise:软件著作数量2015>
+</enterprise:软件著作数量>
+
+<enterprise:专利数量 rdf:ID="北京京天威科技发展有限公司的专利数量">
+	<enterprise:专利总计>2</enterprise:专利总计>
+	<enterprise:专利数量2013>1</enterprise:专利数量2013>
+	<enterprise:专利数量2014>0</enterprise:专利数量2014>
+	<enterprise:专利数量2015>1</enterprise:专利数量2015>
+</enterprise:专利数量>
+<enterprise:商标数量 rdf:ID="北京京天威科技发展有限公司的商标数量">
+	<enterprise:商标总计>6</enterprise:商标总计>
+	<enterprise:商标数量2013>6</enterprise:商标数量2013>
+	<enterprise:商标数量2014>0</enterprise:商标数量2014>
+	<enterprise:商标数量2015>0</enterprise:商标数量2015>
+</enterprise:商标数量>
+<enterprise:网站备案数量 rdf:ID="北京京天威科技发展有限公司的网站备案数量">
+	<enterprise:网站备案总计>0</enterprise:网站备案总计>
+	<enterprise:网站备案数量2013>0</enterprise:网站备案数量2013>
+	<enterprise:网站备案数量2014>0</enterprise:网站备案数量2014>
+	<enterprise:网站备案数量2015>0</enterprise:网站备案数量2015>
+</enterprise:网站备案数量>
+</rdf:RDF>
