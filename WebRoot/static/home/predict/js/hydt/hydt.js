@@ -56,7 +56,8 @@ var reducer = function add(sumSoFar, item) {
 function maths(data) {
 	var val = [];
 	for (var i = 0; i < data.length; i++) {
-		val[i] = parseFloat(data[i]);
+		val[i] = parseFloat(data[i].toFixed(4));
+		//console.log("111111111111"+data[i].toFixed(4))
 	}
 	var total = val.reduce(reducer, {
 		sum : 0
@@ -2927,35 +2928,35 @@ $('#Es3AndLstmBtn').click(
 							element.innerHTML = "您预测了【" + predTimeVal
 									+ "】年的财务风险各分指标结果如下：<br/>" + "【偿债能力】"
 									+ cz.slice(-predTimeVal) + "【偏冷线】"
-									+ czSection[0][0] + "【适度下限】"
-									+ czSection[1][0] + '<br/>' + "【盈利能力】"
+									+ czSection[0][0].toFixed(4) + "【适度下限】"
+									+ czSection[1][0].toFixed(4) + '<br/>' + "【盈利能力】"
 									+ yl.slice(-predTimeVal) + "【偏冷线】"
-									+ ylSection[0][0] + "【适度下限】"
-									+ ylSection[1][0] + '<br/>' + "【经营效率】"
+									+ ylSection[0][0].toFixed(4) + "【适度下限】"
+									+ ylSection[1][0].toFixed(4) + '<br/>' + "【经营效率】"
 									+ jy.slice(-predTimeVal) + "【偏冷线】"
-									+ jySection[0][0] + "【适度下限】"
-									+ jySection[1][0] + '<br/>' + "【增长潜力】"
+									+ jySection[0][0].toFixed(4)+ "【适度下限】"
+									+ jySection[1][0].toFixed(4) + '<br/>' + "【增长潜力】"
 									+ zz.slice(-predTimeVal) + "【偏冷线】"
-									+ zzSection[0][0] + "【适度下限】"
-									+ zzSection[1][0] + '<br/>' + "【综合风险】"
+									+ zzSection[0][0].toFixed(4) + "【适度下限】"
+									+ zzSection[1][0].toFixed(4) + '<br/>' + "【综合风险】"
 									+ zh.slice(-predTimeVal)
 						} else {
 							// 长短期记忆网络模型。 20181015实现 by HangHang Li
 							console.log(data['profitIndex'])
 							element.innerHTML = "您预测了【" + predTimeVal
 									+ "】年的财务风险各分指标结果如下：<br/>" + "【偿债能力】"
-									+ data["debtIndex"] + '||' + "偏冷线："
-									+ data['resDebt'][0] + ",适度下限："
+									+ data["debtIndex"].toFixed(4) + '||' + "偏冷线："
+									+ data['resDebt'][0].toFixed(4) + ",适度下限："
 									+ data['resDebt'][1] + '<br/>' + "【盈利能力】"
-									+ data['profitIndex'] + '||' + "偏冷线："
-									+ data['resProfit'][0] + ",适度下限："
+									+ data['profitIndex'].toFixed(4) + '||' + "偏冷线："
+									+ data['resProfit'][0].toFixed(4) + ",适度下限："
 									+ data['resProfit'][1] + '<br/>' + "【经营效率】"
-									+ data['businessIndex'] + '||' + "偏冷线："
-									+ data['resBusiness'][0] + ",适度下限："
+									+ data['businessIndex'].toFixed(4) + '||' + "偏冷线："
+									+ data['resBusiness'][0].toFixed(4) + ",适度下限："
 									+ data['resBusiness'][1] + '<br/>'
 									+ "【增长潜力】" + data['increaseIndex'] + '||'
-									+ "偏冷线：" + data['resIncrease'][0]
-									+ ",适度下限：" + data['resIncrease'][1]
+									+ "偏冷线：" + data['resIncrease'][0].toFixed(4)
+									+ ",适度下限：" + data['resIncrease'][1].toFixed(4)
 						}
 					}
 
@@ -2976,10 +2977,10 @@ $('#Es3AndLstmBtn').click(
 								element.innerHTML = "您预测了【" + predTimeVal
 										+ "】个季度的市场风险预警结果如下：<br />" + "【同步指数】"
 										+ tb.slice(-predTimeVal) + '<br />'
-										+ "【偏热线】" + Section[2] + '<br />'
-										+ "【偏冷线】" + Section[0][0] + '<br />'
-										+ "【适度上限】" + Section[3] + '<br />'
-										+ "【适度下限】" + Section[1][0] + '<br />'
+										+ "【偏热线】" + Section[2].toFixed(4) + '<br />'
+										+ "【偏冷线】" + Section[0][0].toFixed(4) + '<br />'
+										+ "【适度上限】" + Section[3].toFixed(4) + '<br />'
+										+ "【适度下限】" + Section[1][0].toFixed(4) + '<br />'
 							} else {
 								element.innerHTML = "您预测了【" + predTimeVal
 										+ "】个季度的合成指数结果如下：<br />" + "【同步】"

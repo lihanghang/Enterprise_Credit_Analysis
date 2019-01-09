@@ -1,175 +1,165 @@
+
 #@predict() #define predict_main()
 
 <div class="container-content">
-	<!-- common search -->
-	<div class="sd_company_container">
-		<div class="sd_form_search" style="height: 10px;">
-			<p style="text-align: center; font-size: 30px">企业综合信用评级</p>
-		</div>
-	</div>
+    <!-- common search -->
+    <div class="sd_company_container">
+        <div class="sd_form_search" style="height: 10px;">
+            <p style="text-align: center; font-size: 30px">企业综合信用评级</p>
+        </div>
+    </div>
 
-	<div class="sd_company_container" style="margin-top: 20px;">
-		<div class="sd_cent">
-			<div class="sd_cent">
-				<div class="sd_left_block">
-					<div class="sd_left_block_tit" style="color: green">
-						<b>评级企业相关指标输入</b>
-					</div>
-					<div class="or_left_silde" id="searchCondition"
-						style="height: 500px">
+    <div class="sd_company_container" style="margin-top: 20px;">
+        <div class="sd_cent">
+            <div class="sd_cent">
+                <div class="sd_left_block">
+                    <div class="sd_left_block_tit" style="color: green">
+                        <b>评级企业相关指标输入</b>
+                    </div>
+                    <div class="or_left_silde" id="searchCondition"
+                        style="height: 500px">
 
-						<div class="row">
-							<div class="col-xs-6" style="border-right: 2px">
-								<div class="page-header">
-									<h3>
-										决策树评级模型
-										<!--  <small>子标题</small> -->
-									</h3>
-								</div>
-								<div class="or_category">
-									<form class="form-horizontal" role="form" id="credit"
-										name="form1" method="POST" onsubmit="return false">
-										<div class="form-group">
-											<label for="firstname" class="col-sm-5 control-label">资产负债率（%）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.debt_rate"
-													class="form-control" id="firstname" placeholder="请输入资产负债率">
-											</div>
-										</div>
-										<div class="form-group">
-											<label for="lastname" class="col-sm-5 control-label">EBITDA利息数（倍）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.interest"
-													class="form-control" id="lastname"
-													placeholder="请输入EBITDA利息数">
-											</div>
-										</div>
-										<div class="form-group">
-											<label for="lastname" class="col-sm-5 control-label">存货周转次数（次）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.inventoryTurn"
-													class="form-control" id="lastname" placeholder="请输入存货周转次数">
-											</div>
-										</div>
-										<div class="form-group">
-											<label for="lastname" class="col-sm-5 control-label">现金流动负债比率或EBITDA（%）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.flowDebt"
-													class="form-control" id="lastname"
-													placeholder="现金流动负债比率或EBITDA">
-											</div>
-										</div>
-										<div class="form-group">
-											<label for="lastname" class="col-sm-5 control-label">成本费用利润率（%）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.cost"
-													class="form-control" id="lastname" placeholder="请输入成本费用利润率">
-											</div>
-										</div>
-										<div class="form-group">
-											<label for="lastname" class="col-sm-5 control-label">所有者权益合计（万元）</label>
-											<div class="col-sm-5">
-												<input type="text" name="creditQualityBean.ownerEquity"
-													class="form-control" id="lastname" placeholder="请输入所有者权益合计">
-											</div>
-										</div>
-										<!--            <div class="form-group">
+                        <div class="row">
+                            <div class="col-xs-6" style="border-right: 2px">
+                                <div class="page-header">
+                                    <h3>
+                                        决策树评级模型
+                                        <!--  <small>子标题</small> -->
+                                    </h3>
+                                </div>
+                                <div class="or_category">
+                                    <form class="form-horizontal" role="form" id="credit"
+                                        name="form1" method="POST" onsubmit="return false">
+                                        <div class="form-group">
+                                            <label for="firstname" class="col-sm-5 control-label">资产负债率（%）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.debt_rate"
+                                                    class="form-control" id="firstname" placeholder="请输入资产负债率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="lastname" class="col-sm-5 control-label">EBITDA利息数（倍）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.interest"
+                                                    class="form-control" id="lastname"
+                                                    placeholder="请输入EBITDA利息数">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="lastname" class="col-sm-5 control-label">存货周转次数（次）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.inventoryTurn"
+                                                    class="form-control" id="lastname" placeholder="请输入存货周转次数">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="lastname" class="col-sm-5 control-label">现金流动负债比率或EBITDA（%）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.flowDebt"
+                                                    class="form-control" id="lastname"
+                                                    placeholder="现金流动负债比率或EBITDA">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="lastname" class="col-sm-5 control-label">成本费用利润率（%）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.cost"
+                                                    class="form-control" id="lastname" placeholder="请输入成本费用利润率">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="lastname" class="col-sm-5 control-label">所有者权益合计（万元）</label>
+                                            <div class="col-sm-5">
+                                                <input type="text" name="creditQualityBean.ownerEquity"
+                                                    class="form-control" id="lastname" placeholder="请输入所有者权益合计">
+                                            </div>
+                                        </div>
+                                        <!--            <div class="form-group">
                                            <label for="lastname" class="col-sm-2 control-label">公司信用量化等级</label>
                                         <div class="col-sm-10">
                                             <input type="text" name="creditNum" class="form-control" id="lastname" 
                                             placeholder="请输入公司信用量化等级">
                                         </div>
                                    </div> -->
-										<div class="form-group">
-											<div class="col-sm-offset-5 col-sm-3">
-												<button type="submit" id="btn" class="btn btn-default">开始评级</button>
-											</div>
-										</div>
-									</form>
-								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="page-header">
-									<h3>
-										卷积神经网络评级模型 <small>
-											<p class="text-right">
-												<a style="color: #1cbb9b; font-size: 10pt" target="_blank"
-													href="#(ctx_path)/predict/downLoad">下载CSV模板文件</a>
-											</p>
-										</small>
-									</h3>
+                                        <div class="form-group">
+                                            <div class="col-sm-offset-5 col-sm-3">
+                                                <button type="submit" id="btn" class="btn btn-default">开始评级</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="page-header">
+                                    <h3>
+                                        卷积神经网络评级模型 
+                                        <small>   
+                                            <p class="text-right">    
+                                                <a style="color:#1cbb9b; font-size:10pt" target="_blank" href="#(ctx_path)/predict/downLoad">下载CSV模板文件</a>
+                                            </p>    
+                                        </small>                                
+                                    </h3>
+                                    
+                                </div>
+                                
+                                <div class="upload">
+                                    <div class="upload-files">
+                                        <header>
+                                            <p>
+                                                <i class="fa fa-cloud-upload" aria-hidden="true"></i> <span
+                                                    class="up">企业指标数据导入</span>
+                                                <!-- <span class="load">load</span> -->
+                                            </p>
+                                        </header>
 
-								</div>
+                                        <i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
+                                        <form enctype="multipart/form-data">
+                                            <input type="file" name="csv_file" id="uploadfile">
+                                            <button class="importar" id="upload" onclick="return false">上传&&评级</button>
+                                        </form>                                                                 
+                                    </div>                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sd_left_block" id="resultsView" style="display: none">
+                    <div class="sd_left_block_tit" style="color: green">
+                        <b>结果及分析</b>
 
-								<!-- <label for="input-b1">上传预测指标数据</label>                        	
-								<span style="font-size:14px;">
-									         <form  enctype="multipart/form-data" >
-                                                <input type="file" name="csv_file" id="uploadfile"> 
-                                                <button id="upload" onclick="return false" >上传&&评级</button>
-                                             </form> 
-							  </span> -->
-								<div class="upload">
-									<div class="upload-files">
-										<header>
-											<p>
-												<i class="fa fa-cloud-upload" aria-hidden="true"></i> <span
-													class="up">企业指标数据导入</span>
-												<!-- <span class="load">load</span> -->
-											</p>
-										</header>
+                    </div>
+                    <div class="or_left_silde" id="searchCondition">
+                        <div class="or_category" style="text-align: center" id="loading"></div>
+                        <span id="grade"></span>
+                        <p id="msg"></p>
+                        <div class="row">
+                            <!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
+                            <div class="col-md-4">
+                                <div id="interest" style="height: 300px;"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="debt" style="height: 300px;"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="rate" style="height: 300px;"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="turn" style="height: 300px;"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="cost" style="height: 300px;"></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="owner" style="height: 300px;"></div>
+                            </div>
+                        </div>
+                        <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+                    </div>
+                </div>
+            </div>
 
-										<i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
-										<form enctype="multipart/form-data">
-											<input type="file" name="csv_file" id="uploadfile">
-											<button class="importar" id="upload" onclick="return false">上传&&评级</button>
-										</form>
-
-
-									</div>
-
-
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="sd_left_block" id="resultsView" style="display: none">
-					<div class="sd_left_block_tit" style="color: green">
-						<b>结果及分析</b>
-
-					</div>
-					<div class="or_left_silde" id="searchCondition">
-						<div class="or_category" style="text-align: center" id="loading"></div>
-						<span id="grade"></span>
-						<p id="msg"></p>
-						<div class="row">
-							<!-- style=" box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;" -->
-							<div class="col-md-4">
-								<div id="interest" style="height: 300px;"></div>
-							</div>
-							<div class="col-md-4">
-								<div id="debt" style="height: 300px;"></div>
-							</div>
-							<div class="col-md-4">
-								<div id="rate" style="height: 300px;"></div>
-							</div>
-							<div class="col-md-4">
-								<div id="turn" style="height: 300px;"></div>
-							</div>
-							<div class="col-md-4">
-								<div id="cost" style="height: 300px;"></div>
-							</div>
-							<div class="col-md-4">
-								<div id="owner" style="height: 300px;"></div>
-							</div>
-						</div>
-						<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</div>
+        </div>
+    </div>
 </div>
 #end
 
@@ -184,158 +174,158 @@ var cost;
 var owner;
 
 $('#btn').click(function(){
-	//防止用户未填写完整数据提交
-	for(var i=0;i<document.form1.elements.length-1;i++)
+    //防止用户未填写完整数据提交
+    for(var i=0;i<document.form1.elements.length-1;i++)
     {
      if(document.form1.elements[i].value=="")
      {
-    		layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('请填写完整数据信息！')
-    		});	 
+            layui.use(['layer', 'form'], function(){
+                //提示层
+                layer.msg('请填写完整数据信息！')
+            });  
        document.form1.elements[i].focus();
        return false;
      } 
      // 限制只输入数字
      var reg = /^[0-9]+$/; 
      if(document.form1.elements[i].value!=""&&!reg.test(document.form1.elements[i].value)){ 
-    	 layui.use(['layer', 'form'], function(){
- 			//提示层
- 			layer.msg('请输入数值型数据！')
- 		});	 
+         layui.use(['layer', 'form'], function(){
+            //提示层
+            layer.msg('请输入数值型数据！')
+        });  
      return false; 
      } 
  }
-	//表单提交数据序列化
-	var credit_data =  $('#credit').serialize();	
-	//console.log(credit_data);
-	 $.ajax({
-	        cache:true,//保留缓存数据
-	        type:"POST",//为post请求
-	        url:"./creditQuality",//请求后台方法并接受模型返回数据
-	        data:credit_data,//将该表单序列化
-	        //async: false,
-	        error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg").empty(); //加载前先清空结果信息
-	        	$("#grade").empty(); //加载前先清空结果信息
-	        	/* 	$("#interest").empty(); //加载前先清空结果信息
-	        	$("#turn").empty(); //加载前先清空结果信息
-	        	$("#rate").empty(); //加载前先清空结果信息
-	        	$("#cost").empty(); //加载前先清空结果信息
-	        	$("#owner").empty(); //加载前先清空结果信息 */
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
-	        success:function(data){
-	        	console.log(data);
-	        	//成功接收后台返回数据进行其他处理操作
-	        	layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
+    //表单提交数据序列化
+    var credit_data =  $('#credit').serialize();    
+    //console.log(credit_data);
+     $.ajax({
+            cache:true,//保留缓存数据
+            type:"POST",//为post请求
+            url:"./creditQuality",//请求后台方法并接受模型返回数据
+            data:credit_data,//将该表单序列化
+            //async: false,
+            error:function(request){//请求失败之后的操作
+                return;
+            },
+            beforeSend:function(XMLHttpRequest){
+                $("#msg").empty(); //加载前先清空结果信息
+                $("#grade").empty(); //加载前先清空结果信息
+                /*  $("#interest").empty(); //加载前先清空结果信息
+                $("#turn").empty(); //加载前先清空结果信息
+                $("#rate").empty(); //加载前先清空结果信息
+                $("#cost").empty(); //加载前先清空结果信息
+                $("#owner").empty(); //加载前先清空结果信息 */
+                 layui.use(['layer', 'form'], function(){
+                     index = layer.load(1, {shade: 0.06});
+             });
+            },  
+            success:function(data){
+                console.log(data);
+                //成功接收后台返回数据进行其他处理操作
+                layui.use(['layer', 'form'], function(){
+                        var layer = layui.layer
+                        layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	        	document.getElementById("resultsView").style.display="block";//显
-	        	var CQ = data.lst[0];
-	        	var ANN = data["ANNRes"];
-	        	layui.use(['rate'], function(){
-	        		  var rate = layui.rate;
-	        		  //只读
-	        		  rate.render({
-	        		    elem: '#grade'
-	        		    ,value: CQ
-	        		    ,readonly: true
-	        		    ,theme: '#009688'
-	        		  });
-	        	});
-	        		        	
-	        	//console.log(data);        		        		        	        	          	          	          
-	         //四分位图展示评级企业的数据情况0411
-	          // 基于准备好的dom，初始化echarts实例
-	          if(myChart != null && interest != "" && turn != undefined && rate !=null && cost != null && owner != null) {
-					myChart.dispose();
-				 	interest.dispose();
-					turn.dispose();
-					rate.dispose();
-					cost.dispose();
-					owner.dispose();
-			 }
-	         myChart = echarts.init(document.getElementById('debt'));
-	         interest = echarts.init(document.getElementById('interest'));
-	         turn = echarts.init(document.getElementById('turn'));
-	         rate = echarts.init(document.getElementById('rate'));
-	         cost = echarts.init(document.getElementById('cost'));
-	         owner = echarts.init(document.getElementById('owner'));
-	         //accept parameters
-	         
-	          // Generate data.
-	         var debt = data.map['debt'];
-	         var interest_data = data.map['interest'];	
-	         var turn_data = data.map['turn'];	
-	         var rate_data = data.map['rate'];	
-	         var cost_data = data.map['profit'];	
-	         var owner_data = data.map['owner'];	
-	         var datas = echarts.dataTool.prepareBoxplotData([debt]);
-	         var datas1 = echarts.dataTool.prepareBoxplotData([interest_data]);
-	         var datas2 = echarts.dataTool.prepareBoxplotData([turn_data]);
-	         var datas3 = echarts.dataTool.prepareBoxplotData([rate_data]);
-	         var datas4 = echarts.dataTool.prepareBoxplotData([cost_data]);
-	         var datas5 = echarts.dataTool.prepareBoxplotData([owner_data]);
-	         //清空异常值
-	         
-	         datas.outliers.splice(0,datas.outliers.length);
-	         datas1.outliers.splice(0,datas1.outliers.length);
-	         datas2.outliers.splice(0,datas2.outliers.length);
-	         datas3.outliers.splice(0,datas3.outliers.length);
-	         datas4.outliers.splice(0,datas4.outliers.length);
-	         datas5.outliers.splice(0,datas5.outliers.length);
-	         //添加当前指标位置,走捷径的方法hh	     
-	         datas.outliers.push(data.para['debt_rate'])
-	         datas1.outliers.push(data.para['interest'])
-	         datas2.outliers.push(data.para['inventoryTurn'])
-	         datas3.outliers.push(data.para['flowDebt'])
-	         datas4.outliers.push(data.para['cost'])
-	         datas5.outliers.push(data.para['ownerEquity'])
-	        
-	         var debtInfo = "";
-	    
-	         if(datas.outliers[0]>=datas.boxData[0][4]){
-	        	 console.log(datas.boxData[0][4]);
-	        	 debtInfo ="本企业资产负债率远高于行业标准，资产负债率异常！";
-	         }else if(datas.outliers[0]<datas.boxData[0][4] && datas.outliers[0]>=datas.boxData[0][3]){
-	        	 	        	 
-	        	 debtInfo ="本企业资产负债率较高于行业标准，资产负债率较高！";	        	 
-	         }else if(datas.outliers[0]<datas.boxData[0][3] && datas.outliers[0]>=datas.boxData[0][1]){
-	        	 
-	        	 debtInfo ="本企业资产负债率较处于行业平均水平左右，资产负债率属于正常范围！";
-	         }else if (datas.outliers[0]<datas.boxData[0][1] && datas.outliers[0]>=datas.boxData[0][0]){
-	        	 debtInfo ="本企业资产负债率较低于行业平均水平标准，资产负债率较低！";
-	        	 
-	         }else{
-	        	 debtInfo ="本企业资产负债率远低于行业水平，指标表现异常！";
-	         }
-	         
-	         
-	         var guidInfo = "";
-	        	if(CQ==1){
-	        		guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。\n";
-	        	}else if(CQ==2){
-	        		
-	        		guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。\n";
-	        	}else if(CQ==3){
-	        		guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。\n";
-	        	}else{
-	        		guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。\n";
-	        	}
-	         $("#msg").html("您查询企业的综合信用等级为："+CQ+"星级.<br>"+guidInfo+"</br>"+debtInfo+"</br>"+"ANN返回概率结果："+ "</br>"+ANN);
-	        /*  for ( var i = 0; i <datas.outliers.length; i++){
-	        	 if(datas[i]>datas[5] || datas[i]<datas[5])
-	        		 delete datas[i];
-	        	} */
-	         	
+                document.getElementById("resultsView").style.display="block";//显
+                var CQ = data.lst[0];
+                var ANN = data["ANNRes"];
+                layui.use(['rate'], function(){
+                      var rate = layui.rate;
+                      //只读
+                      rate.render({
+                        elem: '#grade'
+                        ,value: CQ
+                        ,readonly: true
+                        ,theme: '#009688'
+                      });
+                });
+                                
+                //console.log(data);                                                                                          
+             //四分位图展示评级企业的数据情况0411
+              // 基于准备好的dom，初始化echarts实例
+              if(myChart != null && interest != "" && turn != undefined && rate !=null && cost != null && owner != null) {
+                    myChart.dispose();
+                    interest.dispose();
+                    turn.dispose();
+                    rate.dispose();
+                    cost.dispose();
+                    owner.dispose();
+             }
+             myChart = echarts.init(document.getElementById('debt'));
+             interest = echarts.init(document.getElementById('interest'));
+             turn = echarts.init(document.getElementById('turn'));
+             rate = echarts.init(document.getElementById('rate'));
+             cost = echarts.init(document.getElementById('cost'));
+             owner = echarts.init(document.getElementById('owner'));
+             //accept parameters
+             
+              // Generate data.
+             var debt = data.map['debt'];
+             var interest_data = data.map['interest'];  
+             var turn_data = data.map['turn'];  
+             var rate_data = data.map['rate'];  
+             var cost_data = data.map['profit'];    
+             var owner_data = data.map['owner'];    
+             var datas = echarts.dataTool.prepareBoxplotData([debt]);
+             var datas1 = echarts.dataTool.prepareBoxplotData([interest_data]);
+             var datas2 = echarts.dataTool.prepareBoxplotData([turn_data]);
+             var datas3 = echarts.dataTool.prepareBoxplotData([rate_data]);
+             var datas4 = echarts.dataTool.prepareBoxplotData([cost_data]);
+             var datas5 = echarts.dataTool.prepareBoxplotData([owner_data]);
+             //清空异常值
+             
+             datas.outliers.splice(0,datas.outliers.length);
+             datas1.outliers.splice(0,datas1.outliers.length);
+             datas2.outliers.splice(0,datas2.outliers.length);
+             datas3.outliers.splice(0,datas3.outliers.length);
+             datas4.outliers.splice(0,datas4.outliers.length);
+             datas5.outliers.splice(0,datas5.outliers.length);
+             //添加当前指标位置,走捷径的方法hh         
+             datas.outliers.push(data.para['debt_rate'])
+             datas1.outliers.push(data.para['interest'])
+             datas2.outliers.push(data.para['inventoryTurn'])
+             datas3.outliers.push(data.para['flowDebt'])
+             datas4.outliers.push(data.para['cost'])
+             datas5.outliers.push(data.para['ownerEquity'])
+            
+             var debtInfo = "";
+        
+             if(datas.outliers[0]>=datas.boxData[0][4]){
+                 console.log(datas.boxData[0][4]);
+                 debtInfo ="本企业资产负债率远高于行业标准，资产负债率异常！";
+             }else if(datas.outliers[0]<datas.boxData[0][4] && datas.outliers[0]>=datas.boxData[0][3]){
+                                 
+                 debtInfo ="本企业资产负债率较高于行业标准，资产负债率较高！";               
+             }else if(datas.outliers[0]<datas.boxData[0][3] && datas.outliers[0]>=datas.boxData[0][1]){
+                 
+                 debtInfo ="本企业资产负债率较处于行业平均水平左右，资产负债率属于正常范围！";
+             }else if (datas.outliers[0]<datas.boxData[0][1] && datas.outliers[0]>=datas.boxData[0][0]){
+                 debtInfo ="本企业资产负债率较低于行业平均水平标准，资产负债率较低！";
+                 
+             }else{
+                 debtInfo ="本企业资产负债率远低于行业水平，指标表现异常！";
+             }
+             
+             
+             var guidInfo = "";
+                if(CQ==1){
+                    guidInfo = "财务数据显示企业具有高效的运营效率，优秀的盈利能力以及偿债能力，保持行业内良好的增长率，企业信用极好，纳税信用等级B+以上。\n";
+                }else if(CQ==2){
+                    
+                    guidInfo = "财务数据显示企业具有良好的运营效率，良好的盈利能力以及偿债能力，保持行业内较好的增长率，企业信用良好，纳税信用等级B+以上。\n";
+                }else if(CQ==3){
+                    guidInfo = "财务数据显示企业具有一般的运营效率，一般的盈利能力以及偿债能力，保持行业内正常或稍低的增长率，企业信用一般，纳税信用等级C+以上。\n";
+                }else{
+                    guidInfo = "财务数据显示企业的运营效率低于行业平均水平，盈利能力以及偿债能力较差，企业信用差，纳税信用等级C以下。\n";
+                }
+             $("#msg").html("您查询企业的综合信用等级为："+CQ+"星级.<br>"+guidInfo+"</br>"+debtInfo+"</br>"+"ANN返回概率结果："+ "</br>"+ANN);
+            /*  for ( var i = 0; i <datas.outliers.length; i++){
+                 if(datas[i]>datas[5] || datas[i]<datas[5])
+                     delete datas[i];
+                } */
+                
 
 option = {
     tooltip: {
@@ -379,7 +369,7 @@ option = {
             tooltip: {
                 formatter: function (param) {
                     return [
-                       	 param.name + ': ',
+                         param.name + ': ',
                         'upper: ' + param.data[5],
                         'Q3: ' + param.data[4],
                         'median: ' + param.data[3],
@@ -404,373 +394,373 @@ option = {
         }
     ]
 };
-	        	option1 = {
-	        		    tooltip: {
-	        		        trigger: 'item',
-	        		        axisPointer: {
-	        		            type: 'shadow'
-	        		        }
-	        		    },
-	        		    grid: {
-	        		        left: '10%',
-	        		        right: '10%',
-	        		        bottom: '15%'
-	        		    },
-	        		    xAxis: {
-	        		        type: 'category',
-	        		        data: ['EBITDA利息数'],
-	        		        boundaryGap: true,
-	        		        nameGap: 30,
-	        		        splitArea: {
-	        		            show: false
-	        		        },
-	        		        axisLabel: {
-	        		            //formatter: 'EBITDA利息数'
-	        		        },
-	        		        splitLine: {
-	        		            show: false
-	        		        }
-	        		    },
-	        		    yAxis: {
-	        		        type: 'value',
-	        		        name: '倍',
-	        		        splitArea: {
-	        		            show: true
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: 'boxplot',
-	        		            type: 'boxplot',
-	        		            data: datas1.boxData,
-	        		            tooltip: {
-	        		                formatter: function (param) {
-	        		                    return [
-	        		                       	param.name + ': ',
-	        		                        'upper: ' + param.data[5],
-	        		                        'Q3: ' + param.data[4],
-	        		                        'median: ' + param.data[3],
-	        		                        'Q1: ' + param.data[2],
-	        		                        'lower: ' + param.data[1]
-	        		                    ].join('<br/>')
-	        		                }
-	        		            }/* ,
-	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },
-	        		        
-	        		        //描述当前预测指标
-	        		        {
-	        		            name: '企业指标所处位置',
-	        		            type: 'scatter',
-	        		            symbolSize:15, 
-	        		            label: {
-	        		                show: true,
-	        		                formatter: "{@[2]}",
-	        		                position: 'right',
-	        		            },
-	        		            data: datas1.outliers
-	        		        }
-	        		    ]
-	        		};
-	        	option2 = {
-	        		    tooltip: {
-	        		        trigger: 'item',
-	        		        axisPointer: {
-	        		            type: 'shadow'
-	        		        }
-	        		    },
-	        		    grid: {
-	        		        left: '10%',
-	        		        right: '10%',
-	        		        bottom: '15%'
-	        		    },
-	        		    xAxis: {
-	        		        type: 'category',
-	        		        data: ['存货周转次数'],
-	        		        boundaryGap: false,
-	        		        nameGap: 30,
-	        		        splitArea: {
-	        		            show: false
-	        		        },
-	        		        axisLabel: {
-	        		            //formatter: '存货周转次数'
-	        		        },
-	        		        splitLine: {
-	        		            show: false
-	        		        }
-	        		    },
-	        		    yAxis: {
-	        		        type: 'value',
-	        		        name: '次',
-	        		        splitArea: {
-	        		            show: true
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: 'boxplot',
-	        		            type: 'boxplot',
-	        		            data: datas2.boxData,
-	        		            tooltip: {
-	        		                formatter: function (param) {
-	        		                    return [
-	        		                       	param.name + ': ',
-	        		                        'upper: ' + param.data[5],
-	        		                        'Q3: ' + param.data[4],
-	        		                        'median: ' + param.data[3],
-	        		                        'Q1: ' + param.data[2],
-	        		                        'lower: ' + param.data[1]
-	        		                    ].join('<br/>')
-	        		                }
-	        		            }/* ,
-	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },
-	        		        
-	        		        {
-	        		        	name:
-									 (function (){
-			        		        	
-			        		        	var names="";
-			        		        	if(datas2.outliers>datas2.boxData[3])
-			        		        		  //names= '企业指标高于行业平均水平';
-			        		        		names = "企业指标高于行业平均水平";
-			        		        	else
-			        		        	    names = '企业指标低于行业平均水平';
-			   							return names;
-			        		        	})(),	        		        	
-	        		            type: 'scatter',
-	        		            symbolSize:15, 
-	        		            label: {
-	        		                show: true,
-	        		                formatter: "{@[2]}",
-	        		                position: 'right',
-	        		            },
-	        		            data: datas2.outliers
-	        		        }
-	        		    ]
-	        		};
-	        	option3 = {
-	        		    tooltip: {
-	        		        trigger: 'item',
-	        		        axisPointer: {
-	        		            type: 'shadow'
-	        		        }
-	        		    },
-	        		    grid: {
-	        		        left: '10%',
-	        		        right: '10%',
-	        		        bottom: '15%'
-	        		    },
-	        		    xAxis: {
-	        		        type: 'category',
-	        		        data: ['现金流动负债比率'],
-	        		        boundaryGap: true,
-	        		        nameGap: 30,
-	        		        splitArea: {
-	        		            show: false
-	        		        },
-	        		        axisLabel: {
-	        		            //formatter: '现金流动负债比率'
-	        		        },
-	        		        splitLine: {
-	        		            show: false
-	        		        }
-	        		    },
-	        		    yAxis: {
-	        		        type: 'value',
-	        		        name: '%',
-	        		        splitArea: {
-	        		            show: true
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: 'boxplot',
-	        		            type: 'boxplot',
-	        		            data: datas3.boxData,
-	        		            tooltip: {
-	        		                formatter: function (param) {
-	        		                    return [
-	        		                       	param.name + ': ',
-	        		                        'upper: ' + param.data[5],
-	        		                        'Q3: ' + param.data[4],
-	        		                        'median: ' + param.data[3],
-	        		                        'Q1: ' + param.data[2],
-	        		                        'lower: ' + param.data[1]
-	        		                    ].join('<br/>')
-	        		                }
-	        		            }/* ,
-	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },
-	        		        
-	        		        {
-	        		            name: '企业指标所处位置',
-	        		            type: 'scatter',
-	        		            symbolSize:15, 	        		        
-	        		            data: datas3.outliers,
-	        		            label: {
-	        		                show: true,
-	        		                formatter: "{@[2]}",
-	        		                position: 'right',
-	        		            },
-	        		        }
-	        		    ]
-	        		};
-	        	option4 = {
-	        		    tooltip: {
-	        		        trigger: 'item',
-	        		        axisPointer: {
-	        		            type: 'shadow'
-	        		        }
-	        		    },
-	        		    grid: {
-	        		        left: '10%',
-	        		        right: '10%',
-	        		        bottom: '15%'
-	        		    },
-	        		    xAxis: {
-	        		        type: 'category',
-	        		        data: ['成本费用利润率'],
-	        		        boundaryGap: true,
-	        		        nameGap: 30,
-	        		        splitArea: {
-	        		            show: false
-	        		        },
-	        		        axisLabel: {
-	        		            //formatter: '{value}%'
-	        		        },
-	        		        splitLine: {
-	        		            show: false
-	        		        }
-	        		    },
-	        		    yAxis: {
-	        		        type: 'value',
-	        		        name: '%',
-	        		        splitArea: {
-	        		            show: true
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: 'boxplot',
-	        		            type: 'boxplot',
-	        		            data: datas4.boxData,
-	        		            tooltip: {
-	        		                formatter: function (param) {
-	        		                    return [
-	        		                       	 param.name + ': ',
-	        		                        'upper: ' + param.data[5],
-	        		                        'Q3: ' + param.data[4],
-	        		                        'median: ' + param.data[3],
-	        		                        'Q1: ' + param.data[2],
-	        		                        'lower: ' + param.data[1]
-	        		                    ].join('<br/>')
-	        		                }
-	        		            }/* ,
-	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },
-	        		        
-	        		        {
-	        		            name: '企业指标所处位置',
-	        		            type: 'scatter',
-	        		            symbolSize:15, 	        	
-	        		            data: datas4.outliers,
-	        		            label: {
-	        		                show: true,
-	        		                formatter: "{@[2]}",
-	        		                position: 'right',
-	        		            },
-	        		        }
-	        		    ]
-	        		};
-	        	
-	        	
-	        	option5 = {
-	        		    tooltip: {
-	        		        trigger: 'item',
-	        		        axisPointer: {
-	        		            type: 'shadow'
-	        		        }
-	        		    },
-	        		    grid: {
-	        		        left: '14%',
-	        		        right: '10%',
-	        		        bottom: '15%'
-	        		    },
-	        		    xAxis: {
-	        		        type: 'category',
-	        		        data: ['所有者权益合计'],
-	        		        boundaryGap: true,
-	        		        nameGap: 30,
-	        		        splitArea: {
-	        		            show: false
-	        		        },
-	        		        axisLabel: {
-	        		            //formatter: '所有者权益合计'
-	        		        },
-	        		        splitLine: {
-	        		            show: false
-	        		        }
-	        		    },
-	        		    yAxis: {
-	        		        type: 'value',
-	        		        name: '万元',
-	        		        splitArea: {
-	        		            show: true
-	        		        }
-	        		    },
-	        		    series: [
-	        		        {
-	        		            name: 'boxplot',
-	        		            type: 'boxplot',
-	        		            data: datas5.boxData,
-	        		            tooltip: {
-	        		                formatter: function (param) {
-	        		                    return [
-	        		                         param.name + ': ',
-	        		                        'upper: ' + param.data[5],
-	        		                        'Q3: ' + param.data[4],
-	        		                        'median: ' + param.data[3],
-	        		                        'Q1: ' + param.data[2],
-	        		                        'lower: ' + param.data[1]
-	        		                    ].join('<br/>')
-	        		                }
-	        		            }/* ,
-	        		            markPoint:{name: "current", value: 560,symbol:'star'} */
-	        		        },	        		        
-	        		        {
-								
-	        		        	name:
-								 (function (){		        		        	
-		        		        	var names="";
-		        		        	if(datas5.outliers>datas5.boxData[3])
-		        		        		  //names= '企业指标高于行业平均水平';
-		        		        		names = "企业指标高于行业平均水平";
-		        		        	else
-		        		        	    names = '企业指标低于行业平均水平';
-		   							return names;
-		        		        	})(),
-		        		        data:datas5.outliers,	        
-	        		            type: 'scatter',
-	        		            symbolSize:15,
-	        		            label: {
-	        		                show: true,        		           
-	        		                position: 'right',
-	        		            }
-	        		        }
-	        		    ]
-	        		};
-	        	// 使用刚指定的配置项和数据显示图表。
-	        		myChart.setOption(option);
-	                interest.setOption(option1);
-	                turn.setOption(option2);
-	                rate.setOption(option3);
-	                cost.setOption(option4);
-	                owner.setOption(option5);
+                option1 = {
+                        tooltip: {
+                            trigger: 'item',
+                            axisPointer: {
+                                type: 'shadow'
+                            }
+                        },
+                        grid: {
+                            left: '10%',
+                            right: '10%',
+                            bottom: '15%'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: ['EBITDA利息数'],
+                            boundaryGap: true,
+                            nameGap: 30,
+                            splitArea: {
+                                show: false
+                            },
+                            axisLabel: {
+                                //formatter: 'EBITDA利息数'
+                            },
+                            splitLine: {
+                                show: false
+                            }
+                        },
+                        yAxis: {
+                            type: 'value',
+                            name: '倍',
+                            splitArea: {
+                                show: true
+                            }
+                        },
+                        series: [
+                            {
+                                name: 'boxplot',
+                                type: 'boxplot',
+                                data: datas1.boxData,
+                                tooltip: {
+                                    formatter: function (param) {
+                                        return [
+                                            param.name + ': ',
+                                            'upper: ' + param.data[5],
+                                            'Q3: ' + param.data[4],
+                                            'median: ' + param.data[3],
+                                            'Q1: ' + param.data[2],
+                                            'lower: ' + param.data[1]
+                                        ].join('<br/>')
+                                    }
+                                }/* ,
+                                markPoint:{name: "current", value: 560,symbol:'star'} */
+                            },
+                            
+                            //描述当前预测指标
+                            {
+                                name: '企业指标所处位置',
+                                type: 'scatter',
+                                symbolSize:15, 
+                                label: {
+                                    show: true,
+                                    formatter: "{@[2]}",
+                                    position: 'right',
+                                },
+                                data: datas1.outliers
+                            }
+                        ]
+                    };
+                option2 = {
+                        tooltip: {
+                            trigger: 'item',
+                            axisPointer: {
+                                type: 'shadow'
+                            }
+                        },
+                        grid: {
+                            left: '10%',
+                            right: '10%',
+                            bottom: '15%'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: ['存货周转次数'],
+                            boundaryGap: false,
+                            nameGap: 30,
+                            splitArea: {
+                                show: false
+                            },
+                            axisLabel: {
+                                //formatter: '存货周转次数'
+                            },
+                            splitLine: {
+                                show: false
+                            }
+                        },
+                        yAxis: {
+                            type: 'value',
+                            name: '次',
+                            splitArea: {
+                                show: true
+                            }
+                        },
+                        series: [
+                            {
+                                name: 'boxplot',
+                                type: 'boxplot',
+                                data: datas2.boxData,
+                                tooltip: {
+                                    formatter: function (param) {
+                                        return [
+                                            param.name + ': ',
+                                            'upper: ' + param.data[5],
+                                            'Q3: ' + param.data[4],
+                                            'median: ' + param.data[3],
+                                            'Q1: ' + param.data[2],
+                                            'lower: ' + param.data[1]
+                                        ].join('<br/>')
+                                    }
+                                }/* ,
+                                markPoint:{name: "current", value: 560,symbol:'star'} */
+                            },
+                            
+                            {
+                                name:
+                                     (function (){
+                                        
+                                        var names="";
+                                        if(datas2.outliers>datas2.boxData[3])
+                                              //names= '企业指标高于行业平均水平';
+                                            names = "企业指标高于行业平均水平";
+                                        else
+                                            names = '企业指标低于行业平均水平';
+                                        return names;
+                                        })(),                               
+                                type: 'scatter',
+                                symbolSize:15, 
+                                label: {
+                                    show: true,
+                                    formatter: "{@[2]}",
+                                    position: 'right',
+                                },
+                                data: datas2.outliers
+                            }
+                        ]
+                    };
+                option3 = {
+                        tooltip: {
+                            trigger: 'item',
+                            axisPointer: {
+                                type: 'shadow'
+                            }
+                        },
+                        grid: {
+                            left: '10%',
+                            right: '10%',
+                            bottom: '15%'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: ['现金流动负债比率'],
+                            boundaryGap: true,
+                            nameGap: 30,
+                            splitArea: {
+                                show: false
+                            },
+                            axisLabel: {
+                                //formatter: '现金流动负债比率'
+                            },
+                            splitLine: {
+                                show: false
+                            }
+                        },
+                        yAxis: {
+                            type: 'value',
+                            name: '%',
+                            splitArea: {
+                                show: true
+                            }
+                        },
+                        series: [
+                            {
+                                name: 'boxplot',
+                                type: 'boxplot',
+                                data: datas3.boxData,
+                                tooltip: {
+                                    formatter: function (param) {
+                                        return [
+                                            param.name + ': ',
+                                            'upper: ' + param.data[5],
+                                            'Q3: ' + param.data[4],
+                                            'median: ' + param.data[3],
+                                            'Q1: ' + param.data[2],
+                                            'lower: ' + param.data[1]
+                                        ].join('<br/>')
+                                    }
+                                }/* ,
+                                markPoint:{name: "current", value: 560,symbol:'star'} */
+                            },
+                            
+                            {
+                                name: '企业指标所处位置',
+                                type: 'scatter',
+                                symbolSize:15,                          
+                                data: datas3.outliers,
+                                label: {
+                                    show: true,
+                                    formatter: "{@[2]}",
+                                    position: 'right',
+                                },
+                            }
+                        ]
+                    };
+                option4 = {
+                        tooltip: {
+                            trigger: 'item',
+                            axisPointer: {
+                                type: 'shadow'
+                            }
+                        },
+                        grid: {
+                            left: '10%',
+                            right: '10%',
+                            bottom: '15%'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: ['成本费用利润率'],
+                            boundaryGap: true,
+                            nameGap: 30,
+                            splitArea: {
+                                show: false
+                            },
+                            axisLabel: {
+                                //formatter: '{value}%'
+                            },
+                            splitLine: {
+                                show: false
+                            }
+                        },
+                        yAxis: {
+                            type: 'value',
+                            name: '%',
+                            splitArea: {
+                                show: true
+                            }
+                        },
+                        series: [
+                            {
+                                name: 'boxplot',
+                                type: 'boxplot',
+                                data: datas4.boxData,
+                                tooltip: {
+                                    formatter: function (param) {
+                                        return [
+                                             param.name + ': ',
+                                            'upper: ' + param.data[5],
+                                            'Q3: ' + param.data[4],
+                                            'median: ' + param.data[3],
+                                            'Q1: ' + param.data[2],
+                                            'lower: ' + param.data[1]
+                                        ].join('<br/>')
+                                    }
+                                }/* ,
+                                markPoint:{name: "current", value: 560,symbol:'star'} */
+                            },
+                            
+                            {
+                                name: '企业指标所处位置',
+                                type: 'scatter',
+                                symbolSize:15,              
+                                data: datas4.outliers,
+                                label: {
+                                    show: true,
+                                    formatter: "{@[2]}",
+                                    position: 'right',
+                                },
+                            }
+                        ]
+                    };
+                
+                
+                option5 = {
+                        tooltip: {
+                            trigger: 'item',
+                            axisPointer: {
+                                type: 'shadow'
+                            }
+                        },
+                        grid: {
+                            left: '14%',
+                            right: '10%',
+                            bottom: '15%'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: ['所有者权益合计'],
+                            boundaryGap: true,
+                            nameGap: 30,
+                            splitArea: {
+                                show: false
+                            },
+                            axisLabel: {
+                                //formatter: '所有者权益合计'
+                            },
+                            splitLine: {
+                                show: false
+                            }
+                        },
+                        yAxis: {
+                            type: 'value',
+                            name: '万元',
+                            splitArea: {
+                                show: true
+                            }
+                        },
+                        series: [
+                            {
+                                name: 'boxplot',
+                                type: 'boxplot',
+                                data: datas5.boxData,
+                                tooltip: {
+                                    formatter: function (param) {
+                                        return [
+                                             param.name + ': ',
+                                            'upper: ' + param.data[5],
+                                            'Q3: ' + param.data[4],
+                                            'median: ' + param.data[3],
+                                            'Q1: ' + param.data[2],
+                                            'lower: ' + param.data[1]
+                                        ].join('<br/>')
+                                    }
+                                }/* ,
+                                markPoint:{name: "current", value: 560,symbol:'star'} */
+                            },                          
+                            {
+                                
+                                name:
+                                 (function (){                                  
+                                    var names="";
+                                    if(datas5.outliers>datas5.boxData[3])
+                                          //names= '企业指标高于行业平均水平';
+                                        names = "企业指标高于行业平均水平";
+                                    else
+                                        names = '企业指标低于行业平均水平';
+                                    return names;
+                                    })(),
+                                data:datas5.outliers,           
+                                type: 'scatter',
+                                symbolSize:15,
+                                label: {
+                                    show: true,                        
+                                    position: 'right',
+                                }
+                            }
+                        ]
+                    };
+                // 使用刚指定的配置项和数据显示图表。
+                    myChart.setOption(option);
+                    interest.setOption(option1);
+                    turn.setOption(option2);
+                    rate.setOption(option3);
+                    cost.setOption(option4);
+                    owner.setOption(option5);
 
-	        }    
-	 
-	 });
+            }    
+     
+     });
 });
 
 
@@ -781,31 +771,31 @@ option = {
  */
  
 $(document).ready(function() {
- 	$('#upload').click(function() {
- 		uploadFile();   
- 	});
+    $('#upload').click(function() {
+        uploadFile();   
+    });
  }); 
  
-function uploadFile(){	
+function uploadFile(){  
         var files = $('#uploadfile').prop('files');
         
         if(files[0]==undefined){
-        	layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('数据不能为空，请上传数据！')
-    		});	 
-        	return false;
+            layui.use(['layer', 'form'], function(){
+                //提示层
+                layer.msg('数据不能为空，请上传数据！')
+            });  
+            return false;
         }
         var fileName = files[0]["name"]
         var index = fileName.lastIndexOf('.')
         var ext = fileName.substring(index)
         if(ext != '.csv'){ 
-        	layui.use(['layer', 'form'], function(){
-    			//提示层
-    			layer.msg('上传文件必须为csv文件，请重新上传！')
-    		});	 
-        	cleanInput()
-        	return false;
+            layui.use(['layer', 'form'], function(){
+                //提示层
+                layer.msg('上传文件必须为csv文件，请重新上传！')
+            });  
+            cleanInput()
+            return false;
         } 
         var data = new FormData();
         data.append('csv_file', files[0]);
@@ -817,51 +807,51 @@ function uploadFile(){
             processData: false,
             contentType: false,
             error:function(request){//请求失败之后的操作
-	            return;
-	        },
-	        beforeSend:function(XMLHttpRequest){
-	        	$("#msg").empty(); //加载前先清空结果信息
-	        	$("#grade").empty(); //加载前先清空结果信息
-	        	$("#interest").empty(); //加载前先清空结果信息
-	        	$("#turn").empty(); //加载前先清空结果信息
-	        	$("#rate").empty(); //加载前先清空结果信息
-	        	$("#cost").empty(); //加载前先清空结果信息
-	        	$("#owner").empty(); //加载前先清空结果信息 
-	        	$("#debt").empty(); //加载前先清空结果信息 
-	        	 layui.use(['layer', 'form'], function(){
-	        		 index = layer.load(1, {shade: 0.06});
-	         });
-	        },  
+                return;
+            },
+            beforeSend:function(XMLHttpRequest){
+                $("#msg").empty(); //加载前先清空结果信息
+                $("#grade").empty(); //加载前先清空结果信息
+                $("#interest").empty(); //加载前先清空结果信息
+                $("#turn").empty(); //加载前先清空结果信息
+                $("#rate").empty(); //加载前先清空结果信息
+                $("#cost").empty(); //加载前先清空结果信息
+                $("#owner").empty(); //加载前先清空结果信息 
+                $("#debt").empty(); //加载前先清空结果信息 
+                 layui.use(['layer', 'form'], function(){
+                     index = layer.load(1, {shade: 0.06});
+             });
+            },  
             success: function (data) {          
                //成功接收后台返回数据进行其他处理操作
              
-			 	cleanInput()
-	           layui.use(['layer', 'form'], function(){
-                		var layer = layui.layer
-                		layer.close(index);
+                cleanInput()
+               layui.use(['layer', 'form'], function(){
+                        var layer = layui.layer
+                        layer.close(index);
                 //调用close方法,关闭全局变量index对应的加载效果
                 });
-	           document.getElementById("resultsView").style.display="block";//显示结果
-	        	layui.use(['rate'], function(){
-	        		  var rate = layui.rate;
-	        		  //只读
-	        		  rate.render({
-	        		    elem: '#grade'
-	        		    ,value: data
-	        		    ,readonly: true
-	        		    ,theme: '#009688'
-	        		  });
-	        	});
-	           $("#msg").html("您预测企业的综合信用等级为:"+data+"星级.");
+               document.getElementById("resultsView").style.display="block";//显示结果
+                layui.use(['rate'], function(){
+                      var rate = layui.rate;
+                      //只读
+                      rate.render({
+                        elem: '#grade'
+                        ,value: data
+                        ,readonly: true
+                        ,theme: '#009688'
+                      });
+                });
+               $("#msg").html("您预测企业的综合信用等级为:"+data+"星级.");
 
             }
         });
-	}	
-	
+    }   
+    
 //清除input-file
 function cleanInput() {
-	 var obj=document.getElementById('uploadfile');
-	  obj.outerHTML=obj.outerHTML;
+     var obj=document.getElementById('uploadfile');
+      obj.outerHTML=obj.outerHTML;
 }
 
 </script>

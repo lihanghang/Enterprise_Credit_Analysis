@@ -214,20 +214,20 @@ public class PredictController extends Controller {
                     output4 = (MWNumericArray) Results[4];
                     output5 = (MWNumericArray) Results[5];
                     int[] res = output5.rowIndex();// 从MWNumericArray对象中读取数据
-                    float[] myList = new float[res.length];
-                    float[] myList1 = new float[res.length];
-                    float[] myList2 = new float[res.length];
-                    float[] myList3 = new float[res.length];
-                    float[] myList4 = new float[res.length];
-                    float[] myList5 = new float[res.length];
+                    double[] myList = new double[res.length];
+                    double[] myList1 = new double[res.length];
+                    double[] myList2 = new double[res.length];
+                    double[] myList3 = new double[res.length];
+                    double[] myList4 = new double[res.length];
+                    double[] myList5 = new double[res.length];
 
                     for (int i = 0; i < res.length; i++) {
-                        myList[i] = output.getFloat(i + 1); // 盈利
-                        myList1[i] = output1.getFloat(i + 1); // 经营
-                        myList2[i] = output2.getFloat(i + 1); // 偿债
-                        myList3[i] = output3.getFloat(i + 1); // 发展
-                        myList4[i] = output4.getFloat(i + 1); // 综合
-                        myList5[i] = output5.getFloat(i + 1); // 年份
+                        myList[i]  = Math.round(output.getFloat(i + 1)*10000)/10000.0; // 盈利
+                        myList1[i] = Math.round(output1.getFloat(i + 1)*10000)/10000.0; // 经营
+                        myList2[i] = Math.round(output2.getFloat(i + 1)*10000)/10000.0; // 偿债
+                        myList3[i] = Math.round(output3.getFloat(i + 1)*10000)/10000.0; // 发展
+                        myList4[i] = Math.round(output4.getFloat(i + 1)*10000)/10000.0; // 综合
+                        myList5[i] = Math.round(output5.getFloat(i + 1)*10000)/10000.0; // 年份
                     }
                     setAttr("r1", myList);
                     setAttr("r2", myList1);
@@ -254,13 +254,13 @@ public class PredictController extends Controller {
                 output4 = (MWNumericArray) Results[3];
                 output5 = (MWNumericArray) Results[4];
                 int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
-                float[] myList1 = new float[res.length], myList2 = new float[res.length], myList3 = new float[res.length], myList4 = new float[res.length], myList5 = new float[res.length];
+                double[] myList1 = new double[res.length], myList2 = new double[res.length], myList3 = new double[res.length], myList4 = new double[res.length], myList5 = new double[res.length];
                 for (int i = 0; i < res.length; i++) {
-                    myList1[i] = output1.getFloat(i + 1); // 区位
-                    myList2[i] = output2.getFloat(i + 1); // 经济
-                    myList3[i] = output3.getFloat(i + 1); // 人口
-                    myList4[i] = output4.getFloat(i + 1); // 市场
-                    myList5[i] = output5.getFloat(i + 1); // 潜力
+                    myList1[i] = Math.round(output1.getFloat(i + 1)*10000)/10000.0; // 区位
+                    myList2[i] = Math.round(output2.getFloat(i + 1)*10000)/10000.0; // 经济
+                    myList3[i] = Math.round(output3.getFloat(i + 1)*10000)/10000.0; // 人口
+                    myList4[i] = Math.round(output4.getFloat(i + 1)*10000)/10000.0; // 市场
+                    myList5[i] = Math.round(output5.getFloat(i + 1)*10000)/10000.0; // 潜力
 
                 }
                 setAttr("zone", myList1);
@@ -301,12 +301,12 @@ public class PredictController extends Controller {
                     output3 = (MWNumericArray) Results[2];
                     output4 = (MWNumericArray) Results[3];
                     int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
-                    float[] myList1 = new float[res.length], myList2 = new float[res.length], myList3 = new float[res.length], myList4 = new float[res.length];
+                    double[] myList1 = new double[res.length], myList2 = new double[res.length], myList3 = new double[res.length], myList4 = new double[res.length];
                     for (int i = 0; i < res.length; i++) {
-                        myList1[i] = output1.getFloat(i + 1); // 同步
-                        myList2[i] = output2.getFloat(i + 1); // 领先
-                        myList3[i] = output3.getFloat(i + 1); // 滞后
-                        myList4[i] = output4.getFloat(i + 1); // HPY
+                        myList1[i] = Math.round(output1.getFloat(i + 1)*10000)/10000.0; // 同步
+                        myList2[i] = Math.round(output2.getFloat(i + 1)*10000)/10000.0; // 领先
+                        myList3[i] = Math.round(output3.getFloat(i + 1)*10000)/10000.0; // 滞后
+                        myList4[i] = Math.round(output4.getFloat(i + 1)*10000)/10000.0; // HPY
 
                     }
                     setAttr("tb", myList1);
@@ -346,11 +346,11 @@ public class PredictController extends Controller {
                     output2 = (MWNumericArray) Results[1];
                     output3 = (MWNumericArray) Results[2];
                     int[] res = output1.rowIndex();// 从MWNumericArray对象中读取数据
-                    float[] myList1 = new float[res.length], myList2 = new float[res.length], myList3 = new float[res.length];
+                    double[] myList1 = new double[res.length], myList2 = new double[res.length], myList3 = new double[res.length];
                     for (int i = 0; i < res.length; i++) {
-                        myList1[i] = output1.getFloat(i + 1); // 同步
-                        myList2[i] = output2.getFloat(i + 1); // 领先
-                        myList3[i] = output3.getFloat(i + 1); // 滞后
+                        myList1[i] = Math.round(output1.getFloat(i + 1)*10000)/10000.0; // 同步
+                        myList2[i] = Math.round(output2.getFloat(i + 1)*10000)/10000.0; // 领先
+                        myList3[i] = Math.round(output3.getFloat(i + 1)*10000)/10000.0; // 滞后
 
                     }
                     setAttr("tb", myList1);
@@ -418,11 +418,11 @@ public class PredictController extends Controller {
                     MWNumericArray outputMax = null;
                     outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
                     outputMax = (MWNumericArray) Results[1];
-                    float min = outputMin.getFloat(1);
-                    float max = outputMax.getFloat(1);
-                    System.out.println(min + "……………………" + max);
+                    double min = Math.round(outputMin.getFloat(1)*10000)/10000.0;
+                    double max = Math.round(outputMax.getFloat(1)*10000)/10000.0;
+                    // System.out.println(min + "……………………" + max);
 
-                    // 加载LSTM训练模型，根据行业加载各自模型 20181018
+                    // 加载LSTM训练模型，根据行业加载各自模型 20181018 ((pred * (max - min) + min)*10000)/10000.0)
                     SavedModelBundle SB = null;
                     if (industry == 0)
                         SB = SavedModelBundle.load(modelPathPrex
@@ -594,8 +594,8 @@ public class PredictController extends Controller {
                             s.copyTo(t);
                             for (float pred : t[4]) {
                                 // 必须经过转化后才可得到真实预测值
-                                predValue = pred * (max - min) + min;
-                                queue.remove();// 队首元素出队
+                                predValue = Math.round(((pred * (max - min) + min)*10000)/10000.0);
+                                queue.remove(); // 队首元素出队
                                 queue.add(pred);
                             }
                         }
@@ -757,8 +757,8 @@ public class PredictController extends Controller {
                             float[][] t = new float[25][1];
                             s.copyTo(t);
                             for (float pred : t[4]) {
-                                // 必须经过转化后才可得到真实预测值
-                                predValue = pred * (max - min) + min;
+                                // 必须经过转化后才可得到真实预测值 
+                                predValue = Math.round(((pred * (max - min) + min)*10000)/10000.0);
                                 queue.remove();// 队首元素出队
                                 queue.add(pred);
                             }
@@ -809,10 +809,10 @@ public class PredictController extends Controller {
                         time, 1 }, MWClassID.DOUBLE, MWComplexity.REAL);
 
                 // save result val
-                Deque<Float> predQueL = new ArrayDeque<Float>();
-                Deque<Float> predQueT = new ArrayDeque<Float>();
-                Deque<Float> predQueZ = new ArrayDeque<Float>();
-                Deque<Float> predQueH = new ArrayDeque<Float>();
+                Deque<Double> predQueL = new ArrayDeque<Double>();
+                Deque<Double> predQueT = new ArrayDeque<Double>();
+                Deque<Double> predQueZ = new ArrayDeque<Double>();
+                Deque<Double> predQueH = new ArrayDeque<Double>();
                 for (int p = 0; p < 4; p++) {
                     MinMax minMaxs = new MinMax();
                     Object[] Result = null;
@@ -946,7 +946,7 @@ public class PredictController extends Controller {
                         }
                     }
 
-                    float predValue = 0.0f;
+                    double predValue = 0.0;
                     // 根据预测年数进行循环
                     for (int i = 1; i <= time; i++) {
                         int n = 0;
@@ -965,7 +965,7 @@ public class PredictController extends Controller {
                             s.copyTo(t);
                             for (float pred : t[4]) {
                                 // 必须经过转化后才可得到真实预测值
-                                predValue = pred * (max - min) + min;
+                                predValue = Math.round(((pred * (max - min) + min)*10000)/10000.0);
                                 queue.remove();// 队首元素出队
                                 queue.add(pred);
                             }
@@ -993,12 +993,12 @@ public class PredictController extends Controller {
                     ColdHot cHot = new ColdHot();
                     // 得到偏冷、偏热线、上下限
                     Results = cHot.hydtColdHot(4, inputIndex, predIn);
-                    float[] rest = new float[4];
+                    double[] rest = new double[4];
                     for (int q = 0; q < 4; q++) {
                         // 一种容易得到矩阵返回一维数据的取值方式
                         MWNumericArray vals = (MWNumericArray) Results[q];
-                        float a = vals.getFloat();
-                        rest[q] = a;
+                        double a = vals.getFloat();
+                        rest[q] = Math.round(a*10000)/10000.0;
                     }
                     setAttr("res", rest);
                     renderJson(new String[] { "leadIndex", "tbIndex",
@@ -1024,9 +1024,9 @@ public class PredictController extends Controller {
                     + "hydt/JingQiIndex/info_JingQi_diffusion_finall_Index.txt"; // 信息技术服务业市场扩散指数最终指标
 
                 // save result val
-                Deque<Float> predQueL = new ArrayDeque<Float>();
-                Deque<Float> predQueT = new ArrayDeque<Float>();
-                Deque<Float> predQueZ = new ArrayDeque<Float>();
+                Deque<Double> predQueL = new ArrayDeque<Double>();
+                Deque<Double> predQueT = new ArrayDeque<Double>();
+                Deque<Double> predQueZ = new ArrayDeque<Double>();
                 for (int p = 0; p < 3; p++) {
                     MinMax minMaxs = new MinMax();
                     Object[] Result = null;
@@ -1035,8 +1035,8 @@ public class PredictController extends Controller {
                     MWNumericArray outputMax = null;
                     outputMin = (MWNumericArray) Results[0]; // 将结果object转换成MWNumericArray
                     outputMax = (MWNumericArray) Results[1];
-                    float min = outputMin.getFloat(1);
-                    float max = outputMax.getFloat(1);
+                    double min = Math.round(outputMin.getFloat(1)*10000)/10000.0;
+                    double max = Math.round(outputMax.getFloat(1)*10000)/10000.0;
                     System.out.println(min + "*****" + max);
                     // 加载LSTM训练模型
                     SavedModelBundle SB = null;
@@ -1133,7 +1133,7 @@ public class PredictController extends Controller {
                         }
                     }
 
-                    float predValue = 0.0f;
+                    double predValue = 0.0f;
                     // 根据预测年数进行循环
                     for (int i = 1; i <= time; i++) {
                         int n = 0;
@@ -1161,17 +1161,17 @@ public class PredictController extends Controller {
                             s.copyTo(t);
                             for (float pred : t[4]) {
                                 // 必须经过转化后才可得到真实预测值
-                                predValue = pred * (max - min) + min;
+                                predValue = Math.round((pred * (max - min) + min)*10000)/10000.0;
                                 queue.remove();// 队首元素出队
                                 queue.add(pred);
                             }
                         }
                         if (p == 0)
-                            predQueL.add(predValue);
+                            predQueL.add(Math.round(predValue*10000)/10000.0);
                         if (p == 1)
-                            predQueT.add(predValue);
+                            predQueT.add(Math.round(predValue*10000)/10000.0);
                         if (p == 2)
-                            predQueZ.add(predValue);
+                            predQueZ.add(Math.round(predValue*10000)/10000.0);
 
                     }
                 }
