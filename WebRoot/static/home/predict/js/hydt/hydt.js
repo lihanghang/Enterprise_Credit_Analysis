@@ -96,14 +96,15 @@ function maths(data) {
 
 var pie3;
 function hyZonghe(type) {
-
+	console.log(type)
 	if (pie3 != null && pie3 != "" && pie3 != undefined) {
 		pie3.dispose();
 	}
-	pie3 = echarts.init(document.getElementById("pie3_" + type));
-	/*
-	 * pie3.showLoading({ text: "图表数据正在努力加载..." });
-	 */
+	var width =  1058;
+	var height = 400;
+	//console.log(width+" "+height)
+	$("#pie3_"+type).css("width", width).css("height", height);
+	pie3 = echarts.init(document.getElementById('pie3_'+type));
 	option3 = {
 		title : {
 			text : '财务分析(综合)',
@@ -143,15 +144,7 @@ function hyZonghe(type) {
 					show : true, // 是否显示该工具。
 				    title:"数据视图",
 				    readOnly: true, //是否不可编辑（只读）
-				// lang: ['数据视图', '关闭', '刷新'], //数据视图上有三个话术，默认是['数据视图', '关闭',
-				// '刷新']
-				// backgroundColor:"#fff", //数据视图浮层背景色。
-				// textareaColor:"#fff", //数据视图浮层文本输入区背景色
-				// textareaBorderColor:"#333", //数据视图浮层文本输入区边框颜色
-				// textColor:"#000", //文本颜色。
-				// buttonColor:"#c23531", //按钮颜色。
-				// buttonTextColor:"#fff", //按钮文本颜色。
-				}
+				    }
 			}
 
 		},
@@ -390,7 +383,7 @@ function hyZonghe(type) {
 							+ '<br>'
 							+ "【增长潜力】从2000年开始呈不断增长态势,2010年起呈平缓趋势。"
 					} else {
-						element.innerHTML = "2001-2016年，信心技术服务业财务分析如下："
+						element.innerHTML = "2001-2016年，信息技术服务业财务分析如下："
 							+ '<br>'
 							+ "【偿债能力】整体呈周期性波动，从2013年呈小幅下降趋势；"
 							+ '<br>'
@@ -429,7 +422,6 @@ function hyZonghe(type) {
 					pie3.hideLoading();
 				}
 			});
-
 	pie3.setOption(option3);
 };
 
@@ -1390,9 +1382,15 @@ $(document).ready(
 									}
 								}
 							},
+							   grid:{								                   
+								         y:65,								                
+								         //y2:20,
+								                   
+								      },								
 							toolbox : {
 								show: true,
 								right: '5%',
+								top: '-2%',
 								feature : {
 									restore : {
 										show : true, // 是否显示该工具。
@@ -1666,10 +1664,15 @@ $(document).ready(
 										color : '#000'
 									}
 								}
-							},
+							}, grid:{								                   
+								         y:65,								                
+								         //y2:20,
+								                   
+								      },	
 							toolbox : {
 								show: true,
 								right: '5%',
+								top: '-1%',
 								feature : {
 									restore : {
 										show : true, // 是否显示该工具。
@@ -2548,10 +2551,10 @@ function kuosan(type) {
 var Risk;
 // 房地产风险预警
 function yujing(type) {
+	if (Risk!= null && Risk != "" && Risk != undefined) {
+		Risk.dispose();
+	}
 	Risk = echarts.init(document.getElementById("Risk_" + type));
-	/*
-	 * pie3.showLoading({ text: "图表数据正在努力加载..." });
-	 */
 	if (type == '0') {
 		var industry = "[房地产]"
 	} else if (type == '1') {

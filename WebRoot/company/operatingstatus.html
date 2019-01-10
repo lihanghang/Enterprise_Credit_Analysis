@@ -1,106 +1,73 @@
 #@menu() #define main_info()
 <link rel="stylesheet"
-	href="../static/home/operatingstatus/Shuidi_Detail_OperatingStatus.css"
+	href="#(ctx_path)/static/home/operatingstatus/Shuidi_Detail_OperatingStatus.css"
 	type="text/css">
 <div class="container company-more">
 	<div class="container-left" style="width: 1178px">
 		<div class="panel operate-info">
 
-			<!--行政许可-->
+			<!--公司税务-->
 			<div class="license">
 				<div class="panel-head title-lg" id="licenseInfo"
 					data-company-no="16075739037152561999330634260113">
 					<div class="icon-title">
-						<i class="icon icon-bang-lg bg-success"></i>行政许可
+						<i class="icon icon-bang-lg bg-success"></i>公司税务
 					</div>
-					<p class="get-new-p ">
+					<!-- <p class="get-new-p ">
 						更新时间<span class="license-update-date update-date-time">2018-03-19</span>
 					</p>
-					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a>
+					<a href="javascript:;" class="license-get-new get-new-a">获取最新</a> -->
 				</div>
-				<div class="panel-body license-info">
-					<!--                                            正常显示-->
-					<div class="no-data-style license-no-data hide">
-						<p>
-							企业招投标信息，请<a href="javascript:;">点击查看</a>
-						</p>
-					</div>
-					<div class="license-cont-in ">
-						<table class="table9">
-							<tbody>
-								<tr class="bg-silver">
-									<td class="license-code">序号</td>
-									<td class="license-cont">项目名称</td>
-									<td class="license-date">许可截止期</td>
-									<td class="license-result">许可内容</td>
-									<td class="license-more"></td>
-								</tr>
-							</tbody>
-						</table>
-						<table class="table9 license-content">
-							<tbody>
-								<tr data-model="">
-									<td class="license-code">{0}</td>
-									<td class="license-cont">{1}</td>
-									<td class="license-date">{2}</td>
-									<td class="license-result">{3}</td>
-									<td class="license-more">{4}</td>
-								</tr>
-								<tr>
-									<td class="license-code">1</td>
-									<td class="license-cont">建筑业企业资质</td>
-									<td class="license-date">2020-12-24</td>
-									<td class="license-result">建筑工程施工总承包叁级</td>
-									<td class="license-more"><a href="javascript:;"
-										class="license-get-detail" data-detail-id="407975"
-										data-detail-nid="1">查看更多</a></td>
-								</tr>
-								<tr>
-									<td class="license-code">2</td>
-									<td class="license-cont">增值税专用发票（增值税税控系统）最高开票限额审批</td>
-									<td class="license-date">2099-12-31</td>
-									<td class="license-result">根据《中华人民共和国行政许可法》第三十八条第一款的规定，决定准予你（单位）取得增值税专用发票（中文三联无金额限制版）十万元的最高开票限额</td>
-									<td class="license-more"><a href="javascript:;"
-										class="license-get-detail" data-detail-id="407976"
-										data-detail-nid="2">查看更多</a></td>
-								</tr>
-								<tr>
-									<td class="license-code">3</td>
-									<td class="license-cont">增值税专用发票(增值税税控系统)最高开票限额审批</td>
-									<td class="license-date">2099-12-31</td>
-									<td class="license-result">根据《中华人民共和国行政许可法》第三十八条第一款的规定,决定准予你(单位)取得增值税专用发票(中文三联无金额限制版)十万元的最高开票限额</td>
-									<td class="license-more"><a href="javascript:;"
-										class="license-get-detail" data-detail-id="407977"
-										data-detail-nid="3">查看更多</a></td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-					<!--                                分页-->
-					<div class="page" id="licensePage"
-						data-config="{npage:1, spage:2, total:5, ajax:&#39;/company/operate-cabe75387416bdce9fc2af48000527b1.html?action=page_license&#39;}">
-						<a class="page-item" data-page="0" href="javascript:void(0)">&lt;</a><a
-							class="page-item active" data-page="1" href="javascript:void(0)">1</a><a
-							class="page-item" data-page="2" href="javascript:void(0)">2</a><a
-							class="page-item" data-page="2" href="javascript:void(0)">&gt;</a>
-					</div>
-
-				</div>
+                        <div class="panel-body manager-info">
+                <table>
+                    <tbody>
+                        <tr>
+                            <th>国税机关：</th>
+                            <td class="col-2"></td>
+                            <th>地税机关：</th>
+                            <td></td>
+                        </tr>               
+                        <tr>
+                            <th>统一社会信用代码：</th>
+                            <td class="col-2"></td>
+                            <th>纳税信用A级企业：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>欠税信息：</th>
+                            <td class="col-2"></td>
+                            <th>有其它信息：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>有主要税种及税率：</th>
+                            <td class="col-2"></td>
+                            <th>有上年度缴税额：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>有上年末应交额：</th>
+                            <td class="col-5" colspan="3"></td>
+                           <!--  <th>企业地址：</th>
+                            <td></td> -->
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 			</div>
 
-
 			<!--融资情况-->
-			<div class="panel-head title-lg" id="rongziInfo">
+            <!-- <div class="panel-head title-lg" id="rongziInfo">
 				<i class="icon icon-bang-lg bg-success"></i>融资情况
 			</div>
 			<div class="panel-body rongzi-info">
-				<!--无数据提示-->
+				无数据提示
 				<span class="text-silver">暂无数据</span>
-			</div>
+			</div> -->
 
 
 			<!--债权债务-->
-			<div class="panel-head title-lg" id="debtInfo">
+			<!--  <div class="panel-head title-lg" id="debtInfo">
 				<i class="icon icon-bang-lg bg-success"></i>债权债务
 			</div>
 			<div class="panel-body debt-info">
@@ -127,61 +94,61 @@
 						</li>
 					</ul>
 
-					<!--                                分页-->
+					
 					<div class="page" id="debtinfoPage"
 						data-config="{npage:1, spage:0, total:0, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_debt&#39;}"></div>
 				</div>
-			</div>
+			</div> -->
 
 
-			<!--纳税信息-->
-			<div class="panel-head title-lg" id="nashuiInfo">
-				<i class="icon icon-bang-lg bg-success"></i>纳税信息
+			<!--负债偿还-->
+			<div class="panel-head title-lg" id="debtInfo">
+				<i class="icon icon-bang-lg bg-success"></i>负债偿还
 			</div>
-			<div class="panel-body nashui-info">
-				<!--                                            正常显示-->
-				<div class="tax-info-title">
-					<ul>
-						<li>
-							<div class="tax-info-year">评价年度</div>
-							<div class="tax-info-id">纳税人识别号</div>
-							<div class="tax-info-level">纳税信用等级</div>
-							<div class="tax-info-company">评价单位</div>
-							<div class="tax-info-province">所在省份</div>
-						</li>
-					</ul>
-				</div>
-				<div class="tax-info-item">
-					<ul>
-						<li data-model="">
-							<div class="tax-info-year">{0}</div>
-							<div class="tax-info-id">{1}</div>
-							<div class="tax-info-level">{2}</div>
-							<div class="tax-info-company">{3}</div>
-							<div class="tax-info-province">{4}</div>
-						</li>
-						<li>
-							<div class="tax-info-year not-found">内容尚未查见</div>
-							<div class="tax-info-id not-found">内容尚未查见</div>
-							<div class="tax-info-level not-found">内容尚未查见</div>
-							<div class="tax-info-company not-found">内容尚未查见</div>
-							<div class="tax-info-province not-found">内容尚未查见</div>
-						</li>
-					</ul>
-
-					<!--                                分页-->
-					<div class="page" id="taxinfoPage"
-						data-config="{npage:1, spage:0, total:0, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_tax_info&#39;}"></div>
-				</div>
-			</div>
+            <div class="panel-body manager-info">
+                <table>
+                    <tbody>
+                        <tr>
+                            <th>采购业务或接受业务：</th>
+                            <td class="col-2"></td>
+                            <th>供应商类型：</th>
+                            <td></td>
+                        </tr>               
+                        <tr>
+                            <th>交易地位：</th>
+                            <td class="col-2"></td>
+                            <th>议价能力：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>延期支付：</th>
+                            <td class="col-2"></td>
+                            <th>上年度发生额：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>上年度支付额：</th>
+                            <td class="col-2"></td>
+                            <th>上年度应付账款变动额：</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>上年末应付账款余额：</th>
+                            <td class="col-5" colspan="3"></td>
+                            <!-- <th>企业地址：</th>
+                            <td></td> -->
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 
 
 			<!--对外投资-->
-			<div class="panel-head title-lg" id="outinvestInfo">
+<!-- 			<div class="panel-head title-lg" id="outinvestInfo">
 				<i class="icon icon-bang-lg bg-success"></i>对外投资
 			</div>
 			<div class="panel-body outinvest-info">
-				<!--                                            正常显示-->
+				                                           正常显示
 				<div class="list">
 					<div class="item border bg-silver" data-model="">
 						<a href="#">{0}</a>
@@ -192,22 +159,22 @@
 				</div>
 				<div class="page" id="investPage"
 					data-config="{npage:1, spage:1, total:1, ajax:&#39;/companymore-cabe75387416bdce9fc2af48000527b1.html?action=page_invests&#39;}"></div>
-			</div>
+			</div> -->
 
 
 			<!--税务违法事件-->
-			<div class="panel-head title-lg" id="taxIllegalInfo">
+			<!-- <div class="panel-head title-lg" id="taxIllegalInfo">
 				<i class="icon icon-bang-lg bg-success"></i>税务违法事件
 			</div>
 			<div class="panel-body tax-illegal-info">
-				<!--                                            正常显示-->
-				<!--无数据提示-->
+				                                           正常显示
+				无数据提示
 				<span class="text-silver">暂无数据</span>
-			</div>
+			</div> -->
 
 
 			<!--招投标信息-->
-			<div class="tender">
+<!-- 			<div class="tender">
 				<div class="panel-head title-lg" id="tenderInfo"
 					data-company-no="16075739037152561999330634260113">
 					<div class="icon-title">
@@ -219,7 +186,7 @@
 					<a href="javascript:;" class="tender-get-new get-new-a">获取最新</a>
 				</div>
 				<div class="panel-body tender-info">
-					<!--                                            正常显示-->
+					                                           正常显示
 					<div class="tender-cont-in" style="display: none;">
 						<table class="table9">
 							<tbody>
@@ -250,7 +217,7 @@
 							企业招投标信息，请<a href="javascript:;">点击查看</a>
 						</p>
 					</div>
-					<!--                                分页-->
+					                               分页
 					<div class="page" id="tenderPage" data-config=""></div>
 					<form class="tender-form"
 						action="http://shuidi.cn/moreoperatingstatus-cabe75387416bdce9fc2af48000527b1.html"
@@ -262,12 +229,12 @@
 					</form>
 
 				</div>
-			</div>
+			</div> -->
 
 
 
 			<!--部门监管-->
-			<div class="panel-head title-lg" id="jianguanInfo">
+<!-- 			<div class="panel-head title-lg" id="jianguanInfo">
 				<i class="icon icon-bang-lg bg-success"></i>部门监管
 			</div>
 			<div class="panel-body jianguan-info">
@@ -296,16 +263,16 @@
 						href="javascript:void(0)" class="item">农业部门</a>
 				</div>
 			</div>
-
+ -->
 
 			<!--媒体最新报道-->
-			<div class="panel-head title-lg" id="baodaoInfo">
+			<!-- <div class="panel-head title-lg" id="baodaoInfo">
 				<i class="icon icon-bang-lg bg-success"></i>媒体最新报道
 			</div>
 			<div class="panel-body news-info">
-				<!--无数据提示-->
+				无数据提示
 				<span class="text-silver">暂无数据</span>
-			</div>
+			</div> -->
 
 
 		</div>

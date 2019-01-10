@@ -16,7 +16,7 @@
 						<b>贷后预警监控企业</b>
 					</div>
 					<div class="or_left_silde" id="searchCondition"
-						style="height: 600px">
+						style="height: 700px">
 						<div class="demoTable">
 							<div class="layui-inline">
 								<input name="id" class="layui-input" id="keyword"
@@ -83,7 +83,9 @@ layui.use('table', function(){
       ,{field:'lock', title:'是否监测', width:200, align:'center',templet: '#checkboxTpl', unresize: true}
       ,{fixed: 'right', title:'操作',width:178, align:'center', toolbar: '#barDemo'}
     ]]
-    ,page: true
+    ,page:{ 
+        layout: ['count', 'prev', 'page', 'next', 'limit']
+   }
     ,height: 500
   });
   

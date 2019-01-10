@@ -123,7 +123,9 @@
 					title : '变更后',
 					minWidth : 100
 				} ] ],
-				page : true
+				page:{ 
+                    layout: ['count', 'prev', 'page', 'next', 'limit']
+               }
 			});
 
 			table.render({
@@ -156,7 +158,9 @@
 					title : '案件号',
 					minWidth : 150
 				} ] ],
-				page : true
+				page:{ 
+				     layout: ['count', 'prev', 'page', 'next', 'limit']
+				}
 			});
 
 			table.render({
@@ -202,7 +206,9 @@
 									title : '其他成本(万元)',
 									minWidth : 150
 								}  */] ],
-				page : true
+								page:{ 
+				                     layout: ['count', 'prev', 'page', 'next', 'limit']
+				                }
 			});
 		});
 
@@ -218,6 +224,7 @@
 				var res = [] //save model pred res
 				$.each(data, function(i, result) {
 					var news = result['content']
+					console.log(news)
 					var row = $("#template").clone();
 			        row.find("#id").text(i+1);
 			        row.find("#date").text(result['publish_date']);
@@ -230,11 +237,11 @@
 						'type' : "GET",
 						'url' : "../getSentimentRes",//请求后台方法并接受模型返回数据
 						'data' : {
-							text : news
-						},
-						"dataType" : "json",
-						"contentType" : "application/json", // json格式
-						success : function(data) {								
+		                    text : news
+		                },
+		                dataType: "json",
+						success : function(data) {		
+							console.log(data)
 							row.find("#pred").text(data);
 							 $("#datas tr td:nth-child(5)").each(function() {
 							    	console.log($(this).text())

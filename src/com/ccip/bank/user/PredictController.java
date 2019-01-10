@@ -1655,6 +1655,7 @@ public class PredictController extends Controller {
     public void getSentimentRes() throws Exception {
         // 接收处理文本
         String texts = getPara("text");
+        System.out.println(texts);
         String data = texts.replaceAll("\\pP|\\pS|\\s*", "");
         // 防止URL编码问题
         String dataEncode = URLEncoder. encode(data, "utf-8" );
