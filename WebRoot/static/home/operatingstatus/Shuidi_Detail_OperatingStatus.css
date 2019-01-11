@@ -1697,7 +1697,7 @@ a.bt-ed:hover, a.bt-ed:active {
 }
 
 .detail-top {
-	height: 200px;
+	height: 100px;
 	background-color: #0076e4;
 	color: white;
 	font-size: 14px
@@ -1708,14 +1708,15 @@ a.bt-ed:hover, a.bt-ed:active {
 }
 
 .detail-top .container {
-	padding-top: 50px;
-	position: relative
+	padding-top: 30px;
+	
 }
 
 .detail-top h1 {
 	font-size: 32px;
 	font-weight: bold;
-	line-height: 34px
+	line-height: 34px;
+	text-align: center;
 }
 
 .detail-top .score-info {
@@ -1781,8 +1782,9 @@ a.bt-ed:hover, a.bt-ed:active {
 }
 
 .detail-top .desc {
-	font-size: 16px;
-	margin-top: 10px
+	font-size: 14px;
+	margin-top: 10px;
+	
 }
 
 .detail-top .score-info .desc .fir {
@@ -3164,7 +3166,7 @@ a.bt-ed:hover, a.bt-ed:active {
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	display: inline-block;
-	vertical-align: top
+	vertical-align: middle;
 }
 
 .vip-normal .logo-info {
@@ -3603,7 +3605,7 @@ a.bt-ed:hover, a.bt-ed:active {
 }
 
 .list, .list-horizontal {
-	position: relative;
+	
 	font-size: 0
 }
 
@@ -4991,9 +4993,9 @@ a {
 	background-position: center bottom
 }
 
-.neck-more-active .turn-menu:hover .down {
+/* .neck-more-active .turn-menu:hover .down {
 	display: none
-}
+} */
 
 .neck-more-active .turn-menu:hover .up {
 	display: block

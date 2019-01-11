@@ -73,7 +73,7 @@
 		<div class="detail-top" style="background-color: #80bbf2">
 			<div class="container">
 				<h1 id="companyName" title="#(companyData.cname)">#(companyData.cname)</h1>
-				<p class="desc">#(companyData.status)</p>
+				<p class="desc">#(companyData.industry)</p>
 
 
 				<!--认证标签-->
@@ -104,17 +104,9 @@
 			</div>
 		</div>
 	</div>
-	<input type="hidden" id="data_company_name_digest"
-		class="data-companyname-digest"
-		value="cabe75387416bdce9fc2af48000527b1">
-	<input type="hidden" id="data_company_no"
-		value="16075739037152561999330634260113">
-	<input type="hidden" value="credit_report_basic" id="fileKey">
-	<input type="hidden" value="0" id="isValidate">
-	<input type="hidden" value="" id="companyOwner">
 
 	<div class="panel list-horizontal">
-		<div class="neck-top-left item">
+		<div class="neck-top-left item" style="height:0px">
 
 			<!--             <div class="title-lg">你可能感兴趣的相关公司【待实现】
             </div> -->
@@ -132,12 +124,12 @@
 
 	<div class="container">
 		<div class="panel neck-more">
-			<a class="turn-menu" href="javascript:void(0)"> <span class="up">点击收起</span>
+			<!-- <a class="turn-menu" href="javascript:void(0)"> <span class="up">点击收起</span>
 				<span class="down">查看更多</span>
 			</a>
-			<div class="tip-title">
+			<!-- <div class="tip-title">
 				企业主设置不对外展示 <span class="vi"><label></label></span>
-			</div>
+			</div> -->
 			<div class="neck-item"
 				data-href="#(ctx_path)/company/basicInfo/?num=#(companyData.code)&name=#(companyData.cname)">
 				<a href="javascript:void(0)"><div class="title-lg">企业背景</div></a>
