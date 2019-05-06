@@ -184,7 +184,7 @@
 $('#btn').click(function(){
 	
 	//防止用户未填写完整数据提交
-	for(var i=0;i<document.form1.elements.length-1;i++)
+ for(var i=0;i<document.form1.elements.length-1;i++)
     {
      if(document.form1.elements[i].value=="")
      {
@@ -195,8 +195,13 @@ $('#btn').click(function(){
        document.form1.elements[i].focus();
        return false;
      }
+
   // 限制只输入数字
      var reg = /^[0-9]+$/; 
+     if(i==0 || i==9 || i==8){
+	console.log(i)
+      reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/;
+	}	
      if(document.form1.elements[i].value!=""&&!reg.test(document.form1.elements[i].value)){ 
     	 layui.use(['layer', 'form'], function(){
  			//提示层

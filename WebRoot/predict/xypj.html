@@ -186,8 +186,8 @@ $('#btn').click(function(){
        document.form1.elements[i].focus();
        return false;
      } 
-     // 限制只输入数字
-     var reg = /^[0-9]+$/; 
+     // 限制只输入数字和小数
+     var reg = new RegExp("^[0-9]+([.]{1}[0-9]+){0,1}$");
      if(document.form1.elements[i].value!=""&&!reg.test(document.form1.elements[i].value)){ 
          layui.use(['layer', 'form'], function(){
             //提示层

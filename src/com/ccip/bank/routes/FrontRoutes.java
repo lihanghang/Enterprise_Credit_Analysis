@@ -1,8 +1,8 @@
 package com.ccip.bank.routes;
 
-import com.ccip.bank.user.CompanyController;
-import com.ccip.bank.user.IndexController;
-import com.ccip.bank.user.PredictController;
+import com.ccip.bank.company.CompanyController;
+import com.ccip.bank.company.IndexController;
+import com.ccip.bank.company.PredictController;
 import com.jfinal.config.Routes;
 
 /**

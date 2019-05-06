@@ -1,4 +1,4 @@
-package com.ccip.bank.user;
+package com.ccip.bank.company;
 
 import java.util.List;
 import java.util.Map;

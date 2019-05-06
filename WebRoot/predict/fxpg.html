@@ -1072,7 +1072,7 @@
 									return false;
 								}
 								// 限制只输入数字
-							     var reg = /^[0-9]+$/; 
+							     var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/;
 							     if(document.economy_form.elements[i].value!=""&&!reg.test(document.economy_form.elements[i].value)){ 
 							    	 layui.use(['layer', 'form'], function(){
 							 			//提示层
@@ -1317,7 +1317,7 @@
 									return false;
 								}
 								// 限制只输入数字
-							     var reg = /^[0-9]+$/; 
+							      var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/;
 							     if(document.org_form.elements[i].value!=""&&!reg.test(document.org_form.elements[i].value)){ 
 							    	 layui.use(['layer', 'form'], function(){
 							 			//提示层
@@ -2150,7 +2150,7 @@
 					return false;
 				}
 				// 限制只输入数字
-			     var reg = /^[0-9]+$/; 
+			      var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/; 
 			     if(document.liquid_form.elements[i].value!=""&&!reg.test(document.liquid_form.elements[i].value)){ 
 			    	 layui.use(['layer', 'form'], function(){
 			 			//提示层
@@ -2208,7 +2208,7 @@
 									return false;
 								}
 								// 限制只输入数字
-							     var reg = /^[0-9]+$/; 
+							      var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/; 
 							     if(document.funding_form.elements[i].value!=""&&!reg.test(document.funding_form.elements[i].value)){ 
 							    	 layui.use(['layer', 'form'], function(){
 							 			//提示层
@@ -2267,7 +2267,7 @@
 									return false;
 								}
 								// 限制只输入数字
-							     var reg = /^[0-9]+$/; 
+							     var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/;
 							     if(document.discharge_form.elements[i].value!=""&&!reg.test(document.discharge_form.elements[i].value)){ 
 							    	 layui.use(['layer', 'form'], function(){
 							 			//提示层
@@ -2325,7 +2325,7 @@
 					return false;
 				}
 				// 限制只输入数字
-			     var reg = /^[0-9]+$/; 
+			     var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/;
 			     if(document.growth_form.elements[i].value!=""&&!reg.test(document.growth_form.elements[i].value)){ 
 			    	 layui.use(['layer', 'form'], function(){
 			 			//提示层
@@ -2385,7 +2385,7 @@
 									return false;
 								}
 								// 限制只输入数字
-							     var reg = /^[0-9]+$/; 
+							     var reg = /^[0-9]+([.]{1}[0-9]+){0,1}$/; 
 							     if(document.business_forms.elements[i].value!=""&&!reg.test(document.business_forms.elements[i].value)){ 
 							    	 layui.use(['layer', 'form'], function(){
 							 			//提示层

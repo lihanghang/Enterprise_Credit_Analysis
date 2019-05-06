@@ -1,4 +1,4 @@
-package com.ccip.bank.user;
+package com.ccip.bank.company;
 
 import com.ccip.bank.model.User;
 import com.ccip.bank.service.CompanyService;
